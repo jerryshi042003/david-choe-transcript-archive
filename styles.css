@@ -1,0 +1,327 @@
+/* Minimal here means a strict spacing scale and a neutral surface -- not fewer
+   features. Everything below sits on a 4px grid; nothing gets a bespoke margin.
+   The previous version drifted: warm off-white, ad-hoc paddings, and 19 filter
+   chips wrapped over five rows. That reads as unfinished, not restrained. */
+:root {
+  --bg: #fff;
+  --fg: #111;
+  --dim: #767676;
+  --faint: #a3a3a3;
+  --line: #e7e7e7;
+  --hair: #f2f2f2;
+  --mark: #ffe9a8;
+
+  --s1: 4px;  --s2: 8px;  --s3: 12px; --s4: 16px;
+  --s5: 24px; --s6: 32px; --s7: 48px; --s8: 72px;
+
+  --serif: "Iowan Old Style", Charter, Georgia, "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --measure: 34rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d0d0d; --fg: #ededed; --dim: #8f8f8f; --faint: #6b6b6b;
+    --line: #242424; --hair: #1a1a1a; --mark: #4a3f16;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.5 var(--sans);
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 44rem; margin: 0 auto; padding: 0 var(--s5); }
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+.vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.skip { position: absolute; left: -999px; background: var(--bg); padding: var(--s3); z-index: 10; }
+.skip:focus { left: var(--s4); top: var(--s4); }
+
+/* ---------- masthead ---------- */
+.top { border-bottom: 1px solid var(--line); padding: var(--s7) 0 var(--s5); }
+.top h1 { font: 500 20px/1.2 var(--sans); letter-spacing: -.015em; margin: 0; }
+.top h1 a { text-decoration: none; }
+.sub { color: var(--dim); font-size: 12px; margin: var(--s2) 0 0; }
+
+/* Progress: how much of the archive actually exists yet. Added because the
+   archive being 14% transcribed was invisible -- it read as "this is all there
+   is" rather than "this is still filling". */
+.progress { margin: var(--s4) 0 0; }
+.progress .bar { height: 2px; background: var(--hair); display: flex; }
+.progress .bar i { display: block; height: 2px; background: var(--fg); }
+.progress .bar i.part { background: var(--faint); }
+.progress .lbl { color: var(--dim); font-size: 11px; margin: var(--s2) 0 0; }
+
+/* ---------- controls ---------- */
+.search { margin: var(--s5) 0 var(--s4); }
+input[type=search] {
+  width: 100%; padding: var(--s3) var(--s4);
+  font: 15px var(--sans); color: var(--fg);
+  background: var(--bg); border: 1px solid var(--line); border-radius: 6px;
+  -webkit-appearance: none;
+}
+input[type=search]:focus { outline: none; border-color: var(--fg); }
+.hint { color: var(--dim); font-size: 12px; margin: var(--s2) 0 0; }
+
+/* Collections, not one chip per channel name. Four stable groups the archive
+   actually has, so the control stops growing as sources are added. */
+.filters { display: flex; flex-wrap: wrap; gap: var(--s4); margin: 0 0 var(--s4);
+           border-bottom: 1px solid var(--line); }
+.filters button {
+  background: none; border: 0; cursor: pointer; padding: 0 0 var(--s3);
+  font-size: 13px; color: var(--dim);
+  border-bottom: 1px solid transparent; margin-bottom: -1px;
+}
+.filters button[aria-pressed=true] { color: var(--fg); border-bottom-color: var(--fg); }
+.filters button b { font-weight: 400; color: var(--faint); margin-left: var(--s1); font-size: 11px; }
+.count { color: var(--dim); font-size: 12px; margin: 0 0 var(--s4); }
+
+/* ---------- list ---------- */
+.cards { list-style: none; margin: 0; padding: 0 0 var(--s8); }
+.cards li + li { border-top: 1px solid var(--hair); }
+.cards button {
+  display: grid; grid-template-columns: auto 1fr; gap: var(--s4);
+  width: 100%; text-align: left; cursor: pointer; background: none; border: 0;
+  padding: var(--s4) 0; align-items: start;
+}
+.cards button:hover .ct { text-decoration: underline; text-underline-offset: 2px; }
+.thumb { width: 88px; aspect-ratio: 16/9; border-radius: 3px; object-fit: cover;
+         background: var(--hair); display: block; }
+.thumb.ph { display: grid; place-items: center; color: var(--faint);
+            font-size: 10px; letter-spacing: .08em; }
+.ct { display: block; font: 400 15px/1.35 var(--sans); }
+.cm { display: block; color: var(--dim); font-size: 12px; margin-top: var(--s1); }
+.cm .sep { color: var(--faint); margin: 0 var(--s1); }
+
+/* ---------- reader ---------- */
+.back { background: none; border: 0; color: var(--dim); cursor: pointer;
+        font-size: 13px; padding: var(--s5) 0 var(--s3); }
+.rhead { padding-bottom: var(--s4); border-bottom: 1px solid var(--line); }
+.rhead h2 { font: 500 22px/1.25 var(--sans); letter-spacing: -.015em; margin: 0; }
+.meta { color: var(--dim); font-size: 12px; margin: var(--s2) 0 0; }
+.watch { display: inline-block; margin-top: var(--s3); font-size: 13px; }
+.prov { color: var(--faint); font-size: 11px; line-height: 1.5; margin: var(--s4) 0 0; }
+.prov code { font-size: 1em; word-break: break-word; }
+
+.modes { display: flex; gap: var(--s4); margin: var(--s5) 0 var(--s3); }
+.modes button { background: none; border: 0; cursor: pointer; padding: 0;
+                font-size: 13px; color: var(--dim); }
+.modes button[aria-pressed=true] { color: var(--fg); }
+.search.inline { margin: 0 0 var(--s5); }
+
+.transcript { padding: 0 0 var(--s8); font: 15px/1.65 var(--sans); }
+.line { display: flex; gap: var(--s4); padding: var(--s1) 0; scroll-margin-top: var(--s7); }
+.ts { flex: 0 0 3rem; color: var(--faint); text-align: right; text-decoration: none;
+      font-size: 11px; line-height: 1.9; font-variant-numeric: tabular-nums; }
+a.ts:hover { color: var(--fg); }
+.line.hit { background: var(--hair); }
+mark { background: var(--mark); color: inherit; }
+
+.transcript.reader { max-width: var(--measure); font: 17px/1.7 var(--serif); }
+.transcript.reader .line { display: block; padding: 0; margin: 0 0 var(--s5); }
+.transcript.reader .ts { display: none; }
+.transcript.reader .line.hit { background: none; }
+.transcript.reader .cue { color: var(--faint); font-size: .8em; font-style: italic; }
+.transcript.reader h3.chap {
+  font: 500 11px/1.4 var(--sans); letter-spacing: .1em; text-transform: uppercase;
+  color: var(--dim); margin: var(--s8) 0 var(--s4);
+  padding-top: var(--s5); border-top: 1px solid var(--line);
+}
+/* Chapter titles are editorial, so they borrow the editorial register: the same
+   left rule as the notes block, and a quiet tag. Restraint is deliberate -- the
+   point is an honest signal, not an alarm. */
+.transcript.reader h3.chap { border-left: 2px solid var(--line); padding-left: var(--s3); }
+.transcript.reader h3.chap .chaptag { color: var(--faint); margin-right: .6em;
+  font-size: 9px; letter-spacing: .12em; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden;
+      clip: rect(0 0 0 0); white-space: nowrap; }
+
+.transcript.reader h3.chap:first-child { margin-top: var(--s4); padding-top: 0; border-top: 0; }
+
+/* ---------- editorial ---------- */
+.editorial { border-left: 2px solid var(--line); padding: 0 0 0 var(--s4);
+             margin: var(--s5) 0 0; font-size: 13px; line-height: 1.6; }
+.editorial .edlabel { color: var(--faint); font-size: 10px; letter-spacing: .1em;
+                      text-transform: uppercase; margin: 0 0 var(--s3); }
+.editorial h4 { font: 500 11px/1.4 var(--sans); letter-spacing: .06em;
+                text-transform: uppercase; color: var(--dim);
+                margin: var(--s5) 0 var(--s2); }
+.editorial p { margin: 0 0 var(--s3); }
+.editorial ul, .editorial ol.chapters { margin: 0 0 var(--s3); padding-left: var(--s4); }
+.editorial ol.chapters li { margin: 0 0 var(--s1); }
+.editorial ol.chapters a, .editorial ol.chapters span {
+  font-size: 11px; color: var(--faint); font-variant-numeric: tabular-nums;
+  margin-right: var(--s2);
+}
+.editorial .chips { display: flex; flex-wrap: wrap; gap: var(--s2); }
+.editorial .chip { color: var(--dim); font-size: 12px; }
+.editorial .chip::after { content: "·"; color: var(--faint); margin-left: var(--s2); }
+.editorial .chip:last-child::after { content: ""; }
+
+/* ---------- series hub ---------- */
+.hub { padding: var(--s5) 0 var(--s8); }
+.hub h2 { font: 500 20px/1.25 var(--sans); letter-spacing: -.015em; margin: 0 0 var(--s3); }
+.hub .lede { color: var(--dim); font-size: 13px; line-height: 1.6;
+             margin: 0 0 var(--s6); max-width: var(--measure); }
+.hub table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.hub th { text-align: left; font-weight: 400; color: var(--faint); font-size: 11px;
+          letter-spacing: .06em; text-transform: uppercase;
+          padding: 0 var(--s4) var(--s2) 0; border-bottom: 1px solid var(--line); }
+.hub td { padding: var(--s3) var(--s4) var(--s3) 0; border-bottom: 1px solid var(--hair);
+          vertical-align: top; }
+.hub td.num { color: var(--faint); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.hub a.ep { text-decoration: none; }
+.hub a.ep:hover { text-decoration: underline; text-underline-offset: 2px; }
+.hub .themes { color: var(--dim); font-size: 12px; }
+
+/* ---------- footer ---------- */
+.foot { border-top: 1px solid var(--line); margin-top: var(--s7);
+        padding: var(--s5) var(--s5) var(--s8); color: var(--faint);
+        font-size: 11px; line-height: 1.6; }
+.foot p { margin: 0 0 var(--s3); max-width: var(--measure); }
+.empty { color: var(--dim); padding: var(--s6) 0; font-size: 13px; }
+
+@media (max-width: 600px) {
+  .wrap { padding: 0 var(--s4); }
+  .top { padding: var(--s6) 0 var(--s4); }
+  .thumb { width: 64px; }
+  .transcript.reader { font-size: 16px; }
+  .filters { gap: var(--s3); overflow-x: auto; flex-wrap: nowrap; scrollbar-width: none; }
+  .filters::-webkit-scrollbar { display: none; }
+  .filters button { flex: 0 0 auto; }
+}
+
+/* Content note: set apart from the editorial prose so it is read before the
+   material, not alongside commentary about it. */
+.editorial .cw {
+  border-left: 2px solid var(--fg); padding: 0 0 0 var(--s3);
+  margin: 0 0 var(--s4); color: var(--fg); font-size: 12px; line-height: 1.55;
+}
+.editorial .cw b { font-weight: 600; }
+
+/* ---------- retellings ---------- */
+.retell { padding: var(--s5) 0; border-bottom: 1px solid var(--line); }
+.retell .shared { font: 500 11px/1.4 var(--sans); letter-spacing: .08em;
+  text-transform: uppercase; color: var(--dim); margin: 0 0 var(--s4); }
+.tells { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s5); }
+@media (max-width: 720px) { .tells { grid-template-columns: 1fr; } }
+.tellhead { font-size: 12px; color: var(--dim); margin: 0 0 var(--s2); }
+.tellhead .dim { color: var(--faint); margin-left: .4em; }
+.tellq { margin: 0; font-size: 14px; line-height: 1.6; }
+.only { margin: var(--s3) 0 0; font-size: 11px; color: var(--faint); }
+.only span { text-transform: uppercase; letter-spacing: .08em; margin-right: .5em; }
+
+.retell .times { float: right; text-transform: none; letter-spacing: 0; color: var(--faint); }
+/* three or more tellings still need to read as one row, not a wall */
+.tells { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+
+/* Recurring subjects. Same register as the retellings: the subject line reads
+   as a label, the count sits quietly to the right, and the episode links are
+   the substance. No colour coding by kind -- there are only three kinds and
+   they are already headed, so colour would be decoration standing in for
+   structure. */
+.skind { font: 500 11px/1.4 var(--sans); letter-spacing: .08em;
+  text-transform: uppercase; color: var(--faint); margin: var(--s6) 0 var(--s3);
+  padding-bottom: var(--s2); border-bottom: 1px solid var(--line); }
+.skind:first-child { margin-top: 0; }
+.subj { padding: var(--s4) 0; border-bottom: 1px solid var(--line); }
+.subjname { font: 500 14px/1.4 var(--sans); color: var(--ink); margin: 0 0 var(--s2); }
+.subj .times { float: right; font-size: 11px; color: var(--faint); font-weight: 400; }
+.subjeps { margin: 0; font-size: 12px; line-height: 1.7; }
+/* Episode links WRAP rather than stacking. One per line is easier to scan for a
+   subject with four episodes and unusable for one with thirty-four: Los Angeles
+   alone became a 34-line column, and the page as a whole carries 393 links. A
+   wrapping flow keeps a long subject readable at a glance without shrinking the
+   tap target. Separated by space and rule, not punctuation to parse. */
+.subjeps { display: flex; flex-wrap: wrap; gap: var(--s2) var(--s4); }
+.subjeps a { color: var(--dim); text-decoration: none; white-space: nowrap;
+  max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
+.subjeps a:hover { color: var(--ink); text-decoration: underline; }
+
+/* `hidden` must actually hide. Several elements carry a `display` rule that
+   outranks the attribute's default UA styling, so route() could set
+   `el.hidden = true` and the element kept rendering at full size. The
+   retellings view shipped for hours showing a "Watch on YouTube" link left over
+   from the last item opened -- pointing at an unrelated video -- plus dead
+   Reader/Transcript tabs.
+   It survived because a check asked the DOM `el.hidden` and got `true`. The
+   attribute was set; the element was on screen. Only a screenshot disagreed. */
+[hidden] { display: none !important; }
+
+/* The one-line reason a story is on the shelf. Editorial register, so it reads
+   as the curator speaking rather than as transcript. */
+.swhy { margin: 0 0 var(--s4); font-size: 12px; color: var(--dim);
+  font-style: italic; }
+
+/* Format confound: named, not hidden. Quiet enough not to compete with the
+   quotes, present enough that nobody compares across formats unknowingly. */
+.fmt { margin: 0 0 var(--s4); font-size: 11px; color: var(--faint);
+  border-left: 2px solid var(--line); padding-left: var(--s3); }
+.badge { margin-left: .5em; font-size: 10px; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--faint); }
+
+/* Withdrawn entries: quieter than the shelf, but present. A retraction the
+   reader cannot see is indistinguishable from an omission. */
+.withdrawn { border-top: 1px solid var(--line); margin-top: var(--s6);
+  padding-top: var(--s5); }
+.withdrawn h3 { font: 500 11px/1.4 var(--sans); letter-spacing: .09em;
+  text-transform: uppercase; color: var(--faint); margin: 0 0 var(--s3); }
+.wdrow { font-size: 12px; color: var(--dim); margin: 0 0 var(--s3); }
+
+/* A divergence is a CLAIM, so it ships with both quotes and reads as evidence.
+   The "materially the same" note is the same weight: a story that does not
+   change is a finding, not an empty slot. */
+.diverge { border-left: 2px solid var(--ink); padding-left: var(--s4);
+  margin: 0 0 var(--s5); }
+.dvwhat { font: 500 11px/1.4 var(--sans); letter-spacing: .08em;
+  text-transform: uppercase; color: var(--ink); margin: 0 0 var(--s3); }
+.dvside { font-size: 13px; color: var(--dim); margin: 0 0 var(--s3); }
+.dvval { font-weight: 600; color: var(--ink); margin-left: .4em; }
+.same { font-size: 12px; color: var(--faint); font-style: italic;
+  margin: 0 0 var(--s4); }
+
+/* The analysis section reads as one place with four views, not four unrelated
+   pages reachable only from the front chips. */
+.atabs { display: flex; flex-wrap: wrap; gap: var(--s4); margin: 0 0 var(--s4);
+  padding-bottom: var(--s3); border-bottom: 1px solid var(--line); }
+.atab { font: 500 12px/1.4 var(--sans); color: var(--faint);
+  text-decoration: none; padding-bottom: 2px; }
+.atab:hover { color: var(--dim); }
+.atab.on { color: var(--ink); border-bottom: 2px solid var(--ink); }
+
+/* Method entries: claim, measured result, then the reasoning. Research register
+   -- the result line carries the number so it can be read without the prose. */
+.finding { border-top: 1px solid var(--line); padding: var(--s5) 0; }
+.finding:first-child { border-top: 0; padding-top: 0; }
+.fhead { font: 500 14px/1.4 var(--sans); color: var(--ink); margin: 0 0 var(--s2); }
+.fres { font: 500 12px/1.5 var(--sans); color: var(--dim); margin: 0 0 var(--s3);
+  letter-spacing: .01em; }
+.fbody { font-size: 13px; line-height: 1.65; color: var(--dim); margin: 0;
+  max-width: 62ch; }
+
+/* Cast tables: figures over prose, so the structure is readable at a glance. */
+.ctab { width: 100%; border-collapse: collapse; margin: 0 0 var(--s6);
+  font-size: 13px; }
+.ctab th { text-align: left; font: 500 11px/1.4 var(--sans);
+  letter-spacing: .06em; text-transform: uppercase; color: var(--faint);
+  padding: 0 var(--s3) var(--s2) 0; border-bottom: 1px solid var(--line); }
+.ctab td { padding: var(--s2) var(--s3) var(--s2) 0;
+  border-bottom: 1px solid var(--line); color: var(--dim); }
+.ctab td:first-child { color: var(--ink); }
+.ctab .num { text-align: right; font-variant-numeric: tabular-nums; }
+
+/* A divergence read side by side: the differing value large, and marked inside
+   the quote so the eye lands on the evidence rather than hunting for it. */
+.dvcols { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--s5); }
+.dvwho { font: 500 11px/1.4 var(--sans); letter-spacing: .07em;
+  text-transform: uppercase; color: var(--faint); margin: 0 0 var(--s2); }
+.dvbig { font: 600 30px/1 var(--sans); color: var(--ink); margin: 0 0 var(--s3);
+  font-variant-numeric: tabular-nums; }
+.dvq { font-size: 13px; line-height: 1.6; color: var(--dim); margin: 0; }
+.dvmark { background: var(--ink); color: var(--bg); padding: 0 .25em;
+  border-radius: 2px; }
+
+/* A withheld line keeps the timing visible and the words absent. */
+.withheldline { color: var(--line); letter-spacing: .3em; }

@@ -1,0 +1,921 @@
+/* Two-tier search, per the generator's design:
+   tier 1 -- the small term->item index in catalog.json answers WHICH items.
+   tier 2 -- that item's transcript is fetched on demand to answer WHERE.
+   This keeps first paint to one small download instead of tens of megabytes. */
+
+const $ = (id) => document.getElementById(id);
+// Every data request carries the build stamp, so a deploy is a new URL and a
+// reader cannot be served the previous build's catalog or retelling index from
+// cache. Versioning the code alone left exactly that hole.
+const BUILD_STAMP = (typeof window !== 'undefined' && window.__BUILD) || '';
+const dataURL = (p) => p + (BUILD_STAMP ? (p.includes('?') ? '&' : '?') + 'v=' + BUILD_STAMP : '');
+const state = { cat: null, items: [], group: 'All', q: '', cache: new Map(),
+                mode: localStorage.getItem('choeMode') || 'reader' };
+
+const hms = (s) => {
+  s = Math.max(0, Math.round(s));
+  const h = (s / 3600) | 0, m = ((s % 3600) / 60) | 0, x = s % 60;
+  return h ? `${h}:${String(m).padStart(2, '0')}:${String(x).padStart(2, '0')}`
+           : `${m}:${String(x).padStart(2, '0')}`;
+};
+const esc = (t) => t.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const words = (q) => q.toLowerCase().match(/[a-z][a-z'&-]{1,}/g) || [];
+
+// Caption event markers ([Music], [Laughter], [—] for a bleep) are real
+// information about the recording, so they are never deleted -- but at full
+// weight they interrupt the prose. Reader mode de-emphasises them; Transcript
+// mode leaves them plain, because there the job is fidelity to the source.
+function markers(html) {
+  return html.replace(/\[[^\]<>]{1,24}\]/g, (m) => `<span class="cue">${m}</span>`);
+}
+
+function highlight(text, terms) {
+  if (!terms.length) return esc(text);
+  const re = new RegExp('(' + terms.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')', 'ig');
+  return esc(text).replace(re, '<mark>$1</mark>');
+}
+
+/* Tier 1: intersect postings lists. A term the index dropped (too common, or
+   never seen) falls back to matching titles so the query never dead-ends. */
+function searchItems(q) {
+  const ts = words(q).filter((w) => w.length >= 3);
+  if (!ts.length) return state.items.map((_, i) => i);
+  let acc = null;
+  for (const t of ts) {
+    let hits = state.cat.index[t];
+    if (!hits) {
+      const pre = Object.keys(state.cat.index).filter((k) => k.startsWith(t));
+      hits = pre.length ? [...new Set(pre.flatMap((k) => state.cat.index[k]))] : null;
+    }
+    if (!hits) {
+      hits = state.items.map((it, i) => (it.t.toLowerCase().includes(t) ? i : -1)).filter((i) => i >= 0);
+    }
+    const set = new Set(hits);
+    acc = acc === null ? set : new Set([...acc].filter((x) => set.has(x)));
+    if (!acc.size) break;
+  }
+  return [...(acc || [])];
+}
+
+/* One chip per channel produced 19 of them, wrapped over five rows, and the set
+   grew with every new source. These four are properties of the material, so the
+   control is fixed-size no matter how large the archive gets. Ranch is a fifth
+   entry because it is the spine of the collection, not a channel. */
+const COLLECTIONS = ['All', 'DVDASA', 'Interviews', 'His channel', 'Clips'];
+// A separate entrance rather than a filter: it is not a subset of the
+// transcripts, it is a different question asked of them.
+const inGroup = (it, g) => g === 'All' || it.c === g;
+
+function renderFilters() {
+  const n = {};
+  state.items.forEach((i) => { n[i.c] = (n[i.c] || 0) + 1; });
+  const chips = COLLECTIONS
+    .filter((g) => g === 'All' || n[g])
+    .map((g) => `<button type="button" data-g="${esc(g)}" aria-pressed="${g === state.group}">`
+      + `${esc(g)}<b>${g === 'All' ? state.items.length : n[g]}</b></button>`);
+  if ((state.cat.ranch || []).length) {
+    chips.push(`<button type="button" data-hub="ranch" aria-pressed="false">The Ranch<b>${state.cat.ranch.length}</b></button>`);
+  }
+  // Not a subset of the transcripts -- a different question asked of them, so
+  // it sits beside the collections rather than inside them.
+  if (state.retold) {
+    chips.push(`<button type="button" data-retold="1" aria-pressed="false">Told more than once<b>${state.retold}</b></button>`);
+  }
+  if (state.stories) {
+    chips.push(`<button type="button" data-stories="1" aria-pressed="false">Stories<b>${state.stories}</b></button>`);
+  }
+  if (state.subjects) {
+    chips.push(`<button type="button" data-subjects="1" aria-pressed="false">Recurring subjects<b>${state.subjects}</b></button>`);
+  }
+  $('filters').innerHTML = chips.join('');
+  $('filters').querySelectorAll('button').forEach((b) => {
+    b.onclick = () => {
+      if (b.dataset.hub) { location.hash = '#ranch'; return; }
+      if (b.dataset.retold) { location.hash = '#retold'; return; }
+      if (b.dataset.subjects) { location.hash = '#subjects'; return; }
+      if (b.dataset.stories) { location.hash = '#stories'; return; }
+      state.group = b.dataset.g; renderFilters(); renderList();
+    };
+  });
+}
+
+/* Coverage. The archive being 15% transcribed was invisible before -- a partial
+   corpus silently read as the complete one. */
+function renderProgress() {
+  const c = state.cat.coverage;
+  if (!c || !c.dvdasa_total) return;
+  const done = c.dvdasa_done + c.youtube_done;
+  const total = c.dvdasa_total + c.youtube_total;
+  $('barDone').style.width = (done / total * 100).toFixed(1) + '%';
+  $('barPart').style.width = '0%';
+  $('progressLbl').textContent =
+    `${done} of ${total} recordings transcribed · DVDASA ${c.dvdasa_done}/${c.dvdasa_total}`
+    + ` · YouTube ${c.youtube_done}/${c.youtube_total} · still filling`;
+  $('progress').hidden = false;
+}
+
+function renderList() {
+  const terms = words(state.q).filter((w) => w.length >= 3);
+  let idx = searchItems(state.q);
+  if (state.group !== 'All') idx = idx.filter((i) => inGroup(state.items[i], state.group));
+  // DVDASA is a numbered serial: episode order is the order it was made and
+  // the order it reads in, so sorting it by duration scrambled the series
+  // (033, 032, 010, 025...). YouTube has no inherent sequence, so longest-first
+  // still serves there -- it surfaces real conversations over clips.
+  const epNum = (t) => {
+    const m = String(t).match(/\b(?:Episode|Chapter)\s+(\d+)/i);
+    return m ? parseInt(m[1], 10) : null;
+  };
+  idx.sort((x, y) => {
+    const A = state.items[x], B = state.items[y];
+    if (A.k === 'dvdasa' && B.k === 'dvdasa') {
+      if (A.g !== B.g) return A.g.localeCompare(B.g);      // Saga 1 before Saga 2
+      const na = epNum(A.t), nb = epNum(B.t);
+      if (na !== null && nb !== null) return na - nb;
+      if (na !== null) return -1;
+      if (nb !== null) return 1;
+      return A.t.localeCompare(B.t);
+    }
+    if (A.k !== B.k) return A.k === 'dvdasa' ? -1 : 1;      // the unique source first
+    return B.d - A.d;
+  });
+
+  $('count').textContent = state.q
+    ? `${idx.length} transcript${idx.length === 1 ? '' : 's'} mention “${state.q}”`
+    : `${idx.length} transcripts`;
+
+  const sep = '<span class="sep">·</span>';
+  $('cards').innerHTML = idx.length
+    ? idx.map((i) => {
+        const it = state.items[i];
+        const src = it.s === 'manual' ? 'uploader captions'
+                  : it.s === 'auto' ? 'auto captions' : 'transcribed here';
+        // Generated covers are ~550 bytes of SVG; all 73 together are under
+        // 40 KB, so lazy-loading them saves nothing and left every one of them
+        // blank when the intersection observer did not fire. Remote YouTube
+        // stills are real images over the network, so those stay lazy.
+        const remote = /^https?:/.test(it.th || '');
+        const thumb = it.th
+          ? `<img class="thumb" src="${esc(it.th)}" alt=""${remote ? ' loading="lazy"' : ''} decoding="async">`
+          : `<span class="thumb ph">AUDIO</span>`;
+        return `<li><button type="button" data-id="${esc(it.id)}">
+          ${thumb}
+          <span>
+            <span class="ct">${highlight(it.t, terms)}</span>
+            <span class="cm">${esc(it.g)}${sep}${hms(it.d)}${sep}${it.w.toLocaleString()} words${sep}${src}${it.e ? sep + 'notes' : ''}</span>
+          </span>
+        </button></li>`;
+      }).join('')
+    : `<li><p class="empty">Nothing matches “${esc(state.q)}”.</p></li>`;
+
+  $('cards').querySelectorAll('button').forEach((b) =>
+    b.onclick = () => { location.hash = '#/' + b.dataset.id; });
+}
+
+async function loadItem(id) {
+  if (state.cache.has(id)) return state.cache.get(id);
+  // Stamped like the rest: this is the transcript itself, so a stale copy means
+  // a reader sees uncorrected text long after a correction shipped.
+  const r = await fetch(dataURL(`data/${encodeURIComponent(id)}.json`));
+  if (!r.ok) throw new Error('missing transcript');
+  const d = await r.json();
+  state.cache.set(id, d);
+  return d;
+}
+
+function renderTranscript(d, q) {
+  const terms = words(q).filter((w) => w.length >= 2);
+  const reader = state.mode === 'reader' && !terms.length;
+  $('body').className = 'transcript' + (reader ? ' reader' : '');
+
+  // In reader mode, editorial chapter marks become inline headings so a long
+  // interview reads as sections instead of an undifferentiated wall. Searching
+  // drops back to the timestamped view, because then the job is locating a
+  // line, not reading. Chapters are Codex's editorial data -- absent for most
+  // items, and the view degrades to plain prose without them.
+  const chaps = reader && d.editorial && Array.isArray(d.editorial.chapters)
+    ? [...d.editorial.chapters].map((c) => ({ t: Number(c.t ?? c.start ?? 0),
+        title: String(c.title || c.label || '') })).sort((a, b) => a.t - b.t)
+    : [];
+  let ci = 0;
+
+  const rows = d.segments.map((s, i) => {
+    let head = '';
+    while (ci < chaps.length && s.t >= chaps[ci].t) {
+      // Marked as editorial in the DOM and to screen readers, not only in CSS.
+      // A chapter title is Codex READING a passage, not the recording stating
+      // something -- "David admits to X" is a characterisation, and rendered as
+      // a bare section heading inside the transcript it would read as fact the
+      // audio settles. The transcript and the markers are audio-grounded; this
+      // is not, and the reader is entitled to know which is which.
+      head += `<h3 class="chap" data-editorial="1">` +
+              `<span class="chaptag" aria-hidden="true">editorial</span>` +
+              `<span class="sr">Editorial chapter title: </span>` +
+              `${esc(chaps[ci].title)}</h3>`;
+      ci++;
+    }
+    const r = row(d, s, i, terms);
+    return head + (reader ? markers(r) : r);
+  }).join('');
+  $('body').innerHTML = rows || `<p class="empty">No line matches “${esc(q)}”.</p>`;
+  if (terms.length) {
+    const n = d.segments.filter((s) => terms.some((t) => s.x.toLowerCase().includes(t))).length;
+    $('fhint').textContent = `${n} matching line${n === 1 ? '' : 's'}`;
+  } else {
+    $('fhint').textContent = reader
+      ? `${d.segments.length.toLocaleString()} paragraphs`
+      : `${d.segments.length.toLocaleString()} lines`;
+  }
+}
+
+
+/* ---------- retellings ----------
+   The one view the corpus enables and listening does not: the same story told
+   twice, side by side, ordered so the direction of drift is visible.
+
+   Deliberately NOT summarised. Each side shows the episode, the timestamp and
+   the words as transcribed; the only computed element is which distinctive
+   names appear in one telling and not the other, which is a set difference a
+   reader can check against the quotes. Characterising WHY a version changed
+   would be inventing a reading the recordings do not contain -- the same line
+   the redaction and editorial layers hold. */
+async function renderRetellings() {
+  const box = $('body');
+  let data;
+  try { data = await (await fetch(dataURL('data/retellings.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No retelling index built yet.</p>'; return; }
+  // Chains, not pairs: a story told in three episodes is ONE story with three
+  // tellings, and showing it as three disconnected pairs hides the arc, which is
+  // the thing the corpus uniquely reveals.
+  const chains = data.chains || [];
+  const n3 = chains.filter((c) => c.times_told > 2).length;
+  const sv = data.survey || {};
+  // The denominator travels with the number. "13 stories" is meaningless until
+  // the reader knows it came from 177 episodes, and which 177.
+  $('fhint').textContent = `${chains.length} stories told more than once`
+    + (n3 ? ` · ${n3} told three or more times` : '')
+    + (sv.episodes_swept ? ` · from ${sv.passages_indexed.toLocaleString()} passages`
+       + ` across ${sv.episodes_swept} DVDASA episodes` : '');
+  box.innerHTML = chains.map((c) => {
+    const label = (i) => i === 0 ? 'first told'
+      : i === c.tellings.length - 1 ? 'last told' : 'again';
+    const side = (x, when) => `
+      <div class="tell">
+        <p class="tellhead">${esc(when)} · <a href="#/${esc(x.id)}">${esc(x.title)}</a>
+          <span class="dim">${hms(x.t)}</span></p>
+        <p class="tellq">${esc(x.quote)}</p>
+        ${x.only_here && x.only_here.length
+          ? `<p class="only"><span>only here</span> ${x.only_here.map(esc).join(' · ')}</p>` : ''}
+      </div>`;
+    return `<section class="retell">
+      <p class="shared">${c.shared_names.map(esc).join(' · ')}
+        <span class="times">told in ${c.times_told} of ${sv.episodes_swept || '?'} episodes</span></p>
+      <div class="tells">${c.tellings.map((t, i) => side(t, label(i))).join('')}</div>
+    </section>`;
+  }).join('') || '<p class="empty">No candidates.</p>';
+}
+
+
+/* ONE navigable analysis section. The four analyses were reachable only as chips
+   on the front page, so a reader who opened one had to go back to reach another
+   and could not tell the set existed. They are one section with tabs. */
+const ANALYSES = [['stories', 'Stories'], ['retold', 'Told more than once'],
+                  ['arcs', 'Arcs'], ['subjects', 'Recurring subjects'],
+                  ['cast', 'Cast'], ['method', 'Method']];
+
+function renderTabs(active) {
+  const el = $('atabs');
+  if (!el) return;
+  el.innerHTML = ANALYSES.map(([k, label]) =>
+    `<a href="#${k}" class="atab${k === active ? ' on' : ''}">${esc(label)}</a>`).join('');
+  el.hidden = false;
+}
+
+/* The cast across the whole run. A single episode shows who was in the room;
+   only the run shows who arrives late, who never appears without someone else,
+   and who is there from the first episode to the last. */
+async function renderCastGraph() {
+  const box = $('body');
+  let d;
+  try { d = await (await fetch(dataURL('data/cast-graph.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No cast graph built yet.</p>'; return; }
+  const sv = d.survey || {};
+  $('fhint').textContent = `${(d.people || []).length} people across ${sv.episodes} episodes`
+    + ` · stated by the show's descriptions, never heard`;
+  const ep = (x) => `saga ${x.saga} · ep ${String(x.number).padStart(3, '0')}`;
+  const rows = (d.people || []).map((p) => `
+    <tr><td>${esc(p.name)}</td><td class="num">${p.episodes}</td>
+        <td>${esc(ep(p.first))}</td><td>${esc(ep(p.last))}</td>
+        <td class="num">${Math.round(p.span * 100)}%</td></tr>`).join('');
+  const pairs = (d.pairs || []).slice(0, 14).map((e) => `
+    <tr><td>${esc(e.a)} + ${esc(e.b)}</td><td class="num">${e.together}</td>
+        <td class="num">${Math.round(e.a_with_b * 100)}%</td>
+        <td class="num">${Math.round(e.b_with_a * 100)}%</td></tr>`).join('');
+  box.innerHTML = `
+    <h3 class="skind">Who is present, and for how much of the run</h3>
+    <table class="ctab"><thead><tr><th>Name</th><th class="num">Episodes</th>
+      <th>First named</th><th>Last named</th><th class="num">Span</th></tr></thead>
+      <tbody>${rows}</tbody></table>
+    <h3 class="skind">Who appears with whom</h3>
+    <p class="same">Read asymmetrically: the last two columns are the share of
+      each person's own appearances spent alongside the other. A guest may appear
+      almost only with a host while the host appears constantly without them.</p>
+    <table class="ctab"><thead><tr><th>Pair</th><th class="num">Together</th>
+      <th class="num">First with second</th><th class="num">Second with first</th></tr></thead>
+      <tbody>${pairs}</tbody></table>
+    <p class="same">${esc(sv.order || '')} ${esc(sv.provenance || '')}</p>`;
+}
+
+/* Works this archive links but will not transcribe. Stated plainly, because an
+   archive that silently omits the film work reads as though the film work does
+   not exist. */
+async function renderExternal() {
+  let d;
+  try { d = await (await fetch(dataURL('data/external.json'))).json(); }
+  catch { return ''; }
+  const sv = d.survey || {};
+  return `<h3 class="skind">Indexed, not transcribed</h3>
+    <p class="same">${esc(sv.policy || '')}</p>
+    ${(d.works || []).map((w) => `
+      <section class="finding">
+        <p class="fhead"><a href="${esc(w.url)}" target="_blank"
+           rel="noopener noreferrer">${esc(w.title || w.url)}</a></p>
+        <p class="fres">${esc(w.host)} · ${w.minutes} min · ${esc(w.policy)}</p>
+        <p class="fbody">${esc(w.why_here)} ${esc(w.reason)}</p>
+      </section>`).join('')}`;
+}
+
+/* Method: what was measured, what it showed, and what was withdrawn. An archive
+   that publishes only its successes is asking to be trusted; the corrections are
+   why the rest is worth believing. */
+async function renderMethod() {
+  const box = $('body');
+  let d;
+  try { d = await (await fetch(dataURL('data/method.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No method page built yet.</p>'; return; }
+  const c = d.counts || {};
+  $('fhint').textContent = `${c.items} transcripts · ${c.hours} hours · `
+    + `${(c.words || 0).toLocaleString()} words · ${c.episodes_with_cast} episodes with a named cast`;
+  box.innerHTML = (d.findings || []).map((f) => `
+    <section class="finding">
+      <p class="fhead">${esc(f.heading)}</p>
+      <p class="fres">${esc(f.result)}</p>
+      <p class="fbody">${esc(f.body)}</p>
+    </section>`).join('');
+  box.innerHTML += await renderExternal();
+}
+
+/* Arcs: where one telling runs across several episodes. */
+async function renderArcs() {
+  const box = $('body');
+  let d;
+  try { d = await (await fetch(dataURL('data/arcs.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No arc index built yet.</p>'; return; }
+  const sv = d.survey || {};
+  $('fhint').textContent = `${(d.arcs || []).length} arcs the show titles as`
+    + ` multi-part · ${sv.continuations_found ?? 0} unmarked continuations found`
+    + ` across ${sv.consecutive_pairs_checked ?? 0} consecutive episode pairs`;
+  box.innerHTML = (d.arcs || []).map((a) => `
+    <section class="retell">
+      <p class="shared">${esc(a.name)}
+        <span class="times">${a.parts.length} parts</span></p>
+      <p class="subjeps">${a.parts.map((p) =>
+        `<a href="#/${esc(p.id)}">${esc(p.title)}</a>`).join('')}</p>
+    </section>`).join('')
+    + `<p class="same">Measured across ${sv.consecutive_pairs_checked ?? 0}
+        consecutive episode pairs, ${sv.continuations_found ?? 0} story runs into the
+        next episode without the title saying so. The show closes its subjects
+        within an episode; the continuity it has, it names.</p>`;
+}
+
+
+/* Mark the differing value inside the quote. The divergence was already on the
+   page with both quotes, and a reader still had to hunt for the word that
+   differs — which is the whole claim. Escaped FIRST, then the escaped needle is
+   wrapped, so nothing from the data can become markup. */
+function markValue(quote, value) {
+  const q = esc(quote || '');
+  const v = esc(String(value || ''));
+  if (!v) return q;
+  const re = new RegExp('(\\b' + v.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b)');
+  return q.replace(re, '<mark class="dvmark">$1</mark>');
+}
+
+/* The curated story shelf.
+
+   Distinct from "Told more than once" in one way that matters to a reader: a
+   person read every telling here before it was listed. The automatic index
+   proposes candidates and cannot tell a story from a conversation about a film,
+   so this shelf says plainly that it was reviewed, and shows how many
+   candidates were rejected by hand — a curation claim with no rejection count
+   is just an assertion. */
+async function renderStories() {
+  const box = $('body');
+  let data;
+  try { data = await (await fetch(dataURL('data/stories.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No story shelf built yet.</p>'; return; }
+  const stories = data.stories || [];
+  const sv = data.survey || {};
+  const tellings = stories.reduce((n, s) => n + s.tellings.length, 0);
+  $('fhint').textContent = `${stories.length} stories · ${tellings} tellings, each read`
+    + ` and verified` + (sv.hand_rejected
+      ? ` · ${sv.hand_rejected} candidate${sv.hand_rejected === 1 ? '' : 's'} rejected by hand` : '');
+  box.innerHTML = stories.map((s) => {
+    const side = (x) => `
+      <div class="tell">
+        <p class="tellhead">${esc(x.when)} · <a href="#/${esc(x.id)}">${esc(x.title)}</a>
+          <span class="dim">${hms(x.t)}</span>${x.format && x.format !== 'studio'
+            ? `<span class="badge">${esc(x.format)}</span>` : ''}</p>
+        <p class="tellq">${esc(x.quote)}</p>
+      </div>`;
+    // A comparison that crosses recording formats is still valid, but the reader
+    // has to know: a story told to a live audience or during a twelve-hour
+    // marathon differs from one told across a studio table, so some of what
+    // looks like drift may be the room rather than the man. Naming the confound
+    // is the difference between showing a change and attributing one.
+    // A cross-show story has no known order: episode numbers sequence his own
+    // show, nothing sequences a Stern appearance against a Rogan one, and the
+    // recordings carry no dates. Saying so is the difference between comparing
+    // versions and inventing a chronology.
+    const orderNote = s.unordered
+      ? `<p class="fmt">Told on different shows. The archive has no air dates, so
+           these are not in any known order — they are versions, not a sequence.</p>`
+      : '';
+    const fmtNote = s.mixed_format
+      ? `<p class="fmt">Tellings cross formats — ${(s.formats || []).map(esc).join(' and ')}.
+           Some of the difference may be the setting rather than the telling.</p>`
+      : '';
+    return `<section class="retell">
+      <p class="shared">${esc(s.title)}
+        <span class="times">told in ${s.times_told} episodes</span></p>
+      <p class="swhy">${esc(s.why)}</p>
+      ${orderNote}${s.unordered ? '' : fmtNote}
+      ${(s.divergences || []).map((dv) => `
+        <div class="diverge">
+          <p class="dvwhat">${esc(dv.what)}</p>
+          <div class="dvcols">${dv.sides.map((sd) => `
+            <div class="dvcol">
+              <p class="dvwho">${esc(sd.format)}</p>
+              <p class="dvbig">${esc(sd.value)}</p>
+              <p class="dvq">${markValue(sd.quote, sd.value)}</p>
+            </div>`).join('')}</div>
+        </div>`).join('')}
+      ${(s.divergences || []).length ? '' :
+        `<p class="same">Told ${s.times_told} times; no difference found that can be
+          shown side by side. Materially the same account each time.</p>`}
+      <div class="tells">${s.tellings.map(side).join('')}</div>
+    </section>`;
+  }).join('') || '<p class="empty">No stories on the shelf yet.</p>';
+
+  // Withdrawn entries are NAMED, not deleted. A story that silently disappears
+  // leaves a reader unable to tell a retraction from something that was never
+  // here, and the only claim this shelf makes is that a person stands behind
+  // each entry -- which has to include the ones a person took back.
+  const gone = data.dropped || [];
+  if (gone.length) {
+    box.innerHTML += `<section class="withdrawn">
+      <h3>Withdrawn</h3>
+      ${gone.map((g) => `<p class="wdrow"><b>${esc(g.title)}</b> — ${esc(g.why)}</p>`).join('')}
+    </section>`;
+  }
+}
+
+/* Recurring subjects: the people, places and themes that come up in several
+   different episodes, each linking to all of them.
+
+   Every count is rendered AS A FRACTION of the curated base, never bare. The
+   difference matters more here than anywhere else on the site: "Los Angeles, 34
+   episodes" reads like a discovery, but it is 34 of the 37 episodes that have
+   been curated -- Los Angeles is simply in nearly all of them, which describes
+   the archive rather than the man. "Anthony Bourdain, 11 of 37" is the real
+   finding, and the two are indistinguishable unless the denominator is on
+   screen beside the number. */
+async function renderSubjects() {
+  const box = $('body');
+  let data;
+  try { data = await (await fetch(dataURL('data/subjects.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No subject index built yet.</p>'; return; }
+  const sv = data.survey || {};
+  const base = sv.items_with_entities || 0;
+  const kinds = data.subjects || {};
+  const total = Object.values(kinds).reduce((n, r) => n + r.length, 0);
+  $('fhint').textContent = `${total} subjects appearing in ${sv.min_episodes || 3}`
+    + ` or more of the ${base} curated episodes`;
+  const section = (kind) => {
+    const rows = kinds[kind] || [];
+    if (!rows.length) return '';
+    return `<h3 class="skind">${esc(kind)}</h3>` + rows.map((r) => `
+      <section class="subj">
+        <p class="subjname">${esc(r.name)}
+          <span class="times">${r.count} of ${base} curated episodes</span></p>
+        <p class="subjeps">${r.episodes.map((e) =>
+          `<a href="#/${esc(e.id)}">${esc(e.title || e.id)}</a>`).join('')}</p>
+      </section>`).join('');
+  };
+  box.innerHTML = ['people', 'places', 'themes'].map(section).join('')
+    || '<p class="empty">No recurring subjects yet.</p>';
+}
+
+/* Scene guide for a withheld film: what each stretch covers, written here, with
+   a link that opens the film at that second. Interpretation, and labelled so. */
+async function renderScenes(itemId) {
+  const box = $('editorial');
+  let d;
+  try { d = await (await fetch(dataURL('data/scenes.json'))).json(); }
+  catch { return; }
+  if (!d || d.item !== itemId) return;
+  const sv = d.survey || {};
+  box.innerHTML = `<p class="edlabel">Scene guide — written by this archive, not
+      a record of what was said. The film's dialogue is not published.</p>
+    <p class="same">${esc(sv.why || '')}</p>
+    <table class="ctab"><thead><tr><th>Time</th><th>Scene</th><th>What happens</th></tr></thead>
+    <tbody>${(d.scenes || []).map((s) => `
+      <tr><td class="num"><a href="${esc(s.watch)}" target="_blank"
+            rel="noopener noreferrer">${hms(s.t)}</a></td>
+          <td>${esc(s.title)}</td>
+          <td>${esc(s.description)}</td></tr>`).join('')}</tbody></table>`;
+  box.hidden = false;
+}
+
+function row(d, s, i, terms) {
+  // A withheld item ships timestamps and no words. Render the timing only, so
+  // the shape of the film is visible without its dialogue.
+  if (d.text_withheld) {
+    return `<p class="line"><span class="ts">${hms(s.t)}</span>
+      <span class="withheldline">—</span></p>`;
+  }
+  {
+    const hit = terms.length && terms.some((t) => s.x.toLowerCase().includes(t));
+    if (terms.length && !hit) return '';
+    const ts = d.kind === 'youtube'
+      ? `<a class="ts" href="https://www.youtube.com/watch?v=${d.id}&t=${Math.floor(s.t)}s"
+            target="_blank" rel="noopener noreferrer">${hms(s.t)}</a>`
+      : `<span class="ts">${hms(s.t)}</span>`;
+    return `<p class="line${hit ? ' hit' : ''}" id="l${i}">${ts}<span>${highlight(s.x, terms)}</span></p>`;
+  }
+}
+
+/* Editorial layer, rendered GENERICALLY. Nothing about Codex's prose is
+   hard-coded here: known field shapes get a nice presentation, anything else is
+   rendered by its own key, so a new field needs no change to this file. It is
+   boxed and labelled because the contract requires editorial writing to stay
+   visibly separate from the faithful transcript -- a reader must never mistake
+   a summary for something that was said. */
+function renderCast(vid) {
+  // WHO WAS IN THE ROOM, from the show's own episode description. Labelled as
+  // stated-not-heard because that is exactly what it is: testimony about the
+  // recording. It may narrow who a voice could be; it cannot say who spoke.
+  const el = $('castline');
+  if (!el) return;
+  const people = (state.cast || {})[vid];
+  if (!people || !people.length) { el.hidden = true; el.innerHTML = ''; return; }
+  el.innerHTML = `<span class="castlbl">In the room</span> ${people.map(esc).join(' · ')}
+    <span class="castsrc">as stated by the show's episode description — not identified from the audio</span>`;
+  el.hidden = false;
+}
+
+function renderEditorial(ed, kind, vid) {
+  const box = $('editorial');
+  if (!ed) { box.hidden = true; box.innerHTML = ''; return; }
+  const label = (k) => k.replace(/[_-]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+  const chips = (a) => `<p class="chips">${a.map((x) =>
+    `<span class="chip">${esc(typeof x === 'string' ? x : x.name || JSON.stringify(x))}</span>`).join('')}</p>`;
+  const parts = [];
+
+  // Content warnings render FIRST and visually distinct. This archive is public
+  // and contains material a reader may reasonably want flagged before reading;
+  // burying that in an alphabetical chip row alongside "themes" would be a
+  // choice, not an oversight.
+  // Codex has been putting sensitive subject matter in `themes` rather than a
+  // dedicated field, so a reader would meet it as an ordinary chip row below
+  // the summary. Promote the themes that are plainly warnings, so the placement
+  // matches the weight, without asking for a dozen episodes to be re-authored.
+  const SENSITIVE = /\b(assault|rape|abuse|suicide|self-harm|slur|derogatory|racis|misogyn|homophob|transphob|paedo|pedo|minors?|child(ren)?\b|overdose|addiction|violence|death|grief|incest|traffick)/i;
+  const flagged = (ed.themes || []).filter((t) => typeof t === 'string' && SENSITIVE.test(t));
+  const cw = ed.content_warnings || ed.content_warning
+    || (flagged.length ? flagged : null);
+  if (cw && (Array.isArray(cw) ? cw.length : String(cw).trim())) {
+    const list = Array.isArray(cw) ? cw : [cw];
+    parts.push(`<p class="cw"><b>Content note</b> — ${list.map((x) =>
+      esc(typeof x === 'string' ? x : x.note || x.label || '')).join('; ')}</p>`);
+  }
+
+  for (const [k, v] of Object.entries(ed)) {
+    if (k === 'content_warnings' || k === 'content_warning') continue;
+    if (v == null || (Array.isArray(v) && !v.length)) continue;
+    if (k === 'chapters' && Array.isArray(v)) {
+      parts.push(`<h4>${label(k)}</h4><ol class="chapters">` + v.map((c) => {
+        const t = Number(c.t ?? c.start ?? 0);
+        const jump = kind === 'youtube'
+          ? `<a href="https://www.youtube.com/watch?v=${vid}&t=${Math.floor(t)}s" target="_blank" rel="noopener noreferrer">${hms(t)}</a>`
+          : `<span>${hms(t)}</span>`;
+        return `<li>${jump} ${esc(c.title || c.label || '')}</li>`;
+      }).join('') + '</ol>');
+    } else if (Array.isArray(v) && v.every((x) => typeof x === 'string')) {
+      parts.push(`<h4>${label(k)}</h4>${chips(v)}`);
+    } else if (Array.isArray(v)) {
+      parts.push(`<h4>${label(k)}</h4><ul>` + v.map((x) =>
+        `<li>${esc(x.label || x.title || x.name || '')}${x.note ? ' — ' + esc(x.note) : ''}</li>`).join('') + '</ul>');
+    } else if (v && typeof v === 'object') {
+      // Plain objects had NO branch here, so they rendered nothing at all --
+      // silently. Codex writes `quality` as an object on 57 episodes, holding
+      // exactly the caveats a reader deserves ("strong-searchable-draft-needs-
+      // correction-bake", "six-person episode with rapid overlap"), plus
+      // `sensitivity` and `speaker_policy` on others. All of it was published
+      // and invisible. Rendered as labelled rows, in the editorial register.
+      const rows = Object.entries(v)
+        .filter(([, x]) => x != null && String(x).trim())
+        .map(([kk, x]) => `<li><b>${esc(label(kk))}</b> — ${esc(
+          Array.isArray(x) ? x.join('; ') : String(x))}</li>`).join('');
+      if (rows) parts.push(`<h4>${label(k)}</h4><ul class="kv">${rows}</ul>`);
+    } else if (typeof v === 'string') {
+      parts.push(k === 'summary' ? `<p>${esc(v)}</p>` : `<h4>${label(k)}</h4><p>${esc(v)}</p>`);
+    }
+  }
+  if (!parts.length) { box.hidden = true; return; }
+  box.innerHTML = `<p class="edlabel">Editorial notes — written commentary, not a record of what was said</p>${parts.join('')}`;
+  box.hidden = false;
+}
+
+async function openItem(id) {
+  $('browse').hidden = true;
+  $('reader').hidden = false;
+  window.scrollTo(0, 0);
+  $('body').innerHTML = '<p class="empty">Loading transcript…</p>';
+  let d;
+  try { d = await loadItem(id); }
+  catch { $('body').innerHTML = '<p class="empty">That transcript could not be loaded.</p>'; return; }
+
+  const meta = state.items.find((i) => i.id === id);
+  $('rtitle').textContent = d.title;
+  $('rmeta').textContent = [d.group, meta && hms(meta.d), meta && `${meta.w.toLocaleString()} words`]
+    .filter(Boolean).join(' · ');
+  // WHERE THIS CAME FROM. The page previously showed a YouTube link on YouTube
+  // items and nothing at all on the 177 sourced from a Google Drive archive,
+  // which read as though the whole corpus were YouTube. It is not, and the Drive
+  // originals have no per-file URL recorded — the provenance kept the archive
+  // name and filename only. So state the source for every item and link only
+  // where a link actually exists, rather than implying one everywhere.
+  const link = $('rlink');
+  const srcEl = $('srcline');
+  link.hidden = d.kind !== 'youtube';
+  if (d.kind === 'youtube') link.href = `https://www.youtube.com/watch?v=${d.id}`;
+  const wh = d.text_withheld;
+  if (wh) renderScenes(d.id);
+  if (wh) {
+    // The film is findable and not readable. Say why, on the page, rather than
+    // letting an item with no words look like a failed transcription.
+    link.href = wh.source_url || '#';
+    link.hidden = !wh.source_url;
+    link.textContent = 'Watch at the source ↗';
+  }
+  if (srcEl) {
+    const prov = d.provenance || {};
+    const where = wh ? `${esc(wh.uploader || 'Vimeo')} — Vimeo`
+      : d.kind === 'youtube' ? 'YouTube'
+      : prov.archive ? `${prov.archive} — Google Drive archive`
+      : 'Google Drive archive';
+    // Only the Drive-sourced episodes lack a per-file link. Saying so on an item
+    // that carries one -- the Vimeo film does -- is false on its face.
+    const noLink = (d.kind !== 'youtube' && !wh)
+      ? ' · no per-file source link was recorded for these'
+      : '';
+    const whNote = wh
+      ? ` · <b>transcript not published</b> — ${esc(wh.reason)} ${esc(wh.note || '')}`
+      : '';
+    srcEl.innerHTML = `<span class="castlbl">Source</span> ${esc(where)}${esc(noLink)}${whNote}`;
+    srcEl.hidden = false;
+  }
+
+  // Provenance. Honest about the asymmetry: YouTube lines are one click from
+  // the exact second of the source, DVDASA lines are not, because the audio is
+  // not hosted here. Saying so is better than implying both are checkable.
+  const p = d.provenance || {};
+  const c = d.cleaning || {};
+  const v = d.vocab || {};
+  const bits = [];
+  // Trailing period matters: without it the source ran straight into the next
+  // sentence ("Source: PowerfulJRE Every timestamp opens...").
+  if (p.archive) bits.push(`Source: ${esc(p.archive)}${p.file ? ` — <code>${esc(p.file)}</code>` : ''}.`);
+  bits.push(d.kind === 'youtube'
+    ? 'Every timestamp opens the source video at that exact second, so any line can be checked against the recording.'
+    : 'Audio is not hosted here. Timestamps refer to the original recording above; check the line against it before quoting.');
+  if (c.segments_dropped != null) {
+    bits.push(`Cleaning removed ${c.segments_dropped} of ${c.segments_in} segments `
+      + `(${Object.entries(c.reasons || {}).map(([k, n]) => `${n} ${k}`).join(', ') || 'none'}).`);
+  }
+  if (v.edits) {
+    bits.push(`${v.edits} name spelling${v.edits === 1 ? '' : 's'} corrected from a controlled list`
+      + (v.queued_for_review ? `; ${v.queued_for_review} lower-confidence suggestion${v.queued_for_review === 1 ? '' : 's'} left unapplied.` : '.'));
+  }
+  $('prov').innerHTML = bits.join(' ');
+
+  renderCast(d.id);
+  renderEditorial(d.editorial, d.kind, d.id);
+  $('fq').value = state.q || '';
+  renderTranscript(d, $('fq').value);
+  $('fq').oninput = () => renderTranscript(d, $('fq').value);
+  $('modes').querySelectorAll('button').forEach((b) => {
+    b.setAttribute('aria-pressed', String(b.dataset.mode === state.mode));
+    b.onclick = () => {
+      state.mode = b.dataset.mode;
+      localStorage.setItem('choeMode', state.mode);
+      $('modes').querySelectorAll('button').forEach((x) =>
+        x.setAttribute('aria-pressed', String(x.dataset.mode === state.mode)));
+      renderTranscript(d, $('fq').value);
+    };
+  });
+}
+
+/* The Ranch series as its own page. Four solo recordings scattered across two
+   archives read as unrelated episodes in a 230-item list; together they are the
+   spine of the corpus. Themes come from Codex's editorial records, so this is a
+   view over real data rather than authored prose. */
+async function renderHub() {
+  $('browse').hidden = true; $('reader').hidden = true;
+  const hub = $('hub'); hub.hidden = false; window.scrollTo(0, 0);
+  const ids = state.cat.ranch || [];
+  hub.innerHTML = `<button class="back" id="hback" type="button">← All transcripts</button>
+    <h2>The Ranch — solo series</h2>
+    <p class="lede">Four recordings made alone, away from the studio and the
+    regular cast. They are the only sustained single-voice material in the
+    archive, which is also why they are the reference used to test speaker
+    identification. Part IV carries no “Ranch” in its title and sits in the
+    archive as an untitled chapter; the recording identifies itself.</p>
+    <p class="empty">Loading…</p>`;
+  $('hback').onclick = () => { location.hash = ''; };
+
+  const rows = await Promise.all(ids.map(async (id) => {
+    const meta = state.items.find((x) => x.id === id) || {};
+    let ed = null;
+    try { ed = (await loadItem(id)).editorial; } catch { /* not fatal */ }
+    return { id, meta, ed };
+  }));
+  rows.sort((a, b) => (a.meta.t || '').localeCompare(b.meta.t || ''));
+
+  hub.querySelector('.empty').outerHTML = `<table>
+    <thead><tr><th>Recording</th><th>Length</th><th>Words</th><th>Themes</th></tr></thead>
+    <tbody>${rows.map((r) => `<tr>
+      <td><a class="ep" href="#/${esc(r.id)}">${esc(r.meta.t || r.id)}</a></td>
+      <td class="num">${r.meta.d ? hms(r.meta.d) : '—'}</td>
+      <td class="num">${r.meta.w ? r.meta.w.toLocaleString() : '—'}</td>
+      <td class="themes">${r.ed && r.ed.themes ? esc(r.ed.themes.slice(0, 6).join(', ')) : '—'}</td>
+    </tr>`).join('')}</tbody></table>`;
+}
+
+function route() {
+  const raw = location.hash.replace(/^#/, '');
+  if (raw === 'ranch') return renderHub();
+  if (raw === 'retold') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    // IDs verified against index.html. An earlier version targeted title/meta/
+    // src/yt, none of which exist, so setting a property on null threw and the
+    // view rendered nothing while the page chrome still appeared -- a blank
+    // section that looked like "no data" rather than a crash.
+    $('rtitle').textContent = 'Told more than once';
+    // The ordering basis is stated because "first told" and "last told" would
+    // otherwise imply calendar dates the archive does not have. The recordings
+    // carry no air dates in any source reachable here -- not in the files, the
+    // titles, or a podcast feed, the show having been delisted years ago. Saga
+    // and episode number is a true sequence, so drift has a direction; it just
+    // has no years attached, and saying so is cheaper than a reader assuming.
+    $('rmeta').textContent = 'The same story told in more than one episode, in the '
+      + 'order it was told, as transcribed. Differences are shown, not explained. '
+      + 'Ordered by saga and episode number \u2014 the sequence the show released '
+      + 'in. The recordings carry no air dates, so the order is real but the '
+      + 'years are not known. DVDASA only \u2014 interviews and clips elsewhere '
+      + 'are not searched, so a story he also told on another podcast will not '
+      + 'appear here.';
+    $('prov').textContent = '';
+    $('rlink').hidden = true;
+    $('modes').hidden = true;
+    $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('retold');
+    return renderRetellings();
+  }
+  if (raw === 'cast') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Cast';
+    $('rmeta').textContent = 'Who appears with whom across the whole run — who '
+      + 'arrives late, who stops appearing, and who is never named without '
+      + 'somebody else. Every name is stated by the show\'s own episode '
+      + 'descriptions, never identified from the audio.';
+    $('prov').textContent = '';
+    $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('cast');
+    return renderCastGraph();
+  }
+  if (raw === 'method') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Method';
+    $('rmeta').textContent = 'What was measured, what it showed, and what was '
+      + 'withdrawn. Every number here is read from the build, so a stale figure '
+      + 'is a build error rather than a claim that quietly outlived its evidence.';
+    $('prov').textContent = '';
+    $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('method');
+    return renderMethod();
+  }
+  if (raw === 'arcs') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Arcs';
+    $('rmeta').textContent = 'Where one telling runs across several episodes. '
+      + 'DVDASA is a numbered serial, so continuity is a real structure in the '
+      + 'corpus — but only the arcs the show names are substantial.';
+    $('prov').textContent = '';
+    $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('arcs');
+    return renderArcs();
+  }
+  if (raw === 'stories') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Stories';
+    $('rmeta').textContent = 'Stories he tells more than once, each telling quoted '
+      + 'in the order it was told. Every telling here was read and verified by a '
+      + 'person before it was listed — the corpus proposes candidates, and it '
+      + 'cannot tell a story from a conversation about a film, so nothing '
+      + 'reaches this shelf unread. Ordered by saga and episode number, the '
+      + 'sequence the show released in; the recordings carry no air dates, so '
+      + 'the order is real but the years are not known. Differences between '
+      + 'tellings are shown, never explained.';
+    $('prov').textContent = '';
+    $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('stories');
+    return renderStories();
+  }
+  if (raw === 'subjects') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Recurring subjects';
+    $('rmeta').textContent = 'People, places and themes that come up in more than '
+      + 'one episode, each linking to every episode it appears in. Drawn from the '
+      + 'per-episode entity lists, which are curated by hand and exist for only '
+      + 'part of the archive — a subject missing here may be in an episode '
+      + 'nobody has curated yet, which is not the same as it never coming up. '
+      + 'The recurring hosts are left out: they are in nearly every episode, so '
+      + 'their recurrence describes the show’s format, not a subject he '
+      + 'returns to.';
+    $('prov').textContent = '';
+    $('rlink').hidden = true;
+    $('modes').hidden = true;
+    $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('subjects');
+    return renderSubjects();
+  }
+  if ($('atabs')) $('atabs').hidden = true;
+  const id = decodeURIComponent(raw.replace(/^\/?/, ''));
+  $('hub').hidden = true;
+  if (id) return openItem(id);
+  $('reader').hidden = true;
+  $('browse').hidden = false;
+  renderList();
+}
+
+(async function init() {
+  try {
+    const r = await fetch(dataURL('data/catalog.json'));
+    state.cat = await r.json();
+  } catch {
+    $('stats').textContent = 'Could not load the archive index.';
+    return;
+  }
+  state.items = state.cat.items;
+  const hrs = state.items.reduce((a, b) => a + b.d, 0) / 3600;
+  const w = state.items.reduce((a, b) => a + b.w, 0);
+  $('stats').textContent =
+    `${state.items.length} transcripts · ${hrs.toFixed(0)} hours · ${w.toLocaleString()} words · machine-transcribed`;
+
+  // count first so the entrance can show how many stories qualify
+  try {
+    const rr = await (await fetch(dataURL('data/retellings.json'))).json();
+    state.retold = (rr.pairs || []).length;
+  } catch { state.retold = 0; }
+
+  try {
+    const rs = await (await fetch(dataURL('data/roster.json'))).json();
+    state.cast = rs.cast || {};
+  } catch { state.cast = {}; }
+
+  try {
+    const st = await (await fetch(dataURL('data/stories.json'))).json();
+    state.stories = (st.stories || []).length;
+  } catch { state.stories = 0; }
+
+  try {
+    const sj = await (await fetch(dataURL('data/subjects.json'))).json();
+    state.subjects = Object.values(sj.subjects || {})
+      .reduce((n, rows) => n + rows.length, 0);
+  } catch { state.subjects = 0; }
+
+  renderFilters();
+  renderProgress();
+  $('q').oninput = () => { state.q = $('q').value.trim(); renderList(); };
+  $('back').onclick = () => { location.hash = ''; };
+  addEventListener('hashchange', route);
+  route();
+})();

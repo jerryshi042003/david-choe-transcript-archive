@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The David Choe Transcript Archive</title>
+<meta name="description" content="A searchable transcript archive of DVDASA and David Choe's recorded conversations. Machine-transcribed.">
+<link rel="stylesheet" href="styles.css?v=338323f0b0">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="top">
+  <div class="wrap">
+    <h1><a href="#/">The David Choe Transcript Archive</a></h1>
+    <p class="sub" id="stats">Loading…</p>
+    <div class="progress" id="progress" hidden>
+      <div class="bar"><i id="barDone"></i><i class="part" id="barPart"></i></div>
+      <p class="lbl" id="progressLbl"></p>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+
+  <section id="browse">
+    <form class="search" role="search" onsubmit="return false">
+      <label class="vh" for="q">Search all transcripts</label>
+      <input id="q" type="search" placeholder="Search every transcript…" autocomplete="off" spellcheck="false">
+    </form>
+
+    <nav class="filters" id="filters" aria-label="Collections"></nav>
+    <p class="count" id="count"></p>
+    <ol class="cards" id="cards"></ol>
+  </section>
+
+  <section id="hub" class="hub" hidden></section>
+
+  <article id="reader" hidden>
+    <button class="back" id="back" type="button">← All transcripts</button>
+    <header class="rhead">
+      <h2 id="rtitle"></h2>
+      <nav id="atabs" class="atabs" hidden></nav>
+      <p class="meta" id="rmeta"></p>
+      <p class="cast" id="castline" hidden></p>
+      <p class="cast" id="srcline" hidden></p>
+      <a id="rlink" class="watch" hidden target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a>
+      <p class="prov" id="prov"></p>
+    </header>
+    <aside class="editorial" id="editorial" hidden></aside>
+    <div class="modes" id="modes" role="group" aria-label="Reading mode">
+      <button type="button" data-mode="reader" aria-pressed="true">Reader</button>
+      <button type="button" data-mode="transcript" aria-pressed="false">Transcript</button>
+    </div>
+    <form class="search inline" role="search" onsubmit="return false">
+      <label class="vh" for="fq">Find in this transcript</label>
+      <input id="fq" type="search" placeholder="Find in this transcript…" autocomplete="off">
+      <p class="hint" id="fhint"></p>
+    </form>
+    <div class="transcript" id="body"></div>
+  </article>
+
+</main>
+
+<footer class="foot wrap">
+  <p><strong>Machine-generated and uncorrected.</strong> Names and exact wording
+     contain errors — check a line against its source before quoting anyone.
+     Speaker names are deliberately not shown: automatic speaker identification
+     was tested and mislabelled one host as the other on roughly a third of
+     samples, so every line is left unattributed rather than wrongly attributed.</p>
+  <p>An unofficial, non-commercial index made for study and search. All
+     recordings belong to their creators. Rights holders who want an item
+     removed: open an issue on the repository and it will be taken down.</p>
+</footer>
+
+<script>window.__BUILD = "338323f0b0";</script>
+<script src="app.js?v=338323f0b0"></script>
+</body>
+</html>
