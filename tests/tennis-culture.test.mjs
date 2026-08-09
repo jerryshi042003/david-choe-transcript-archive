@@ -7,27 +7,28 @@ const sources = readFileSync(new URL('../tennis-culture/SOURCES.md', import.meta
 const catalog = JSON.parse(readFileSync(new URL('../data/catalog.json', import.meta.url), 'utf8'));
 const ids = new Set(catalog.items.map(item => item.id));
 
-for (const id of ['position','record','people','offers','commitments','travel','choe','sources']) {
-  assert.match(html, new RegExp(`id="${id}"`), `missing #${id}`);
+for (const term of ['ball mower','Bellevue','daily job','Mike Cherman','Shingo Arai','One Hand Tony','Nothing is ready to send','Tom says he has a videographer friend']) {
+  assert.ok(html.toLowerCase().includes(term.toLowerCase()), `missing meeting fact: ${term}`);
 }
-for (const term of ['ball mower','Bellevue','daily job','Mike Cherman','Shingo Arai','One Hand Tony','Nothing ready to show','No deliverable','Wilson was not found']) {
-  assert.ok(html.toLowerCase().includes(term.toLowerCase()), `missing meeting or evidence term: ${term}`);
-}
+
 for (const id of [
   'saga1-episode-101-the-ranch-solo-series-part-one',
   'saga1-episode-119-the-ranch-solo-series-part-two',
   'saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode',
-  '3QecMMrcCCA'
+  '3QecMMrcCCA', '-wZk4B1BB0c', 'OP1mXscTUnw', 'zHyvVajsqMw'
 ]) assert.ok(ids.has(id), `missing archive source ${id}`);
 
-assert.match(html, /one bounded test/i);
-assert.match(html, /one test only/i);
-assert.match(html, /Tom has not reviewed/i);
-assert.match(html, /Mutual-follow information is deliberately not published/i);
-assert.match(sources, /San Jose is not part of either exact claim/i);
-assert.match(css, /background:var\(--paper\)/);
-assert.match(css, /@media \(max-width:820px\)/);
-assert.doesNotMatch(css, /#e8ff00|#ff4a32|text-stroke/i);
-assert.doesNotMatch(html, /Make the proof|OPEN COURT|Bourdain-shaped|review reel/i);
+assert.ok((html.match(/class="choe"[\s\S]*?<\/ul>/)?.[0].match(/<li>/g) || []).length >= 25, 'Choe accumulation must contain at least 25 timestamped items');
+assert.ok((html.match(/<figure>/g) || []).length >= 8, 'moodboard needs at least eight cited pictures');
+assert.ok((html.match(/<figcaption>/g) || []).length === (html.match(/<figure>/g) || []).length, 'every picture needs a citation caption');
 
-console.log('Jerry / Tom working notes: structural and evidence checks passed');
+for (const forbidden of ['<header', '<nav', '<aside', '<section', '<table', '<details', '<button', 'class="card', 'FACT +', 'LEAD', 'OPEN', 'PROPOSED', 'useful work']) {
+  assert.ok(!html.includes(forbidden), `forbidden site structure or status language: ${forbidden}`);
+}
+assert.doesNotMatch(html, /<h[1-6][^>]*>/i);
+assert.match(css, /font-size:\s*15px/);
+assert.equal((css.match(/font-size:/g) || []).length, 1, 'use one type size throughout');
+assert.doesNotMatch(css, /--[a-z-]+:|position:\s*sticky|border:|box-shadow|background:\s*#[^f]|color:\s*#[^0]/i);
+assert.match(sources, /San Jose is not part of either exact claim/i);
+
+console.log('single-page tennis archive: content, citations, and no-UI checks passed');
