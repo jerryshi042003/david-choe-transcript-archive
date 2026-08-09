@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OPEN COURT reel card</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 100%; height: 100%; overflow: hidden; }
+    body { font-family: Arial, Helvetica, sans-serif; background: #f4f0e8; color: #151515; }
+    .card { display: none; width: 100vw; height: 100vh; padding: 74px 88px; align-content: center; }
+    .card.active { display: grid; }
+    .acid { background: #e8ff00; }
+    .black { background: #151515; color: #f4f0e8; }
+    .red { background: #e5412b; color: #151515; }
+    .center { text-align: center; justify-items: center; }
+    .no { margin: 0 0 28px; font: 800 24px/1 monospace; letter-spacing: .12em; }
+    h1 { max-width: 1060px; margin: 0; font-size: 68px; line-height: .95; letter-spacing: -.055em; text-transform: uppercase; }
+    .summary { max-width: 930px; margin: 38px 0 0; font-size: 34px; line-height: 1.15; letter-spacing: -.025em; }
+    .source { margin: 44px 0 0; font: 700 20px/1 monospace; letter-spacing: .06em; }
+    .intro h1, .outro h1 { font-size: 82px; }
+    .intro .summary, .outro .summary { font: 700 25px/1.3 monospace; letter-spacing: .04em; }
+  </style>
+</head>
+<body>
+  <section class="card intro center" data-card="0"><p class="no">OPEN COURT / 001</p><h1>Five doer stories</h1><p class="summary">FROM THE DAVID CHOE ARCHIVE<br>JERRY SHI × TOM OH</p></section>
+  <section class="card acid" data-card="1"><p class="no">01 / PROOF</p><h1>Make the job before you have it.</h1><p class="summary">Make the garment and court film before asking for permission.</p><p class="source">RANCH I · 01:10:47–01:13:49</p></section>
+  <section class="card black" data-card="2"><p class="no">02 / MEMORY</p><h1>Build memory before you need the relationship.</h1><p class="summary">In Choe’s account, Sean Parker pursued the art years before the Facebook offer.</p><p class="source">RANCH I · 00:34:09–00:37:59</p></section>
+  <section class="card red" data-card="3"><p class="no">03 / DELIVERY</p><h1>Discovery is not delivery.</h1><p class="summary">An ice-cream-shop connection created a major sale. The paintings never arrived.</p><p class="source">RANCH II · 00:54:04–01:00:30</p></section>
+  <section class="card" data-card="4"><p class="no">04 / SUPPORT</p><h1>Support before consensus.</h1><p class="summary">Pay, wear, show up, and circulate work while it still matters to the maker.</p><p class="source">RANCH II · 01:12:53–01:16:05</p></section>
+  <section class="card acid" data-card="5"><p class="no">05 / GIVE</p><h1>Give the best work, not the leftover.</h1><p class="summary">Ten gifts. No transactional ask. No shirt-for-post bargain.</p><p class="source">RANCH III · 00:44:32–00:47:49</p></section>
+  <section class="card outro black center" data-card="6"><p class="no">OPEN COURT / 001</p><h1>Make the proof before the pitch.</h1><p class="summary">ONE GARMENT · ONE COURT · ONE FILM<br>SOURCE LEDGER ON THE PROJECT BOARD</p></section>
+  <script>
+    const card = new URLSearchParams(location.search).get('card') || '0';
+    document.querySelector(`[data-card="${card}"]`)?.classList.add('active');
+  </script>
+</body>
+</html>
