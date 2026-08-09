@@ -326,8 +326,7 @@ mark { background: var(--mark); color: inherit; }
 /* A withheld line keeps the timing visible and the words absent. */
 .withheldline { color: var(--line); letter-spacing: .3em; }
 
-.project-board { display: block; margin: 1rem 0 1.4rem; padding: 1rem 1.1rem;
-  background: #e8ff00; color: #151515; border: 1px solid #151515;
-  text-decoration: none; font: 700 .75rem/1.35 ui-monospace, SFMono-Regular, Menlo, monospace;
-  letter-spacing: .04em; }
-.project-board:hover, .project-board:focus-visible { background: #151515; color: #fff; }
+.project-board { display: block; margin: 1rem 0 1.4rem; padding: .75rem 0;
+  color: #151515; border-top: 1px solid #151515; border-bottom: 1px solid #151515;
+  text-decoration: none; font: 700 .75rem/1.35 ui-monospace, SFMono-Regular, Menlo, monospace; }
+.project-board:hover, .project-board:focus-visible { text-decoration: underline; }
