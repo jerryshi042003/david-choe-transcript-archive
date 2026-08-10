@@ -545,6 +545,12 @@ function row(d, s, i, terms) {
       <span class="withheldline">—</span></p>`;
   }
   {
+    if (s.scene) {
+      const hit = terms.length && terms.some((t) => s.x.toLowerCase().includes(t));
+      if (terms.length && !hit) return '';
+      return `<p class="line scene-note${hit ? ' hit' : ''}" id="l${i}">` +
+        `<span class="ts">${hms(s.t)}</span><span>${highlight(s.x, terms)}</span></p>`;
+    }
     const hit = terms.length && terms.some((t) => s.x.toLowerCase().includes(t));
     if (terms.length && !hit) return '';
     const ts = d.kind === 'youtube'
@@ -672,12 +678,13 @@ async function openItem(id) {
   if (srcEl) {
     const prov = d.provenance || {};
     const where = wh ? `${esc(wh.uploader || 'Vimeo')} — Vimeo`
+      : d.kind === 'film' ? 'Owner-supplied local film copy'
       : d.kind === 'youtube' ? 'YouTube'
       : prov.archive ? `${prov.archive} — Google Drive archive`
       : 'Google Drive archive';
     // Only the Drive-sourced episodes lack a per-file link. Saying so on an item
     // that carries one -- the Vimeo film does -- is false on its face.
-    const noLink = (d.kind !== 'youtube' && !wh)
+    const noLink = (d.kind !== 'youtube' && d.kind !== 'film' && !wh)
       ? ' · no per-file source link was recorded for these'
       : '';
     const whNote = wh
@@ -707,6 +714,10 @@ async function openItem(id) {
   if (v.edits) {
     bits.push(`${v.edits} name spelling${v.edits === 1 ? '' : 's'} corrected from a controlled list`
       + (v.queued_for_review ? `; ${v.queued_for_review} lower-confidence suggestion${v.queued_for_review === 1 ? '' : 's'} left unapplied.` : '.'));
+  }
+  if (d.verification && d.verification.reviewed_against_video) {
+    bits.push(`Edited film transcript reviewed against the local video on ${esc(d.verification.reviewed_against_video)}; `
+      + `${Number(d.verification.scene_notes || 0)} bracketed scene notes are editorial descriptions, not dialogue.`);
   }
   $('prov').innerHTML = bits.join(' ');
 

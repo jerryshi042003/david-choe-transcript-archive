@@ -116,6 +116,15 @@ input[type=search]:focus { outline: none; border-color: var(--fg); }
       font-size: 11px; line-height: 1.9; font-variant-numeric: tabular-nums; }
 a.ts:hover { color: var(--fg); }
 .line.hit { background: var(--hair); }
+.line.scene-note {
+  margin: var(--s6) 0 var(--s4);
+  padding: var(--s4);
+  border-left: 3px solid var(--ink);
+  background: var(--hair);
+  color: var(--muted);
+  font-style: italic;
+}
+.line.scene-note .ts { font-style: normal; }
 mark { background: var(--mark); color: inherit; }
 
 .transcript.reader { max-width: var(--measure); font: 17px/1.7 var(--serif); }
