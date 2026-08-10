@@ -24,6 +24,11 @@ These are planning estimates, not trip budgets or quoted fares. They are the low
 - Facebook job, approximate $60,000 fee, equity, gambling stop system, Harry Kim: `CvHFWwVZKoI`, 01:02:25–01:06:36.
 - Approximate $60,000 fee and explicit belief in Sean Parker: `XS6awjpIimw`, 00:13:53–00:16:23 and 00:32:12.
 - Sean Parker correspondence from Napster through funded Facebook: `saga1-episode-101-the-ranch-solo-series-part-one`, 00:34:09–00:37:59.
+- Facebook/MySpace non-consensus choice and “extraordinary life / extraordinary risk” framing: `saga1-episode-119-the-ranch-solo-series-part-two`, 01:11:10–01:13:13.
+- Desperation, bad $200 jobs, gambling-created runway, and the non-gambling substitute of representing oneself as another person: `saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode`, 00:39:33–00:42:54.
+- Give the strongest work to heroes for a bounded year, keep the day job, then charge and hold price: `saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode`, 00:43:50–00:50:09.
+- Make the desired job before permission / Jay-Z cover example: `saga1-episode-101-the-ranch-solo-series-part-one`, 01:10:47–01:14:28.
+- Two Frank Miller sketches turned into a hypothetical young-Choe zine without waiting for a call: `-wZk4B1BB0c`, 01:26:50–01:27:54.
 - Vice / friend / brand work often unpaid or underpaid; adult-magazine fees, Butt Man firing, Hustler / Asian Fever payment by W. T. Nelson: `zHyvVajsqMw`, 00:45:05–00:46:20 and 01:56:26–02:06:58.
 - *Slow Jams* content and production change: `3QecMMrcCCA`, 00:19:26–00:21:35; self-publication to Marvel: 00:36:40–00:38:29.
 - Gambling / art / relationship walk-away rule: `saga1-episode-119-the-ranch-solo-series-part-two`, 01:28:28–01:31:39.
@@ -35,6 +40,7 @@ These are planning estimates, not trip budgets or quoted fares. They are the low
 - [Metroactive 2003 interview](https://www.metroactive.com/papers/metro/02.06.03/choe-0306.html) — contemporaneous San Jose and *Slow Jams* context.
 - [Snowman Monkey BBQ official images](https://davidchoe.com/2013/snowman-monkey-bbq-1-3) and [official flip-through](https://davidchoe.com/videos-1/david-choe-book-snowman-monkey-bbq-flip-through).
 - [David Choe chronological index](https://davidchoe.com/index).
+- [DC: Frank Miller](https://www.dc.com/talent/frank-miller) — publisher biography supporting the concise context on *The Dark Knight Returns*, *Batman: Year One*, Miller’s effect on the modern Batman template, and his broader comics stature. Choe’s “god,” “hero,” and hypothetical zine language comes from the transcript windows above, not DC.
 
 No pirate scan is linked or used. The exact “parking-lot draft” detail Jerry remembers was not located in the lawful primary and contemporaneous sources reviewed; the page labels it unverified instead of guessing.
 
