@@ -10,7 +10,7 @@ body {
 }
 
 main {
-  width: min(760px, 100%);
+  width: min(920px, 100%);
   margin: 0 auto;
   padding: 10px 10px 34px;
 }
@@ -102,11 +102,28 @@ img, picture { display: block; max-width: 100%; }
   line-height: 1.28;
 }
 
-.final-work img {
-  width: min(650px, 96vw);
-  height: auto;
-  margin: 0 auto;
+.tee-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4px;
 }
+
+.tee-grid picture {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1 / 1.12;
+  overflow: hidden;
+  padding: clamp(5px, 1.5vw, 16px);
+}
+
+.tee-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.tee-jumpshot { background: #ff00e6; }
+.tee-tennis { background: #00eeff; }
 
 footer {
   padding-top: 18px;

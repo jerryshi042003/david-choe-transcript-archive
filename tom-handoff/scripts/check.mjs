@@ -15,7 +15,10 @@ const required = [
   "assets/tom-ball-cap-cutout.webp",
   "assets/bandana-cap-cutout.png",
   "assets/bandana-cap-cutout.webp",
-  "assets/second-serve-tee.png",
+  "assets/jumpshot-tee-cutout.png",
+  "assets/jumpshot-tee-cutout.webp",
+  "assets/second-serve-cutout.png",
+  "assets/second-serve-cutout.webp",
 ];
 
 await Promise.all(required.map((file) => access(file)));
@@ -24,7 +27,7 @@ const html = await readFile("index.html", "utf8");
 const css = await readFile("styles.css", "utf8");
 const imageCount = (html.match(/<img /g) || []).length;
 
-if (imageCount !== 10) throw new Error(`Expected 10 image elements, found ${imageCount}`);
+if (imageCount !== 11) throw new Error(`Expected 11 image elements, found ${imageCount}`);
 if (!html.includes("TOM OH / UCLA FAST TENNIS RUNWAY")) throw new Error("Missing clear runway title");
 if (html.includes("Fashion show · Los Angeles · 2026") || html.includes("SHOOTING MY SHOT.")) throw new Error("Subtitle or closing caption leaked into page");
 if (html.includes("ball-cap-01.jpg") || html.includes("ball-cap-02.jpg")) throw new Error("Backgrounded cap photo leaked into page");
@@ -43,8 +46,10 @@ if ((css.match(/grid-template-columns: repeat\(3/g) || []).length !== 1) throw n
 if ((css.match(/grid-template-columns: 1fr/g) || []).length < 2) throw new Error("Pitch and studies are not one-column");
 if ((html.match(/<li>/g) || []).length !== 5) throw new Error("Expected five concise pitch bullets");
 if (!html.includes("I’m 22 and live in LA") || !html.includes("September 17")) throw new Error("Missing LA availability");
-if (html.indexOf("second-serve-tee.png") > html.indexOf("<footer")) throw new Error("Second Serve must precede contact");
-if (!css.includes("width: min(650px, 96vw)")) throw new Error("Second Serve graphic is not large enough");
+if (html.indexOf("jumpshot-tee-cutout.png") > html.indexOf("second-serve-cutout.png")) throw new Error("Jump-shot tee must precede the tennis tee");
+if (html.indexOf("second-serve-cutout.png") > html.indexOf("<footer")) throw new Error("Tee pair must precede contact");
+if (!css.includes(".tee-grid") || !css.includes("grid-template-columns: repeat(2")) throw new Error("Closing tees are not a two-column pair");
+if (!css.includes(".tee-jumpshot { background: #ff00e6; }") || !css.includes(".tee-tennis { background: #00eeff; }")) throw new Error("Closing tees are missing neon fields");
 if ((html.match(/<a /g) || []).length !== 2) throw new Error("Expected exactly two contact links");
 if (!html.includes('href="https://www.instagram.com/tomohto/"') || !html.includes('href="tel:+16618575287"')) throw new Error("Instagram or tappable phone link is missing");
 if (html.includes("mailto:")) throw new Error("Email link should not compete with the two primary contacts");
