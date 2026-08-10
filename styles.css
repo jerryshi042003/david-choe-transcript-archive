@@ -247,6 +247,10 @@ mark { background: var(--mark); color: inherit; }
 .subjeps a { color: var(--dim); text-decoration: none; white-space: nowrap;
   max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
 .subjeps a:hover { color: var(--ink); text-decoration: underline; }
+.subjeps .label { color: var(--faint); font: 500 10px/1.4 var(--sans); letter-spacing: .08em; text-transform: uppercase; }
+.subjeps .dim { color: var(--faint); font-size: 11px; margin-right: var(--s3); }
+.corpusdoc { padding-bottom: var(--s5); }
+.corpusq { width: 100%; box-sizing: border-box; margin: var(--s5) 0 var(--s3); border: 1px solid var(--line); background: transparent; color: var(--ink); padding: .7rem; font: 14px/1.4 var(--sans); }
 
 /* `hidden` must actually hide. Several elements carry a `display` rule that
    outranks the attribute's default UA styling, so route() could set

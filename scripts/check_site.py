@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import re
+import json
 import subprocess
 import sys
 from html.parser import HTMLParser
@@ -81,6 +82,19 @@ def main() -> int:
     for required in ("PEOPLE", "PLACES", "DAVID CHOE", "SOURCES.md"):
         if not re.search(re.escape(required), culture, re.IGNORECASE):
             errors.append(f"tennis-culture record lost required section/link: {required}")
+
+    try:
+        catalog = json.loads((ROOT / "data/catalog.json").read_text(encoding="utf-8"))
+        corpus = json.loads((ROOT / "data/corpus-map.json").read_text(encoding="utf-8"))
+        routes = {item["id"] for item in catalog["items"]}
+        documented = {item["id"] for item in corpus.get("documents", [])}
+        if routes != documented:
+            errors.append(f"corpus map coverage mismatch: {len(documented)} documented for {len(routes)} reader routes")
+        for item in corpus.get("documents", []):
+            if not isinstance(item.get("anchors"), list) or not isinstance(item.get("related"), list) or not item.get("segments"):
+                errors.append(f"corpus map entry incomplete: {item.get('id')}")
+    except (OSError, ValueError, KeyError) as exc:
+        errors.append(f"invalid corpus map: {exc}")
 
     if errors:
         print("Public archive validation failed:")

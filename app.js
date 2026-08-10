@@ -252,8 +252,8 @@ async function renderRetellings() {
   const sv = data.survey || {};
   // The denominator travels with the number. "13 stories" is meaningless until
   // the reader knows it came from 177 episodes, and which 177.
-  $('fhint').textContent = `${chains.length} stories told more than once`
-    + (n3 ? ` · ${n3} told three or more times` : '')
+  $('fhint').textContent = `${chains.length} candidate passage chains`
+    + (n3 ? ` · ${n3} appear in three or more episodes` : '')
     + (sv.episodes_swept ? ` · from ${sv.passages_indexed.toLocaleString()} passages`
        + ` across ${sv.episodes_swept} DVDASA episodes` : '');
   box.innerHTML = chains.map((c) => {
@@ -269,7 +269,7 @@ async function renderRetellings() {
       </div>`;
     return `<section class="retell">
       <p class="shared">${c.shared_names.map(esc).join(' · ')}
-        <span class="times">told in ${c.times_told} of ${sv.episodes_swept || '?'} episodes</span></p>
+        <span class="times">appears in ${c.times_told} of ${sv.episodes_swept || '?'} episodes</span></p>
       <div class="tells">${c.tellings.map((t, i) => side(t, label(i))).join('')}</div>
     </section>`;
   }).join('') || '<p class="empty">No candidates.</p>';
@@ -279,7 +279,7 @@ async function renderRetellings() {
 /* ONE navigable analysis section. The four analyses were reachable only as chips
    on the front page, so a reader who opened one had to go back to reach another
    and could not tell the set existed. They are one section with tabs. */
-const ANALYSES = [['stories', 'Stories'], ['retold', 'Told more than once'],
+const ANALYSES = [['corpus', 'Corpus map'], ['stories', 'Verified stories'], ['retold', 'Similar passages'],
                   ['arcs', 'Arcs'], ['subjects', 'Recurring subjects'],
                   ['cast', 'Cast'], ['method', 'Method']];
 
@@ -363,6 +363,36 @@ async function renderMethod() {
       <p class="fbody">${esc(f.body)}</p>
     </section>`).join('');
   box.innerHTML += await renderExternal();
+}
+
+/* Every real reader route gets a compact documentation card. The related links
+   are corpus-wide lexical leads, deliberately separate from verified stories. */
+async function renderCorpusMap() {
+  const box = $('body');
+  let data;
+  try { data = await (await fetch(dataURL('data/corpus-map.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No corpus map built yet.</p>'; return; }
+  const sv = data.survey || {};
+  const byId = new Map((data.documents || []).map((d) => [d.id, d]));
+  const docs = data.documents || [];
+  $('fhint').textContent = `${sv.reader_routes || docs.length} reader routes documented · every full transcript scanned`;
+  const card = (d) => `<section class="subj corpusdoc">
+    <p class="subjname"><a href="#/${esc(d.id)}">${esc(d.title)}</a>
+      <span class="times">${hms(d.duration)} · ${d.words.toLocaleString()} words</span></p>
+    <p class="same">${esc(d.kind)} · ${esc(d.group)} · ${d.segments.toLocaleString()} timestamped passages</p>
+    <p class="subjeps"><span class="label">distinctive terms</span>${d.anchors.map(esc).join(' · ') || '—'}</p>
+    ${d.related.length ? `<p class="subjeps"><span class="label">related full transcripts</span>${d.related.map((r) => {
+      const peer = byId.get(r.id); return peer ? `<a href="#/${esc(r.id)}">${esc(peer.title)}</a><span class="dim">${r.terms.map(esc).join(', ')}</span>` : '';
+    }).join('')}</p>` : '<p class="same">No multi-term corpus lead met the threshold.</p>'}
+  </section>`;
+  box.innerHTML = `<p class="same">${esc(sv.boundary || '')}</p><p class="same">${esc(sv.method || '')}</p>`
+    + `<input id="corpusq" class="corpusq" type="search" placeholder="Filter all documented transcripts…" autocomplete="off">`
+    + `<div id="corpusrows">${docs.map(card).join('')}</div>`;
+  $('corpusq').oninput = (event) => {
+    const query = event.target.value.trim().toLowerCase();
+    const shown = !query ? docs : docs.filter((d) => [d.title, d.group, ...d.anchors].join(' ').toLowerCase().includes(query));
+    $('corpusrows').innerHTML = shown.map(card).join('') || '<p class="empty">No documented transcript matches.</p>';
+  };
 }
 
 /* Arcs: where one telling runs across several episodes. */
@@ -783,15 +813,16 @@ function route() {
     // src/yt, none of which exist, so setting a property on null threw and the
     // view rendered nothing while the page chrome still appeared -- a blank
     // section that looked like "no data" rather than a crash.
-    $('rtitle').textContent = 'Told more than once';
+    $('rtitle').textContent = 'Similar passages — DVDASA';
     // The ordering basis is stated because "first told" and "last told" would
     // otherwise imply calendar dates the archive does not have. The recordings
     // carry no air dates in any source reachable here -- not in the files, the
     // titles, or a podcast feed, the show having been delisted years ago. Saga
     // and episode number is a true sequence, so drift has a direction; it just
     // has no years attached, and saying so is cheaper than a reader assuming.
-    $('rmeta').textContent = 'The same story told in more than one episode, in the '
-      + 'order it was told, as transcribed. Differences are shown, not explained. '
+    $('rmeta').textContent = 'Lexically related passages in more than one episode, '
+      + 'ordered by the show sequence. These are discovery leads, not verified '
+      + 'claims that the passages are the same story. '
       + 'Ordered by saga and episode number \u2014 the sequence the show released '
       + 'in. The recordings carry no air dates, so the order is real but the '
       + 'years are not known. DVDASA only \u2014 interviews and clips elsewhere '
@@ -804,6 +835,15 @@ function route() {
     $('editorial').innerHTML = '';
     renderTabs('retold');
     return renderRetellings();
+  }
+  if (raw === 'corpus') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Corpus map';
+    $('rmeta').textContent = 'A documentation card for every transcript reader route, built from its complete text. Related links are leads with shared distinctive terms across the full corpus, not claims that two recordings tell the same story.';
+    $('prov').textContent = ''; $('rlink').hidden = true; $('modes').hidden = true;
+    $('fq').hidden = true; $('editorial').innerHTML = '';
+    renderTabs('corpus');
+    return renderCorpusMap();
   }
   if (raw === 'cast') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
@@ -844,7 +884,7 @@ function route() {
   }
   if (raw === 'stories') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
-    $('rtitle').textContent = 'Stories';
+    $('rtitle').textContent = 'Verified stories';
     $('rmeta').textContent = 'Stories he tells more than once, each telling quoted '
       + 'in the order it was told. Every telling here was read and verified by a '
       + 'person before it was listed — the corpus proposes candidates, and it '
