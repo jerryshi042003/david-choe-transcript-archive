@@ -34,6 +34,7 @@ assert.doesNotMatch(css, /--[a-z-]+:|position:\s*sticky|border:|box-shadow|backg
 assert.match(sources, /San Jose is not part of either exact claim/i);
 assert.match(sources, /421 unique record IDs/i);
 assert.match(sources, /all 169 windows read/i);
+assert.match(html, /github\.com\/jerryshi042003\/david-choe-transcript-archive\/blob\/main\/tennis-culture\/SOURCES\.md/);
 
 const auditPath = fileURLToPath(new URL('../audit-choe-execution-stories.mjs', import.meta.url));
 const auditRun = spawnSync(process.execPath, [auditPath, '--summary'], { encoding: 'utf8' });
