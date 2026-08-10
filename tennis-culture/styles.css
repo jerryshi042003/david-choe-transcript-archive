@@ -23,15 +23,19 @@ q { quotes: "“" "”"; }
   gap: 22px;
   margin: 40px 0;
 }
-.inspiration img {
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-}
 .pictures figure { margin: 0; }
 img { display: block; width: 100%; height: auto; }
+.instagram {
+  display: block;
+  width: 100%;
+  height: 570px;
+  border: 0;
+  background: #fff;
+}
 figcaption { margin-top: 7px; }
 .end { margin-top: 46px; }
 @media (max-width: 640px) {
   main { padding: 18px 14px 72px; }
   .pictures { grid-template-columns: 1fr; gap: 28px; margin: 32px 0; }
+  .instagram { height: 620px; }
 }
