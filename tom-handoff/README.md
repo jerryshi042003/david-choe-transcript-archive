@@ -3,7 +3,7 @@
 Compact public selection of Tom Oh's tennis work and direct note for Mike.
 
 - clear UCLA FAST tennis-runway lead
-- one-column bandana studies without process captions
+- two side-by-side raw/worn bandana comparisons without process captions
 - two exact cap cutouts: tennis ball and bandana-under-cap
 - larger first-person pitch and universal-tennis goal
 - exact source-pixel jump-shot tee cutout paired with the Second Serve/Nike art in a large two-column neon close

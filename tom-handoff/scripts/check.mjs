@@ -43,7 +43,9 @@ for (const place of ["Brazil", "Italy", "Switzerland", "Philippines"]) {
   if (!html.includes(place)) throw new Error(`Missing universal-tennis place: ${place}`);
 }
 if ((css.match(/grid-template-columns: repeat\(3/g) || []).length !== 1) throw new Error("FAST is not the only three-column strip");
-if ((css.match(/grid-template-columns: 1fr/g) || []).length < 2) throw new Error("Pitch and studies are not one-column");
+if (!css.includes(".study {\n  display: grid;\n  grid-template-columns: repeat(2")) throw new Error("Bandana raw/model studies are not paired in one row");
+if (!css.includes("height: auto;\n  aspect-ratio: 4 / 5")) throw new Error("Bandana comparison frames are not locked to equal 4:5 sizing");
+if (!css.includes(".pitch ul {\n  display: grid;\n  grid-template-columns: 1fr")) throw new Error("Pitch is not one column");
 if ((html.match(/<li>/g) || []).length !== 5) throw new Error("Expected five concise pitch bullets");
 if (!html.includes("I’m 22 and live in LA") || !html.includes("September 17")) throw new Error("Missing LA availability");
 if (html.indexOf("jumpshot-tee-cutout.png") > html.indexOf("second-serve-cutout.png")) throw new Error("Jump-shot tee must precede the tennis tee");

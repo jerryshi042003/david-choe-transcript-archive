@@ -41,13 +41,14 @@ img, picture { display: block; max-width: 100%; }
 
 .study {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 10px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4px;
 }
 
 .study figure > img,
 .art-frame {
   width: 100%;
+  height: auto;
   aspect-ratio: 4 / 5;
 }
 
@@ -156,5 +157,5 @@ footer {
 @media (min-width: 700px) {
   main { padding-top: 12px; }
   section { margin-bottom: 72px; }
-  .study { gap: 14px; }
+  .study { gap: 10px; }
 }
