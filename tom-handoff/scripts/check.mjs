@@ -11,33 +11,36 @@ const required = [
   "assets/bandana-01-worn.jpg",
   "assets/bandana-02.jpg",
   "assets/bandana-02-worn.jpg",
-  "assets/ball-cap-01.jpg",
-  "assets/ball-cap-02.jpg",
   "assets/tom-ball-cap-cutout.png",
   "assets/tom-ball-cap-cutout.webp",
+  "assets/cap-construction-magenta.png",
+  "assets/cap-rear-magenta.png",
   "assets/second-serve-tee.png",
 ];
 
 await Promise.all(required.map((file) => access(file)));
 
 const html = await readFile("index.html", "utf8");
+const css = await readFile("styles.css", "utf8");
 const imageCount = (html.match(/<img /g) || []).length;
-const forbidden = /David Choe|meeting notes|potential/i;
 
-if (imageCount !== 11) throw new Error(`Expected 11 visible image elements, found ${imageCount}`);
-if ((html.match(/RAW BANDANA/g) || []).length !== 2) throw new Error("Expected two raw bandana views");
-if ((html.match(/MODEL CONCEPT \/ AI-WORN/g) || []).length !== 2) throw new Error("Expected two AI-worn bandana views");
-if (!html.includes("TRANSPARENT DEMO")) throw new Error("Missing transparent demo context");
-if (!html.includes("UCLA / FAST RUNWAY")) throw new Error("Missing UCLA / FAST runway context");
-if (!html.includes("LOS ANGELES · SEPTEMBER 17")) throw new Error("Missing LA availability");
-if (!html.includes("MAKE REAL SAMPLES WITH MIKE")) throw new Error("Missing Tom learning goal");
-if (!html.includes("Jerry always hits with strangers")) throw new Error("Missing Jerry universal-tennis goal");
-for (const place of ["Brazil", "Italy", "Switzerland"]) {
-  if (!html.includes(place)) throw new Error(`Missing universal-tennis proof: ${place}`);
+if (imageCount !== 11) throw new Error(`Expected 11 image elements, found ${imageCount}`);
+if (html.includes("<header") || html.includes("section-label")) throw new Error("Visible page/section chrome returned");
+if (html.includes("ball-cap-01.jpg") || html.includes("ball-cap-02.jpg")) throw new Error("Backgrounded cap photo leaked into page");
+if ((html.match(/tom-ball-cap-cutout/g) || []).length !== 2) throw new Error("Expected one real cap picture with WebP fallback");
+if (html.includes("cap-spin") || html.includes("AI 3D STUDY")) throw new Error("Inexact AI cap reconstruction leaked into page");
+if (!html.includes("RAW PROTOTYPE / 3 PHOTO CUTOUTS")) throw new Error("Missing concise cap context");
+if ((html.match(/cap-(construction|rear)-magenta\.png/g) || []).length !== 2) throw new Error("Expected two magenta cap studies");
+if (!css.includes("background: #00eeff")) throw new Error("Missing full neon cyan field");
+if (css.includes("radial-gradient") || css.includes("picture::before") || css.includes("picture::after")) throw new Error("Random neon shapes returned");
+if (!html.includes("Jerry hits with strangers")) throw new Error("Missing universal-tennis goal");
+for (const place of ["Brazil", "Italy", "Switzerland", "Philippines"]) {
+  if (!html.includes(place)) throw new Error(`Missing universal-tennis place: ${place}`);
 }
-if (!html.includes("Philippines first")) throw new Error("Missing travel sequence");
-if (!html.includes("IF I MISS THIS SECOND SERVE / TEE ARTWORK")) throw new Error("Missing tee artwork context");
+if (!css.includes("grid-template-columns: repeat(3")) throw new Error("FAST is not a three-column strip");
+if ((css.match(/grid-template-columns: repeat\(3/g) || []).length !== 2) throw new Error("Expected compact FAST and cap strips");
+if ((css.match(/grid-template-columns: 1fr/g) || []).length < 3) throw new Error("Main content is not one-column");
+if (html.indexOf("second-serve-tee.png") > html.indexOf("<footer")) throw new Error("Second Serve must precede contact");
 if (!html.includes("@TOMOHTO")) throw new Error("Missing approved Tom contact");
-if (forbidden.test(html)) throw new Error("Internal-planning copy leaked into public handoff");
 
-console.log("Tom → Mike handoff check passed.");
+console.log("Tom → Mike compact handoff check passed.");
