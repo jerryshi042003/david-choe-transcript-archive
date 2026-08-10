@@ -85,6 +85,16 @@ img, picture { display: block; max-width: 100%; }
 
 .hat-grid picture img { object-fit: cover; }
 
+.hat-construction img {
+  transform: scale(1.4);
+  transform-origin: center 78%;
+}
+
+.hat-routing img {
+  transform: scale(1.5);
+  transform-origin: center 58%;
+}
+
 .hat-ball { background: #00eeff; }
 .hat-bandana { background: #ff00e6; }
 

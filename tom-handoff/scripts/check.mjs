@@ -15,6 +15,8 @@ const required = [
   "assets/tom-ball-cap-cutout.webp",
   "assets/bandana-cap-cutout.png",
   "assets/bandana-cap-cutout.webp",
+  "assets/cap-construction-magenta.png",
+  "assets/cap-rear-magenta.png",
   "assets/jumpshot-tee-cutout.png",
   "assets/jumpshot-tee-cutout.webp",
   "assets/second-serve-cutout.png",
@@ -27,12 +29,14 @@ const html = await readFile("index.html", "utf8");
 const css = await readFile("styles.css", "utf8");
 const imageCount = (html.match(/<img /g) || []).length;
 
-if (imageCount !== 11) throw new Error(`Expected 11 image elements, found ${imageCount}`);
+if (imageCount !== 13) throw new Error(`Expected 13 image elements, found ${imageCount}`);
 if (!html.includes("TOM OH / UCLA FAST TENNIS RUNWAY")) throw new Error("Missing clear runway title");
 if (html.includes("Fashion show · Los Angeles · 2026") || html.includes("SHOOTING MY SHOT.")) throw new Error("Subtitle or closing caption leaked into page");
 if (html.includes("ball-cap-01.jpg") || html.includes("ball-cap-02.jpg")) throw new Error("Backgrounded cap photo leaked into page");
 if ((html.match(/tom-ball-cap-cutout/g) || []).length !== 2) throw new Error("Expected one real cap picture with WebP fallback");
 if ((html.match(/bandana-cap-cutout/g) || []).length !== 2) throw new Error("Expected one bandana-under-cap picture with WebP fallback");
+if ((html.match(/cap-construction-magenta/g) || []).length !== 1 || (html.match(/cap-rear-magenta/g) || []).length !== 1) throw new Error("Expected two cap construction detail views");
+if (!css.includes("transform: scale(1.4)") || !css.includes("transform: scale(1.5)")) throw new Error("Cap construction views are not framed as close details");
 if (html.includes("cap-spin") || /\b(?:AI|RAW|MODEL|TRANSPARENT)\b/.test(html)) throw new Error("Process labels leaked into page");
 if (!css.includes("background: #00eeff")) throw new Error("Missing full neon cyan field");
 if (!css.includes("background: #ff00e6")) throw new Error("Missing full neon magenta field");
