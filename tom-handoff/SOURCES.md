@@ -14,8 +14,8 @@ All assets and the public Tom contact were approved for publication by Jerry Shi
 | `ball-cap-01.jpg` | supplied tennis-ball cap photograph |
 | `ball-cap-02.jpg` | supplied cap and bandana photograph |
 | `tom-ball-cap-cutout.png`, `tom-ball-cap-cutout.webp` | built-in identity-preserving background extraction from `IMG_0317.jpeg`, chroma keyed locally; labeled on-page |
-| `cap-construction-magenta.png` | built-in background extraction from Tom's emailed `IMG_0313.jpeg`; solid magenta field; exact construction/routing checked against the source |
-| `cap-rear-magenta.png` | built-in background extraction from Tom's emailed `IMG_0323.jpeg`; solid magenta field; exact rear routing checked against the source |
+| `cap-construction-magenta.png`, `cap-construction-magenta.webp` | built-in background extraction from Tom's emailed `IMG_0313.jpeg`; solid magenta field; exact construction/routing checked against the source |
+| `cap-rear-cyan.webp` | built-in background extraction from Tom's emailed `IMG_0323.jpeg`; solid cyan field; exact rear routing checked against the source |
 | `bandana-cap-cutout.png`, `bandana-cap-cutout.webp` | built-in identity-preserving background extraction from Tom's `IMG_0329.jpeg`; chroma keyed locally; exact cap, bandana, cords, toggles, face, and clothing checked against the source |
 | `second-serve-tee.png` | supplied tee artwork |
 
