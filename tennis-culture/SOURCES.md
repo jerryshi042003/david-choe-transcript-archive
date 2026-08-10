@@ -63,12 +63,23 @@ The previous wording implied that two people could shadow, Los Angeles was the p
 ## Mike Cherman
 
 - [Public Instagram](https://www.instagram.com/mikecherman/) — current profile links MARKET and Tennis T‑Shirts.
+- [Nike Tennis / Nike NYC announcement](https://www.instagram.com/mikecherman/p/DbbdX1gD4n_/) — Mike’s first-person 30 July 2026 caption says he partnered with Nike Tennis on customization graphics at Nike SoHo and House of Innovation through 19 September.
 - [Tennis T‑Shirts Instagram](https://www.instagram.com/tennistshirts/) — directly inspected 9 August 2026; the public July 2026 posts document a Los Angeles heat-press/Wimbledon activation with The Courts and name a New York / US Open activation as next.
 - [Tennis T‑Shirts](https://www.tennistshirts.com/)
-- [The Courts Instagram](https://www.instagram.com/the__courts/) — public posts document the July 2026 heat-press / Wimbledon activation.
+- [The Courts activation announcement](https://www.instagram.com/the__courts/p/DagkRTMEh8e/) and [activation documentation](https://www.instagram.com/the__courts/p/DanuIs_Grr7/) — public posts document the July 2026 bring-a-garment, choose-from-30+-graphics Wimbledon activation.
+- [Patrick Palacio Ondevilla / Filipino-fighter capsule](https://www.instagram.com/tennistshirts/p/DblihcqieiH/) — co-authored public post explicitly says “Designed by @patpalacio.” [His public Cosmos profile](https://www.cosmos.so/patpalacio) supplies the full name. This is the design credit for that capsule; Mike is not named as its designer.
+- [Patrick Palacio Ondevilla](https://www.instagram.com/patpalacio/) and [Grapika Studios](https://www.instagram.com/grapikastudios/) — public profiles inspected 9 August 2026. Pat links Grapika; Mike visibly follows both. This is a public-platform connection signal, not proof of employment, ownership, or friendship.
+- [Tennis Courterly collaboration](https://www.instagram.com/tennistshirts/p/DZN0KEVBgEZ/) — limited reflective tee tied to a Tennis Courterly issue and event.
 - [StockX founder interview](https://stockx.com/news/behind-the-scenes-at-chinatown-market/) — MARKET origin and maker/platform framing.
 
-Jerry’s relationship with Mike and any planned meeting are Jerry-supplied. Private mutual-follow signals are excluded from the public record.
+Jerry’s relationship with Mike and the 10 August 2026 meeting are Jerry-supplied. Follow and like signals cited on the page were visible on public profiles in Jerry’s signed-in Instagram session on 9 August 2026; they are volatile and establish only the platform action stated.
+
+### Tennis T‑Shirts authorship and site audit
+
+- The specific Filipino-fighter collection is credited to Patrick Palacio Ondevilla / `@patpalacio` by the Tennis T‑Shirts post itself.
+- Mike’s profile names Tennis T‑Shirts as one of his two current projects, and Mike co-authors or publishes activations. No reviewed official page names an exact corporate owner, calls Mike “founder” of Tennis T‑Shirts, or credits him with every graphic.
+- The 9 August 2026 storefront bundle identifies a Vite/React front end served from Vercel and a Shopify Storefront GraphQL endpoint (`tennis-t-shirts-2.myshopify.com`). This supports “custom storefront backed by Shopify,” not a stock Shopify theme.
+- The resemblance to the recent Yeezy.com store is a visual assessment: large product imagery, neutral palette, sparse copy, and nearly absent navigation. No reviewed source states direct inspiration, copied code, or a shared template. Minimal/brutalist product grids predate both sites, so the page records resemblance without converting it into an authorship claim.
 
 The page no longer states as sourced fact that Mike plays tennis every day. Jerry supplied that detail; the public evidence used here establishes the current tennis work, not a daily playing schedule.
 
@@ -78,7 +89,12 @@ The page no longer states as sourced fact that Mike plays tennis every day. Jerr
 - [Tennis Classic interview](https://tennisclassic.jp/article/detail/6170) — national-level playing background, BEAMS/Setinn history, and interest in a tennis club rather than product alone.
 - [Setinn about](https://setinn.jp/about/) — on-court / off-court purpose.
 - [ASICS × Setinn](https://setinn.jp/news/1682/) — official June 2026 collaboration and Laurent Segretier photo credit.
+- [Setinn / Paperboy flagship](https://setinn.jp/news/1691/) — official July 2026 opening announcement for the Sendagaya store and community base.
+- [Ena Shibahara](https://setinn.jp/news/689/) — official announcement naming her Setinn’s first contracted player.
+- [Paperboy world tour](https://setinn.jp/news/964/) — official Setinn record of Paperboy-linked activations at DOE Shanghai and Carnival Bangkok.
 - [Setinn news](https://setinn.jp/news/) — flagship, Vans, Champion, paperboy, academy, athlete, and event history.
+
+Mike and Shingo visibly followed one another on 9 August 2026, and Shingo’s account appeared among likes on Mike’s [Paris Tennis Week post](https://www.instagram.com/mikecherman/p/DaLUjcvm4ef/). This supports “already directly connected on Instagram,” not a claim about private conversations, friendship, or an existing commercial project.
 
 ASICS is verified. No public source reviewed established a current Setinn or Shingo collaboration with Wilson. That claim remains unverified.
 
