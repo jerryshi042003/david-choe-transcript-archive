@@ -2,6 +2,46 @@
 
 Updated 9 August 2026.
 
+## Claude review and exact place leads
+
+The Claude desktop search was reviewed through the app on 9 August 2026. Search did not surface a dedicated tennis-travel chat. The exact prior research was recovered from Claude-created project notes in Jerry's personal workspace, primarily `projects/tennis-grassroots-contacts.md` and the archived `projects/_archive/tennis-outreach-plan.md`.
+
+- **Rio:** [Favela Tênis & Cultura / O Globo](https://oglobo.globo.com/rio/moradores-do-alemao-criam-escola-de-tenis-para-jovens-da-favela-usando-raquetes-bolas-achados-no-lixo-25019906), [Terra](https://www.terra.com.br/visao-do-corre/deu-jogo/favela-tenis-no-rio-aproxima-jovens-de-esporte-elitizado%2C329f80b8a2431fb5ca6b0b247074def51gbmral3.html), and [Instagram](https://www.instagram.com/favelatenis/).
+- **Buenos Aires:** [Parque Manuel Belgrano / KDT city source](https://buenosaires.gob.ar/gcaba_historico/noticias/el-parque-manuel-belgrano-abre-los-sabados-y-amplia-su-horario) confirms eight tennis courts; [KDT Instagram](https://www.instagram.com/kdt.oficial/). [Circuito Tênis](https://circuitotenis.com/) and [Instagram](https://www.instagram.com/circuito_tenis/) are the amateur-opponent lead preserved in Claude's notes.
+- **Belgrade:** [Teniski klub Partizan](https://tkpartizan.rs/en/) confirms 14 outdoor clay courts, 08:00–22:00 hours, advance booking, Humska 1, phone, and email; [gallery](https://tkpartizan.rs/en/gallery/). Claude's smaller alternative is [Baseline Tennis Center](https://www.instagram.com/teniskicentarbaseline/) in Košutnjak.
+
+## Airfare snapshots
+
+These are planning estimates, not trip budgets or quoted fares. They are the lowest recent round-trip economy results visible on 9 August 2026, per person from Los Angeles. Two-person numbers are simple multiplication. Lodging, baggage, food, insurance, visas, ground transit, court time, and fare changes are excluded.
+
+- [LAX–Rio / Google Flights](https://www.google.com/travel/flights/flights-from-los-angeles-to-rio-de-janeiro.html?gl=US&hl=en-US): about $581 per person / $1,162 for two.
+- [LAX–Buenos Aires / Google Flights](https://www.google.com/travel/flights/flights-from-los-angeles-to-buenos-aires.html): about $726 per person / $1,452 for two.
+- [LAX–Belgrade / Turkish Airlines](https://www.turkishairlines.com/en-us/flights-from-los-angeles-to-belgrade): about $769 per person / $1,538 for two for a displayed fall itinerary.
+
+## Added David Choe source windows
+
+- Power Ranger / Las Vegas / desert / greed / hitchhiking: `saga1-episode-038-with-david-choe-and-asa-akira`, 00:41:49–01:01:14.
+- Facebook job, approximate $60,000 fee, equity, gambling stop system, Harry Kim: `CvHFWwVZKoI`, 01:02:25–01:06:36.
+- Approximate $60,000 fee and explicit belief in Sean Parker: `XS6awjpIimw`, 00:13:53–00:16:23 and 00:32:12.
+- Sean Parker correspondence from Napster through funded Facebook: `saga1-episode-101-the-ranch-solo-series-part-one`, 00:34:09–00:37:59.
+- Vice / friend / brand work often unpaid or underpaid; adult-magazine fees, Butt Man firing, Hustler / Asian Fever payment by W. T. Nelson: `zHyvVajsqMw`, 00:45:05–00:46:20 and 01:56:26–02:06:58.
+- *Slow Jams* content and production change: `3QecMMrcCCA`, 00:19:26–00:21:35; self-publication to Marvel: 00:36:40–00:38:29.
+- Gambling / art / relationship walk-away rule: `saga1-episode-119-the-ranch-solo-series-part-two`, 01:28:28–01:31:39.
+
+### Books and lawful visual sources
+
+- [David Choe: Slow Jams](https://davidchoe.com/videos-1/slow-jams-the-comics-of-david-choe) — official page and video flip-through.
+- [Fifty24SF: Slow Jams history](https://www.fifty24sf.com/tag/tag/slow%2Bjams) — single-night 1996 text, roughly 200 1998 photocopies, Xeric grant, expanded edition.
+- [Metroactive 2003 interview](https://www.metroactive.com/papers/metro/02.06.03/choe-0306.html) — contemporaneous San Jose and *Slow Jams* context.
+- [Snowman Monkey BBQ official images](https://davidchoe.com/2013/snowman-monkey-bbq-1-3) and [official flip-through](https://davidchoe.com/videos-1/david-choe-book-snowman-monkey-bbq-flip-through).
+- [David Choe chronological index](https://davidchoe.com/index).
+
+No pirate scan is linked or used. The exact “parking-lot draft” detail Jerry remembers was not located in the lawful primary and contemporaneous sources reviewed; the page labels it unverified instead of guessing.
+
+## Private compilation
+
+The requested MP4 is kept outside the public repository. Its public source manifest is [`RESEARCH-CUT.md`](RESEARCH-CUT.md). Source excerpts were downloaded only from public video pages. The DVDASA 038 iVoox media URL returned 404, so that chapter is represented by a source card and transcript reference rather than fabricated audio.
+
 ## Meeting record
 
 The two-call chronology, roles, job constraint, FaceTime/ball-mower detail, travel intent, UCLA relationships, and personal leads come from Jerry’s dictated account. Tom has not reviewed or approved the wording. No deadline, deliverable, travel plan, or unpaid engagement was stated as agreed.

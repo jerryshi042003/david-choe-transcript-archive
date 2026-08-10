@@ -1,32 +1,33 @@
 * { box-sizing: border-box; }
+html { background: #fff; color: #000; }
 body {
   margin: 0;
-  background: #fff;
-  color: #000;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
-  line-height: 1.45;
+  line-height: 1.48;
 }
 main {
-  width: min(1040px, 100%);
+  width: min(900px, 100%);
   margin: 0 auto;
-  padding: 28px 18px 80px;
+  padding: 28px 18px 96px;
 }
-p, ul, figure { margin: 0 0 28px; }
+p, ul, figure { margin: 0 0 30px; }
 ul { padding-left: 20px; }
-li + li { margin-top: 6px; }
-a { color: #000; text-underline-offset: 2px; }
+ul ul { margin: 7px 0 14px; }
+li + li { margin-top: 7px; }
+a { color: inherit; text-underline-offset: 2px; }
+q { quotes: "“" "”"; }
 .pictures {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 18px;
-  margin: 34px 0;
+  gap: 22px;
+  margin: 40px 0;
 }
 .pictures figure { margin: 0; }
 img { display: block; width: 100%; height: auto; }
-figcaption { margin-top: 6px; }
-.choe { margin-bottom: 40px; }
+figcaption { margin-top: 7px; }
+.end { margin-top: 46px; }
 @media (max-width: 640px) {
-  main { padding: 18px 14px 60px; }
-  .pictures { grid-template-columns: 1fr; gap: 24px; margin: 28px 0; }
+  main { padding: 18px 14px 72px; }
+  .pictures { grid-template-columns: 1fr; gap: 28px; margin: 32px 0; }
 }
