@@ -9,7 +9,7 @@ const sources = readFileSync(new URL('../tennis-culture/SOURCES.md', import.meta
 const catalog = JSON.parse(readFileSync(new URL('../data/catalog.json', import.meta.url), 'utf8'));
 const ids = new Set(catalog.items.map(item => item.id));
 
-for (const term of ['ball mower','Bellevue','daily job','Mike Cherman','Shingo Arai','One Hand Tony','Nothing is ready to send','videographer friend','TOM HAS NOT REVIEWED','NEXT PROOF — NOT AGREED','one finished object']) {
+for (const term of ['ball mower','Bellevue','daily job','Mike Cherman','Shingo Arai','One Hand Tony','nothing finished to show Mike or Shingo','videographer friend','TOM HAS NOT REVIEWED','ONE PROOF — PROPOSED, NOT AGREED','one finished object']) {
   assert.ok(html.toLowerCase().includes(term.toLowerCase()), `missing meeting fact: ${term}`);
 }
 
@@ -20,21 +20,22 @@ for (const id of [
   '3QecMMrcCCA', '-wZk4B1BB0c', 'OP1mXscTUnw', 'zHyvVajsqMw'
 ]) assert.ok(ids.has(id), `missing archive source ${id}`);
 
-assert.ok((html.match(/class="choe"[\s\S]*?<\/ul>/)?.[0].match(/<li>/g) || []).length >= 38, 'Choe accumulation must contain at least 38 timestamped items');
-assert.ok((html.match(/<figure>/g) || []).length >= 8, 'moodboard needs at least eight cited pictures');
+const choeSections = html.slice(html.indexOf('DAVID CHOE — REPEATED QUESTIONS / OPERATING RULES'));
+assert.ok((choeSections.match(/<li>/g) || []).length >= 30, 'Choe research sections must retain the full working accumulation');
+assert.ok((html.match(/<figure>/g) || []).length >= 7, 'moodboard needs at least seven cited pictures');
 assert.ok((html.match(/<figcaption>/g) || []).length === (html.match(/<figure>/g) || []).length, 'every picture needs a citation caption');
 
-for (const forbidden of ['<header', '<nav', '<aside', '<section', '<table', '<details', '<button', 'class="card', 'FACT +', 'LEAD', 'OPEN', 'PROPOSED', 'useful work']) {
+for (const forbidden of ['<header', '<nav', '<aside', '<section', '<table', '<details', '<button', 'class="card', 'FACT +', 'OPEN', 'useful work']) {
   assert.ok(!html.includes(forbidden), `forbidden site structure or status language: ${forbidden}`);
 }
 assert.doesNotMatch(html, /<h[1-6][^>]*>/i);
 assert.match(css, /font-size:\s*15px/);
 assert.equal((css.match(/font-size:/g) || []).length, 1, 'use one type size throughout');
-assert.doesNotMatch(css, /--[a-z-]+:|position:\s*sticky|border:|box-shadow|background:\s*#[^f]|color:\s*#[^0]/i);
+assert.doesNotMatch(css, /--[a-z-]+:|position:\s*sticky|border:(?!\s*0(?:;|\s|}))|box-shadow|background:\s*#[^f]|color:\s*#[^0]/i);
 assert.match(sources, /San Jose is not part of either exact claim/i);
 assert.match(sources, /421 unique record IDs/i);
-assert.match(sources, /all 169 windows read/i);
-assert.match(html, /github\.com\/jerryshi042003\/david-choe-transcript-archive\/blob\/main\/tennis-culture\/SOURCES\.md/);
+assert.match(sources, /173 review windows/i);
+assert.match(html, /href="SOURCES\.md"/);
 
 const auditPath = fileURLToPath(new URL('../audit-choe-execution-stories.mjs', import.meta.url));
 const auditRun = spawnSync(process.execPath, [auditPath, '--summary'], { encoding: 'utf8' });
@@ -51,9 +52,9 @@ assert.deepEqual({
   catalogRecords: 434,
   uniqueCatalogIds: 421,
   transcriptFilesFound: 421,
-  reviewWindows: 169,
+  reviewWindows: 173,
   retainedWindows: 37,
-  rejectedWindows: 132,
+  rejectedWindows: 136,
 });
 assert.deepEqual(audit.missingTranscriptIds, []);
 

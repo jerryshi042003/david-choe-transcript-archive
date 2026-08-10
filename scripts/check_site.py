@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 import json
 import subprocess
@@ -77,6 +78,14 @@ def main() -> int:
                 errors.append(
                     f"missing local target in {html.relative_to(ROOT)}: {value}"
                 )
+
+    catalog = json.loads((ROOT / "data" / "catalog.json").read_text(encoding="utf-8"))
+    underscore_ids = [item["id"] for item in catalog["items"] if item["id"].startswith("_")]
+    if underscore_ids and not (ROOT / ".nojekyll").exists():
+        errors.append(
+            ".nojekyll is required because GitHub Pages otherwise omits "
+            f"{len(underscore_ids)} underscore-prefixed transcript routes"
+        )
 
     culture = (ROOT / "tennis-culture" / "index.html").read_text(encoding="utf-8")
     for required in ("PEOPLE", "PLACES", "DAVID CHOE", "SOURCES.md"):
