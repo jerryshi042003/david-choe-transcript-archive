@@ -6,15 +6,25 @@ Updated 9 August 2026.
 
 The two-call chronology, roles, job constraint, FaceTime/ball-mower detail, travel intent, UCLA relationships, and personal leads come from Jerry’s dictated account. Tom has not reviewed or approved the wording. No deadline, deliverable, travel plan, or unpaid engagement was stated as agreed.
 
+The page now separates three kinds of material:
+
+- Jerry-supplied facts and assignments.
+- Public facts linked to a direct profile, project, interview, or official page.
+- A proposed next proof, explicitly not agreed by Jerry, Tom, Mike, Shingo, a player, or a camera person.
+
+The previous wording implied that two people could shadow, Los Angeles was the plan, and Tom had accepted responsibility for a deliverable. Those were inferences. They are no longer stated as commitments.
+
 ## Mike Cherman
 
 - [Public Instagram](https://www.instagram.com/mikecherman/) — current profile links MARKET and Tennis T‑Shirts.
-- [Tennis T‑Shirts Instagram](https://www.instagram.com/tennistshirts/) — checked 9 August 2026; current LA activation with The Courts and a stated New York / US Open next activation.
+- [Tennis T‑Shirts Instagram](https://www.instagram.com/tennistshirts/) — directly inspected 9 August 2026; the public July 2026 posts document a Los Angeles heat-press/Wimbledon activation with The Courts and name a New York / US Open activation as next.
 - [Tennis T‑Shirts](https://www.tennistshirts.com/)
 - [The Courts Instagram](https://www.instagram.com/the__courts/) — public posts document the July 2026 heat-press / Wimbledon activation.
 - [StockX founder interview](https://stockx.com/news/behind-the-scenes-at-chinatown-market/) — MARKET origin and maker/platform framing.
 
 Jerry’s relationship with Mike and any planned meeting are Jerry-supplied. Private mutual-follow signals are excluded from the public record.
+
+The page no longer states as sourced fact that Mike plays tennis every day. Jerry supplied that detail; the public evidence used here establishes the current tennis work, not a daily playing schedule.
 
 ## Shingo Arai / Setinn
 
@@ -48,6 +58,18 @@ San Jose is not part of either exact claim. It remains separate biographical con
 
 ## Choe working accumulation
 
+### Coverage and review boundary
+
+- Catalog: 434 records; 421 unique record IDs.
+- Transcript files found: 421 of 421; no catalog ID is missing a transcript file.
+- Reproducible search: [`audit-choe-execution-stories.mjs`](../audit-choe-execution-stories.mjs).
+- Search families: self-publication; outreach/rejection; work before permission; named openings; constrained production; gifts/trades; first-person jobs.
+- Result: 601 matching segment neighborhoods grouped into 169 review windows.
+- Human review: all 169 windows read on 9 August 2026; 37 retained, 132 rejected as another speaker, a generic mention, a trailer/recap, or not a discrete first-person Choe execution story.
+- The page can split one long retained window into several timestamped bullets or combine duplicate tellings, so the page-bullet count is not expected to equal 37.
+
+Run `node audit-choe-execution-stories.mjs --summary` for the corpus counts, or run it without `--summary` for every candidate, its context, and its retain/reject decision. The rules are deliberately narrower than a semantic claim about every possible sentence. Speaker labels are absent, and transcript search cannot prove biographical truth. The retained items are first-person source accounts, not independent verification.
+
 | Story | Record | Window |
 | --- | --- | --- |
 | Restriction: China, Mexico, prison | `saga1-episode-101-the-ranch-solo-series-part-one` | 00:20:07 |
@@ -75,10 +97,21 @@ San Jose is not part of either exact claim. It remains separate biographical con
 | Support before consensus / Banksy | `saga1-episode-119-the-ranch-solo-series-part-two` | 01:12:53–01:16:05 |
 | Make the job before permission | `saga1-episode-101-the-ranch-solo-series-part-one` | 01:10:47–01:13:49 |
 | Give the best work for a bounded period | `saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode` | 00:44:32–00:47:49 |
+| Self-fund, keep rights, make before selling | `saga1-episode-031-with-david-choe-and-asa-akira` | 01:08:27–01:09:08 |
+| Early cheap/free work later helps supporters | `saga1-episode-042-with-david-choe-and-asa-akira` | 01:05:00–01:05:26 |
+| Counterfeit credential access tactic | `saga1-episode-047-with-david-choe-and-asa-akira` | 00:26:43 |
+| Prison productivity and removed distractions | `saga1-episode-088-david-chang` | 00:22:38–00:23:04 |
+| Third ranch trip without phone/internet/media | `saga1-episode-119-the-ranch-solo-series-part-two` | 00:03:59–00:05:10 |
+| Ranch painting binge and physical process | `saga1-episode-119-the-ranch-solo-series-part-two` | 00:24:20–00:24:52 |
+| Applied science fiction / work backward | `saga2-book-02-chapter-001` | 00:31:29–00:31:57 |
+| Bad jobs, confidence, best work given free | `saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode` | 00:41:18–00:45:13 |
+| Hold price; add a second work | `saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode` | 00:48:49–00:49:34 |
+| Momofuku Ko murals and friends’ work | `saga2-saga-02-chapter-025-american-whoreror-story` | 00:44:37–00:45:18 |
+| Alternate distribution; podcast without ads; give work away | `tk923yF0TXA` | 01:05:59–01:06:28 |
+| Self-published writing creates Channing Tatum opening | `zHyvVajsqMw` | 02:37:36 |
+| Existing Pee-wee Herman relationship and corporate-note tradeoff | `zHyvVajsqMw` | 03:04:14–03:04:47 |
 
-These are summaries of Choe’s first-person accounts, not independently verified biography.
-
-The archive contains 434 transcript records. This list is a broader reviewed accumulation for this project, not a claim that every sentence in all 434 records has completed human editorial review. Redundancy stays until Jerry cuts it.
+These are summaries of Choe’s first-person accounts, not independently verified biography. Redundancy stays until Jerry cuts it.
 
 ## Images
 
@@ -89,8 +122,9 @@ The archive contains 434 transcript records. This list is a broader reviewed acc
 
 ## Page-design reference
 
-- [Virgil Abloh Archive](https://www.virgilabloh.com/) — current official archive surface.
-- [Virgil Abloh “POSTMODERN” archive](https://post-modern.virgilabloh.com/) — dense chronological accumulation of source links with little explanation.
-- [The Virgil Reader](https://reader.virgilabloh.com/) — archival material presented as the primary object.
+- [Virgil Abloh Archive](https://www.virgilabloh.com/) — directly inspected 9 August 2026. Its oversized blue announcement treatment is branding, not a model for this page, and was rejected.
+- [Virgil Abloh “POSTMODERN” archive](https://post-modern.virgilabloh.com/) — directly inspected 9 August 2026. Its useful mechanism is dense, visible accumulation; its red field, simulated windows, and dramatic headings were rejected.
+- [The Virgil Reader](https://reader.virgilabloh.com/) — directly inspected 9 August 2026. Its useful mechanism is generous space around primary objects; its shop header, cart, price, and giant product title were rejected.
+- [Canary Yellow](https://canary---yellow.com/) — directly inspected 9 August 2026. It confirms the same object-first spacing, but its retail navigation and display title were rejected.
 
-Only the mechanism was used: a blunt accumulation of linked artifacts. The page does not copy Virgil Abloh’s visual identity, lettering, color, or branding.
+The resulting rule is narrower than “copy Virgil”: black and white, one readable type size, linked bullets, source images, no navigation, no hero, no cards, no controls, and no decorative copy. The page does not copy Virgil Abloh’s visual identity, lettering, color, or branding.
