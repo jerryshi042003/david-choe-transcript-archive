@@ -3,7 +3,9 @@
 
 from __future__ import annotations
 
+import json
 import re
+import json
 import subprocess
 import sys
 from html.parser import HTMLParser
@@ -77,10 +79,31 @@ def main() -> int:
                     f"missing local target in {html.relative_to(ROOT)}: {value}"
                 )
 
+    catalog = json.loads((ROOT / "data" / "catalog.json").read_text(encoding="utf-8"))
+    underscore_ids = [item["id"] for item in catalog["items"] if item["id"].startswith("_")]
+    if underscore_ids and not (ROOT / ".nojekyll").exists():
+        errors.append(
+            ".nojekyll is required because GitHub Pages otherwise omits "
+            f"{len(underscore_ids)} underscore-prefixed transcript routes"
+        )
+
     culture = (ROOT / "tennis-culture" / "index.html").read_text(encoding="utf-8")
     for required in ("PEOPLE", "PLACES", "DAVID CHOE", "SOURCES.md"):
         if not re.search(re.escape(required), culture, re.IGNORECASE):
             errors.append(f"tennis-culture record lost required section/link: {required}")
+
+    try:
+        catalog = json.loads((ROOT / "data/catalog.json").read_text(encoding="utf-8"))
+        corpus = json.loads((ROOT / "data/corpus-map.json").read_text(encoding="utf-8"))
+        routes = {item["id"] for item in catalog["items"]}
+        documented = {item["id"] for item in corpus.get("documents", [])}
+        if routes != documented:
+            errors.append(f"corpus map coverage mismatch: {len(documented)} documented for {len(routes)} reader routes")
+        for item in corpus.get("documents", []):
+            if not isinstance(item.get("anchors"), list) or not isinstance(item.get("related"), list) or not item.get("segments"):
+                errors.append(f"corpus map entry incomplete: {item.get('id')}")
+    except (OSError, ValueError, KeyError) as exc:
+        errors.append(f"invalid corpus map: {exc}")
 
     if errors:
         print("Public archive validation failed:")

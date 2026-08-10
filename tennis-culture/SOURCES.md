@@ -126,8 +126,8 @@ San Jose is not part of either exact claim. It remains separate biographical con
 - Transcript files found: 421 of 421; no catalog ID is missing a transcript file.
 - Reproducible search: [`audit-choe-execution-stories.mjs`](../audit-choe-execution-stories.mjs).
 - Search families: self-publication; outreach/rejection; work before permission; named openings; constrained production; gifts/trades; first-person jobs.
-- Result: 601 matching segment neighborhoods grouped into 169 review windows.
-- Human review: all 169 windows read on 9 August 2026; 37 retained, 132 rejected as another speaker, a generic mention, a trailer/recap, or not a discrete first-person Choe execution story.
+- Result after the edited *Dirty Hands* transcript release: 615 matching segment neighborhoods grouped into 173 review windows.
+- Human review: the original 169 windows were read on 9 August 2026; the four additional *Dirty Hands*-derived windows are audit candidates, not retained stories. The current deterministic result is 37 retained and 136 rejected as another speaker, a generic mention, a trailer/recap, or not a discrete first-person Choe execution story.
 - The page can split one long retained window into several timestamped bullets or combine duplicate tellings, so the page-bullet count is not expected to equal 37.
 
 Run `node audit-choe-execution-stories.mjs --summary` for the corpus counts, or run it without `--summary` for every candidate, its context, and its retain/reject decision. The rules are deliberately narrower than a semantic claim about every possible sentence. Speaker labels are absent, and transcript search cannot prove biographical truth. The retained items are first-person source accounts, not independent verification.
