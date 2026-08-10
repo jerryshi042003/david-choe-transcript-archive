@@ -118,8 +118,8 @@ img, picture { display: block; max-width: 100%; }
 
 .hat-ball { background: #00eeff; }
 .hat-bandana { background: #ff00e6; }
-.hat-construction { background: #ff00e6; }
-.hat-routing { background: #00eeff; }
+.hat-construction { background: #00eeff; }
+.hat-routing { background: #ff00e6; }
 
 .pitch {
   padding: 28px 0;
@@ -159,10 +159,10 @@ img, picture { display: block; max-width: 100%; }
   object-fit: contain;
 }
 
-.tee-jumpshot { background: #ff00e6; }
+.tee-jumpshot { background: #f4f4f4; }
 .tee-tennis {
   grid-template-rows: minmax(0, 1fr) auto;
-  background: #00eeff;
+  background: #f4f4f4;
 }
 
 .shot-line {

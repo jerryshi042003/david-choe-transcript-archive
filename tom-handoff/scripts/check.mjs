@@ -15,6 +15,7 @@ const required = [
   "assets/tom-ball-cap-cutout.webp",
   "assets/bandana-cap-cutout.png",
   "assets/bandana-cap-cutout.webp",
+  "assets/cap-construction-cyan.png",
   "assets/cap-construction-magenta.png",
   "assets/cap-rear-magenta.png",
   "assets/jumpshot-tee-cutout.png",
@@ -36,7 +37,7 @@ if (html.includes("Fashion show · Los Angeles · 2026")) throw new Error("Extra
 if (html.includes("ball-cap-01.jpg") || html.includes("ball-cap-02.jpg")) throw new Error("Backgrounded cap photo leaked into page");
 if ((html.match(/tom-ball-cap-cutout/g) || []).length !== 2) throw new Error("Expected one real cap picture with WebP fallback");
 if ((html.match(/bandana-cap-cutout/g) || []).length !== 2) throw new Error("Expected one bandana-under-cap picture with WebP fallback");
-if ((html.match(/cap-construction-magenta/g) || []).length !== 1 || (html.match(/cap-rear-magenta/g) || []).length !== 1) throw new Error("Expected two cap construction detail views");
+if ((html.match(/cap-construction-cyan/g) || []).length !== 1 || (html.match(/cap-rear-magenta/g) || []).length !== 1) throw new Error("Expected cyan bottom-left and magenta bottom-right cap detail views");
 if (!css.includes("transform: scale(1.4)") || !css.includes("transform: scale(1.5)")) throw new Error("Cap construction views are not framed as close details");
 if (html.includes("cap-spin") || /\b(?:AI|RAW|MODEL|TRANSPARENT)\b/.test(html)) throw new Error("Process labels leaked into page");
 if (!css.includes("background: #00eeff")) throw new Error("Missing full neon cyan field");
@@ -60,9 +61,10 @@ if (!html.includes("I’m 22 and live in LA") || !html.includes("back permanentl
 if (html.indexOf("jumpshot-tee-cutout.png") > html.indexOf("second-serve-cutout.png")) throw new Error("Jump-shot tee must precede the tennis tee");
 if (html.indexOf("second-serve-cutout.png") > html.indexOf("<footer")) throw new Error("Tee pair must precede contact");
 if (!css.includes(".tee-grid") || !css.includes("grid-template-columns: repeat(2")) throw new Error("Closing tees are not a two-column pair");
-if (!css.includes(".tee-jumpshot { background: #ff00e6; }") || !css.includes(".tee-tennis {") || !css.includes("background: #00eeff;")) throw new Error("Closing tees are missing neon fields");
-if (!html.includes("I’M SHOOTING MY SHOT") || !css.includes(".shot-line")) throw new Error("Missing the shooting-my-shot close");
-if (!css.includes(".hat-ball { background: #00eeff; }") || !css.includes(".hat-bandana { background: #ff00e6; }") || !css.includes(".hat-construction { background: #ff00e6; }") || !css.includes(".hat-routing { background: #00eeff; }")) throw new Error("Hat grid is not alternating cyan and magenta");
+if (!css.includes(".tee-jumpshot { background: #f4f4f4; }") || !css.includes(".tee-tennis {") || (css.match(/background: #f4f4f4;/g) || []).length !== 2) throw new Error("Closing tees are not a neutral pair");
+if ((html.match(/I’M SHOOTING MY SHOT/g) || []).length !== 1 || !css.includes(".shot-line")) throw new Error("Shooting-my-shot close is missing or duplicated");
+if (!css.includes(".hat-ball { background: #00eeff; }") || !css.includes(".hat-bandana { background: #ff00e6; }") || !css.includes(".hat-construction { background: #00eeff; }") || !css.includes(".hat-routing { background: #ff00e6; }")) throw new Error("Hat grid does not use cyan on the bottom-left card");
+if (/\.tee-(?:jumpshot|tennis)[^}]*#(?:00eeff|ff00e6)/s.test(css)) throw new Error("Neon leaked into the closing tee pair");
 if (css.includes("border: 2px solid #000")) throw new Error("Contact links still look like oversized buttons");
 if ((html.match(/<a /g) || []).length !== 2) throw new Error("Expected exactly two contact links");
 if (!html.includes('href="https://www.instagram.com/tomohto/"') || !html.includes('href="tel:+16618575287"')) throw new Error("Instagram or tappable phone link is missing");
