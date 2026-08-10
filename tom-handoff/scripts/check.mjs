@@ -46,6 +46,8 @@ if ((css.match(/grid-template-columns: repeat\(3/g) || []).length !== 1) throw n
 if (!css.includes(".study {\n  display: grid;\n  grid-template-columns: repeat(2")) throw new Error("Bandana raw/model studies are not paired in one row");
 if (!css.includes("height: auto;\n  aspect-ratio: 4 / 5")) throw new Error("Bandana comparison frames are not locked to equal 4:5 sizing");
 if (!css.includes(".pitch ul {\n  display: grid;\n  grid-template-columns: 1fr")) throw new Error("Pitch is not one column");
+if (!css.includes("@media (min-width: 900px)") || !css.includes("main { width: min(1120px, 100%); }")) throw new Error("Desktop imagery is not enlarged");
+if (!css.includes(".final-work,\n  footer") || !css.includes("width: min(900px, 100%)")) throw new Error("Desktop text and closing content are not constrained");
 if ((html.match(/<li>/g) || []).length !== 5) throw new Error("Expected five concise pitch bullets");
 if (!html.includes("I’m 22 and live in LA") || !html.includes("September 17")) throw new Error("Missing LA availability");
 if (html.indexOf("jumpshot-tee-cutout.png") > html.indexOf("second-serve-cutout.png")) throw new Error("Jump-shot tee must precede the tennis tee");

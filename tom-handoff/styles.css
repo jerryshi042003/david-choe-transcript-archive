@@ -159,3 +159,16 @@ footer {
   section { margin-bottom: 72px; }
   .study { gap: 10px; }
 }
+
+@media (min-width: 900px) {
+  main { width: min(1120px, 100%); }
+
+  .intro,
+  .pitch,
+  .final-work,
+  footer {
+    width: min(900px, 100%);
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
