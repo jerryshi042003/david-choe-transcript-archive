@@ -5,7 +5,6 @@ from __future__ import annotations
 
 import json
 import re
-import json
 import subprocess
 import sys
 from html.parser import HTMLParser
@@ -86,6 +85,26 @@ def main() -> int:
             ".nojekyll is required because GitHub Pages otherwise omits "
             f"{len(underscore_ids)} underscore-prefixed transcript routes"
         )
+
+    try:
+        sources = json.loads((ROOT / "data" / "web-sources.json").read_text(encoding="utf-8"))
+        routes = {item["id"] for item in catalog["items"]}
+        source_ids: set[str] = set()
+        for source in sources.get("sources", []):
+            source_id = source.get("id")
+            if not source_id or source_id in source_ids:
+                errors.append(f"missing or duplicate web source id: {source_id}")
+            source_ids.add(source_id)
+            for field in ("title", "group", "status", "url", "archive_url", "relation", "coverage"):
+                if not source.get(field):
+                    errors.append(f"web source {source_id} missing {field}")
+            for record in source.get("records", []):
+                if record.get("id") not in routes:
+                    errors.append(f"web source {source_id} points to missing reader route: {record.get('id')}")
+        if "dirty-hands" not in source_ids or "yumyumcha" not in source_ids or "poon-report" not in source_ids:
+            errors.append("web source ledger lost a required Dirty Hands or Bill Poon source")
+    except (OSError, ValueError, KeyError) as exc:
+        errors.append(f"invalid web source ledger: {exc}")
 
     culture = (ROOT / "tennis-culture" / "index.html").read_text(encoding="utf-8")
     for required in ("PEOPLE", "PLACES", "DAVID CHOE", "SOURCES.md"):

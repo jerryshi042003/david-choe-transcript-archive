@@ -1,0 +1,191 @@
+{
+  "schema": "choe-corpus/web-sources@1",
+  "verified": "2026-08-10",
+  "scope": "Public web sources that originate, preserve, or contextualize David Choe archive records. This ledger stores metadata and links only, never copied site bodies or media.",
+  "sources": [
+    {
+      "id": "dirty-hands",
+      "title": "Dirty Hands: The Art and Crimes of David Choe",
+      "group": "Film and archive records",
+      "status": "Archive transcript",
+      "url": "https://vimeo.com/176683712",
+      "archive_url": "https://web.archive.org/web/*/https://vimeo.com/176683712",
+      "relation": "Feature documentary about David Choe. The archive holds a video-reviewed, 93-minute reading with 1,383 timestamped paragraphs, plus related trailers, a fragment, a San Francisco clip, and a deleted scene.",
+      "coverage": "Full archive reading and five related records.",
+      "records": [
+        {"id": "vimeo-dirty-hands-laff", "label": "Full 93-minute archive reading"},
+        {"id": "aJME3ZTtJBE", "label": "Official trailer"},
+        {"id": "7S1x4tQ16W0", "label": "Unofficial trailer"},
+        {"id": "AYAAfmzspis", "label": "Seven-minute fragment"},
+        {"id": "FbJRcXuqpqs", "label": "San Francisco clip"},
+        {"id": "Lzo0bCux_PA", "label": "Deleted scene"}
+      ]
+    },
+    {
+      "id": "david-choe-site",
+      "title": "DavidChoe.com",
+      "group": "Official and current",
+      "status": "Official site",
+      "url": "https://davidchoe.com/",
+      "archive_url": "https://web.archive.org/web/*/https://davidchoe.com/*",
+      "relation": "David Choe's current official website and the canonical starting point for his biography, art, writing, and video pages.",
+      "coverage": "Site home and navigation indexed; source pages remain with their publisher.",
+      "records": []
+    },
+    {
+      "id": "david-choe-blog",
+      "title": "David Choe — Blog",
+      "group": "Official and current",
+      "status": "Official blog",
+      "url": "https://davidchoe.com/blog",
+      "archive_url": "https://web.archive.org/web/*/https://davidchoe.com/blog*",
+      "relation": "The blog on David Choe's official domain. This is the verified current blog; no David Choe-authored Blogspot domain was verified.",
+      "coverage": "Blog index recorded without copying article bodies.",
+      "records": []
+    },
+    {
+      "id": "david-choe-index",
+      "title": "David Choe — Work Index",
+      "group": "Official and current",
+      "status": "Official index",
+      "url": "https://davidchoe.com/index",
+      "archive_url": "https://web.archive.org/web/*/https://davidchoe.com/index*",
+      "relation": "The official chronological index of David Choe artwork and published projects.",
+      "coverage": "Index route recorded as a discovery source.",
+      "records": []
+    },
+    {
+      "id": "david-choe-videos",
+      "title": "David Choe — Videos",
+      "group": "Official and current",
+      "status": "Official video index",
+      "url": "https://davidchoe.com/videos",
+      "archive_url": "https://web.archive.org/web/*/https://davidchoe.com/videos*",
+      "relation": "The official video directory, including a dedicated Dirty Hands page and other David Choe projects.",
+      "coverage": "Video index recorded; archive transcript coverage is listed separately.",
+      "records": [
+        {"id": "vimeo-dirty-hands-laff", "label": "Dirty Hands archive reading"}
+      ]
+    },
+    {
+      "id": "dirty-hands-official-page",
+      "title": "Dirty Hands — official David Choe page",
+      "group": "Official and current",
+      "status": "Official film page",
+      "url": "https://davidchoe.com/videos-1/david-choe-dirty-hands-the-art-crimes",
+      "archive_url": "https://web.archive.org/web/*/https://davidchoe.com/videos-1/david-choe-dirty-hands-the-art-crimes*",
+      "relation": "David Choe's official page for the Dirty Hands documentary and trailer.",
+      "coverage": "Official film page tied to the full archive reading.",
+      "records": [
+        {"id": "vimeo-dirty-hands-laff", "label": "Full Dirty Hands archive reading"},
+        {"id": "aJME3ZTtJBE", "label": "Official trailer"}
+      ]
+    },
+    {
+      "id": "david-choe-youtube",
+      "title": "David Choe — YouTube",
+      "group": "Official and current",
+      "status": "Official channel",
+      "url": "https://www.youtube.com/@davidchoe",
+      "archive_url": "https://web.archive.org/web/*/https://www.youtube.com/@davidchoe*",
+      "relation": "The official David Choe YouTube channel. YouTube items represented in this archive retain their own source links and reader records.",
+      "coverage": "Channel identity indexed; individual archive coverage is searchable on the transcript home.",
+      "records": []
+    },
+    {
+      "id": "david-choe-squarespace",
+      "title": "David Choe — legacy Squarespace site",
+      "group": "Historical web",
+      "status": "Legacy official mirror",
+      "url": "https://davidchoe.squarespace.com/",
+      "archive_url": "https://web.archive.org/web/*/https://davidchoe.squarespace.com/*",
+      "relation": "An older Squarespace-hosted version of David Choe's official site, including its own blog route.",
+      "coverage": "Legacy site identity and history links recorded.",
+      "records": []
+    },
+    {
+      "id": "david-choe-squarespace-blog",
+      "title": "David Choe — legacy Squarespace blog",
+      "group": "Historical web",
+      "status": "Legacy official blog",
+      "url": "https://davidchoe.squarespace.com/blog",
+      "archive_url": "https://web.archive.org/web/*/https://davidchoe.squarespace.com/blog*",
+      "relation": "The blog route on the older Squarespace-hosted version of David Choe's official site.",
+      "coverage": "Legacy blog index and history links recorded without copying posts.",
+      "records": []
+    },
+    {
+      "id": "dvdasa",
+      "title": "DVDASA.com",
+      "group": "Historical web",
+      "status": "Historical show site",
+      "url": "https://dvdasa.com/",
+      "archive_url": "https://web.archive.org/web/*/https://dvdasa.com/*",
+      "relation": "The historical home of DVDASA, the podcast corpus at the center of this transcript archive.",
+      "coverage": "All 177 DVDASA episodes represented in the archive catalog.",
+      "records": []
+    },
+    {
+      "id": "yumyumcha",
+      "title": "YumYumCha.com — Bill Poon",
+      "group": "Historical web",
+      "status": "Historical Bill Poon blog",
+      "url": "https://yumyumcha.com/",
+      "archive_url": "https://web.archive.org/web/*/https://yumyumcha.com/*",
+      "relation": "Bill Poon's historical blog. DVDASA conversations identify Poon as an early blogger and repeatedly name YumYumCha as his site.",
+      "coverage": "Identity tied to six timestamped archive episodes.",
+      "records": [
+        {"id": "saga1-episode-069-bobby-lee-and-the-pooner", "label": "Episode 069"},
+        {"id": "saga1-episode-073-am-i-gonna-get-that-ring-ft-bobby-lee-poon-phoebe", "label": "Episode 073"},
+        {"id": "saga1-episode-084-ask-asa-pooner-heather-phone-sex", "label": "Episode 084"},
+        {"id": "saga1-episode-091-insatiable-2-commentary", "label": "Episode 091"},
+        {"id": "saga1-episode-096-the-trivia-wedding", "label": "Episode 096"},
+        {"id": "saga2-saga-02-chapter-023-in-choe-we-trust", "label": "Saga 2, Chapter 023"}
+      ]
+    },
+    {
+      "id": "poon-report",
+      "title": "The Poon Report — Bill Poon",
+      "group": "Historical web",
+      "status": "DVDASA companion blog",
+      "url": "https://poonreport.tumblr.com/",
+      "archive_url": "https://web.archive.org/web/*/https://poonreport.tumblr.com/*",
+      "relation": "Bill Poon's Tumblr companion to DVDASA, named directly in the show as poonreport.tumblr.com.",
+      "coverage": "Identity tied to four timestamped archive episodes.",
+      "records": [
+        {"id": "saga1-episode-091-insatiable-2-commentary", "label": "Episode 091"},
+        {"id": "saga1-episode-094-steve-s-future", "label": "Episode 094"},
+        {"id": "saga1-episode-096-the-trivia-wedding", "label": "Episode 096"},
+        {"id": "saga1-episode-133-horny-in-your-heart", "label": "Episode 133"}
+      ]
+    },
+    {
+      "id": "koreans-gone-bad",
+      "title": "Koreans Gone Bad",
+      "group": "Publisher and context archives",
+      "status": "Historical podcast site",
+      "url": "https://koreansgonebad.com/",
+      "archive_url": "https://web.archive.org/web/*/https://koreansgonebad.com/*",
+      "relation": "A public archive of David Choe and Joe To's Koreans Gone Bad podcast, with contemporaneous Dirty Hands and Bill Poon references.",
+      "coverage": "Publisher archive indexed as historical context.",
+      "records": []
+    },
+    {
+      "id": "upper-playground",
+      "title": "Upper Playground — David Choe archive",
+      "group": "Publisher and context archives",
+      "status": "Publisher tag archive",
+      "url": "https://upperplayground.com/blogs/news-upperplayground/tagged/david-choe",
+      "archive_url": "https://web.archive.org/web/*/https://upperplayground.com/blogs/news-upperplayground/tagged/david-choe*",
+      "relation": "Upper Playground's publisher archive of David Choe news, releases, exhibitions, and projects.",
+      "coverage": "Publisher index recorded without copying posts or images.",
+      "records": []
+    }
+  ],
+  "unverified": [
+    {
+      "claim": "A David Choe-authored Blogspot domain",
+      "note": "No primary or historical URL was verified. The current official blog and legacy Squarespace mirror are indexed instead of guessing a Blogspot address."
+    }
+  ]
+}

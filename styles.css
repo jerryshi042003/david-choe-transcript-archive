@@ -343,3 +343,7 @@ mark { background: var(--mark); color: inherit; }
   color: #151515; border-top: 1px solid #151515; border-bottom: 1px solid #151515;
   text-decoration: none; font: 700 .75rem/1.35 ui-monospace, SFMono-Regular, Menlo, monospace; }
 .project-board:hover, .project-board:focus-visible { text-decoration: underline; }
+.source-directory { display: block; margin: 1rem 0 1.4rem; padding: 1rem 1.1rem;
+  border: 2px solid var(--fg); background: var(--mark); color: var(--fg);
+  font-weight: 800; text-decoration: none; }
+.source-directory:hover, .source-directory:focus-visible { text-decoration: underline; }

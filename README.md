@@ -3,6 +3,7 @@
 Public David Choe / DVDASA source archive, transcript reader, and Jerry / Tom tennis-culture working record.
 
 - Archive: https://jerryshi042003.github.io/david-choe-transcript-archive/
+- Verified web sources: https://jerryshi042003.github.io/david-choe-transcript-archive/sources/
 - Jerry / Tom record: https://jerryshi042003.github.io/david-choe-transcript-archive/tennis-culture/
 
 This repository is deliberately standalone. A contributor needs only this repository. Jerry's private personal workspace, notes, credentials, and unpublished media are not dependencies and must never be copied here.
@@ -43,6 +44,7 @@ Before opening a pull request:
 
 ```bash
 python3 scripts/check_site.py
+node tests/web-sources.test.mjs
 ```
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for content and source rules.
