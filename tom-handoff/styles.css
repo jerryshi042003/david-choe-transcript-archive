@@ -16,34 +16,39 @@ main {
 }
 
 .intro {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 12px;
   margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #000;
 }
 
-.intro h1 {
-  margin: 0;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  font-size: clamp(34px, 8vw, 68px);
-  font-style: italic;
-  font-weight: 900;
-  line-height: .82;
-  letter-spacing: -.035em;
-  text-transform: uppercase;
-}
-
+.intro h1,
 .intro p {
-  margin-top: 8px;
-  font-family: "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(14px, 4.2vw, 28px);
-  font-style: italic;
-  font-weight: 800;
-  line-height: 1;
-  letter-spacing: -.025em;
-  white-space: nowrap;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(13px, 1.8vw, 17px);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: .08em;
+  text-transform: uppercase;
 }
 
 section { margin: 0 0 58px; }
 figure, p, ul { margin: 0; }
 img, picture { display: block; max-width: 100%; }
+
+.section-title {
+  margin: 0 0 12px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
 
 .runway-grid {
   display: grid;
@@ -113,6 +118,8 @@ img, picture { display: block; max-width: 100%; }
 
 .hat-ball { background: #00eeff; }
 .hat-bandana { background: #ff00e6; }
+.hat-construction { background: #ff00e6; }
+.hat-routing { background: #00eeff; }
 
 .pitch {
   padding: 28px 0;
@@ -135,7 +142,8 @@ img, picture { display: block; max-width: 100%; }
   gap: 4px;
 }
 
-.tee-grid picture {
+.tee-grid > picture,
+.tee-grid > figure {
   display: grid;
   place-items: center;
   aspect-ratio: 1 / 1.12;
@@ -143,14 +151,28 @@ img, picture { display: block; max-width: 100%; }
   padding: clamp(5px, 1.5vw, 16px);
 }
 
-.tee-grid img {
+.tee-grid > picture img,
+.tee-grid > figure picture,
+.tee-grid > figure img {
   width: 100%;
   height: 100%;
   object-fit: contain;
 }
 
 .tee-jumpshot { background: #ff00e6; }
-.tee-tennis { background: #00eeff; }
+.tee-tennis {
+  grid-template-rows: minmax(0, 1fr) auto;
+  background: #00eeff;
+}
+
+.shot-line {
+  padding: 2px 4px 3px;
+  font-size: clamp(10px, 1.7vw, 15px);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: .06em;
+  text-align: center;
+}
 
 footer {
   padding-top: 18px;
@@ -160,24 +182,28 @@ footer {
 
 .contact-links {
   display: grid;
-  gap: 8px;
+  justify-items: center;
+  gap: 2px;
 }
 
 .contact-links a {
-  display: block;
-  padding: 16px 10px;
-  border: 2px solid #000;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 8px 4px;
   color: inherit;
-  font-size: clamp(18px, 4vw, 28px);
-  font-weight: 700;
-  line-height: 1.05;
-  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 .contact-links a:hover,
 .contact-links a:focus-visible {
-  color: #fff;
-  background: #000;
+  text-decoration-thickness: 2px;
 }
 
 @media (min-width: 700px) {
