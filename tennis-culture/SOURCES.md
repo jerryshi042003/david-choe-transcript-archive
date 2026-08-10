@@ -155,10 +155,11 @@ These are summaries of Choe’s first-person accounts, not independently verifie
 
 ## Images
 
+- [Tennis T-Shirts](https://www.tennistshirts.com/) — official site image and Mike Cherman project link.
 - [ASICS × Setinn](https://setinn.jp/news/1682/) — official campaign image; photographer Laurent Segretier.
 - [Little Tokyo Table Tennis / RefineLA](https://refinela.medium.com/little-tokyo-big-legacy-how-lttt-cultivates-community-f991b5116d57), [i-D](https://i-d.co/article/little-tokyo-table-tennis-interview/), and [Terasaki Budokan](https://www.terasakibudokan.org/lttt/) — community-play references.
 - [Favela Tênis / O Globo](https://oglobo.globo.com/rio/moradores-do-alemao-criam-escola-de-tenis-para-jovens-da-favela-usando-raquetes-bolas-achados-no-lixo-25019906) and [Terra](https://www.terra.com.br/visao-do-corre/deu-jogo/favela-tenis-no-rio-aproxima-jovens-de-esporte-elitizado%2C329f80b8a2431fb5ca6b0b247074def51gbmral3.html) — Complexo do Alemão project images.
-- YouTube thumbnails link to the corresponding public videos; transcript citations point back into the local archive.
+- Choe interview citations point back into this archive rather than linking interview videos from the working page.
 
 ## Page-design reference
 
