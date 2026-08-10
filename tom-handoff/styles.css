@@ -16,15 +16,29 @@ main {
 }
 
 .intro {
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
 .intro h1 {
-  max-width: 18ch;
   margin: 0;
-  font-size: clamp(24px, 6vw, 44px);
-  line-height: .95;
-  letter-spacing: -.045em;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: clamp(34px, 8vw, 68px);
+  font-style: italic;
+  font-weight: 900;
+  line-height: .82;
+  letter-spacing: -.035em;
+  text-transform: uppercase;
+}
+
+.intro p {
+  margin-top: 8px;
+  font-family: "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  font-size: clamp(14px, 4.2vw, 28px);
+  font-style: italic;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -.025em;
+  white-space: nowrap;
 }
 
 section { margin: 0 0 58px; }
@@ -42,7 +56,7 @@ img, picture { display: block; max-width: 100%; }
 .study {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 4px;
+  gap: clamp(8px, 1.4vw, 16px);
 }
 
 .study figure > img,
@@ -59,6 +73,8 @@ img, picture { display: block; max-width: 100%; }
   place-items: center;
   background: #f3f3f3;
 }
+
+.study-green .art-frame { background: #63cbb0; }
 
 .art-frame img {
   width: 88%;
@@ -167,7 +183,6 @@ footer {
 @media (min-width: 700px) {
   main { padding-top: 12px; }
   section { margin-bottom: 72px; }
-  .study { gap: 10px; }
 }
 
 @media (min-width: 900px) {
