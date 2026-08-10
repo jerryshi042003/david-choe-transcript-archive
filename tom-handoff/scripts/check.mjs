@@ -16,8 +16,10 @@ const required = [
   "assets/bandana-cap-cutout.png",
   "assets/bandana-cap-cutout.webp",
   "assets/cap-construction-cyan.png",
+  "assets/cap-construction-cyan.webp",
   "assets/cap-construction-magenta.png",
   "assets/cap-rear-magenta.png",
+  "assets/cap-rear-magenta.webp",
   "assets/jumpshot-tee-cutout.png",
   "assets/jumpshot-tee-cutout.webp",
   "assets/second-serve-cutout.png",
@@ -35,8 +37,8 @@ if (!html.includes("<h1>UCLA FAST</h1>") || !html.includes("<p>Tennis Runway Sho
 if (css.includes("font-family: Impact") || css.includes("font-style: italic")) throw new Error("Runway title lockup is not quiet and consistent");
 if (html.includes("Fashion show · Los Angeles · 2026")) throw new Error("Extra runway subtitle leaked into page");
 if (html.includes("ball-cap-01.jpg") || html.includes("ball-cap-02.jpg")) throw new Error("Backgrounded cap photo leaked into page");
-if ((html.match(/tom-ball-cap-cutout/g) || []).length !== 2) throw new Error("Expected one real cap picture with WebP fallback");
-if ((html.match(/bandana-cap-cutout/g) || []).length !== 2) throw new Error("Expected one bandana-under-cap picture with WebP fallback");
+if ((html.match(/tom-ball-cap-cutout\.webp/g) || []).length !== 1) throw new Error("Expected one production WebP cap picture");
+if ((html.match(/bandana-cap-cutout\.webp/g) || []).length !== 1) throw new Error("Expected one production WebP bandana-under-cap picture");
 if ((html.match(/cap-construction-cyan/g) || []).length !== 1 || (html.match(/cap-rear-magenta/g) || []).length !== 1) throw new Error("Expected cyan bottom-left and magenta bottom-right cap detail views");
 if (!css.includes("transform: scale(1.4)") || !css.includes("transform: scale(1.5)")) throw new Error("Cap construction views are not framed as close details");
 if (html.includes("cap-spin") || /\b(?:AI|RAW|MODEL|TRANSPARENT)\b/.test(html)) throw new Error("Process labels leaked into page");
@@ -58,8 +60,9 @@ if (!css.includes("@media (min-width: 900px)") || !css.includes("main { width: m
 if (!css.includes(".final-work,\n  footer") || !css.includes("width: min(900px, 100%)")) throw new Error("Desktop text and closing content are not constrained");
 if ((html.match(/<li>/g) || []).length !== 6) throw new Error("Expected six concise pitch bullets");
 if (!html.includes("I’m 22 and live in LA") || !html.includes("back permanently Sept. 17")) throw new Error("Missing LA availability");
-if (html.indexOf("jumpshot-tee-cutout.png") > html.indexOf("second-serve-cutout.png")) throw new Error("Jump-shot tee must precede the tennis tee");
-if (html.indexOf("second-serve-cutout.png") > html.indexOf("<footer")) throw new Error("Tee pair must precede contact");
+if (html.indexOf("jumpshot-tee-cutout.webp") > html.indexOf("second-serve-cutout.webp")) throw new Error("Jump-shot tee must precede the tennis tee");
+if (html.indexOf("second-serve-cutout.webp") > html.indexOf("<footer")) throw new Error("Tee pair must precede contact");
+if (/assets\/(?:tom-ball-cap-cutout|bandana-cap-cutout|cap-construction-cyan|cap-rear-magenta|jumpshot-tee-cutout|second-serve-cutout)\.png/.test(html)) throw new Error("Oversized PNG fallback leaked into the production page");
 if (!css.includes(".tee-grid") || !css.includes("grid-template-columns: repeat(2")) throw new Error("Closing tees are not a two-column pair");
 if (!css.includes(".tee-jumpshot { background: #f4f4f4; }") || !css.includes(".tee-tennis {") || (css.match(/background: #f4f4f4;/g) || []).length !== 2) throw new Error("Closing tees are not a neutral pair");
 if ((html.match(/I’M SHOOTING MY SHOT/g) || []).length !== 1 || !css.includes(".shot-line")) throw new Error("Shooting-my-shot close is missing or duplicated");
