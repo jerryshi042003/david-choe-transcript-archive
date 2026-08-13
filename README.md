@@ -47,6 +47,7 @@ python3 scripts/check_site.py
 node tests/web-sources.test.mjs
 node tests/editorial-coverage.test.mjs
 node scripts/embed_editorial.mjs
+node scripts/build_trivia_coverage.mjs
 node scripts/audit_editorial_coverage.mjs
 ```
 

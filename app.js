@@ -540,8 +540,8 @@ async function renderSubjects() {
   };
   const signals = (data.signals || []).map((signal) => `<section class="subj signal">
     <p class="subjname">${esc(signal.name)}
-      <span class="times">${signal.count} of ${signal.denominator} DVDASA routes contain the exact word</span></p>
-    <p class="same">${esc(signal.method)} ${signal.review_gap} routes remain for semantic review of unlabeled segments.</p>
+      <span class="times">${signal.count} of ${signal.denominator} DVDASA routes contain a reviewed trivia passage</span></p>
+    <p class="same">${esc(signal.method)} All ${signal.reviewed} DVDASA routes have an explicit status; ${signal.format_or_absence_count} are reviewed format exceptions, captures without a formal segment, or an available-source truncation.</p>
     <p class="subjeps">${(signal.routes || []).map((episode) =>
       `<a href="#/${esc(episode.id)}">${esc(episode.title || episode.id)}</a>`).join('')}</p>
   </section>`).join('');

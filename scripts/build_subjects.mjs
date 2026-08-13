@@ -15,19 +15,11 @@ const titles = new Map(catalog.items.map((item) => [item.id, item.t || item.titl
 const ids = [...titles.keys()];
 const index = Object.fromEntries(kinds.map((kind) => [kind, new Map()]));
 const connections = [];
-const triviaEpisodes = [];
-let dvdasaRoutes = 0;
 let withEntities = 0;
 
 for (const id of ids) {
   const record = JSON.parse(fs.readFileSync(path.join(DATA, `${id}.json`), 'utf8'));
   const editorial = record.editorial || {};
-  if (record.kind === 'dvdasa') {
-    dvdasaRoutes += 1;
-    if (record.segments.some((segment) => /\btrivia\b/i.test(segment.x || ''))) {
-      triviaEpisodes.push({ id, title: titles.get(id) });
-    }
-  }
   if (kinds.some((kind) => Array.isArray(editorial[kind]) && editorial[kind].length)) withEntities += 1;
   for (const kind of kinds) {
     for (const raw of editorial[kind] || []) {
@@ -62,14 +54,19 @@ const result = {
     coverage: `Entities are human-curated per item and currently exist for ${withEntities} of ${ids.length} unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.`,
     excluded: 'Recurring hosts are omitted because their recurrence describes the show format rather than a subject.',
   },
-  signals: [{
-    name: 'trivia',
-    method: 'Exact whole-word match in the complete transcript; a lower bound, not a semantic classifier.',
-    routes: triviaEpisodes,
-    count: triviaEpisodes.length,
-    denominator: dvdasaRoutes,
-    review_gap: dvdasaRoutes - triviaEpisodes.length,
-  }],
+  signals: (() => {
+    const trivia = JSON.parse(fs.readFileSync(path.join(DATA, 'trivia-coverage.json'), 'utf8'));
+    return [{
+      name: 'trivia',
+      method: trivia.boundary,
+      routes: trivia.routes.filter((route) => route.status === 'literal-match' || route.status === 'reviewed-present-unlabeled')
+        .map((route) => ({ id: route.id, title: route.title, status: route.status })),
+      count: trivia.present,
+      denominator: trivia.denominator,
+      reviewed: trivia.reviewed,
+      format_or_absence_count: trivia.denominator - trivia.present,
+    }];
+  })(),
   subjects,
   connections,
 };

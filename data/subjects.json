@@ -2,684 +2,856 @@
  "schema": "choe-corpus/subjects@2",
  "survey": {
   "items_in_archive": 421,
-  "items_with_entities": 146,
+  "items_with_entities": 149,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 146 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item and currently exist for 149 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
   {
    "name": "trivia",
-   "method": "Exact whole-word match in the complete transcript; a lower bound, not a semantic classifier.",
+   "method": "Literal matching is a lower bound. Every no-match DVDASA route has an explicit semantic review; format exceptions and truncated captures are not mislabeled as missing curation.",
    "routes": [
     {
      "id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
-     "title": "At Comic Con 2013"
+     "title": "At Comic Con 2013",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-001-with-david-choe-and-asa-akira",
-     "title": "Episode 001"
+     "title": "Episode 001",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
-     "title": "Episode 002"
+     "title": "Episode 002",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
-     "title": "Episode 003"
+     "title": "Episode 003",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
-     "title": "Episode 004"
+     "title": "Episode 004",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-     "title": "Episode 005"
+     "title": "Episode 005",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-006-with-david-choe-and-asa-akira",
-     "title": "Episode 006"
+     "title": "Episode 006",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-007-with-david-choe-and-asa-akira",
-     "title": "Episode 007"
+     "title": "Episode 007",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-008-with-david-choe-and-asa-akira",
-     "title": "Episode 008"
+     "title": "Episode 008",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
-     "title": "Episode 009"
+     "title": "Episode 009",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
-     "title": "Episode 010"
+     "title": "Episode 010",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-011-with-david-choe-and-asa-akira",
-     "title": "Episode 011"
+     "title": "Episode 011",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-012-with-david-choe-and-asa-akira",
-     "title": "Episode 012"
+     "title": "Episode 012",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
-     "title": "Episode 013"
+     "title": "Episode 013",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
-     "title": "Episode 014"
+     "title": "Episode 014",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
-     "title": "Episode 015"
+     "title": "Episode 015",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-016-with-david-choe-and-asa-akira",
-     "title": "Episode 016"
+     "title": "Episode 016",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
-     "title": "Episode 017"
+     "title": "Episode 017",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-     "title": "Episode 018"
+     "title": "Episode 018",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-     "title": "Episode 019"
+     "title": "Episode 019",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-020-with-david-choe-and-asa-akira",
-     "title": "Episode 020"
+     "title": "Episode 020",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
-     "title": "Episode 021"
+     "title": "Episode 021",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
-     "title": "Episode 022"
+     "title": "Episode 022",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
-     "title": "Episode 023"
+     "title": "Episode 023",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-     "title": "Episode 024"
+     "title": "Episode 024",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-     "title": "Episode 025"
+     "title": "Episode 025",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-     "title": "Episode 026"
+     "title": "Episode 026",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-     "title": "Episode 027"
+     "title": "Episode 027",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-     "title": "Episode 028"
+     "title": "Episode 028",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-     "title": "Episode 029"
+     "title": "Episode 029",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-     "title": "Episode 030"
+     "title": "Episode 030",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
-     "title": "Episode 031"
+     "title": "Episode 031",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-032-with-david-choe-and-asa-akira",
-     "title": "Episode 032"
+     "title": "Episode 032",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-033-with-david-choe-and-asa-akira",
-     "title": "Episode 033"
+     "title": "Episode 033",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-034-with-david-choe-and-asa-akira",
-     "title": "Episode 034"
+     "title": "Episode 034",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-035-with-david-choe-and-asa-akira",
-     "title": "Episode 035"
+     "title": "Episode 035",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-036-with-david-choe-and-asa-akira",
-     "title": "Episode 036"
+     "title": "Episode 036",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-037-with-david-choe-and-asa-akira",
-     "title": "Episode 037"
+     "title": "Episode 037",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-038-with-david-choe-and-asa-akira",
-     "title": "Episode 038"
+     "title": "Episode 038",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-039-with-david-choe-and-asa-akira",
-     "title": "Episode 039"
+     "title": "Episode 039",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-040-with-david-choe-and-asa-akira",
-     "title": "Episode 040"
+     "title": "Episode 040",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-041-with-david-choe-and-asa-akira",
-     "title": "Episode 041"
+     "title": "Episode 041",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-042-with-david-choe-and-asa-akira",
-     "title": "Episode 042"
+     "title": "Episode 042",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-043-with-david-choe-and-asa-akira",
-     "title": "Episode 043"
+     "title": "Episode 043",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-044-with-david-choe-and-asa-akira",
-     "title": "Episode 044"
+     "title": "Episode 044",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-045-with-david-choe-and-asa-akira",
-     "title": "Episode 045"
+     "title": "Episode 045",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-046-with-david-choe-and-asa-akira",
-     "title": "Episode 046"
+     "title": "Episode 046",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-047-with-david-choe-and-asa-akira",
-     "title": "Episode 047"
+     "title": "Episode 047",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-048-with-david-choe-and-asa-akira",
-     "title": "Episode 048"
+     "title": "Episode 048",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-049-with-david-choe-and-asa-akira",
-     "title": "Episode 049"
+     "title": "Episode 049",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-050-with-david-choe-and-asa-akira",
-     "title": "Episode 050"
+     "title": "Episode 050",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-051-stf-sexually-transmitted-feelings",
-     "title": "Episode 051 — STF Sexually Transmitted Feelings"
+     "title": "Episode 051 — STF Sexually Transmitted Feelings",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-052-zach-gilford",
-     "title": "Episode 052 — Zach Gilford"
+     "title": "Episode 052 — Zach Gilford",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-053-kevin-smith",
-     "title": "Episode 053 — Kevin Smith"
+     "title": "Episode 053 — Kevin Smith",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-054-ask-asa-sexual-guacamole",
-     "title": "Episode 054 — Ask Asa Sexual Guacamole"
+     "title": "Episode 054 — Ask Asa Sexual Guacamole",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-055-bobby-s-announcement",
-     "title": "Episode 055 — Bobby S Announcement"
+     "title": "Episode 055 — Bobby S Announcement",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-056-intentional-discomfort",
-     "title": "Episode 056 — Intentional Discomfort"
+     "title": "Episode 056 — Intentional Discomfort",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-057-never-been-dumped-n-b-d",
-     "title": "Episode 057 — Never Been Dumped N B D"
+     "title": "Episode 057 — Never Been Dumped N B D",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-058-the-reporter",
-     "title": "Episode 058 — The Reporter"
+     "title": "Episode 058 — The Reporter",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-059-body-modifications-sports",
-     "title": "Episode 059 — Body Modifications Sports"
+     "title": "Episode 059 — Body Modifications Sports",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-060-david-arquette",
-     "title": "Episode 060 — David Arquette"
+     "title": "Episode 060 — David Arquette",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-061-aubrey-plaza",
-     "title": "Episode 061 — Aubrey Plaza"
+     "title": "Episode 061 — Aubrey Plaza",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-062-kayla-carrera",
-     "title": "Episode 062 — Kayla Carrera"
+     "title": "Episode 062 — Kayla Carrera",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-063-bobby-hundreds-and-heather",
-     "title": "Episode 063 — Bobby Hundreds and Heather"
+     "title": "Episode 063 — Bobby Hundreds and Heather",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-064-heather-hot-dog",
-     "title": "Episode 064 — Heather Hot Dog"
+     "title": "Episode 064 — Heather Hot Dog",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-065-saelee-oh-seeks-double-vag-double-anal-dates",
-     "title": "Episode 065 — Saelee Oh Seeks Double Vag Double Anal Dates"
+     "title": "Episode 065 — Saelee Oh Seeks Double Vag Double Anal Dates",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-067-return-of-hikaru-power-check",
-     "title": "Episode 067 — Return of Hikaru Power Check"
+     "title": "Episode 067 — Return of Hikaru Power Check",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-068-david-s-announcement",
-     "title": "Episode 068 — David S Announcement"
+     "title": "Episode 068 — David S Announcement",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-069-bobby-lee-and-the-pooner",
-     "title": "Episode 069 — Bobby Lee and the Pooner"
+     "title": "Episode 069 — Bobby Lee and the Pooner",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-070-slink-johnson-cousin-endo-the-armenian-virgin",
-     "title": "Episode 070 — Slink Johnson Cousin Endo the Armenian Virgin"
+     "title": "Episode 070 — Slink Johnson Cousin Endo the Armenian Virgin",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-071-the-conclusion-of-the-armenian-virgin-trilogy-ft-bobby-lee",
-     "title": "Episode 071 — The Conclusion of the Armenian Virgin Trilogy Ft Bobby Lee"
+     "title": "Episode 071 — The Conclusion of the Armenian Virgin Trilogy Ft Bobby Lee",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-072-bobby-lee-valentin-s-birthday",
-     "title": "Episode 072 — Bobby Lee Valentin S Birthday"
+     "title": "Episode 072 — Bobby Lee Valentin S Birthday",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-073-am-i-gonna-get-that-ring-ft-bobby-lee-poon-phoebe",
-     "title": "Episode 073 — Am I Gonna Get That Ring Ft Bobby Lee Poon Phoebe"
+     "title": "Episode 073 — Am I Gonna Get That Ring Ft Bobby Lee Poon Phoebe",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-074-ruining-lives-ft-bobby-lee-the-pooner",
-     "title": "Episode 074 — Ruining Lives Ft Bobby Lee the Pooner"
+     "title": "Episode 074 — Ruining Lives Ft Bobby Lee the Pooner",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-075-vip-no-problem-ft-dr-nima-bobby-lee",
-     "title": "Episode 075 — VIP No Problem Ft Dr Nima Bobby Lee"
+     "title": "Episode 075 — VIP No Problem Ft Dr Nima Bobby Lee",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-076-the-red-zone-with-steve-lee",
-     "title": "Episode 076 — The Red Zone with Steve Lee"
+     "title": "Episode 076 — The Red Zone with Steve Lee",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-077-locker-room-talk",
-     "title": "Episode 077 — Locker Room Talk"
+     "title": "Episode 077 — Locker Room Talk",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-078-s-l-a-p-something-like-a-pimp-ft-slink-endo-heather-hot-dog-bobby-le",
-     "title": "Episode 078 — S L a P Something Like a Pimp Ft Slink Endo Heather Hot Dog Bobby Le"
+     "title": "Episode 078 — S L a P Something Like a Pimp Ft Slink Endo Heather Hot Dog Bobby Le",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb",
-     "title": "Episode 079 — Bitch You Re Being Worked on Ft Erik Griffin Slink Endo Heather Bobb"
+     "title": "Episode 079 — Bitch You Re Being Worked on Ft Erik Griffin Slink Endo Heather Bobb",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-080-colonic-confessions",
-     "title": "Episode 080 — Colonic Confessions"
+     "title": "Episode 080 — Colonic Confessions",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-081-asians-are-future-people",
-     "title": "Episode 081 — Asians Are Future People"
+     "title": "Episode 081 — Asians Are Future People",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-082-the-crappuccino",
-     "title": "Episode 082 — The Crappuccino"
+     "title": "Episode 082 — The Crappuccino",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-083-elmer-s-glue-bobby-lee-channels-david-s-mom",
-     "title": "Episode 083 — Elmer S Glue Bobby Lee Channels David S Mom"
+     "title": "Episode 083 — Elmer S Glue Bobby Lee Channels David S Mom",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-084-ask-asa-pooner-heather-phone-sex",
-     "title": "Episode 084 — Ask Asa Pooner Heather Phone Sex"
+     "title": "Episode 084 — Ask Asa Pooner Heather Phone Sex",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-085-pubes-everywhere",
-     "title": "Episode 085 — Pubes Everywhere"
+     "title": "Episode 085 — Pubes Everywhere",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-086-gay-for-hawaii-live-at-the-republik",
-     "title": "Episode 086 — Gay for Hawaii Live at the Republik"
+     "title": "Episode 086 — Gay for Hawaii Live at the Republik",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-087-buyer-s-remorse-from-hawaii",
-     "title": "Episode 087 — Buyer S Remorse from Hawaii"
+     "title": "Episode 087 — Buyer S Remorse from Hawaii",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-088-david-chang",
-     "title": "Episode 088 — David Chang"
+     "title": "Episode 088 — David Chang",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-089-fear-blood",
-     "title": "Episode 089 — Fear Blood"
+     "title": "Episode 089 — Fear Blood",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-090-pjing-with-alvin-risk-nosaj-thing-feed-me-kill-the-noise",
-     "title": "Episode 090 — Pjing with Alvin Risk Nosaj Thing Feed Me Kill the Noise"
+     "title": "Episode 090 — Pjing with Alvin Risk Nosaj Thing Feed Me Kill the Noise",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-092-jeff-staples-crying-banana",
-     "title": "Episode 092 — Jeff Staples Crying Banana"
+     "title": "Episode 092 — Jeff Staples Crying Banana",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-093-5-more-inches",
-     "title": "Episode 093 — 5 More Inches"
+     "title": "Episode 093 — 5 More Inches",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-094-steve-s-future",
-     "title": "Episode 094 — Steve S Future"
+     "title": "Episode 094 — Steve S Future",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-095-ask-asa-tripping-with-steve-lee",
-     "title": "Episode 095 — Ask Asa Tripping with Steve Lee"
+     "title": "Episode 095 — Ask Asa Tripping with Steve Lee",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-096-the-trivia-wedding",
-     "title": "Episode 096 — The Trivia Wedding"
+     "title": "Episode 096 — The Trivia Wedding",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-097-steven-yeun-and-artist-the-dark-dick",
-     "title": "Episode 097 — Steven Yeun and Artist the Dark Dick"
+     "title": "Episode 097 — Steven Yeun and Artist the Dark Dick",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-098-dan-wu-joe-hahn-the-dark-dick",
-     "title": "Episode 098 — Dan Wu Joe Hahn the Dark Dick"
+     "title": "Episode 098 — Dan Wu Joe Hahn the Dark Dick",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-100-things-korean-people-like",
-     "title": "Episode 100 — Things Korean People Like"
+     "title": "Episode 100 — Things Korean People Like",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
-     "title": "Episode 101 — The Ranch Solo Series Part I"
+     "title": "Episode 101 — The Ranch Solo Series Part I",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-102-bobby-lee-s-girlfriend-khalyla",
-     "title": "Episode 102 — Bobby Lee S Girlfriend Khalyla"
+     "title": "Episode 102 — Bobby Lee S Girlfriend Khalyla",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-103-parental-relations",
-     "title": "Episode 103 — Parental Relations"
+     "title": "Episode 103 — Parental Relations",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-104-trivia-with-a-whore-part-1",
-     "title": "Episode 104 — Trivia with a Whore Part I"
+     "title": "Episode 104 — Trivia with a Whore Part I",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-105-trivia-with-a-whore-part-2",
-     "title": "Episode 105 — Trivia with a Whore Part II"
+     "title": "Episode 105 — Trivia with a Whore Part II",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-106-erection-quest",
-     "title": "Episode 106 — Erection Quest"
+     "title": "Episode 106 — Erection Quest",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-107-rapish-behavior",
-     "title": "Episode 107 — Rapish Behavior"
+     "title": "Episode 107 — Rapish Behavior",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-108-magic-person-eva-lin",
-     "title": "Episode 108 — Magic Person Eva Lin"
+     "title": "Episode 108 — Magic Person Eva Lin",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-109-humane-trafficking",
-     "title": "Episode 109 — Humane Trafficking"
+     "title": "Episode 109 — Humane Trafficking",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-110-the-fake-male-orgasm",
-     "title": "Episode 110 — The Fake Male Orgasm"
+     "title": "Episode 110 — The Fake Male Orgasm",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-111-mom-s-wand",
-     "title": "Episode 111 — Mom S Wand"
+     "title": "Episode 111 — Mom S Wand",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-112-pink-pussy",
-     "title": "Episode 112 — Pink Pussy"
+     "title": "Episode 112 — Pink Pussy",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-114-vegas-part-02",
-     "title": "Episode 114 — Vegas Part 02"
+     "title": "Episode 114 — Vegas Part 02",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-115-vegas-part-03",
-     "title": "Episode 115 — Vegas Part 03"
+     "title": "Episode 115 — Vegas Part 03",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-116-vegas-part-04-the-poon-poon-report",
-     "title": "Episode 116 — Vegas Part 04 the Poon Poon Report"
+     "title": "Episode 116 — Vegas Part 04 the Poon Poon Report",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-118-2-depressed-artists",
-     "title": "Episode 118 — 2 Depressed Artists"
+     "title": "Episode 118 — 2 Depressed Artists",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-120-bro-show",
-     "title": "Episode 120 — Bro Show"
+     "title": "Episode 120 — Bro Show",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-121-a-day-in-the-life-of-steve-lee",
-     "title": "Episode 121 — A Day in the Life of Steve Lee"
+     "title": "Episode 121 — A Day in the Life of Steve Lee",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-122-time-travel",
-     "title": "Episode 122 — Time Travel"
+     "title": "Episode 122 — Time Travel",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-123-do-you-want-some-pizza",
-     "title": "Episode 123 — Do You Want Some Pizza"
+     "title": "Episode 123 — Do You Want Some Pizza",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-124-bonnie-rotten",
-     "title": "Episode 124 — Bonnie Rotten"
+     "title": "Episode 124 — Bonnie Rotten",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-125-deluge",
-     "title": "Episode 125 — Deluge"
+     "title": "Episode 125 — Deluge",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-126-addicted-to",
-     "title": "Episode 126 — Addicted to"
+     "title": "Episode 126 — Addicted to",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-127-with-david-choe-and-asa-akira",
-     "title": "Episode 127"
+     "title": "Episode 127",
+     "status": "literal-match"
+    },
+    {
+     "id": "saga1-episode-128-hawaii-happiness-symposium-part-2-with-jane-choe",
+     "title": "Episode 128 — Hawaii Happiness Symposium Part II with Jane Choe",
+     "status": "reviewed-present-unlabeled"
     },
     {
      "id": "saga1-episode-129-four-caballeros",
-     "title": "Episode 129 — Four Caballeros"
+     "title": "Episode 129 — Four Caballeros",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-130-beyond-your-five-senses",
-     "title": "Episode 130 — Beyond Your Five Senses"
+     "title": "Episode 130 — Beyond Your Five Senses",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-131-dave-in-love-part-one",
-     "title": "Episode 131 — Dave in Love Part I"
+     "title": "Episode 131 — Dave in Love Part I",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-133-horny-in-your-heart",
-     "title": "Episode 133 — Horny in Your Heart"
+     "title": "Episode 133 — Horny in Your Heart",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-134-don-t-touch-me-there",
-     "title": "Episode 134 — Don T Touch Me There"
+     "title": "Episode 134 — Don T Touch Me There",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-135-eleven-seconds",
-     "title": "Episode 135 — Eleven Seconds"
+     "title": "Episode 135 — Eleven Seconds",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-136-irresistible",
-     "title": "Episode 136 — Irresistible"
+     "title": "Episode 136 — Irresistible",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-137-double-headed-dragon",
-     "title": "Episode 137 — Double Headed Dragon"
+     "title": "Episode 137 — Double Headed Dragon",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-139-prank-on-the-prank",
-     "title": "Episode 139 — Prank on the Prank"
+     "title": "Episode 139 — Prank on the Prank",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-140-spooning",
-     "title": "Episode 140 — Spooning"
+     "title": "Episode 140 — Spooning",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-141-scruples",
-     "title": "Episode 141 — Scruples"
+     "title": "Episode 141 — Scruples",
+     "status": "literal-match"
     },
     {
      "id": "saga1-episode-142-fastball",
-     "title": "Episode 142 — Fastball"
+     "title": "Episode 142 — Fastball",
+     "status": "literal-match"
     },
     {
      "id": "saga1-live-at-the-egyptian-theatre",
-     "title": "Live at the Egyptian Theatre"
+     "title": "Live at the Egyptian Theatre",
+     "status": "literal-match"
     },
     {
      "id": "saga1-nov-2nd-1-3-slink-johnson-cousin-endo",
-     "title": "Nov 2nd 1 3 Slink Johnson Cousin Endo"
+     "title": "Nov 2nd 1 3 Slink Johnson Cousin Endo",
+     "status": "literal-match"
     },
     {
      "id": "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
-     "title": "Nov 2nd 2 3 Slink Endo Spiegler Alina Li Chloe the Virgin"
+     "title": "Nov 2nd 2 3 Slink Endo Spiegler Alina Li Chloe the Virgin",
+     "status": "literal-match"
     },
     {
      "id": "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin",
-     "title": "Nov 2nd 3 3 Bobby Lee Chloe the Virgin"
+     "title": "Nov 2nd 3 3 Bobby Lee Chloe the Virgin",
+     "status": "literal-match"
     },
     {
      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
-     "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth",
+     "status": "literal-match"
     },
     {
      "id": "saga2-november-2nd-the-longest-day",
-     "title": "November 2nd the Longest Day"
+     "title": "November 2nd the Longest Day",
+     "status": "literal-match"
     },
     {
      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
-     "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-002-sardines",
-     "title": "Chapter 002 — Sardines"
+     "title": "Chapter 002 — Sardines",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-004-cock-blocked",
-     "title": "Chapter 004 — Cock Blocked"
+     "title": "Chapter 004 — Cock Blocked",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-005-rude-jude-angelini-jessica-cribbon-and-vivian-kindle",
-     "title": "Chapter 005 — Rude Jude Angelini Jessica Cribbon and Vivian Kindle"
+     "title": "Chapter 005 — Rude Jude Angelini Jessica Cribbon and Vivian Kindle",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-006-standing-69",
-     "title": "Chapter 006 — Standing 69"
+     "title": "Chapter 006 — Standing 69",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-008-felt-like-heaven",
-     "title": "Chapter 008 — Felt Like Heaven"
+     "title": "Chapter 008 — Felt Like Heaven",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-009-torlando",
-     "title": "Chapter 009 — Torlando"
+     "title": "Chapter 009 — Torlando",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-011-dr-dave",
-     "title": "Chapter 011 — Dr Dave"
+     "title": "Chapter 011 — Dr Dave",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-012-tightey-whiteys",
-     "title": "Chapter 012 — Tightey Whiteys"
+     "title": "Chapter 012 — Tightey Whiteys",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
-     "title": "Chapter 014 — The Redzone Wrestle Trial of Steve Lee"
+     "title": "Chapter 014 — The Redzone Wrestle Trial of Steve Lee",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
-     "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+     "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern",
-     "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern"
+     "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-017-mutants-true-love-an-igloo-dong-origin-orgy",
-     "title": "Chapter 017 — Mutants True Love an Igloo Dong Origin Orgy"
+     "title": "Chapter 017 — Mutants True Love an Igloo Dong Origin Orgy",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-018-the-marriage-proposal-the-critter-conundrum",
-     "title": "Chapter 018 — The Marriage Proposal the Critter Conundrum"
+     "title": "Chapter 018 — The Marriage Proposal the Critter Conundrum",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-019-business-as-usual-a-trannying-day-special",
-     "title": "Chapter 019 — Business As Usual a Trannying Day Special"
+     "title": "Chapter 019 — Business As Usual a Trannying Day Special",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-020-the-negotiation",
-     "title": "Chapter 020 — The Negotiation"
+     "title": "Chapter 020 — The Negotiation",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-022-a-scrotum-fire-a-bobby-birthday-the-unnuttable",
-     "title": "Chapter 022 — A Scrotum Fire a Bobby Birthday the Unnuttable"
+     "title": "Chapter 022 — A Scrotum Fire a Bobby Birthday the Unnuttable",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-023-in-choe-we-trust",
-     "title": "Chapter 023 — In Choe We Trust"
+     "title": "Chapter 023 — In Choe We Trust",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-024-world-whore-z",
-     "title": "Chapter 024 — World Whore Z"
+     "title": "Chapter 024 — World Whore Z",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-025-american-whoreror-story",
-     "title": "Chapter 025 — American Whoreror Story"
+     "title": "Chapter 025 — American Whoreror Story",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show",
-     "title": "Chapter 026 — The Bobby Trivia Dating Show"
+     "title": "Chapter 026 — The Bobby Trivia Dating Show",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-027-fucking-canada",
-     "title": "Chapter 027 — Fucking Canada"
+     "title": "Chapter 027 — Fucking Canada",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-028-new-year-new-you-nuru",
-     "title": "Chapter 028 — New Year New You Nuru"
+     "title": "Chapter 028 — New Year New You Nuru",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-029-the-sedoner-boner-mushroom-strip",
-     "title": "Chapter 029 — The Sedoner Boner Mushroom Strip"
+     "title": "Chapter 029 — The Sedoner Boner Mushroom Strip",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-030-the-trial-of-poon",
-     "title": "Chapter 030 — The Trial of Poon"
+     "title": "Chapter 030 — The Trial of Poon",
+     "status": "literal-match"
     },
     {
      "id": "saga2-saga-02-chapter-10-bane-lee",
-     "title": "Chapter 010 — Bane Lee"
+     "title": "Chapter 010 — Bane Lee",
+     "status": "literal-match"
     }
    ],
-   "count": 166,
+   "count": 167,
    "denominator": 177,
-   "review_gap": 11
+   "reviewed": 177,
+   "format_or_absence_count": 10
   }
  ],
  "subjects": {
@@ -900,6 +1072,14 @@
       "title": "Episode 031"
      },
      {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
       "id": "2Xw5EgZdNvQ",
       "title": "Joe Rogan Experience #563 - David Choe"
      },
@@ -916,7 +1096,7 @@
       "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
      }
     ],
-    "count": 14
+    "count": 16
    },
    {
     "name": "Howard Stern",
@@ -1139,6 +1319,52 @@
     "count": 12
    },
    {
+    "name": "Bobby Lee",
+    "episodes": [
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+      "title": "Episode 119 — The Ranch Solo Series Part II"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "D-oSpkzPIoQ",
+      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
+     },
+     {
+      "id": "_UXD0KqyBko",
+      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
+     },
+     {
+      "id": "amjgbcrHUG0",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+     },
+     {
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     },
+     {
+      "id": "uJXhtxBl3OM",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+     }
+    ],
+    "count": 10
+   },
+   {
     "name": "Critter",
     "episodes": [
      {
@@ -1180,6 +1406,52 @@
      {
       "id": "IA-7LDa5VXY",
       "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+     }
+    ],
+    "count": 10
+   },
+   {
+    "name": "Veruca James",
+    "episodes": [
+     {
+      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+      "title": "Episode 003"
+     },
+     {
+      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+      "title": "Episode 010"
+     },
+     {
+      "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+      "title": "Episode 011"
+     },
+     {
+      "id": "saga1-episode-012-with-david-choe-and-asa-akira",
+      "title": "Episode 012"
+     },
+     {
+      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+      "title": "Episode 013"
+     },
+     {
+      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+      "title": "Episode 014"
+     },
+     {
+      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+      "title": "Episode 015"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
      }
     ],
     "count": 10
@@ -1269,86 +1541,6 @@
     "count": 9
    },
    {
-    "name": "Veruca James",
-    "episodes": [
-     {
-      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
-      "title": "Episode 003"
-     },
-     {
-      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
-      "title": "Episode 010"
-     },
-     {
-      "id": "saga1-episode-011-with-david-choe-and-asa-akira",
-      "title": "Episode 011"
-     },
-     {
-      "id": "saga1-episode-012-with-david-choe-and-asa-akira",
-      "title": "Episode 012"
-     },
-     {
-      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
-      "title": "Episode 013"
-     },
-     {
-      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
-      "title": "Episode 014"
-     },
-     {
-      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
-      "title": "Episode 015"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     }
-    ],
-    "count": 9
-   },
-   {
-    "name": "Bobby Lee",
-    "episodes": [
-     {
-      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
-      "title": "Episode 031"
-     },
-     {
-      "id": "saga1-episode-119-the-ranch-solo-series-part-two",
-      "title": "Episode 119 — The Ranch Solo Series Part II"
-     },
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "D-oSpkzPIoQ",
-      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
-     },
-     {
-      "id": "_UXD0KqyBko",
-      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
-     },
-     {
-      "id": "amjgbcrHUG0",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     },
-     {
-      "id": "uJXhtxBl3OM",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
-     }
-    ],
-    "count": 8
-   },
-   {
     "name": "Joe Rogan",
     "episodes": [
      {
@@ -1420,6 +1612,44 @@
      {
       "id": "YeJxJKG3DY8",
       "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
+     }
+    ],
+    "count": 8
+   },
+   {
+    "name": "Steve Lee",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "AGbJmM2wWjg",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+     },
+     {
+      "id": "amjgbcrHUG0",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+     },
+     {
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     },
+     {
+      "id": "uJXhtxBl3OM",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
      }
     ],
     "count": 8
@@ -1617,6 +1847,36 @@
     "count": 6
    },
    {
+    "name": "James Jean",
+    "episodes": [
+     {
+      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+      "title": "Episode 013"
+     },
+     {
+      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+      "title": "Episode 101 — The Ranch Solo Series Part I"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "YeJxJKG3DY8",
+      "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
+     },
+     {
+      "id": "amjgbcrHUG0",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 6
+   },
+   {
     "name": "Jim Lee",
     "episodes": [
      {
@@ -1754,32 +2014,6 @@
      {
       "id": "tP5OmbOXWBc",
       "title": "DAVID CHOE Visits Cartoonist Kayfabe to Break Open KEVIN EASTMAN's Classic RAPHAEL Comic."
-     },
-     {
-      "id": "tk923yF0TXA",
-      "title": "David Choe Returns to Cartoonist Kayfabe!"
-     }
-    ],
-    "count": 5
-   },
-   {
-    "name": "James Jean",
-    "episodes": [
-     {
-      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
-      "title": "Episode 013"
-     },
-     {
-      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
-      "title": "Episode 101 — The Ranch Solo Series Part I"
-     },
-     {
-      "id": "YeJxJKG3DY8",
-      "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
-     },
-     {
-      "id": "amjgbcrHUG0",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
      },
      {
       "id": "tk923yF0TXA",
@@ -1940,32 +2174,6 @@
      {
       "id": "saga1-episode-101-the-ranch-solo-series-part-one",
       "title": "Episode 101 — The Ranch Solo Series Part I"
-     }
-    ],
-    "count": 5
-   },
-   {
-    "name": "Steve Lee",
-    "episodes": [
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "AGbJmM2wWjg",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
-     },
-     {
-      "id": "amjgbcrHUG0",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     },
-     {
-      "id": "uJXhtxBl3OM",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
      }
     ],
     "count": 5
@@ -2433,6 +2641,24 @@
     "count": 3
    },
    {
+    "name": "Andy Milonakis",
+    "episodes": [
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Arthur Adams",
     "episodes": [
      {
@@ -2487,6 +2713,24 @@
     "count": 3
    },
    {
+    "name": "Bill Poon",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     },
+     {
+      "id": "saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode",
+      "title": "Chapter 021 — The Ranch Solo Series #3 — The Lost Episode"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Bill Sienkiewicz",
     "episodes": [
      {
@@ -2500,6 +2744,24 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Bobby Trivia",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
      }
     ],
     "count": 3
@@ -3350,6 +3612,18 @@
       "title": "Episode 119 — The Ranch Solo Series Part II"
      },
      {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
       "id": "saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode",
       "title": "Chapter 021 — The Ranch Solo Series #3 — The Lost Episode"
      },
@@ -3474,7 +3748,7 @@
       "title": "ORIGINAL ART SHOW AND TELL with David Choe"
      }
     ],
-    "count": 61
+    "count": 64
    },
    {
     "name": "Japan",
@@ -3773,6 +4047,56 @@
     "count": 11
    },
    {
+    "name": "Korea",
+    "episodes": [
+     {
+      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+      "title": "Episode 015"
+     },
+     {
+      "id": "saga1-episode-016-with-david-choe-and-asa-akira",
+      "title": "Episode 016"
+     },
+     {
+      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+      "title": "Episode 021"
+     },
+     {
+      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+      "title": "Episode 023"
+     },
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "AGbJmM2wWjg",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+     },
+     {
+      "id": "WuufP8mTmd8",
+      "title": "David Choe presents: Marvel Comics' Best, Most Hardcore, Violent, Outlaw Slobberknocker Fight Scene!"
+     },
+     {
+      "id": "XS6awjpIimw",
+      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+     },
+     {
+      "id": "vEL0l0Nlmh8",
+      "title": "David Choe: It All Adds Up"
+     }
+    ],
+    "count": 11
+   },
+   {
     "name": "China",
     "episodes": [
      {
@@ -3907,48 +4231,6 @@
     "count": 9
    },
    {
-    "name": "Korea",
-    "episodes": [
-     {
-      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
-      "title": "Episode 015"
-     },
-     {
-      "id": "saga1-episode-016-with-david-choe-and-asa-akira",
-      "title": "Episode 016"
-     },
-     {
-      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
-      "title": "Episode 021"
-     },
-     {
-      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
-      "title": "Episode 023"
-     },
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "AGbJmM2wWjg",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
-     },
-     {
-      "id": "WuufP8mTmd8",
-      "title": "David Choe presents: Marvel Comics' Best, Most Hardcore, Violent, Outlaw Slobberknocker Fight Scene!"
-     },
-     {
-      "id": "XS6awjpIimw",
-      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
-     },
-     {
-      "id": "vEL0l0Nlmh8",
-      "title": "David Choe: It All Adds Up"
-     }
-    ],
-    "count": 9
-   },
-   {
     "name": "Afghanistan",
     "episodes": [
      {
@@ -3998,6 +4280,10 @@
       "title": "Episode 024"
      },
      {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
       "id": "3AtrUOQcmck",
       "title": "Slow Jams: The Comics of David Choe"
      },
@@ -4014,7 +4300,7 @@
       "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
-    "count": 6
+    "count": 7
    },
    {
     "name": "Tokyo",
@@ -4075,6 +4361,32 @@
      }
     ],
     "count": 6
+   },
+   {
+    "name": "Detroit",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "amjgbcrHUG0",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+     },
+     {
+      "id": "uJXhtxBl3OM",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+     }
+    ],
+    "count": 5
    },
    {
     "name": "Miami",
@@ -4364,24 +4676,6 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Detroit",
-    "episodes": [
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "amjgbcrHUG0",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
-     },
-     {
-      "id": "uJXhtxBl3OM",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
      }
     ],
     "count": 3
@@ -4746,6 +5040,10 @@
       "title": "Episode 029"
      },
      {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
       "id": "8JmtlRXz7V0",
       "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
      },
@@ -4794,7 +5092,57 @@
       "title": "David Choe | It All Starts With A Bat"
      }
     ],
-    "count": 17
+    "count": 18
+   },
+   {
+    "name": "consent",
+    "episodes": [
+     {
+      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+      "title": "Episode 004"
+     },
+     {
+      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+      "title": "Episode 022"
+     },
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
+     },
+     {
+      "id": "CvHFWwVZKoI",
+      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+     },
+     {
+      "id": "XS6awjpIimw",
+      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+     },
+     {
+      "id": "uOf3CdFjXg4",
+      "title": "Bunny Ears Podcast Episode 24 - David Choe"
+     }
+    ],
+    "count": 11
    },
    {
     "name": "hitchhiking",
@@ -4837,44 +5185,6 @@
      }
     ],
     "count": 9
-   },
-   {
-    "name": "consent",
-    "episodes": [
-     {
-      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
-      "title": "Episode 004"
-     },
-     {
-      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
-      "title": "Episode 022"
-     },
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "BBArizQhDgk",
-      "title": "Joe Rogan Experience #1965 - David Choe"
-     },
-     {
-      "id": "CvHFWwVZKoI",
-      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
-     },
-     {
-      "id": "XS6awjpIimw",
-      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
-     },
-     {
-      "id": "uOf3CdFjXg4",
-      "title": "Bunny Ears Podcast Episode 24 - David Choe"
-     }
-    ],
-    "count": 8
    },
    {
     "name": "speaker-label provenance",
@@ -5229,6 +5539,32 @@
     "count": 5
    },
    {
+    "name": "travel",
+    "episodes": [
+     {
+      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+      "title": "Episode 004"
+     },
+     {
+      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+      "title": "Episode 021"
+     },
+     {
+      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+      "title": "Episode 101 — The Ranch Solo Series Part I"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "Xo6Hj9hw96I",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "addiction",
     "episodes": [
      {
@@ -5317,6 +5653,28 @@
     "count": 4
    },
    {
+    "name": "collaboration",
+    "episodes": [
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2S1kNH59NBk",
+      "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
+     },
+     {
+      "id": "wK3xCI1VF-g",
+      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "cutoff",
     "episodes": [
      {
@@ -5356,6 +5714,28 @@
      {
       "id": "ve6W8gFmNQQ",
       "title": "The Cooking Choe Starring David Choe and Harry Kim Aka Guam Cruise"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "marriage",
+    "episodes": [
+     {
+      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+      "title": "Episode 002"
+     },
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-020-with-david-choe-and-asa-akira",
+      "title": "Episode 020"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
      }
     ],
     "count": 4
@@ -5515,28 +5895,6 @@
     "count": 4
    },
    {
-    "name": "travel",
-    "episodes": [
-     {
-      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
-      "title": "Episode 004"
-     },
-     {
-      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
-      "title": "Episode 021"
-     },
-     {
-      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
-      "title": "Episode 101 — The Ranch Solo Series Part I"
-     },
-     {
-      "id": "Xo6Hj9hw96I",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "workplace power",
     "episodes": [
      {
@@ -5626,24 +5984,6 @@
      {
       "id": "saga1-episode-021-with-david-choe-and-asa-akira",
       "title": "Episode 021"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "collaboration",
-    "episodes": [
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "2S1kNH59NBk",
-      "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
-     },
-     {
-      "id": "wK3xCI1VF-g",
-      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
      }
     ],
     "count": 3
@@ -5842,24 +6182,6 @@
      {
       "id": "saga1-episode-101-the-ranch-solo-series-part-one",
       "title": "Episode 101 — The Ranch Solo Series Part I"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "marriage",
-    "episodes": [
-     {
-      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
-      "title": "Episode 002"
-     },
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "saga1-episode-020-with-david-choe-and-asa-akira",
-      "title": "Episode 020"
      }
     ],
     "count": 3

@@ -27,13 +27,21 @@ assert.equal(report.known_signal_checks.exact_word_trivia.dvdasa_denominator, 17
 const subjects = JSON.parse(fs.readFileSync(path.join(root, 'data/subjects.json'), 'utf8'));
 assert.ok(subjects.survey.items_with_entities >= 146);
 assert.equal(subjects.signals[0].name, 'trivia');
-assert.equal(subjects.signals[0].count, 166);
+assert.equal(subjects.signals[0].count, 167);
 assert.equal(subjects.signals[0].denominator, 177);
+assert.equal(subjects.signals[0].reviewed, 177);
 assert.ok(!subjects.subjects.themes.some((theme) => theme.name.toLowerCase() === 'trivia'),
   'trivia must use the transcript-signal denominator, not the smaller curated-theme denominator');
 
 const app = fs.readFileSync(path.join(root, 'app.js'), 'utf8');
 assert.ok(!app.includes('of ${base} curated episodes'));
 assert.ok(app.includes('review progress, not an occurrence count'));
+
+const trivia = JSON.parse(fs.readFileSync(path.join(root, 'data/trivia-coverage.json'), 'utf8'));
+assert.equal(trivia.reviewed, 177);
+assert.equal(trivia.denominator, 177);
+assert.equal(trivia.present, 167);
+assert.equal(trivia.routes.filter((route) => route.status === 'reviewed-present-unlabeled').length, 1);
+assert.equal(trivia.routes.filter((route) => route.status === 'reviewed-format-exception').length, 3);
 
 console.log('editorial coverage: recovered base, denominator, and trivia regression checks passed');

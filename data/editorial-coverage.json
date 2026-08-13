@@ -6,16 +6,16 @@
   "unique_reader_routes": 421
  },
  "coverage": {
-  "editorial": 287,
-  "context": 287,
-  "summary": 287,
-  "description": 287,
-  "chapters": 287,
-  "people": 146,
-  "places": 141,
-  "works": 145,
-  "themes": 146,
-  "connections": 287
+  "editorial": 290,
+  "context": 290,
+  "summary": 290,
+  "description": 290,
+  "chapters": 290,
+  "people": 149,
+  "places": 144,
+  "works": 148,
+  "themes": 149,
+  "connections": 290
  },
  "known_signal_checks": {
   "exact_word_trivia": {
@@ -39,7 +39,7 @@
   {
    "group": "Saga 2",
    "routes": 32,
-   "editorial": 29
+   "editorial": 32
   },
   {
    "group": "David Choe Clips",
@@ -1564,30 +1564,6 @@
     "places",
     "works",
     "themes"
-   ]
-  },
-  {
-   "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
-   "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth",
-   "group": "Saga 2",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "saga2-november-2nd-the-longest-day",
-   "title": "November 2nd the Longest Day",
-   "group": "Saga 2",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
-   "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean",
-   "group": "Saga 2",
-   "missing": [
-    "editorial"
    ]
   },
   {
