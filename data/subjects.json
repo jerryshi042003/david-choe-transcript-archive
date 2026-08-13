@@ -2,9 +2,9 @@
  "schema": "choe-corpus/subjects@2",
  "survey": {
   "items_in_archive": 421,
-  "items_with_entities": 151,
+  "items_with_entities": 164,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 151 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item and currently exist for 164 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
@@ -936,6 +936,10 @@
       "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
      },
      {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
       "id": "Yknrg-63674",
       "title": "Hitchhiking Across America with David Choe (Full Documentary)"
      },
@@ -956,7 +960,7 @@
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
      }
     ],
-    "count": 24
+    "count": 25
    },
    {
     "name": "Anthony Bourdain",
@@ -1014,6 +1018,10 @@
       "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
      },
      {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
       "id": "hicb0ZqmzzM",
       "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
      },
@@ -1026,6 +1034,10 @@
       "title": "Joe Rogan Experience #1518 - David Choe"
      },
      {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
      },
@@ -1034,7 +1046,7 @@
       "title": "Bunny Ears Podcast Episode 24 - David Choe"
      }
     ],
-    "count": 18
+    "count": 20
    },
    {
     "name": "Money Mark",
@@ -1100,11 +1112,15 @@
       "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
      },
      {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
       "id": "mB3oDYYlcF0",
       "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
      }
     ],
-    "count": 16
+    "count": 17
    },
    {
     "name": "Howard Stern",
@@ -1150,8 +1166,16 @@
       "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
      },
      {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
       "id": "i8cDwucTSbo",
       "title": "Joe Rogan Experience #392 - David Choe"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      },
      {
       "id": "reW-p9ds4g4",
@@ -1162,7 +1186,61 @@
       "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
-    "count": 13
+    "count": 15
+   },
+   {
+    "name": "Critter",
+    "episodes": [
+     {
+      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+      "title": "Episode 013"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+      "title": "Episode 119 — The Ranch Solo Series Part II"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "IA-7LDa5VXY",
+      "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 12
    },
    {
     "name": "David Chang",
@@ -1327,6 +1405,106 @@
     "count": 12
    },
    {
+    "name": "Valentin",
+    "episodes": [
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "YeJxJKG3DY8",
+      "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 11
+   },
+   {
+    "name": "Veruca James",
+    "episodes": [
+     {
+      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+      "title": "Episode 003"
+     },
+     {
+      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+      "title": "Episode 010"
+     },
+     {
+      "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+      "title": "Episode 011"
+     },
+     {
+      "id": "saga1-episode-012-with-david-choe-and-asa-akira",
+      "title": "Episode 012"
+     },
+     {
+      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+      "title": "Episode 013"
+     },
+     {
+      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+      "title": "Episode 014"
+     },
+     {
+      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+      "title": "Episode 015"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 11
+   },
+   {
     "name": "Bobby Lee",
     "episodes": [
      {
@@ -1373,93 +1551,47 @@
     "count": 10
    },
    {
-    "name": "Critter",
+    "name": "Joe Rogan",
     "episodes": [
      {
-      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
-      "title": "Episode 013"
+      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+      "title": "Episode 017"
+     },
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
      },
      {
       "id": "saga1-episode-026-with-david-choe-and-asa-akira",
       "title": "Episode 026"
      },
      {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     },
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
       "id": "saga1-episode-030-with-david-choe-and-asa-akira",
       "title": "Episode 030"
-     },
-     {
-      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
-      "title": "Episode 031"
-     },
-     {
-      "id": "saga1-episode-119-the-ranch-solo-series-part-two",
-      "title": "Episode 119 — The Ranch Solo Series Part II"
      },
      {
       "id": "2Xw5EgZdNvQ",
       "title": "Joe Rogan Experience #563 - David Choe"
      },
      {
-      "id": "IA-7LDa5VXY",
-      "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
-     }
-    ],
-    "count": 10
-   },
-   {
-    "name": "Veruca James",
-    "episodes": [
-     {
-      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
-      "title": "Episode 003"
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
      },
      {
-      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
-      "title": "Episode 010"
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
      },
      {
-      "id": "saga1-episode-011-with-david-choe-and-asa-akira",
-      "title": "Episode 011"
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      },
      {
-      "id": "saga1-episode-012-with-david-choe-and-asa-akira",
-      "title": "Episode 012"
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
      },
      {
-      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
-      "title": "Episode 013"
-     },
-     {
-      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
-      "title": "Episode 014"
-     },
-     {
-      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
-      "title": "Episode 015"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     },
-     {
-      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
-      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
     "count": 10
@@ -1502,89 +1634,13 @@
      {
       "id": "saga1-episode-030-with-david-choe-and-asa-akira",
       "title": "Episode 030"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
-    "count": 9
-   },
-   {
-    "name": "Valentin",
-    "episodes": [
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     },
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     },
-     {
-      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
-      "title": "Episode 031"
-     },
-     {
-      "id": "YeJxJKG3DY8",
-      "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
-     }
-    ],
-    "count": 9
-   },
-   {
-    "name": "Joe Rogan",
-    "episodes": [
-     {
-      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
-      "title": "Episode 017"
-     },
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     },
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "8JmtlRXz7V0",
-      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     },
-     {
-      "id": "tk923yF0TXA",
-      "title": "David Choe Returns to Cartoonist Kayfabe!"
-     }
-    ],
-    "count": 8
+    "count": 10
    },
    {
     "name": "Sasha Grey",
@@ -1620,6 +1676,48 @@
      {
       "id": "YeJxJKG3DY8",
       "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 9
+   },
+   {
+    "name": "John Cusack",
+    "episodes": [
+     {
+      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+      "title": "Episode 015"
+     },
+     {
+      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+      "title": "Episode 023"
+     },
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "uOf3CdFjXg4",
+      "title": "Bunny Ears Podcast Episode 24 - David Choe"
      }
     ],
     "count": 8
@@ -1661,40 +1759,6 @@
      }
     ],
     "count": 8
-   },
-   {
-    "name": "John Cusack",
-    "episodes": [
-     {
-      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
-      "title": "Episode 015"
-     },
-     {
-      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
-      "title": "Episode 023"
-     },
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "uOf3CdFjXg4",
-      "title": "Bunny Ears Podcast Episode 24 - David Choe"
-     }
-    ],
-    "count": 7
    },
    {
     "name": "Nicolas Cage",
@@ -1794,6 +1858,40 @@
      {
       "id": "p8qTCVYUiwI",
       "title": "How to Paint a Colorful Year in 72 Hours—Art Tutorial"
+     }
+    ],
+    "count": 7
+   },
+   {
+    "name": "Zell",
+    "episodes": [
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+      "title": "Episode 022"
+     },
+     {
+      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+      "title": "Episode 023"
+     },
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 7
@@ -1949,6 +2047,36 @@
     "count": 6
    },
    {
+    "name": "Lilit Arvahi",
+    "episodes": [
+     {
+      "id": "saga1-episode-006-with-david-choe-and-asa-akira",
+      "title": "Episode 006"
+     },
+     {
+      "id": "saga1-episode-007-with-david-choe-and-asa-akira",
+      "title": "Episode 007"
+     },
+     {
+      "id": "saga1-episode-012-with-david-choe-and-asa-akira",
+      "title": "Episode 012"
+     },
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 6
+   },
+   {
     "name": "Lisa Ling",
     "episodes": [
      {
@@ -1974,36 +2102,6 @@
      {
       "id": "saga1-episode-030-with-david-choe-and-asa-akira",
       "title": "Episode 030"
-     }
-    ],
-    "count": 6
-   },
-   {
-    "name": "Zell",
-    "episodes": [
-     {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
-     },
-     {
-      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
-      "title": "Episode 022"
-     },
-     {
-      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
-      "title": "Episode 023"
-     },
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
      }
     ],
     "count": 6
@@ -2061,32 +2159,6 @@
     "count": 5
    },
    {
-    "name": "Lilit Arvahi",
-    "episodes": [
-     {
-      "id": "saga1-episode-006-with-david-choe-and-asa-akira",
-      "title": "Episode 006"
-     },
-     {
-      "id": "saga1-episode-007-with-david-choe-and-asa-akira",
-      "title": "Episode 007"
-     },
-     {
-      "id": "saga1-episode-012-with-david-choe-and-asa-akira",
-      "title": "Episode 012"
-     },
-     {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
-     },
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     }
-    ],
-    "count": 5
-   },
-   {
     "name": "Mark Spiegler",
     "episodes": [
      {
@@ -2139,6 +2211,32 @@
     "count": 5
    },
    {
+    "name": "Pamela Adlon",
+    "episodes": [
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "Peter Laird",
     "episodes": [
      {
@@ -2160,6 +2258,32 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 5
+   },
+   {
+    "name": "Saad Mohseni",
+    "episodes": [
+     {
+      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+      "title": "Episode 009"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "i8cDwucTSbo",
+      "title": "Joe Rogan Experience #392 - David Choe"
      }
     ],
     "count": 5
@@ -2217,6 +2341,32 @@
     "count": 5
    },
    {
+    "name": "The Notorious B.I.G.",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "Todd McFarlane",
     "episodes": [
      {
@@ -2269,6 +2419,28 @@
     "count": 5
    },
    {
+    "name": "Al Pacino",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+      "title": "Episode 023"
+     },
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "Banksy",
     "episodes": [
      {
@@ -2313,6 +2485,50 @@
     "count": 4
    },
    {
+    "name": "Bruce Lee",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "MfvXUQOvMIA",
+      "title": "David Choe's Controversial Opinion on Star Wars"
+     },
+     {
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "Carol",
+    "episodes": [
+     {
+      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+      "title": "Episode 004"
+     },
+     {
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "Daniel Warren Johnson",
     "episodes": [
      {
@@ -2352,6 +2568,28 @@
      {
       "id": "p8qTCVYUiwI",
       "title": "How to Paint a Colorful Year in 72 Hours—Art Tutorial"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "Estevan Oriol",
+    "episodes": [
+     {
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
+     },
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 4
@@ -2467,23 +2705,23 @@
     "count": 4
    },
    {
-    "name": "Pamela Adlon",
+    "name": "Prince",
     "episodes": [
      {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
      },
      {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
      },
      {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
      },
      {
-      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
-      "title": "Episode 031"
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 4
@@ -2511,6 +2749,28 @@
     "count": 4
    },
    {
+    "name": "Roy Choi",
+    "episodes": [
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "Russell Peters",
     "episodes": [
      {
@@ -2528,28 +2788,6 @@
      {
       "id": "IA-7LDa5VXY",
       "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
-     }
-    ],
-    "count": 4
-   },
-   {
-    "name": "Saad Mohseni",
-    "episodes": [
-     {
-      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
-      "title": "Episode 009"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     },
-     {
-      "id": "i8cDwucTSbo",
-      "title": "Joe Rogan Experience #392 - David Choe"
      }
     ],
     "count": 4
@@ -2577,6 +2815,28 @@
     "count": 4
    },
    {
+    "name": "Toni Ribas",
+    "episodes": [
+     {
+      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+      "title": "Episode 013"
+     },
+     {
+      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+      "title": "Episode 014"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "Woody Allen",
     "episodes": [
      {
@@ -2599,6 +2859,24 @@
     "count": 4
    },
    {
+    "name": "Adam Carolla",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Adrian Tomine",
     "episodes": [
      {
@@ -2612,24 +2890,6 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Al Pacino",
-    "episodes": [
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
-      "title": "Episode 023"
-     },
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
      }
     ],
     "count": 3
@@ -2792,42 +3052,6 @@
      {
       "id": "saga1-episode-014-with-david-choe-and-asa-akira",
       "title": "Episode 014"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Bruce Lee",
-    "episodes": [
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "MfvXUQOvMIA",
-      "title": "David Choe's Controversial Opinion on Star Wars"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Carol",
-    "episodes": [
-     {
-      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
-      "title": "Episode 004"
-     },
-     {
-      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-      "title": "Episode 005"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
      }
     ],
     "count": 3
@@ -3049,19 +3273,19 @@
     "count": 3
    },
    {
-    "name": "Estevan Oriol",
+    "name": "Everlast",
     "episodes": [
      {
-      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-      "title": "Episode 005"
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
      },
      {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
      },
      {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 3
@@ -3085,6 +3309,24 @@
     "count": 3
    },
    {
+    "name": "Ice Cube",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "vEL0l0Nlmh8",
+      "title": "David Choe: It All Adds Up"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Jet Li",
     "episodes": [
      {
@@ -3098,6 +3340,60 @@
      {
       "id": "2Xw5EgZdNvQ",
       "title": "Joe Rogan Experience #563 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "John Lennon",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "John Mayer",
+    "episodes": [
+     {
+      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+      "title": "Episode 014"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Juan",
+    "episodes": [
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 3
@@ -3157,6 +3453,42 @@
     "count": 3
    },
    {
+    "name": "Leonardo DiCaprio",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Liam Neeson",
+    "episodes": [
+     {
+      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+      "title": "Episode 010"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Louis C.K.",
     "episodes": [
      {
@@ -3206,24 +3538,6 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Prince",
-    "episodes": [
-     {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
-     },
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
      }
     ],
     "count": 3
@@ -3301,19 +3615,37 @@
     "count": 3
    },
    {
-    "name": "Roy Choi",
+    "name": "Rupert Murdoch",
     "episodes": [
      {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
+      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+      "title": "Episode 023"
      },
      {
       "id": "saga1-episode-026-with-david-choe-and-asa-akira",
       "title": "Episode 026"
      },
      {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Russell Crowe",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "mB3oDYYlcF0",
+      "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
      }
     ],
     "count": 3
@@ -3373,6 +3705,24 @@
     "count": 3
    },
    {
+    "name": "Samuel L. Jackson",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "mB3oDYYlcF0",
+      "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Simon Bisley",
     "episodes": [
      {
@@ -3409,24 +3759,6 @@
     "count": 3
    },
    {
-    "name": "The Notorious B.I.G.",
-    "episodes": [
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     }
-    ],
-    "count": 3
-   },
-   {
     "name": "Tobey Maguire",
     "episodes": [
      {
@@ -3445,6 +3777,24 @@
     "count": 3
    },
    {
+    "name": "Tom Cruise",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Tom Segura",
     "episodes": [
      {
@@ -3458,24 +3808,6 @@
      {
       "id": "i8cDwucTSbo",
       "title": "Joe Rogan Experience #392 - David Choe"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Toni Ribas",
-    "episodes": [
-     {
-      "id": "saga1-episode-013-with-david-choe-and-asa-akira",
-      "title": "Episode 013"
-     },
-     {
-      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
-      "title": "Episode 014"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
      }
     ],
     "count": 3
@@ -3686,6 +4018,10 @@
       "title": "David Choe Diet Magic Story"
      },
      {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
       "id": "8JmtlRXz7V0",
       "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
      },
@@ -3734,6 +4070,10 @@
       "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
      },
      {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
       "id": "Yknrg-63674",
       "title": "Hitchhiking Across America with David Choe (Full Documentary)"
      },
@@ -3766,6 +4106,10 @@
       "title": "Joe Rogan Experience #1518 - David Choe"
      },
      {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
       "id": "tP5OmbOXWBc",
       "title": "DAVID CHOE Visits Cartoonist Kayfabe to Break Open KEVIN EASTMAN's Classic RAPHAEL Comic."
      },
@@ -3782,7 +4126,7 @@
       "title": "ORIGINAL ART SHOW AND TELL with David Choe"
      }
     ],
-    "count": 65
+    "count": 68
    },
    {
     "name": "Japan",
@@ -3844,6 +4188,10 @@
       "title": "Joe Rogan Experience #563 - David Choe"
      },
      {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
       "id": "8JmtlRXz7V0",
       "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
      },
@@ -3888,7 +4236,7 @@
       "title": "David Choe: It All Adds Up"
      }
     ],
-    "count": 25
+    "count": 26
    },
    {
     "name": "Koreatown",
@@ -3950,6 +4298,10 @@
       "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
      },
      {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
       "id": "hicb0ZqmzzM",
       "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
      },
@@ -3966,7 +4318,7 @@
       "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
-    "count": 18
+    "count": 19
    },
    {
     "name": "Las Vegas",
@@ -4080,9 +4432,13 @@
      {
       "id": "hicb0ZqmzzM",
       "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
-    "count": 11
+    "count": 12
    },
    {
     "name": "Korea",
@@ -4227,6 +4583,48 @@
     "count": 10
    },
    {
+    "name": "Afghanistan",
+    "episodes": [
+     {
+      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+      "title": "Episode 003"
+     },
+     {
+      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+      "title": "Episode 009"
+     },
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "i8cDwucTSbo",
+      "title": "Joe Rogan Experience #392 - David Choe"
+     }
+    ],
+    "count": 9
+   },
+   {
     "name": "Beverly Hills",
     "episodes": [
      {
@@ -4267,44 +4665,6 @@
      }
     ],
     "count": 9
-   },
-   {
-    "name": "Afghanistan",
-    "episodes": [
-     {
-      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
-      "title": "Episode 003"
-     },
-     {
-      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
-      "title": "Episode 009"
-     },
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     },
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     },
-     {
-      "id": "i8cDwucTSbo",
-      "title": "Joe Rogan Experience #392 - David Choe"
-     }
-    ],
-    "count": 8
    },
    {
     "name": "Oakland",
@@ -4371,6 +4731,96 @@
     "count": 6
    },
    {
+    "name": "Dubai",
+    "episodes": [
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 6
+   },
+   {
+    "name": "Miami",
+    "episodes": [
+     {
+      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+      "title": "Episode 015"
+     },
+     {
+      "id": "saga1-episode-016-with-david-choe-and-asa-akira",
+      "title": "Episode 016"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "Yknrg-63674",
+      "title": "Hitchhiking Across America with David Choe (Full Documentary)"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 6
+   },
+   {
+    "name": "San Francisco",
+    "episodes": [
+     {
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
+     },
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+      "title": "Episode 022"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 6
+   },
+   {
     "name": "Tokyo",
     "episodes": [
      {
@@ -4431,56 +4881,52 @@
     "count": 6
    },
    {
-    "name": "Miami",
+    "name": "London",
     "episodes": [
      {
-      "id": "saga1-episode-015-with-david-choe-and-asa-akira",
-      "title": "Episode 015"
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
      },
      {
-      "id": "saga1-episode-016-with-david-choe-and-asa-akira",
-      "title": "Episode 016"
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
      },
      {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
+      "id": "XS6awjpIimw",
+      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
      },
      {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      },
      {
-      "id": "Yknrg-63674",
-      "title": "Hitchhiking Across America with David Choe (Full Documentary)"
+      "id": "reW-p9ds4g4",
+      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
      }
     ],
     "count": 5
    },
    {
-    "name": "San Francisco",
+    "name": "Canada",
     "episodes": [
      {
-      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-      "title": "Episode 005"
+      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+      "title": "Episode 017"
      },
      {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
      },
      {
-      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
-      "title": "Episode 022"
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      },
      {
-      "id": "T5Bc_q5FHCQ",
-      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
-     },
-     {
-      "id": "tk923yF0TXA",
-      "title": "David Choe Returns to Cartoonist Kayfabe!"
+      "id": "vEL0l0Nlmh8",
+      "title": "David Choe: It All Adds Up"
      }
     ],
-    "count": 5
+    "count": 4
    },
    {
     "name": "Chicago",
@@ -4544,50 +4990,6 @@
      {
       "id": "mB3oDYYlcF0",
       "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
-     }
-    ],
-    "count": 4
-   },
-   {
-    "name": "Dubai",
-    "episodes": [
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     }
-    ],
-    "count": 4
-   },
-   {
-    "name": "London",
-    "episodes": [
-     {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "XS6awjpIimw",
-      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
-     },
-     {
-      "id": "reW-p9ds4g4",
-      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
      }
     ],
     "count": 4
@@ -4659,6 +5061,28 @@
     "count": 4
    },
    {
+    "name": "Turkey",
+    "episodes": [
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "Beijing",
     "episodes": [
      {
@@ -4690,24 +5114,6 @@
      {
       "id": "_el5VzDisPo",
       "title": "David Choe Catfished Adrian Tomine and the Letter Was Printed in Optic Nerve."
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Canada",
-    "episodes": [
-     {
-      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
-      "title": "Episode 017"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "vEL0l0Nlmh8",
-      "title": "David Choe: It All Adds Up"
      }
     ],
     "count": 3
@@ -4749,6 +5155,24 @@
     "count": 3
    },
    {
+    "name": "Glendale",
+    "episodes": [
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Hollywood Boulevard",
     "episodes": [
      {
@@ -4762,6 +5186,24 @@
      {
       "id": "U9RG_RBqyOM",
       "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Kabul",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 3
@@ -4834,6 +5276,24 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Paris",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 3
@@ -4981,24 +5441,6 @@
      }
     ],
     "count": 3
-   },
-   {
-    "name": "Turkey",
-    "episodes": [
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     }
-    ],
-    "count": 3
    }
   ],
   "themes": [
@@ -5070,6 +5512,10 @@
       "title": "Exclusive! Eastman and Laird Commentary on Their Most Popular Issue of TMNT. David Choe Cohosts!"
      },
      {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
       "id": "oFliGQNTC1c",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
      },
@@ -5082,7 +5528,7 @@
       "title": "David Choe | It All Starts With A Bat"
      }
     ],
-    "count": 19
+    "count": 20
    },
    {
     "name": "privacy",
@@ -5144,6 +5590,10 @@
       "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
      },
      {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
       "id": "amjgbcrHUG0",
       "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
      },
@@ -5164,7 +5614,65 @@
       "title": "Bunny Ears Podcast Episode 24 - David Choe"
      }
     ],
-    "count": 19
+    "count": 20
+   },
+   {
+    "name": "YouTube re-upload provenance",
+    "episodes": [
+     {
+      "id": "4mPxYY6dL2o",
+      "title": "DVDASA Episode 045 with David Choe and Asa Akira"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "C_Rw-0HyJXc",
+      "title": "DVDASA Episode 047 with David Choe and Asa Akira"
+     },
+     {
+      "id": "HCQHVHJYQnQ",
+      "title": "DVDASA Episode 036 with David Choe and Asa Akira"
+     },
+     {
+      "id": "LdqB8988S2U",
+      "title": "DVDASA Episode 032 with David Choe and Asa Akira"
+     },
+     {
+      "id": "OuuSC5xoKVk",
+      "title": "DVDASA Episode 046 with David Choe and Asa Akira"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "cMcZRCgKgj4",
+      "title": "DVDASA Episode 048 with David Choe and Asa Akira"
+     },
+     {
+      "id": "g1G_6-km8sU",
+      "title": "DVDASA Episode 044 with David Choe and Asa Akira"
+     },
+     {
+      "id": "h12NAoaCY5k",
+      "title": "DVDASA Episode 041 with David Choe and Asa Akira"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
+      "id": "mxfBPoDUJ80",
+      "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+     },
+     {
+      "id": "wC3vettgNB0",
+      "title": "DVDASA Episode 043 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 13
    },
    {
     "name": "consent",
@@ -5373,6 +5881,40 @@
     "count": 7
    },
    {
+    "name": "pornography",
+    "episodes": [
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "5QE3n7QfUZY",
+      "title": "The Trap of Watching Instead of Doing (and How to Escape It)"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 7
+   },
+   {
     "name": "hospitality",
     "episodes": [
      {
@@ -5398,36 +5940,6 @@
      {
       "id": "wcMNw16dQKo",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
-     }
-    ],
-    "count": 6
-   },
-   {
-    "name": "pornography",
-    "episodes": [
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     },
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "5QE3n7QfUZY",
-      "title": "The Trap of Watching Instead of Doing (and How to Escape It)"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
      }
     ],
     "count": 6
@@ -5523,6 +6035,32 @@
     "count": 6
    },
    {
+    "name": "collaboration",
+    "episodes": [
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2S1kNH59NBk",
+      "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
+      "id": "wK3xCI1VF-g",
+      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "criticism",
     "episodes": [
      {
@@ -5544,6 +6082,32 @@
      {
       "id": "wK3xCI1VF-g",
       "title": "ORIGINAL ART SHOW AND TELL with David Choe"
+     }
+    ],
+    "count": 5
+   },
+   {
+    "name": "marriage",
+    "episodes": [
+     {
+      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+      "title": "Episode 002"
+     },
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-020-with-david-choe-and-asa-akira",
+      "title": "Episode 020"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
      }
     ],
     "count": 5
@@ -5679,6 +6243,32 @@
     "count": 5
    },
    {
+    "name": "workplace power",
+    "episodes": [
+     {
+      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+      "title": "Episode 010"
+     },
+     {
+      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+      "title": "Episode 014"
+     },
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "addiction",
     "episodes": [
      {
@@ -5696,6 +6286,28 @@
      {
       "id": "vEL0l0Nlmh8",
       "title": "David Choe: It All Adds Up"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "aging",
+    "episodes": [
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "2S1kNH59NBk",
+      "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 4
@@ -5745,6 +6357,28 @@
     "count": 4
    },
    {
+    "name": "boundaries",
+    "episodes": [
+     {
+      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+      "title": "Episode 002"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "caption failure",
     "episodes": [
      {
@@ -5762,28 +6396,6 @@
      {
       "id": "spAebvaG-VE",
       "title": "Watch RZA and David Choe Collide in This Unexpected Jam Session!"
-     }
-    ],
-    "count": 4
-   },
-   {
-    "name": "collaboration",
-    "episodes": [
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
-      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
-     },
-     {
-      "id": "2S1kNH59NBk",
-      "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
-     },
-     {
-      "id": "wK3xCI1VF-g",
-      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
      }
     ],
     "count": 4
@@ -5833,28 +6445,6 @@
     "count": 4
    },
    {
-    "name": "marriage",
-    "episodes": [
-     {
-      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
-      "title": "Episode 002"
-     },
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "saga1-episode-020-with-david-choe-and-asa-akira",
-      "title": "Episode 020"
-     },
-     {
-      "id": "saga2-november-2nd-the-longest-day",
-      "title": "November 2nd the Longest Day"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "music",
     "episodes": [
      {
@@ -5894,6 +6484,28 @@
      {
       "id": "saga1-episode-028-with-david-choe-and-asa-akira",
       "title": "Episode 028"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "racial stereotyping",
+    "episodes": [
+     {
+      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+      "title": "Episode 014"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 4
@@ -5987,23 +6599,23 @@
     "count": 4
    },
    {
-    "name": "workplace power",
+    "name": "wealth",
     "episodes": [
      {
-      "id": "saga1-episode-010-with-david-choe-and-asa-akira",
-      "title": "Episode 010"
-     },
-     {
-      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
-      "title": "Episode 014"
-     },
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
      },
      {
       "id": "saga1-episode-029-with-david-choe-and-asa-akira",
       "title": "Episode 029"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
+      "id": "xXDZOnvqyQg",
+      "title": "David Choe | It All Starts With A Bat"
      }
     ],
     "count": 4
@@ -6027,42 +6639,6 @@
     "count": 3
    },
    {
-    "name": "aging",
-    "episodes": [
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "2S1kNH59NBk",
-      "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "boundaries",
-    "episodes": [
-     {
-      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
-      "title": "Episode 002"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
-     }
-    ],
-    "count": 3
-   },
-   {
     "name": "career transition",
     "episodes": [
      {
@@ -6081,6 +6657,42 @@
     "count": 3
    },
    {
+    "name": "celebrity recognition",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "ieBa-DrOj5A",
+      "title": "David Choe and Steven Yeun Finally Get Bobby Lee's Official Picture on the Wall at Parks BBQ"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "childhood memory",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "tP5OmbOXWBc",
+      "title": "DAVID CHOE Visits Cartoonist Kayfabe to Break Open KEVIN EASTMAN's Classic RAPHAEL Comic."
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "commercial art",
     "episodes": [
      {
@@ -6094,6 +6706,24 @@
      {
       "id": "525yfSuD3TI",
       "title": "Spraycans to riches: David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "concussion",
+    "episodes": [
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 3
@@ -6148,6 +6778,24 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "fan mail",
+    "episodes": [
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "_el5VzDisPo",
+      "title": "David Choe Catfished Adrian Tomine and the Letter Was Printed in Optic Nerve."
      }
     ],
     "count": 3
@@ -6261,6 +6909,24 @@
     "count": 3
    },
    {
+    "name": "humiliation",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "illness self-report",
     "episodes": [
      {
@@ -6274,6 +6940,24 @@
      {
       "id": "h9ODc_M8iXU",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 5/5)"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "improvised music",
+    "episodes": [
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 3
@@ -6333,6 +7017,24 @@
     "count": 3
    },
    {
+    "name": "media framing",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "XS6awjpIimw",
+      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "medical misinformation",
     "episodes": [
      {
@@ -6369,6 +7071,24 @@
     "count": 3
    },
    {
+    "name": "photography",
+    "episodes": [
+     {
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "play",
     "episodes": [
      {
@@ -6387,19 +7107,19 @@
     "count": 3
    },
    {
-    "name": "racial stereotyping",
+    "name": "projection",
     "episodes": [
      {
-      "id": "saga1-episode-014-with-david-choe-and-asa-akira",
-      "title": "Episode 014"
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
      },
      {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
      },
      {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
+      "id": "uOf3CdFjXg4",
+      "title": "Bunny Ears Podcast Episode 24 - David Choe"
      }
     ],
     "count": 3
@@ -6544,24 +7264,6 @@
      {
       "id": "QO3-AAVTeDA",
       "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "wealth",
-    "episodes": [
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "xXDZOnvqyQg",
-      "title": "David Choe | It All Starts With A Bat"
      }
     ],
     "count": 3
@@ -10306,6 +11008,1206 @@
    "title": "David Choe Shoot Interview",
    "label": "Dirty Hands as external memory",
    "note": "The hosts refer to the documentary while questioning Choe’s account. This creates a useful evidence edge between present recollection, earlier documentary footage, and surviving publications."
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "The episode begins and ends by turning Bobby's wart into a penalty, while refusal remains unresolved rather than respected.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "A public YouTube clip about bodily discharge becomes fuel for increasingly unsafe live-stunt proposals.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Bobby refuses cutting and burning early, then refuses live anal bleaching; the format repeatedly treats bodily refusal as negotiation.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Audience silence is mistaken for approval of violence until the room partially reaches the broader rule that violence itself is wrong.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Gendered violence is framed as masculine conduct early; later the room invents a masculine lesson from Valentin's childhood shock.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Food-triggered gastrointestinal urgency leads directly back to criticism of how David narrated Zell's intimate care.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Zell's refusal of future sex and Asa's refusal of a forced-choice game are both complete answers despite the room's pressure.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "The risks of mixing sex with assistant work contrast with Ask Asa's detailed account of adult production as disciplined labor.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Appearance-based identity speculation produces a derogatory tweet, backlash, deletion, and the eventual admission that education is needed.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Language and testing are both discussed through incomplete 2013 knowledge; historical testimony must not become current policy.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Asa's loneliness and domestic routines complicate the public persona later reduced to scene counts and explicit peak experiences.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "A private friend's belittling remark produces an opposite social rule: build up the friend whose date you are meeting.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Cosmetic and HIV passages both mix real industry experience with unsupported health claims that require different evidentiary treatment.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "A private friend's suicide triggers repeated suicidal hypotheticals before David retracts them and rejects suicide as the answer.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "The thought of illness exposes postponed creative work, but David recognizes that this does not make illness a blessing.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "A real documentary about deliberate infection is transformed into a Twilight metaphor; the record keeps evidence and metaphor distinct.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "A public violent case is reconstructed from racialized and incomplete memory, demonstrating why source-ledger verification must precede definitive metadata.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Asa's best-day account and David's violent-film framing describe the same work from participant and viewer positions that should not be collapsed.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Four childhood family-nudity accounts are prompted as entertainment, but each carries different boundaries, memory reliability, and privacy obligations.",
+   "note": ""
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "label": "Ambiguous childhood contact and an explicit adult wart dare both show why the archive cannot infer consent from a provocative sentence or group laughter.",
+   "note": ""
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "A crossover makes the production differences visible",
+   "note": "DVDASA frames Yoshi Didn't as similarly explicit but more orderly and less interrupted. Lilit and Yoshi bring therapeutic and comedic structure into a room that repeatedly turns structure into spectacle."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Audience intimacy produces both nourishment and suspicion",
+   "note": "Fans send food, health advice, poems, technology fantasies, and affection. The hosts want the relationship but cannot verify the sender's handling, expertise, or motives; direct community does not erase provenance."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Symmetry is a useful test but not a complete relationship rule",
+   "note": "The handjob debate asks whether equivalent contact by a wife should also be permitted. Gender reversal exposes double standards, yet consent still depends on the actual couple rather than a universal taxonomy of acts."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Crying threatens an inherited model of fatherhood",
+   "note": "Yoshi's single memory of his father crying destabilizes a lifelong image of male passivity and control. The distress is tied not only to death but to seeing an authority violate the family's emotional script."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Care becomes coercive when the helper owns the timetable",
+   "note": "David offers costly resources and sincerely wants Yoshi to benefit, then argues that knowing one's pattern eliminates excuses. The same care can feel like pressure when readiness and method belong to the helper."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Creative infrastructure cannot supply permission to succeed",
+   "note": "Podcast networks, Vice pitches, peers, advice, and concrete career steps are available. David argues that self-sabotage survives because opportunity does not automatically change the belief that one deserves an outcome."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "A therapist's scope is part of the evidence",
+   "note": "Lilit had administered a personality-disorder exercise, not claimed expertise in every relationship, sexual, or medical question. The episode's credential debate demonstrates why a reader must display role, context, and limits beside advice."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Tragic romance stops before projection can decay",
+   "note": "Titanic and Romeo and Juliet are used to argue that death preserves ideal love by preventing aging, boredom, betrayal, and negotiation. The insight is narratively sharp even when the room overgeneralizes it to relationships."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Trivia is valuable because wrong retrieval remains visible",
+   "note": "Lauren Holly emerges through a chain of Molly and Mary guesses; The Insider through several inside titles; Imagine through a Beatles correction. A polished answer-only transcript would delete the actual cognitive event."
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "label": "Transcript quality and speaker validation remain separate",
+   "note": "Episode Nineteen's words are strongly searchable and its 2,053 fixed-window identity embeddings are intact. Turn segmentation was deliberately skipped. The product must represent text quality, configured stages, and held-out speaker evidence as separate states rather than one confidence badge."
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "David's unnamed art book and the later DVDASA magazine share a desire to bypass conventional editors and publishing economics.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Private disclosure is framed as both collateral damage and intentional self-sabotage.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "First-person pornography labor contrasts with the later abstract treatment of sexual violence in fictional media.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "The call-in experiment returns as an Ask Asa advice-column idea.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Physical health, sitting, marriage, and sexual attention all become speculative explanations for creative productivity.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Childhood stop-motion practice grows into Rotten Fruit and Restaurant Dogs without losing its handmade patience.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Eli's parents repeatedly interpret graphic sets through painting, psychoanalysis, and Jewish family history.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "David's Bear Jew poster creates the friendship that later produces the obsessive collage exchange.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Economic desperation and promised exposure define the painting transaction before later market value changes the dispute.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "A Reality Bites soundtrack analogy and celebrity-name exposure are both used to substitute access for payment.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Marriage is repeatedly imagined as a technical solution to attention even as every speaker supplies counterexamples.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "One dinner is expanded into a national theory, exposing how quickly anecdote becomes stereotype.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "A partner's fictional death leads directly into the ethics of directing intimate or traumatic performance.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "A serious question about depiction collapses into competitive title recall, changing tone without resolving ethics.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "The Red Wedding becomes evidence for characters who are allowed to remain morally difficult rather than market-tested into safety.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "The Green Inferno story combines material benefits with unresolved consent, representation, technological change, and unequal power.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Metal roofs, devices, and promised electricity complicate any simple story of either exploitation or benevolence.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Dirty Hands extras and Juxtapoz demonstrate the broader archive already forming around David's film, travel, and art work.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "Criticism of cheapening magazines produces an intentionally expensive object packed with older print gimmicks.",
+   "note": ""
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "label": "The post-show montage turns a ride dispute into staged sexual coercion, making consent context essential.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Asa's move into directing converts performer experience into production judgment.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "The “Thumbs Out” joke frames the episode and must not be flattened into Thumbs Up! by fuzzy correction.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "The first performance demonstrates the vocal transition Everlast then explains.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "“Put Your Lights On” leads from live craft to the Santana collaboration and Grammy.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "A recent wall with Aryz reconnects Everlast's visit to his graffiti roots and art collection.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Leaving House of Pain and resisting the label are two versions of choosing meaningful work over apparent security.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Midas and the Henry Rollins-inspired image show visual identity functioning alongside music.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Marriage is presented as a daily environmental practice, not a one-time declaration.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Family medical experience returns later as the context for “65 Roses.”",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Daughters shift Everlast's standard from personal appetite to responsibility and example.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "David maps gambling recovery onto the problem of knowing when a pleasurable run is enough.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Everlast separates hatred of travel from the continuing necessity of live performance.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Early white-rapper categorization explains House of Pain's deliberate Irish presentation.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "The Marshall brothers recur as evidence that talent and recognition are not equivalent.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Judgment Night is first treated as innovation, then as a source of unwanted imitation.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "The near-casting story becomes a broader argument about rejection and actor delusion.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "The acoustic Slick Rick cover connects the live experiment to Eat at Whitey's and The Life Acoustic.",
+   "note": ""
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "label": "Publishing imperfect work creates both inspiration and artifacts the originator may dislike.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Jim's theory that retelling recovers detail is tested by a childhood account whose sequence remains fragmented and nonlinear.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Private texts blur with public speech before the room explicitly recognizes that everything is documented.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "The opening terminology debate returns near the close, showing that intent, self-description, and respectful editorial language remain unresolved live questions.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "David predicts that every addiction demands escalation, then describes nine partners despite pain as exactly that pattern.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Irreversible sexual publication becomes the basis for the hosts' claim that they are unblackmailable, while private people still face ordinary employment consequences.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Monster Rain remains secret for decades before becoming public comedy, separating lived experience from readiness to publish it.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "A clear stop request is documented, while the broader theory of adult causation remains speculation; evidence and inference receive different treatment.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "A one-time stage confession becomes an on-air story and then an HBO bit, illustrating how oral history acquires permanent editions.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Jim says people trust him because he protects confidences, then models that ethic by refusing to name anonymous recovery programs.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "The room treats memory gaps as hidden trauma, but Jim keeps multiple explanations open instead of manufacturing recovered memory.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Long-term sobriety does not end addiction; sex, food, cigarettes, and planned exceptions become substitution and relapse patterns.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Jim defines addiction as behavior that harms life and continues against desire, then describes humiliation during depression as a concrete example.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Jim frames condomless paid sex as self-endangerment and later explains why age and accumulated consequences have reduced his risk-taking.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Conversation after paid sex repeatedly matters more than the act, revealing companionship beneath the addiction narrative.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Career collapse produces suicidal depression, weight gain, and sexual self-destruction before exercise becomes part of recovery.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Jim's professional trainer boundaries reinforce the prior episode's conclusion that David should not combine Zell's employment with sex.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "Platonic friendship with Amy Schumer and an enduring friendship with an ex show forms of companionship not organized around sex.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "The paid-humiliation story moves from depression and novelty to a clear stopping-point sentence: this has to end.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "A partner tries to reach David emotionally; he later replaces closed eyes with performed eye contact while remaining mentally absent.",
+   "note": ""
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "label": "The episode's long catalogue of sex resolves into shared loneliness and the recognition that dinner can feel more intimate than intercourse.",
+   "note": ""
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "News images become a threat-detection system",
+   "note": "After watching Vice coverage of child bombers, David interprets an approaching child as an attack. The child is selling tissues and socks, showing how media can prepare someone for real risk while also narrowing what ordinary life is allowed to look like."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "VIP protection creates both access and distortion",
+   "note": "Saad Mohseni's status moves the group through the airport and armed security keeps them insulated. David sees Kabul through extraordinary privilege even while describing that experience as direct exposure."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "The travel account alternates ordinary life and catastrophe",
+   "note": "House parties, Mexican food, music, birthdays, and children selling goods coexist with weapons, kidnapping reports, and escape plans. The episode is most useful when neither register is allowed to erase the other."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Critter is bodyguard, companion, and comic liability at once",
+   "note": "He has no gun, stands out physically, wears flip-flops, and provides emotional closeness. The role is less a conventional security function than a friendship translated into travel logistics."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Recognition defeats the fantasy of invisible travel",
+   "note": "The Bourdain broadcast follows David from Koreatown to airports and overseas. Publicity supplies opportunity while making supposedly private movement another performance context."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Different rules for male and female touch expose power",
+   "note": "Male hand-holding is normalized while contact with women is restricted and women are hidden. The group enjoys expanded male affection, then recognizes that it exists inside a gender order they reject."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "The Woodstock memory needs a consent annotation",
+   "note": "David reads a stranger's lack of resistance as permission for prolonged sexual contact and escalating touch. The absence of refusal is not the same as clear agreement, especially in a crowded concert."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Sexual novelty and gambling share an exit-strategy problem",
+   "note": "A million dollars did not stop gambling, and a numerical target does not settle how many partners are enough. Achievement produces a new threshold rather than completion."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Erectile difficulty becomes evidence of possible change",
+   "note": "David initially experiences the loss as humiliation, then considers whether reduced drive could return time to painting, music, and the podcast. A bodily interruption opens an alternative identity rather than only a performance failure."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Humiliation is converted back into experiment",
+   "note": "Instead of ending the encounter, David turns remaining soft into a contest over how long he can resist arousal. The same compulsion that seeks novelty also makes failure into new material."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Private people carry disproportionate narrative risk",
+   "note": "The Moroccan worker and Ramada partner are discussed in sexual detail without public standing or reciprocal voice. Editorial metadata excludes their identities even though the raw account remains searchable."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "The Veruca episode tests whether voluntary performance can still harm outsiders",
+   "note": "Bobby participated, but Carol did not. Discussion of taking the episode down recognizes that consent from the person on mic does not resolve consequences for an absent partner."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Hollywood opportunity competes with David's stated return to art",
+   "note": "Bourdain opens reality-television and business-lunch doors just as David imagines redirecting compulsive sexual energy into painting. Critter becomes a proposed buffer between attention and commitment."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Wish lists turn audience attention into material support",
+   "note": "The show rejects conventional advertising while directing listeners toward Amazon goods. The distinction is not no commerce, but personalized gifts rather than an advertiser buying speech."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Trivia preserves how memory moves",
+   "note": "Ben Folds Five leads toward Penfold, several rappers lead toward Ice Cube, and an actor guess leads to Broomhilda. Repairing entity spellings without deleting wrong guesses keeps the retrieval process visible."
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "label": "Text confidence and speaker confidence remain separate",
+   "note": "Episode Twenty-Six is a strong searchable draft with 2,341 fixed-window identity embeddings. Segmentation was deliberately skipped and independent held-out multi-speaker validation remains unfinished, so participant names stay episode metadata rather than dialogue labels."
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "The opening a cappella experiment returns during Trivia with Bobby and shapes the episode's form.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "A valid musical note is wrongly deleted while a genuinely clipped final fragment is correctly left unresolved; contextual cleaning must distinguish repetition from damage.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Critter's refusal to expose one current relationship sits beside a former partner's objection to already-published intimate material.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Pressure to make Critter date Zell later becomes pressure to disclose his private sexual history.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "The episode demonstrates archive harm twice: a former partner objects to publication, and a private transgender person is exposed through a dense identity bundle.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Bobby's bleeding wart begins as a dare and returns near the end as direct smelling and unverified health speculation.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Shock imagery and wart contact use disgust as entertainment rather than reliable health information.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Ask Asa moves from scores and identity to labor, showing why sensitive disclosure needs different publication rules from public biography.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Transgender identity and later group sex are both reduced to orientation tests; the record refuses that categorical logic.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Racial stereotypes about Black men's sexual behavior flow into stereotypes about gay men and toy preferences.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "A listener's consent-based negotiation problem is answered with identity labels and an unsafe intoxication workaround.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Personal endurance through pain contrasts with Asa's unequivocal professional refusal when she feels violated.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "The episode's strongest labor passage defines love of work through the rarity of a bad day, not through glamorizing the sex act.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Asa's clear refusal after a violation contrasts with a later proposal to chemically override participants in search of truth.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "An unverified theft accusation and a private identity bundle both demonstrate why spoken specificity cannot automatically become searchable fact.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Truth serum and intoxicated-show ideas share the false premise that impairment produces useful, consensual disclosure.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Proposed fertility testing later becomes casual reproductive claims about pheromones and birth control; neither is medical guidance.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "The hygiene debate relies on intuition, then the cast directly smells an open sore while continuing to speculate.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "Trivia preserves wrong guesses and live corrections, a useful model for distinguishing transcript fidelity from editorial truth.",
+   "note": ""
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "label": "The closing presumes and sexualizes an audience just as the opening presumes romantic availability between participants; neither presumption is treated as consent.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "The episode repeatedly treats indirect clues as certainty, first with tracker data and later with a private coworker's feelings.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Early gender generalizations create the same consent blind spot visible in David's later threatening messages.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Thrown objects and a repeated violence story show how destructive conduct is narrated as relationship comedy.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Mercury retrograde and the NyQuil comparison both turn weak causal explanations into confident talk.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Harry's illness runs beneath the entertainment, while the room converts care into pressure for spectacle.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Body judgment in strip-club talk expands into racialized sexual mythology later in the episode.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "The work-wife discussion shifts from uncertain workplace contact to proposals for deliberate emotional manipulation.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "David's claimed zero-success rate undermines the room's attempt to frame threatening messages as courtship technique.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Dirty Hands clearance problems and Thumbs Up! production support expose two different stages of professionalizing improvised work.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "The mythology of production risk is tested by Harry leaving a professionally supported season after five days.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "The cast's confused account of church history precedes a former member's urgent personal disclosure.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "A suicidal disclosure receives dangerous group advice, while David's later private conversation has no documented outcome.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Method-specific advice does not end when the immediate story ends; it spills into broader suicide talk.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Racialized stories about Harry lead into a Congo account where age, economic power, and consent are unresolved.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Production damage and repeated partner violence reveal how harm can be repackaged as tour-story entertainment.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "School and road-movie references make gambling trips part of a romanticized education outside institutions.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "The fantasy of a daily Howard Stern-like show conflicts with a real backlog created by travel and murals.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Soliciting an assistant and sharing intimacy in private spaces both blur the line between audience participation and personal access.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Fan-contact boundaries echo Joey's problem: a public archive can have consequences in ordinary private life.",
+   "note": ""
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "label": "Koreans Gone Bad appears at Harry's entrance and near the close, positioning DVDASA as both successor and potentially permanent archive.",
+   "note": ""
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Kevin's work is larger than the episode title",
+   "note": "The show markets him as its first Black guest, but his own material concerns photography, collage, attraction, loyalty, and emotional risk. The reader should surface that authorship before the cast's racial frame."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "The cast turns identity into an engine",
+   "note": "Black, Jewish, Salvadoran, immigrant, and interracial identities repeatedly become prompts for jokes or sexual generalization. These statements remain attributed evidence of the room, not descriptive metadata about groups."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Photography joins desire to attention",
+   "note": "Kevin photographs plus-size women and describes attraction alongside image-making. The account connects the archive's recurring artist-model questions to digital collage and early Instagram rather than painting alone."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Friendship can outlast sexual asymmetry",
+   "note": "Kevin describes unreturned feelings without presenting betrayal, while David and Asa reconstruct a friendship that later became sexual and then remained collaborative. The two accounts offer different ways intimacy changes a working relationship."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Publicity converts every contact into access",
+   "note": "The Facebook windfall brings television requests, while ordinary friends, restaurant workers, assistants, and event acquaintances later arrive with projects. David experiences recognition as a collapse of the boundary between social time and work solicitation."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Spoiling is the episode's theory of abundance",
+   "note": "David borrows his mother's consumer metaphor to describe money, sexual options, and emotional numbness. The connection is revealing but not causal proof."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Older famous men become imagined futures",
+   "note": "Everlast and Anthony Bourdain are treated as models for moving from excess toward marriage. Their lives are compressed into advice symbols, so the archive should distinguish David's projection from biography."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Kevin refuses the expected strip-club script",
+   "note": "He laughs, talks, and becomes curious about a dancer instead of consuming the setting as designed. This echoes his photographic interest in people the room otherwise reduces to bodies."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "The Reuben theory is folk management science",
+   "note": "David generalizes from lunch orders and unsolicited scripts into assistant personality types. It documents his hiring intuition, not a defensible assessment method."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Assistant growth is framed as disloyalty",
+   "note": "David says he wants help without ambition, then uses servant and slave language. That reveals a conflict between his need for protected creative time and an employee's right to develop."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Juan exposes two valid boundaries",
+   "note": "David reasonably treats time and attention as scarce; Juan and Asa reasonably reject the claim that one collaboration request was inherently rude. The episode is strongest when both boundaries remain visible."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Lunch becomes the antagonist to painting",
+   "note": "David explains reduced output through meetings and social obligation. The archive can test this claim against earlier and later accounts of distraction, money, television, travel, and relationship density."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Bobby's role is labor even when informal",
+   "note": "The room expects weekly trivia, participation, and availability, yet the role's authority and care obligations are unclear. Humiliation substitutes for a direct agreement about the job."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "The concussion changes the ending retroactively",
+   "note": "Only after sustained pressure does Bobby disclose exhaustion and a hockey concussion. The group's immediate reversal shows how little context it sought before treating nonperformance as defiance."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Improvisation can become coercion",
+   "note": "Money Mark's beats create genuine play, but repeated demands that Bobby and Valentin sing continue after refusal. The same format can generate collaboration or public pressure depending on consent."
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "label": "Text confidence and speaker confidence remain separate",
+   "note": "Episode Twenty-Nine has a strong transcript, three safe empty-only cleaner drops, and 2,778 fixed-window identity embeddings. It still lacks independently validated multi-speaker naming, so people remain episode metadata rather than dialogue labels."
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Critter's daily companionship supports gambling abstinence, then his absence follows the completed Thumbs Up! road trip.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Johnny's failed Vassar radio experiment returns as his delight in DVDASA's deliberately unstable trivia format.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "The claim of radical honesty collapses under Johnny's analogy: conduct can create the relationship that words deny.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "A declaration of lifelong devotion functions simultaneously as romance, competition, and future contingency.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "The room moves from useful privacy to cruel honesty without producing a simple rule.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Johnny's law background supplies both the fugitive boundary and the strongest critique of David's relationship disclaimers.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Divorce practice grounds Johnny's belief that durable partnership is difficult work rather than an impossible summit.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Eight years of claimed honesty leads to a two-option system in which one option is explicit deception.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "The boast that partners always return prevents the cycle from having a real ending.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Commitment and pornography are treated as independent, but both discussions ask what simulated intimacy is doing.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "A dream, Critter's absent testimony, and an anonymous forum repeatedly demonstrate why sexual context cannot be inferred second-hand.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Asa's adult-production account is twice displaced by bodily stories before returning to consent and performer choice.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Visible blood stops Asa's scene, while David repeatedly minimizes his own bleeding until the editorial layer restores the health boundary.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "A heat-management joke grows into evidence of recurrent gastrointestinal and continence problems.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Bourdain functions as a mirror for travel exhaustion, not as proof that breakdown is necessary for meaningful work.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Episode 037's announced cross-country trip is now completed and immediately connected to David Chang's food-world network.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "A New York food itinerary moves from hospitality and abundance into vomiting, blood, renewed eating, and self-disgust.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "Music, film, and performance trivia converts the episode's earlier argument about sincerity into deliberately theatrical imitation.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "The cast repeats the same failed logic twice: film style and rumor volume are treated as evidence of sexual orientation.",
+   "note": ""
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "label": "A Few Good Men and American Psycho reward exact memory after a show dominated by unreliable personal narration.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "The episode begins by imposing han on private relationships and later shows Zell worrying that the label itself damages her dating life.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Zell's willingness to tell one intimate story does not erase her later regret that the show used her real name.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Zell can separate Asa's public pornography from private friendship, while search engines collapse Zell's own public performance into employment identity.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Quiet C's protected alias demonstrates the privacy mechanism that later private partners also need.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "A delayed disclosure about Tim Biskup becomes the trigger for a much larger delayed disclosure about David and Zell.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "The room overrides Zell's relationship boundary, then jokes that entering the show destroys the ability to control one's story.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "The attempt to explain delayed ejaculation shifts from pornography and devices to domination and private relationship dynamics.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Spoiled food and hotel choice lead into an old hotel story whose central hidden fact is again digestive discomfort.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Competing memories of the party show how David's stated memory difficulty depends on prompts and material cues.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Intoxication limits certainty precisely where the episode tries to reconstruct romantic intent.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "A remembered declaration of love becomes evidence for Zell's broader claim that David's persona changed while his underlying friendship persisted.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Both an old friend and Zell contrast the accessible minivan-era David with the present public persona.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "The joke that the show ruins lives is followed by an Instagram strategy that deliberately turns private intimacy into public leverage.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "David's irrational dislike of flattering fans becomes a broader discussion of unsupported dislike toward films and actresses.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Pitch Perfect moves from unwanted sexual background to an obsessive soundtrack that structures a later failed date.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "David posts another woman's body to provoke scarcity, then faces the same image strategy as a hypothetical reversal.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Nine sexual partners feel less intimate to David than one private woman cooking dinner.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "The woman redirects touch and refuses a kiss at dinner, yet David later initiates public sexual contact by moving her hand.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Unsafe sex while driving and deceptive condom use show two different cases where personal risk management ignores another person's informed participation.",
+   "note": ""
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "label": "Trivia shifts from harmless cultural recall to a bodily penalty involving cash pressure and an open sore.",
+   "note": ""
   }
  ]
 }

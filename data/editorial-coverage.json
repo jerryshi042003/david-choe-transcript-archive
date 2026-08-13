@@ -6,16 +6,16 @@
   "unique_reader_routes": 421
  },
  "coverage": {
-  "editorial": 292,
-  "context": 292,
-  "summary": 292,
-  "description": 292,
-  "chapters": 292,
-  "people": 151,
-  "places": 146,
-  "works": 150,
-  "themes": 151,
-  "connections": 292
+  "editorial": 305,
+  "context": 305,
+  "summary": 305,
+  "description": 305,
+  "chapters": 305,
+  "people": 164,
+  "places": 149,
+  "works": 163,
+  "themes": 164,
+  "connections": 305
  },
  "known_signal_checks": {
   "exact_word_trivia": {
@@ -49,7 +49,7 @@
   {
    "group": "Archive Dump Truck",
    "routes": 13,
-   "editorial": 0
+   "editorial": 13
   },
   {
    "group": "Cartoonist Kayfabe",
@@ -1956,7 +1956,7 @@
    "title": "DVDASA Episode 045 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -1987,14 +1987,6 @@
    "id": "6MIKuySAQTQ",
    "title": "Embrace the Chaos of Your life | Art Tutorial",
    "group": "David Choe",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "6sdmY8WvNlw",
-   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
-   "group": "Archive Dump Truck",
    "missing": [
     "editorial"
    ]
@@ -2060,7 +2052,7 @@
    "title": "DVDASA Episode 047 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2148,7 +2140,7 @@
    "title": "DVDASA Episode 036 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2252,7 +2244,7 @@
    "title": "DVDASA Episode 032 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2300,7 +2292,7 @@
    "title": "DVDASA Episode 046 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2440,14 +2432,6 @@
    ]
   },
   {
-   "id": "YgilTWmHJBg",
-   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
-   "group": "Archive Dump Truck",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "Z1fihPegvyk",
    "title": "Leaning Into Discomfort to Unlock True Artistic Expression-David Choe",
    "group": "David Choe",
@@ -2556,7 +2540,7 @@
    "title": "DVDASA Episode 048 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2604,7 +2588,7 @@
    "title": "DVDASA Episode 044 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2612,7 +2596,7 @@
    "title": "DVDASA Episode 041 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2635,14 +2619,6 @@
    "id": "jWMi6WOa56k",
    "title": "The Last Dinosaur of the Congo with David Choe",
    "group": "VICE",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "k-wWvZu9xaA",
-   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
-   "group": "Archive Dump Truck",
    "missing": [
     "editorial"
    ]
@@ -2724,7 +2700,7 @@
    "title": "DVDASA Episode 039 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2860,7 +2836,7 @@
    "title": "DVDASA Episode 043 with David Choe and Asa Akira",
    "group": "Archive Dump Truck",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {

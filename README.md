@@ -46,6 +46,7 @@ Before opening a pull request:
 python3 scripts/check_site.py
 node tests/web-sources.test.mjs
 node tests/editorial-coverage.test.mjs
+node scripts/build_reupload_editorial.mjs
 node scripts/embed_editorial.mjs
 node scripts/build_trivia_coverage.mjs
 node scripts/audit_editorial_coverage.mjs
@@ -62,6 +63,10 @@ keeps the missing route IDs explicit. `editorial/` is the human-reviewed source
 layer; `node scripts/embed_editorial.mjs --write` embeds it into the public
 transcript records, and `node scripts/build_subjects.mjs` rebuilds recurring
 subjects without presenting review progress as corpus frequency.
+`node scripts/build_reupload_editorial.mjs --write` handles only the 13
+explicitly reviewed Archive Dump Truck routes that match canonical DVDASA
+episodes by title, transcript shingles, and near-identical runtime. It preserves
+each YouTube route while linking it to the canonical human-reviewed episode.
 
 ## Repository boundary
 
