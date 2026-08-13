@@ -2,9 +2,9 @@
  "schema": "choe-corpus/subjects@2",
  "survey": {
   "items_in_archive": 421,
-  "items_with_entities": 149,
+  "items_with_entities": 150,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 149 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item and currently exist for 150 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
@@ -884,6 +884,10 @@
       "title": "Episode 119 — The Ranch Solo Series Part II"
      },
      {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
       "id": "525yfSuD3TI",
       "title": "Spraycans to riches: David Choe"
      },
@@ -948,7 +952,7 @@
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
      }
     ],
-    "count": 22
+    "count": 23
    },
    {
     "name": "Anthony Bourdain",
@@ -1723,6 +1727,40 @@
     "count": 7
    },
    {
+    "name": "Sean Parker",
+    "episodes": [
+     {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
+      "id": "CvHFWwVZKoI",
+      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+     },
+     {
+      "id": "IA-7LDa5VXY",
+      "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+     },
+     {
+      "id": "XS6awjpIimw",
+      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+     },
+     {
+      "id": "i8cDwucTSbo",
+      "title": "Joe Rogan Experience #392 - David Choe"
+     },
+     {
+      "id": "reW-p9ds4g4",
+      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
+     },
+     {
+      "id": "uOf3CdFjXg4",
+      "title": "Bunny Ears Podcast Episode 24 - David Choe"
+     }
+    ],
+    "count": 7
+   },
+   {
     "name": "unidentified monologue speaker",
     "episodes": [
      {
@@ -1932,36 +1970,6 @@
      {
       "id": "saga1-episode-030-with-david-choe-and-asa-akira",
       "title": "Episode 030"
-     }
-    ],
-    "count": 6
-   },
-   {
-    "name": "Sean Parker",
-    "episodes": [
-     {
-      "id": "CvHFWwVZKoI",
-      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
-     },
-     {
-      "id": "IA-7LDa5VXY",
-      "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
-     },
-     {
-      "id": "XS6awjpIimw",
-      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
-     },
-     {
-      "id": "i8cDwucTSbo",
-      "title": "Joe Rogan Experience #392 - David Choe"
-     },
-     {
-      "id": "reW-p9ds4g4",
-      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
-     },
-     {
-      "id": "uOf3CdFjXg4",
-      "title": "Bunny Ears Podcast Episode 24 - David Choe"
      }
     ],
     "count": 6
@@ -3628,6 +3636,10 @@
       "title": "Chapter 021 — The Ranch Solo Series #3 — The Lost Episode"
      },
      {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
       "id": "-wZk4B1BB0c",
       "title": "DAVID CHOE Tells Us About Meeting and Interviewing FRANK MILLER...And So Much More!"
      },
@@ -3748,7 +3760,7 @@
       "title": "ORIGINAL ART SHOW AND TELL with David Choe"
      }
     ],
-    "count": 64
+    "count": 65
    },
    {
     "name": "Japan",
@@ -3802,6 +3814,10 @@
       "title": "Episode 025"
      },
      {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
       "id": "2Xw5EgZdNvQ",
       "title": "Joe Rogan Experience #563 - David Choe"
      },
@@ -3850,7 +3866,7 @@
       "title": "David Choe: It All Adds Up"
      }
     ],
-    "count": 24
+    "count": 25
    },
    {
     "name": "Koreatown",
@@ -5266,6 +5282,10 @@
       "title": "Episode 023"
      },
      {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
       "id": "3QecMMrcCCA",
       "title": "David Choe Shoot Interview"
      },
@@ -5286,7 +5306,7 @@
       "title": "David Choe - Steve-O's Wild Ride! Ep #80"
      }
     ],
-    "count": 6
+    "count": 7
    },
    {
     "name": "hospitality",
@@ -5508,6 +5528,32 @@
      {
       "id": "reW-p9ds4g4",
       "title": "David Choe - Steve-O's Wild Ride! Ep #80"
+     }
+    ],
+    "count": 5
+   },
+   {
+    "name": "religion",
+    "episodes": [
+     {
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
+     },
+     {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
+     },
+     {
+      "id": "JZ6wY3dgxdg",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+     },
+     {
+      "id": "UZ7-frVitVc",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
      }
     ],
     "count": 5
@@ -5807,28 +5853,6 @@
     "count": 4
    },
    {
-    "name": "religion",
-    "episodes": [
-     {
-      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-      "title": "Episode 005"
-     },
-     {
-      "id": "BBArizQhDgk",
-      "title": "Joe Rogan Experience #1965 - David Choe"
-     },
-     {
-      "id": "JZ6wY3dgxdg",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
-     },
-     {
-      "id": "UZ7-frVitVc",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "shame",
     "episodes": [
      {
@@ -5984,6 +6008,24 @@
      {
       "id": "saga1-episode-021-with-david-choe-and-asa-akira",
       "title": "Episode 021"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "commercial art",
+    "episodes": [
+     {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "525yfSuD3TI",
+      "title": "Spraycans to riches: David Choe"
      }
     ],
     "count": 3
@@ -6164,6 +6206,24 @@
      {
       "id": "h9ODc_M8iXU",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 5/5)"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "incarceration",
+    "episodes": [
+     {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
+      "id": "mB3oDYYlcF0",
+      "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
+     },
+     {
+      "id": "vEL0l0Nlmh8",
+      "title": "David Choe: It All Adds Up"
      }
     ],
     "count": 3

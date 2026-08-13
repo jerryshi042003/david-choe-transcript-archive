@@ -6,16 +6,16 @@
   "unique_reader_routes": 421
  },
  "coverage": {
-  "editorial": 290,
-  "context": 290,
-  "summary": 290,
-  "description": 290,
-  "chapters": 290,
-  "people": 149,
-  "places": 144,
-  "works": 148,
-  "themes": 149,
-  "connections": 290
+  "editorial": 291,
+  "context": 291,
+  "summary": 291,
+  "description": 291,
+  "chapters": 291,
+  "people": 150,
+  "places": 145,
+  "works": 149,
+  "themes": 150,
+  "connections": 291
  },
  "known_signal_checks": {
   "exact_word_trivia": {
@@ -194,7 +194,7 @@
   {
    "group": "Films",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "Grapevine Documentaries",
@@ -1861,14 +1861,6 @@
     "places",
     "works",
     "themes"
-   ]
-  },
-  {
-   "id": "vimeo-dirty-hands-laff",
-   "title": "Dirty Hands: The Art and Crimes of David Choe",
-   "group": "Films",
-   "missing": [
-    "editorial"
    ]
   },
   {
