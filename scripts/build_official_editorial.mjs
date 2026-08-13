@@ -134,6 +134,71 @@ const videos = {
     focus: "Choe begins unprepared with a bag of materials and translates changing feelings into mixed-media forest colors, emphasizes voluntary participation, paints impossible blue dead leaves and finally introduces spray paint that overwhelms the cameraman.",
     works: [], themes: ['feelings', 'mixed media', 'choice', 'forest imagery', 'spray paint'], warnings: ['spray-paint fumes', 'explicit language'],
     beats: [[1, 'An unprepared bag of materials'], [147, 'Choosing colors from the day'], [296, 'No one has to participate'], [468, 'Blue leaves and the dead tree'], [600, 'Spray paint enters the quiet forest']]
+  },
+  '0d9gqEc86-o': {
+    focus: "A participant-centered account of *The Choe Show* moves from an invitation to endure an uncomfortable three-hour experiment through sexual and family memories, the Australian test shoot that clarified the format, kitchen-based art making and a final painting described as a new beginning.",
+    people: ['David Choe'], places: [], works: ['The Choe Show'], themes: ['audition', 'participant testimony', 'healing', 'experimental television', 'painting'], warnings: ['sexual history', 'trauma and emotional distress', 'explicit language'],
+    beats: [[0, 'An invitation with no promised art'], [237, 'Sexual and family memories'], [469, 'The Australian test run'], [697, 'A kitchen becomes the studio'], [889, 'The best painting so far']]
+  },
+  'Fj1XP1MgxMQ': {
+    focus: "Choe visits the Crenshaw Cowboy's assemblage environment, listening as the self-taught maker explains helmets, vehicles and repurposed objects, then joins him in arguing that creativity should elevate people rather than tear them down online.",
+    people: ['David Choe', 'Crenshaw Cowboy'], places: ['Crenshaw, Los Angeles'], works: [], themes: ['assemblage', 'repurposed materials', 'imagination', 'community art', 'encouragement'], warnings: ['explicit language'],
+    beats: [[2, 'A wired helmet and imagined runway'], [159, 'Priceless work made from junk'], [297, 'Vehicles with wings and engines'], [445, 'Elevate, promote and enhance'], [572, 'Create instead of tearing down']]
+  },
+  'LDZ4edDbcrU': {
+    focus: "An edited Barbara Walters television profile introduces Choe as an artist whose Facebook shares may be worth hundreds of millions, contrasts collaborative family painting with his reported unhappiness and criminal record, and returns to gambling as his explanation for taking stock.",
+    people: ['David Choe', 'Barbara Walters'], places: [], works: ['Facebook office murals'], themes: ['Facebook stock', 'wealth', 'family art', 'gambling', 'public profile'], warnings: ['crime and incarceration references', 'gambling'],
+    beats: [[1, 'Facebook prepares to mint millionaires'], [64, 'Family painting and surprising unhappiness'], [125, 'Valuation and criminal history'], [190, 'Why he accepted shares'], [223, 'Studio reaction and privacy']]
+  },
+  'TtSqnfVygRU': {
+    focus: "Saber and Choe improvise a flower-shop mural during the November 2 event, moving from a joking Aubrey Plaza crush through found spray equipment, red-and-white paint, spider imagery and thanks to the shop for allowing the intervention.",
+    people: ['David Choe', 'Saber', 'Aubrey Plaza'], places: ['Los Angeles'], works: ['November 2'], themes: ['graffiti collaboration', 'flower shop', 'improvisation', 'spider imagery'], warnings: ['explicit sexual language', 'spray-paint fumes'],
+    beats: [[1, 'Aubrey Plaza crush joke'], [37, 'Found spike and spray cans'], [157, 'Red paint and good-luck figures'], [202, 'Saber and the spider'], [270, 'Thanking the flower shop']]
+  },
+  'VBM7yBrWaVg': {
+    focus: "A *Choe Show* montage frames the series as a journey into Choe's mind that makes each participant the star, then cuts among meditation, rocks as companions, art-career testimony, explicit street encounters and unresolved family questions.",
+    people: ['David Choe'], places: [], works: ['The Choe Show'], themes: ['participant-centered television', 'meditation', 'artistic influence', 'street encounters', 'family questions'], warnings: ['explicit sexual discussion', 'racialized language', 'family neglect'],
+    beats: [[1, 'The participant is the star'], [51, 'Rocks as old friends'], [82, 'A student changes from medicine to art'], [149, 'Explicit street encounter montage'], [233, 'Why did a father have eight children?']]
+  },
+  'XhlobuaR2RY': {
+    focus: "Tasked with outfits for VeggieHammerr, Choe shops the Los Angeles Fashion District for fabric and hardware, takes styling advice, admits he cannot sew, remembers a late collaborator's final video and closes by confronting his own road rage in traffic.",
+    people: ['David Choe'], places: ['Los Angeles Fashion District', 'Skid Row', 'the Philippines'], works: ['VeggieHammerr', 'Death by Burrito', 'Beef'], themes: ['costume design', 'fashion district', 'DIY construction', 'grief', 'road rage'], warnings: ['explicit language', 'unsafe driving references', 'grief'],
+    beats: [[3, 'Designing VeggieHammerr uniforms'], [150, 'Styling advice and thrifted chains'], [218, 'Five hundred dollars of one-show couture'], [353, 'A late collaborator and Death by Burrito'], [421, 'Los Angeles traffic and road rage']]
+  },
+  '_KraKw_XXSk': {
+    focus: "Choe describes gratitude as a practice learned inside situations he dislikes, distinguishes nervous laughter from a genuine chortle, treats crying as useful release and ends with twirling as a small physical way to move emotional energy.",
+    people: ['David Choe'], places: [], works: [], themes: ['gratitude', 'discomfort', 'laughter', 'crying', 'movement'], warnings: ['pain and emotional distress'],
+    beats: [[0, 'A free moment from pain'], [113, 'Choosing uncomfortable situations'], [216, 'A genuine chortle'], [316, 'Crying without shame'], [395, 'A small twirl toward a supernova']]
+  },
+  '_XQN0SYz5Oc': {
+    focus: "After Val Kilmer's death, Choe uses an object found by his son and a hummingbird drawing to remember Kilmer's physical presence, voice after throat illness and layered screen identities, while reflecting on details that become visible only after loss.",
+    people: ['David Choe', 'Val Kilmer'], places: [], works: ['Top Gun', 'Batman Forever', 'The Doors'], themes: ['memorial', 'Val Kilmer', 'hummingbird', 'attention after loss', 'portraiture'], warnings: ['death and grief', 'illness'],
+    beats: [[0, 'His son finds something on the day Val died'], [115, 'Telepathy, meditation and artistic ritual'], [268, 'Iceman, Batman and Jim Morrison'], [360, 'Details seen only after death'], [448, 'Creating in Val Kilmer’s memory']]
+  },
+  'vhbVKIwLiSQ': {
+    focus: "Choe's first ‘Crispy & Chewie’ fan-fiction reaction rewrites Chewbacca's capture by the Knights of Ren, fixates on the actor's physical commitment and voice, revisits Han Solo's death and imagines an English translation voiced by an unexpected celebrity.",
+    people: ['David Choe', 'J. J. Abrams', 'Harrison Ford', 'Morgan Freeman', 'Bill Murray'], places: [], works: ['Star Wars', 'The Rise of Skywalker', 'The Force Awakens'], themes: ['fan fiction', 'Chewbacca', 'performance', 'film reaction', 'alternate story'], warnings: ['film violence', 'explicit language'],
+    beats: [[0, 'Chewbacca captured in the desert'], [304, 'Face and fur close reading'], [572, 'Praising physical commitment'], [845, 'Chewbacca witnesses Han Solo’s death'], [1117, 'Imagining an English voice']]
+  },
+  'w3vRQZbmLyw': {
+    focus: "A long Philippines painting upload is primarily a visual studio record: Choe prepares clothing and materials, works through extended quiet and music-heavy stretches, warns against rushing a drying or glass-related stage and briefly shifts into trading-card and camera talk near the end.",
+    people: ['David Choe'], places: ['the Philippines'], works: [], themes: ['live painting', 'studio process', 'drying time', 'visual documentation', 'trading cards'], warnings: ['transcript is sparse relative to runtime'],
+    beats: [[1, 'Preparing water-resistant clothing'], [1999, 'Do not rush the curing stage'], [2266, 'Trading-card detour'], [2445, 'Checking camera and completion'], [2932, 'The last video ends']]
+  },
+  'wb34YLBpxcU': {
+    focus: "A spoken Batman monologue moves from murdered parents and a vow to become the victimizer through exhaustion with the cave and secret identity, then renounces hardness and redirects the remaining fight toward love and self-worth.",
+    people: ['David Choe'], places: ['Gotham City'], works: ['Batman'], themes: ['grief', 'vengeance', 'superhero identity', 'renunciation of violence', 'love'], warnings: ['murder and vengeance', 'self-harm references', 'explicit language'],
+    beats: [[0, 'The murdered family'], [91, 'Training to become the victimizer'], [191, 'Exhaustion with the cave and secret identity'], [266, 'Choosing softness over control'], [349, 'Batman is told he is loved']]
+  },
+  'Ut-wqAw8kGo': {
+    focus: "A transcript-sparse clip records a brief David Choe drum-solo moment at a North Korean-themed restaurant in Dubai; the available text contains only thanks and a short reaction, so performance detail remains visual rather than invented.",
+    people: ['David Choe'], places: ['Dubai'], works: [], themes: ['drum solo', 'restaurant performance', 'visual record'], warnings: ['politically themed venue name; no political claim is supported'],
+    beats: [[0, 'Brief thanks and reaction']]
+  },
+  'r_erL0rlywQ': {
+    focus: "A transcript-inadequate Mangchi animation credited to Scorpion Dagger and David Choe survives here as a visual/music route; the decoder produced only a repeated fragment, so no lyric or narrative is reconstructed from it.",
+    people: ['David Choe', 'Scorpion Dagger'], places: [], works: ['Mangchi'], themes: ['animation', 'music video', 'visual record', 'transcript limitation'], warnings: ['unrecoverable repeated decoder output'],
+    beats: [[0, 'Animated Mangchi performance']]
   }
 };
 
@@ -151,16 +216,16 @@ function build(id, spec) {
     description: spec.focus,
     summary: `${spec.focus} This is an official-channel creative lesson or reflection, not clinical treatment or a universal formula. Its chronological map follows the route's own transcript and distinguishes art-making instructions from autobiographical claims, jokes and metaphors. Visually dependent technique still requires the source video.`,
     chapters: spec.beats.map(([t, title]) => ({ t, title })),
-    people: ['David Choe'],
-    places: [],
+    people: spec.people || ['David Choe'],
+    places: spec.places || [],
     works: spec.works,
     themes: spec.themes,
-    connections: [
+    connections: spec.connections || [
       { to: 'David Choe official art-tutorial series', note: 'The route uses a studio art process to organize autobiographical reflection; metaphor is part of the exercise and is not medical advice.' },
       { to: 'process over finished object', note: 'The video treats revision, imperfection and emotional attention as more important than copying a polished Choe image.' }
     ],
     content_warnings: spec.warnings,
-    publication_restrictions: [{ t: 0, rule: 'Do not present mental-health, addiction or trauma metaphors as diagnosis or treatment; preserve them as the artist’s framing.' }],
+    publication_restrictions: spec.restrictions || [{ t: 0, rule: 'Do not present mental-health, addiction or trauma metaphors as diagnosis or treatment; preserve them as the artist’s framing.' }],
     quality: { aggregate_segments: route.segments?.length || 0, duration_seconds: duration, chapters: spec.beats.length, named_turns: 0, publisher_context: 'David Choe official YouTube channel' },
     source_notes: ['Focus and chapter beats were reviewed against this route transcript.', 'The transcript cannot fully encode tools, color changes, gestures or the developing canvas; use the source video for technique replication.', 'Claims about personal history remain attributed to Choe.'],
     speaker_policy: 'David Choe is the public route-level presenter. Off-camera voices remain unnamed without validated diarization.'

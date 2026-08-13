@@ -1,0 +1,77 @@
+{
+  "episode_id": "LDZ4edDbcrU",
+  "title": "Barbara Walters x David Choe",
+  "reviewed_on": "2026-08-13",
+  "description": "An edited Barbara Walters television profile introduces Choe as an artist whose Facebook shares may be worth hundreds of millions, contrasts collaborative family painting with his reported unhappiness and criminal record, and returns to gambling as his explanation for taking stock.",
+  "summary": "An edited Barbara Walters television profile introduces Choe as an artist whose Facebook shares may be worth hundreds of millions, contrasts collaborative family painting with his reported unhappiness and criminal record, and returns to gambling as his explanation for taking stock. This is an official-channel creative lesson or reflection, not clinical treatment or a universal formula. Its chronological map follows the route's own transcript and distinguishes art-making instructions from autobiographical claims, jokes and metaphors. Visually dependent technique still requires the source video.",
+  "chapters": [
+    {
+      "t": 1,
+      "title": "Facebook prepares to mint millionaires"
+    },
+    {
+      "t": 64,
+      "title": "Family painting and surprising unhappiness"
+    },
+    {
+      "t": 125,
+      "title": "Valuation and criminal history"
+    },
+    {
+      "t": 190,
+      "title": "Why he accepted shares"
+    },
+    {
+      "t": 223,
+      "title": "Studio reaction and privacy"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Barbara Walters"
+  ],
+  "places": [],
+  "works": [
+    "Facebook office murals"
+  ],
+  "themes": [
+    "Facebook stock",
+    "wealth",
+    "family art",
+    "gambling",
+    "public profile"
+  ],
+  "connections": [
+    {
+      "to": "David Choe official art-tutorial series",
+      "note": "The route uses a studio art process to organize autobiographical reflection; metaphor is part of the exercise and is not medical advice."
+    },
+    {
+      "to": "process over finished object",
+      "note": "The video treats revision, imperfection and emotional attention as more important than copying a polished Choe image."
+    }
+  ],
+  "content_warnings": [
+    "crime and incarceration references",
+    "gambling"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not present mental-health, addiction or trauma metaphors as diagnosis or treatment; preserve them as the artist’s framing."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 13,
+    "duration_seconds": 238.4,
+    "chapters": 5,
+    "named_turns": 0,
+    "publisher_context": "David Choe official YouTube channel"
+  },
+  "source_notes": [
+    "Focus and chapter beats were reviewed against this route transcript.",
+    "The transcript cannot fully encode tools, color changes, gestures or the developing canvas; use the source video for technique replication.",
+    "Claims about personal history remain attributed to Choe."
+  ],
+  "speaker_policy": "David Choe is the public route-level presenter. Off-camera voices remain unnamed without validated diarization."
+}

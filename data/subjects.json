@@ -2,9 +2,9 @@
  "schema": "choe-corpus/subjects@2",
  "survey": {
   "items_in_archive": 421,
-  "items_with_entities": 218,
+  "items_with_entities": 231,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 218 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item and currently exist for 231 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
@@ -2335,6 +2335,62 @@
     "count": 6
    },
    {
+    "name": "Saber",
+    "episodes": [
+     {
+      "id": "saga1-episode-008-with-david-choe-and-asa-akira",
+      "title": "Episode 008"
+     },
+     {
+      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+      "title": "Episode 009"
+     },
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+      "title": "Episode 022"
+     },
+     {
+      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+      "title": "Episode 101 — The Ranch Solo Series Part I"
+     },
+     {
+      "id": "TtSqnfVygRU",
+      "title": "Saber and David Choe November 2nd Flower Shop"
+     }
+    ],
+    "count": 6
+   },
+   {
+    "name": "Barbara Walters",
+    "episodes": [
+     {
+      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+      "title": "Episode 009"
+     },
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "LDZ4edDbcrU",
+      "title": "Barbara Walters x David Choe"
+     },
+     {
+      "id": "XS6awjpIimw",
+      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "Frank Miller",
     "episodes": [
      {
@@ -2543,32 +2599,6 @@
     "count": 5
    },
    {
-    "name": "Saber",
-    "episodes": [
-     {
-      "id": "saga1-episode-008-with-david-choe-and-asa-akira",
-      "title": "Episode 008"
-     },
-     {
-      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
-      "title": "Episode 009"
-     },
-     {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
-     },
-     {
-      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
-      "title": "Episode 022"
-     },
-     {
-      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
-      "title": "Episode 101 — The Ranch Solo Series Part I"
-     }
-    ],
-    "count": 5
-   },
-   {
     "name": "The Notorious B.I.G.",
     "episodes": [
      {
@@ -2691,23 +2721,23 @@
     "count": 4
    },
    {
-    "name": "Barbara Walters",
+    "name": "Bill Murray",
     "episodes": [
      {
-      "id": "saga1-episode-009-with-david-choe-and-asa-akira",
-      "title": "Episode 009"
+      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+      "title": "Episode 003"
+     },
+     {
+      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+      "title": "Episode 022"
      },
      {
       "id": "saga1-episode-025-with-david-choe-and-asa-akira",
       "title": "Episode 025"
      },
      {
-      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
-      "title": "Episode 031"
-     },
-     {
-      "id": "XS6awjpIimw",
-      "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+      "id": "vhbVKIwLiSQ",
+      "title": "David Choe Star Wars Fan Fiction, Reaction and Review-Episode 1: Crispy & Chewie - Chewbacca edition"
      }
     ],
     "count": 4
@@ -3177,6 +3207,24 @@
     "count": 3
    },
    {
+    "name": "Aubrey Plaza",
+    "episodes": [
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "TtSqnfVygRU",
+      "title": "Saber and David Choe November 2nd Flower Shop"
+     },
+     {
+      "id": "i8cDwucTSbo",
+      "title": "Joe Rogan Experience #392 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Bill Clinton",
     "episodes": [
      {
@@ -3190,24 +3238,6 @@
      {
       "id": "2Xw5EgZdNvQ",
       "title": "Joe Rogan Experience #563 - David Choe"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Bill Murray",
-    "episodes": [
-     {
-      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
-      "title": "Episode 003"
-     },
-     {
-      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
-      "title": "Episode 022"
-     },
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
      }
     ],
     "count": 3
@@ -4316,6 +4346,10 @@
       "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
      },
      {
+      "id": "TtSqnfVygRU",
+      "title": "Saber and David Choe November 2nd Flower Shop"
+     },
+     {
       "id": "U9RG_RBqyOM",
       "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
      },
@@ -4392,7 +4426,7 @@
       "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
      }
     ],
-    "count": 73
+    "count": 74
    },
    {
     "name": "Japan",
@@ -4953,6 +4987,40 @@
     "count": 9
    },
    {
+    "name": "Dubai",
+    "episodes": [
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "Ut-wqAw8kGo",
+      "title": "David Choe Drum Solo at North Korean Restaurant in Dubai"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 7
+   },
+   {
     "name": "Oakland",
     "episodes": [
      {
@@ -5046,36 +5114,6 @@
      {
       "id": "uJXhtxBl3OM",
       "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
-     }
-    ],
-    "count": 6
-   },
-   {
-    "name": "Dubai",
-    "episodes": [
-     {
-      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
-      "title": "Episode 025"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "YgilTWmHJBg",
-      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
-     },
-     {
-      "id": "k-wWvZu9xaA",
-      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 6
@@ -6303,6 +6341,52 @@
     "count": 11
    },
    {
+    "name": "gambling",
+    "episodes": [
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "CvHFWwVZKoI",
+      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+     },
+     {
+      "id": "LDZ4edDbcrU",
+      "title": "Barbara Walters x David Choe"
+     },
+     {
+      "id": "QO3-AAVTeDA",
+      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "UZ7-frVitVc",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
+     },
+     {
+      "id": "X0z3caRdZTg",
+      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+     },
+     {
+      "id": "cOJtx8kDN-Y",
+      "title": "David Choe's Art Chaos: Embrace Mistakes & Joy in Creative Exploration"
+     },
+     {
+      "id": "i8cDwucTSbo",
+      "title": "Joe Rogan Experience #392 - David Choe"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 10
+   },
+   {
     "name": "graffiti",
     "episodes": [
      {
@@ -6347,48 +6431,6 @@
      }
     ],
     "count": 10
-   },
-   {
-    "name": "gambling",
-    "episodes": [
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "CvHFWwVZKoI",
-      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
-     },
-     {
-      "id": "QO3-AAVTeDA",
-      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
-     },
-     {
-      "id": "T5Bc_q5FHCQ",
-      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
-     },
-     {
-      "id": "UZ7-frVitVc",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
-     },
-     {
-      "id": "X0z3caRdZTg",
-      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
-     },
-     {
-      "id": "cOJtx8kDN-Y",
-      "title": "David Choe's Art Chaos: Embrace Mistakes & Joy in Creative Exploration"
-     },
-     {
-      "id": "i8cDwucTSbo",
-      "title": "Joe Rogan Experience #392 - David Choe"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
-     }
-    ],
-    "count": 9
    },
    {
     "name": "pornography",
@@ -6467,6 +6509,112 @@
     "count": 8
    },
    {
+    "name": "wealth",
+    "episodes": [
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+     },
+     {
+      "id": "LDZ4edDbcrU",
+      "title": "Barbara Walters x David Choe"
+     },
+     {
+      "id": "V_v5tS3WRQ8",
+      "title": "Why David Choe Stopped Playing Life Like a Video Game"
+     },
+     {
+      "id": "X0z3caRdZTg",
+      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
+      "id": "xXDZOnvqyQg",
+      "title": "David Choe | It All Starts With A Bat"
+     }
+    ],
+    "count": 8
+   },
+   {
+    "name": "improvisation",
+    "episodes": [
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "Kom2FTRT8_Y",
+      "title": "How to Stay Optimistic in a Chaotic World"
+     },
+     {
+      "id": "TtSqnfVygRU",
+      "title": "Saber and David Choe November 2nd Flower Shop"
+     },
+     {
+      "id": "U9RG_RBqyOM",
+      "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
+     },
+     {
+      "id": "Wm3yHxczebw",
+      "title": "Fine Art is Overrated: Art Tutorial"
+     },
+     {
+      "id": "cq3QBKbHUro",
+      "title": "How to Overcome Creative Blocks and Fuel Inspiration"
+     },
+     {
+      "id": "ve6W8gFmNQQ",
+      "title": "The Cooking Choe Starring David Choe and Harry Kim Aka Guam Cruise"
+     }
+    ],
+    "count": 7
+   },
+   {
+    "name": "performance",
+    "episodes": [
+     {
+      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+      "title": "Episode 002"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "D-oSpkzPIoQ",
+      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
+     },
+     {
+      "id": "HgG805RV624",
+      "title": "What Lies Beneath Our Masks? | David Choe"
+     },
+     {
+      "id": "_UXD0KqyBko",
+      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
+     },
+     {
+      "id": "vEL0l0Nlmh8",
+      "title": "David Choe: It All Adds Up"
+     },
+     {
+      "id": "vhbVKIwLiSQ",
+      "title": "David Choe Star Wars Fan Fiction, Reaction and Review-Episode 1: Crispy & Chewie - Chewbacca edition"
+     }
+    ],
+    "count": 7
+   },
+   {
     "name": "religion",
     "episodes": [
      {
@@ -6535,40 +6683,6 @@
     "count": 7
    },
    {
-    "name": "wealth",
-    "episodes": [
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "KOfsocdybBw",
-      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
-     },
-     {
-      "id": "V_v5tS3WRQ8",
-      "title": "Why David Choe Stopped Playing Life Like a Video Game"
-     },
-     {
-      "id": "X0z3caRdZTg",
-      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
-     },
-     {
-      "id": "k-wWvZu9xaA",
-      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
-     },
-     {
-      "id": "xXDZOnvqyQg",
-      "title": "David Choe | It All Starts With A Bat"
-     }
-    ],
-    "count": 7
-   },
-   {
     "name": "addiction",
     "episodes": [
      {
@@ -6629,6 +6743,66 @@
     "count": 6
    },
    {
+    "name": "gratitude",
+    "episodes": [
+     {
+      "id": "Gv_yyQBphVs",
+      "title": "Draw Your Soul in Your Underpaintings"
+     },
+     {
+      "id": "HgG805RV624",
+      "title": "What Lies Beneath Our Masks? | David Choe"
+     },
+     {
+      "id": "U9RG_RBqyOM",
+      "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
+     },
+     {
+      "id": "V9v_LJewjLY",
+      "title": "Overcoming Self-Judgment: The Path to Happiness"
+     },
+     {
+      "id": "_KraKw_XXSk",
+      "title": "How I learned to be Grateful"
+     },
+     {
+      "id": "spAebvaG-VE",
+      "title": "Watch RZA and David Choe Collide in This Unexpected Jam Session!"
+     }
+    ],
+    "count": 6
+   },
+   {
+    "name": "grief",
+    "episodes": [
+     {
+      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+      "title": "Episode 021"
+     },
+     {
+      "id": "XhlobuaR2RY",
+      "title": "Fashion District Adventures With David Choe: From Ninjas to Road Rage"
+     },
+     {
+      "id": "bxqo4zQWNA0",
+      "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial"
+     },
+     {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
+      "id": "wb34YLBpxcU",
+      "title": "BATMAN surrenders to LOVE"
+     },
+     {
+      "id": "xANsVQ33p4Q",
+      "title": "Kevin Smith Interview (2015) | David Choe: High Risk [HD] | Documentary"
+     }
+    ],
+    "count": 6
+   },
+   {
     "name": "hospitality",
     "episodes": [
      {
@@ -6654,66 +6828,6 @@
      {
       "id": "wcMNw16dQKo",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
-     }
-    ],
-    "count": 6
-   },
-   {
-    "name": "improvisation",
-    "episodes": [
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "Kom2FTRT8_Y",
-      "title": "How to Stay Optimistic in a Chaotic World"
-     },
-     {
-      "id": "U9RG_RBqyOM",
-      "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
-     },
-     {
-      "id": "Wm3yHxczebw",
-      "title": "Fine Art is Overrated: Art Tutorial"
-     },
-     {
-      "id": "cq3QBKbHUro",
-      "title": "How to Overcome Creative Blocks and Fuel Inspiration"
-     },
-     {
-      "id": "ve6W8gFmNQQ",
-      "title": "The Cooking Choe Starring David Choe and Harry Kim Aka Guam Cruise"
-     }
-    ],
-    "count": 6
-   },
-   {
-    "name": "performance",
-    "episodes": [
-     {
-      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
-      "title": "Episode 002"
-     },
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "D-oSpkzPIoQ",
-      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
-     },
-     {
-      "id": "HgG805RV624",
-      "title": "What Lies Beneath Our Masks? | David Choe"
-     },
-     {
-      "id": "_UXD0KqyBko",
-      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
-     },
-     {
-      "id": "vEL0l0Nlmh8",
-      "title": "David Choe: It All Adds Up"
      }
     ],
     "count": 6
@@ -6852,32 +6966,6 @@
      {
       "id": "wK3xCI1VF-g",
       "title": "ORIGINAL ART SHOW AND TELL with David Choe"
-     }
-    ],
-    "count": 5
-   },
-   {
-    "name": "gratitude",
-    "episodes": [
-     {
-      "id": "Gv_yyQBphVs",
-      "title": "Draw Your Soul in Your Underpaintings"
-     },
-     {
-      "id": "HgG805RV624",
-      "title": "What Lies Beneath Our Masks? | David Choe"
-     },
-     {
-      "id": "U9RG_RBqyOM",
-      "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
-     },
-     {
-      "id": "V9v_LJewjLY",
-      "title": "Overcoming Self-Judgment: The Path to Happiness"
-     },
-     {
-      "id": "spAebvaG-VE",
-      "title": "Watch RZA and David Choe Collide in This Unexpected Jam Session!"
      }
     ],
     "count": 5
@@ -7241,28 +7329,6 @@
     "count": 4
    },
    {
-    "name": "grief",
-    "episodes": [
-     {
-      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
-      "title": "Episode 021"
-     },
-     {
-      "id": "bxqo4zQWNA0",
-      "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial"
-     },
-     {
-      "id": "qVPlWFKUBCI",
-      "title": "David Choe Remembers the Death of Anthony Bourdain"
-     },
-     {
-      "id": "xANsVQ33p4Q",
-      "title": "Kevin Smith Interview (2015) | David Choe: High Risk [HD] | Documentary"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "humiliation",
     "episodes": [
      {
@@ -7285,6 +7351,28 @@
     "count": 4
    },
    {
+    "name": "love",
+    "episodes": [
+     {
+      "id": "97We1F1yFw4",
+      "title": "Experience Pure Joy: Wake UP and Play"
+     },
+     {
+      "id": "kdIZ-X0dbM4",
+      "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+     },
+     {
+      "id": "qw_y5isSw4k",
+      "title": "Three Men One Heart- Thumbs UP Spot"
+     },
+     {
+      "id": "wb34YLBpxcU",
+      "title": "BATMAN surrenders to LOVE"
+     }
+    ],
+    "count": 4
+   },
+   {
     "name": "music",
     "episodes": [
      {
@@ -7302,6 +7390,28 @@
      {
       "id": "vEL0l0Nlmh8",
       "title": "David Choe: It All Adds Up"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "painting",
+    "episodes": [
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "0d9gqEc86-o",
+      "title": "Audition to Healing: A Brave Artistic Journey Through \"The Choe Show\""
+     },
+     {
+      "id": "QpCd4BetnoQ",
+      "title": "Remembering Anthony Bourdain"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 4
@@ -7835,19 +7945,19 @@
     "count": 3
    },
    {
-    "name": "love",
+    "name": "laughter",
     "episodes": [
      {
       "id": "97We1F1yFw4",
       "title": "Experience Pure Joy: Wake UP and Play"
      },
      {
-      "id": "kdIZ-X0dbM4",
-      "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+      "id": "_KraKw_XXSk",
+      "title": "How I learned to be Grateful"
      },
      {
-      "id": "qw_y5isSw4k",
-      "title": "Three Men One Heart- Thumbs UP Spot"
+      "id": "md5ah3l5BgE",
+      "title": "Old Boyz (Short Film) | with Bobby Lee and David Choe"
      }
     ],
     "count": 3
@@ -7956,24 +8066,6 @@
      {
       "id": "yFFUaDk29pA",
       "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "painting",
-    "episodes": [
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "QpCd4BetnoQ",
-      "title": "Remembering Anthony Bourdain"
-     },
-     {
-      "id": "k-wWvZu9xaA",
-      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 3
