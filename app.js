@@ -57,10 +57,9 @@ function searchItems(q) {
   return [...(acc || [])];
 }
 
-/* One chip per channel produced 19 of them, wrapped over five rows, and the set
-   grew with every new source. These four are properties of the material, so the
-   control is fixed-size no matter how large the archive gets. Ranch is a fifth
-   entry because it is the spine of the collection, not a channel. */
+/* These are filters only. Research destinations and featured series used to be
+   mixed into the same row, making buttons that looked identical do unrelated
+   things. Navigation now lives in the site header and corpus section. */
 const COLLECTIONS = ['All', 'DVDASA', 'Interviews', 'His channel', 'Clips'];
 // A separate entrance rather than a filter: it is not a subset of the
 // transcripts, it is a different question asked of them.
@@ -73,27 +72,9 @@ function renderFilters() {
     .filter((g) => g === 'All' || n[g])
     .map((g) => `<button type="button" data-g="${esc(g)}" aria-pressed="${g === state.group}">`
       + `${esc(g)}<b>${g === 'All' ? state.items.length : n[g]}</b></button>`);
-  if ((state.cat.ranch || []).length) {
-    chips.push(`<button type="button" data-hub="ranch" aria-pressed="false">The Ranch<b>${state.cat.ranch.length}</b></button>`);
-  }
-  // Not a subset of the transcripts -- a different question asked of them, so
-  // it sits beside the collections rather than inside them.
-  if (state.retold) {
-    chips.push(`<button type="button" data-retold="1" aria-pressed="false">Told more than once<b>${state.retold}</b></button>`);
-  }
-  if (state.stories) {
-    chips.push(`<button type="button" data-stories="1" aria-pressed="false">Stories<b>${state.stories}</b></button>`);
-  }
-  if (state.subjects) {
-    chips.push(`<button type="button" data-subjects="1" aria-pressed="false">Recurring subjects<b>${state.subjects}</b></button>`);
-  }
   $('filters').innerHTML = chips.join('');
   $('filters').querySelectorAll('button').forEach((b) => {
     b.onclick = () => {
-      if (b.dataset.hub) { location.hash = '#ranch'; return; }
-      if (b.dataset.retold) { location.hash = '#retold'; return; }
-      if (b.dataset.subjects) { location.hash = '#subjects'; return; }
-      if (b.dataset.stories) { location.hash = '#stories'; return; }
       state.group = b.dataset.g; renderFilters(); renderList();
     };
   });
@@ -284,15 +265,33 @@ async function renderRetellings() {
 /* ONE navigable analysis section. The four analyses were reachable only as chips
    on the front page, so a reader who opened one had to go back to reach another
    and could not tell the set existed. They are one section with tabs. */
-const ANALYSES = [['overview', 'Overview'], ['recent', 'Current YouTube'], ['corpus', 'Route map'], ['stories', 'Verified stories'], ['retold', 'Similar passages'],
-                  ['arcs', 'Arcs'], ['subjects', 'Recurring subjects'],
-                  ['cast', 'Cast'], ['method', 'Method']];
+const ANALYSIS_GROUPS = [
+  ['Reading the corpus', [['overview', 'Corpus overview'], ['corpus', 'Route map'], ['method', 'Method']]],
+  ['Stories & patterns', [['stories', 'Verified stories'], ['retold', 'Similar passages'], ['arcs', 'Arcs']]],
+  ['People & subjects', [['cast', 'Cast'], ['subjects', 'Recurring subjects']]],
+];
+const ANALYSES = [['recent', 'Current YouTube'], ...ANALYSIS_GROUPS.flatMap(([, rows]) => rows)];
+
+function renderPrimary(active) {
+  document.querySelectorAll('[data-primary]').forEach((link) => {
+    if (link.dataset.primary === active) link.setAttribute('aria-current', 'page');
+    else link.removeAttribute('aria-current');
+  });
+}
 
 function renderTabs(active) {
   const el = $('atabs');
   if (!el) return;
-  el.innerHTML = ANALYSES.map(([k, label]) =>
-    `<a href="#${k}" class="atab${k === active ? ' on' : ''}">${esc(label)}</a>`).join('');
+  if (active === 'recent') { el.hidden = true; el.innerHTML = ''; return; }
+  const options = ANALYSIS_GROUPS.map(([label, rows]) =>
+    `<optgroup label="${esc(label)}">${rows.map(([k, text]) =>
+      `<option value="${esc(k)}"${k === active ? ' selected' : ''}>${esc(text)}</option>`).join('')}</optgroup>`).join('');
+  el.innerHTML = `<label class="analysis-select-label" for="analysisSelect">Corpus section</label>
+    <select id="analysisSelect" class="analysis-select">${options}</select>
+    <div class="analysis-groups">${ANALYSIS_GROUPS.map(([label, rows]) =>
+      `<section><h3>${esc(label)}</h3>${rows.map(([k, text]) =>
+        `<a href="#${k}" class="atab${k === active ? ' on' : ''}"${k === active ? ' aria-current="page"' : ''}>${esc(text)}</a>`).join('')}</section>`).join('')}</div>`;
+  $('analysisSelect').onchange = (event) => { location.hash = `#${event.target.value}`; };
   el.hidden = false;
 }
 
@@ -936,7 +935,7 @@ async function renderHub() {
   $('browse').hidden = true; $('reader').hidden = true;
   const hub = $('hub'); hub.hidden = false; window.scrollTo(0, 0);
   const ids = state.cat.ranch || [];
-  hub.innerHTML = `<button class="back" id="hback" type="button">← All transcripts</button>
+  hub.innerHTML = `<button class="back" id="hback" type="button">← All recordings</button>
     <h2>The Ranch — solo series</h2>
     <p class="lede">Four recordings made alone, away from the studio and the
     regular cast. They are the only sustained single-voice material in the
@@ -966,10 +965,14 @@ async function renderHub() {
 
 function route() {
   const raw = location.hash.replace(/^#/, '');
+  const corpusRoute = ANALYSIS_GROUPS.some(([, rows]) => rows.some(([key]) => key === raw));
+  $('reader').classList.toggle('analysis-view', corpusRoute);
+  $('main').classList.toggle('wide', corpusRoute);
+  renderPrimary(raw === 'recent' ? 'recent' : corpusRoute ? 'corpus' : 'recordings');
   if (raw === 'ranch') return renderHub();
   if (raw === 'overview') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
-    $('rtitle').textContent = 'Overall corpus analysis';
+    $('rtitle').textContent = 'Corpus overview';
     $('rmeta').textContent = 'What the complete archive adds up to: a corpus thesis, repeated topics with explicit route counts, normalized people and relationships, and screenplay development notes grounded in supporting recordings.';
     $('prov').textContent = 'Editorial synthesis. Route counts are generated from the completed 421-route review layer; interpretations and screenplay notes are labeled analysis, not transcript or settled biography.';
     $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
