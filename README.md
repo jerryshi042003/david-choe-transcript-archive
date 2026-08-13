@@ -47,6 +47,7 @@ python3 scripts/check_site.py
 node tests/web-sources.test.mjs
 node tests/editorial-coverage.test.mjs
 node scripts/build_reupload_editorial.mjs
+node scripts/build_excerpt_editorial.mjs
 node scripts/embed_editorial.mjs
 node scripts/build_trivia_coverage.mjs
 node scripts/audit_editorial_coverage.mjs
@@ -67,6 +68,10 @@ subjects without presenting review progress as corpus frequency.
 explicitly reviewed Archive Dump Truck routes that match canonical DVDASA
 episodes by title, transcript shingles, and near-identical runtime. It preserves
 each YouTube route while linking it to the canonical human-reviewed episode.
+`node scripts/build_excerpt_editorial.mjs --write` handles a separate explicit
+review map for excerpt uploads. Each excerpt has its own focus summary and
+timeline; transcript overlap links it to a full source without pretending the
+clip is an independent interview.
 
 ## Repository boundary
 

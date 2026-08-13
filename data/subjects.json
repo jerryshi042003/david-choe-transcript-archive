@@ -2,9 +2,9 @@
  "schema": "choe-corpus/subjects@2",
  "survey": {
   "items_in_archive": 421,
-  "items_with_entities": 164,
+  "items_with_entities": 193,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 164 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item and currently exist for 193 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
@@ -857,6 +857,136 @@
  "subjects": {
   "people": [
    {
+    "name": "Joe Rogan",
+    "episodes": [
+     {
+      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+      "title": "Episode 017"
+     },
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "-I9ut9uikjY",
+      "title": "Inside the Mind of David Choe"
+     },
+     {
+      "id": "0cp3orVR5lg",
+      "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "1DQLpKe3p-E",
+      "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "1cEPqYMBlXA",
+      "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "6sdmY8WvNlw",
+      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+     },
+     {
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+     },
+     {
+      "id": "FA3orUaXhD4",
+      "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
+     },
+     {
+      "id": "FRrbjiOs4no",
+      "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania"
+     },
+     {
+      "id": "HrBhuzHHlhQ",
+      "title": "David Choe's Strange Encounter While Hitchhiking"
+     },
+     {
+      "id": "JNXjG8n4pzE",
+      "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience"
+     },
+     {
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+     },
+     {
+      "id": "M_jPqv3NvUI",
+      "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
+     },
+     {
+      "id": "MzfWgBgqBPs",
+      "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience"
+     },
+     {
+      "id": "O3e1iZowlv8",
+      "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+     },
+     {
+      "id": "V_v5tS3WRQ8",
+      "title": "Why David Choe Stopped Playing Life Like a Video Game"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "_IW6hQQdNys",
+      "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience"
+     },
+     {
+      "id": "bRnQXElR0xE",
+      "title": "\"What Is Unique In Your Head?\" with David Choe (from Joe Rogan Experience #563)"
+     },
+     {
+      "id": "cGENqgCM_hI",
+      "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie"
+     },
+     {
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     },
+     {
+      "id": "kdIZ-X0dbM4",
+      "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+     },
+     {
+      "id": "mOj5JGBZ4dM",
+      "title": "David Choe's crazy massage story (JRE #392)"
+     },
+     {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
+      "id": "rN5_qjTyu8M",
+      "title": "Artist David Choe Was Hooked on \"Warcraft 2\""
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
+     },
+     {
+      "id": "yFFUaDk29pA",
+      "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+     }
+    ],
+    "count": 31
+   },
+   {
     "name": "Harry Kim",
     "episodes": [
      {
@@ -894,6 +1024,10 @@
      {
       "id": "AGbJmM2wWjg",
       "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+     },
+     {
+      "id": "AYAAfmzspis",
+      "title": "Dirty Hands The Art & Crimes of David Choe"
      },
      {
       "id": "CvHFWwVZKoI",
@@ -958,9 +1092,13 @@
      {
       "id": "wcMNw16dQKo",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
+     },
+     {
+      "id": "xS7wfeeeM8I",
+      "title": "David Choe"
      }
     ],
-    "count": 25
+    "count": 27
    },
    {
     "name": "Anthony Bourdain",
@@ -1038,6 +1176,10 @@
       "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      },
      {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
      },
@@ -1046,7 +1188,7 @@
       "title": "Bunny Ears Podcast Episode 24 - David Choe"
      }
     ],
-    "count": 20
+    "count": 21
    },
    {
     "name": "Money Mark",
@@ -1178,6 +1320,10 @@
       "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      },
      {
+      "id": "nSWSXRUm3l8",
+      "title": "David Choe's Gambling Strategy"
+     },
+     {
       "id": "reW-p9ds4g4",
       "title": "David Choe - Steve-O's Wild Ride! Ep #80"
      },
@@ -1186,7 +1332,135 @@
       "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
+    "count": 16
+   },
+   {
+    "name": "Jamie Vernon",
+    "episodes": [
+     {
+      "id": "-I9ut9uikjY",
+      "title": "Inside the Mind of David Choe"
+     },
+     {
+      "id": "0cp3orVR5lg",
+      "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "FRrbjiOs4no",
+      "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania"
+     },
+     {
+      "id": "HrBhuzHHlhQ",
+      "title": "David Choe's Strange Encounter While Hitchhiking"
+     },
+     {
+      "id": "JNXjG8n4pzE",
+      "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience"
+     },
+     {
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+     },
+     {
+      "id": "M_jPqv3NvUI",
+      "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
+     },
+     {
+      "id": "MzfWgBgqBPs",
+      "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience"
+     },
+     {
+      "id": "V_v5tS3WRQ8",
+      "title": "Why David Choe Stopped Playing Life Like a Video Game"
+     },
+     {
+      "id": "_IW6hQQdNys",
+      "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience"
+     },
+     {
+      "id": "cGENqgCM_hI",
+      "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie"
+     },
+     {
+      "id": "kdIZ-X0dbM4",
+      "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+     },
+     {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
+      "id": "rN5_qjTyu8M",
+      "title": "Artist David Choe Was Hooked on \"Warcraft 2\""
+     },
+     {
+      "id": "yFFUaDk29pA",
+      "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+     }
+    ],
     "count": 15
+   },
+   {
+    "name": "Bobby Lee",
+    "episodes": [
+     {
+      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+      "title": "Episode 031"
+     },
+     {
+      "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+      "title": "Episode 119 — The Ranch Solo Series Part II"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "1YUK34XsNiY",
+      "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "D-oSpkzPIoQ",
+      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
+     },
+     {
+      "id": "O3e1iZowlv8",
+      "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+     },
+     {
+      "id": "YOiHuk2iUpA",
+      "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever"
+     },
+     {
+      "id": "_UXD0KqyBko",
+      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
+     },
+     {
+      "id": "amjgbcrHUG0",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+     },
+     {
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     },
+     {
+      "id": "uJXhtxBl3OM",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+     },
+     {
+      "id": "yWAYOdJVY_o",
+      "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
+     }
+    ],
+    "count": 14
    },
    {
     "name": "Critter",
@@ -1505,98 +1779,6 @@
     "count": 11
    },
    {
-    "name": "Bobby Lee",
-    "episodes": [
-     {
-      "id": "saga1-episode-031-with-david-choe-and-asa-akira",
-      "title": "Episode 031"
-     },
-     {
-      "id": "saga1-episode-119-the-ranch-solo-series-part-two",
-      "title": "Episode 119 — The Ranch Solo Series Part II"
-     },
-     {
-      "id": "saga2-november-2nd-the-longest-day",
-      "title": "November 2nd the Longest Day"
-     },
-     {
-      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
-      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
-     },
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "D-oSpkzPIoQ",
-      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
-     },
-     {
-      "id": "_UXD0KqyBko",
-      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
-     },
-     {
-      "id": "amjgbcrHUG0",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     },
-     {
-      "id": "uJXhtxBl3OM",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
-     }
-    ],
-    "count": 10
-   },
-   {
-    "name": "Joe Rogan",
-    "episodes": [
-     {
-      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
-      "title": "Episode 017"
-     },
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     },
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "6sdmY8WvNlw",
-      "title": "DVDASA Episode 019 with David Choe and Asa Akira"
-     },
-     {
-      "id": "8JmtlRXz7V0",
-      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
-     },
-     {
-      "id": "YgilTWmHJBg",
-      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     },
-     {
-      "id": "tk923yF0TXA",
-      "title": "David Choe Returns to Cartoonist Kayfabe!"
-     }
-    ],
-    "count": 10
-   },
-   {
     "name": "Maury Showbizawitz",
     "episodes": [
      {
@@ -1638,6 +1820,52 @@
      {
       "id": "YgilTWmHJBg",
       "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 10
+   },
+   {
+    "name": "Steve Lee",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "AGbJmM2wWjg",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+     },
+     {
+      "id": "KPnyiFx2O0w",
+      "title": "The SteeBeeWeeBee Show ft David Choe Pt2 A Day In The Life Of Steve Lee 2.0"
+     },
+     {
+      "id": "O3e1iZowlv8",
+      "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+     },
+     {
+      "id": "amjgbcrHUG0",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+     },
+     {
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     },
+     {
+      "id": "uJXhtxBl3OM",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
      }
     ],
     "count": 10
@@ -1723,39 +1951,39 @@
     "count": 8
    },
    {
-    "name": "Steve Lee",
+    "name": "Steven Yeun",
     "episodes": [
      {
-      "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
-      "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
-     },
-     {
-      "id": "saga2-november-2nd-the-longest-day",
-      "title": "November 2nd the Longest Day"
-     },
-     {
-      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
-      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+      "id": "1YUK34XsNiY",
+      "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
      },
      {
       "id": "2Xw5EgZdNvQ",
       "title": "Joe Rogan Experience #563 - David Choe"
      },
      {
-      "id": "AGbJmM2wWjg",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
      },
      {
-      "id": "amjgbcrHUG0",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+      "id": "YOiHuk2iUpA",
+      "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever"
      },
      {
       "id": "hicb0ZqmzzM",
       "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
      },
      {
-      "id": "uJXhtxBl3OM",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     },
+     {
+      "id": "mB3oDYYlcF0",
+      "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
+     },
+     {
+      "id": "yWAYOdJVY_o",
+      "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
      }
     ],
     "count": 8
@@ -2263,6 +2491,32 @@
     "count": 5
    },
    {
+    "name": "Roy Choi",
+    "episodes": [
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "1DQLpKe3p-E",
+      "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "Saad Mohseni",
     "episodes": [
      {
@@ -2310,32 +2564,6 @@
      {
       "id": "saga1-episode-101-the-ranch-solo-series-part-one",
       "title": "Episode 101 — The Ranch Solo Series Part I"
-     }
-    ],
-    "count": 5
-   },
-   {
-    "name": "Steven Yeun",
-    "episodes": [
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "BBArizQhDgk",
-      "title": "Joe Rogan Experience #1965 - David Choe"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
-     },
-     {
-      "id": "mB3oDYYlcF0",
-      "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
      }
     ],
     "count": 5
@@ -2749,28 +2977,6 @@
     "count": 4
    },
    {
-    "name": "Roy Choi",
-    "episodes": [
-     {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
-     },
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "YgilTWmHJBg",
-      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "Russell Peters",
     "episodes": [
      {
@@ -2810,6 +3016,28 @@
      {
       "id": "j7T6__UbhBI",
       "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "Steve-O",
+    "episodes": [
+     {
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
+     },
+     {
+      "id": "CvHFWwVZKoI",
+      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+     },
+     {
+      "id": "X0z3caRdZTg",
+      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+     },
+     {
+      "id": "reW-p9ds4g4",
+      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
      }
     ],
     "count": 4
@@ -3381,6 +3609,24 @@
     "count": 3
    },
    {
+    "name": "Jon Favreau",
+    "episodes": [
+     {
+      "id": "1DQLpKe3p-E",
+      "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "1cEPqYMBlXA",
+      "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
+     },
+     {
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Juan",
     "episodes": [
      {
@@ -3412,6 +3658,24 @@
      {
       "id": "tk923yF0TXA",
       "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Khalyla",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "1YUK34XsNiY",
+      "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
+     },
+     {
+      "id": "yWAYOdJVY_o",
+      "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
      }
     ],
     "count": 3
@@ -3741,24 +4005,6 @@
     "count": 3
    },
    {
-    "name": "Steve-O",
-    "episodes": [
-     {
-      "id": "BBArizQhDgk",
-      "title": "Joe Rogan Experience #1965 - David Choe"
-     },
-     {
-      "id": "CvHFWwVZKoI",
-      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
-     },
-     {
-      "id": "reW-p9ds4g4",
-      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
-     }
-    ],
-    "count": 3
-   },
-   {
     "name": "Tobey Maguire",
     "episodes": [
      {
@@ -3998,6 +4244,10 @@
       "title": "DAVID CHOE Tells Us About Meeting and Interviewing FRANK MILLER...And So Much More!"
      },
      {
+      "id": "1cEPqYMBlXA",
+      "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
+     },
+     {
       "id": "2S1kNH59NBk",
       "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
      },
@@ -4042,12 +4292,20 @@
       "title": "Peter LAIRD & David CHOE! Teenage Mutant Ninja Turtles Issue 12! Xeric Award! SLOW JAMZ!"
      },
      {
+      "id": "HrBhuzHHlhQ",
+      "title": "David Choe's Strange Encounter While Hitchhiking"
+     },
+     {
       "id": "IA-7LDa5VXY",
       "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
      },
      {
       "id": "KzXyZrCEp_o",
       "title": "Fighting Depression With Thai Snacks and Art"
+     },
+     {
+      "id": "M_jPqv3NvUI",
+      "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
      },
      {
       "id": "OP1mXscTUnw",
@@ -4090,6 +4348,10 @@
       "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
      },
      {
+      "id": "cGENqgCM_hI",
+      "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie"
+     },
+     {
       "id": "gM1ziiiZTHM",
       "title": "The rise and fall of david choe a story of art, crime, and comedy"
      },
@@ -4124,9 +4386,13 @@
      {
       "id": "wK3xCI1VF-g",
       "title": "ORIGINAL ART SHOW AND TELL with David Choe"
+     },
+     {
+      "id": "yFFUaDk29pA",
+      "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
      }
     ],
-    "count": 68
+    "count": 73
    },
    {
     "name": "Japan",
@@ -4234,9 +4500,13 @@
      {
       "id": "vEL0l0Nlmh8",
       "title": "David Choe: It All Adds Up"
+     },
+     {
+      "id": "xS7wfeeeM8I",
+      "title": "David Choe"
      }
     ],
-    "count": 26
+    "count": 27
    },
    {
     "name": "Koreatown",
@@ -4380,11 +4650,19 @@
       "title": "Joe Rogan Experience #392 - David Choe"
      },
      {
+      "id": "nSWSXRUm3l8",
+      "title": "David Choe's Gambling Strategy"
+     },
+     {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
       "id": "uOf3CdFjXg4",
       "title": "Bunny Ears Podcast Episode 24 - David Choe"
      }
     ],
-    "count": 15
+    "count": 17
    },
    {
     "name": "Hawaii",
@@ -4472,6 +4750,10 @@
       "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
      },
      {
+      "id": "1YUK34XsNiY",
+      "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
+     },
+     {
       "id": "AGbJmM2wWjg",
       "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
      },
@@ -4488,7 +4770,7 @@
       "title": "David Choe: It All Adds Up"
      }
     ],
-    "count": 11
+    "count": 12
    },
    {
     "name": "China",
@@ -4530,11 +4812,15 @@
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
      },
      {
+      "id": "rN5_qjTyu8M",
+      "title": "Artist David Choe Was Hooked on \"Warcraft 2\""
+     },
+     {
       "id": "wcMNw16dQKo",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
      }
     ],
-    "count": 10
+    "count": 11
    },
    {
     "name": "New York",
@@ -4701,6 +4987,40 @@
     "count": 7
    },
    {
+    "name": "Tokyo",
+    "episodes": [
+     {
+      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+      "title": "Episode 004"
+     },
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "525yfSuD3TI",
+      "title": "Spraycans to riches: David Choe"
+     },
+     {
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+     },
+     {
+      "id": "OP1mXscTUnw",
+      "title": "David Choe | KQED Spark"
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
+     },
+     {
+      "id": "xS7wfeeeM8I",
+      "title": "David Choe"
+     }
+    ],
+    "count": 7
+   },
+   {
     "name": "Detroit",
     "episodes": [
      {
@@ -4821,31 +5141,31 @@
     "count": 6
    },
    {
-    "name": "Tokyo",
+    "name": "Tanzania",
     "episodes": [
      {
-      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
-      "title": "Episode 004"
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
      },
      {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
+      "id": "CvHFWwVZKoI",
+      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
      },
      {
-      "id": "525yfSuD3TI",
-      "title": "Spraycans to riches: David Choe"
+      "id": "FRrbjiOs4no",
+      "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania"
      },
      {
-      "id": "8JmtlRXz7V0",
-      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+      "id": "JNXjG8n4pzE",
+      "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience"
      },
      {
-      "id": "OP1mXscTUnw",
-      "title": "David Choe | KQED Spark"
+      "id": "_IW6hQQdNys",
+      "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience"
      },
      {
-      "id": "tk923yF0TXA",
-      "title": "David Choe Returns to Cartoonist Kayfabe!"
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
      }
     ],
     "count": 6
@@ -4881,6 +5201,32 @@
     "count": 6
    },
    {
+    "name": "Koreatown, Los Angeles",
+    "episodes": [
+     {
+      "id": "525yfSuD3TI",
+      "title": "Spraycans to riches: David Choe"
+     },
+     {
+      "id": "FA3orUaXhD4",
+      "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
+     },
+     {
+      "id": "Xo6Hj9hw96I",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+     },
+     {
+      "id": "mOj5JGBZ4dM",
+      "title": "David Choe's crazy massage story (JRE #392)"
+     },
+     {
+      "id": "vEL0l0Nlmh8",
+      "title": "David Choe: It All Adds Up"
+     }
+    ],
+    "count": 5
+   },
+   {
     "name": "London",
     "episodes": [
      {
@@ -4902,6 +5248,32 @@
      {
       "id": "reW-p9ds4g4",
       "title": "David Choe - Steve-O's Wild Ride! Ep #80"
+     }
+    ],
+    "count": 5
+   },
+   {
+    "name": "New York City",
+    "episodes": [
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "HrBhuzHHlhQ",
+      "title": "David Choe's Strange Encounter While Hitchhiking"
+     },
+     {
+      "id": "M_jPqv3NvUI",
+      "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
     "count": 5
@@ -5083,6 +5455,42 @@
     "count": 4
    },
    {
+    "name": "Africa",
+    "episodes": [
+     {
+      "id": "1cEPqYMBlXA",
+      "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
+     },
+     {
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+     },
+     {
+      "id": "V_v5tS3WRQ8",
+      "title": "Why David Choe Stopped Playing Life Like a Video Game"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Austin",
+    "episodes": [
+     {
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
+     },
+     {
+      "id": "IA-7LDa5VXY",
+      "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+     },
+     {
+      "id": "yFFUaDk29pA",
+      "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Beijing",
     "episodes": [
      {
@@ -5209,24 +5617,6 @@
     "count": 3
    },
    {
-    "name": "Koreatown, Los Angeles",
-    "episodes": [
-     {
-      "id": "525yfSuD3TI",
-      "title": "Spraycans to riches: David Choe"
-     },
-     {
-      "id": "Xo6Hj9hw96I",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
-     },
-     {
-      "id": "vEL0l0Nlmh8",
-      "title": "David Choe: It All Adds Up"
-     }
-    ],
-    "count": 3
-   },
-   {
     "name": "LAX",
     "episodes": [
      {
@@ -5258,24 +5648,6 @@
      {
       "id": "i8cDwucTSbo",
       "title": "Joe Rogan Experience #392 - David Choe"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "New York City",
-    "episodes": [
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     },
-     {
-      "id": "T5Bc_q5FHCQ",
-      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
-     },
-     {
-      "id": "tk923yF0TXA",
-      "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
     "count": 3
@@ -5335,6 +5707,24 @@
     "count": 3
    },
    {
+    "name": "Republic of the Congo",
+    "episodes": [
+     {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
+      "id": "AYAAfmzspis",
+      "title": "Dirty Hands The Art & Crimes of David Choe"
+     },
+     {
+      "id": "M_jPqv3NvUI",
+      "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Rodeo Drive",
     "episodes": [
      {
@@ -5366,6 +5756,24 @@
      {
       "id": "Xo6Hj9hw96I",
       "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Santa Monica",
+    "episodes": [
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "FA3orUaXhD4",
+      "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
+     },
+     {
+      "id": "i8cDwucTSbo",
+      "title": "Joe Rogan Experience #392 - David Choe"
      }
     ],
     "count": 3
@@ -5407,24 +5815,6 @@
     "count": 3
    },
    {
-    "name": "Tanzania",
-    "episodes": [
-     {
-      "id": "BBArizQhDgk",
-      "title": "Joe Rogan Experience #1965 - David Choe"
-     },
-     {
-      "id": "CvHFWwVZKoI",
-      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
-     }
-    ],
-    "count": 3
-   },
-   {
     "name": "Tijuana",
     "episodes": [
      {
@@ -5444,6 +5834,128 @@
    }
   ],
   "themes": [
+   {
+    "name": "excerpt provenance",
+    "episodes": [
+     {
+      "id": "-I9ut9uikjY",
+      "title": "Inside the Mind of David Choe"
+     },
+     {
+      "id": "0cp3orVR5lg",
+      "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "1DQLpKe3p-E",
+      "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "1YUK34XsNiY",
+      "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
+     },
+     {
+      "id": "1cEPqYMBlXA",
+      "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
+     },
+     {
+      "id": "AYAAfmzspis",
+      "title": "Dirty Hands The Art & Crimes of David Choe"
+     },
+     {
+      "id": "FA3orUaXhD4",
+      "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
+     },
+     {
+      "id": "FRrbjiOs4no",
+      "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania"
+     },
+     {
+      "id": "HrBhuzHHlhQ",
+      "title": "David Choe's Strange Encounter While Hitchhiking"
+     },
+     {
+      "id": "JNXjG8n4pzE",
+      "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience"
+     },
+     {
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+     },
+     {
+      "id": "KPnyiFx2O0w",
+      "title": "The SteeBeeWeeBee Show ft David Choe Pt2 A Day In The Life Of Steve Lee 2.0"
+     },
+     {
+      "id": "M_jPqv3NvUI",
+      "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
+     },
+     {
+      "id": "MzfWgBgqBPs",
+      "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience"
+     },
+     {
+      "id": "O3e1iZowlv8",
+      "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+     },
+     {
+      "id": "V_v5tS3WRQ8",
+      "title": "Why David Choe Stopped Playing Life Like a Video Game"
+     },
+     {
+      "id": "X0z3caRdZTg",
+      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+     },
+     {
+      "id": "YOiHuk2iUpA",
+      "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever"
+     },
+     {
+      "id": "_IW6hQQdNys",
+      "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience"
+     },
+     {
+      "id": "bRnQXElR0xE",
+      "title": "\"What Is Unique In Your Head?\" with David Choe (from Joe Rogan Experience #563)"
+     },
+     {
+      "id": "cGENqgCM_hI",
+      "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie"
+     },
+     {
+      "id": "kdIZ-X0dbM4",
+      "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+     },
+     {
+      "id": "mOj5JGBZ4dM",
+      "title": "David Choe's crazy massage story (JRE #392)"
+     },
+     {
+      "id": "nSWSXRUm3l8",
+      "title": "David Choe's Gambling Strategy"
+     },
+     {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
+      "id": "rN5_qjTyu8M",
+      "title": "Artist David Choe Was Hooked on \"Warcraft 2\""
+     },
+     {
+      "id": "xS7wfeeeM8I",
+      "title": "David Choe"
+     },
+     {
+      "id": "yFFUaDk29pA",
+      "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+     },
+     {
+      "id": "yWAYOdJVY_o",
+      "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
+     }
+    ],
+    "count": 29
+   },
    {
     "name": "friendship",
     "episodes": [
@@ -5470,6 +5982,10 @@
      {
       "id": "saga2-november-2nd-the-longest-day",
       "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "1YUK34XsNiY",
+      "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
      },
      {
       "id": "8JmtlRXz7V0",
@@ -5526,9 +6042,13 @@
      {
       "id": "xXDZOnvqyQg",
       "title": "David Choe | It All Starts With A Bat"
+     },
+     {
+      "id": "yWAYOdJVY_o",
+      "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
      }
     ],
-    "count": 20
+    "count": 22
    },
    {
     "name": "privacy",
@@ -5675,6 +6195,60 @@
     "count": 13
    },
    {
+    "name": "hitchhiking",
+    "episodes": [
+     {
+      "id": "HQ7GRWWgOGM",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 1/5)"
+     },
+     {
+      "id": "HrBhuzHHlhQ",
+      "title": "David Choe's Strange Encounter While Hitchhiking"
+     },
+     {
+      "id": "JZ6wY3dgxdg",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+     },
+     {
+      "id": "QO3-AAVTeDA",
+      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "UZ7-frVitVc",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
+     },
+     {
+      "id": "X0z3caRdZTg",
+      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+     },
+     {
+      "id": "Xo6Hj9hw96I",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     },
+     {
+      "id": "oFliGQNTC1c",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
+     },
+     {
+      "id": "wcMNw16dQKo",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
+     },
+     {
+      "id": "zgBjoRMyp1Y",
+      "title": "Thumbs UP Season 4 Trailer"
+     }
+    ],
+    "count": 12
+   },
+   {
     "name": "consent",
     "episodes": [
      {
@@ -5725,47 +6299,47 @@
     "count": 11
    },
    {
-    "name": "hitchhiking",
+    "name": "graffiti",
     "episodes": [
      {
-      "id": "HQ7GRWWgOGM",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 1/5)"
+      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+      "title": "Episode 023"
      },
      {
-      "id": "JZ6wY3dgxdg",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
      },
      {
-      "id": "QO3-AAVTeDA",
-      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+      "id": "1DQLpKe3p-E",
+      "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
      },
      {
-      "id": "T5Bc_q5FHCQ",
-      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+      "id": "1cEPqYMBlXA",
+      "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
      },
      {
-      "id": "UZ7-frVitVc",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
+      "id": "3QecMMrcCCA",
+      "title": "David Choe Shoot Interview"
      },
      {
-      "id": "Xo6Hj9hw96I",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+      "id": "525yfSuD3TI",
+      "title": "Spraycans to riches: David Choe"
      },
      {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
      },
      {
-      "id": "oFliGQNTC1c",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
+      "id": "TaQ3VbsmNLk",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 4/5)"
      },
      {
-      "id": "wcMNw16dQKo",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
+      "id": "reW-p9ds4g4",
+      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
      },
      {
-      "id": "zgBjoRMyp1Y",
-      "title": "Thumbs UP Season 4 Trailer"
+      "id": "xS7wfeeeM8I",
+      "title": "David Choe"
      }
     ],
     "count": 10
@@ -5794,12 +6368,54 @@
       "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
      },
      {
+      "id": "X0z3caRdZTg",
+      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+     },
+     {
       "id": "cOJtx8kDN-Y",
       "title": "David Choe's Art Chaos: Embrace Mistakes & Joy in Creative Exploration"
      },
      {
       "id": "i8cDwucTSbo",
       "title": "Joe Rogan Experience #392 - David Choe"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 9
+   },
+   {
+    "name": "pornography",
+    "episodes": [
+     {
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
+     },
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+      "title": "Episode 027"
+     },
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "5QE3n7QfUZY",
+      "title": "The Trap of Watching Instead of Doing (and How to Escape It)"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+     },
+     {
+      "id": "cGENqgCM_hI",
+      "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie"
      },
      {
       "id": "j7T6__UbhBI",
@@ -5847,72 +6463,136 @@
     "count": 8
    },
    {
-    "name": "graffiti",
+    "name": "religion",
     "episodes": [
      {
-      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
-      "title": "Episode 023"
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
      },
      {
       "id": "vimeo-dirty-hands-laff",
       "title": "Dirty Hands: The Art and Crimes of David Choe"
      },
      {
-      "id": "3QecMMrcCCA",
-      "title": "David Choe Shoot Interview"
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
      },
      {
-      "id": "525yfSuD3TI",
-      "title": "Spraycans to riches: David Choe"
+      "id": "JZ6wY3dgxdg",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
      },
      {
-      "id": "8JmtlRXz7V0",
-      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
      },
      {
-      "id": "TaQ3VbsmNLk",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 4/5)"
+      "id": "UZ7-frVitVc",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
      },
      {
-      "id": "reW-p9ds4g4",
-      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
+      "id": "kdIZ-X0dbM4",
+      "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
      }
     ],
     "count": 7
    },
    {
-    "name": "pornography",
+    "name": "risk",
     "episodes": [
      {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
+      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+      "title": "Episode 101 — The Ranch Solo Series Part I"
      },
      {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
+      "id": "saga2-book-02-chapter-001",
+      "title": "Chapter 001 — The Ranch Solo Series Part IV"
      },
      {
-      "id": "saga1-episode-027-with-david-choe-and-asa-akira",
-      "title": "Episode 027"
+      "id": "saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode",
+      "title": "Chapter 021 — The Ranch Solo Series #3 — The Lost Episode"
      },
+     {
+      "id": "JZ6wY3dgxdg",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+     },
+     {
+      "id": "QO3-AAVTeDA",
+      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+     },
+     {
+      "id": "Xo6Hj9hw96I",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+     },
+     {
+      "id": "nSWSXRUm3l8",
+      "title": "David Choe's Gambling Strategy"
+     }
+    ],
+    "count": 7
+   },
+   {
+    "name": "wealth",
+    "episodes": [
      {
       "id": "saga1-episode-028-with-david-choe-and-asa-akira",
       "title": "Episode 028"
      },
      {
-      "id": "5QE3n7QfUZY",
-      "title": "The Trap of Watching Instead of Doing (and How to Escape It)"
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
      },
      {
-      "id": "YgilTWmHJBg",
-      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
      },
      {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
+      "id": "V_v5tS3WRQ8",
+      "title": "Why David Choe Stopped Playing Life Like a Video Game"
+     },
+     {
+      "id": "X0z3caRdZTg",
+      "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     },
+     {
+      "id": "xXDZOnvqyQg",
+      "title": "David Choe | It All Starts With A Bat"
      }
     ],
     "count": 7
+   },
+   {
+    "name": "addiction",
+    "episodes": [
+     {
+      "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+      "title": "Episode 023"
+     },
+     {
+      "id": "CvHFWwVZKoI",
+      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+     },
+     {
+      "id": "QO3-AAVTeDA",
+      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+     },
+     {
+      "id": "nSWSXRUm3l8",
+      "title": "David Choe's Gambling Strategy"
+     },
+     {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
+      "id": "vEL0l0Nlmh8",
+      "title": "David Choe: It All Adds Up"
+     }
+    ],
+    "count": 6
    },
    {
     "name": "hospitality",
@@ -5945,61 +6625,31 @@
     "count": 6
    },
    {
-    "name": "religion",
+    "name": "shame",
     "episodes": [
      {
-      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-      "title": "Episode 005"
+      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+      "title": "Episode 004"
      },
      {
-      "id": "vimeo-dirty-hands-laff",
-      "title": "Dirty Hands: The Art and Crimes of David Choe"
+      "id": "saga1-episode-020-with-david-choe-and-asa-akira",
+      "title": "Episode 020"
      },
      {
-      "id": "BBArizQhDgk",
-      "title": "Joe Rogan Experience #1965 - David Choe"
+      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+      "title": "Episode 024"
      },
      {
-      "id": "JZ6wY3dgxdg",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+      "id": "FA3orUaXhD4",
+      "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
      },
      {
-      "id": "T5Bc_q5FHCQ",
-      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+      "id": "mOj5JGBZ4dM",
+      "title": "David Choe's crazy massage story (JRE #392)"
      },
      {
-      "id": "UZ7-frVitVc",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
-     }
-    ],
-    "count": 6
-   },
-   {
-    "name": "risk",
-    "episodes": [
-     {
-      "id": "saga1-episode-101-the-ranch-solo-series-part-one",
-      "title": "Episode 101 — The Ranch Solo Series Part I"
-     },
-     {
-      "id": "saga2-book-02-chapter-001",
-      "title": "Chapter 001 — The Ranch Solo Series Part IV"
-     },
-     {
-      "id": "saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode",
-      "title": "Chapter 021 — The Ranch Solo Series #3 — The Lost Episode"
-     },
-     {
-      "id": "JZ6wY3dgxdg",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
-     },
-     {
-      "id": "QO3-AAVTeDA",
-      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
-     },
-     {
-      "id": "Xo6Hj9hw96I",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+      "id": "reW-p9ds4g4",
+      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
      }
     ],
     "count": 6
@@ -6033,6 +6683,32 @@
      }
     ],
     "count": 6
+   },
+   {
+    "name": "boundaries",
+    "episodes": [
+     {
+      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+      "title": "Episode 002"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "FA3orUaXhD4",
+      "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+     }
+    ],
+    "count": 5
    },
    {
     "name": "collaboration",
@@ -6269,23 +6945,23 @@
     "count": 5
    },
    {
-    "name": "addiction",
+    "name": "acting",
     "episodes": [
      {
       "id": "saga1-episode-023-with-david-choe-and-asa-akira",
       "title": "Episode 023"
      },
      {
-      "id": "CvHFWwVZKoI",
-      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
      },
      {
-      "id": "QO3-AAVTeDA",
-      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+      "id": "1DQLpKe3p-E",
+      "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
      },
      {
-      "id": "vEL0l0Nlmh8",
-      "title": "David Choe: It All Adds Up"
+      "id": "1cEPqYMBlXA",
+      "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
      }
     ],
     "count": 4
@@ -6357,28 +7033,6 @@
     "count": 4
    },
    {
-    "name": "boundaries",
-    "episodes": [
-     {
-      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
-      "title": "Episode 002"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
-     },
-     {
-      "id": "k-wWvZu9xaA",
-      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "caption failure",
     "episodes": [
      {
@@ -6418,6 +7072,28 @@
      {
       "id": "nJ0MUrJYcOM",
       "title": "How to Draw the Unexpected: Art Tutorial With David Choe"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "humiliation",
+    "episodes": [
+     {
+      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+      "title": "Episode 026"
+     },
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "HrBhuzHHlhQ",
+      "title": "David Choe's Strange Encounter While Hitchhiking"
+     },
+     {
+      "id": "YgilTWmHJBg",
+      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 4
@@ -6533,28 +7209,6 @@
     "count": 4
    },
    {
-    "name": "shame",
-    "episodes": [
-     {
-      "id": "saga1-episode-004-with-david-choe-and-asa-akira",
-      "title": "Episode 004"
-     },
-     {
-      "id": "saga1-episode-020-with-david-choe-and-asa-akira",
-      "title": "Episode 020"
-     },
-     {
-      "id": "saga1-episode-024-with-david-choe-and-asa-akira",
-      "title": "Episode 024"
-     },
-     {
-      "id": "reW-p9ds4g4",
-      "title": "David Choe - Steve-O's Wild Ride! Ep #80"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "source reliability",
     "episodes": [
      {
@@ -6599,28 +7253,6 @@
     "count": 4
    },
    {
-    "name": "wealth",
-    "episodes": [
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "k-wWvZu9xaA",
-      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
-     },
-     {
-      "id": "xXDZOnvqyQg",
-      "title": "David Choe | It All Starts With A Bat"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "acceptance",
     "episodes": [
      {
@@ -6634,6 +7266,42 @@
      {
       "id": "yfBr58eH6ls",
       "title": "The Choe Show-Healing"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "accountability",
+    "episodes": [
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+     },
+     {
+      "id": "md5ah3l5BgE",
+      "title": "Old Boyz (Short Film) | with Bobby Lee and David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "authenticity",
+    "episodes": [
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+      "title": "Episode 119 — The Ranch Solo Series Part II"
+     },
+     {
+      "id": "-I9ut9uikjY",
+      "title": "Inside the Mind of David Choe"
      }
     ],
     "count": 3
@@ -6891,6 +7559,42 @@
     "count": 3
    },
    {
+    "name": "grief",
+    "episodes": [
+     {
+      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+      "title": "Episode 021"
+     },
+     {
+      "id": "qVPlWFKUBCI",
+      "title": "David Choe Remembers the Death of Anthony Bourdain"
+     },
+     {
+      "id": "xANsVQ33p4Q",
+      "title": "Kevin Smith Interview (2015) | David Choe: High Risk [HD] | Documentary"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "Hadza",
+    "episodes": [
+     {
+      "id": "FRrbjiOs4no",
+      "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania"
+     },
+     {
+      "id": "_IW6hQQdNys",
+      "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "honesty",
     "episodes": [
      {
@@ -6904,24 +7608,6 @@
      {
       "id": "QO3-AAVTeDA",
       "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "humiliation",
-    "episodes": [
-     {
-      "id": "saga1-episode-026-with-david-choe-and-asa-akira",
-      "title": "Episode 026"
-     },
-     {
-      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
-      "title": "Episode 030"
-     },
-     {
-      "id": "YgilTWmHJBg",
-      "title": "DVDASA Episode 026 with David Choe and Asa Akira"
      }
     ],
     "count": 3
@@ -6999,6 +7685,42 @@
     "count": 3
    },
    {
+    "name": "love",
+    "episodes": [
+     {
+      "id": "97We1F1yFw4",
+      "title": "Experience Pure Joy: Wake UP and Play"
+     },
+     {
+      "id": "kdIZ-X0dbM4",
+      "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+     },
+     {
+      "id": "qw_y5isSw4k",
+      "title": "Three Men One Heart- Thumbs UP Spot"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "lying",
+    "episodes": [
+     {
+      "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+      "title": "Episode 025"
+     },
+     {
+      "id": "CF0o5-EOWb4",
+      "title": "The Unofficial Choe Show Trailer on Hulu"
+     },
+     {
+      "id": "rN5_qjTyu8M",
+      "title": "Artist David Choe Was Hooked on \"Warcraft 2\""
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "martial arts",
     "episodes": [
      {
@@ -7071,6 +7793,24 @@
     "count": 3
    },
    {
+    "name": "nature",
+    "episodes": [
+     {
+      "id": "KOfsocdybBw",
+      "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+     },
+     {
+      "id": "cOJtx8kDN-Y",
+      "title": "David Choe's Art Chaos: Embrace Mistakes & Joy in Creative Exploration"
+     },
+     {
+      "id": "yFFUaDk29pA",
+      "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "photography",
     "episodes": [
      {
@@ -7120,6 +7860,24 @@
      {
       "id": "uOf3CdFjXg4",
       "title": "Bunny Ears Podcast Episode 24 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "psychedelics",
+    "episodes": [
+     {
+      "id": "0cp3orVR5lg",
+      "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965"
+     },
+     {
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
+     },
+     {
+      "id": "MzfWgBgqBPs",
+      "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience"
      }
     ],
     "count": 3

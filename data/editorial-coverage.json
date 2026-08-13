@@ -6,16 +6,16 @@
   "unique_reader_routes": 421
  },
  "coverage": {
-  "editorial": 305,
-  "context": 305,
-  "summary": 305,
-  "description": 305,
-  "chapters": 305,
-  "people": 164,
-  "places": 149,
-  "works": 163,
-  "themes": 164,
-  "connections": 305
+  "editorial": 334,
+  "context": 334,
+  "summary": 334,
+  "description": 334,
+  "chapters": 334,
+  "people": 193,
+  "places": 167,
+  "works": 192,
+  "themes": 193,
+  "connections": 334
  },
  "known_signal_checks": {
   "exact_word_trivia": {
@@ -69,7 +69,7 @@
   {
    "group": "JRE Clips",
    "routes": 7,
-   "editorial": 0
+   "editorial": 7
   },
   {
    "group": "MANGCHI",
@@ -79,7 +79,7 @@
   {
    "group": "PowerfulJRE",
    "routes": 7,
-   "editorial": 4
+   "editorial": 7
   },
   {
    "group": "WalrusTV",
@@ -89,12 +89,12 @@
   {
    "group": "JRE Greatest Hits",
    "routes": 6,
-   "editorial": 2
+   "editorial": 6
   },
   {
    "group": "JRE plus",
    "routes": 5,
-   "editorial": 1
+   "editorial": 5
   },
   {
    "group": "DirtyHandsMovie",
@@ -104,7 +104,7 @@
   {
    "group": "Chang Nesia",
    "routes": 3,
-   "editorial": 2
+   "editorial": 3
   },
   {
    "group": "Steebee Weebee",
@@ -114,7 +114,7 @@
   {
    "group": "TigerBellyClips",
    "routes": 3,
-   "editorial": 0
+   "editorial": 2
   },
   {
    "group": "DVDASA Recap Show - with SciFiReuben",
@@ -124,7 +124,7 @@
   {
    "group": "Rogan Experience",
    "routes": 2,
-   "editorial": 0
+   "editorial": 2
   },
   {
    "group": "_SUPERHER0_",
@@ -134,12 +134,12 @@
   {
    "group": "@StudioMotion",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "Abmis_",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "Andrew Huberman",
@@ -184,7 +184,7 @@
   {
    "group": "Diogenes Analytics",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "Felix Comic Art",
@@ -264,7 +264,7 @@
   {
    "group": "Slept Kingdom Chronicles",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "Star Pods",
@@ -274,7 +274,7 @@
   {
    "group": "Steve-O's Wild Ride! - Clips",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "Steve-O's Wild Ride! - Podcast",
@@ -314,7 +314,7 @@
   {
    "group": "Vanta",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "Wevr",
@@ -1868,7 +1868,7 @@
    "title": "Inside the Mind of David Choe",
    "group": "JRE Clips",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -1876,7 +1876,7 @@
    "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965",
    "group": "JRE Greatest Hits",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -1892,7 +1892,7 @@
    "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965",
    "group": "JRE Greatest Hits",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -1907,22 +1907,6 @@
    "id": "1VEq7pdtbHM",
    "title": "DAVID CHOE :: IN THE STUDIO :: THE HUNDREDS",
    "group": "THE HUNDREDS",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "1YUK34XsNiY",
-   "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors",
-   "group": "Slept Kingdom Chronicles",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "1cEPqYMBlXA",
-   "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience",
-   "group": "JRE plus",
    "missing": [
     "editorial"
    ]
@@ -2024,14 +2008,6 @@
    ]
   },
   {
-   "id": "AYAAfmzspis",
-   "title": "Dirty Hands The Art & Crimes of David Choe",
-   "group": "@StudioMotion",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "B4UD01U7pTw",
    "title": "Watch David Choe Create Magic with Mixed Media",
    "group": "David Choe Clips",
@@ -2067,22 +2043,6 @@
    "id": "DInFITDqmkA",
    "title": "MANGCHI",
    "group": "Jennie Jen",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "FA3orUaXhD4",
-   "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)",
-   "group": "PowerfulJRE",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "FRrbjiOs4no",
-   "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania",
-   "group": "JRE Clips",
    "missing": [
     "editorial"
    ]
@@ -2152,14 +2112,6 @@
    ]
   },
   {
-   "id": "HrBhuzHHlhQ",
-   "title": "David Choe's Strange Encounter While Hitchhiking",
-   "group": "JRE Clips",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "IM8oNL2-xIs",
    "title": "Die Antwoord's Ninja joins David Choe's band Mangchi live on stage for the encore",
    "group": "WalrusTV",
@@ -2184,25 +2136,9 @@
    ]
   },
   {
-   "id": "JNXjG8n4pzE",
-   "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience",
-   "group": "JRE plus",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "K82jh4XbjCg",
    "title": "Paint Honestly to Improve Your Art",
    "group": "David Choe",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "KOfsocdybBw",
-   "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience",
-   "group": "Rogan Experience",
    "missing": [
     "editorial"
    ]
@@ -2212,7 +2148,7 @@
    "title": "The SteeBeeWeeBee Show ft David Choe Pt2 A Day In The Life Of Steve Lee 2.0",
    "group": "Chang Nesia",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2256,19 +2192,11 @@
    ]
   },
   {
-   "id": "M_jPqv3NvUI",
-   "title": "David Choe Got Lost Looking for a Dinosaur in the Congo",
-   "group": "JRE Clips",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "MzfWgBgqBPs",
    "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience",
    "group": "JRE plus",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2284,7 +2212,7 @@
    "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563",
    "group": "JRE Greatest Hits",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2376,14 +2304,6 @@
    ]
   },
   {
-   "id": "V_v5tS3WRQ8",
-   "title": "Why David Choe Stopped Playing Life Like a Video Game",
-   "group": "PowerfulJRE",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "VucJLf8Jbn0",
    "title": "Painting in the Facebook Offices with David Choe",
    "group": "David Choe Clips",
@@ -2412,7 +2332,7 @@
    "title": "David Choe Made Millions From Facebook | Wild Ride! Clips",
    "group": "Steve-O's Wild Ride! - Clips",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2428,7 +2348,7 @@
    "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever",
    "group": "TigerBellyClips",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2451,14 +2371,6 @@
    "id": "_Azb3sploI0",
    "title": "MANGCHI - I love you",
    "group": "MANGCHI",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "_IW6hQQdNys",
-   "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience",
-   "group": "Rogan Experience",
    "missing": [
     "editorial"
    ]
@@ -2516,21 +2428,13 @@
    "title": "\"What Is Unique In Your Head?\" with David Choe (from Joe Rogan Experience #563)",
    "group": "PowerfulJRE",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
    "id": "bxqo4zQWNA0",
    "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial",
    "group": "David Choe",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "cGENqgCM_hI",
-   "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie",
-   "group": "JRE Clips",
    "missing": [
     "editorial"
    ]
@@ -2636,7 +2540,7 @@
    "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965",
    "group": "JRE Greatest Hits",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2672,14 +2576,6 @@
    ]
   },
   {
-   "id": "mOj5JGBZ4dM",
-   "title": "David Choe's crazy massage story (JRE #392)",
-   "group": "Abmis_",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "mUsyh416654",
    "title": "Mangchi Video featuring Steve Lee",
    "group": "David Choe Clips",
@@ -2701,14 +2597,6 @@
    "group": "Archive Dump Truck",
    "missing": [
     "places"
-   ]
-  },
-  {
-   "id": "nSWSXRUm3l8",
-   "title": "David Choe's Gambling Strategy",
-   "group": "Diogenes Analytics",
-   "missing": [
-    "editorial"
    ]
   },
   {
@@ -2744,25 +2632,9 @@
    ]
   },
   {
-   "id": "qVPlWFKUBCI",
-   "title": "David Choe Remembers the Death of Anthony Bourdain",
-   "group": "JRE Clips",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "qs1yRqLkRm4",
    "title": "These Are My People - MANGCHI",
    "group": "MANGCHI",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "rN5_qjTyu8M",
-   "title": "Artist David Choe Was Hooked on \"Warcraft 2\"",
-   "group": "JRE Clips",
    "missing": [
     "editorial"
    ]
@@ -2856,22 +2728,6 @@
    ]
   },
   {
-   "id": "xS7wfeeeM8I",
-   "title": "David Choe",
-   "group": "Vanta",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "yFFUaDk29pA",
-   "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience",
-   "group": "JRE plus",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
    "id": "yMw73rpJPRA",
    "title": "Whales and Orgies | David Choe, Early Years",
    "group": "DirtyHandsMovie",
@@ -2884,7 +2740,7 @@
    "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby",
    "group": "TigerBellyClips",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
