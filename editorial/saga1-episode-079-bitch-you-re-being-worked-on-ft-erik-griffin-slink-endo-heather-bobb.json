@@ -1,0 +1,1044 @@
+{
+  "episode_id": "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb",
+  "title": "Bitch, You're Being Worked On",
+  "reviewed_on": "2026-07-30",
+  "summary": "Episode 79 brings Erik Griffin into the crowded Episode 78 room and turns the phone dispute into a broader argument about attention, fame, attraction, friendship, honesty and self-control. Its best material is genuinely corrective: participants are one another's immediate audience; professional success does not excuse rude or boundary-crossing conduct; honesty does not make harmful conduct good; attraction does not require action; and a good friend can decline a sexual opportunity. Its title phrase, however, comes from reframing a woman's direct rejection as an ongoing campaign—'you're being worked on.' The archive rejects that premise: every person controls romantic and sexual participation, and someone may decline friendship without converting no into later consent. Heather's new relationship supersedes the earlier dating-show premise, and repeated sexual targeting is not indexed as playful metadata. Exact redactions protect a private former partner, a private intimate encounter, and a possible minor's social handle. Public chronology includes Griffin's Montez Walker role as Workaholics season four approached, All Def Comedy Live at Inside Jokes, Slink Johnson's Black Jesus announcement, Heather's bass work, Money Mark's site, Tinder's early adoption, Bill Poon's blog and a red-suit connection to Choe's fashion timeline. Named dialogue remains withheld.",
+  "speaker_policy": "Named dialogue remains withheld. Episode 79 has zero diarized turns and five coarse window embeddings for a very large, changing ensemble. Public participants are contextually known, but no independently held-out multispeaker validation has passed.",
+  "sensitivity": "Surprise nudity; phone-policy conflict; racial, disability and sexual slurs; private partners; infidelity allegations; explicit sexual acts; persistent pursuit after rejection; age and fame power; violence; sex-work boundaries; ageism and fertility misinformation; shock-content pornography; drugging joke; possible minor social account; dwarfism fetishization.",
+  "source_notes": [
+    "Three exact private-person spans are filed in the shared redaction layer; immutable ASR remains untouched.",
+    "Paramount's Workaholics release confirms season four premiered January 22, 2014 and featured Montez in the premiere.",
+    "AFI and Adult Swim sources confirm Slink Johnson stars in Black Jesus, released August 7, 2014.",
+    "UNFPA reported China's 2013 sex ratio at birth near 118 boys per 100 girls, not ten to one.",
+    "Japanese adult-diaper sales reportedly exceeded baby-diaper sales in 2011; the episode's extinction rhetoric is not supported.",
+    "All seven cleaner drops are empty zero-duration artifacts."
+  ],
+  "quality": {
+    "raw_segments": 4292,
+    "clean_segments": 4285,
+    "words_approx": 26178,
+    "duration_seconds": 7416.14,
+    "accepted_context_decisions": 359,
+    "chapters": 206,
+    "connections": 32,
+    "content_warnings": 25,
+    "identity_windows": 5,
+    "named_turns": 0,
+    "cleaning_drops": 7
+  },
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Cold open and second recording"
+    },
+    {
+      "t": 44,
+      "title": "Erik Griffin arrives"
+    },
+    {
+      "t": 76,
+      "title": "Phone conflict resumes"
+    },
+    {
+      "t": 89,
+      "title": "Long-show participation"
+    },
+    {
+      "t": 137,
+      "title": "Surprise nudity and fart"
+    },
+    {
+      "t": 172,
+      "title": "Success as excuse"
+    },
+    {
+      "t": 206,
+      "title": "Audience-attention analogy"
+    },
+    {
+      "t": 223,
+      "title": "Each other as audience"
+    },
+    {
+      "t": 234,
+      "title": "Racial escalation"
+    },
+    {
+      "t": 304,
+      "title": "ADHD speculation"
+    },
+    {
+      "t": 320,
+      "title": "Agent-call exception"
+    },
+    {
+      "t": 397,
+      "title": "Disneyland leverage"
+    },
+    {
+      "t": 408,
+      "title": "Formal reintroduction"
+    },
+    {
+      "t": 450,
+      "title": "Bill and Papa Slink"
+    },
+    {
+      "t": 496,
+      "title": "Heather Hotdog correction"
+    },
+    {
+      "t": 544,
+      "title": "Workaholics"
+    },
+    {
+      "t": 575,
+      "title": "Montez Walker"
+    },
+    {
+      "t": 588,
+      "title": "Season-four table read"
+    },
+    {
+      "t": 609,
+      "title": "Comedy Store lineup"
+    },
+    {
+      "t": 635,
+      "title": "Pauly Shore rumor"
+    },
+    {
+      "t": 660,
+      "title": "Audience laughter"
+    },
+    {
+      "t": 709,
+      "title": "Russell Simmons invitation"
+    },
+    {
+      "t": 711,
+      "title": "All Def Comedy Live"
+    },
+    {
+      "t": 719,
+      "title": "TCL Chinese venue"
+    },
+    {
+      "t": 728,
+      "title": "Dressed-up audience"
+    },
+    {
+      "t": 780,
+      "title": "Five red suits"
+    },
+    {
+      "t": 812,
+      "title": "PSY wardrobe claim"
+    },
+    {
+      "t": 848,
+      "title": "Stereotype frame"
+    },
+    {
+      "t": 851,
+      "title": "LA riot fantasy"
+    },
+    {
+      "t": 880,
+      "title": "Tony Rock"
+    },
+    {
+      "t": 892,
+      "title": "Unresolved comedian"
+    },
+    {
+      "t": 927,
+      "title": "Asian crowd-work fear"
+    },
+    {
+      "t": 947,
+      "title": "Story pacing"
+    },
+    {
+      "t": 1005,
+      "title": "Audience culture"
+    },
+    {
+      "t": 1020,
+      "title": "Mixed-room test"
+    },
+    {
+      "t": 1044,
+      "title": "Kims of Comedy"
+    },
+    {
+      "t": 1076,
+      "title": "Universal comic identity"
+    },
+    {
+      "t": 1111,
+      "title": "Ideal crowd formula"
+    },
+    {
+      "t": 1182,
+      "title": "Grand Junction bombing"
+    },
+    {
+      "t": 1262,
+      "title": "Workaholics audition"
+    },
+    {
+      "t": 1268,
+      "title": "Montez recognition"
+    },
+    {
+      "t": 1284,
+      "title": "Private former partner"
+    },
+    {
+      "t": 1312,
+      "title": "Current relationship"
+    },
+    {
+      "t": 1346,
+      "title": "Love during sex"
+    },
+    {
+      "t": 1399,
+      "title": "Private intimate account"
+    },
+    {
+      "t": 1425,
+      "title": "Partner stops"
+    },
+    {
+      "t": 1456,
+      "title": "Language trigger"
+    },
+    {
+      "t": 1476,
+      "title": "Racial sexual myth"
+    },
+    {
+      "t": 1546,
+      "title": "Racial slur"
+    },
+    {
+      "t": 1726,
+      "title": "Bathroom rule callback"
+    },
+    {
+      "t": 1785,
+      "title": "Beirut encounter"
+    },
+    {
+      "t": 1802,
+      "title": "Middle East comedy trip"
+    },
+    {
+      "t": 1831,
+      "title": "Regional law myths"
+    },
+    {
+      "t": 1889,
+      "title": "Girlfriend Instagram photo"
+    },
+    {
+      "t": 1932,
+      "title": "Diabetes insult"
+    },
+    {
+      "t": 1942,
+      "title": "Humor and attraction"
+    },
+    {
+      "t": 1976,
+      "title": "Gender attraction claims"
+    },
+    {
+      "t": 2075,
+      "title": "Humor distortion example"
+    },
+    {
+      "t": 2127,
+      "title": "Sexual ranking refused"
+    },
+    {
+      "t": 2199,
+      "title": "Fame and access"
+    },
+    {
+      "t": 2250,
+      "title": "Comedian partners ranked"
+    },
+    {
+      "t": 2297,
+      "title": "Gender hierarchy"
+    },
+    {
+      "t": 2320,
+      "title": "Trophy pressure"
+    },
+    {
+      "t": 2393,
+      "title": "Post-show window"
+    },
+    {
+      "t": 2460,
+      "title": "Wealth template"
+    },
+    {
+      "t": 2510,
+      "title": "Early marriage testimony"
+    },
+    {
+      "t": 2554,
+      "title": "Marriage and adult work"
+    },
+    {
+      "t": 2580,
+      "title": "Frequency prediction"
+    },
+    {
+      "t": 2653,
+      "title": "Masturbation agreements"
+    },
+    {
+      "t": 2712,
+      "title": "Explicit-video hearsay"
+    },
+    {
+      "t": 2741,
+      "title": "Heather's relationship analyzed"
+    },
+    {
+      "t": 2809,
+      "title": "Touring suspicion"
+    },
+    {
+      "t": 2835,
+      "title": "Sexual skill myths"
+    },
+    {
+      "t": 2882,
+      "title": "Shallow-game thesis"
+    },
+    {
+      "t": 2923,
+      "title": "Direct rejection"
+    },
+    {
+      "t": 2938,
+      "title": "Being worked on"
+    },
+    {
+      "t": 2950,
+      "title": "Episode title phrase"
+    },
+    {
+      "t": 2973,
+      "title": "Friendship refusal"
+    },
+    {
+      "t": 3037,
+      "title": "Platonic-friendship denial"
+    },
+    {
+      "t": 3054,
+      "title": "Violence stereotype"
+    },
+    {
+      "t": 3065,
+      "title": "Def Jam representation"
+    },
+    {
+      "t": 3089,
+      "title": "Anatomy and worth"
+    },
+    {
+      "t": 3111,
+      "title": "Age Olympics"
+    },
+    {
+      "t": 3144,
+      "title": "Breakup targeting"
+    },
+    {
+      "t": 3174,
+      "title": "Gaming slurs"
+    },
+    {
+      "t": 3235,
+      "title": "Performer availability"
+    },
+    {
+      "t": 3258,
+      "title": "Comic depression"
+    },
+    {
+      "t": 3289,
+      "title": "Appearance attacks"
+    },
+    {
+      "t": 3350,
+      "title": "Slap called horseplay"
+    },
+    {
+      "t": 3408,
+      "title": "Partner resentment claim"
+    },
+    {
+      "t": 3520,
+      "title": "Can men and women be friends"
+    },
+    {
+      "t": 3690,
+      "title": "Honor and integrity"
+    },
+    {
+      "t": 3710,
+      "title": "Can versus should"
+    },
+    {
+      "t": 3797,
+      "title": "Fame reduces respect"
+    },
+    {
+      "t": 3837,
+      "title": "Honesty and communication"
+    },
+    {
+      "t": 3851,
+      "title": "Avoiding love"
+    },
+    {
+      "t": 3877,
+      "title": "Vegas couple"
+    },
+    {
+      "t": 3939,
+      "title": "Workplace cheating myth"
+    },
+    {
+      "t": 3957,
+      "title": "Rock-star stereotype"
+    },
+    {
+      "t": 4011,
+      "title": "Monogamy denied"
+    },
+    {
+      "t": 4030,
+      "title": "Public-couple speculation"
+    },
+    {
+      "t": 4054,
+      "title": "Biblical marriage claim"
+    },
+    {
+      "t": 4066,
+      "title": "Married-message estimate"
+    },
+    {
+      "t": 4084,
+      "title": "Unidentified book"
+    },
+    {
+      "t": 4103,
+      "title": "Love as glue"
+    },
+    {
+      "t": 4121,
+      "title": "Compatibility and respect"
+    },
+    {
+      "t": 4218,
+      "title": "Age and power"
+    },
+    {
+      "t": 4223,
+      "title": "Workaholics fan access"
+    },
+    {
+      "t": 4231,
+      "title": "Fame changes approachability"
+    },
+    {
+      "t": 4244,
+      "title": "Ageist relationship claims"
+    },
+    {
+      "t": 4279,
+      "title": "Marriage-frequency anecdote"
+    },
+    {
+      "t": 4300,
+      "title": "Ninety-minute math"
+    },
+    {
+      "t": 4342,
+      "title": "Private married woman"
+    },
+    {
+      "t": 4375,
+      "title": "Honesty is not goodness"
+    },
+    {
+      "t": 4422,
+      "title": "Marriage desire"
+    },
+    {
+      "t": 4443,
+      "title": "One-year rule"
+    },
+    {
+      "t": 4512,
+      "title": "System for women"
+    },
+    {
+      "t": 4560,
+      "title": "Reproductive thought experiment"
+    },
+    {
+      "t": 4577,
+      "title": "Fertility claim"
+    },
+    {
+      "t": 4595,
+      "title": "Cat stereotype"
+    },
+    {
+      "t": 4602,
+      "title": "Life expectancy myth"
+    },
+    {
+      "t": 4610,
+      "title": "Age and fertility"
+    },
+    {
+      "t": 4660,
+      "title": "Body-age ranking"
+    },
+    {
+      "t": 4673,
+      "title": "Men peak claim"
+    },
+    {
+      "t": 4700,
+      "title": "Coaching younger partners"
+    },
+    {
+      "t": 4752,
+      "title": "Young-adult condom myth"
+    },
+    {
+      "t": 4773,
+      "title": "Last-chance framing"
+    },
+    {
+      "t": 4791,
+      "title": "Three-legged-dog insult"
+    },
+    {
+      "t": 4801,
+      "title": "Bobby leaves"
+    },
+    {
+      "t": 4818,
+      "title": "Passionate delivery"
+    },
+    {
+      "t": 4859,
+      "title": "Doesn't hear no"
+    },
+    {
+      "t": 4866,
+      "title": "Real-no myth"
+    },
+    {
+      "t": 4875,
+      "title": "Direct communication"
+    },
+    {
+      "t": 4893,
+      "title": "Heather fantasy"
+    },
+    {
+      "t": 4921,
+      "title": "Sex-work boundary"
+    },
+    {
+      "t": 4976,
+      "title": "Private bathroom habits"
+    },
+    {
+      "t": 4991,
+      "title": "Frequency as diagnosis"
+    },
+    {
+      "t": 5006,
+      "title": "Targeting guest"
+    },
+    {
+      "t": 5087,
+      "title": "eFukt"
+    },
+    {
+      "t": 5095,
+      "title": "Piracy concern"
+    },
+    {
+      "t": 5144,
+      "title": "Pregnant performer footage"
+    },
+    {
+      "t": 5162,
+      "title": "Pregnancy and work"
+    },
+    {
+      "t": 5288,
+      "title": "One-night encounters"
+    },
+    {
+      "t": 5324,
+      "title": "Fan messages"
+    },
+    {
+      "t": 5388,
+      "title": "Oral-sex health claim"
+    },
+    {
+      "t": 5393,
+      "title": "Unsolicited act"
+    },
+    {
+      "t": 5490,
+      "title": "Tinder as new bar"
+    },
+    {
+      "t": 5515,
+      "title": "Identity verification"
+    },
+    {
+      "t": 5564,
+      "title": "Location settings"
+    },
+    {
+      "t": 5622,
+      "title": "App safety"
+    },
+    {
+      "t": 5653,
+      "title": "Guest-summary transition"
+    },
+    {
+      "t": 5677,
+      "title": "Message and delivery"
+    },
+    {
+      "t": 5721,
+      "title": "Curiosity in conflict"
+    },
+    {
+      "t": 5751,
+      "title": "Partner-count statistics"
+    },
+    {
+      "t": 5766,
+      "title": "Racial desirability analogy"
+    },
+    {
+      "t": 5769,
+      "title": "Japan demographic anxiety"
+    },
+    {
+      "t": 5783,
+      "title": "Adult-diaper sales"
+    },
+    {
+      "t": 5797,
+      "title": "China policy timeline"
+    },
+    {
+      "t": 5805,
+      "title": "False 2015 forecast"
+    },
+    {
+      "t": 5821,
+      "title": "Sex-ratio correction"
+    },
+    {
+      "t": 5825,
+      "title": "Zoo dehumanization"
+    },
+    {
+      "t": 5870,
+      "title": "Bill called forward"
+    },
+    {
+      "t": 5914,
+      "title": "Bill's age"
+    },
+    {
+      "t": 5938,
+      "title": "Single life"
+    },
+    {
+      "t": 5951,
+      "title": "Large age gap"
+    },
+    {
+      "t": 6009,
+      "title": "Rape joke rejected"
+    },
+    {
+      "t": 6021,
+      "title": "Sex skips steps"
+    },
+    {
+      "t": 6095,
+      "title": "Vulnerability"
+    },
+    {
+      "t": 6180,
+      "title": "Erik recap"
+    },
+    {
+      "t": 6238,
+      "title": "Women on guard"
+    },
+    {
+      "t": 6251,
+      "title": "Friendship and attraction"
+    },
+    {
+      "t": 6317,
+      "title": "Partner identity protected"
+    },
+    {
+      "t": 6322,
+      "title": "Public targeting"
+    },
+    {
+      "t": 6334,
+      "title": "Roofie joke"
+    },
+    {
+      "t": 6368,
+      "title": "Failure-rate myths"
+    },
+    {
+      "t": 6464,
+      "title": "MTV Friendzone"
+    },
+    {
+      "t": 6488,
+      "title": "Rejection estimate"
+    },
+    {
+      "t": 6546,
+      "title": "Prior dating premise"
+    },
+    {
+      "t": 6571,
+      "title": "Leave first"
+    },
+    {
+      "t": 6589,
+      "title": "All-men claim"
+    },
+    {
+      "t": 6632,
+      "title": "Power and rejection"
+    },
+    {
+      "t": 6686,
+      "title": "Good friend says no"
+    },
+    {
+      "t": 6733,
+      "title": "Schwarzenegger speculation"
+    },
+    {
+      "t": 6791,
+      "title": "Universal desire"
+    },
+    {
+      "t": 6800,
+      "title": "Self-control rebuttal"
+    },
+    {
+      "t": 6833,
+      "title": "Heather ranked"
+    },
+    {
+      "t": 6852,
+      "title": "Body metadata"
+    },
+    {
+      "t": 6869,
+      "title": "Boundary accepted"
+    },
+    {
+      "t": 6882,
+      "title": "Respectful friendship"
+    },
+    {
+      "t": 6913,
+      "title": "Closing therapy joke"
+    },
+    {
+      "t": 6927,
+      "title": "Bill's blog"
+    },
+    {
+      "t": 6954,
+      "title": "Eastern Europe plan"
+    },
+    {
+      "t": 7000,
+      "title": "Dwarfism fetish"
+    },
+    {
+      "t": 7045,
+      "title": "Disability language"
+    },
+    {
+      "t": 7061,
+      "title": "Formal close"
+    },
+    {
+      "t": 7111,
+      "title": "Black Jesus preview"
+    },
+    {
+      "t": 7134,
+      "title": "Direct-message images"
+    },
+    {
+      "t": 7154,
+      "title": "Possible minor account"
+    },
+    {
+      "t": 7189,
+      "title": "Heather bass"
+    },
+    {
+      "t": 7208,
+      "title": "Money Mark site"
+    },
+    {
+      "t": 7260,
+      "title": "Professional contacts"
+    },
+    {
+      "t": 7296,
+      "title": "Griffin ancestry"
+    },
+    {
+      "t": 7359,
+      "title": "Specific no"
+    },
+    {
+      "t": 7366,
+      "title": "Sex work and desire"
+    },
+    {
+      "t": 7389,
+      "title": "Erik signs off"
+    },
+    {
+      "t": 7416,
+      "title": "End"
+    }
+  ],
+  "connections": [
+    {
+      "from": 76,
+      "to": "Episodes 77–79 phone-policy timeline",
+      "relationship": "Attention conflict moves from complaint to hidden property and then public adjudication"
+    },
+    {
+      "from": 223,
+      "to": "DVDASA recording-craft ledger",
+      "relationship": "Participants explicitly recognize themselves as one another's immediate audience"
+    },
+    {
+      "from": 575,
+      "to": "Erik Griffin creative timeline",
+      "relationship": "Montez Walker and the season-four table read anchor the guest's Workaholics period"
+    },
+    {
+      "from": 711,
+      "to": "Los Angeles comedy-source census",
+      "relationship": "All Def Comedy Live at Inside Jokes becomes a dated venue and lineup lead"
+    },
+    {
+      "from": 780,
+      "to": "David Choe fashion timeline",
+      "relationship": "Five identical red suits connect to Episode 77's embellished alice + olivia suit"
+    },
+    {
+      "from": 947,
+      "to": "DVDASA format and pacing ledger",
+      "relationship": "The guest directly links long setup to phone disengagement and episode length"
+    },
+    {
+      "from": 1268,
+      "to": "fame and recognition timeline",
+      "relationship": "Daily Montez callouts show Workaholics changing Griffin's public life"
+    },
+    {
+      "from": 1399,
+      "to": "private-partner redaction ledger",
+      "relationship": "An exact span removes a nonparticipant's intimate account and stop response"
+    },
+    {
+      "from": 2199,
+      "to": "fame-to-sexual-access ledger",
+      "relationship": "The room repeatedly separates attraction created by stage status from compatibility"
+    },
+    {
+      "from": 2510,
+      "to": "Asa Akira relationship and recovery timeline",
+      "relationship": "Early marriage and drug use are preserved only as first-person context"
+    },
+    {
+      "from": 2923,
+      "to": "consent-misinformation ledger",
+      "relationship": "A direct rejection is reframed as an ongoing campaign, producing the episode title"
+    },
+    {
+      "from": 3690,
+      "to": "DVDASA consent-principle ledger",
+      "relationship": "Honor, integrity and 'can does not mean should' rebut the entitlement thesis"
+    },
+    {
+      "from": 3797,
+      "to": "Erik Griffin fame-power timeline",
+      "relationship": "He acknowledges losing respect for women who approached after television fame"
+    },
+    {
+      "from": 4103,
+      "to": "relationship-philosophy map",
+      "relationship": "Love-as-glue, compatibility, respect and honesty form the episode's most durable idea cluster"
+    },
+    {
+      "from": 4223,
+      "to": "Workaholics audience and fan-risk ledger",
+      "relationship": "Young fans' recognition creates encounters previously unavailable to the guest"
+    },
+    {
+      "from": 4375,
+      "to": "honesty and harm ledger",
+      "relationship": "The room distinguishes truthfulness from ethical conduct"
+    },
+    {
+      "from": 4801,
+      "to": "Bobby Lee participation timeline",
+      "relationship": "He leaves after the unresolved phone argument and a six-hour recording day"
+    },
+    {
+      "from": 4859,
+      "to": "persistent-pursuit ledger",
+      "relationship": "The room names Endo's inability to hear no immediately before redefining no as ambiguous"
+    },
+    {
+      "from": 5087,
+      "to": "adult-media source and piracy census",
+      "relationship": "eFukt raises performer consent, piracy and shock-content verification risks"
+    },
+    {
+      "from": 5490,
+      "to": "dating-technology timeline",
+      "relationship": "Tinder is described as the new bar and contrasted with Grindr and eHarmony"
+    },
+    {
+      "from": 5677,
+      "to": "communication-design principles",
+      "relationship": "Message delivery is identified as a reason valid ideas fail to land"
+    },
+    {
+      "from": 5783,
+      "to": "Japan demographic fact ledger",
+      "relationship": "A real 2011 diaper-sales crossover is turned into exaggerated extinction rhetoric"
+    },
+    {
+      "from": 5797,
+      "to": "China demographic-policy timeline",
+      "relationship": "One-child policy duration, sex ratio and aging predictions require factual repair"
+    },
+    {
+      "from": 6238,
+      "to": "women's public-safety ledger",
+      "relationship": "The room recognizes how constant sexual pursuit forces women to remain guarded"
+    },
+    {
+      "from": 6322,
+      "to": "Heather Hotdog scope-of-consent ledger",
+      "relationship": "Her new relationship is repeatedly targeted despite explicit boundaries"
+    },
+    {
+      "from": 6464,
+      "to": "friend-zone media source census",
+      "relationship": "MTV's Friendzone becomes an external cultural reference for the episode thesis"
+    },
+    {
+      "from": 6686,
+      "to": "friendship and self-control ledger",
+      "relationship": "A good friend can decline sexual opportunity, directly rejecting the universal-men claim"
+    },
+    {
+      "from": 6869,
+      "to": "Heather Hotdog creative/relationship timeline",
+      "relationship": "The prior dating-show plan is formally superseded while friendship and bass work continue"
+    },
+    {
+      "from": 6927,
+      "to": "written-source census",
+      "relationship": "Bill Poon's blog is promoted as a discovery route"
+    },
+    {
+      "from": 7111,
+      "to": "Slink Johnson screen-work timeline",
+      "relationship": "Black Jesus is named with a 2014 Adult Swim release and cast preview"
+    },
+    {
+      "from": 7154,
+      "to": "minor-privacy ledger",
+      "relationship": "A possible minor family member's account is removed from public transcript and search"
+    },
+    {
+      "from": 7208,
+      "to": "Money Mark web archive",
+      "relationship": "moneymark.com and a giveaway become an episode-era site capture lead"
+    }
+  ],
+  "content_warnings": [
+    "surprise nudity and bodily contact",
+    "workplace phone conflict",
+    "racial and disability slurs",
+    "unverified intimate celebrity claims",
+    "private partners and infidelity allegations",
+    "explicit sexual content",
+    "consent after stopping",
+    "racial sexual stereotypes",
+    "age and fame power",
+    "friend-zone coercion",
+    "domestic-violence jokes",
+    "physical slapping",
+    "sex-worker availability myths",
+    "ageism and fertility misinformation",
+    "condom misinformation",
+    "shock-site and possible nonconsensual media",
+    "pregnant performer safety",
+    "dating-app location safety",
+    "demographic misinformation",
+    "drugging joke",
+    "persistent pursuit of partnered guest",
+    "possible minor social account",
+    "dwarfism slurs and fetishization",
+    "technology-facilitated explicit images",
+    "private bodily functions"
+  ]
+}

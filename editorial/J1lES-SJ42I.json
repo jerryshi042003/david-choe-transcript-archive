@@ -1,0 +1,29 @@
+{
+  "episode_id": "J1lES-SJ42I",
+  "title": "Uncovering the Mysterious World of MANGCHI TV!",
+  "reviewed_on": "2026-08-01",
+  "summary": "A 16-second David Choe Clips upload whose entire caption evidence is “Thank you.” MANGCHI TV is supported only by the title. The phrase does not establish the speaker, addressee, setting, event, cast, or relationship to David Choe. The record is complete at its true evidentiary size: one unresolved line, zero named turns and zero enrollment windows.",
+  "quality": {"raw_segments": 1, "clean_segments": 1, "raw_words_approx": 2, "clean_words_approx": 2, "duration_seconds": 16, "accepted_context_decisions": 1, "chapters": 1, "connections": 3, "content_warnings": 3, "identity_windows": 0, "named_turns": 0, "publisher_labeled_speakers": 0, "cleaning_edits": 0, "cleaning_net_word_delta": 0, "public_restriction_spans": 7},
+  "speaker_policy": {"status": "sole line-level voice unresolved; excluded from enrollment", "reason": "A two-word unlabeled caption cannot establish an acoustic identity. Title and channel metadata are not line-level proof."},
+  "people": ["unidentified speaker"],
+  "places": [],
+  "works": ["Uncovering the Mysterious World of MANGCHI TV!", "MANGCHI TV (title-level reference)"],
+  "themes": ["thanks", "MANGCHI TV", "sparse source", "context loss"],
+  "chapters": [{"t": 0, "title": "unresolved speaker says “Thank you”"}],
+  "connections": [
+    {"t": 0, "to": "gratitude", "relationship": "The only spoken evidence is a brief thanks."},
+    {"t": 0.01, "to": "MANGCHI TV", "relationship": "The work/context label comes from the upload title, not the spoken line."},
+    {"t": 0.02, "to": "speaker validation", "relationship": "The sample is too short and unlabeled for identity enrollment."}
+  ],
+  "source_notes": ["David Choe Clips upload.", "Automatic captions contain one record / two words / 0:16.", "The sole caption has no speaker prefix.", "MANGCHI TV appears in the title only.", "No participant or event is established by speech.", "No surrounding exchange is available.", "Raw caption remains immutable.", "Audiovisual review may recover scene context but cannot retroactively make this an enrollment sample without independent identity proof."],
+  "content_warnings": ["extreme transcript sparsity", "speaker-attribution risk", "title-to-content overclaim risk"],
+  "publication_restrictions": [
+    {"t": -0.06, "rule": "publish zero named line-level turns"},
+    {"t": -0.05, "rule": "preserve the raw two-word caption"},
+    {"t": -0.04, "rule": "treat MANGCHI TV as title-level metadata only"},
+    {"t": -0.03, "rule": "do not infer speaker, addressee, cast or event"},
+    {"t": -0.02, "rule": "exclude this sample from voice enrollment"},
+    {"t": -0.01, "rule": "do not expand the line into a scene summary"},
+    {"t": 0, "rule": "punctuation may be normalized without changing wording"}
+  ]
+}

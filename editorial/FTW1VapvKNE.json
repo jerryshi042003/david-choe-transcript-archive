@@ -1,0 +1,494 @@
+{
+  "episode_id": "FTW1VapvKNE",
+  "title": "Surprising Collaboration: David Choe's Parents Join Mangchi Vocal Track",
+  "editorial_title": "Mangchi vocal session: family rehearsal, coaching, playback, and reactions",
+  "reviewed_on": "2026-08-01",
+  "summary": "A 5:20 mixed rehearsal timeline of spoken coaching, short religious vocal phrases, playback, applause, laughter and feedback. The session corrects and varies a Lord-is-King line, practices together with chorus/background voices, mentions an unidentified speaker’s dad wanting another practice, uses unseen wear/hold instructions, repeats brief Hallelujah/Jesus/everything/love vocals, and requests line-by-line/one-more/slower delivery. The opening and one King/made phrase remain damaged. Publisher-provided David Choe/parents/Mangchi context stays metadata only. No complete lyric, theology, studio setup, final take, release status, named voice or enrollment window is invented.",
+  "quality": {
+    "raw_segments": 58,
+    "clean_segments": 58,
+    "raw_words_approx": 208,
+    "duration_seconds": 320,
+    "accepted_context_decisions": 58,
+    "chapters": 41,
+    "connections": 9,
+    "content_warnings": 7,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 45,
+    "public_restriction_spans": 41
+  },
+  "speaker_policy": {
+    "status": "multiple unidentified rehearsal participants plus singing/playback; all identities withheld",
+    "reason": "Publisher title names David Choe, parents and Mangchi, but captions have no prefixes; chorus/background playback, relatives and singing invalidate enrollment use."
+  },
+  "people": [
+    "David Choe (publisher metadata; no named turn)",
+    "David Choe’s parents (publisher metadata; no named turns)",
+    "Mangchi (publisher metadata; roles unresolved)",
+    "unidentified dad referenced by an unidentified speaker",
+    "unidentified rehearsal participants"
+  ],
+  "places": [
+    "unidentified rehearsal/recording setting"
+  ],
+  "works": [
+    "Surprising Collaboration: David Choe's Parents Join Mangchi Vocal Track",
+    "unidentified Mangchi vocal track",
+    "unidentified chorus/background voices"
+  ],
+  "themes": [
+    "rehearsal",
+    "lyric correction and variants",
+    "religious vocals",
+    "practice",
+    "family collaboration metadata",
+    "chorus/background voices",
+    "playback",
+    "session coaching",
+    "applause/laughter",
+    "line-by-line repetition",
+    "vocal pacing",
+    "identity uncertainty"
+  ],
+  "chapters": [
+    {
+      "t": 21.859,
+      "title": "unclear opening fragment"
+    },
+    {
+      "t": 27.68,
+      "title": "line setup"
+    },
+    {
+      "t": 31.08,
+      "title": "Lord-is-King correction"
+    },
+    {
+      "t": 34.16,
+      "title": "try it now"
+    },
+    {
+      "t": 37.14,
+      "title": "King/a-king variants"
+    },
+    {
+      "t": 43.16,
+      "title": "partial phrase"
+    },
+    {
+      "t": 45.379,
+      "title": "kingdom variant"
+    },
+    {
+      "t": 49.7,
+      "title": "practice line"
+    },
+    {
+      "t": 54.559,
+      "title": "practice reassurance"
+    },
+    {
+      "t": 64.58,
+      "title": "thank you"
+    },
+    {
+      "t": 71.7,
+      "title": "Hallelujah vocal"
+    },
+    {
+      "t": 76.08,
+      "title": "damaged King/made phrase"
+    },
+    {
+      "t": 82.5,
+      "title": "beautiful-melodies phrase"
+    },
+    {
+      "t": 98.95,
+      "title": "music / everything vocal"
+    },
+    {
+      "t": 108.119,
+      "title": "Jesus vocal"
+    },
+    {
+      "t": 118.7,
+      "title": "sing together"
+    },
+    {
+      "t": 131.54,
+      "title": "wear/listen instruction"
+    },
+    {
+      "t": 138.44,
+      "title": "dad wants one practice"
+    },
+    {
+      "t": 140.58,
+      "title": "chorus/background voices"
+    },
+    {
+      "t": 147.239,
+      "title": "practice / hold object"
+    },
+    {
+      "t": 154.68,
+      "title": "watch me"
+    },
+    {
+      "t": 156.82,
+      "title": "music playback"
+    },
+    {
+      "t": 164.4,
+      "title": "Hallelujah take"
+    },
+    {
+      "t": 191.55,
+      "title": "applause"
+    },
+    {
+      "t": 193.879,
+      "title": "he-made-everything vocal"
+    },
+    {
+      "t": 198.36,
+      "title": "Jesus vocal"
+    },
+    {
+      "t": 209.3,
+      "title": "Jesus / we-love-you vocal"
+    },
+    {
+      "t": 218.18,
+      "title": "problem/no-problem feedback"
+    },
+    {
+      "t": 227.239,
+      "title": "you got it"
+    },
+    {
+      "t": 229.68,
+      "title": "one more / enough"
+    },
+    {
+      "t": 232.4,
+      "title": "line by line"
+    },
+    {
+      "t": 236.12,
+      "title": "there you go"
+    },
+    {
+      "t": 242.39,
+      "title": "music playback"
+    },
+    {
+      "t": 258.649,
+      "title": "applause/music"
+    },
+    {
+      "t": 262.8,
+      "title": "partial he-is vocal"
+    },
+    {
+      "t": 273.139,
+      "title": "Hallelujah vocal"
+    },
+    {
+      "t": 279.5,
+      "title": "he-made-everything vocal"
+    },
+    {
+      "t": 291.26,
+      "title": "applause"
+    },
+    {
+      "t": 295.1,
+      "title": "Jesus/I-love-you vocal"
+    },
+    {
+      "t": 299.46,
+      "title": "laughter"
+    },
+    {
+      "t": 315.62,
+      "title": "slow down voice"
+    }
+  ],
+  "connections": [
+    {
+      "t": 31.08,
+      "to": "lyric correction",
+      "relationship": "The session explicitly corrects one phrase while retaining nearby variants."
+    },
+    {
+      "t": 54.559,
+      "to": "rehearsal state",
+      "relationship": "Practice is distinguished from a final performance."
+    },
+    {
+      "t": 118.7,
+      "to": "multi-person planning",
+      "relationship": "Singing together and background voices make speaker identity especially unsafe."
+    },
+    {
+      "t": 131.54,
+      "to": "unseen studio object",
+      "relationship": "Wear/hear language depends on video and does not prove equipment."
+    },
+    {
+      "t": 138.44,
+      "to": "family context",
+      "relationship": "My dad supports a relationship claim but not speaker or parent identity."
+    },
+    {
+      "t": 147.239,
+      "to": "unseen held object",
+      "relationship": "The object being held is not established by captions."
+    },
+    {
+      "t": 191.55,
+      "to": "session feedback",
+      "relationship": "Applause follows a take but does not prove final acceptance."
+    },
+    {
+      "t": 218.18,
+      "to": "coaching loop",
+      "relationship": "Problem/no-problem, got-it, one-more and line-by-line language show iterative rehearsal."
+    },
+    {
+      "t": 315.62,
+      "to": "vocal preference",
+      "relationship": "The close requests slowing the voice without technical parameters."
+    }
+  ],
+  "source_notes": [
+    "All 58 raw caption/event records remain aligned exactly once.",
+    "The opening and damaged King/made phrase remain unresolved.",
+    "Lord is King/a king/kingdom variants remain as rehearsal evidence rather than one normalized lyric.",
+    "Short religious vocals remain timestamped events; music spans are not filled with lyrics.",
+    "Publisher parents/Mangchi metadata and my dad do not establish line roles.",
+    "Wear/hold instructions do not establish studio objects.",
+    "Applause/feedback do not prove a final accepted or released take.",
+    "Singing, playback, chorus/background overlap and relatives yield zero enrollment windows and named turns."
+  ],
+  "content_warnings": [
+    "religious/theological language",
+    "damaged lyric/doctrine phrases",
+    "family/private relationship metadata",
+    "singing/playback/overlap identity risk",
+    "unseen studio-object instructions",
+    "possible copyrighted song-performance fragments",
+    "applause not final-take proof"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 21.859,
+      "title": "unclear opening fragment",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 27.68,
+      "title": "line setup",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 31.08,
+      "title": "Lord-is-King correction",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 34.16,
+      "title": "try it now",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 37.14,
+      "title": "King/a-king variants",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 43.16,
+      "title": "partial phrase",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 45.379,
+      "title": "kingdom variant",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 49.7,
+      "title": "practice line",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 54.559,
+      "title": "practice reassurance",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 64.58,
+      "title": "thank you",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 71.7,
+      "title": "Hallelujah vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 76.08,
+      "title": "damaged King/made phrase",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 82.5,
+      "title": "beautiful-melodies phrase",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 98.95,
+      "title": "music / everything vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 108.119,
+      "title": "Jesus vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 118.7,
+      "title": "sing together",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 131.54,
+      "title": "wear/listen instruction",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 138.44,
+      "title": "dad wants one practice",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 140.58,
+      "title": "chorus/background voices",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 147.239,
+      "title": "practice / hold object",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 154.68,
+      "title": "watch me",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 156.82,
+      "title": "music playback",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 164.4,
+      "title": "Hallelujah take",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 191.55,
+      "title": "applause",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 193.879,
+      "title": "he-made-everything vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 198.36,
+      "title": "Jesus vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 209.3,
+      "title": "Jesus / we-love-you vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 218.18,
+      "title": "problem/no-problem feedback",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 227.239,
+      "title": "you got it",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 229.68,
+      "title": "one more / enough",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 232.4,
+      "title": "line by line",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 236.12,
+      "title": "there you go",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 242.39,
+      "title": "music playback",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 258.649,
+      "title": "applause/music",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 262.8,
+      "title": "partial he-is vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 273.139,
+      "title": "Hallelujah vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 279.5,
+      "title": "he-made-everything vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 291.26,
+      "title": "applause",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 295.1,
+      "title": "Jesus/I-love-you vocal",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 299.46,
+      "title": "laughter",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    },
+    {
+      "t": 315.62,
+      "title": "slow down voice",
+      "rule": "treat as unidentified rehearsal speech/vocal/event; do not infer complete lyrics/song title, theology/faith, parent/band role, studio equipment, accepted take, release status, named voice or enrollment window"
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "episode_id": "saga2-saga-02-chapter-025-american-whoreror-story",
+  "title": "American Whorer Story",
+  "reviewed_on": "2026-07-31",
+  "quality": {
+    "raw_segments": 4521,
+    "clean_segments": 4506,
+    "raw_words_approx": 35280,
+    "clean_words_approx": 34992,
+    "duration_seconds": 11198.71,
+    "accepted_context_decisions": 162,
+    "chapters": 97,
+    "connections": 18,
+    "content_warnings": 38,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 17,
+    "cleaning_net_word_delta": -288,
+    "clean_transcript_net_word_delta": -288,
+    "uncertainty_marker_words_added": 0,
+    "public_restriction_spans": 68,
+    "review_queue_suggestions": 0,
+    "review_queue_suggestions_accepted": 0
+  },
+  "summary": "Chapter 25 is both a three-hour relationship autopsy and the clearest internal product critique so far. Asa says a useful podcast needs accurate descriptive titles, 25–45 minute topical paths, a short opening, two or three intelligible speakers, excellent audio and something informative; DVDASA instead sounds like an overheard party in a blank, echoing room. The archive should preserve that long-form social texture while adding the access layer the cast wanted: complete audio, speaker-focused views, reliable chapters, searchable topics, corrections and an optional short path. The episode then announces a family of satellite formats—Billy Bob Crit, Stevie, a proposed Choe/Chang show, a solo Choe Show and an Asa show—rather than an actual breakup. The central account begins around October 25 and November 2, 2014. David Choe and Nikki Skyler directly describe an ambiguous open relationship, a stated no-friends boundary, his expiration date and partner-count disclosures, his neglect and public disavowal during the November 2 event, her sex with an unnamed artist she says she did not know was his friend, his anger and retaliatory behavior, a threesome framed as restitution, her no-contact boundary with the third participant, his later violation of it, mutual social-media retaliation, renewed sex and a proposal to abolish rules that is ultimately rejected. The record does not decide who is morally right, identify the artist or third participant, reproduce private texts, or convert fantasy language into standing consent. It preserves direct disagreement: witnesses saw conversation but not the claimed information exchange; the host asserts sexual details and then admits some are unknown; both people acknowledge harmful behavior and different understandings of their status. Choking, slapping, threats, coercive framing, blood/semen eye exposure, unsafe anal-sex pseudo-instruction and stigmatizing STI claims receive separate safety context without censoring the speech. Source leads include the November 2 AMA/live event, Billy Bob Crit, Momofuku Ko art, Andy Milonakis, Joe Rogan, Mangchi's second album, proposed satellite shows, Blind Date with Salie and the Mangchi outro. The final music contains decoder repetition and uncertain lyrics; no words are invented. Line-level speaker names remain withheld until held-out acoustic validation passes.",
+  "source_notes": [
+    {
+      "t": 1300,
+      "claim": "Smoking or repeatedly damaging the voice is a good way to obtain a lower voice.",
+      "assessment": "Unsafe. Smoke and deliberate vocal injury can harm the larynx; this is not voice training.",
+      "source": "https://www.nidcd.nih.gov/health/taking-care-your-voice"
+    },
+    {
+      "t": 5543,
+      "claim": "Men use about 500 words daily and women about 5,000.",
+      "assessment": "Unsupported fixed-ratio stereotype. A large registered study found much smaller average differences with enormous person-to-person and age-group variation.",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11825285/"
+    },
+    {
+      "t": 6164,
+      "claim": "Requested sexual choking/slapping can be treated as a simple preference demonstration.",
+      "assessment": "Consent does not remove injury risk. CDC definitions treat choking and slapping as physical force capable of harm, and strangulation can cause serious neurologic injury or death.",
+      "source": "https://www.cdc.gov/intimate-partner-violence/communication-resources/intimatepartnerviolence.pdf"
+    },
+    {
+      "t": 6164,
+      "claim": "Choking is safe when framed as fantasy.",
+      "assessment": "Incorrect. Strangulation restricts vital air/blood flow and can cause serious injury or death; fantasy language is not a safety protocol.",
+      "source": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5706a1.htm"
+    },
+    {
+      "t": 9340,
+      "claim": "The speaker's escalating behavior proves a clinical sex-addiction diagnosis.",
+      "assessment": "The episode contains self-description and help-seeking, not a clinical assessment. Preserve the account without diagnosing.",
+      "source": "https://www.who.int/standards/classifications/classification-of-diseases"
+    },
+    {
+      "t": 9932,
+      "claim": "An unhoused person probably has an STI.",
+      "assessment": "Unsupported stigmatizing inference. Housing status does not establish infection; individual testing and consent matter.",
+      "source": "https://www.cdc.gov/sti/about/"
+    }
+  ],
+  "speaker_policy": "Public cast and Nikki Skyler may be identified at episode level where introduced. The unnamed artist, third participant, alleged manager, private friends, partners, sex workers/clients, account handles, messages, home/routes and provider remain excluded from discovery. Overlap, shouted roll calls, physical demonstrations, private side talk, music and trivia require acoustic/video validation. No line-level named dialogue publishes until held-out voice validation passes.",
+  "chapters": [
+    {
+      "t": 2,
+      "title": "Mangchi opening and damaged decoder loops"
+    },
+    {
+      "t": 220,
+      "title": "Phone secret and New York setup"
+    },
+    {
+      "t": 414,
+      "title": "Formal DVDASA introduction"
+    },
+    {
+      "t": 470,
+      "title": "Billy Bob Crit comparison"
+    },
+    {
+      "t": 600,
+      "title": "Asa's podcast product critique"
+    },
+    {
+      "t": 980,
+      "title": "Teaching versus misinformation"
+    },
+    {
+      "t": 1300,
+      "title": "Voice and smoking advice"
+    },
+    {
+      "t": 1400,
+      "title": "Yoshi, Yen and independent shows"
+    },
+    {
+      "t": 1530,
+      "title": "BBC Instagram and platform power"
+    },
+    {
+      "t": 1680,
+      "title": "Historical Instagram editing workflow"
+    },
+    {
+      "t": 1900,
+      "title": "David Chang, Justin Lin and New York"
+    },
+    {
+      "t": 2050,
+      "title": "Momofuku Ko art claims"
+    },
+    {
+      "t": 2200,
+      "title": "Nikki present but not interviewed"
+    },
+    {
+      "t": 2300,
+      "title": "Recording date and satellite-show plan"
+    },
+    {
+      "t": 2450,
+      "title": "BBC, Stevie, Cho Chang and Cho Show"
+    },
+    {
+      "t": 2720,
+      "title": "Scheduling conflict and fatigue"
+    },
+    {
+      "t": 2850,
+      "title": "Subscriber gender analytics"
+    },
+    {
+      "t": 3000,
+      "title": "Steven Seagal hearsay and counterfactual LA life"
+    },
+    {
+      "t": 3278,
+      "title": "Cho Chang pitch"
+    },
+    {
+      "t": 3370,
+      "title": "Solo Cho Show pitch"
+    },
+    {
+      "t": 3560,
+      "title": "BBC workload and massage interruption"
+    },
+    {
+      "t": 3740,
+      "title": "BBC loyalty and Tuesday schedule"
+    },
+    {
+      "t": 3825,
+      "title": "Chart rank and retention argument"
+    },
+    {
+      "t": 4040,
+      "title": "Loving a show one would not consume"
+    },
+    {
+      "t": 4127,
+      "title": "Explicit pizza image concept"
+    },
+    {
+      "t": 4228,
+      "title": "Guest finally acknowledged"
+    },
+    {
+      "t": 4270,
+      "title": "How Nikki entered the orbit"
+    },
+    {
+      "t": 4316,
+      "title": "Merch and sponsor discussion"
+    },
+    {
+      "t": 4370,
+      "title": "Cam-work interview begins"
+    },
+    {
+      "t": 4585,
+      "title": "November 2 Reddit AMA story"
+    },
+    {
+      "t": 4790,
+      "title": "Cam requests, privacy and ice"
+    },
+    {
+      "t": 5000,
+      "title": "Webcam competition pressure"
+    },
+    {
+      "t": 5182,
+      "title": "November 2 event chronology"
+    },
+    {
+      "t": 5426,
+      "title": "Nikki introduction reconciled"
+    },
+    {
+      "t": 5450,
+      "title": "Dating account begins"
+    },
+    {
+      "t": 5543,
+      "title": "Gendered word-count myth"
+    },
+    {
+      "t": 5564,
+      "title": "Open relationship and friend boundary"
+    },
+    {
+      "t": 5640,
+      "title": "Nikki and Asa connection"
+    },
+    {
+      "t": 5700,
+      "title": "November 2 traffic claims"
+    },
+    {
+      "t": 5933,
+      "title": "What counts as a relationship"
+    },
+    {
+      "t": 6035,
+      "title": "October 25 to November 2 timeline"
+    },
+    {
+      "t": 6081,
+      "title": "Four-month expiration date"
+    },
+    {
+      "t": 6148,
+      "title": "Fantasy, consent, choking and slapping"
+    },
+    {
+      "t": 6238,
+      "title": "Overlap and bad microphones"
+    },
+    {
+      "t": 6270,
+      "title": "Degradation preference"
+    },
+    {
+      "t": 6312,
+      "title": "Slap demonstration"
+    },
+    {
+      "t": 6510,
+      "title": "Terms and role negotiation"
+    },
+    {
+      "t": 6670,
+      "title": "Childhood violence recollection"
+    },
+    {
+      "t": 6700,
+      "title": "Defend yourself on-air ultimatum"
+    },
+    {
+      "t": 6852,
+      "title": "Performance stops feeling authentic"
+    },
+    {
+      "t": 6908,
+      "title": "First-day love and partner-count disclosure"
+    },
+    {
+      "t": 6958,
+      "title": "November 2 neglect"
+    },
+    {
+      "t": 7038,
+      "title": "Public disavowal"
+    },
+    {
+      "t": 7133,
+      "title": "AVN red-carpet counterexample"
+    },
+    {
+      "t": 7198,
+      "title": "Unnamed artist setup"
+    },
+    {
+      "t": 7350,
+      "title": "Witness accounts corrected"
+    },
+    {
+      "t": 7423,
+      "title": "Private friend hearsay"
+    },
+    {
+      "t": 7482,
+      "title": "Sex with unnamed artist"
+    },
+    {
+      "t": 7504,
+      "title": "Fantasy versus standing consent"
+    },
+    {
+      "t": 7572,
+      "title": "Direct admission and phone review"
+    },
+    {
+      "t": 7650,
+      "title": "Private texts and anger escalation"
+    },
+    {
+      "t": 7720,
+      "title": "Exit without a ride"
+    },
+    {
+      "t": 7778,
+      "title": "Breakup and self-sabotage"
+    },
+    {
+      "t": 7840,
+      "title": "Retaliation and competing explanations"
+    },
+    {
+      "t": 7951,
+      "title": "Promise not to identify artist"
+    },
+    {
+      "t": 8031,
+      "title": "What each person thought"
+    },
+    {
+      "t": 8110,
+      "title": "Apology, action and redemption demand"
+    },
+    {
+      "t": 8258,
+      "title": "Threesome framed as restitution"
+    },
+    {
+      "t": 8380,
+      "title": "Threat language and anonymous third person"
+    },
+    {
+      "t": 8497,
+      "title": "Threesome logistics and unclear labor terms"
+    },
+    {
+      "t": 8620,
+      "title": "New no-contact boundary"
+    },
+    {
+      "t": 8793,
+      "title": "Big Bear and second album"
+    },
+    {
+      "t": 8865,
+      "title": "Joe Rogan source lead"
+    },
+    {
+      "t": 8937,
+      "title": "Social-media distrust"
+    },
+    {
+      "t": 9008,
+      "title": "Boundary-violating message"
+    },
+    {
+      "t": 9040,
+      "title": "Three admitted lies"
+    },
+    {
+      "t": 9203,
+      "title": "Screenshot and retaliation"
+    },
+    {
+      "t": 9285,
+      "title": "Relationship called unhealthy"
+    },
+    {
+      "t": 9332,
+      "title": "Worst-version self-assessment"
+    },
+    {
+      "t": 9380,
+      "title": "Cast stops a disclosure"
+    },
+    {
+      "t": 9450,
+      "title": "Offline act remains withheld"
+    },
+    {
+      "t": 9483,
+      "title": "Explicit reunion and eye exposure"
+    },
+    {
+      "t": 9578,
+      "title": "Proposal to abolish rules"
+    },
+    {
+      "t": 9649,
+      "title": "Expiration date debate"
+    },
+    {
+      "t": 9790,
+      "title": "Escalation and addiction metaphor"
+    },
+    {
+      "t": 9820,
+      "title": "Gambling/Gattaca analogy"
+    },
+    {
+      "t": 9860,
+      "title": "Therapy and help-seeking"
+    },
+    {
+      "t": 9932,
+      "title": "Skid Row proposal and stigma"
+    },
+    {
+      "t": 9978,
+      "title": "Guest spelling and closing"
+    },
+    {
+      "t": 10066,
+      "title": "Communication lesson"
+    },
+    {
+      "t": 10173,
+      "title": "Trivia"
+    },
+    {
+      "t": 10232,
+      "title": "Works and merch rollup"
+    },
+    {
+      "t": 10525,
+      "title": "Music trivia repairs"
+    },
+    {
+      "t": 10828,
+      "title": "Self-critique and next-show tease"
+    },
+    {
+      "t": 10994,
+      "title": "Decoder loop"
+    },
+    {
+      "t": 11041,
+      "title": "Mangchi sci-fi outro"
+    },
+    {
+      "t": 11195,
+      "title": "End"
+    }
+  ],
+  "connections": [
+    {
+      "t": 470,
+      "to": "billy-bob-crit-corpus",
+      "why": "Episode explicitly compares format, release speed, sound and views."
+    },
+    {
+      "t": 600,
+      "to": "minimal-reader-product",
+      "why": "Asa gives a direct user critique: descriptive titles, short topical paths, small speaker count and good audio."
+    },
+    {
+      "t": 1180,
+      "to": "retention-and-longform",
+      "why": "The room contrasts twenty-minute drop-off with hard-core three-hour listening."
+    },
+    {
+      "t": 1400,
+      "to": "yoshi-obata-catalog",
+      "why": "Yoshi's independent show count and departure are discussed."
+    },
+    {
+      "t": 1900,
+      "to": "david-chang-corpus",
+      "why": "New York visit, twin metaphor and proposed joint show recur."
+    },
+    {
+      "t": 2050,
+      "to": "momofuku-ko-art",
+      "why": "David, Critter Fleming and Jane Choe works are attributed to the restaurant."
+    },
+    {
+      "t": 2450,
+      "to": "dvdasa-satellite-shows",
+      "why": "BBC, Stevie, Asa, Cho Chang and Cho Show are framed as one family of formats."
+    },
+    {
+      "t": 4585,
+      "to": "november-2-live-event",
+      "why": "Reddit AMA, Vidme clips, wedding, contest and Mangchi show form a separate source cluster."
+    },
+    {
+      "t": 5310,
+      "to": "november-2-live-event",
+      "why": "A full 25-hour event chronology is given."
+    },
+    {
+      "t": 5426,
+      "to": "andy-milonakis-corpus",
+      "why": "A music video is named as a second discovery path for Nikki."
+    },
+    {
+      "t": 6035,
+      "to": "relationship-timeline",
+      "why": "The episode supplies explicit October 25 and November 2 anchors."
+    },
+    {
+      "t": 7133,
+      "to": "avn-2012",
+      "why": "A disputed red-carpet memory supplies another dated source lead."
+    },
+    {
+      "t": 8793,
+      "to": "mangchi-second-album",
+      "why": "Five-day Big Bear recording process is described."
+    },
+    {
+      "t": 8865,
+      "to": "joe-rogan-corpus",
+      "why": "David says this was after three Rogan appearances and contrasts conversational familiarity."
+    },
+    {
+      "t": 9820,
+      "to": "david-chang-gattaca",
+      "why": "The save-nothing-for-the-swim-back metaphor recurs in gambling and sex."
+    },
+    {
+      "t": 10232,
+      "to": "works-index",
+      "why": "Books, music, merch and Momofuku are explicitly promoted."
+    },
+    {
+      "t": 10842,
+      "to": "blind-date-with-salie",
+      "why": "The next produced segment is teased by title."
+    },
+    {
+      "t": 11041,
+      "to": "mangchi-song-corpus",
+      "why": "Sci-fi outro requires title and lyric recovery from audio."
+    }
+  ],
+  "content_warnings": [
+    {
+      "t": 28,
+      "warning": "damaged music/decoder repetition"
+    },
+    {
+      "t": 300,
+      "warning": "third-party household sexual hearsay"
+    },
+    {
+      "t": 1300,
+      "warning": "smoking/vocal-injury advice"
+    },
+    {
+      "t": 2200,
+      "warning": "guest sexualization"
+    },
+    {
+      "t": 4127,
+      "warning": "explicit sexual image concept"
+    },
+    {
+      "t": 4370,
+      "warning": "explicit adult-work discussion"
+    },
+    {
+      "t": 4585,
+      "warning": "public sexual dare and penetration"
+    },
+    {
+      "t": 4790,
+      "warning": "painful genital insertion"
+    },
+    {
+      "t": 5000,
+      "warning": "repeated sexual-labor pressure"
+    },
+    {
+      "t": 5450,
+      "warning": "explicit relationship/sex discussion"
+    },
+    {
+      "t": 6148,
+      "warning": "rape-fantasy discussion"
+    },
+    {
+      "t": 6164,
+      "warning": "sexual choking and slapping"
+    },
+    {
+      "t": 6270,
+      "warning": "degradation during sex"
+    },
+    {
+      "t": 6312,
+      "warning": "pressured physical demonstration"
+    },
+    {
+      "t": 6447,
+      "warning": "slap followed by headache"
+    },
+    {
+      "t": 6670,
+      "warning": "childhood physical abuse"
+    },
+    {
+      "t": 6700,
+      "warning": "on-air ultimatum"
+    },
+    {
+      "t": 6852,
+      "warning": "sexual boundary and inauthenticity"
+    },
+    {
+      "t": 6940,
+      "warning": "commercial-sex self-report"
+    },
+    {
+      "t": 7350,
+      "warning": "infidelity allegation"
+    },
+    {
+      "t": 7504,
+      "warning": "rape-fantasy roleplay"
+    },
+    {
+      "t": 7624,
+      "warning": "phone/privacy access"
+    },
+    {
+      "t": 7660,
+      "warning": "punch/kill threats"
+    },
+    {
+      "t": 8110,
+      "warning": "crying and coercive restitution"
+    },
+    {
+      "t": 8258,
+      "warning": "threesome as redemption"
+    },
+    {
+      "t": 8380,
+      "warning": "murder language"
+    },
+    {
+      "t": 8400,
+      "warning": "anonymous adult participant"
+    },
+    {
+      "t": 8640,
+      "warning": "alleged manager/pimp"
+    },
+    {
+      "t": 8750,
+      "warning": "unsafe anal-sex advice"
+    },
+    {
+      "t": 9008,
+      "warning": "boundary-violating contact"
+    },
+    {
+      "t": 9285,
+      "warning": "mutually retaliatory relationship"
+    },
+    {
+      "t": 9340,
+      "warning": "compulsive sexual behavior self-report"
+    },
+    {
+      "t": 9380,
+      "warning": "withheld severe act"
+    },
+    {
+      "t": 9483,
+      "warning": "blood/semen eye exposure"
+    },
+    {
+      "t": 9649,
+      "warning": "fatalistic death language"
+    },
+    {
+      "t": 9850,
+      "warning": "STI/pregnancy risk"
+    },
+    {
+      "t": 9932,
+      "warning": "dehumanizing unhoused-person proposal"
+    },
+    {
+      "t": 11041,
+      "warning": "explicit sci-fi sexual lyrics"
+    }
+  ],
+  "publication_restrictions": [
+    {
+      "t": 28,
+      "rule": "damaged repeated lyric removed by cleaner; do not reconstruct"
+    },
+    {
+      "t": 430,
+      "rule": "episode-level public cast only; line-level names withheld"
+    },
+    {
+      "t": 550,
+      "rule": "self-reported comparison without dashboard evidence"
+    },
+    {
+      "t": 1120,
+      "rule": "comic exaggeration, not audited budget fact"
+    },
+    {
+      "t": 1180,
+      "rule": "self-reported analytics; underlying dashboard absent"
+    },
+    {
+      "t": 1300,
+      "rule": "unsafe suggestion; smoking can damage voice and health"
+    },
+    {
+      "t": 1600,
+      "rule": "power boast or hyperbole; no operational detail"
+    },
+    {
+      "t": 2850,
+      "rule": "self-reported subscriber gender percentage, not total-listener census"
+    },
+    {
+      "t": 2950,
+      "rule": "do not infer real identity or gender from handles"
+    },
+    {
+      "t": 3000,
+      "rule": "third-hand allegation about private household; retain attributed only"
+    },
+    {
+      "t": 3648,
+      "rule": "location intentionally withheld in room; do not recover"
+    },
+    {
+      "t": 3825,
+      "rule": "self-deprecating chart rank; platform/date absent"
+    },
+    {
+      "t": 3949,
+      "rule": "precise account-history claim; do not expose private account metadata"
+    },
+    {
+      "t": 4127,
+      "rule": "explicit image-making concept; preserve but do not surface as default thumbnail"
+    },
+    {
+      "t": 4370,
+      "rule": "public professional context; explicit catalog discovery remains opt-in"
+    },
+    {
+      "t": 4440,
+      "rule": "reported accidental disclosure; do not reproduce private browsing detail"
+    },
+    {
+      "t": 4660,
+      "rule": "participants describe consent in moment but also pressure and discomfort; do not reduce to gag"
+    },
+    {
+      "t": 4750,
+      "rule": "self-reported view count; archive evidence required"
+    },
+    {
+      "t": 4790,
+      "rule": "reported painful insertion; not a safe technique recommendation"
+    },
+    {
+      "t": 4830,
+      "rule": "platform/privacy claim unclear; do not normalize covert access"
+    },
+    {
+      "t": 5000,
+      "rule": "repeated pressure after multiple refusals; no agreement inferred"
+    },
+    {
+      "t": 5290,
+      "rule": "host reports invitees did not arrive; private identities not inferred"
+    },
+    {
+      "t": 5350,
+      "rule": "boast requires archived traffic/platform evidence"
+    },
+    {
+      "t": 5450,
+      "rule": "direct participants differ on framing; preserve both versions"
+    },
+    {
+      "t": 5500,
+      "rule": "self-report, not independently verified behavior count"
+    },
+    {
+      "t": 5640,
+      "rule": "host infers motive; Nikki directly says she wanted friendship after reading Asa's book"
+    },
+    {
+      "t": 5700,
+      "rule": "self-reported event metric without logs"
+    },
+    {
+      "t": 6148,
+      "rule": "fantasy is repeatedly clarified; fantasy is not blanket consent"
+    },
+    {
+      "t": 6164,
+      "rule": "consent must be specific and current; strangulation and blows can injure"
+    },
+    {
+      "t": 6270,
+      "rule": "adult sexual preference described by participant; not generalized"
+    },
+    {
+      "t": 6312,
+      "rule": "room pressure, role confusion and repeated refusals; video/acoustic validation required"
+    },
+    {
+      "t": 6447,
+      "rule": "recipient later reports a headache; preserve consequence"
+    },
+    {
+      "t": 6510,
+      "rule": "term is proposed then rejected; do not silently normalize as correct label"
+    },
+    {
+      "t": 6670,
+      "rule": "family violence recollection; no family identity discovery"
+    },
+    {
+      "t": 6852,
+      "rule": "direct sexual boundary because performance felt inauthentic"
+    },
+    {
+      "t": 7133,
+      "rule": "2012 story disputed in room; preserve both accounts"
+    },
+    {
+      "t": 7198,
+      "rule": "unnamed third party remains unnamed despite inference clues"
+    },
+    {
+      "t": 7423,
+      "rule": "private friend account is hearsay; do not make identity searchable"
+    },
+    {
+      "t": 7482,
+      "rule": "host's framing; other participant says she did not know friendship/status"
+    },
+    {
+      "t": 7504,
+      "rule": "air quotes are explicit; prior fantasy is not standing consent"
+    },
+    {
+      "t": 7624,
+      "rule": "access occurred in this account; not a general relationship norm"
+    },
+    {
+      "t": 7650,
+      "rule": "private messages summarized, not reproduced or indexed"
+    },
+    {
+      "t": 7720,
+      "rule": "private route/home details minimized; emotional chronology retained"
+    },
+    {
+      "t": 7870,
+      "rule": "host infers Nikki's motive; she describes friendship concern"
+    },
+    {
+      "t": 7951,
+      "rule": "explicit on-air privacy agreement controls"
+    },
+    {
+      "t": 8064,
+      "rule": "host asserts count; unnamed third party cannot answer"
+    },
+    {
+      "t": 8258,
+      "rule": "not neutral consent: framed as redemption after humiliation"
+    },
+    {
+      "t": 8278,
+      "rule": "public post reported; respondents remain unnamed"
+    },
+    {
+      "t": 8400,
+      "rule": "identity, handle, appearance clues and alleged manager remain restricted"
+    },
+    {
+      "t": 8497,
+      "rule": "question is not clearly resolved; do not infer labor terms"
+    },
+    {
+      "t": 8608,
+      "rule": "self-reported barrier use; not verification of broader sexual health"
+    },
+    {
+      "t": 8640,
+      "rule": "participant's term for alleged manager; identity and arrangement unverified"
+    },
+    {
+      "t": 8674,
+      "rule": "participant requests no direct follow/contact with third participant"
+    },
+    {
+      "t": 8750,
+      "rule": "unsafe pseudo-instruction; pain is not a required training schedule"
+    },
+    {
+      "t": 8990,
+      "rule": "do not publish private-account trail"
+    },
+    {
+      "t": 9030,
+      "rule": "private-message relay summarized, not reproduced"
+    },
+    {
+      "t": 9253,
+      "rule": "public-signaling chronology, not proof of inner motive"
+    },
+    {
+      "t": 9380,
+      "rule": "cast explicitly advises not to disclose; do not infer or recover"
+    },
+    {
+      "t": 9450,
+      "rule": "unspecified offline act remains withheld"
+    },
+    {
+      "t": 9483,
+      "rule": "explicit health event; semen/blood eye exposure can require rinsing/testing guidance"
+    },
+    {
+      "t": 9530,
+      "rule": "public professional lead; collaborator identity only if independently public"
+    },
+    {
+      "t": 9649,
+      "rule": "fatalistic relationship language; preserve as warning, not prediction"
+    },
+    {
+      "t": 9687,
+      "rule": "personal pattern claim, not empirical relationship law"
+    },
+    {
+      "t": 9850,
+      "rule": "risk is real but inevitability claim is overbroad"
+    },
+    {
+      "t": 9860,
+      "rule": "help-seeking statement; exact provider identity withheld"
+    },
+    {
+      "t": 10007,
+      "rule": "Asa directly rejects gender-based explanation"
+    },
+    {
+      "t": 10627,
+      "rule": "likely Atlas Genius song; acoustic/title verification needed"
+    },
+    {
+      "t": 10994,
+      "rule": "decoder repetition removed; no meaningful speech inferred"
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "episode_id": "saga1-episode-078-s-l-a-p-something-like-a-pimp-ft-slink-endo-heather-hot-dog-bobby-le",
+  "title": "S.L.A.P. (Something Like a Pimp)",
+  "reviewed_on": "2026-07-30",
+  "summary": "Episode 78 combines an on-air producer audition, fan-to-worker recruitment, a crowded returning cast, a prolonged phone-policy conflict, commercial-sex exploitation talk and the most explicit direct removal request yet found. Sadie is evaluated live while hosts sexualize the room and leave duties, authority, pay and trial terms unclear; Yen's path from Joe Rogan listener to hockey teammate and production helper shows the same fan/labor boundary. The archive preserves creator and production history while requiring informed candidate consent, role clarity and equal phone rules. It rejects racial anatomy myths, unsolicited explicit images, bathroom surveillance, violence and trafficking romanticization. Most importantly, a private nineteen-year-old explicitly says she wants no involvement with the show and no questions. The host promises respect, then narrates her contact, location, fear, sexual inexperience, refusals, physical blocking, forced penetration, bleeding and a refused photograph. The public layer removes 6601–7853 under that direct request; the restricted audit retains exact timestamps so the contradiction and sexual-violence evidence cannot be erased. Named dialogue remains withheld.",
+  "speaker_policy": "Named dialogue remains withheld. Episode 78 has zero diarized turns and five coarse window embeddings for a very large, changing ensemble. Public participants are contextually known, but no independently held-out multispeaker validation has passed.",
+  "sensitivity": "On-air audition and workplace sexualization; private family pregnancy and medical claims; racial stereotyping; prison and prom segregation; explicit images; private fan sexual dossiers; bowel and menstrual content; bathroom surveillance; threats; commercial-sex exploitation and trafficking; age and celebrity power; a direct removal request; secret recording; physical resistance, forced penetration, bleeding and a refused intimate photograph.",
+  "source_notes": [
+    "The shared redaction layer contains an exact 6601–7853 span with a direct participant-requested-removal reason.",
+    "CDC definitions distinguish unwanted penetration by force, coercion and technology-facilitated unwanted sexual images; the audit uses those concepts without issuing a legal verdict.",
+    "The widely reported 2013 first integrated Wilcox County prom occurred in Georgia; the episode's Arkansas/Alabama geography is unreliable.",
+    "The unnamed Andy Milonakis Adult Swim project, German periscope-toilet artwork, Massive Asses edition credit and exact Rogan appearance remain open research leads.",
+    "All seven cleaner drops are empty zero-duration artifacts. Immutable ASR remains untouched."
+  ],
+  "quality": {
+    "raw_segments": 4284,
+    "clean_segments": 4277,
+    "words_approx": 26900,
+    "duration_seconds": 7933.28,
+    "accepted_context_decisions": 298,
+    "chapters": 163,
+    "connections": 31,
+    "content_warnings": 25,
+    "identity_windows": 5,
+    "named_turns": 0,
+    "cleaning_drops": 7
+  },
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Cold open"
+    },
+    {
+      "t": 24,
+      "title": "Theme and crowded room"
+    },
+    {
+      "t": 72,
+      "title": "Full cast introduction"
+    },
+    {
+      "t": 130,
+      "title": "Almost-live release schedule"
+    },
+    {
+      "t": 148,
+      "title": "Bobby Lee delayed"
+    },
+    {
+      "t": 159,
+      "title": "Slink's father visits"
+    },
+    {
+      "t": 195,
+      "title": "Fat Thor arrives"
+    },
+    {
+      "t": 203,
+      "title": "Heather Hotdog returns"
+    },
+    {
+      "t": 223,
+      "title": "Private holiday travel"
+    },
+    {
+      "t": 236,
+      "title": "Pregnancy discussion"
+    },
+    {
+      "t": 245,
+      "title": "Lactation and taste"
+    },
+    {
+      "t": 289,
+      "title": "Race and milk myth"
+    },
+    {
+      "t": 328,
+      "title": "Semen taste myths"
+    },
+    {
+      "t": 362,
+      "title": "Bill Poon reacts"
+    },
+    {
+      "t": 391,
+      "title": "Show preview"
+    },
+    {
+      "t": 400,
+      "title": "New producer at console"
+    },
+    {
+      "t": 408,
+      "title": "Sadie introduced"
+    },
+    {
+      "t": 437,
+      "title": "Hiring call recap"
+    },
+    {
+      "t": 468,
+      "title": "Professional versus fan hire"
+    },
+    {
+      "t": 478,
+      "title": "Hundreds of applicants"
+    },
+    {
+      "t": 545,
+      "title": "Yen introduced"
+    },
+    {
+      "t": 566,
+      "title": "Joe Rogan discovery path"
+    },
+    {
+      "t": 589,
+      "title": "Hockey call"
+    },
+    {
+      "t": 668,
+      "title": "Fan becomes teammate"
+    },
+    {
+      "t": 705,
+      "title": "Errands and professionalism"
+    },
+    {
+      "t": 722,
+      "title": "Sexualized reward"
+    },
+    {
+      "t": 731,
+      "title": "Yen welcome"
+    },
+    {
+      "t": 752,
+      "title": "Bobby Lee arrives"
+    },
+    {
+      "t": 768,
+      "title": "Pheromone scent joke"
+    },
+    {
+      "t": 802,
+      "title": "Rich-person choice"
+    },
+    {
+      "t": 852,
+      "title": "Prior firings"
+    },
+    {
+      "t": 873,
+      "title": "Sadie audition"
+    },
+    {
+      "t": 905,
+      "title": "Candidate skills"
+    },
+    {
+      "t": 924,
+      "title": "Managerial growth"
+    },
+    {
+      "t": 947,
+      "title": "Street-team offer"
+    },
+    {
+      "t": 977,
+      "title": "Manager versus artist"
+    },
+    {
+      "t": 1042,
+      "title": "Initiative expectations"
+    },
+    {
+      "t": 1068,
+      "title": "Producer authority"
+    },
+    {
+      "t": 1085,
+      "title": "Rotating trials"
+    },
+    {
+      "t": 1117,
+      "title": "Favorite-guest poll"
+    },
+    {
+      "t": 1133,
+      "title": "Cousins top responses"
+    },
+    {
+      "t": 1150,
+      "title": "Rush Hour race analogy"
+    },
+    {
+      "t": 1166,
+      "title": "Prison alliance claims"
+    },
+    {
+      "t": 1217,
+      "title": "Private cousin story"
+    },
+    {
+      "t": 1288,
+      "title": "Segregated-prom claim"
+    },
+    {
+      "t": 1340,
+      "title": "Miley Cyrus callout"
+    },
+    {
+      "t": 1360,
+      "title": "Kate Upton callout"
+    },
+    {
+      "t": 1400,
+      "title": "Slink's Adult Swim work"
+    },
+    {
+      "t": 1457,
+      "title": "Fan hookup claim"
+    },
+    {
+      "t": 1477,
+      "title": "Facebook explicit images"
+    },
+    {
+      "t": 1522,
+      "title": "Race-ranked dating"
+    },
+    {
+      "t": 1664,
+      "title": "Heather body inspection"
+    },
+    {
+      "t": 1704,
+      "title": "Private St. Louis partner"
+    },
+    {
+      "t": 1757,
+      "title": "Odor and race stigma"
+    },
+    {
+      "t": 1845,
+      "title": "Anatomy myth"
+    },
+    {
+      "t": 1915,
+      "title": "Racial sexual stereotype"
+    },
+    {
+      "t": 1943,
+      "title": "Period sex"
+    },
+    {
+      "t": 1973,
+      "title": "Return to fan encounter"
+    },
+    {
+      "t": 1995,
+      "title": "Explicit-image display"
+    },
+    {
+      "t": 2041,
+      "title": "Private fan dossier"
+    },
+    {
+      "t": 2158,
+      "title": "Fan's private partner"
+    },
+    {
+      "t": 2242,
+      "title": "Show as opportunity engine"
+    },
+    {
+      "t": 2262,
+      "title": "Photo gallery"
+    },
+    {
+      "t": 2321,
+      "title": "Camera and body stigma"
+    },
+    {
+      "t": 2394,
+      "title": "Heather's music record"
+    },
+    {
+      "t": 2459,
+      "title": "Old dating-show plan"
+    },
+    {
+      "t": 2477,
+      "title": "New relationship boundary"
+    },
+    {
+      "t": 2522,
+      "title": "No more names"
+    },
+    {
+      "t": 2554,
+      "title": "Counterfactual dating"
+    },
+    {
+      "t": 2601,
+      "title": "Time-zone myth"
+    },
+    {
+      "t": 2640,
+      "title": "Musician exception myth"
+    },
+    {
+      "t": 2651,
+      "title": "Expanded candidate pressure"
+    },
+    {
+      "t": 2945,
+      "title": "First-date bowel debate"
+    },
+    {
+      "t": 3031,
+      "title": "Bathroom hygiene"
+    },
+    {
+      "t": 3224,
+      "title": "Performer preparation"
+    },
+    {
+      "t": 3289,
+      "title": "Chronic urgency"
+    },
+    {
+      "t": 3484,
+      "title": "Improvised paper plug"
+    },
+    {
+      "t": 3600,
+      "title": "Private former partner"
+    },
+    {
+      "t": 3770,
+      "title": "IBS question"
+    },
+    {
+      "t": 3801,
+      "title": "Bowel-photo discussion"
+    },
+    {
+      "t": 3890,
+      "title": "Toilet-camera idea"
+    },
+    {
+      "t": 3920,
+      "title": "Periscope toilet artwork"
+    },
+    {
+      "t": 3961,
+      "title": "Rosarito rumor"
+    },
+    {
+      "t": 3987,
+      "title": "Team-building trip idea"
+    },
+    {
+      "t": 4016,
+      "title": "Star treatment"
+    },
+    {
+      "t": 4031,
+      "title": "New explicit photos"
+    },
+    {
+      "t": 4157,
+      "title": "Refusal to view"
+    },
+    {
+      "t": 4166,
+      "title": "Crowded-room photo"
+    },
+    {
+      "t": 4223,
+      "title": "Partner-status logic"
+    },
+    {
+      "t": 4284,
+      "title": "Child comparison rejected"
+    },
+    {
+      "t": 4303,
+      "title": "Touching and consent"
+    },
+    {
+      "t": 4312,
+      "title": "Bodily-function debate resumes"
+    },
+    {
+      "t": 4442,
+      "title": "Phone conflict turns violent"
+    },
+    {
+      "t": 4470,
+      "title": "Candidate witnesses conflict"
+    },
+    {
+      "t": 4533,
+      "title": "Spontaneous anal-sex claim"
+    },
+    {
+      "t": 4647,
+      "title": "Erection-loss discussion"
+    },
+    {
+      "t": 4742,
+      "title": "Social-media role proposal"
+    },
+    {
+      "t": 4800,
+      "title": "Attention hierarchy"
+    },
+    {
+      "t": 4833,
+      "title": "No-phone rule"
+    },
+    {
+      "t": 4865,
+      "title": "Phone hidden"
+    },
+    {
+      "t": 4870,
+      "title": "Panic as GIF material"
+    },
+    {
+      "t": 4928,
+      "title": "Photo-shoot distress"
+    },
+    {
+      "t": 4997,
+      "title": "Power named"
+    },
+    {
+      "t": 5020,
+      "title": "Thanksgiving family story"
+    },
+    {
+      "t": 5064,
+      "title": "Prayer-phone dispute"
+    },
+    {
+      "t": 5193,
+      "title": "Sick-father claim"
+    },
+    {
+      "t": 5271,
+      "title": "Invasive punishment"
+    },
+    {
+      "t": 5300,
+      "title": "Withdrawal analogy"
+    },
+    {
+      "t": 5399,
+      "title": "Sexual ranking question"
+    },
+    {
+      "t": 5521,
+      "title": "Father claim retracted"
+    },
+    {
+      "t": 5550,
+      "title": "Body-gap question"
+    },
+    {
+      "t": 5590,
+      "title": "Mouth-vagina myth"
+    },
+    {
+      "t": 5632,
+      "title": "Thanksgiving cooking"
+    },
+    {
+      "t": 5667,
+      "title": "Pimp Thanksgiving"
+    },
+    {
+      "t": 5700,
+      "title": "One-hundred-percent control"
+    },
+    {
+      "t": 5739,
+      "title": "Trafficking endorsement rejected"
+    },
+    {
+      "t": 5777,
+      "title": "What a pimp provides"
+    },
+    {
+      "t": 5800,
+      "title": "Vulnerability and belonging"
+    },
+    {
+      "t": 5820,
+      "title": "Proposed pimp interview"
+    },
+    {
+      "t": 5833,
+      "title": "Phone analogy returns"
+    },
+    {
+      "t": 5882,
+      "title": "Smoke and recovery"
+    },
+    {
+      "t": 5894,
+      "title": "Private holiday roster"
+    },
+    {
+      "t": 5976,
+      "title": "Massive Asses"
+    },
+    {
+      "t": 6021,
+      "title": "Directing and attention"
+    },
+    {
+      "t": 6110,
+      "title": "Group phone compliance"
+    },
+    {
+      "t": 6140,
+      "title": "Manpon merchandise"
+    },
+    {
+      "t": 6170,
+      "title": "Trafficking-interview ethics"
+    },
+    {
+      "t": 6187,
+      "title": "Why-didn't-they-run myth"
+    },
+    {
+      "t": 6244,
+      "title": "Slavery framing"
+    },
+    {
+      "t": 6271,
+      "title": "SLAP title origin"
+    },
+    {
+      "t": 6303,
+      "title": "Control as care"
+    },
+    {
+      "t": 6331,
+      "title": "Women in jail"
+    },
+    {
+      "t": 6391,
+      "title": "Home and coercion"
+    },
+    {
+      "t": 6420,
+      "title": "Pimp invitation"
+    },
+    {
+      "t": 6470,
+      "title": "Armenian Virgin callback"
+    },
+    {
+      "t": 6500,
+      "title": "Age and power"
+    },
+    {
+      "t": 6554,
+      "title": "Young-fan recruitment pattern"
+    },
+    {
+      "t": 6601,
+      "title": "Direct removal request begins"
+    },
+    {
+      "t": 6611,
+      "title": "No show, no questions"
+    },
+    {
+      "t": 6620,
+      "title": "Promise contradicted"
+    },
+    {
+      "t": 6721,
+      "title": "Visible fear"
+    },
+    {
+      "t": 6777,
+      "title": "Recorded disclaimer"
+    },
+    {
+      "t": 6840,
+      "title": "Private hotel logistics"
+    },
+    {
+      "t": 6973,
+      "title": "Fear managed as persuasion"
+    },
+    {
+      "t": 7027,
+      "title": "Private acts withheld"
+    },
+    {
+      "t": 7386,
+      "title": "Control request"
+    },
+    {
+      "t": 7437,
+      "title": "Act-specific refusals"
+    },
+    {
+      "t": 7484,
+      "title": "Limit acknowledged"
+    },
+    {
+      "t": 7523,
+      "title": "No-condom myth"
+    },
+    {
+      "t": 7535,
+      "title": "Emergency contraception"
+    },
+    {
+      "t": 7577,
+      "title": "Soaking claim"
+    },
+    {
+      "t": 7655,
+      "title": "Hymen myth"
+    },
+    {
+      "t": 7726,
+      "title": "Don't and physical resistance"
+    },
+    {
+      "t": 7750,
+      "title": "Contradictory signals"
+    },
+    {
+      "t": 7772,
+      "title": "Arms keep him away"
+    },
+    {
+      "t": 7796,
+      "title": "Pain overridden"
+    },
+    {
+      "t": 7802,
+      "title": "Forced penetration"
+    },
+    {
+      "t": 7814,
+      "title": "Rape framing rejected"
+    },
+    {
+      "t": 7833,
+      "title": "Photo and show refusal"
+    },
+    {
+      "t": 7850,
+      "title": "Towel image"
+    },
+    {
+      "t": 7855,
+      "title": "Abrupt close"
+    },
+    {
+      "t": 7871,
+      "title": "Eric Griffin handoff"
+    },
+    {
+      "t": 7933,
+      "title": "End"
+    }
+  ],
+  "connections": [
+    {
+      "from": 130,
+      "to": "DVDASA release timeline",
+      "relationship": "The cast says the recording is nearly live and intended to finish 2013"
+    },
+    {
+      "from": 437,
+      "to": "Episodes 75–78 hiring timeline",
+      "relationship": "The open call moves from hundreds of applicants to rotating producer trials"
+    },
+    {
+      "from": 468,
+      "to": "fan-to-worker boundary ledger",
+      "relationship": "The show explicitly weighs hiring a professional against hiring a fan"
+    },
+    {
+      "from": 566,
+      "to": "Joe Rogan appearance census",
+      "relationship": "Yen discovers DVDASA through Choe and Yoshi on Rogan"
+    },
+    {
+      "from": 589,
+      "to": "Bobby Trivia hockey timeline",
+      "relationship": "A listener becomes a teammate, friend and production helper"
+    },
+    {
+      "from": 873,
+      "to": "DVDASA candidate-consent ledger",
+      "relationship": "Sadie's technical audition occurs live inside a sexualized, conflict-heavy episode"
+    },
+    {
+      "from": 977,
+      "to": "David Choe creator-operations timeline",
+      "relationship": "Management load is framed as competing directly with art-making"
+    },
+    {
+      "from": 1085,
+      "to": "DVDASA producer timeline",
+      "relationship": "Different candidates are scheduled to produce upcoming episodes"
+    },
+    {
+      "from": 1133,
+      "to": "DVDASA audience-affinity timeline",
+      "relationship": "The cousins and Bobby Lee dominate the host's informal favorite-guest poll"
+    },
+    {
+      "from": 1293,
+      "to": "2013 segregated-prom source ledger",
+      "relationship": "A Georgia event is muddled with Arkansas and Alabama claims"
+    },
+    {
+      "from": 1400,
+      "to": "Slink Johnson screen-work timeline",
+      "relationship": "An unnamed Andy Milonakis Adult Swim project becomes a research lead"
+    },
+    {
+      "from": 1457,
+      "to": "DVDASA fan-intimacy risk ledger",
+      "relationship": "A fan relationship is narrated publicly as a benefit of appearing"
+    },
+    {
+      "from": 1477,
+      "to": "technology-facilitated sexual-violence ledger",
+      "relationship": "The proposed solution to platform moderation is unsolicited private explicit images"
+    },
+    {
+      "from": 2394,
+      "to": "Heather Hotdog creative timeline",
+      "relationship": "Bass performance and touring remain the durable public record beneath sexual ranking"
+    },
+    {
+      "from": 2477,
+      "to": "scope-of-consent ledger",
+      "relationship": "A new relationship ends the previous dating-show premise"
+    },
+    {
+      "from": 3890,
+      "to": "privacy and surveillance ledger",
+      "relationship": "A toilet-camera product idea makes bathroom recording a direct safety issue"
+    },
+    {
+      "from": 4742,
+      "to": "DVDASA social-media labor timeline",
+      "relationship": "Phone use is simultaneously criticized and considered as evidence for a new role"
+    },
+    {
+      "from": 4865,
+      "to": "DVDASA phone-policy timeline",
+      "relationship": "Unequal rules escalate into hidden property, panic and threatened humiliation"
+    },
+    {
+      "from": 5020,
+      "to": "Choe–Lee family relationship timeline",
+      "relationship": "Thanksgiving hospitality complicates the same episode's power conflict"
+    },
+    {
+      "from": 5193,
+      "to": "misinformation self-correction ledger",
+      "relationship": "A claimed parental stroke is later admitted to be a tactic to recover the phone"
+    },
+    {
+      "from": 5632,
+      "to": "Slink Johnson food and domestic-creative timeline",
+      "relationship": "Stuffed chicken, fried turkeys, cakes and cookies expand his public portrait"
+    },
+    {
+      "from": 5700,
+      "to": "commercial-sex exploitation ledger",
+      "relationship": "One-hundred-percent financial control becomes the core trafficking question"
+    },
+    {
+      "from": 5976,
+      "to": "Asa Akira directing timeline",
+      "relationship": "Massive Asses is cited as evidence of her directing her husband and other performers"
+    },
+    {
+      "from": 6170,
+      "to": "future guest safety ledger",
+      "relationship": "A proposed pimp interview needs survivor-centered, non-operational safeguards"
+    },
+    {
+      "from": 6271,
+      "to": "Episode 78 title timeline",
+      "relationship": "Slink expands SLAP as Something Like a Pimp"
+    },
+    {
+      "from": 6470,
+      "to": "Episodes 70–71 young-guest ledger",
+      "relationship": "The Armenian Virgin story becomes a claimed recruitment signal for other nineteen-year-old fans"
+    },
+    {
+      "from": 6554,
+      "to": "audience-to-sexual-access risk ledger",
+      "relationship": "The host reports multiple inexperienced young listeners initiating contact after prior episodes"
+    },
+    {
+      "from": 6611,
+      "to": "DVDASA direct removal-request ledger",
+      "relationship": "The participant explicitly rejects show involvement before the host publishes a detailed account"
+    },
+    {
+      "from": 6777,
+      "to": "secret-recording consent ledger",
+      "relationship": "A recorded anti-rape disclaimer is treated as protection despite fear and later resistance"
+    },
+    {
+      "from": 7726,
+      "to": "sexual-violence evidence ledger",
+      "relationship": "Verbal and physical resistance precede the described forced penetration"
+    },
+    {
+      "from": 7802,
+      "to": "Episode 78 restricted safety record",
+      "relationship": "The description is preserved only for accountable audit and removed from public transcript"
+    }
+  ],
+  "content_warnings": [
+    "on-air job audition and candidate power imbalance",
+    "workplace sexualization",
+    "private family pregnancy",
+    "racial and prison stereotypes",
+    "unsolicited explicit images",
+    "private fan sexual dossiers",
+    "body shaming and anatomy myths",
+    "menstrual-product safety",
+    "child sexual comparison",
+    "bathroom surveillance",
+    "bowel and bodily-fluid content",
+    "property seizure and workplace threats",
+    "private family medical misinformation",
+    "human trafficking and commercial-sex exploitation",
+    "victim blaming",
+    "incarcerated and exploited women",
+    "substance use and recovery",
+    "direct participant removal request",
+    "nineteen-year-old fan and age/fame power",
+    "secret intimate recording",
+    "condom and emergency-contraception misinformation",
+    "hymen and virginity myths",
+    "verbal and physical resistance",
+    "forced penetration",
+    "bleeding and refused intimate image"
+  ]
+}

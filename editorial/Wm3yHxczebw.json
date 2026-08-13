@@ -1,0 +1,549 @@
+{
+  "episode_id": "Wm3yHxczebw",
+  "title": "Fine Art is Overrated: Art Tutorial",
+  "editorial_title": "Fine art, clouds, landscapes, animals, and an improvised boot figure",
+  "reviewed_on": "2026-08-01",
+  "summary": "A 5:56 improvised art tutorial that begins with gallery confusion and a dismissive, unsourced $100 million Rothko-squares claim, turns clouds and surrounding colors into a landscape, then adds fruit/tree/peace-sign construction, figure placement, Roots/Questlove wordplay, animals, shoe tread, an oversized boot-driven body distortion, a Mickey Mouse-like nose and a traced hat. Performed objections about condescension, child ability and ageism remain inside the monologue. Multilingual fruit wordplay, an animal-procedure phrase, a lacing label, censorship and the ending remain unresolved. Spoken steps remain distinct from visual-only marks. No idea is censored and no market/science/veterinary claim, unseen result or voice is invented.",
+  "quality": {
+    "raw_segments": 54,
+    "clean_segments": 54,
+    "raw_words_approx": 1083,
+    "duration_seconds": 356,
+    "accepted_context_decisions": 54,
+    "chapters": 45,
+    "connections": 10,
+    "content_warnings": 10,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 29,
+    "public_restriction_spans": 45
+  },
+  "speaker_policy": {
+    "status": "single improvised tutorial monologue with performed objections; identity withheld",
+    "reason": "Channel context and self-address suggest David Choe, but captions provide no prefix or independently held-out acoustic validation."
+  },
+  "people": [
+    "David Choe (channel context; no named turn)",
+    "unidentified tutorial speaker",
+    "Picasso (artist reference)",
+    "Mark Rothko (artist reference)",
+    "Questlove (music reference)",
+    "generic children/older people"
+  ],
+  "places": [
+    "gallery",
+    "museum",
+    "improvised drawing surface"
+  ],
+  "works": [
+    "Fine Art is Overrated: Art Tutorial",
+    "Rothko square paintings (generic reference)",
+    "The Roots (band reference)",
+    "Mickey Mouse (visual comparison)",
+    "improvised cloud/landscape/animal/boot/hat drawing"
+  ],
+  "themes": [
+    "fine-art skepticism",
+    "art price claim",
+    "abstraction",
+    "clouds and reflected colors",
+    "materials",
+    "improvisation",
+    "performed objections",
+    "fruit wordplay uncertainty",
+    "simple geometry",
+    "figure placement",
+    "roots pun",
+    "ageism objection",
+    "animals",
+    "visual dependence",
+    "shoe/boot composition",
+    "planning failure",
+    "distortion",
+    "hat tracing",
+    "cutoff"
+  ],
+  "chapters": [
+    {
+      "t": 1.622,
+      "title": "gallery/museum incomprehension"
+    },
+    {
+      "t": 14.16,
+      "title": "Picasso/Rothko and price claim"
+    },
+    {
+      "t": 21.64,
+      "title": "squares critique"
+    },
+    {
+      "t": 35.32,
+      "title": "Rothko/cloud analogy"
+    },
+    {
+      "t": 41.16,
+      "title": "white paint and crayon"
+    },
+    {
+      "t": 53.6,
+      "title": "feeling/colors/shapes prompt"
+    },
+    {
+      "t": 59.6,
+      "title": "grass and bird colors"
+    },
+    {
+      "t": 72.68,
+      "title": "three clouds"
+    },
+    {
+      "t": 84.24,
+      "title": "outlining clouds"
+    },
+    {
+      "t": 90.2,
+      "title": "condescending-voice objection"
+    },
+    {
+      "t": 95.8,
+      "title": "damaged fruit wordplay"
+    },
+    {
+      "t": 107.56,
+      "title": "pineapple and tree transition"
+    },
+    {
+      "t": 112.24,
+      "title": "child-skill challenge"
+    },
+    {
+      "t": 117.28,
+      "title": "sun/sunbeam"
+    },
+    {
+      "t": 123.36,
+      "title": "apple tree"
+    },
+    {
+      "t": 135.92,
+      "title": "apple balance and ground"
+    },
+    {
+      "t": 140.12,
+      "title": "crabapple uncertainty"
+    },
+    {
+      "t": 144.76,
+      "title": "lettered profanity and branches"
+    },
+    {
+      "t": 152.12,
+      "title": "upside-down peace sign"
+    },
+    {
+      "t": 158.68,
+      "title": "flip sign into tree"
+    },
+    {
+      "t": 165.48,
+      "title": "tree/self placement"
+    },
+    {
+      "t": 173.52,
+      "title": "behind/in-front/naked figure"
+    },
+    {
+      "t": 179.88,
+      "title": "roots / The Roots"
+    },
+    {
+      "t": 186.52,
+      "title": "Questlove and makeup stick"
+    },
+    {
+      "t": 199.72,
+      "title": "old-person disgust objection"
+    },
+    {
+      "t": 205.36,
+      "title": "ageist accusation / Rothko return"
+    },
+    {
+      "t": 213.12,
+      "title": "landscape and rotation"
+    },
+    {
+      "t": 222.64,
+      "title": "gestural visual marks"
+    },
+    {
+      "t": 231.92,
+      "title": "dog drawing"
+    },
+    {
+      "t": 240.92,
+      "title": "leash choice"
+    },
+    {
+      "t": 245.76,
+      "title": "unclear animal procedure / wagging tail"
+    },
+    {
+      "t": 252.12,
+      "title": "cat / Chinese-Siamese phrasing"
+    },
+    {
+      "t": 264.96,
+      "title": "claws and belly rub"
+    },
+    {
+      "t": 276,
+      "title": "tail and shoe transition"
+    },
+    {
+      "t": 282.76,
+      "title": "shoelace setup"
+    },
+    {
+      "t": 287.92,
+      "title": "uncertain lacing style / censorship"
+    },
+    {
+      "t": 294,
+      "title": "tread and spikes"
+    },
+    {
+      "t": 301.56,
+      "title": "did not plan ahead"
+    },
+    {
+      "t": 310.48,
+      "title": "boot fills space"
+    },
+    {
+      "t": 317.52,
+      "title": "contorted body planning"
+    },
+    {
+      "t": 323.16,
+      "title": "other foot/arm/eye"
+    },
+    {
+      "t": 328.8,
+      "title": "eye and mouth on boot"
+    },
+    {
+      "t": 335.76,
+      "title": "Mickey Mouse nose / hat challenge"
+    },
+    {
+      "t": 341.88,
+      "title": "hat tracing"
+    },
+    {
+      "t": 346.52,
+      "title": "done / cutoff"
+    }
+  ],
+  "connections": [
+    {
+      "t": 14.16,
+      "to": "art-market skepticism",
+      "relationship": "A repeated $100 million Rothko claim frames the speaker’s opinion but lacks sale provenance."
+    },
+    {
+      "t": 35.32,
+      "to": "abstraction",
+      "relationship": "Rothko squares are compared to cloud interpretation."
+    },
+    {
+      "t": 41.16,
+      "to": "material recipe",
+      "relationship": "White paint/crayon begin a color-reflection exercise."
+    },
+    {
+      "t": 95.8,
+      "to": "language uncertainty",
+      "relationship": "Fruit wordplay is multilingual-looking but too damaged for fluent reconstruction."
+    },
+    {
+      "t": 152.12,
+      "to": "simple geometry",
+      "relationship": "A peace sign is flipped into a tree construction."
+    },
+    {
+      "t": 179.88,
+      "to": "music wordplay",
+      "relationship": "Drawing roots prompts The Roots and Questlove references."
+    },
+    {
+      "t": 205.36,
+      "to": "performed self-critique",
+      "relationship": "The speaker stages objections about condescension, children and ageism."
+    },
+    {
+      "t": 213.12,
+      "to": "improvisation",
+      "relationship": "The drawing expands from abstraction to landscape and animals."
+    },
+    {
+      "t": 301.56,
+      "to": "productive failure",
+      "relationship": "The oversized boot forces a distorted figure composition."
+    },
+    {
+      "t": 335.76,
+      "to": "popular-character comparison",
+      "relationship": "Mickey Mouse describes a nose shape, not a licensed work."
+    }
+  ],
+  "source_notes": [
+    "All 54 raw caption records remain aligned exactly once.",
+    "Rothko, peace sign, The Roots, Questlove, ageist, Siamese and Mickey Mouse receive high-confidence repairs.",
+    "Multilingual fruit wordplay, dog procedure, lacing label, censorship and cutoff remain unresolved.",
+    "Spoken actions are not treated as complete substitutes for video-visible marks.",
+    "The $100 million statement and Rothko criticism remain attributed speaker claims/opinion.",
+    "Animal drawing jokes are not veterinary or taxonomic advice.",
+    "Performed Dave/self-objections do not establish a second speaker or named voice."
+  ],
+  "content_warnings": [
+    "dismissive art/artist opinion",
+    "unsourced $100 million price claim",
+    "damaged multilingual wordplay",
+    "child-skill comparison",
+    "ageist accusation/performed disgust",
+    "nude-figure drawing joke",
+    "Chinese/Siamese cat phrasing",
+    "unclear animal-procedure phrase",
+    "censored phrase",
+    "visual-only action gaps"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 1.622,
+      "title": "gallery/museum incomprehension",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 14.16,
+      "title": "Picasso/Rothko and price claim",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 21.64,
+      "title": "squares critique",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 35.32,
+      "title": "Rothko/cloud analogy",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 41.16,
+      "title": "white paint and crayon",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 53.6,
+      "title": "feeling/colors/shapes prompt",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 59.6,
+      "title": "grass and bird colors",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 72.68,
+      "title": "three clouds",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 84.24,
+      "title": "outlining clouds",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 90.2,
+      "title": "condescending-voice objection",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 95.8,
+      "title": "damaged fruit wordplay",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 107.56,
+      "title": "pineapple and tree transition",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 112.24,
+      "title": "child-skill challenge",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 117.28,
+      "title": "sun/sunbeam",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 123.36,
+      "title": "apple tree",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 135.92,
+      "title": "apple balance and ground",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 140.12,
+      "title": "crabapple uncertainty",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 144.76,
+      "title": "lettered profanity and branches",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 152.12,
+      "title": "upside-down peace sign",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 158.68,
+      "title": "flip sign into tree",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 165.48,
+      "title": "tree/self placement",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 173.52,
+      "title": "behind/in-front/naked figure",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 179.88,
+      "title": "roots / The Roots",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 186.52,
+      "title": "Questlove and makeup stick",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 199.72,
+      "title": "old-person disgust objection",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 205.36,
+      "title": "ageist accusation / Rothko return",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 213.12,
+      "title": "landscape and rotation",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 222.64,
+      "title": "gestural visual marks",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 231.92,
+      "title": "dog drawing",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 240.92,
+      "title": "leash choice",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 245.76,
+      "title": "unclear animal procedure / wagging tail",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 252.12,
+      "title": "cat / Chinese-Siamese phrasing",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 264.96,
+      "title": "claws and belly rub",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 276,
+      "title": "tail and shoe transition",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 282.76,
+      "title": "shoelace setup",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 287.92,
+      "title": "uncertain lacing style / censorship",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 294,
+      "title": "tread and spikes",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 301.56,
+      "title": "did not plan ahead",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 310.48,
+      "title": "boot fills space",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 317.52,
+      "title": "contorted body planning",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 323.16,
+      "title": "other foot/arm/eye",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 328.8,
+      "title": "eye and mouth on boot",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 335.76,
+      "title": "Mickey Mouse nose / hat challenge",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 341.88,
+      "title": "hat tracing",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    },
+    {
+      "t": 346.52,
+      "title": "done / cutoff",
+      "rule": "attribute to unidentified tutorial speaker and visual context; do not invent art-market/science/veterinary fact, unseen mark/result, translation, separate speaker, endorsement, licensing or named voice"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "summary": "Episode Seven moves from the previous week's personality-test aftermath into an extended anonymous interview with Donor X, also called Sammy Salami, whose paid sperm donation becomes a vehicle for talking about heredity, desire, selection, disclosure, money, and the obligations created by anonymous reproduction. Returning Koreans Gone Bad participant Maury Showbizawitz supplies much of the personal and childhood context, while David Choe, Asa Akira, and Yoshi Obayashi repeatedly test the distinction between a donor's professional screening profile and the messier person in the room. The episode's long middle includes explicit memories of childhood sexual experimentation and detailed discussion of masturbation and specimen collection. Trivia moves through Breaking Bad, Radiohead, and Office Space before the closing section turns toward Yoshi Didn't hate mail and proposes an in-person meeting where critics can address Yoshi and Maury directly.",
+  "chapters": [
+    {"t": 28, "title": "Donor X, Maury Showbizawitz, and Yoshi return"},
+    {"t": 160, "title": "The personality-test aftermath and Lilit Arvahi"},
+    {"t": 500, "title": "How Maury met the anonymous donor"},
+    {"t": 790, "title": "The roommate, the donor program, and first impressions"},
+    {"t": 1130, "title": "Childhood strip poker and sexual experimentation"},
+    {"t": 1430, "title": "Puberty, bodies, and remembered development"},
+    {"t": 1730, "title": "Race, attraction, and selecting inherited traits"},
+    {"t": 2020, "title": "Screening, family histories, and future disclosure"},
+    {"t": 2320, "title": "Anonymous offspring and the limits of responsibility"},
+    {"t": 2600, "title": "Paid donation, abstinence, and specimen quality"},
+    {"t": 2920, "title": "The donor profile and the quiet-lover persona"},
+    {"t": 3180, "title": "Choosing physical and behavioral characteristics"},
+    {"t": 3460, "title": "Porn at high speed and collection-room routines"},
+    {"t": 3890, "title": "Annie Potts and the toy-store memory"},
+    {"t": 4130, "title": "Crank calls, erotic voices, and adolescent cruelty"},
+    {"t": 4680, "title": "The masturbation dance and donor technique"},
+    {"t": 5090, "title": "Trivia With Bobby: Breaking Bad"},
+    {"t": 5370, "title": "Radiohead songs and the Rick Astley detour"},
+    {"t": 5450, "title": "Office Space, flair, and Crayon Shin-chan"},
+    {"t": 5590, "title": "Pricing the vials and promoting Donor X"},
+    {"t": 5740, "title": "Yoshi Didn't hate mail and the proposed meetup"},
+    {"t": 6030, "title": "Rules for addressing Yoshi and Maury"}
+  ],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Donor X",
+    "Maury Showbizawitz",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lilit Arvahi",
+    "Annie Potts",
+    "Rick Astley"
+  ],
+  "places": [
+    "Los Angeles",
+    "Downtown Los Angeles",
+    "Urth Caffé"
+  ],
+  "works": [
+    "DVDASA",
+    "Koreans Gone Bad",
+    "Yoshi Didn't",
+    "Breaking Bad",
+    "No Surprises",
+    "The Bends",
+    "Karma Police",
+    "Office Space",
+    "Ghostbusters",
+    "Crayon Shin-chan",
+    "Trivia With Bobby"
+  ],
+  "themes": [
+    "anonymous reproduction",
+    "sperm donation",
+    "heredity and selection",
+    "race and attraction",
+    "disclosure and responsibility",
+    "money and bodily labor",
+    "childhood sexual experimentation",
+    "masturbation and performance",
+    "privacy",
+    "hate mail",
+    "public confrontation"
+  ],
+  "connections": [
+    {
+      "label": "A screening profile is not a whole person",
+      "note": "The group treats the donor's formal health, education, and appearance traits as marketable evidence, then contrasts them with his jokes, habits, relationships, and uncertainty. The episode shows why a searchable profile should not be mistaken for biography."
+    },
+    {
+      "label": "Selection turns preference into inheritance",
+      "note": "Questions about race, height, attractiveness, intelligence, health, and family history move ordinary attraction into reproductive choice. The discussion repeatedly exposes how quickly personal taste becomes a claim about desirable future people."
+    },
+    {
+      "label": "Anonymity protects a career but does not erase obligations",
+      "note": "Donor X withholds his public identity because of professional risk, while the room asks what children, parents, and the donor may owe one another later. The archive preserves the alias and records the ethical tension without attempting identification."
+    },
+    {
+      "label": "Paid bodily labor is both routine and intimate",
+      "note": "The practical vocabulary of schedules, abstinence, sample quality, vials, and payment makes donation sound like ordinary work. The surrounding sexual performance and parenthood questions keep it from becoming only a transaction."
+    },
+    {
+      "label": "Childhood memories require more than comic framing",
+      "note": "The panel recounts childhood sexual behavior in a joking register, but the archive should distinguish the participants' tone from the sensitivity of the material and avoid turning those memories into clickbait."
+    },
+    {
+      "label": "The hate-mail meetup converts audience hostility into a scene",
+      "note": "The closing invitation asks critics to meet Yoshi and Maury in person under narrow rules. Like the prior episode's confrontation with a former employer, grievance becomes a proposed encounter rather than an abstract opinion."
+    }
+  ],
+  "quality": {
+    "transcript_state": "draft-needs-audio-check",
+    "speaker_state": "six-person panel with frequent overlap; named turns withheld",
+    "correction_fixture": "episode-007-correction-fixture.json",
+    "content_note": "The episode contains explicit sexual material, detailed sperm-donation and masturbation discussion, accounts of childhood sexual behavior, hate speech and homophobic and disability slurs, and ethically charged discussion of reproductive selection. Donor X remains anonymous."
+  },
+  "note": "Chapter titles and connections are editorial. The ASR and cleaner are statistically strong; participant and work names receive logged high-confidence corrections, while exact quotation and speaker attribution require audio validation."
+}

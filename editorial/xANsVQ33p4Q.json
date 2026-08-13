@@ -1,0 +1,610 @@
+{
+  "episode_id": "xANsVQ33p4Q",
+  "title": "Kevin Smith Interview (2015) | David Choe: High Risk",
+  "reviewed_on": "2026-07-31",
+  "summary": "A 1:48 Kevin Smith-titled excerpt about caring for Mulder, a large yellow Lab who could no longer use his hind legs and had recently died. While supporting Mulder with a scarf sling and waiting for a slow elevator, the speaker repeatedly studied a painting he says David Choe gave him. Initial graphic interest became a year-long practice of noticing new details and inventing different stories; he reports that the painting made difficult early mornings better. That is personal testimony, not clinical evidence. Mulder, yellow Lab, Choe’s painting and dumbwaiter are repaired. A likely “our podcast” phrase retains residual uncertainty. The source term “crippled,” care mechanics, profanity masks and grief remain uncensored. The final “his art works like a…” is clipped and not completed. The title attributes Kevin Smith at source level, but captions do not label turns; zero named turns ship.",
+  "quality": {
+    "raw_segments": 49,
+    "clean_segments": 49,
+    "raw_words_approx": 373,
+    "clean_words_approx": 373,
+    "duration_seconds": 108,
+    "accepted_context_decisions": 49,
+    "chapters": 49,
+    "connections": 20,
+    "content_warnings": 10,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 55
+  },
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; source-level Kevin Smith attribution only",
+    "reason": "The upload title identifies a Kevin Smith interview, but automatic captions provide no publisher speaker prefix and the clip may contain editing/off-camera context. Publish zero named turns and require held-out audiovisual validation before enrollment."
+  },
+  "people": [
+    "Kevin Smith (source-title attribution; line-level turns unresolved)",
+    "David Choe",
+    "Mulder (deceased yellow Labrador retriever)"
+  ],
+  "places": [
+    "speaker’s building/home",
+    "slow elevator area"
+  ],
+  "works": [
+    "Kevin Smith Interview (2015) | David Choe: High Risk",
+    "David Choe: High Risk",
+    "unnamed David Choe painting",
+    "unresolved podcast reference"
+  ],
+  "themes": [
+    "pet disability",
+    "animal caregiving",
+    "grief",
+    "daily ritual",
+    "accessibility workaround",
+    "gifted art",
+    "repeated viewing",
+    "viewer-generated narrative",
+    "artist intent",
+    "close looking",
+    "art and mood",
+    "personal testimony",
+    "open interpretation",
+    "clip truncation"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "disabled dog [source uses “crippled”]"
+    },
+    {
+      "t": 1,
+      "title": "Mulder"
+    },
+    {
+      "t": 3,
+      "title": "speaker says Mulder recently died"
+    },
+    {
+      "t": 5,
+      "title": "too large to carry upstairs routinely"
+    },
+    {
+      "t": 7,
+      "title": "big yellow Lab"
+    },
+    {
+      "t": 9,
+      "title": "carry him upstairs"
+    },
+    {
+      "t": 11,
+      "title": "used an elevator with the dog"
+    },
+    {
+      "t": 13,
+      "title": "used a scarf as a sling under the dog’s hind legs"
+    },
+    {
+      "t": 14,
+      "title": "supported/raised the dog’s hindquarters"
+    },
+    {
+      "t": 16,
+      "title": "dog could walk on front legs but not hind legs"
+    },
+    {
+      "t": 17,
+      "title": "waited for the elevator while supporting Mulder"
+    },
+    {
+      "t": 20,
+      "title": "not a department-store-style elevator [source mask retained]"
+    },
+    {
+      "t": 22,
+      "title": "small/slow elevator likened to a human dumbwaiter"
+    },
+    {
+      "t": 25,
+      "title": "slow arrival created a long wait"
+    },
+    {
+      "t": 28,
+      "title": "supporting the dog during the wait"
+    },
+    {
+      "t": 30,
+      "title": "David Choe’s painting [source profanity mask before name]"
+    },
+    {
+      "t": 33,
+      "title": "speaker viewed it during the dog’s final year"
+    },
+    {
+      "t": 35,
+      "title": "waiting created sustained viewing time"
+    },
+    {
+      "t": 38,
+      "title": "look at Choe’s painting"
+    },
+    {
+      "t": 41,
+      "title": "repeated daily viewing"
+    },
+    {
+      "t": 44,
+      "title": "speaker says Choe gave him the painting and he initially liked it"
+    },
+    {
+      "t": 45,
+      "title": "initial formal/graphic interest"
+    },
+    {
+      "t": 47,
+      "title": "informal qualification"
+    },
+    {
+      "t": 50,
+      "title": "roughly a year of repeated viewing"
+    },
+    {
+      "t": 53,
+      "title": "around 6:00 a.m."
+    },
+    {
+      "t": 54,
+      "title": "approximately 5:30–6:00 a.m."
+    },
+    {
+      "t": 56,
+      "title": "mentally foggy/muddy early-morning state"
+    },
+    {
+      "t": 60,
+      "title": "care routine and art viewing coincide"
+    },
+    {
+      "t": 62,
+      "title": "repeated close viewing of Choe’s painting"
+    },
+    {
+      "t": 64,
+      "title": "speaker reports the painting improved his mornings"
+    },
+    {
+      "t": 66,
+      "title": "each viewing prompted new interpretation"
+    },
+    {
+      "t": 68,
+      "title": "generated different stories from the image"
+    },
+    {
+      "t": 70,
+      "title": "artist supplied no explanatory intent statement"
+    },
+    {
+      "t": 72,
+      "title": "imagined artist explanation"
+    },
+    {
+      "t": 76,
+      "title": "our podcast [likely; audio confirmation still useful]"
+    },
+    {
+      "t": 76.5,
+      "title": "speaker recalls receiving no fixed interpretation"
+    },
+    {
+      "t": 78,
+      "title": "source-masked profanity in casual gift description"
+    },
+    {
+      "t": 80,
+      "title": "speaker’s theory that art should not require explanatory letters"
+    },
+    {
+      "t": 82,
+      "title": "rejects a mandatory explanatory letter"
+    },
+    {
+      "t": 84,
+      "title": "repeated viewing across roughly a year"
+    },
+    {
+      "t": 86,
+      "title": "supporting Mulder while viewing"
+    },
+    {
+      "t": 88,
+      "title": "a different story"
+    },
+    {
+      "t": 90,
+      "title": "viewer-generated interpretation"
+    },
+    {
+      "t": 91,
+      "title": "newly noticed element"
+    },
+    {
+      "t": 93,
+      "title": "new detail discovered through repeated viewing"
+    },
+    {
+      "t": 96,
+      "title": "sustained viewing for about a year"
+    },
+    {
+      "t": 99,
+      "title": "speaker offers personal testimony"
+    },
+    {
+      "t": 101,
+      "title": "“his art works like a…” [sentence clipped]"
+    },
+    {
+      "t": 106,
+      "title": "source-masked/clipped final sound"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "Mulder’s disability and death",
+      "relationship": "The art account is inseparable from care for a recently deceased dog."
+    },
+    {
+      "t": 7,
+      "to": "yellow Lab",
+      "relationship": "Mulder’s size explains why carrying him upstairs was impractical."
+    },
+    {
+      "t": 11,
+      "to": "elevator routine",
+      "relationship": "A daily accessibility workaround creates the viewing interval."
+    },
+    {
+      "t": 13,
+      "to": "scarf sling",
+      "relationship": "The speaker describes supporting the hindquarters but the archive does not prescribe the method."
+    },
+    {
+      "t": 16,
+      "to": "hind-leg paralysis",
+      "relationship": "Front-leg mobility and hind-leg impairment define the care task."
+    },
+    {
+      "t": 22,
+      "to": "human dumbwaiter analogy",
+      "relationship": "The elevator’s slowness makes waiting and viewing possible."
+    },
+    {
+      "t": 30,
+      "to": "David Choe painting",
+      "relationship": "The artwork is physically located near the elevator in the speaker’s account."
+    },
+    {
+      "t": 33,
+      "to": "final-year chronology",
+      "relationship": "The phrase likely refers to Mulder’s last year but remains grammatically attached to the speaker’s life."
+    },
+    {
+      "t": 44,
+      "to": "gift provenance",
+      "relationship": "The speaker says Choe gave him the painting; title/authorship documentation is otherwise absent."
+    },
+    {
+      "t": 45,
+      "to": "initial graphic interest",
+      "relationship": "Immediate formal appeal develops into a deeper repeated relationship."
+    },
+    {
+      "t": 54,
+      "to": "early-morning liminality",
+      "relationship": "Foggy 5:30–6:00 a.m. viewing shapes the encounter."
+    },
+    {
+      "t": 60,
+      "to": "care and contemplation",
+      "relationship": "Supporting Mulder and studying the image occur simultaneously."
+    },
+    {
+      "t": 64,
+      "to": "reported mood effect",
+      "relationship": "The speaker says the painting made mornings better without claiming clinical efficacy."
+    },
+    {
+      "t": 68,
+      "to": "narrative openness",
+      "relationship": "A lack of fixed explanation allows different stories to emerge."
+    },
+    {
+      "t": 70,
+      "to": "artist intent",
+      "relationship": "The speaker recalls no explanatory message from Choe."
+    },
+    {
+      "t": 80,
+      "to": "art theory",
+      "relationship": "The claim that art should not need a letter is the speaker’s preference."
+    },
+    {
+      "t": 88,
+      "to": "repeated reinterpretation",
+      "relationship": "The same object yields changing stories over time."
+    },
+    {
+      "t": 93,
+      "to": "detail discovery",
+      "relationship": "Sustained attention reveals previously unnoticed features."
+    },
+    {
+      "t": 99,
+      "to": "personal testimony",
+      "relationship": "The conclusion rests on one viewer’s lived experience."
+    },
+    {
+      "t": 101,
+      "to": "clipped conclusion",
+      "relationship": "The claim about how Choe’s art works lacks its final comparison/predicate."
+    }
+  ],
+  "source_notes": [
+    "Multicom Entertainment upload titled as a Kevin Smith interview from David Choe: High Risk.",
+    "Automatic captions contain 49 segments / 373 words / 1:48.",
+    "The speaker identity is source-level, not publisher-prefixed per line.",
+    "Mulder is the repaired dog name.",
+    "Yellow Lab is the repaired breed phrase.",
+    "The source itself uses “crippled”; the record adds accessible context without censoring it.",
+    "The scarf sling/hoisting account is not veterinary guidance.",
+    "The phrase “last year of my life” likely refers to the dog-care period but is syntactically ambiguous.",
+    "David Choe’s painting repairs “ch’s/Joe’s painting.”",
+    "The artwork title, date, medium and dimensions are absent.",
+    "Gift provenance is the speaker’s claim.",
+    "“Our podcast” is contextually likely but still listening-confirmation-worthy.",
+    "No explanatory artist message is the speaker’s recollection.",
+    "The painting’s mood effect is personal testimony.",
+    "The final predicate after “works like a” is missing.",
+    "Source profanity masks remain masked."
+  ],
+  "content_warnings": [
+    "pet death/grief",
+    "animal disability",
+    "source term “crippled”",
+    "animal-care mechanics",
+    "source-masked profanity",
+    "art/mood efficacy overreading",
+    "private-home context",
+    "gift/provenance uncertainty",
+    "ambiguous chronology",
+    "clip truncation"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; title attribution is not a publisher speaker prefix"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve the source term “crippled,” grief, care mechanics and profanity masks uncensored while adding accessible context separately"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not present the scarf sling, hoisting or elevator routine as animal-care or accessibility instruction"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not turn one viewer’s reported mood improvement into clinical or universal art efficacy"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not infer artwork title, value, dimensions, private address or stronger provenance than the speaker states"
+    },
+    {
+      "t": -0.01,
+      "rule": "do not complete “his art works like a…” or other masked/uncertain text without audio evidence"
+    },
+    {
+      "t": 0,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 1,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 3,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 5,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 7,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 9,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 11,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 13,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 14,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 16,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 17,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 20,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 22,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 25,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 28,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 30,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 33,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 35,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 38,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 41,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 44,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 45,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 47,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 50,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 53,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 54,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 56,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 60,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 62,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 64,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 66,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 68,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 70,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 72,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 76,
+      "rule": "retain source mask/uncertainty and do not invent missing words"
+    },
+    {
+      "t": 76.5,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 78,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 80,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 82,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 84,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 86,
+      "rule": "preserve as attributed care history; do not present improvised lifting as veterinary, mobility or accessibility guidance"
+    },
+    {
+      "t": 88,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 90,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 91,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 93,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 96,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 99,
+      "rule": "preserve within the complete grief/care/art chronology; do not infer a named turn"
+    },
+    {
+      "t": 101,
+      "rule": "preserve as the speaker’s viewing experience/opinion; do not claim universal or clinical efficacy"
+    },
+    {
+      "t": 106,
+      "rule": "retain source mask/uncertainty and do not invent missing words"
+    }
+  ]
+}

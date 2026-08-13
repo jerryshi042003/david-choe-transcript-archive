@@ -1,0 +1,704 @@
+{
+  "episode_id": "CF0o5-EOWb4",
+  "title": "The Unofficial Choe Show Trailer on Hulu",
+  "reviewed_on": "2026-07-31",
+  "summary": "A two-minute official-channel promotional montage combining multiple voices and music. It begins with a first-person account of addiction, loss of control, self-dislike, childhood trauma, lying, repeated promises to stop, pleasure intertwined with shame and self-directed “perv/monster” labels. A reacting voice describes identification and retrospective acceptance. After music, other fragments move through shared brokenness, emotions in the body, a feelings check, affirmation, an inner-child address to “little David” about fear of being sent away, and an exchange ending “Can you love yourself?” / “I’m gonna try.” Every difficult admission remains uncensored. Addiction is self-identification rather than external diagnosis; private conduct is not inferred; inner-child language is guided dialogue rather than recovered memory or complete biography. Four damaged clauses remain listening-required. Montage cuts and spoken “Dave” do not create publisher-labeled turns; zero named turns ship.",
+  "quality": {
+    "raw_segments": 54,
+    "clean_segments": 54,
+    "raw_words_approx": 311,
+    "clean_words_approx": 311,
+    "duration_seconds": 120,
+    "accepted_context_decisions": 57,
+    "chapters": 57,
+    "connections": 24,
+    "content_warnings": 14,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 63
+  },
+  "speaker_policy": {
+    "status": "multi-speaker promotional montage unresolved",
+    "reason": "Music and editing join several voices without caption prefixes. Spoken “Dave/little David” establishes address, not full turn identity. Publish zero named turns and require held-out audiovisual validation before any enrollment."
+  },
+  "people": [
+    "David Choe (addressed as Dave/little David; line-level turns unresolved)",
+    "multiple unidentified Choe Show participants",
+    "imagined/inner-child “little David” (not a separate real speaker)",
+    "speaker’s parents in guided dialogue"
+  ],
+  "places": [
+    "unidentified Choe Show sets/private spaces"
+  ],
+  "works": [
+    "The Unofficial Choe Show Trailer on Hulu",
+    "The Choe Show",
+    "unresolved show clips/episodes"
+  ],
+  "themes": [
+    "fear",
+    "addiction self-identification",
+    "loss of control",
+    "self-dislike",
+    "internal critic",
+    "childhood trauma",
+    "lying",
+    "compulsion",
+    "pleasure/shame cycle",
+    "body/private-space shame",
+    "pain",
+    "shared brokenness",
+    "embodied emotion",
+    "feelings check",
+    "affirmation",
+    "inner child",
+    "abandonment fear",
+    "self-love"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "speaker reports fear"
+    },
+    {
+      "t": 3,
+      "title": "fear while watching the other person’s show"
+    },
+    {
+      "t": 5,
+      "title": "could not fully let themself enjoy it"
+    },
+    {
+      "t": 7,
+      "title": "speaker self-identifies as an addict"
+    },
+    {
+      "t": 11,
+      "title": "self-described loss of control"
+    },
+    {
+      "t": 15,
+      "title": "reports escalating behaviors"
+    },
+    {
+      "t": 19,
+      "title": "large part of self-image"
+    },
+    {
+      "t": 21,
+      "title": "self-dislike"
+    },
+    {
+      "t": 23,
+      "title": "internal/self-critical voice: “you’re a joke”"
+    },
+    {
+      "t": 24,
+      "title": "internal/self-critical denial of artistic identity"
+    },
+    {
+      "t": 26,
+      "title": "speaker attributes weight to childhood trauma"
+    },
+    {
+      "t": 27,
+      "title": "current behavior combined with prior trauma"
+    },
+    {
+      "t": 30,
+      "title": "lying included in the burden"
+    },
+    {
+      "t": 31,
+      "title": "[damaged clause involving work]"
+    },
+    {
+      "t": 33,
+      "title": "combined burden weighed on speaker"
+    },
+    {
+      "t": 34,
+      "title": "repeated promise to stop"
+    },
+    {
+      "t": 38,
+      "title": "“fooling around” [behavior intentionally nonspecific]"
+    },
+    {
+      "t": 39,
+      "title": "reports inability to stop"
+    },
+    {
+      "t": 42,
+      "title": "pleasure followed immediately by shame"
+    },
+    {
+      "t": 44,
+      "title": "shame intertwined with pleasure"
+    },
+    {
+      "t": 46,
+      "title": "interpreted the behavior/body experience as bad"
+    },
+    {
+      "t": 48,
+      "title": "body-related shame"
+    },
+    {
+      "t": 49,
+      "title": "private-space/body context"
+    },
+    {
+      "t": 52,
+      "title": "self-directed “perv” label"
+    },
+    {
+      "t": 54,
+      "title": "self-directed “monster” label"
+    },
+    {
+      "t": 55,
+      "title": "[uncertain “no earning/learning in it” phrase]"
+    },
+    {
+      "t": 57,
+      "title": "speaker identifies enduring pain as the remaining lesson/value"
+    },
+    {
+      "t": 59,
+      "title": "another speaker reports the account disrupts their framework"
+    },
+    {
+      "t": 60,
+      "title": "brief reaction"
+    },
+    {
+      "t": 61,
+      "title": "agreement/acknowledgment"
+    },
+    {
+      "t": 62,
+      "title": "reports strong personal impact"
+    },
+    {
+      "t": 63,
+      "title": "expresses identification with prior speaker"
+    },
+    {
+      "t": 65,
+      "title": "credits current position to prior events"
+    },
+    {
+      "t": 68,
+      "title": "all prior events included"
+    },
+    {
+      "t": 70,
+      "title": "counterfactual acceptance of life sequence"
+    },
+    {
+      "t": 72,
+      "title": "music/montage transition"
+    },
+    {
+      "t": 75,
+      "title": "speaker generalizes that everyone has brokenness"
+    },
+    {
+      "t": 79,
+      "title": "cracks/brokenness metaphor"
+    },
+    {
+      "t": 81,
+      "title": "light-through-cracks metaphor"
+    },
+    {
+      "t": 84,
+      "title": "love, joy and sadness"
+    },
+    {
+      "t": 87,
+      "title": "asks where emotions are felt in the body"
+    },
+    {
+      "t": 88,
+      "title": "[damaged response: “my brain feels/hearing”]"
+    },
+    {
+      "t": 91,
+      "title": "feelings check"
+    },
+    {
+      "t": 91.5,
+      "title": "affirmation: “you’re beautiful”"
+    },
+    {
+      "t": 93,
+      "title": "urges internal acceptance of the affirmation"
+    },
+    {
+      "t": 94,
+      "title": "external judgment is discounted"
+    },
+    {
+      "t": 97,
+      "title": "inner-child address to “little David”"
+    },
+    {
+      "t": 98,
+      "title": "fear of being sent away"
+    },
+    {
+      "t": 99,
+      "title": "[uncertain clause before reassurance]"
+    },
+    {
+      "t": 100,
+      "title": "repeated inner-child address"
+    },
+    {
+      "t": 102,
+      "title": "adult self is no longer under parents’ control/care"
+    },
+    {
+      "t": 104,
+      "title": "reassurance against abandonment/placement fear"
+    },
+    {
+      "t": 105,
+      "title": "self-reassurance"
+    },
+    {
+      "t": 110,
+      "title": "one participant says “I love you, Dave”"
+    },
+    {
+      "t": 111,
+      "title": "asks Dave whether he can love himself"
+    },
+    {
+      "t": 113,
+      "title": "response commits to trying"
+    },
+    {
+      "t": 114,
+      "title": "music/outro"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "fear of watching",
+      "relationship": "The opening speaker cannot simply enjoy the show because it activates fear about their own addictive pattern."
+    },
+    {
+      "t": 7,
+      "to": "addict self-identification",
+      "relationship": "Addiction language is first-person identity, not an archive diagnosis."
+    },
+    {
+      "t": 15,
+      "to": "escalation",
+      "relationship": "Taking things far is linked to loss of control."
+    },
+    {
+      "t": 21,
+      "to": "self-dislike",
+      "relationship": "Compulsion is rooted by the speaker in a disliked part of self."
+    },
+    {
+      "t": 23,
+      "to": "internal critic",
+      "relationship": "“Joke/not an artist” appears as harsh self-talk rather than an external review."
+    },
+    {
+      "t": 26,
+      "to": "childhood trauma",
+      "relationship": "Trauma, behavior, lying and work are combined in the speaker’s causal account."
+    },
+    {
+      "t": 34,
+      "to": "promise-and-relapse cycle",
+      "relationship": "A vow to stop is followed by reported inability to stop."
+    },
+    {
+      "t": 42,
+      "to": "pleasure/shame cycle",
+      "relationship": "Pleasure and shame occur as one intertwined sequence."
+    },
+    {
+      "t": 48,
+      "to": "body/private-space shame",
+      "relationship": "The speaker keeps the behavior nonspecific while locating shame around body and privacy."
+    },
+    {
+      "t": 52,
+      "to": "perv/monster self-labels",
+      "relationship": "Severe moralized labels are self-directed and not adopted by the archive."
+    },
+    {
+      "t": 55,
+      "to": "uncertain learning phrase",
+      "relationship": "Caption damage blocks a confident transition into enduring pain."
+    },
+    {
+      "t": 59,
+      "to": "second-speaker impact",
+      "relationship": "A montage cut moves from confession to another person’s reaction."
+    },
+    {
+      "t": 63,
+      "to": "identification",
+      "relationship": "The reacting speaker says the account mirrors their own experience."
+    },
+    {
+      "t": 65,
+      "to": "retrospective acceptance",
+      "relationship": "Current life is credited to every prior event occurring as it did."
+    },
+    {
+      "t": 72,
+      "to": "music transition",
+      "relationship": "The trailer moves into a different therapeutic/philosophical montage."
+    },
+    {
+      "t": 75,
+      "to": "shared brokenness",
+      "relationship": "A universal metaphor reduces isolation but is not a diagnosis."
+    },
+    {
+      "t": 79,
+      "to": "light through cracks",
+      "relationship": "Brokenness is reframed as the location of light."
+    },
+    {
+      "t": 84,
+      "to": "embodied emotions",
+      "relationship": "Love, joy and sadness lead into a body-location prompt."
+    },
+    {
+      "t": 91,
+      "to": "feelings check",
+      "relationship": "A named emotional-awareness practice precedes affirmation."
+    },
+    {
+      "t": 97,
+      "to": "little David",
+      "relationship": "The adult/inner-child exercise addresses fear of being sent away."
+    },
+    {
+      "t": 102,
+      "to": "parental separation",
+      "relationship": "The adult self reassures the child-self that the old parental context no longer controls the present."
+    },
+    {
+      "t": 104,
+      "to": "abandonment reassurance",
+      "relationship": "The exercise answers placement fear with present safety."
+    },
+    {
+      "t": 110,
+      "to": "interpersonal love",
+      "relationship": "One participant’s love leads directly to the question of self-love."
+    },
+    {
+      "t": 113,
+      "to": "trying",
+      "relationship": "The response avoids a false instant cure and commits only to trying."
+    }
+  ],
+  "source_notes": [
+    "Official David Choe channel upload.",
+    "Automatic captions contain 54 segments / 311 words / 2:00.",
+    "The upload calls itself an unofficial trailer and references Hulu.",
+    "Music separates multiple source fragments.",
+    "No caption prefixes label speakers.",
+    "Addiction is explicit first-person self-identification.",
+    "The exact compulsive/private behavior is not stated.",
+    "“Perv” and “monster” are self-directed shame labels.",
+    "The work-related clause near 31 seconds is damaged.",
+    "The “earning/learning” phrase near 55 seconds is unresolved.",
+    "“My brain feels hearing” is damaged.",
+    "The clause before the second “little David” is damaged.",
+    "Brokenness/cracks/light is metaphor, not diagnosis.",
+    "The feelings check and inner-child dialogue are practices depicted in the montage, not validated treatment.",
+    "Parent/sent-away material is not independently verified biography.",
+    "“I love you, Dave” is audible address but not a full diarization label.",
+    "The final “I’m gonna try” preserves uncertainty rather than claiming instant healing.",
+    "Music is excluded from enrollment.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "addiction",
+    "loss of control",
+    "self-hatred",
+    "childhood trauma",
+    "lying",
+    "compulsive behavior",
+    "sexual/body shame",
+    "self-directed stigmatizing labels",
+    "pain",
+    "abandonment fear",
+    "parental context",
+    "inner-child work",
+    "therapy overreading",
+    "caption damage"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; montage voices have no publisher prefixes"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve all addiction, trauma, lying, pleasure, shame, body/private-space and self-label language uncensored"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not diagnose any speaker or infer the unstated private/sexual behavior"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not treat inner-child dialogue as recovered memory, complete biography, therapy protocol or efficacy proof"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not isolate “perv,” “monster,” parental separation or sent-away lines as identity labels or allegations"
+    },
+    {
+      "t": -0.01,
+      "rule": "retain music/cut boundaries and four listening-required clauses; do not smooth montage into one confession"
+    },
+    {
+      "t": 0,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 3,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 5,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 7,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 11,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 15,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 19,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 21,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 23,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 24,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 26,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 27,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 30,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 31,
+      "rule": "retain uncertainty and require listening; do not invent smoother wording"
+    },
+    {
+      "t": 33,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 34,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 38,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 39,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 42,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 44,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 46,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 48,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 49,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 52,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 54,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 55,
+      "rule": "retain uncertainty and require listening; do not invent smoother wording"
+    },
+    {
+      "t": 57,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 59,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 60,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 61,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 62,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 63,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 65,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 68,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 70,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 72,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 75,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 79,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 81,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 84,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 87,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 88,
+      "rule": "retain uncertainty and require listening; do not invent smoother wording"
+    },
+    {
+      "t": 91,
+      "rule": "preserve as guided/inner-child dialogue; do not assert recovered memory, treatment efficacy or a complete biography"
+    },
+    {
+      "t": 91.5,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 93,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 94,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 97,
+      "rule": "preserve as guided/inner-child dialogue; do not assert recovered memory, treatment efficacy or a complete biography"
+    },
+    {
+      "t": 98,
+      "rule": "preserve as guided/inner-child dialogue; do not assert recovered memory, treatment efficacy or a complete biography"
+    },
+    {
+      "t": 99,
+      "rule": "retain uncertainty and require listening; do not invent smoother wording"
+    },
+    {
+      "t": 100,
+      "rule": "preserve as guided/inner-child dialogue; do not assert recovered memory, treatment efficacy or a complete biography"
+    },
+    {
+      "t": 102,
+      "rule": "preserve uncensored as first-person self-report/self-label; do not diagnose, specify unstated conduct or adopt the moralized label"
+    },
+    {
+      "t": 104,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 105,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 110,
+      "rule": "preserve in chronological context; do not infer a named turn"
+    },
+    {
+      "t": 111,
+      "rule": "preserve as guided/inner-child dialogue; do not assert recovered memory, treatment efficacy or a complete biography"
+    },
+    {
+      "t": 113,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    },
+    {
+      "t": 114,
+      "rule": "retain montage boundary and exclude from identity/enrollment inference"
+    }
+  ]
+}

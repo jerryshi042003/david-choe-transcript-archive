@@ -1,0 +1,361 @@
+{
+  "episode_id": "97We1F1yFw4",
+  "title": "Experience Pure Joy: Wake UP and Play",
+  "reviewed_on": "2026-07-31",
+  "summary": "A one-minute official-channel guided visualization. A wake-up/play/new-day refrain leads into an invitation to imagine oneself as a child before harm, knowing only goodness, love and joy, laughing and playing outside while receiving abundant love. The final instruction is simply to feel that image. Every word remains, but the scene is explicitly optional and imagined: many listeners do not have a pain-free childhood point, and the source does not establish a recovered memory, universal developmental truth, trauma treatment or David Choe biography. It is cataloged as a performed visualization rather than factual testimony. No caption turn is publisher-labeled; zero named turns ship.",
+  "quality": {
+    "raw_segments": 7,
+    "clean_segments": 7,
+    "raw_words_approx": 110,
+    "clean_words_approx": 110,
+    "duration_seconds": 61,
+    "accepted_context_decisions": 22,
+    "chapters": 22,
+    "connections": 15,
+    "content_warnings": 8,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 28
+  },
+  "speaker_policy": {
+    "status": "all line-level turns unresolved",
+    "reason": "Official David Choe channel provenance establishes source context, not a publisher-labeled performer turn. The short single-voice exercise is not accepted for enrollment without held-out audiovisual validation. Publish zero named turns."
+  },
+  "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)",
+    "imagined child-self/listener"
+  ],
+  "places": [
+    "imagined outdoor play setting",
+    "unidentified recording setting"
+  ],
+  "works": [
+    "Experience Pure Joy: Wake UP and Play",
+    "unresolved parent Choe Show/wellness segment"
+  ],
+  "themes": [
+    "wakefulness",
+    "play",
+    "new day",
+    "child-self",
+    "guided imagery",
+    "pre-harm idealization",
+    "goodness",
+    "love",
+    "joy",
+    "laughter",
+    "receiving care",
+    "outdoor play",
+    "felt experience"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "group wake-up invitation"
+    },
+    {
+      "t": 2,
+      "title": "repeated wake-up refrain"
+    },
+    {
+      "t": 4,
+      "title": "play invitation"
+    },
+    {
+      "t": 6,
+      "title": "new-day refrain"
+    },
+    {
+      "t": 11,
+      "title": "visualize yourself as a child"
+    },
+    {
+      "t": 14,
+      "title": "imagine a time before harm"
+    },
+    {
+      "t": 20,
+      "title": "imagined childhood state of goodness"
+    },
+    {
+      "t": 22,
+      "title": "imagined childhood state of love"
+    },
+    {
+      "t": 24,
+      "title": "imagined childhood state of joy"
+    },
+    {
+      "t": 25,
+      "title": "visualized child laughing"
+    },
+    {
+      "t": 27,
+      "title": "visualized child playing"
+    },
+    {
+      "t": 29,
+      "title": "imagine/experience a child-self perspective"
+    },
+    {
+      "t": 32,
+      "title": "visualize receiving abundant love"
+    },
+    {
+      "t": 38,
+      "title": "within the imagined childhood scene"
+    },
+    {
+      "t": 40,
+      "title": "imagined absence of pain"
+    },
+    {
+      "t": 42,
+      "title": "imagined absence of misery"
+    },
+    {
+      "t": 43,
+      "title": "imagined absence of bitterness"
+    },
+    {
+      "t": 45,
+      "title": "joy-and-love refrain"
+    },
+    {
+      "t": 47,
+      "title": "explicit mental visualization"
+    },
+    {
+      "t": 50,
+      "title": "visualize laughing during play"
+    },
+    {
+      "t": 53,
+      "title": "outdoor-play image"
+    },
+    {
+      "t": 56,
+      "title": "brief invitation to notice the imagined feeling"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "wake-up refrain",
+      "relationship": "Repetition creates a collective, energizing entry."
+    },
+    {
+      "t": 4,
+      "to": "play",
+      "relationship": "Play is the exercise’s central action rather than a productivity demand."
+    },
+    {
+      "t": 6,
+      "to": "new day",
+      "relationship": "A fresh-day image prepares the emotional reset."
+    },
+    {
+      "t": 11,
+      "to": "child-self visualization",
+      "relationship": "The listener is explicitly asked to imagine, not verify, a childhood self."
+    },
+    {
+      "t": 14,
+      "to": "before harm",
+      "relationship": "The exercise assumes an idealized pre-harm point that may not exist in every biography."
+    },
+    {
+      "t": 20,
+      "to": "goodness/love/joy triad",
+      "relationship": "Three positive states define the imagined child."
+    },
+    {
+      "t": 25,
+      "to": "laughter and play",
+      "relationship": "Embodied child actions replace abstract description."
+    },
+    {
+      "t": 29,
+      "to": "experiential perspective",
+      "relationship": "The listener is invited to inhabit the imagined child perspective."
+    },
+    {
+      "t": 32,
+      "to": "receiving love",
+      "relationship": "Love is framed as abundant and receptive, not earned."
+    },
+    {
+      "t": 38,
+      "to": "scene boundary",
+      "relationship": "“At this point” refers to the constructed image rather than an established life stage."
+    },
+    {
+      "t": 40,
+      "to": "absence of pain",
+      "relationship": "Painlessness remains aspirational imagery, not a childhood-history claim."
+    },
+    {
+      "t": 45,
+      "to": "joy/love refrain",
+      "relationship": "The positive pair closes the imagined developmental state."
+    },
+    {
+      "t": 47,
+      "to": "mental image",
+      "relationship": "The exercise explicitly locates the scene in the mind."
+    },
+    {
+      "t": 53,
+      "to": "outdoor play",
+      "relationship": "A simple external scene anchors the visualization."
+    },
+    {
+      "t": 56,
+      "to": "felt close",
+      "relationship": "The final instruction asks only for momentary contact with the imagined feeling."
+    }
+  ],
+  "source_notes": [
+    "Official David Choe channel upload.",
+    "Automatic captions contain seven long records / 110 words / 1:01.",
+    "This is a guided visualization, not an autobiographical account.",
+    "The listener, rather than the speaker, is the imagined child.",
+    "The harm-free premise is idealized and may not match every listener.",
+    "Nothing in the clip verifies a recovered memory.",
+    "Nothing in the clip establishes treatment efficacy.",
+    "The source does not diagnose trauma or prescribe care.",
+    "Goodness/love/joy are exercise imagery rather than historical fact.",
+    "Playing outside is part of the constructed scene.",
+    "The final instruction is brief and non-operational.",
+    "No publisher speaker prefixes exist.",
+    "No music or separate speaker is caption-labeled.",
+    "Raw wording remains immutable."
+  ],
+  "content_warnings": [
+    "idealized childhood and trauma sensitivity",
+    "pain/misery references",
+    "guided visualization",
+    "recovered-memory confusion",
+    "therapy overreading",
+    "possible emotional distress",
+    "child-self imagery",
+    "universalization risk"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; no publisher speaker prefixes exist"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve the full visualization uncensored but label it optional and imagined"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not claim every person had a pre-harm, love-only childhood state"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not present the exercise as recovered-memory work, trauma treatment, meditation efficacy or clinical advice"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not infer David Choe’s childhood biography from second-person instructions"
+    },
+    {
+      "t": -0.01,
+      "rule": "allow users to skip the exercise; do not frame distress or inability to visualize as failure"
+    },
+    {
+      "t": 0,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    },
+    {
+      "t": 2,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    },
+    {
+      "t": 4,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    },
+    {
+      "t": 6,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    },
+    {
+      "t": 11,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 14,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 20,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 22,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 24,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 25,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 27,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 29,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 32,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 38,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 40,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 42,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 43,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 45,
+      "rule": "preserve as optional imagined language; do not state a universal childhood, recovered memory, trauma history or biographical fact"
+    },
+    {
+      "t": 47,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    },
+    {
+      "t": 50,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    },
+    {
+      "t": 53,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    },
+    {
+      "t": 56,
+      "rule": "preserve as guided-exercise wording; do not convert into clinical or therapeutic instruction"
+    }
+  ]
+}

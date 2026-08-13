@@ -1,0 +1,515 @@
+{
+  "episode_id": "DMNkQnBl2ao",
+  "title": "Why Artists Stay Stuck — And How to Get Free",
+  "editorial_title": "Artists, identity and practiced discomfort",
+  "reviewed_on": "2026-08-01",
+  "summary": "A performed monologue argues that artist identity can narrow a life, then tests a comfort-zone answer through filming, self-implication and volatile paper dialogue. Every diagnosis-like, health, substance, self-harm, success and spiritual claim remains attributed rather than converted into fact or advice.",
+  "speaker_policy": {
+    "status": "single monologue with performed objections and paper dialogue; identity withheld",
+    "reason": "Channel/title context suggests David Choe, but captions contain no prefix and held-out acoustic/video validation has not passed; Dave and camera-guy references do not create speakers."
+  },
+  "quality": {
+    "raw_segments": 70,
+    "clean_segments": 70,
+    "raw_words_approx": 1235,
+    "duration_seconds": 429,
+    "accepted_context_decisions": 70,
+    "chapters": 40,
+    "connections": 12,
+    "content_warnings": 11,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 5,
+    "public_restriction_spans": 40
+  },
+  "themes": [
+    "artist identity",
+    "stuckness",
+    "self-criticism and self-ranking",
+    "childhood validation",
+    "body and social cost",
+    "craft isolation",
+    "nutrition and substance rhetoric",
+    "self-harm wording",
+    "success and audience metrics",
+    "comfort-zone practice",
+    "community",
+    "recording discomfort",
+    "illness self-report",
+    "performed paper dialogue"
+  ],
+  "people": [
+    "David Choe (publisher/title context; no named turn)",
+    "unidentified monologue speaker",
+    "Dave (performed self-address)",
+    "unidentified camera operator",
+    "unknown viewers and people met in public"
+  ],
+  "places": [
+    "studio",
+    "streets/public meeting space",
+    "meat section (literal wording unresolved)",
+    "online video platforms"
+  ],
+  "works": [
+    "Why Artists Stay Stuck — And How to Get Free",
+    "generic Disney movies",
+    "YouTube",
+    "Netflix",
+    "unidentified podcast"
+  ],
+  "chapters": [
+    {
+      "t": 0.16,
+      "title": "artists do not know how to talk / stuck refrain"
+    },
+    {
+      "t": 10.4,
+      "title": "intuition / telepathic-message rhetoric"
+    },
+    {
+      "t": 19.36,
+      "title": "push beyond comfort / why artists are petty"
+    },
+    {
+      "t": 26.4,
+      "title": "switch from we to I / self-criticism"
+    },
+    {
+      "t": 31.36,
+      "title": "greatest-artist self-ranking"
+    },
+    {
+      "t": 42.08,
+      "title": "petty, passive-aggressive and jealous"
+    },
+    {
+      "t": 54.4,
+      "title": "identity / LGBTQA / sensitive artist / S.A."
+    },
+    {
+      "t": 61.04,
+      "title": "young-age validation theory"
+    },
+    {
+      "t": 74.56,
+      "title": "full validation / forehead label"
+    },
+    {
+      "t": 80.88,
+      "title": "basketball validation example"
+    },
+    {
+      "t": 91.44,
+      "title": "posture, pain, skin and cramped hands"
+    },
+    {
+      "t": 104.08,
+      "title": "feelings/body check / atrophy"
+    },
+    {
+      "t": 124.4,
+      "title": "soul, body and social skills"
+    },
+    {
+      "t": 130.48,
+      "title": "drawing alone / honing craft"
+    },
+    {
+      "t": 143.12,
+      "title": "missed parties, birthdays and functions"
+    },
+    {
+      "t": 151.92,
+      "title": "dependably undependable / awkwardness"
+    },
+    {
+      "t": 164.56,
+      "title": "nutrition, caffeine, alcohol and drugs"
+    },
+    {
+      "t": 168.48,
+      "title": "who gets hurt / I hurt myself"
+    },
+    {
+      "t": 185.6,
+      "title": "Dave raises his hand / performed reply"
+    },
+    {
+      "t": 190.88,
+      "title": "wrong answer: work and draw harder"
+    },
+    {
+      "t": 197.36,
+      "title": "sell more / bigger show / approval"
+    },
+    {
+      "t": 201.84,
+      "title": "fans, likes, comments and unsubscribe"
+    },
+    {
+      "t": 208.08,
+      "title": "True You / generic Disney remembrance"
+    },
+    {
+      "t": 219.36,
+      "title": "hat, camera and demand for an answer"
+    },
+    {
+      "t": 230.24,
+      "title": "clothes, jumpsuit, age and toddler image"
+    },
+    {
+      "t": 239.52,
+      "title": "hat and YouTube discomfort"
+    },
+    {
+      "t": 250.48,
+      "title": "filming as discomfort and connection"
+    },
+    {
+      "t": 268.92,
+      "title": "music / action / unknown viewer"
+    },
+    {
+      "t": 278.88,
+      "title": "trusting someone is out there"
+    },
+    {
+      "t": 285.84,
+      "title": "streets / meat section / community"
+    },
+    {
+      "t": 295.6,
+      "title": "pushing past comfort to meet self"
+    },
+    {
+      "t": 317.28,
+      "title": "comfort zone: drawing alone"
+    },
+    {
+      "t": 325.28,
+      "title": "YouTube, Netflix and podcast background"
+    },
+    {
+      "t": 335.84,
+      "title": "explicit unfuck-yourself refrain"
+    },
+    {
+      "t": 341.84,
+      "title": "YouTube, drawing, costume and food actions"
+    },
+    {
+      "t": 347.12,
+      "title": "maté and damaged wellness phrases"
+    },
+    {
+      "t": 363.52,
+      "title": "less words, more action / cancellation urge"
+    },
+    {
+      "t": 381.76,
+      "title": "post-nasal drip, sickness and voice trouble"
+    },
+    {
+      "t": 398.16,
+      "title": "negative messages / eating-body cutoff"
+    },
+    {
+      "t": 406.64,
+      "title": "paper hug, heat, yelling and hate"
+    }
+  ],
+  "connections": [
+    {
+      "t": 26.4,
+      "to": "self-implication",
+      "relationship": "The speaker interrupts a general claim about artists and switches to I-statements."
+    },
+    {
+      "t": 54.4,
+      "to": "identity analogies",
+      "relationship": "Artist identity is compared to LGBTQA and the sensitive-artist abbreviation; the analogy remains attributed."
+    },
+    {
+      "t": 61.04,
+      "to": "childhood validation",
+      "relationship": "A lifelong artist identity is traced to early praise without becoming developmental fact."
+    },
+    {
+      "t": 91.44,
+      "to": "embodied cost of craft",
+      "relationship": "Pain, posture, skin and cramped hands are presented as artist badges and self-report."
+    },
+    {
+      "t": 130.48,
+      "to": "solitary mastery",
+      "relationship": "Honing craft is linked to lost social practice and missed life events."
+    },
+    {
+      "t": 168.48,
+      "to": "self-directed harm language",
+      "relationship": "Broad substance rhetoric narrows into repeated I hurt myself wording."
+    },
+    {
+      "t": 190.88,
+      "to": "success as false repair",
+      "relationship": "Better work, sales, shows and audience approval are staged as the inadequate answer."
+    },
+    {
+      "t": 208.08,
+      "to": "remember who you are",
+      "relationship": "Generic Disney language bridges audience metrics to the True You narrative."
+    },
+    {
+      "t": 250.48,
+      "to": "recording as practice",
+      "relationship": "The disliked YouTube format becomes the speaker's concrete comfort-zone exercise."
+    },
+    {
+      "t": 285.84,
+      "to": "community",
+      "relationship": "Unknown viewers connect online risk to hoped-for public conversation and grounding."
+    },
+    {
+      "t": 363.52,
+      "to": "action under reluctance",
+      "relationship": "The less-words refrain is tested against repeated urges to cancel filming."
+    },
+    {
+      "t": 406.64,
+      "to": "paper relationship",
+      "relationship": "The monologue ends by converting inward conflict into a hug-and-hate exchange with the paper."
+    }
+  ],
+  "source_notes": [
+    "All 70 source caption records remain aligned exactly once.",
+    "Exactly five raw-to-clean changes are accepted: S.A., honing twice, dependably undependable and likely maté.",
+    "Meat section remains literal because a grocery-section reading is plausible.",
+    "Growing-your-hair, source-of, eating/body and sick-day fragments remain damaged rather than fluently reconstructed.",
+    "Artist-stunting, telepathy and childhood-validation claims are attributed rhetoric/theory.",
+    "Body, pain, nutrition, caffeine, alcohol, drugs and illness remain self-report or generalization, not medical fact.",
+    "I hurt myself is preserved without inferring method, intent, crisis or present status.",
+    "Success and audience claims are performed as a wrong solution rather than editorial advice.",
+    "The apparent objections, Dave exchange and paper dialogue are performed within one monologue.",
+    "Recording-time age, clothing, illness and preferences are not promoted to current biography.",
+    "No named speaker turn or voice-enrollment window is published.",
+    "No idea is deleted for discomfort, profanity, stigma or contradiction."
+  ],
+  "content_warnings": [
+    "diagnosis-like and stigmatizing language about artists",
+    "LGBTQA identity analogy",
+    "chronic pain and bodily-atrophy descriptions",
+    "nutrition, caffeine, alcohol and drug-problem language",
+    "repeated I hurt myself wording",
+    "harsh self-criticism and self-aggrandizement",
+    "explicit profanity",
+    "same-day sickness and voice-trouble self-report",
+    "telepathy and spiritual/self-help rhetoric",
+    "anger, yelling and repeated I hate you",
+    "damaged caption phrases that remain unresolved"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0.16,
+      "title": "artists do not know how to talk / stuck refrain",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 10.4,
+      "title": "intuition / telepathic-message rhetoric",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 19.36,
+      "title": "push beyond comfort / why artists are petty",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 26.4,
+      "title": "switch from we to I / self-criticism",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 31.36,
+      "title": "greatest-artist self-ranking",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 42.08,
+      "title": "petty, passive-aggressive and jealous",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 54.4,
+      "title": "identity / LGBTQA / sensitive artist / S.A.",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 61.04,
+      "title": "young-age validation theory",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 74.56,
+      "title": "full validation / forehead label",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 80.88,
+      "title": "basketball validation example",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 91.44,
+      "title": "posture, pain, skin and cramped hands",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 104.08,
+      "title": "feelings/body check / atrophy",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 124.4,
+      "title": "soul, body and social skills",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 130.48,
+      "title": "drawing alone / honing craft",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 143.12,
+      "title": "missed parties, birthdays and functions",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 151.92,
+      "title": "dependably undependable / awkwardness",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 164.56,
+      "title": "nutrition, caffeine, alcohol and drugs",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 168.48,
+      "title": "who gets hurt / I hurt myself",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 185.6,
+      "title": "Dave raises his hand / performed reply",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 190.88,
+      "title": "wrong answer: work and draw harder",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 197.36,
+      "title": "sell more / bigger show / approval",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 201.84,
+      "title": "fans, likes, comments and unsubscribe",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 208.08,
+      "title": "True You / generic Disney remembrance",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 219.36,
+      "title": "hat, camera and demand for an answer",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 230.24,
+      "title": "clothes, jumpsuit, age and toddler image",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 239.52,
+      "title": "hat and YouTube discomfort",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 250.48,
+      "title": "filming as discomfort and connection",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 268.92,
+      "title": "music / action / unknown viewer",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 278.88,
+      "title": "trusting someone is out there",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 285.84,
+      "title": "streets / meat section / community",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 295.6,
+      "title": "pushing past comfort to meet self",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 317.28,
+      "title": "comfort zone: drawing alone",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 325.28,
+      "title": "YouTube, Netflix and podcast background",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 335.84,
+      "title": "explicit unfuck-yourself refrain",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 341.84,
+      "title": "YouTube, drawing, costume and food actions",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 347.12,
+      "title": "maté and damaged wellness phrases",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 363.52,
+      "title": "less words, more action / cancellation urge",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 381.76,
+      "title": "post-nasal drip, sickness and voice trouble",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 398.16,
+      "title": "negative messages / eating-body cutoff",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    },
+    {
+      "t": 406.64,
+      "title": "paper hug, heat, yelling and hate",
+      "rule": "attribute to the unidentified monologue speaker and preserve exact idea; do not infer diagnosis, causal science, treatment, crisis, self-harm method/intent, substance history, universal artist trait, queer-identity fact, current age/health/status, second speaker, paper agency or named voice; retain unresolved wording"
+    }
+  ]
+}

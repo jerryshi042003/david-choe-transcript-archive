@@ -1,0 +1,1142 @@
+{
+  "episode_id": "-wZk4B1BB0c",
+  "title": "David Choe Tells Us About Meeting and Interviewing Frank Miller",
+  "reviewed_on": "2026-07-31",
+  "summary": "Ed Piskor and Jim Rugg ask David Choe to reconstruct a concentrated comics week built around Brian K. Vaughan, Dave Mandel, private original-art collections and an unexpected invitation to interview Frank Miller at LA Comic Con. Choe explains how Slow Jams, Jordan Crane, SPX and Juxtapoz formed his early comics identity; recounts pandemic pitches to artists he admires; and describes collecting, provenance and stewardship through a private Mandel collection visit. A separate Kayfabe advertisement interrupts the conversation from about 14:41 to 17:08. The central panel story preserves Choe's fear of meeting a hero, his preparation, Jock's presence, bad stage acoustics, an invented abuse theory that Miller's answer contradicts, institutional conflict over Choe's variant covers, a disruptive fan, and Miller's direct refusal to discuss Lynn Varley's private life. Dinner produces non-dominant-hand and eyes-closed drawings, but not an announced collaboration. Choe's realization that the encounter is enough even if no project happens is the emotional center. The close unexpectedly supplies Ranch provenance: Choe says about four Ranch Solo DVDASA episodes were released from roughly twenty recordings. He then describes hiring Roddy Piper to perform the monologues, including masked anti-Asian improvisation Choe explicitly requested. Every idea remains. Private relationships, homes, collections, security, unreleased projects, unnamed people, hate speech and sexual imagery are controlled by contextual restrictions rather than deletion. Five duplicate caption pairs are removed only in the clean layer. No line-level speaker names are published.",
+  "quality": {
+    "raw_segments": 2795,
+    "clean_segments": 2790,
+    "raw_words_approx": 18248,
+    "clean_words_approx": 18211,
+    "duration_seconds": 5678.08,
+    "accepted_context_decisions": 205,
+    "chapters": 127,
+    "connections": 24,
+    "content_warnings": 24,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 5,
+    "cleaning_net_word_delta": -37,
+    "public_restriction_spans": 62
+  },
+  "chapters": [
+    {
+      "t": 3,
+      "title": "opening music"
+    },
+    {
+      "t": 7,
+      "title": "Piskor, Rugg and Choe introduction"
+    },
+    {
+      "t": 28,
+      "title": "Slow Jams and early comics formation"
+    },
+    {
+      "t": 36,
+      "title": "Jordan Crane, NON and SPX"
+    },
+    {
+      "t": 42,
+      "title": "Bruised Fruit and Juxtapoz"
+    },
+    {
+      "t": 57,
+      "title": "returning to Cartoonist Kayfabe"
+    },
+    {
+      "t": 129,
+      "title": "Gerard Way and the view-count joke"
+    },
+    {
+      "t": 178,
+      "title": "Todd McFarlane, Jim Lee, Tim Truman and Bissette"
+    },
+    {
+      "t": 223,
+      "title": "Brian K. Vaughan and Dave Mandel dinner setup"
+    },
+    {
+      "t": 232,
+      "title": "Mandel television credits"
+    },
+    {
+      "t": 291,
+      "title": "Korean restaurant stereotype challenged"
+    },
+    {
+      "t": 302,
+      "title": "banchan and dinner ritual"
+    },
+    {
+      "t": 318,
+      "title": "pandemic comics outreach"
+    },
+    {
+      "t": 356,
+      "title": "Eddie Choi and unresolved Felix attribution"
+    },
+    {
+      "t": 368,
+      "title": "Quitely, Grampá, Warren Johnson and Hanselmann"
+    },
+    {
+      "t": 426,
+      "title": "Extremity, Wonder Woman and Beta Ray Bill"
+    },
+    {
+      "t": 468,
+      "title": "unmade collaboration proposals"
+    },
+    {
+      "t": 516,
+      "title": "Vaughan, Saga and Ex Machina"
+    },
+    {
+      "t": 568,
+      "title": "Dave Mandel joins dinner"
+    },
+    {
+      "t": 579,
+      "title": "The Bizarro Jerry"
+    },
+    {
+      "t": 596,
+      "title": "The Dark Knight Returns cover"
+    },
+    {
+      "t": 622,
+      "title": "Wimbledon Green and collector mythology"
+    },
+    {
+      "t": 642,
+      "title": "Scott Dunbier and Artist's Editions"
+    },
+    {
+      "t": 679,
+      "title": "objects, relationships and Bizarro selves"
+    },
+    {
+      "t": 728,
+      "title": "seeing art versus owning it"
+    },
+    {
+      "t": 790,
+      "title": "Neil Gaiman and comics objects"
+    },
+    {
+      "t": 866,
+      "title": "Daredevil and Elektra object remains unresolved"
+    },
+    {
+      "t": 881,
+      "title": "Cartoonist Kayfabe house advertisement begins"
+    },
+    {
+      "t": 914,
+      "title": "Red Room: The Antisocial Network promotion"
+    },
+    {
+      "t": 941,
+      "title": "Red Room: Trigger Warnings variants"
+    },
+    {
+      "t": 967,
+      "title": "Hulk: Grand Design promotion"
+    },
+    {
+      "t": 1028,
+      "title": "advertisement ends and collection visit resumes"
+    },
+    {
+      "t": 1079,
+      "title": "arrival at the private collection"
+    },
+    {
+      "t": 1200,
+      "title": "hoarder self-description"
+    },
+    {
+      "t": 1214,
+      "title": "floor-to-ceiling private collection"
+    },
+    {
+      "t": 1231,
+      "title": "high-value originals beside bootlegs"
+    },
+    {
+      "t": 1269,
+      "title": "bootleg Star Wars objects"
+    },
+    {
+      "t": 1310,
+      "title": "reported Bob Kane drawing"
+    },
+    {
+      "t": 1368,
+      "title": "Watterson, Schulz and newspaper strips"
+    },
+    {
+      "t": 1375,
+      "title": "Frazetta, Rockwell and Mucha"
+    },
+    {
+      "t": 1392,
+      "title": "Miller, Daredevil, Elektra and Watchmen art"
+    },
+    {
+      "t": 1421,
+      "title": "Mike Zeck, Brian Bolland and Art Adams"
+    },
+    {
+      "t": 1445,
+      "title": "limited permission to photograph"
+    },
+    {
+      "t": 1471,
+      "title": "Bizarro statue and duplicate-caption repair"
+    },
+    {
+      "t": 1508,
+      "title": "the collection is not for sale"
+    },
+    {
+      "t": 1537,
+      "title": "stewardship versus hoarding"
+    },
+    {
+      "t": 1667,
+      "title": "new wealth and original-art markets"
+    },
+    {
+      "t": 1727,
+      "title": "last-minute Frank Miller invitation"
+    },
+    {
+      "t": 1801,
+      "title": "fear of meeting a hero"
+    },
+    {
+      "t": 1892,
+      "title": "soliciting questions from comics readers"
+    },
+    {
+      "t": 1911,
+      "title": "Miller's early zines remain bibliographically unresolved"
+    },
+    {
+      "t": 1948,
+      "title": "unnamed musician and signature-song fatigue"
+    },
+    {
+      "t": 1984,
+      "title": "projection about legacy questions"
+    },
+    {
+      "t": 2041,
+      "title": "Jock accepts first"
+    },
+    {
+      "t": 2068,
+      "title": "LA Comic Con arrival"
+    },
+    {
+      "t": 2131,
+      "title": "changed visibility after The Choe Show"
+    },
+    {
+      "t": 2183,
+      "title": "unresolved Mandalorian panel"
+    },
+    {
+      "t": 2222,
+      "title": "first sight of Frank Miller"
+    },
+    {
+      "t": 2266,
+      "title": "blank sketch covers"
+    },
+    {
+      "t": 2287,
+      "title": "reacting to Miller's later drawing style"
+    },
+    {
+      "t": 2322,
+      "title": "visible pencils under loose marker"
+    },
+    {
+      "t": 2361,
+      "title": "Miller representative introduced as Celine"
+    },
+    {
+      "t": 2412,
+      "title": "meeting Jock"
+    },
+    {
+      "t": 2467,
+      "title": "seconds before the open-stage panel"
+    },
+    {
+      "t": 2564,
+      "title": "Carrie Kelley cosplay and stage shock"
+    },
+    {
+      "t": 2594,
+      "title": "five vocal Choe fans, not hundreds"
+    },
+    {
+      "t": 2633,
+      "title": "opening with Miller's parents"
+    },
+    {
+      "t": 2710,
+      "title": "three family-support recollections"
+    },
+    {
+      "t": 2799,
+      "title": "invented abusive-father theory"
+    },
+    {
+      "t": 2863,
+      "title": "supportive-mother answer contradicts projection"
+    },
+    {
+      "t": 2921,
+      "title": "provocative Miller imagery in historical context"
+    },
+    {
+      "t": 2954,
+      "title": "DIY independence from major publishers"
+    },
+    {
+      "t": 3014,
+      "title": "variant covers as childhood wish fulfillment"
+    },
+    {
+      "t": 3076,
+      "title": "Raphael and The Last Ronin"
+    },
+    {
+      "t": 3123,
+      "title": "fine-art and comics editorial conflict"
+    },
+    {
+      "t": 3144,
+      "title": "Lynn Varley's color and collaboration"
+    },
+    {
+      "t": 3199,
+      "title": "Choe admits projecting onto Miller"
+    },
+    {
+      "t": 3223,
+      "title": "criticizing Jock's formal risk"
+    },
+    {
+      "t": 3316,
+      "title": "poor microphone placement and stage audio"
+    },
+    {
+      "t": 3331,
+      "title": "unidentified disruptive fan"
+    },
+    {
+      "t": 3393,
+      "title": "audience Q&A opens"
+    },
+    {
+      "t": 3423,
+      "title": "romanticized Miller–Varley studio story"
+    },
+    {
+      "t": 3602,
+      "title": "private reconciliation question"
+    },
+    {
+      "t": 3628,
+      "title": "Miller's none-of-your-business boundary"
+    },
+    {
+      "t": 3712,
+      "title": "debriefing what Miller may not have heard"
+    },
+    {
+      "t": 3773,
+      "title": "surface imitation versus fearless influence"
+    },
+    {
+      "t": 3886,
+      "title": "Miller, Alan Moore and modern superhero tone"
+    },
+    {
+      "t": 3904,
+      "title": "unmade children's-book proposal"
+    },
+    {
+      "t": 3951,
+      "title": "American comics, manga and younger readers"
+    },
+    {
+      "t": 3978,
+      "title": "asking Miller to draw without preliminary sketching"
+    },
+    {
+      "t": 4043,
+      "title": "unresolved Warby shirt artist"
+    },
+    {
+      "t": 4133,
+      "title": "panel ends and self-criticism begins"
+    },
+    {
+      "t": 4182,
+      "title": "Miller sees Choe's variant covers"
+    },
+    {
+      "t": 4217,
+      "title": "photo, thanks and dinner invitation"
+    },
+    {
+      "t": 4237,
+      "title": "Eddie Choi debrief"
+    },
+    {
+      "t": 4298,
+      "title": "Rafael Grampá and shooting your shot"
+    },
+    {
+      "t": 4404,
+      "title": "turning the car around for dinner"
+    },
+    {
+      "t": 4433,
+      "title": "private dinner setting"
+    },
+    {
+      "t": 4477,
+      "title": "unnamed Parasite production artist"
+    },
+    {
+      "t": 4572,
+      "title": "re-explaining panel questions"
+    },
+    {
+      "t": 4595,
+      "title": "crayons and non-dominant-hand drawing"
+    },
+    {
+      "t": 4614,
+      "title": "Pizza Man improvisation"
+    },
+    {
+      "t": 4644,
+      "title": "Miller sketches and Choe watercolor"
+    },
+    {
+      "t": 4668,
+      "title": "late dinner and sobriety observation"
+    },
+    {
+      "t": 4750,
+      "title": "open-ended collaboration proposal"
+    },
+    {
+      "t": 4773,
+      "title": "confidential future projects remain withheld"
+    },
+    {
+      "t": 4819,
+      "title": "roadside emotional release"
+    },
+    {
+      "t": 4860,
+      "title": "the encounter is enough without a project"
+    },
+    {
+      "t": 4966,
+      "title": "crayon journal and unresolved exact date"
+    },
+    {
+      "t": 4998,
+      "title": "tentative project is not an announcement"
+    },
+    {
+      "t": 5096,
+      "title": "renewed daily drawing"
+    },
+    {
+      "t": 5151,
+      "title": "complete panel reportedly available online"
+    },
+    {
+      "t": 5167,
+      "title": "ask difficult questions and preserve refusal"
+    },
+    {
+      "t": 5208,
+      "title": "younger-self zine hypothetical"
+    },
+    {
+      "t": 5276,
+      "title": "Roddy Piper question"
+    },
+    {
+      "t": 5300,
+      "title": "comic page-rate surprise"
+    },
+    {
+      "t": 5377,
+      "title": "secluded Ranch recording setup"
+    },
+    {
+      "t": 5413,
+      "title": "Ranch Solo DVDASA provenance"
+    },
+    {
+      "t": 5418,
+      "title": "about four released from roughly twenty recorded"
+    },
+    {
+      "t": 5445,
+      "title": "casting Roddy Piper"
+    },
+    {
+      "t": 5507,
+      "title": "partial release and uncertain completeness"
+    },
+    {
+      "t": 5528,
+      "title": "Choe requests unrestricted racist improvisation"
+    },
+    {
+      "t": 5539,
+      "title": "publisher-masked anti-Asian performance"
+    },
+    {
+      "t": 5583,
+      "title": "Piper merchandise promos"
+    },
+    {
+      "t": 5600,
+      "title": "Piper death chronology needs verification"
+    },
+    {
+      "t": 5625,
+      "title": "closing and no promotion"
+    },
+    {
+      "t": 5674,
+      "title": "Joe Rogan joke and incomplete source ending"
+    }
+  ],
+  "connections": [
+    {
+      "t": 28,
+      "to": "Slow Jams",
+      "relationship": "The early book anchors Choe's comics identity and his later fear of institutional comics work."
+    },
+    {
+      "t": 57,
+      "to": "tk923yF0TXA",
+      "relationship": "The prior Kayfabe return supplies Storey, comics-community and source-reliability context."
+    },
+    {
+      "t": 223,
+      "to": "Brian K. Vaughan",
+      "relationship": "A private dinner becomes a bridge between comics writing, collecting and unmade collaboration proposals."
+    },
+    {
+      "t": 568,
+      "to": "Dave Mandel",
+      "relationship": "Mandel connects television craft, Seinfeld's Bizarro objects and private original-art stewardship."
+    },
+    {
+      "t": 622,
+      "to": "Wimbledon Green",
+      "relationship": "Seth's collector satire supplies a vocabulary for desire, ownership, status and absurdity."
+    },
+    {
+      "t": 642,
+      "to": "Artist's Editions",
+      "relationship": "Scott Dunbier's format connects private originals with legitimate high-fidelity public access."
+    },
+    {
+      "t": 881,
+      "to": "publisher-segments",
+      "relationship": "The house ad demonstrates why source structure must be searchable separately from interview testimony."
+    },
+    {
+      "t": 1200,
+      "to": "David Choe collection disorder thread",
+      "relationship": "Self-described hoarding recurs across art, books, storage and fear of losing objects."
+    },
+    {
+      "t": 1445,
+      "to": "archive permissions",
+      "relationship": "Permission to photograph does not collapse creation, ownership, access and republication rights."
+    },
+    {
+      "t": 1801,
+      "to": "meeting-your-heroes",
+      "relationship": "Miller and later Piper become paired tests of fantasy against a real encounter."
+    },
+    {
+      "t": 2799,
+      "to": "art-as-diagnosis",
+      "relationship": "The invented abuse theory repeats Choe's habit of reading trauma from art; Miller's answer directly corrects it."
+    },
+    {
+      "t": 2954,
+      "to": "David Choe DIY publishing",
+      "relationship": "Zines and graffiti are framed as alternatives to publisher approval and institutional editing."
+    },
+    {
+      "t": 3014,
+      "to": "variant-cover timeline",
+      "relationship": "Corporate-character covers let Choe fulfill a childhood ambition while exposing editorial conflict."
+    },
+    {
+      "t": 3144,
+      "to": "Lynn Varley credit",
+      "relationship": "The discussion recognizes color and collaboration, then risks collapsing work history into private romance."
+    },
+    {
+      "t": 3628,
+      "to": "consent and refusal",
+      "relationship": "Miller's reported refusal is the clearest control for the archive's difficult-question principle."
+    },
+    {
+      "t": 3773,
+      "to": "influence versus imitation",
+      "relationship": "Choe distinguishes copying surface style from absorbing courage, purpose and working method."
+    },
+    {
+      "t": 3904,
+      "to": "children's-comics future",
+      "relationship": "The unmade Miller children's-book idea joins concern about aging American-comics audiences."
+    },
+    {
+      "t": 4595,
+      "to": "altered-tool drawing exercises",
+      "relationship": "Crayons, closed eyes and non-dominant hands echo Choe's Geof Darrow experiments."
+    },
+    {
+      "t": 4860,
+      "to": "enoughness",
+      "relationship": "Choe interrupts his usual escalation loop and accepts the meeting without forcing a product."
+    },
+    {
+      "t": 5167,
+      "to": "interview method",
+      "relationship": "Ask directly, preserve the answer or refusal, and do not answer for the guest in advance."
+    },
+    {
+      "t": 5413,
+      "to": "ranch-guide",
+      "relationship": "Choe directly names the Ranch Solo DVDASA recordings and supplies approximate released/recorded counts."
+    },
+    {
+      "t": 5418,
+      "to": "Ranch Parts 1–4",
+      "relationship": "The four-public-part map is independently supported by Choe's 'put like four of them out' statement."
+    },
+    {
+      "t": 5445,
+      "to": "Roddy Piper performance archive",
+      "relationship": "Piper was reportedly hired to reinterpret Ranch monologues as wrestling promos."
+    },
+    {
+      "t": 5539,
+      "to": "hate-speech context",
+      "relationship": "Choe's request, Piper's boundary check and publisher masking must travel with the anti-Asian performance."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 0,
+      "claim": "Known participants make every line safely nameable.",
+      "assessment": "They do not. Two complete human passes found zero publisher prefixes; overlap, quotation, stage excerpts and fragmented captions remain.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 596,
+      "claim": "Conversational collection claims prove current ownership or provenance.",
+      "assessment": "They do not; each object needs an independent catalog, owner, date and rights trail.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 881,
+      "claim": "The entire upload is continuous interview speech.",
+      "assessment": "A Kayfabe house advertisement runs approximately 14:41–17:08 and must remain structurally separate.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 1445,
+      "claim": "Permission to take pictures authorizes public reproduction.",
+      "assessment": "It does not. Photography, possession, copyright, publicity and publication permission are distinct.",
+      "source": "https://www.copyright.gov/what-is-copyright/"
+    },
+    {
+      "t": 1801,
+      "claim": "The debrief is a verbatim record of the Miller panel.",
+      "assessment": "It is retrospective narration. The speakers repeatedly note poor sound, incomplete hearing, projection and memory limits.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 2799,
+      "claim": "Violent art proves childhood abuse.",
+      "assessment": "No. Choe admits inventing the theory, and Miller's reported answer contradicts it.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 3014,
+      "claim": "All mentioned variants are correctly identified and released.",
+      "assessment": "Exact issue, publisher, retailer and art credits must control over conversational shorthand.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 3602,
+      "claim": "The speakers know Miller's or Varley's present romantic life.",
+      "assessment": "They explicitly do not. Miller's reported refusal closes the inquiry.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 4043,
+      "claim": "The shirt artist is safely identified as Warby.",
+      "assessment": "The captioned mononym/spelling could not be independently established; keep unresolved pending panel credits.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 4237,
+      "claim": "Eddie Troy is a distinct public person.",
+      "assessment": "The same role and context strongly suggest earlier Eddie Choi, but one audio/video check is still required.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 4477,
+      "claim": "The Parasite artwork contributor can be inferred from personal clues.",
+      "assessment": "Do not reverse-identify. Add a public production credit only from an independent authoritative source.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 4750,
+      "claim": "A Choe/Miller project was announced.",
+      "assessment": "No. Choe explicitly reduces it to an open-ended 'let's do something' exchange.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 5418,
+      "claim": "Exactly four Ranch recordings exist.",
+      "assessment": "Choe says about four were released but roughly twenty recorded. The latter is an approximate claim about unreleased material, not a public catalog.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 5466,
+      "claim": "A complete twelve-hour Roddy Piper performance was publicly released.",
+      "assessment": "Choe remembers parts being released and explicitly cannot remember whether the whole performance appeared.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 5600,
+      "claim": "Piper died exactly one week after the recording.",
+      "assessment": "This is Choe's approximate recollection; the recording date must be independently established before publishing the interval.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    },
+    {
+      "t": 5675,
+      "claim": "The caption transcript has a complete ending.",
+      "assessment": "It terminates on an orphan word after the Joe Rogan joke; no missing outro or completion is invented.",
+      "source": "https://www.youtube.com/watch?v=-wZk4B1BB0c"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Frank Miller",
+    "Jordan Crane",
+    "Gerard Way",
+    "Todd McFarlane",
+    "Jim Lee",
+    "Tim Truman",
+    "Stephen R. Bissette",
+    "Brian K. Vaughan",
+    "Dave Mandel",
+    "Will Dennis",
+    "Eddie Choi",
+    "Frank Quitely",
+    "Rafael Grampá",
+    "Daniel Warren Johnson",
+    "Simon Hanselmann",
+    "Dustin Nguyen",
+    "Seth",
+    "Scott Dunbier",
+    "Neil Gaiman",
+    "Peach Momoko",
+    "Marcos Martín",
+    "Bob Kane",
+    "Bill Watterson",
+    "Charles M. Schulz",
+    "Frank Frazetta",
+    "Norman Rockwell",
+    "Alphonse Mucha",
+    "Mike Zeck",
+    "Brian Bolland",
+    "Arthur Adams",
+    "Jock",
+    "Lynn Varley",
+    "Alan Moore",
+    "Roddy Piper",
+    "Mr. T",
+    "Celine [surname/role spelling unresolved]",
+    "Felix [surname unresolved]",
+    "Warby [spelling/identity unresolved]",
+    "unidentified collector",
+    "unidentified musician",
+    "unidentified audience members",
+    "unidentified Parasite production artist"
+  ],
+  "places": [
+    "Los Angeles",
+    "LA Comic Con",
+    "Japantown",
+    "private residence [withheld]",
+    "private dinner setting [withheld]",
+    "Ranch location [withheld]"
+  ],
+  "works": [
+    "Slow Jams",
+    "NON",
+    "Bruised Fruit",
+    "Juxtapoz",
+    "Seinfeld",
+    "Veep",
+    "Curb Your Enthusiasm",
+    "The Bizarro Jerry",
+    "Extremity",
+    "Wonder Woman",
+    "Beta Ray Bill",
+    "Saga",
+    "Ex Machina",
+    "Wimbledon Green",
+    "Artist's Editions",
+    "The Dark Knight Returns",
+    "Sin City",
+    "Daredevil",
+    "Elektra",
+    "Watchmen",
+    "Red Room: The Antisocial Network",
+    "Red Room: Trigger Warnings",
+    "Hulk: Grand Design",
+    "The Choe Show",
+    "Teenage Mutant Ninja Turtles: The Last Ronin",
+    "The Killing Joke",
+    "Wizard",
+    "The Comics Journal",
+    "Pokémon",
+    "Dragon Ball",
+    "Parasite",
+    "Ranch Solo DVDASA"
+  ],
+  "themes": [
+    "meeting heroes",
+    "enoughness",
+    "comics community",
+    "influence versus imitation",
+    "DIY publishing",
+    "institutional editing",
+    "original-art collecting",
+    "provenance",
+    "stewardship versus hoarding",
+    "privacy and refusal",
+    "interview ethics",
+    "unmade collaborations",
+    "creative constraints",
+    "fan culture",
+    "Ranch provenance",
+    "performance labor",
+    "hate-speech context",
+    "memory reliability"
+  ],
+  "content_warnings": [
+    "sexual and objectifying language",
+    "minor sexual imagery in analogy",
+    "anti-Asian slurs and racist performance",
+    "Nazi-symbol imagery discussion",
+    "mental-illness slurs and unsupported diagnosis",
+    "childhood-abuse speculation",
+    "private relationship speculation",
+    "intimate-history disclosure",
+    "threat and killing metaphors",
+    "addiction and crisis-period self-report",
+    "blindfolding and isolation",
+    "publisher-masked profanity",
+    "body-shaming and appearance judgment",
+    "hostile fan language",
+    "racialized audience descriptions",
+    "copyright and unauthorized-publication jokes",
+    "high-value property discussion",
+    "private-home and security detail",
+    "substance-use observation",
+    "gambling references",
+    "violent comic imagery",
+    "adult-industry analogy",
+    "parasocial fandom",
+    "death and mortality references"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "publish no named turns without independently held-out acoustic/video validation"
+    },
+    {
+      "t": 36,
+      "rule": "keep uncertain publication syntax unresolved; do not merge NON, SPX and Bruised Fruit into an invented title"
+    },
+    {
+      "t": 223,
+      "rule": "do not reconstruct or quote the unrecorded private dinner"
+    },
+    {
+      "t": 291,
+      "rule": "retain the racist Korean-restaurant joke and its self-critique together; never use as group description"
+    },
+    {
+      "t": 359,
+      "rule": "Felix's surname remains unresolved until audio/video or authoritative credit confirms it"
+    },
+    {
+      "t": 432,
+      "rule": "catalog pandemic pitches as proposals, never completed credits"
+    },
+    {
+      "t": 581,
+      "rule": "do not reverse-identify the explicitly unnamed collector"
+    },
+    {
+      "t": 596,
+      "rule": "do not publish current ownership, value or provenance without object-level evidence"
+    },
+    {
+      "t": 728,
+      "rule": "withhold private residence, access, security, layout and inventory details"
+    },
+    {
+      "t": 881,
+      "rule": "label 14:41–17:08 as publisher promotion rather than interview testimony"
+    },
+    {
+      "t": 1028,
+      "rule": "the return from advertising is a structural boundary, not speaker evidence"
+    },
+    {
+      "t": 1200,
+      "rule": "hoarder is Choe's self-description, not diagnosis"
+    },
+    {
+      "t": 1231,
+      "rule": "avoid searchable private-collection value and security combinations"
+    },
+    {
+      "t": 1310,
+      "rule": "public artist names do not prove object authorship, authenticity or provenance"
+    },
+    {
+      "t": 1445,
+      "rule": "reported photography permission does not authorize public reproduction or indexing"
+    },
+    {
+      "t": 1508,
+      "rule": "direct not-for-sale statements override speculative prices and acquisition routes"
+    },
+    {
+      "t": 1667,
+      "rule": "market anecdotes are dated and not appraisals"
+    },
+    {
+      "t": 1892,
+      "rule": "do not identify uncredited private people who supplied questions"
+    },
+    {
+      "t": 1948,
+      "rule": "do not reverse-identify the unnamed musician from age, career and song clues"
+    },
+    {
+      "t": 2076,
+      "rule": "verify exact post-pandemic event chronology before timeline publication"
+    },
+    {
+      "t": 2116,
+      "rule": "do not publish event disguise, handler or operational access details as a route"
+    },
+    {
+      "t": 2183,
+      "rule": "the forgotten Mandalorian actor remains unresolved rather than guessed"
+    },
+    {
+      "t": 2287,
+      "rule": "late drawing style is aesthetic observation, not health or capacity diagnosis"
+    },
+    {
+      "t": 2361,
+      "rule": "do not infer spouse or partner status from a representative's proximity"
+    },
+    {
+      "t": 2594,
+      "rule": "retain Choe's correction from a large crowd to roughly five vocal fans"
+    },
+    {
+      "t": 2633,
+      "rule": "panel answers require the panel recording; debrief paraphrase is not verbatim"
+    },
+    {
+      "t": 2799,
+      "rule": "do not publish the invented abusive-father theory as Miller biography"
+    },
+    {
+      "t": 2921,
+      "rule": "keep Nazi-symbol imagery attached to historical/art context; no detached thumbnail or promotional excerpt"
+    },
+    {
+      "t": 3014,
+      "rule": "variant-cover credits require exact issue, publisher, retailer and date"
+    },
+    {
+      "t": 3155,
+      "rule": "self-reported million-dollar art values are not verified sales or appraisals"
+    },
+    {
+      "t": 3223,
+      "rule": "criticism of Jock is subjective art judgment, not a professional-capacity fact"
+    },
+    {
+      "t": 3331,
+      "rule": "do not diagnose or identify the disruptive audience member"
+    },
+    {
+      "t": 3368,
+      "rule": "race and costume are not an audience-member identity trail"
+    },
+    {
+      "t": 3423,
+      "rule": "distinguish Miller–Varley work credits from Choe's romanticized private-life reconstruction"
+    },
+    {
+      "t": 3602,
+      "rule": "do not publish inferred current romantic or family status"
+    },
+    {
+      "t": 3628,
+      "rule": "Miller's reported none-of-your-business answer closes the relationship inquiry"
+    },
+    {
+      "t": 3773,
+      "rule": "do not identify or shame private fan artists discussed in generalized criticism"
+    },
+    {
+      "t": 3904,
+      "rule": "children's-book talk is an unmade proposal"
+    },
+    {
+      "t": 4043,
+      "rule": "Warby spelling and identity remain unresolved; no reverse-identification from booth, ethnicity or language clues"
+    },
+    {
+      "t": 4109,
+      "rule": "a temporary booth line does not prove sales, demand or a future collaboration"
+    },
+    {
+      "t": 4217,
+      "rule": "a public-event photo still requires image rights and context before reproduction"
+    },
+    {
+      "t": 4237,
+      "rule": "Eddie Choi/Troy conflict requires one audio/video check before canonical naming"
+    },
+    {
+      "t": 4306,
+      "rule": "do not expose then-confidential art or infer an unreleased project title"
+    },
+    {
+      "t": 4433,
+      "rule": "withhold dinner venue, bodyguard, access and timing from searchable route metadata"
+    },
+    {
+      "t": 4477,
+      "rule": "do not reverse-identify the Parasite contributor from ethnicity, hair, companions and production clues"
+    },
+    {
+      "t": 4595,
+      "rule": "drawing participation does not settle ownership, publication or derivative rights"
+    },
+    {
+      "t": 4644,
+      "rule": "credit Miller's drawings and Choe's later watercolor separately; object permission remains unresolved"
+    },
+    {
+      "t": 4668,
+      "rule": "one evening's reported non-drinking is not diagnosis, treatment history or current sobriety status"
+    },
+    {
+      "t": 4750,
+      "rule": "never catalog the open-ended offer as an announced Choe/Miller collaboration"
+    },
+    {
+      "t": 4773,
+      "rule": "do not reconstruct confidential future projects or private commercial terms"
+    },
+    {
+      "t": 4819,
+      "rule": "do not enrich the roadside emotional account with location or travel tracking"
+    },
+    {
+      "t": 5055,
+      "rule": "preserve private sexual history without partner identification or promotional sexual excerpting"
+    },
+    {
+      "t": 5167,
+      "rule": "difficult-question principle always includes the right to refuse and third-party privacy"
+    },
+    {
+      "t": 5237,
+      "rule": "hypothetical zine is not permission to publish drawings, characters or a collaboration credit"
+    },
+    {
+      "t": 5377,
+      "rule": "withhold Ranch location, route and private-property access"
+    },
+    {
+      "t": 5383,
+      "rule": "blindfolding, bodyguard control and isolation are not recovery or safety instructions"
+    },
+    {
+      "t": 5418,
+      "rule": "distinguish four approximately released episodes from roughly twenty claimed recordings"
+    },
+    {
+      "t": 5507,
+      "rule": "do not infer a complete Piper release from partial clips"
+    },
+    {
+      "t": 5528,
+      "rule": "Choe's consent to racist attacks on himself is not consent on behalf of Asian people"
+    },
+    {
+      "t": 5539,
+      "rule": "retain publisher masks and full hate-speech context; no slur reconstruction or detached clip"
+    },
+    {
+      "t": 5600,
+      "rule": "verify recording/death dates before publishing the one-week chronology"
+    },
+    {
+      "t": 5675,
+      "rule": "retain the incomplete source ending; do not invent missing speech or outro"
+    }
+  ],
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "The visible program establishes Ed Piskor, Jim Rugg and David Choe, and later quoted or described participants include Frank Miller, Jock and others. But two complete caption reads found zero publisher prefixes across 2,795 segments. The source includes quotation, retrospective paraphrase, stage excerpts, a publisher advertisement, duplicate captions, overlap, audience speech and an incomplete ending. Topic ownership, grammar, visual familiarity and adjacency cannot prove every line. Only independently held-out, non-overlapping acoustic/video validation may support named turns."
+  }
+}

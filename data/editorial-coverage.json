@@ -1,0 +1,2998 @@
+{
+ "schema": "choe-corpus/editorial-coverage@1",
+ "generated_from": "data/catalog.json plus the 421 unique reader-route records",
+ "denominator": {
+  "catalog_cards": 434,
+  "unique_reader_routes": 421
+ },
+ "coverage": {
+  "editorial": 287,
+  "context": 287,
+  "summary": 287,
+  "description": 287,
+  "chapters": 287,
+  "people": 146,
+  "places": 141,
+  "works": 145,
+  "themes": 146,
+  "connections": 287
+ },
+ "known_signal_checks": {
+  "exact_word_trivia": {
+   "all_routes": 183,
+   "dvdasa_routes": 166,
+   "dvdasa_denominator": 177,
+   "note": "Literal transcript evidence only. This does not infer unlabeled trivia segments, but it proves that 37 curated entity records is not a valid trivia-occurrence denominator."
+  }
+ },
+ "by_group": [
+  {
+   "group": "Saga 1",
+   "routes": 145,
+   "editorial": 145
+  },
+  {
+   "group": "David Choe",
+   "routes": 82,
+   "editorial": 44
+  },
+  {
+   "group": "Saga 2",
+   "routes": 32,
+   "editorial": 29
+  },
+  {
+   "group": "David Choe Clips",
+   "routes": 20,
+   "editorial": 7
+  },
+  {
+   "group": "Archive Dump Truck",
+   "routes": 13,
+   "editorial": 0
+  },
+  {
+   "group": "Cartoonist Kayfabe",
+   "routes": 12,
+   "editorial": 12
+  },
+  {
+   "group": "NA",
+   "routes": 11,
+   "editorial": 0
+  },
+  {
+   "group": "VICE",
+   "routes": 11,
+   "editorial": 10
+  },
+  {
+   "group": "JRE Clips",
+   "routes": 7,
+   "editorial": 0
+  },
+  {
+   "group": "MANGCHI",
+   "routes": 7,
+   "editorial": 0
+  },
+  {
+   "group": "PowerfulJRE",
+   "routes": 7,
+   "editorial": 4
+  },
+  {
+   "group": "WalrusTV",
+   "routes": 7,
+   "editorial": 3
+  },
+  {
+   "group": "JRE Greatest Hits",
+   "routes": 6,
+   "editorial": 2
+  },
+  {
+   "group": "JRE plus",
+   "routes": 5,
+   "editorial": 1
+  },
+  {
+   "group": "DirtyHandsMovie",
+   "routes": 4,
+   "editorial": 2
+  },
+  {
+   "group": "Chang Nesia",
+   "routes": 3,
+   "editorial": 2
+  },
+  {
+   "group": "Steebee Weebee",
+   "routes": 3,
+   "editorial": 3
+  },
+  {
+   "group": "TigerBellyClips",
+   "routes": 3,
+   "editorial": 0
+  },
+  {
+   "group": "DVDASA Recap Show - with SciFiReuben",
+   "routes": 2,
+   "editorial": 1
+  },
+  {
+   "group": "Rogan Experience",
+   "routes": 2,
+   "editorial": 0
+  },
+  {
+   "group": "_SUPERHER0_",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "@StudioMotion",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Abmis_",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Andrew Huberman",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Andy Thomson",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Bad Friends Clips",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "brokethehabit",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Bunny Ears Podcast",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Creative Minds",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "DFX Studios",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Diego Gonzales",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Diogenes Analytics",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Felix Comic Art",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Films",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Grapevine Documentaries",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Indisputable with Dr. Rashad Richey",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Intertrend Communications",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Jennie Jen",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "KQED",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "maddox peck",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Multicom Entertainment",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Nitro idea",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "PrairieWaltz",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Rebild Productions",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Rich Roll",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Rogan Recaps",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Sampson Vlogs",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Slept Kingdom Chronicles",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Star Pods",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Steve-O's Wild Ride! - Clips",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Steve-O's Wild Ride! - Podcast",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "The Fold (Comedians Playing Poker)",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "THE HUNDREDS",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "The Netflix Bingebuzz",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "TigerBelly",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "tippan1234",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Trending Now",
+   "routes": 1,
+   "editorial": 1
+  },
+  {
+   "group": "Vanta",
+   "routes": 1,
+   "editorial": 0
+  },
+  {
+   "group": "Wevr",
+   "routes": 1,
+   "editorial": 1
+  }
+ ],
+ "incomplete": [
+  {
+   "id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
+   "title": "At Comic Con 2013",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-001-with-david-choe-and-asa-akira",
+   "title": "Episode 001",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-032-with-david-choe-and-asa-akira",
+   "title": "Episode 032",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-033-with-david-choe-and-asa-akira",
+   "title": "Episode 033",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-034-with-david-choe-and-asa-akira",
+   "title": "Episode 034",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+   "title": "Episode 035",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-036-with-david-choe-and-asa-akira",
+   "title": "Episode 036",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+   "title": "Episode 037",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-038-with-david-choe-and-asa-akira",
+   "title": "Episode 038",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+   "title": "Episode 039",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-040-with-david-choe-and-asa-akira",
+   "title": "Episode 040",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-041-with-david-choe-and-asa-akira",
+   "title": "Episode 041",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-042-with-david-choe-and-asa-akira",
+   "title": "Episode 042",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-043-with-david-choe-and-asa-akira",
+   "title": "Episode 043",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-044-with-david-choe-and-asa-akira",
+   "title": "Episode 044",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-045-with-david-choe-and-asa-akira",
+   "title": "Episode 045",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-046-with-david-choe-and-asa-akira",
+   "title": "Episode 046",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-047-with-david-choe-and-asa-akira",
+   "title": "Episode 047",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-048-with-david-choe-and-asa-akira",
+   "title": "Episode 048",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-049-with-david-choe-and-asa-akira",
+   "title": "Episode 049",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-050-with-david-choe-and-asa-akira",
+   "title": "Episode 050",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-051-stf-sexually-transmitted-feelings",
+   "title": "Episode 051 — STF Sexually Transmitted Feelings",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-052-zach-gilford",
+   "title": "Episode 052 — Zach Gilford",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-053-kevin-smith",
+   "title": "Episode 053 — Kevin Smith",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-054-ask-asa-sexual-guacamole",
+   "title": "Episode 054 — Ask Asa Sexual Guacamole",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-055-bobby-s-announcement",
+   "title": "Episode 055 — Bobby S Announcement",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-056-intentional-discomfort",
+   "title": "Episode 056 — Intentional Discomfort",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-057-never-been-dumped-n-b-d",
+   "title": "Episode 057 — Never Been Dumped N B D",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-058-the-reporter",
+   "title": "Episode 058 — The Reporter",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-059-body-modifications-sports",
+   "title": "Episode 059 — Body Modifications Sports",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-060-david-arquette",
+   "title": "Episode 060 — David Arquette",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-061-aubrey-plaza",
+   "title": "Episode 061 — Aubrey Plaza",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-062-kayla-carrera",
+   "title": "Episode 062 — Kayla Carrera",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-063-bobby-hundreds-and-heather",
+   "title": "Episode 063 — Bobby Hundreds and Heather",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-064-heather-hot-dog",
+   "title": "Episode 064 — Heather Hot Dog",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-065-saelee-oh-seeks-double-vag-double-anal-dates",
+   "title": "Episode 065 — Saelee Oh Seeks Double Vag Double Anal Dates",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-067-return-of-hikaru-power-check",
+   "title": "Episode 067 — Return of Hikaru Power Check",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-068-david-s-announcement",
+   "title": "Episode 068 — David S Announcement",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-069-bobby-lee-and-the-pooner",
+   "title": "Episode 069 — Bobby Lee and the Pooner",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-070-slink-johnson-cousin-endo-the-armenian-virgin",
+   "title": "Episode 070 — Slink Johnson Cousin Endo the Armenian Virgin",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-071-the-conclusion-of-the-armenian-virgin-trilogy-ft-bobby-lee",
+   "title": "Episode 071 — The Conclusion of the Armenian Virgin Trilogy Ft Bobby Lee",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-072-bobby-lee-valentin-s-birthday",
+   "title": "Episode 072 — Bobby Lee Valentin S Birthday",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-073-am-i-gonna-get-that-ring-ft-bobby-lee-poon-phoebe",
+   "title": "Episode 073 — Am I Gonna Get That Ring Ft Bobby Lee Poon Phoebe",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-074-ruining-lives-ft-bobby-lee-the-pooner",
+   "title": "Episode 074 — Ruining Lives Ft Bobby Lee the Pooner",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-075-vip-no-problem-ft-dr-nima-bobby-lee",
+   "title": "Episode 075 — VIP No Problem Ft Dr Nima Bobby Lee",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-076-the-red-zone-with-steve-lee",
+   "title": "Episode 076 — The Red Zone with Steve Lee",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-077-locker-room-talk",
+   "title": "Episode 077 — Locker Room Talk",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-078-s-l-a-p-something-like-a-pimp-ft-slink-endo-heather-hot-dog-bobby-le",
+   "title": "Episode 078 — S L a P Something Like a Pimp Ft Slink Endo Heather Hot Dog Bobby Le",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb",
+   "title": "Episode 079 — Bitch You Re Being Worked on Ft Erik Griffin Slink Endo Heather Bobb",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-080-colonic-confessions",
+   "title": "Episode 080 — Colonic Confessions",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-081-asians-are-future-people",
+   "title": "Episode 081 — Asians Are Future People",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-082-the-crappuccino",
+   "title": "Episode 082 — The Crappuccino",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-083-elmer-s-glue-bobby-lee-channels-david-s-mom",
+   "title": "Episode 083 — Elmer S Glue Bobby Lee Channels David S Mom",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-084-ask-asa-pooner-heather-phone-sex",
+   "title": "Episode 084 — Ask Asa Pooner Heather Phone Sex",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-085-pubes-everywhere",
+   "title": "Episode 085 — Pubes Everywhere",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-086-gay-for-hawaii-live-at-the-republik",
+   "title": "Episode 086 — Gay for Hawaii Live at the Republik",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-087-buyer-s-remorse-from-hawaii",
+   "title": "Episode 087 — Buyer S Remorse from Hawaii",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-088-david-chang",
+   "title": "Episode 088 — David Chang",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-089-fear-blood",
+   "title": "Episode 089 — Fear Blood",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-090-pjing-with-alvin-risk-nosaj-thing-feed-me-kill-the-noise",
+   "title": "Episode 090 — Pjing with Alvin Risk Nosaj Thing Feed Me Kill the Noise",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-091-insatiable-2-commentary",
+   "title": "Episode 091 — Insatiable 2 Commentary",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-092-jeff-staples-crying-banana",
+   "title": "Episode 092 — Jeff Staples Crying Banana",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-093-5-more-inches",
+   "title": "Episode 093 — 5 More Inches",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-094-steve-s-future",
+   "title": "Episode 094 — Steve S Future",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-095-ask-asa-tripping-with-steve-lee",
+   "title": "Episode 095 — Ask Asa Tripping with Steve Lee",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-096-the-trivia-wedding",
+   "title": "Episode 096 — The Trivia Wedding",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-097-steven-yeun-and-artist-the-dark-dick",
+   "title": "Episode 097 — Steven Yeun and Artist the Dark Dick",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-098-dan-wu-joe-hahn-the-dark-dick",
+   "title": "Episode 098 — Dan Wu Joe Hahn the Dark Dick",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-099-pack-hunting",
+   "title": "Episode 099 — Pack Hunting",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-100-things-korean-people-like",
+   "title": "Episode 100 — Things Korean People Like",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-102-bobby-lee-s-girlfriend-khalyla",
+   "title": "Episode 102 — Bobby Lee S Girlfriend Khalyla",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-103-parental-relations",
+   "title": "Episode 103 — Parental Relations",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-104-trivia-with-a-whore-part-1",
+   "title": "Episode 104 — Trivia with a Whore Part I",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-105-trivia-with-a-whore-part-2",
+   "title": "Episode 105 — Trivia with a Whore Part II",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-106-erection-quest",
+   "title": "Episode 106 — Erection Quest",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-107-rapish-behavior",
+   "title": "Episode 107 — Rapish Behavior",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-108-magic-person-eva-lin",
+   "title": "Episode 108 — Magic Person Eva Lin",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-109-humane-trafficking",
+   "title": "Episode 109 — Humane Trafficking",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-110-the-fake-male-orgasm",
+   "title": "Episode 110 — The Fake Male Orgasm",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-111-mom-s-wand",
+   "title": "Episode 111 — Mom S Wand",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-112-pink-pussy",
+   "title": "Episode 112 — Pink Pussy",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-113-vegas-part-01",
+   "title": "Episode 113 — Vegas Part 01",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-114-vegas-part-02",
+   "title": "Episode 114 — Vegas Part 02",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-115-vegas-part-03",
+   "title": "Episode 115 — Vegas Part 03",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-116-vegas-part-04-the-poon-poon-report",
+   "title": "Episode 116 — Vegas Part 04 the Poon Poon Report",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-117-vegas-part-05-no-newdes",
+   "title": "Episode 117 — Vegas Part 05 No Newdes",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-118-2-depressed-artists",
+   "title": "Episode 118 — 2 Depressed Artists",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-120-bro-show",
+   "title": "Episode 120 — Bro Show",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-121-a-day-in-the-life-of-steve-lee",
+   "title": "Episode 121 — A Day in the Life of Steve Lee",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-122-time-travel",
+   "title": "Episode 122 — Time Travel",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-123-do-you-want-some-pizza",
+   "title": "Episode 123 — Do You Want Some Pizza",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-124-bonnie-rotten",
+   "title": "Episode 124 — Bonnie Rotten",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-125-deluge",
+   "title": "Episode 125 — Deluge",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-126-addicted-to",
+   "title": "Episode 126 — Addicted to",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-127-with-david-choe-and-asa-akira",
+   "title": "Episode 127",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-128-hawaii-happiness-symposium-part-2-with-jane-choe",
+   "title": "Episode 128 — Hawaii Happiness Symposium Part II with Jane Choe",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-129-four-caballeros",
+   "title": "Episode 129 — Four Caballeros",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-130-beyond-your-five-senses",
+   "title": "Episode 130 — Beyond Your Five Senses",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-131-dave-in-love-part-one",
+   "title": "Episode 131 — Dave in Love Part I",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-132-dave-in-love-part-two",
+   "title": "Episode 132 — Dave in Love Part II",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-133-horny-in-your-heart",
+   "title": "Episode 133 — Horny in Your Heart",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-134-don-t-touch-me-there",
+   "title": "Episode 134 — Don T Touch Me There",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-135-eleven-seconds",
+   "title": "Episode 135 — Eleven Seconds",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-136-irresistible",
+   "title": "Episode 136 — Irresistible",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-137-double-headed-dragon",
+   "title": "Episode 137 — Double Headed Dragon",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-139-prank-on-the-prank",
+   "title": "Episode 139 — Prank on the Prank",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-140-spooning",
+   "title": "Episode 140 — Spooning",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-141-scruples",
+   "title": "Episode 141 — Scruples",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-episode-142-fastball",
+   "title": "Episode 142 — Fastball",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-live-at-the-egyptian-theatre",
+   "title": "Live at the Egyptian Theatre",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-nov-2nd-1-3-slink-johnson-cousin-endo",
+   "title": "Nov 2nd 1 3 Slink Johnson Cousin Endo",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
+   "title": "Nov 2nd 2 3 Slink Endo Spiegler Alina Li Chloe the Virgin",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin",
+   "title": "Nov 2nd 3 3 Bobby Lee Chloe the Virgin",
+   "group": "Saga 1",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+   "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth",
+   "group": "Saga 2",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "saga2-november-2nd-the-longest-day",
+   "title": "November 2nd the Longest Day",
+   "group": "Saga 2",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+   "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean",
+   "group": "Saga 2",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-002-sardines",
+   "title": "Chapter 002 — Sardines",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-003-the-window",
+   "title": "Chapter 003 — The Window",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-004-cock-blocked",
+   "title": "Chapter 004 — Cock Blocked",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-005-rude-jude-angelini-jessica-cribbon-and-vivian-kindle",
+   "title": "Chapter 005 — Rude Jude Angelini Jessica Cribbon and Vivian Kindle",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-006-standing-69",
+   "title": "Chapter 006 — Standing 69",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-008-felt-like-heaven",
+   "title": "Chapter 008 — Felt Like Heaven",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-009-torlando",
+   "title": "Chapter 009 — Torlando",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-011-dr-dave",
+   "title": "Chapter 011 — Dr Dave",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-012-tightey-whiteys",
+   "title": "Chapter 012 — Tightey Whiteys",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-013-the-perfect-woman-a-proposition",
+   "title": "Chapter 013 — The Perfect Woman a Proposition",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
+   "title": "Chapter 014 — The Redzone Wrestle Trial of Steve Lee",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+   "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern",
+   "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-017-mutants-true-love-an-igloo-dong-origin-orgy",
+   "title": "Chapter 017 — Mutants True Love an Igloo Dong Origin Orgy",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-018-the-marriage-proposal-the-critter-conundrum",
+   "title": "Chapter 018 — The Marriage Proposal the Critter Conundrum",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-019-business-as-usual-a-trannying-day-special",
+   "title": "Chapter 019 — Business As Usual a Trannying Day Special",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-020-the-negotiation",
+   "title": "Chapter 020 — The Negotiation",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-022-a-scrotum-fire-a-bobby-birthday-the-unnuttable",
+   "title": "Chapter 022 — A Scrotum Fire a Bobby Birthday the Unnuttable",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-023-in-choe-we-trust",
+   "title": "Chapter 023 — In Choe We Trust",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-024-world-whore-z",
+   "title": "Chapter 024 — World Whore Z",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-025-american-whoreror-story",
+   "title": "Chapter 025 — American Whoreror Story",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show",
+   "title": "Chapter 026 — The Bobby Trivia Dating Show",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-027-fucking-canada",
+   "title": "Chapter 027 — Fucking Canada",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-028-new-year-new-you-nuru",
+   "title": "Chapter 028 — New Year New You Nuru",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-029-the-sedoner-boner-mushroom-strip",
+   "title": "Chapter 029 — The Sedoner Boner Mushroom Strip",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-030-the-trial-of-poon",
+   "title": "Chapter 030 — The Trial of Poon",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "saga2-saga-02-chapter-10-bane-lee",
+   "title": "Chapter 010 — Bane Lee",
+   "group": "Saga 2",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "vimeo-dirty-hands-laff",
+   "title": "Dirty Hands: The Art and Crimes of David Choe",
+   "group": "Films",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "-I9ut9uikjY",
+   "title": "Inside the Mind of David Choe",
+   "group": "JRE Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "0cp3orVR5lg",
+   "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965",
+   "group": "JRE Greatest Hits",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "0d9gqEc86-o",
+   "title": "Audition to Healing: A Brave Artistic Journey Through \"The Choe Show\"",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "1DQLpKe3p-E",
+   "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965",
+   "group": "JRE Greatest Hits",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "1UA7PnoDiy8",
+   "title": "Your Strength is in Your Weakness | Art Inspiration",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "1VEq7pdtbHM",
+   "title": "DAVID CHOE :: IN THE STUDIO :: THE HUNDREDS",
+   "group": "THE HUNDREDS",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "1YUK34XsNiY",
+   "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors",
+   "group": "Slept Kingdom Chronicles",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "1cEPqYMBlXA",
+   "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience",
+   "group": "JRE plus",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "1x2N5-aYYl4",
+   "title": "David Choe Interview - myFinBec 2013, Graffiti Art & Wine Documentary",
+   "group": "Rebild Productions",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "3QecMMrcCCA",
+   "title": "David Choe Shoot Interview",
+   "group": "Cartoonist Kayfabe",
+   "missing": [
+    "works"
+   ]
+  },
+  {
+   "id": "4FiwPN8M1rM",
+   "title": "David Choe Painting Process",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "4mPxYY6dL2o",
+   "title": "DVDASA Episode 045 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "5iUX02mRsGc",
+   "title": "How I Met David Choe & DVDASA in Vancouver? (The Choe Method)",
+   "group": "brokethehabit",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "5s_cO2JCL5Q",
+   "title": "The Choe Show-Embrace Death",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "6IeVPOLdIEs",
+   "title": "Mangchi",
+   "group": "MANGCHI",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "6MIKuySAQTQ",
+   "title": "Embrace the Chaos of Your life | Art Tutorial",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "6sdmY8WvNlw",
+   "title": "DVDASA Episode 019 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "6y7_BT1kLKA",
+   "title": "Tell Me The Truth : Art Tutorial",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "7NSYJIczwUY",
+   "title": "MANGCHI - REVERSE BIRTHDAY SONG",
+   "group": "MANGCHI",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "8WqN0WcYtgQ",
+   "title": "BTS Mangchi Video Shoot",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "9AzEpY7H5Ac",
+   "title": "Raw Footage - David Choe taking a stroll around Facebook HQ with some paint",
+   "group": "WalrusTV",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "AYAAfmzspis",
+   "title": "Dirty Hands The Art & Crimes of David Choe",
+   "group": "@StudioMotion",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "B4UD01U7pTw",
+   "title": "Watch David Choe Create Magic with Mixed Media",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "CXjukgkB1CY",
+   "title": "Scrape the Poopie Out of Your Soul | Art Technique",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "C_Rw-0HyJXc",
+   "title": "DVDASA Episode 047 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "CnFR15MWKXE",
+   "title": "Get Ready: Thumbs UP Season 4 Trailer",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "DInFITDqmkA",
+   "title": "MANGCHI",
+   "group": "Jennie Jen",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "FA3orUaXhD4",
+   "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)",
+   "group": "PowerfulJRE",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "FRrbjiOs4no",
+   "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania",
+   "group": "JRE Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "FbJRcXuqpqs",
+   "title": "Dirty Hands In SF - Documentary about David Choe",
+   "group": "DirtyHandsMovie",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "Fj1XP1MgxMQ",
+   "title": "David Choe Meets the Legendary Crenshaw Cowboy",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "FwXQfRF9h6w",
+   "title": "Igloo Hong Murals with Herbert Baglione and David Choe",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "G9CTAhKRCTo",
+   "title": "David Choe, El Mac and the Igloo Hong Super Crew Warming Up Before Painting",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "Ga9f_4K-j8c",
+   "title": "David Choe painting at David Chang's Momofuku Ko restaurant",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "Gv_yyQBphVs",
+   "title": "Draw Your Soul in Your Underpaintings",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "HCQHVHJYQnQ",
+   "title": "DVDASA Episode 036 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "HgG805RV624",
+   "title": "What Lies Beneath Our Masks? | David Choe",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "HrBhuzHHlhQ",
+   "title": "David Choe's Strange Encounter While Hitchhiking",
+   "group": "JRE Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "IM8oNL2-xIs",
+   "title": "Die Antwoord's Ninja joins David Choe's band Mangchi live on stage for the encore",
+   "group": "WalrusTV",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "IliUj9gs7oA",
+   "title": "Comfort is the Killer of Creativity",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "J1lES-SJ42I",
+   "title": "Uncovering the Mysterious World of MANGCHI TV!",
+   "group": "David Choe Clips",
+   "missing": [
+    "places"
+   ]
+  },
+  {
+   "id": "JNXjG8n4pzE",
+   "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience",
+   "group": "JRE plus",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "K82jh4XbjCg",
+   "title": "Paint Honestly to Improve Your Art",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "KOfsocdybBw",
+   "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience",
+   "group": "Rogan Experience",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "KPnyiFx2O0w",
+   "title": "The SteeBeeWeeBee Show ft David Choe Pt2 A Day In The Life Of Steve Lee 2.0",
+   "group": "Chang Nesia",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "Kom2FTRT8_Y",
+   "title": "How to Stay Optimistic in a Chaotic World",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "LDZ4edDbcrU",
+   "title": "Barbara Walters x David Choe",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "LcnoUWEscUY",
+   "title": "Ninja of Die Antwoord, Crowd Surfing at Mangchi Live Show at Elbo Room in San Francisco",
+   "group": "MANGCHI",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "LdqB8988S2U",
+   "title": "DVDASA Episode 032 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "MP7SF5dVp70",
+   "title": "\"Gunk Boi\" - MANGCHI",
+   "group": "MANGCHI",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "M_jPqv3NvUI",
+   "title": "David Choe Got Lost Looking for a Dinosaur in the Congo",
+   "group": "JRE Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "MzfWgBgqBPs",
+   "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience",
+   "group": "JRE plus",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "NjIOUfV5htM",
+   "title": "Raw Uncut Video of Heather Leather Bassist of Mangchi Covering Tiffany",
+   "group": "David Choe Clips",
+   "missing": [
+    "places"
+   ]
+  },
+  {
+   "id": "O3e1iZowlv8",
+   "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563",
+   "group": "JRE Greatest Hits",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "OuuSC5xoKVk",
+   "title": "DVDASA Episode 046 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "QfV665kWoSg",
+   "title": "ZUCK 1 x DAVID CHOE",
+   "group": "WalrusTV",
+   "missing": [
+    "places"
+   ]
+  },
+  {
+   "id": "QpCd4BetnoQ",
+   "title": "Remembering Anthony Bourdain",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "StlQDvxDtq0",
+   "title": "David Choe Explains BTS 4X to Munkos",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "T-632m9gwso",
+   "title": "The Problem is You Suck",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "T5Bc_q5FHCQ",
+   "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc",
+   "group": "_SUPERHER0_",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "TBUXC2lXvCE",
+   "title": "Why Artists Don’t Grow, And How to Let Go",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "TRex0Edzz1w",
+   "title": "How I Use My Deepest Wounds to Fuel My Art",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "TtSqnfVygRU",
+   "title": "Saber and David Choe November 2nd Flower Shop",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "TzEI4nsKhx4",
+   "title": "Watch David Choe Create a Masterpiece in the Facebook Offices - Unbelievable Super 8 Footage!",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "Ut-wqAw8kGo",
+   "title": "David Choe Drum Solo at North Korean Restaurant in Dubai",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "VBM7yBrWaVg",
+   "title": "Secrets of The Choe Show Revealed",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "V_v5tS3WRQ8",
+   "title": "Why David Choe Stopped Playing Life Like a Video Game",
+   "group": "PowerfulJRE",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "VucJLf8Jbn0",
+   "title": "Painting in the Facebook Offices with David Choe",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "W-I6eXxXfIE",
+   "title": "After 1000 Rejections, I Learned This...",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "WjVbmnTZqf4",
+   "title": "David Choe Talks About Placebo Effect, Faith, and the Power of the Mind-Body Connection",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "X0z3caRdZTg",
+   "title": "David Choe Made Millions From Facebook | Wild Ride! Clips",
+   "group": "Steve-O's Wild Ride! - Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "XhlobuaR2RY",
+   "title": "Fashion District Adventures With David Choe: From Ninjas to Road Rage",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "YOiHuk2iUpA",
+   "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever",
+   "group": "TigerBellyClips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "YgilTWmHJBg",
+   "title": "DVDASA Episode 026 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "Z1fihPegvyk",
+   "title": "Leaning Into Discomfort to Unlock True Artistic Expression-David Choe",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "ZcaWMy_b9Ns",
+   "title": "David Choe Painting at Good Smile Factory in Japan",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "_Azb3sploI0",
+   "title": "MANGCHI - I love you",
+   "group": "MANGCHI",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "_IW6hQQdNys",
+   "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience",
+   "group": "Rogan Experience",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "_KraKw_XXSk",
+   "title": "How I learned to be Grateful",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "_XQN0SYz5Oc",
+   "title": "I Want You to Know the Real Val Kilmer",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "aPzKoSLopmc",
+   "title": "David choe asmr live",
+   "group": "Diego Gonzales",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "aXa4t8UGTOc",
+   "title": "MANGCHI - The Best",
+   "group": "MANGCHI",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "amdLmZ5gO6w",
+   "title": "Don't Ruin Your Life, Just for Today",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "awmakgVOgs0",
+   "title": "Unveiling the Secrets of Mocktails and Mockumentaries with David Choe",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "bRnQXElR0xE",
+   "title": "\"What Is Unique In Your Head?\" with David Choe (from Joe Rogan Experience #563)",
+   "group": "PowerfulJRE",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "bxqo4zQWNA0",
+   "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "cGENqgCM_hI",
+   "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie",
+   "group": "JRE Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "cMcZRCgKgj4",
+   "title": "DVDASA Episode 048 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "cifhF0mCouA",
+   "title": "Make Art Out of Curiosity not Fear | Art Tutorial",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "cq3QBKbHUro",
+   "title": "How to Overcome Creative Blocks and Fuel Inspiration",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "d5qA2KUiSws",
+   "title": "How Can You Be Creative If You Don't Know Who You Are?",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "eOtkM7egpnM",
+   "title": "David Choe Painting a Mural at the Good Smile Factory in Japan #davidchoe #goodsmilecompany",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "g0SDGfXVzpc",
+   "title": "George Wasn't Invited To The Choe Show",
+   "group": "TigerBellyClips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "g1G_6-km8sU",
+   "title": "DVDASA Episode 044 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "h12NAoaCY5k",
+   "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "h4fE_LwuTC0",
+   "title": "Missed Opportunities A Story Explaining How David Choe Almost Was the Drummer of the Band Crazy Town",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "iwWlZJ_EsvE",
+   "title": "How to Draw an Awesome Cityscape: Art Tutorial",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "jWMi6WOa56k",
+   "title": "The Last Dinosaur of the Congo with David Choe",
+   "group": "VICE",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "k-wWvZu9xaA",
+   "title": "DVDASA Episode 029 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "kHJHdCnGnvA",
+   "title": "David Choe Norway",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "kdIZ-X0dbM4",
+   "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965",
+   "group": "JRE Greatest Hits",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "lcbK5KRKDrs",
+   "title": "David Choe Explores the Imperfect Perfection of Michael Mann’s Heat",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "lqmqqvFV7Ec",
+   "title": "Walrus TV Artist Feature:  David Choe Interview from \"Dithers\"",
+   "group": "WalrusTV",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "m-5ofpeuOYc",
+   "title": "Mangchi Hammer Live",
+   "group": "PrairieWaltz",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "mGo88FJE4q0",
+   "title": "A Guide to Painting Through Pain",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "mOj5JGBZ4dM",
+   "title": "David Choe's crazy massage story (JRE #392)",
+   "group": "Abmis_",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "mUsyh416654",
+   "title": "Mangchi Video featuring Steve Lee",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "mw6E0N8PZEM",
+   "title": "The Choe Show - Happy VS. Sad",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "mxfBPoDUJ80",
+   "title": "DVDASA Episode 039 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "nSWSXRUm3l8",
+   "title": "David Choe's Gambling Strategy",
+   "group": "Diogenes Analytics",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "oRWi-tZyotE",
+   "title": "Is David Choe Hiding Podcast Where He Talked About Assault?",
+   "group": "Indisputable with Dr. Rashad Richey",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "p2E_8DhelKQ",
+   "title": "David Choe's Incredible & Unexpected Connection Made During Thumbs Up Season 4",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "pknJx79BV7o",
+   "title": "Choe Show Trailer on Hulu",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "pw_HXGxrJ9s",
+   "title": "You Were Really Never Here - Joaquin Phoenix X David Choe",
+   "group": "David Choe Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "qVPlWFKUBCI",
+   "title": "David Choe Remembers the Death of Anthony Bourdain",
+   "group": "JRE Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "qs1yRqLkRm4",
+   "title": "These Are My People - MANGCHI",
+   "group": "MANGCHI",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "rN5_qjTyu8M",
+   "title": "Artist David Choe Was Hooked on \"Warcraft 2\"",
+   "group": "JRE Clips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "r_erL0rlywQ",
+   "title": "Mangchi animation by Scorpion Dagger and David Choe",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "spAebvaG-VE",
+   "title": "Watch RZA and David Choe Collide in This Unexpected Jam Session!",
+   "group": "David Choe Clips",
+   "missing": [
+    "places"
+   ]
+  },
+  {
+   "id": "u2V3qYnhf3U",
+   "title": "The Choe Show Trailer",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "u5sqxKpVJYw",
+   "title": "Beef Actor David Choe/Isaac Explains How he raped black woman! Gets cancelled together with Ali Wong",
+   "group": "The Netflix Bingebuzz",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "vDo1yCwzzxg",
+   "title": "How to Make the Best Underpainting of a Canvas | Art Tutorial",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "vTaS3XK3rgI",
+   "title": "The Degenerate Mind of David Choe | Mini Documentary",
+   "group": "DFX Studios",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "vhbVKIwLiSQ",
+   "title": "David Choe Star Wars Fan Fiction, Reaction and Review-Episode 1: Crispy & Chewie - Chewbacca edition",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "w3vRQZbmLyw",
+   "title": "David Choe Painting in the Philippines 🇵🇭 ",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "wC3vettgNB0",
+   "title": "DVDASA Episode 043 with David Choe and Asa Akira",
+   "group": "Archive Dump Truck",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "wb34YLBpxcU",
+   "title": "BATMAN surrenders to LOVE",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "x0o0pC5mJfI",
+   "title": "008 DVDASA Recap Show- With SciFiReuben",
+   "group": "DVDASA Recap Show - with SciFiReuben",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "xS7wfeeeM8I",
+   "title": "David Choe",
+   "group": "Vanta",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "yFFUaDk29pA",
+   "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience",
+   "group": "JRE plus",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "yMw73rpJPRA",
+   "title": "Whales and Orgies | David Choe, Early Years",
+   "group": "DirtyHandsMovie",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "yWAYOdJVY_o",
+   "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby",
+   "group": "TigerBellyClips",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "yz8RQL1TV2o",
+   "title": "The Choe Show",
+   "group": "David Choe",
+   "missing": [
+    "places"
+   ]
+  },
+  {
+   "id": "yz_qrtjMONo",
+   "title": "Turn Your Feelings into Art | Art Tutorial",
+   "group": "David Choe",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "zHyvVajsqMw",
+   "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+   "group": "Andrew Huberman",
+   "missing": [
+    "people",
+    "places",
+    "works",
+    "themes"
+   ]
+  },
+  {
+   "id": "zSuvEkr6TY0",
+   "title": "Art lessons with David Choe",
+   "group": "WalrusTV",
+   "missing": [
+    "editorial"
+   ]
+  },
+  {
+   "id": "zmvu9oUDi7I",
+   "title": "Herbert Baglione and David Choe in Rio, Brazil",
+   "group": "NA",
+   "missing": [
+    "editorial"
+   ]
+  }
+ ]
+}

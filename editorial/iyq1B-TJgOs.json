@@ -1,0 +1,123 @@
+{
+  "episode_id": "iyq1B-TJgOs",
+  "title": "David Choe and Hebert Baglione Painting in Brazil",
+  "reviewed_on": "2026-08-01",
+  "summary": "A 16-second official-channel painting clip titled for David Choe and Hebert Baglione in Brazil. Its entire usable caption transcript is one word—“okay”—followed by music. The title supplies artists and country at source level, but the caption does not establish which person speaks, what is painted, the city, technique, materials or collaboration sequence. The visual painting event is cataloged without inventing a tutorial. Music is not speech; zero named turns and zero enrollment windows ship.",
+  "quality": {
+    "raw_segments": 2,
+    "clean_segments": 2,
+    "raw_words_approx": 2,
+    "clean_words_approx": 2,
+    "duration_seconds": 16,
+    "accepted_context_decisions": 2,
+    "chapters": 2,
+    "connections": 3,
+    "content_warnings": 4,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 8
+  },
+  "speaker_policy": {
+    "status": "all line-level voices unresolved; sparse/visual source excluded from enrollment",
+    "reason": "Title/channel provenance is source-level only. Captions are too sparse, non-speech, unreliable or unlabeled to establish any performer. Publish zero named turns and accept no enrollment window."
+  },
+  "people": [
+    "David Choe (title-level artist)",
+    "Hebert Baglione (title-level artist)",
+    "unidentified speaker of “okay”"
+  ],
+  "places": [
+    "Brazil (title level; city/venue unresolved)"
+  ],
+  "works": [
+    "David Choe and Hebert Baglione Painting in Brazil",
+    "unidentified collaborative painting"
+  ],
+  "themes": [
+    "collaborative painting",
+    "Brazil",
+    "single-word acknowledgment",
+    "music montage",
+    "visual art process"
+  ],
+  "chapters": [
+    {
+      "t": 8,
+      "title": "“okay”"
+    },
+    {
+      "t": 11,
+      "title": "music"
+    }
+  ],
+  "connections": [
+    {
+      "t": 8,
+      "to": "single-word acknowledgment",
+      "relationship": "“Okay” is the only captioned speech and carries no independent process detail."
+    },
+    {
+      "t": 11,
+      "to": "music/visual painting",
+      "relationship": "The remaining clip depends on imagery and music rather than transcript evidence."
+    },
+    {
+      "t": 15,
+      "to": "title-level collaboration",
+      "relationship": "David Choe, Hebert Baglione and Brazil are source metadata, not line-level speaker proof."
+    }
+  ],
+  "source_notes": [
+    "Official David Choe channel upload.",
+    "Automatic captions contain two records / two words / 0:16.",
+    "The title names David Choe and Hebert Baglione.",
+    "Brazil is title-level geography.",
+    "No city or venue is established.",
+    "No artwork, technique or material is described in speech.",
+    "Music is excluded from enrollment.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "sparse transcript",
+    "music/non-speech",
+    "visual-context dependency",
+    "speaker attribution risk"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; no publisher speaker prefixes exist"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve every raw token/word and uncertainty; do not fabricate a fuller transcript"
+    },
+    {
+      "t": -0.04,
+      "rule": "treat title/channel people, places and works as source-level metadata rather than line-level proof"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not identify the speaker of “okay” from title or adjacency"
+    },
+    {
+      "t": -0.019999999999999997,
+      "rule": "do not invent painting technique, material, artwork or location detail"
+    },
+    {
+      "t": -0.009999999999999998,
+      "rule": "exclude music from transcript quotations and voice enrollment"
+    },
+    {
+      "t": 8,
+      "rule": "preserve narrow caption meaning without expanding visual context or speaker identity"
+    },
+    {
+      "t": 11,
+      "rule": "retain as non-speech; exclude from quotes and enrollment"
+    }
+  ]
+}

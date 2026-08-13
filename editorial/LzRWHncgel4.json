@@ -1,0 +1,233 @@
+{
+  "episode_id": "LzRWHncgel4",
+  "title": "Discover David Choe's Sketching Techniques",
+  "reviewed_on": "2026-07-31",
+  "summary": "A sparse 1:08 official-channel excerpt with only two substantive caption units. The speaker says he does not sketch first, goes directly toward a finished work, and sometimes makes sketches afterward. The caption phrase “after I finish the sketch” conflicts with that sequence and remains semantically unresolved rather than silently rewritten as fact. The rest is laughter, an isolated “so,” a likely automatic-caption “foreign” marker and a clipped final “you.” The title overstates the available evidence: this is one reverse-order process observation, not a developed tutorial. No missing technique, material, sequence or speaker is invented; zero named turns ship.",
+  "quality": {
+    "raw_segments": 5,
+    "clean_segments": 5,
+    "raw_words_approx": 40,
+    "clean_words_approx": 40,
+    "duration_seconds": 68,
+    "accepted_context_decisions": 12,
+    "chapters": 12,
+    "connections": 8,
+    "content_warnings": 4,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 18
+  },
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; laughter/non-speech excluded",
+    "reason": "Official-channel provenance does not establish a publisher-labeled line-level performer. The excerpt is sparse and likely cut from a longer recording. Publish zero named turns and do not enroll laughter, silence, language markers or fragments."
+  },
+  "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)"
+  ],
+  "places": [
+    "unnamed recording/workspace"
+  ],
+  "works": [
+    "Discover David Choe's Sketching Techniques",
+    "unresolved parent recording",
+    "finished work and later sketches (unseen/unnamed)"
+  ],
+  "themes": [
+    "reverse-order sketching",
+    "direct-to-finish process",
+    "process idiosyncrasy",
+    "caption contradiction",
+    "sparse excerpt",
+    "title/evidence mismatch",
+    "truncation"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "opening hesitation"
+    },
+    {
+      "t": 1,
+      "title": "speaker says he does not sketch first"
+    },
+    {
+      "t": 2,
+      "title": "goes directly toward a finished image"
+    },
+    {
+      "t": 4,
+      "title": "self-characterization"
+    },
+    {
+      "t": 5,
+      "title": "after he finishes the work [caption wording conflicts with no-sketch claim]"
+    },
+    {
+      "t": 7,
+      "title": "sometimes makes sketches after the finished work"
+    },
+    {
+      "t": 10,
+      "title": "rhetorical question about reverse-order sketching"
+    },
+    {
+      "t": 13,
+      "title": "laughter"
+    },
+    {
+      "t": 22,
+      "title": "isolated connective; continuation absent"
+    },
+    {
+      "t": 41,
+      "title": "automatic-caption language marker or isolated word; unresolved"
+    },
+    {
+      "t": 49,
+      "title": "laughter"
+    },
+    {
+      "t": 67,
+      "title": "isolated final word; clip truncated"
+    }
+  ],
+  "connections": [
+    {
+      "t": 1,
+      "to": "no preliminary sketch",
+      "relationship": "The speaker states he does not begin with a sketch."
+    },
+    {
+      "t": 2,
+      "to": "direct-to-finish process",
+      "relationship": "He describes moving immediately toward the finished image."
+    },
+    {
+      "t": 4,
+      "to": "idiosyncratic method",
+      "relationship": "He labels the ordering unusual rather than universal."
+    },
+    {
+      "t": 5,
+      "to": "caption contradiction",
+      "relationship": "“After I finish the sketch” conflicts with the preceding no-sketch statement and requires listening/video context."
+    },
+    {
+      "t": 7,
+      "to": "post-finish sketching",
+      "relationship": "Sketches are described as sometimes following the finished work."
+    },
+    {
+      "t": 13,
+      "to": "laughter",
+      "relationship": "Audience laughter indicates a live/conversational parent source but supplies no identity."
+    },
+    {
+      "t": 41,
+      "to": "sparse non-speech interval",
+      "relationship": "The isolated marker does not support reconstructed dialogue."
+    },
+    {
+      "t": 67,
+      "to": "truncated ending",
+      "relationship": "A final isolated word proves the excerpt ends without a complete sentence."
+    }
+  ],
+  "source_notes": [
+    "Official David Choe channel upload.",
+    "Automatic captions contain five long records / 40 words / 1:08.",
+    "Only the first two records contain coherent substantive speech.",
+    "The title suggests a tutorial, but the source supports one process observation.",
+    "The no-sketch/post-finish-sketch sequence is direct evidence.",
+    "The phrase “finish the sketch” is internally conflicting and stays unresolved.",
+    "Laughter suggests other people may be present but proves no identity.",
+    "“Foreign” may be an automatic caption marker, not spoken English.",
+    "The final “you” is incomplete.",
+    "No materials, work title, image, location or parent source is established.",
+    "No voice enrollment window is accepted.",
+    "Raw caption wording remains immutable."
+  ],
+  "content_warnings": [
+    "title/evidence mismatch",
+    "caption contradiction",
+    "sparse and missing context",
+    "clip truncation"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named turns; no publisher speaker prefixes exist"
+    },
+    {
+      "t": -0.05,
+      "rule": "do not present this excerpt as a complete sketching tutorial"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not silently resolve the contradiction between no preliminary sketch and “finish the sketch”"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not invent speech from laughter, silence, “foreign,” isolated connectives or the final word"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not identify audience members or a parent source without evidence"
+    },
+    {
+      "t": -0.01,
+      "rule": "surface the reverse-order process as a narrow attributed observation, not a universal method"
+    },
+    {
+      "t": 0,
+      "rule": "retain as sparse/non-speech or unresolved evidence; exclude from quotes and voice enrollment"
+    },
+    {
+      "t": 1,
+      "rule": "preserve as attributed craft-process evidence; do not expand beyond the words available"
+    },
+    {
+      "t": 2,
+      "rule": "preserve as attributed craft-process evidence; do not expand beyond the words available"
+    },
+    {
+      "t": 4,
+      "rule": "preserve as attributed craft-process evidence; do not expand beyond the words available"
+    },
+    {
+      "t": 5,
+      "rule": "preserve as attributed craft-process evidence; do not expand beyond the words available"
+    },
+    {
+      "t": 7,
+      "rule": "preserve as attributed craft-process evidence; do not expand beyond the words available"
+    },
+    {
+      "t": 10,
+      "rule": "preserve as attributed craft-process evidence; do not expand beyond the words available"
+    },
+    {
+      "t": 13,
+      "rule": "retain as sparse/non-speech or unresolved evidence; exclude from quotes and voice enrollment"
+    },
+    {
+      "t": 22,
+      "rule": "retain as sparse/non-speech or unresolved evidence; exclude from quotes and voice enrollment"
+    },
+    {
+      "t": 41,
+      "rule": "retain as sparse/non-speech or unresolved evidence; exclude from quotes and voice enrollment"
+    },
+    {
+      "t": 49,
+      "rule": "retain as sparse/non-speech or unresolved evidence; exclude from quotes and voice enrollment"
+    },
+    {
+      "t": 67,
+      "rule": "retain as sparse/non-speech or unresolved evidence; exclude from quotes and voice enrollment"
+    }
+  ]
+}

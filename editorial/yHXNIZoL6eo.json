@@ -1,0 +1,45 @@
+{
+  "episode_id": "yHXNIZoL6eo",
+  "title": "The Legend Of Igloo Hong",
+  "reviewed_on": "2026-08-01",
+  "summary": "A 32-second performance/story fragment titled The Legend Of Igloo Hong. An unresolved voice says, “I became this man,” felt what it was like to be mocked for being the “lightest” person in a village, and “lived his entire life.” The first-to-third-person shift suggests performance or character inhabitation, not a clean autobiographical statement. “Lightest” may be literal or miscaptioned and requires listening. Igloo Hong and the legend framing are title/work metadata, not verified biography or ethnography. Zero named turns and enrollment windows ship.",
+  "quality": {"raw_segments": 5, "clean_segments": 5, "raw_words_approx": 31, "clean_words_approx": 31, "duration_seconds": 32, "accepted_context_decisions": 5, "chapters": 5, "connections": 8, "content_warnings": 6, "identity_windows": 0, "named_turns": 0, "publisher_labeled_speakers": 0, "cleaning_edits": 0, "cleaning_net_word_delta": 0, "public_restriction_spans": 12},
+  "speaker_policy": {"status": "performance voice unresolved; excluded from enrollment", "reason": "The title does not identify the line-level performer, and character inhabitation is unsuitable for baseline voice enrollment without independent proof."},
+  "people": ["Igloo Hong (title/work-level figure)", "unidentified performer/narrator"],
+  "places": ["unidentified village"],
+  "works": ["The Legend Of Igloo Hong"],
+  "themes": ["character inhabitation", "mockery", "difference", "village belonging", "life-story compression", "performance and identity", "caption ambiguity"],
+  "chapters": [
+    {"t": 0.08, "title": "“I became this man”"},
+    {"t": 3.76, "title": "feeling what mockery was like"},
+    {"t": 7.12, "title": "the uncertain “lightest” difference"},
+    {"t": 8.88, "title": "living his entire life"},
+    {"t": 20.04, "title": "music"}
+  ],
+  "connections": [
+    {"t": 0.08, "to": "character inhabitation", "relationship": "The narrator describes becoming another man."},
+    {"t": 3.76, "to": "embodied perspective", "relationship": "The performance claims felt experience of being mocked."},
+    {"t": 7.12, "to": "difference", "relationship": "The caption labels the character the village’s “lightest,” with meaning unresolved."},
+    {"t": 7.13, "to": "listening repair", "relationship": "Complexion, weight, status or another word cannot be selected from text alone."},
+    {"t": 7.14, "to": "village belonging", "relationship": "The mockery is situated inside an unnamed village."},
+    {"t": 8.88, "to": "life-story compression", "relationship": "The line claims to inhabit or narrate an entire life."},
+    {"t": 8.89, "to": "performance versus biography", "relationship": "The pronoun shift argues against treating the fragment as direct autobiography."},
+    {"t": 20.04, "to": "music", "relationship": "The remaining marker is non-speech."}
+  ],
+  "source_notes": ["Short upload titled The Legend Of Igloo Hong.", "Automatic captions contain five records / 31 words or markers / 0:32.", "Four records form one cross-caption spoken sentence.", "No caption speaker prefix exists.", "Igloo Hong appears in the title only.", "The narrator says “I became this man.”", "The pronoun later shifts to “his entire life.”", "That shift supports a performance/character reading but does not prove a genre.", "“Lightest” is the caption token but its intended meaning is unresolved.", "The village is not named.", "No historical or ethnographic claim is independently verified.", "Music is excluded from speech.", "Raw captions remain immutable."],
+  "content_warnings": ["mockery/bullying", "identity ambiguity", "fiction-versus-biography overclaim risk", "ethnographic overclaim risk", "speaker-attribution risk", "music/non-speech"],
+  "publication_restrictions": [
+    {"t": -0.06, "rule": "publish zero named line-level turns"},
+    {"t": -0.05, "rule": "treat Igloo Hong and legend framing as title/work metadata"},
+    {"t": -0.04, "rule": "do not convert performed first person into David Choe biography"},
+    {"t": -0.03, "rule": "do not present the fragment as verified ethnography or history"},
+    {"t": -0.02, "rule": "exclude a possible character voice from enrollment"},
+    {"t": -0.01, "rule": "preserve mockery and difference without euphemizing them"},
+    {"t": 0.08, "rule": "retain “became this man” without naming performer or character"},
+    {"t": 3.76, "rule": "retain the experience claim as performance language"},
+    {"t": 7.12, "rule": "keep “lightest” listening-required and do not select a protected-trait interpretation"},
+    {"t": 7.13, "rule": "do not infer complexion, weight, rank or status"},
+    {"t": 8.88, "rule": "preserve the pronoun shift rather than smoothing it into autobiography"},
+    {"t": 20.04, "rule": "exclude music marker from dialogue and word evidence"}
+  ]
+}

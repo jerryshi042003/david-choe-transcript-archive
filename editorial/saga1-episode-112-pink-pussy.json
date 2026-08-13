@@ -1,0 +1,1588 @@
+{
+  "episode_id": "saga1-episode-112-pink-pussy",
+  "title": "Pink Pussy",
+  "reviewed_on": "2026-07-31",
+  "summary": "Episode 112 opens with a confirmed ASR hallucination, then records an unusually intoxicated DVDASA session centered on promethazine/codeine mixture, fan and social-media boundaries, a disputed art commission, compensated-date applicants, a spouse's painful-sex account, an uncommissioned Friend Zone television pitch, sex workers who refuse interviews, dangerous bleach misinformation, private sexual messages, music previews and a Critter art-show announcement. The audit retains explicit, offensive, contradictory and implausible ideas as spoken; it separates correction, uncertainty, medical context, direct refusals and publication restrictions from the transcript itself.",
+  "quality": {
+    "raw_segments": 2020,
+    "clean_segments": 2019,
+    "raw_words_approx": 13577,
+    "clean_words_approx": 13359,
+    "duration_seconds": 4610.16,
+    "accepted_context_decisions": 355,
+    "chapters": 355,
+    "connections": 20,
+    "content_warnings": 25,
+    "identity_windows": 5,
+    "named_turns": 0,
+    "cleaning_edits": 2,
+    "cleaning_net_reduction": 1
+  },
+  "source_notes": [
+    "The raw file contains 2,020 segments and approximately 13,577 words; the clean file contains 2,019 segments and approximately 13,359 words across 4,610.16 seconds.",
+    "At 12.80–27.18, the raw ASR repeats `Open` 218 times with compression ratio 48.43 and degenerate word timestamps. The clean transcript correctly replaces this unrecoverable hallucination with `[indistinct audio - not transcribable]`; regenerate from immutable audio if possible.",
+    "The other removed item is an empty zero-duration artifact at 2,213.38 seconds. No meaningful spoken idea is intentionally removed.",
+    "The episode's lean, sizzurp, purple-drank and chopped-and-screwed terminology is normalized only where context supports it. Drug effects, celebrity use, cause-of-death and seizure claims remain attributed or explicitly unverified.",
+    "Codeine is an opioid, but `liquid heroin` is colloquial rather than a literal equivalence. The Pimp C passage oversimplifies a reported interaction among codeine/promethazine intoxication and sleep apnea.",
+    "The audible intoxication and sedation are capacity context, never proof of consent. A recipe-like discussion remains documented but is not reformatted as instructions.",
+    "A private or friends-only social-media page, a message, an application, a mask, payment or attendance never creates general permission to identify, contact, record or publish a person.",
+    "The spouse-pain discussion is preserved literally but not romanticized: pain, duty or accommodation does not establish freely given, act-specific, revocable consent.",
+    "The sex-worker passage contains explicit refusals. Anonymization can reduce exposure but cannot replace agreement to participate.",
+    "The bleach claim is false and dangerous; bleach should not be used on genitals or as STI prevention/treatment. The utterance remains in the transcript with separate correction.",
+    "The music passage likely identifies Brand New's `The Quiet Things That No One Ever Knows`; exact lyric quotation requires source verification. Unreleased Money Mark/Asa material remains limited to descriptive metadata.",
+    "The Critter art-show information is separable from a counterfeit allegation that the speakers themselves frame as rumor. Threat language is treated as hyperbole, not a verified plan.",
+    "All seven rejected suggestions are recorded in the fixture, including attempts to convert sedation into consent, masks into permission, and offensive ideas into sanitized prose."
+  ],
+  "speaker_policy": "The recording names recurring cast and public people, but only five coarse embeddings and zero diarized turns exist. These do not pass independently held-out multispeaker validation. Named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 12.8,
+      "title": "[indistinct audio - not transcribable]"
+    },
+    {
+      "t": 39.78,
+      "title": "direct request to stop audio interference"
+    },
+    {
+      "t": 43.86,
+      "title": "speaker identifies audio-mixing role"
+    },
+    {
+      "t": 62,
+      "title": "improvised rap name/reference"
+    },
+    {
+      "t": 87,
+      "title": "improvised rap references"
+    },
+    {
+      "t": 95,
+      "title": "DVDASA / David Choe"
+    },
+    {
+      "t": 100,
+      "title": "Critter Fleming"
+    },
+    {
+      "t": 103,
+      "title": "Val"
+    },
+    {
+      "t": 105,
+      "title": "Bill Poon"
+    },
+    {
+      "t": 141,
+      "title": "on-air intoxication self-report"
+    },
+    {
+      "t": 193,
+      "title": "reported drug-effect expectation"
+    },
+    {
+      "t": 206,
+      "title": "David and Critter report ingesting promethazine/codeine mixture"
+    },
+    {
+      "t": 220,
+      "title": "speaker's value judgment"
+    },
+    {
+      "t": 242,
+      "title": "lean / sizzurp"
+    },
+    {
+      "t": 243,
+      "title": "pink/purple drink terminology in improvised title discussion"
+    },
+    {
+      "t": 247,
+      "title": "purple drank"
+    },
+    {
+      "t": 260,
+      "title": "project context deliberately withheld"
+    },
+    {
+      "t": 267,
+      "title": "David's self-description of low tolerance"
+    },
+    {
+      "t": 271,
+      "title": "use marijuana"
+    },
+    {
+      "t": 275,
+      "title": "prescription promethazine-codeine cough syrup"
+    },
+    {
+      "t": 279,
+      "title": "cast's indication claim"
+    },
+    {
+      "t": 282,
+      "title": "popular lean preparation discussed"
+    },
+    {
+      "t": 285,
+      "title": "colloquial comparison; codeine is an opioid but lean is not literally heroin"
+    },
+    {
+      "t": 285,
+      "title": "Pimp C's death involved codeine/promethazine intoxication with sleep apnea reported as a contrib"
+    },
+    {
+      "t": 292,
+      "title": "cast's unverified celebrity-health claim"
+    },
+    {
+      "t": 293,
+      "title": "artists alleged to reference lean in music"
+    },
+    {
+      "t": 302,
+      "title": "trill music"
+    },
+    {
+      "t": 321,
+      "title": "trill music"
+    },
+    {
+      "t": 330,
+      "title": "chopped and screwed"
+    },
+    {
+      "t": 334,
+      "title": "drank / syrup (sizzurp)"
+    },
+    {
+      "t": 347,
+      "title": "self-experiment described as project research"
+    },
+    {
+      "t": 350,
+      "title": "reported ingestion"
+    },
+    {
+      "t": 355,
+      "title": "subjective sedative/euphoric effect"
+    },
+    {
+      "t": 360,
+      "title": "subjective sedation"
+    },
+    {
+      "t": 369,
+      "title": "reported onset expectation"
+    },
+    {
+      "t": 376,
+      "title": "David's subjective onset report"
+    },
+    {
+      "t": 381,
+      "title": "sedation warning sign"
+    },
+    {
+      "t": 388,
+      "title": "dangerous sedation described as recreational challenge"
+    },
+    {
+      "t": 395,
+      "title": "reported subculture framing"
+    },
+    {
+      "t": 402,
+      "title": "speaker's potency/quality boast"
+    },
+    {
+      "t": 410,
+      "title": "ongoing impairment during recording"
+    },
+    {
+      "t": 420,
+      "title": "David says this is his first intoxicated episode"
+    },
+    {
+      "t": 422,
+      "title": "Critter also reports intoxication"
+    },
+    {
+      "t": 429,
+      "title": "recent travel/work exhaustion"
+    },
+    {
+      "t": 448,
+      "title": "about the same amount"
+    },
+    {
+      "t": 450,
+      "title": "double-cup stereotype/practice"
+    },
+    {
+      "t": 463,
+      "title": "insulation claim about double cups"
+    },
+    {
+      "t": 477,
+      "title": "sizzurp derives from `syrup` slang"
+    },
+    {
+      "t": 479,
+      "title": "common folk etymology"
+    },
+    {
+      "t": 485,
+      "title": "question immediately answered no"
+    },
+    {
+      "t": 489,
+      "title": "promethazine-codeine is prescription medication"
+    },
+    {
+      "t": 492,
+      "title": "cast speculation about diversion"
+    },
+    {
+      "t": 506,
+      "title": "reported illicit-market price"
+    },
+    {
+      "t": 518,
+      "title": "common lean-mixing terminology"
+    },
+    {
+      "t": 525,
+      "title": "reported sweetener practice"
+    },
+    {
+      "t": 548,
+      "title": "subjective inference from sweetness/effect"
+    },
+    {
+      "t": 559,
+      "title": "speaker recognizes impairment"
+    },
+    {
+      "t": 563,
+      "title": "reported sedation during transport"
+    },
+    {
+      "t": 572,
+      "title": "Asa Akira absent"
+    },
+    {
+      "t": 579,
+      "title": "private travel schedule"
+    },
+    {
+      "t": 585,
+      "title": "Asa Akira's Insatiable"
+    },
+    {
+      "t": 600,
+      "title": "queen of DVDASA"
+    },
+    {
+      "t": 601,
+      "title": "promotional aspiration"
+    },
+    {
+      "t": 615,
+      "title": "private/public account separation"
+    },
+    {
+      "t": 620,
+      "title": "permission check; Bill says it may be discussed"
+    },
+    {
+      "t": 642,
+      "title": "Bill states purpose of separate account"
+    },
+    {
+      "t": 652,
+      "title": "private-account access boundary"
+    },
+    {
+      "t": 660,
+      "title": "public show account/nickname as discussed"
+    },
+    {
+      "t": 688,
+      "title": "audience feedback about show participation"
+    },
+    {
+      "t": 693,
+      "title": "stated conditional publication boundary"
+    },
+    {
+      "t": 704,
+      "title": "immediate joke/retraction"
+    },
+    {
+      "t": 711,
+      "title": "Sean Chao"
+    },
+    {
+      "t": 713,
+      "title": "Money Mark"
+    },
+    {
+      "t": 724,
+      "title": "Bobby Trivia/Bobby Lee depending context"
+    },
+    {
+      "t": 729,
+      "title": "David's opinion of Sean's work"
+    },
+    {
+      "t": 737,
+      "title": "private commercial dispute"
+    },
+    {
+      "t": 741,
+      "title": "speakers disagree on elapsed commission time"
+    },
+    {
+      "t": 759,
+      "title": "private message to Bill"
+    },
+    {
+      "t": 763,
+      "title": "uncertain/private attendance message"
+    },
+    {
+      "t": 769,
+      "title": "public companion-blog post"
+    },
+    {
+      "t": 773,
+      "title": "fan request, not confirmed attendance"
+    },
+    {
+      "t": 780,
+      "title": "Bill states lack of personal relationship"
+    },
+    {
+      "t": 827,
+      "title": "cast's exploitative condition for fan interaction"
+    },
+    {
+      "t": 854,
+      "title": "explicit quid-pro-quo fantasy"
+    },
+    {
+      "t": 872,
+      "title": "impaired self-analysis"
+    },
+    {
+      "t": 900,
+      "title": "David's self-description over time"
+    },
+    {
+      "t": 943,
+      "title": "David's characterization of Bobby"
+    },
+    {
+      "t": 950,
+      "title": "reported fan harassment"
+    },
+    {
+      "t": 962,
+      "title": "delegated account-management claim"
+    },
+    {
+      "t": 971,
+      "title": "David says some correspondence is handled by Bobby"
+    },
+    {
+      "t": 985,
+      "title": "private email-filtering practice"
+    },
+    {
+      "t": 1013,
+      "title": "David's response to assistance requests"
+    },
+    {
+      "t": 1020,
+      "title": "political stereotype"
+    },
+    {
+      "t": 1031,
+      "title": "prior mutual-aid callback"
+    },
+    {
+      "t": 1047,
+      "title": "speaker's broad dependency theory"
+    },
+    {
+      "t": 1069,
+      "title": "term supplied for David's intended claim"
+    },
+    {
+      "t": 1082,
+      "title": "private caller obtained phone number"
+    },
+    {
+      "t": 1087,
+      "title": "explicit withholding of contact-acquisition method"
+    },
+    {
+      "t": 1094,
+      "title": "unverified private correspondent identity/title"
+    },
+    {
+      "t": 1104,
+      "title": "direct no-contact boundary"
+    },
+    {
+      "t": 1117,
+      "title": "private unsolicited work request"
+    },
+    {
+      "t": 1122,
+      "title": "ask around / unclear ASR"
+    },
+    {
+      "t": 1126,
+      "title": "joke; no position exists"
+    },
+    {
+      "t": 1141,
+      "title": "Bobby Trivia nickname `True Star`"
+    },
+    {
+      "t": 1170,
+      "title": "private caller's additional request"
+    },
+    {
+      "t": 1175,
+      "title": "direct no-contact boundary"
+    },
+    {
+      "t": 1200,
+      "title": "reported hostile response from private caller"
+    },
+    {
+      "t": 1211,
+      "title": "speaker's mixed characterization despite boundary violation"
+    },
+    {
+      "t": 1217,
+      "title": "private commercial dispute"
+    },
+    {
+      "t": 1223,
+      "title": "public exhibition context"
+    },
+    {
+      "t": 1231,
+      "title": "reported sale to public musician"
+    },
+    {
+      "t": 1245,
+      "title": "private financial detail"
+    },
+    {
+      "t": 1258,
+      "title": "private message seeking friendship"
+    },
+    {
+      "t": 1269,
+      "title": "impaired hunger interruption"
+    },
+    {
+      "t": 1277,
+      "title": "Annie's granola supporter"
+    },
+    {
+      "t": 1283,
+      "title": "reported tremor/shakiness during intoxication"
+    },
+    {
+      "t": 1297,
+      "title": "private fan's permission-seeking message"
+    },
+    {
+      "t": 1308,
+      "title": "Bill's description of replying to unfamiliar fans"
+    },
+    {
+      "t": 1317,
+      "title": "public-person access-boundary discussion"
+    },
+    {
+      "t": 1330,
+      "title": "cast's experience of boundary change with audience growth"
+    },
+    {
+      "t": 1344,
+      "title": "Eminem `Stan` analogy for parasocial contact"
+    },
+    {
+      "t": 1358,
+      "title": "cast discusses gifts as incentive for interaction"
+    },
+    {
+      "t": 1379,
+      "title": "cast's promotional claim"
+    },
+    {
+      "t": 1383,
+      "title": "Episodes 104–105 title callback"
+    },
+    {
+      "t": 1392,
+      "title": "DVDASA.com"
+    },
+    {
+      "t": 1394,
+      "title": "cast category excluding sex workers"
+    },
+    {
+      "t": 1405,
+      "title": "cast disclaimer beside compensated-date planning"
+    },
+    {
+      "t": 1408,
+      "title": "cast euphemism for compensated date"
+    },
+    {
+      "t": 1411,
+      "title": "private applicant"
+    },
+    {
+      "t": 1420,
+      "title": "private applicant and third-party relationship/occupation clues"
+    },
+    {
+      "t": 1431,
+      "title": "cast's unverified summary of private submissions"
+    },
+    {
+      "t": 1439,
+      "title": "proposed selection event"
+    },
+    {
+      "t": 1450,
+      "title": "travel/logistics question for proposed dates"
+    },
+    {
+      "t": 1458,
+      "title": "cast's transportation framing"
+    },
+    {
+      "t": 1467,
+      "title": "audience/fan attendance discussion"
+    },
+    {
+      "t": 1474,
+      "title": "private/public hockey teammates from show context"
+    },
+    {
+      "t": 1494,
+      "title": "private travel schedule"
+    },
+    {
+      "t": 1521,
+      "title": "public art-show city, but exact travel plan restricted"
+    },
+    {
+      "t": 1533,
+      "title": "possible private gallery viewing"
+    },
+    {
+      "t": 1540,
+      "title": "Friday Night Lights slogan/reference"
+    },
+    {
+      "t": 1548,
+      "title": "Bobby clarifies first since joining this league"
+    },
+    {
+      "t": 1584,
+      "title": "proposed unofficial award"
+    },
+    {
+      "t": 1593,
+      "title": "hypothetical wager/proposal"
+    },
+    {
+      "t": 1605,
+      "title": "private marriage/sexual-health discussion begins"
+    },
+    {
+      "t": 1614,
+      "title": "private wedding date"
+    },
+    {
+      "t": 1617,
+      "title": "cast's private sexual claim"
+    },
+    {
+      "t": 1626,
+      "title": "invasive spouse sexual-history question"
+    },
+    {
+      "t": 1627,
+      "title": "uncertain private self-report"
+    },
+    {
+      "t": 1633,
+      "title": "private spouse schedule"
+    },
+    {
+      "t": 1648,
+      "title": "White Day is March 14 in several East Asian contexts; cast renames/reframes it"
+    },
+    {
+      "t": 1669,
+      "title": "violent fictional holiday premise"
+    },
+    {
+      "t": 1696,
+      "title": "gender-neutral violence joke"
+    },
+    {
+      "t": 1717,
+      "title": "explicit rough-sex framing"
+    },
+    {
+      "t": 1719,
+      "title": "Asa Akira / Insatiable reference"
+    },
+    {
+      "t": 1730,
+      "title": "violent sexual joke"
+    },
+    {
+      "t": 1747,
+      "title": "request for audience sexual/violence media"
+    },
+    {
+      "t": 1751,
+      "title": "request to display injury marks"
+    },
+    {
+      "t": 1773,
+      "title": "joke/proposal involving minors and alcohol"
+    },
+    {
+      "t": 1779,
+      "title": "drug/alcohol celebration joke"
+    },
+    {
+      "t": 1783,
+      "title": "inclusive/outcast promotional litany"
+    },
+    {
+      "t": 1793,
+      "title": "rhetorical audience categories"
+    },
+    {
+      "t": 1813,
+      "title": "hockey encouragement"
+    },
+    {
+      "t": 1823,
+      "title": "ambiguous performance-enhancement joke"
+    },
+    {
+      "t": 1838,
+      "title": "speech"
+    },
+    {
+      "t": 1851,
+      "title": "Miracle (2004) locker-room speech reference"
+    },
+    {
+      "t": 1869,
+      "title": "suggestion to compile public speeches"
+    },
+    {
+      "t": 1898,
+      "title": "cast speculation about private spouse"
+    },
+    {
+      "t": 1903,
+      "title": "private spouse pelvic/vaginal pain"
+    },
+    {
+      "t": 1922,
+      "title": "pain persists during sex"
+    },
+    {
+      "t": 1927,
+      "title": "cast infers accommodation despite pain"
+    },
+    {
+      "t": 1931,
+      "title": "partner reports brief intercourse and repositioning"
+    },
+    {
+      "t": 1937,
+      "title": "reported attempt to reduce pain"
+    },
+    {
+      "t": 1938,
+      "title": "private alternative sexual activity"
+    },
+    {
+      "t": 1954,
+      "title": "parody/quotation from Miracle"
+    },
+    {
+      "t": 1966,
+      "title": "improvised podcast version of sports speech"
+    },
+    {
+      "t": 1982,
+      "title": "Miracle speech parody"
+    },
+    {
+      "t": 2005,
+      "title": "hockey motivation"
+    },
+    {
+      "t": 2016,
+      "title": "reported audience-to-teammate connection"
+    },
+    {
+      "t": 2033,
+      "title": "joke; from zero to two has undefined percentage increase"
+    },
+    {
+      "t": 2052,
+      "title": "division final within eight-team league"
+    },
+    {
+      "t": 2074,
+      "title": "series tied 1–1 before final"
+    },
+    {
+      "t": 2086,
+      "title": "third period"
+    },
+    {
+      "t": 2109,
+      "title": "poonreport.tumblr.com"
+    },
+    {
+      "t": 2115,
+      "title": "Asa Akira-related events"
+    },
+    {
+      "t": 2122,
+      "title": "Bill hopes he and Asa are friends; says ask her"
+    },
+    {
+      "t": 2133,
+      "title": "reported commercial visit"
+    },
+    {
+      "t": 2135,
+      "title": "uncommissioned proposal from private contacts"
+    },
+    {
+      "t": 2146,
+      "title": "participants negotiate disclosure boundary on air"
+    },
+    {
+      "t": 2153,
+      "title": "private chain of contacts"
+    },
+    {
+      "t": 2164,
+      "title": "conditional openness, not acceptance"
+    },
+    {
+      "t": 2175,
+      "title": "question immediately denied"
+    },
+    {
+      "t": 2186,
+      "title": "Thumbs Up! project chronology"
+    },
+    {
+      "t": 2197,
+      "title": "public Vice television context"
+    },
+    {
+      "t": 2205,
+      "title": "producer's derivative concept"
+    },
+    {
+      "t": 2213,
+      "title": "private producer chain remains unnamed"
+    },
+    {
+      "t": 2239,
+      "title": "immediate correction: not douches, inexperienced"
+    },
+    {
+      "t": 2248,
+      "title": "informal pitch, not commissioned offer"
+    },
+    {
+      "t": 2254,
+      "title": "private representation detail"
+    },
+    {
+      "t": 2264,
+      "title": "private adviser recommends dropping producer"
+    },
+    {
+      "t": 2277,
+      "title": "cast says producers lack recognizable prior credits"
+    },
+    {
+      "t": 2294,
+      "title": "cast asserts any show should be made through DVDASA"
+    },
+    {
+      "t": 2310,
+      "title": "producer concept"
+    },
+    {
+      "t": 2320,
+      "title": "cast's rejection/name joke"
+    },
+    {
+      "t": 2326,
+      "title": "sizzurp/lean intoxication callback"
+    },
+    {
+      "t": 2337,
+      "title": "self-administered sedative intoxication joke"
+    },
+    {
+      "t": 2339,
+      "title": "cast speculation; promethazine/codeine is sedating, but `rape drug` is not a pharmacologic class"
+    },
+    {
+      "t": 2345,
+      "title": "sedation/impairment"
+    },
+    {
+      "t": 2355,
+      "title": "sexual-contact hypothetical involving impaired person"
+    },
+    {
+      "t": 2364,
+      "title": "uncommissioned reality-show working title"
+    },
+    {
+      "t": 2371,
+      "title": "proposed role, not accepted employment"
+    },
+    {
+      "t": 2404,
+      "title": "widely misattributed aphorism; speaker admits uncertainty"
+    },
+    {
+      "t": 2423,
+      "title": "Linda Linda Linda (2005)"
+    },
+    {
+      "t": 2429,
+      "title": "James Iha"
+    },
+    {
+      "t": 2432,
+      "title": "fictional adolescent protagonists"
+    },
+    {
+      "t": 2446,
+      "title": "Cloud Atlas"
+    },
+    {
+      "t": 2456,
+      "title": "public musician plus private location inference"
+    },
+    {
+      "t": 2471,
+      "title": "In the Mood for Love"
+    },
+    {
+      "t": 2475,
+      "title": "Wong Kar-wai"
+    },
+    {
+      "t": 2481,
+      "title": "Searching for Bobby Fischer"
+    },
+    {
+      "t": 2486,
+      "title": "opinion based on clips; unclear whether referring to Fischer or another person"
+    },
+    {
+      "t": 2509,
+      "title": "Bill's preferred show concept"
+    },
+    {
+      "t": 2533,
+      "title": "proposed explicit montage using Asa's work"
+    },
+    {
+      "t": 2544,
+      "title": "proposed reality-show montage"
+    },
+    {
+      "t": 2581,
+      "title": "HBO Taxicab Confessions"
+    },
+    {
+      "t": 2594,
+      "title": "Poon Job"
+    },
+    {
+      "t": 2625,
+      "title": "fictional show setup"
+    },
+    {
+      "t": 2632,
+      "title": "cast's stigmatizing label for driving sex workers"
+    },
+    {
+      "t": 2637,
+      "title": "proposed filming setup"
+    },
+    {
+      "t": 2644,
+      "title": "explicit worker interview refusal pattern"
+    },
+    {
+      "t": 2648,
+      "title": "anonymization proposal rejected by continued refusal"
+    },
+    {
+      "t": 2653,
+      "title": "cast recognizes workers' refusal"
+    },
+    {
+      "t": 2663,
+      "title": "audience insult toward prior guest"
+    },
+    {
+      "t": 2670,
+      "title": "David's correction"
+    },
+    {
+      "t": 2675,
+      "title": "difficulty obtaining willing participants"
+    },
+    {
+      "t": 2679,
+      "title": "cast's stigma explanation"
+    },
+    {
+      "t": 2707,
+      "title": "prior sex-worker guest described euphemistically"
+    },
+    {
+      "t": 2714,
+      "title": "DVDASA reality show"
+    },
+    {
+      "t": 2718,
+      "title": "David's private contact-management practice"
+    },
+    {
+      "t": 2750,
+      "title": "career-transition theme"
+    },
+    {
+      "t": 2755,
+      "title": "public career-history claim"
+    },
+    {
+      "t": 2760,
+      "title": "David's self-described career expansion"
+    },
+    {
+      "t": 2760,
+      "title": "David's prediction about Asa's career"
+    },
+    {
+      "t": 2777,
+      "title": "show/cast career transition"
+    },
+    {
+      "t": 2788,
+      "title": "joke followed by affirmative answer"
+    },
+    {
+      "t": 2796,
+      "title": "private relationship check-in"
+    },
+    {
+      "t": 2822,
+      "title": "public-attention experience"
+    },
+    {
+      "t": 2832,
+      "title": "Val declines elaboration"
+    },
+    {
+      "t": 2843,
+      "title": "David's work-schedule/social-isolation claim"
+    },
+    {
+      "t": 2859,
+      "title": "private family schedule"
+    },
+    {
+      "t": 2880,
+      "title": "work friendship context"
+    },
+    {
+      "t": 2967,
+      "title": "private project travel with crew"
+    },
+    {
+      "t": 3008,
+      "title": "David inventories uncensored private conversation topics"
+    },
+    {
+      "t": 3061,
+      "title": "crew reaction metaphor"
+    },
+    {
+      "t": 3073,
+      "title": "false and dangerous claim; bleach must never be applied to genitals or inserted"
+    },
+    {
+      "t": 3076,
+      "title": "graphic unsafe anecdote/joke"
+    },
+    {
+      "t": 3208,
+      "title": "Money Mark's"
+    },
+    {
+      "t": 3263,
+      "title": "cast perception of adult-scene trend"
+    },
+    {
+      "t": 3274,
+      "title": "butthole / rectum, uncertain ASR"
+    },
+    {
+      "t": 3285,
+      "title": "cast recognizes adult-industry frame may distort norms"
+    },
+    {
+      "t": 3296,
+      "title": "speaker's opposite overgeneralization"
+    },
+    {
+      "t": 3378,
+      "title": "private employment/security role"
+    },
+    {
+      "t": 3416,
+      "title": "private third-party relationship allegation"
+    },
+    {
+      "t": 3424,
+      "title": "reported private account"
+    },
+    {
+      "t": 3431,
+      "title": "reported relationship development"
+    },
+    {
+      "t": 3442,
+      "title": "speaker insists private story is real"
+    },
+    {
+      "t": 3449,
+      "title": "The Other Woman (2014) comparison"
+    },
+    {
+      "t": 3469,
+      "title": "The Other Woman featuring Kate Upton"
+    },
+    {
+      "t": 3481,
+      "title": "reported revenge-sex/social-media plan"
+    },
+    {
+      "t": 3486,
+      "title": "proposed public intimate/revenge content"
+    },
+    {
+      "t": 3491,
+      "title": "David says he is proposed participant"
+    },
+    {
+      "t": 3495,
+      "title": "private message quoted on air"
+    },
+    {
+      "t": 3502,
+      "title": "likely alias/ASR mismatch in private message"
+    },
+    {
+      "t": 3531,
+      "title": "speaker explicitly uses an alias"
+    },
+    {
+      "t": 3535,
+      "title": "private image/account"
+    },
+    {
+      "t": 3545,
+      "title": "reported coercive control boast by private person"
+    },
+    {
+      "t": 3552,
+      "title": "reported private fantasy/proposal"
+    },
+    {
+      "t": 3565,
+      "title": "speaker says proposed threesome did not occur"
+    },
+    {
+      "t": 3577,
+      "title": "reported pressure for threesome"
+    },
+    {
+      "t": 3582,
+      "title": "expressed hesitation/boundary"
+    },
+    {
+      "t": 3592,
+      "title": "private production-team conversation context"
+    },
+    {
+      "t": 3607,
+      "title": "crew's reported judgment"
+    },
+    {
+      "t": 3690,
+      "title": "on sizzurp/lean"
+    },
+    {
+      "t": 3700,
+      "title": "public recurring segment"
+    },
+    {
+      "t": 3708,
+      "title": "Brand New `The Quiet Things That No One Ever Knows` excerpt"
+    },
+    {
+      "t": 3722,
+      "title": "incorrect trivia guess"
+    },
+    {
+      "t": 3737,
+      "title": "joking self-answer/segment name"
+    },
+    {
+      "t": 3779,
+      "title": "incorrect guesses"
+    },
+    {
+      "t": 3783,
+      "title": "`I Got 5 on It`"
+    },
+    {
+      "t": 3786,
+      "title": "Squirt soda versus sexual fluid wordplay"
+    },
+    {
+      "t": 3801,
+      "title": "title/relationship-story callback"
+    },
+    {
+      "t": 3822,
+      "title": "incorrect genre guess"
+    },
+    {
+      "t": 3845,
+      "title": "house-music clue"
+    },
+    {
+      "t": 3868,
+      "title": "Eazy-E"
+    },
+    {
+      "t": 3872,
+      "title": "trivia answer/category"
+    },
+    {
+      "t": 3883,
+      "title": "episode-recall trivia segment"
+    },
+    {
+      "t": 3907,
+      "title": "David's earlier malapropism"
+    },
+    {
+      "t": 3919,
+      "title": "March 14 / White Day premise"
+    },
+    {
+      "t": 3937,
+      "title": "impaired scoring joke"
+    },
+    {
+      "t": 3948,
+      "title": "Searching for Bobby Fischer"
+    },
+    {
+      "t": 3983,
+      "title": "uncertain/misattributed aphorism"
+    },
+    {
+      "t": 3990,
+      "title": "Jerry Maguire line/reference"
+    },
+    {
+      "t": 4005,
+      "title": "impaired rhetorical question"
+    },
+    {
+      "t": 4011,
+      "title": "drug/sexual joke followed by no"
+    },
+    {
+      "t": 4012,
+      "title": "direct refusal"
+    },
+    {
+      "t": 4013,
+      "title": "DVDASA"
+    },
+    {
+      "t": 4016,
+      "title": "uncertain public fan handle"
+    },
+    {
+      "t": 4020,
+      "title": "direct refusal and privacy statement"
+    },
+    {
+      "t": 4022,
+      "title": "public shout-outs as spoken, spellings uncertain"
+    },
+    {
+      "t": 4085,
+      "title": "horrorcore"
+    },
+    {
+      "t": 4093,
+      "title": "Bobby acknowledges classification may be off"
+    },
+    {
+      "t": 4110,
+      "title": "Brand New"
+    },
+    {
+      "t": 4121,
+      "title": "publicly teased music project"
+    },
+    {
+      "t": 4123,
+      "title": "Money Mark reports songs with Asa Akira"
+    },
+    {
+      "t": 4137,
+      "title": "Edison remix attribution as spoken"
+    },
+    {
+      "t": 4144,
+      "title": "audio playback setup"
+    },
+    {
+      "t": 4175,
+      "title": "explicit limit on unreleased preview"
+    },
+    {
+      "t": 4193,
+      "title": "Money Mark"
+    },
+    {
+      "t": 4206,
+      "title": "old salmon"
+    },
+    {
+      "t": 4210,
+      "title": "recording/publication timing note"
+    },
+    {
+      "t": 4220,
+      "title": "public exhibition event"
+    },
+    {
+      "t": 4222,
+      "title": "Upper Playground on Fillmore Street, San Francisco"
+    },
+    {
+      "t": 4228,
+      "title": "DVDASA"
+    },
+    {
+      "t": 4229,
+      "title": "David's mother and Critter exhibit together"
+    },
+    {
+      "t": 4241,
+      "title": "unverified demand rumor"
+    },
+    {
+      "t": 4243,
+      "title": "unverified rumor explicitly labeled unverifiable"
+    },
+    {
+      "t": 4259,
+      "title": "hyperbolic response to counterfeit rumor"
+    },
+    {
+      "t": 4260,
+      "title": "explicit uncertainty"
+    },
+    {
+      "t": 4276,
+      "title": "private gallery-source claim"
+    },
+    {
+      "t": 4285,
+      "title": "unverified story"
+    },
+    {
+      "t": 4291,
+      "title": "promotional appeal"
+    },
+    {
+      "t": 4304,
+      "title": "private family/emotional detail"
+    },
+    {
+      "t": 4320,
+      "title": "later corrected to Nick Nolte mugshot"
+    },
+    {
+      "t": 4345,
+      "title": "planned Ask Asa segment"
+    },
+    {
+      "t": 4350,
+      "title": "proposed explicit question for Asa"
+    },
+    {
+      "t": 4372,
+      "title": "outcast-audience promotional litany"
+    },
+    {
+      "t": 4384,
+      "title": "rhetorical audience category"
+    },
+    {
+      "t": 4402,
+      "title": "rhetorical audience category"
+    },
+    {
+      "t": 4409,
+      "title": "explicit shock rhetoric"
+    },
+    {
+      "t": 4422,
+      "title": "rhetorical category"
+    },
+    {
+      "t": 4437,
+      "title": "Santería"
+    },
+    {
+      "t": 4453,
+      "title": "retain literal legal-status slur/category"
+    },
+    {
+      "t": 4474,
+      "title": "ironic reversal clarified at 4500"
+    },
+    {
+      "t": 4500,
+      "title": "inclusive punchline"
+    },
+    {
+      "t": 4521,
+      "title": "DVDASA"
+    },
+    {
+      "t": 4532,
+      "title": "David Choe / Asa Akira"
+    },
+    {
+      "t": 4542,
+      "title": "Heather arrives after bros-only episode"
+    },
+    {
+      "t": 4559,
+      "title": "private event and intoxication discussion"
+    },
+    {
+      "t": 4566,
+      "title": "public calendar context"
+    },
+    {
+      "t": 4568,
+      "title": "private alcohol-use allegation/question"
+    },
+    {
+      "t": 4573,
+      "title": "ambiguous immediate response"
+    },
+    {
+      "t": 4583,
+      "title": "Nick Nolte mugshot"
+    },
+    {
+      "t": 4596,
+      "title": "rhetorical self-assessment during intoxication"
+    },
+    {
+      "t": 4600,
+      "title": "uncertain fan handle/person"
+    },
+    {
+      "t": 4604,
+      "title": "uncertain fan/account reference"
+    },
+    {
+      "t": 4606,
+      "title": "private fan conduct changed David's posting boundary"
+    }
+  ],
+  "connections": [
+    {
+      "t": 95,
+      "to": "DVDASA canonical show index",
+      "why": "The opening repairs the show and public-host names without inferring who speaks each line."
+    },
+    {
+      "t": 206,
+      "to": "DVDASA substance-use timeline",
+      "why": "David and Critter self-report drinking promethazine/codeine mixture during the recording."
+    },
+    {
+      "t": 285,
+      "to": "Lean / Houston hip-hop history",
+      "why": "The cast connects purple drank, Pimp C, trill music and chopped-and-screwed production."
+    },
+    {
+      "t": 381,
+      "to": "Corpus intoxication-and-capacity policy",
+      "why": "Heavy sedation is audible context and cannot be treated as sexual or publication consent."
+    },
+    {
+      "t": 615,
+      "to": "Corpus private-versus-public social-media policy",
+      "why": "A Facebook account visible to friends is not equivalent to broad republication permission."
+    },
+    {
+      "t": 709,
+      "to": "DVDASA fan-boundary history",
+      "why": "Messages, attendance and affection are repeatedly blurred with entitlement to contact or access."
+    },
+    {
+      "t": 950,
+      "to": "DVDASA private-contact incidents",
+      "why": "An alleged fan obtains a private phone number and is told not to contact the speaker."
+    },
+    {
+      "t": 1217,
+      "to": "David Choe commission history",
+      "why": "The episode recounts a disputed art commission involving a probably named private buyer."
+    },
+    {
+      "t": 1392,
+      "to": "DVDASA compensated-date project",
+      "why": "Applications, payment and scheduling appear, but applicants remain private and participation-specific."
+    },
+    {
+      "t": 1474,
+      "to": "David Choe hockey-project timeline",
+      "why": "Travel and production talk provides a dated project anchor while private personnel stay protected."
+    },
+    {
+      "t": 1605,
+      "to": "DVDASA consent taxonomy",
+      "why": "A spouse's pelvic pain and accommodation are not evidence of uncomplicated or irrevocable consent."
+    },
+    {
+      "t": 2122,
+      "to": "Friend Zone television pitch",
+      "why": "The cast outlines an uncommissioned TV format and a private producer-contact chain."
+    },
+    {
+      "t": 2632,
+      "to": "DVDASA sex-worker interview ethics",
+      "why": "Workers refuse interviews; a mask cannot substitute for participation or publication permission."
+    },
+    {
+      "t": 2796,
+      "to": "David Choe family and relationship privacy",
+      "why": "Personal history is relevant to the conversation but not an invitation to identify private people."
+    },
+    {
+      "t": 2967,
+      "to": "DVDASA safer-sex misinformation",
+      "why": "The bleach claim is false and dangerous and must be contextualized without deleting the utterance."
+    },
+    {
+      "t": 3378,
+      "to": "DVDASA private-message archive",
+      "why": "Private affair, threesome and revenge-sex messages and images require restricted publication handling."
+    },
+    {
+      "t": 3650,
+      "to": "Brand New — The Quiet Things That No One Ever Knows",
+      "why": "The music discussion likely identifies the song, while exact lyric text still requires source verification."
+    },
+    {
+      "t": 4012,
+      "to": "Corpus direct-refusal evidence",
+      "why": "A literal no and a later private designation are stronger than surrounding teasing or ambiguity."
+    },
+    {
+      "t": 4121,
+      "to": "Money Mark / Asa Akira music timeline",
+      "why": "The episode previews songs and an Edison remix whose unreleased status limits public reuse."
+    },
+    {
+      "t": 4220,
+      "to": "Critter Fleming art-show timeline",
+      "why": "The art-show announcement is separable from an explicitly unverified counterfeit rumor and private family detail."
+    }
+  ],
+  "content_warnings": [
+    "promethazine/codeine intoxication and dangerous sedation",
+    "opioid and antihistamine misuse discussion",
+    "drug-preparation description",
+    "impaired capacity and consent",
+    "explicit sexual discussion",
+    "painful sex and pelvic/vaginal pain",
+    "sexual coercion and pressure after refusal",
+    "sex-worker privacy and interview refusal",
+    "unsafe bleach STI misinformation",
+    "private health and relationship details",
+    "private social-media messages and images",
+    "fan harassment and unwanted contact",
+    "private phone-number acquisition",
+    "compensated dating and applicant privacy",
+    "commercial arrangements and disputed commission",
+    "racial, gender, sexuality and disability slurs",
+    "misogynistic and objectifying commentary",
+    "celebrity health and substance-use rumor",
+    "death and seizure discussion",
+    "unverified artist counterfeit allegation",
+    "threat hyperbole",
+    "private relatives, spouses and partners",
+    "unreleased music and copyright-sensitive lyrics",
+    "contact, travel and production logistics",
+    "publication-consent and anonymity boundaries"
+  ]
+}

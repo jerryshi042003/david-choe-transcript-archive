@@ -1,0 +1,40 @@
+{
+  "summary": "Back at the Ranch, David Choe continues the “blueprint” as a long argument for creative risk and self-authorship. He moves from experiments made in isolation into failure, money, the contested reality of Thumbs Up, patronage, pricing, knowing when to stop, nonjudgment, and turning trauma into growth. The episode is strongest when its art advice becomes concrete—make enough work to surprise yourself, support artists before they are expensive, know what your work is worth, and walk away before overworking it.",
+  "chapters": [
+    {"t": 32, "title": "Back at the Ranch: solitude and the blueprint"},
+    {"t": 695, "title": "Getting weird without reference"},
+    {"t": 1800, "title": "Fear as manufactured inspiration; beginning with failure"},
+    {"t": 2700, "title": "Money, status, and the desire to be rich by thirty"},
+    {"t": 3600, "title": "Breakup, rejection, and what Thumbs Up really was"},
+    {"t": 4500, "title": "Banksy, early patrons, and supporting young artists"},
+    {"t": 5400, "title": "Knowing when to leave a painting—or a relationship"},
+    {"t": 6300, "title": "Pricing art and knowing your worth"},
+    {"t": 6611, "title": "Critter, judgment, and choosing a life"},
+    {"t": 7200, "title": "Trauma as stress or growth"},
+    {"t": 8100, "title": "Depersonalizing emotion and signing off"}
+  ],
+  "people": ["David Choe", "Critter", "Sam", "Harry Kim", "Banksy", "Asa Akira", "Bobby Lee", "Deepak Chopra", "Tony Robbins"],
+  "places": ["the Ranch", "Los Angeles", "Marin", "China", "Las Vegas"],
+  "works": ["DVDASA", "Thumbs Up", "Slow Jams", "Ghostbusters"],
+  "themes": ["creative risk", "failure", "money", "authenticity", "patronage", "pricing", "restraint", "nonjudgment", "trauma", "awareness"],
+  "connections": [
+    {
+      "label": "The Ranch as an anti-city instrument",
+      "note": "Part Two explicitly returns because city life fragments attention. The Ranch is less a setting than a constraint system: no internet, few people, limited materials, and enough time for work to become strange."
+    },
+    {
+      "label": "Patronage before prestige",
+      "note": "The Banksy and early-buyer passages connect collecting to survival rather than investment. This extends Part One’s argument that money should circulate back into practice and offers a retrieval path through later stories about patrons, Facebook, and wealth."
+    },
+    {
+      "label": "Walking away as a creative skill",
+      "note": "A single mechanism links painting, gambling, and relationships: the good middle can be destroyed by staying too long. That makes restraint—not only intensity—part of the Ranch blueprint."
+    }
+  ],
+  "quality": {
+    "transcript_state": "draft-needs-audio-check",
+    "speaker_state": "solo body verified by release context; anonymous diarization must pass separately",
+    "correction_fixture": "ranch-part-two-correction-fixture.json"
+  },
+  "note": "Chapter labels, summary, themes, and connections are editorial commentary. The single 8.4–22.72 ASR loop deletion is accepted; two additional context-proven corrections and four rejected cast-name suggestions are recorded separately. Exact quotations require checking the recording."
+}

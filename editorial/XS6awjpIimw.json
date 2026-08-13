@@ -1,0 +1,717 @@
+{
+  "episode_id": "XS6awjpIimw",
+  "title": "Howard Stern — David Choe appearance (third-party capture)",
+  "reviewed_on": "2026-07-31",
+  "summary": "A third-party capture preserves a long Howard Stern interview with David Choe and a post-interview green-room painting sequence, but begins and ends mid-sentence and is not an official complete broadcast master. Choe disputes simplified press accounts of his Facebook compensation, describes Japanese custody and suicidality, recounts gambling, art, travel and television opportunities, and repeatedly mixes candid self-report with exaggeration, jokes, stereotypes and unverified claims. The record keeps every idea while separating direct correction from host framing, testimony from fact, and risky or private material from neutral discovery. It does not turn the masturbation technique, gambling system, self-harm or escape plan into guidance; does not treat photographs or sexual boasts as proof; does not calculate present wealth; and does not infer permission for either the Chinatown mural or the Sirius green-room painting. The appearance has zero publisher speaker prefixes, so no line-level speaker names are published.",
+  "quality": {
+    "raw_segments": 2826,
+    "clean_segments": 2826,
+    "raw_words_approx": 18446,
+    "clean_words_approx": 18446,
+    "duration_seconds": 4946.8,
+    "accepted_context_decisions": 310,
+    "chapters": 76,
+    "connections": 20,
+    "content_warnings": 20,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 36
+  },
+  "chapters": [
+    {
+      "t": 1,
+      "title": "truncated production briefing"
+    },
+    {
+      "t": 94,
+      "title": "formal guest introduction"
+    },
+    {
+      "t": 113,
+      "title": "Facebook wall-art setup"
+    },
+    {
+      "t": 138,
+      "title": "painting gift for Stern"
+    },
+    {
+      "t": 159,
+      "title": "animal-league print proposal"
+    },
+    {
+      "t": 196,
+      "title": "Choe interrupts the publicity story"
+    },
+    {
+      "t": 273,
+      "title": "custody masturbation technique"
+    },
+    {
+      "t": 292,
+      "title": "Korean identity and Japanese custody"
+    },
+    {
+      "t": 355,
+      "title": "solitary confinement and suicidality"
+    },
+    {
+      "t": 379,
+      "title": "annotated prison-library books"
+    },
+    {
+      "t": 445,
+      "title": "drawings from prisoners' partner photos"
+    },
+    {
+      "t": 475,
+      "title": "explicit bodily-pressure explanation"
+    },
+    {
+      "t": 579,
+      "title": "homelessness framing disputed"
+    },
+    {
+      "t": 610,
+      "title": "historic hotel-living account"
+    },
+    {
+      "t": 626,
+      "title": "Sean Parker and Napster"
+    },
+    {
+      "t": 732,
+      "title": "Plaxo and Facebook chronology"
+    },
+    {
+      "t": 750,
+      "title": "return from Japanese custody"
+    },
+    {
+      "t": 757,
+      "title": "The Social Network challenged"
+    },
+    {
+      "t": 769,
+      "title": "Zuckerberg and Priscilla Chan anecdotes"
+    },
+    {
+      "t": 833,
+      "title": "cash alternative corrected to $60,000"
+    },
+    {
+      "t": 901,
+      "title": "Facebook compensation choice"
+    },
+    {
+      "t": 952,
+      "title": "sports-bet doubling analogy"
+    },
+    {
+      "t": 987,
+      "title": "host's gambling story qualified"
+    },
+    {
+      "t": 1017,
+      "title": "speculative stock valuation"
+    },
+    {
+      "t": 1080,
+      "title": "New York Times publicity and privacy"
+    },
+    {
+      "t": 1120,
+      "title": "media-frenzy aftermath"
+    },
+    {
+      "t": 1180,
+      "title": "television appearance offers"
+    },
+    {
+      "t": 1290,
+      "title": "art honesty and the Hitler analogy"
+    },
+    {
+      "t": 1435,
+      "title": "later Facebook campus painting"
+    },
+    {
+      "t": 1565,
+      "title": "false graffiti-and-consent analogy"
+    },
+    {
+      "t": 1660,
+      "title": "Japan bike theft and tagging"
+    },
+    {
+      "t": 1745,
+      "title": "security-guard assault recalled"
+    },
+    {
+      "t": 1820,
+      "title": "suspended sentence and custody claims"
+    },
+    {
+      "t": 1910,
+      "title": "1992 Los Angeles uprising memories"
+    },
+    {
+      "t": 2025,
+      "title": "family business and teenage racial fear"
+    },
+    {
+      "t": 2160,
+      "title": "mood label and mortality fears"
+    },
+    {
+      "t": 2270,
+      "title": "portrait-as-seduction manipulation"
+    },
+    {
+      "t": 2380,
+      "title": "sexual boasts and objectification"
+    },
+    {
+      "t": 2440,
+      "title": "ten-women boast"
+    },
+    {
+      "t": 2520,
+      "title": "racial and genital stereotypes"
+    },
+    {
+      "t": 2640,
+      "title": "Congo story and restricted child imagery"
+    },
+    {
+      "t": 2770,
+      "title": "Barbara Walters and future press"
+    },
+    {
+      "t": 2890,
+      "title": "Banksy-associated London show claim"
+    },
+    {
+      "t": 3010,
+      "title": "relationship harm and explicit sex debate"
+    },
+    {
+      "t": 3140,
+      "title": "custody injury and internal bleeding"
+    },
+    {
+      "t": 3230,
+      "title": "self-harm to force hospital care"
+    },
+    {
+      "t": 3360,
+      "title": "abandoned violent escape plan"
+    },
+    {
+      "t": 3490,
+      "title": "restraint, crying and return to custody"
+    },
+    {
+      "t": 3600,
+      "title": "escape story gives way to reflection"
+    },
+    {
+      "t": 3854,
+      "title": "promotion reset"
+    },
+    {
+      "t": 3905,
+      "title": "Die Antwoord, Thumbs Up! and VICE"
+    },
+    {
+      "t": 3970,
+      "title": "ayahuasca in Colombia"
+    },
+    {
+      "t": 4060,
+      "title": "public-figure sexual claims qualified"
+    },
+    {
+      "t": 4140,
+      "title": "travel-show offers and freedom"
+    },
+    {
+      "t": 4210,
+      "title": "Asian lead representation argument"
+    },
+    {
+      "t": 4280,
+      "title": "homophobic and Asian stereotypes"
+    },
+    {
+      "t": 4320,
+      "title": "Koreans Gone Bad historical title"
+    },
+    {
+      "t": 4360,
+      "title": "million-dollar-bankroll guarantee"
+    },
+    {
+      "t": 4410,
+      "title": "table limits and trip targets"
+    },
+    {
+      "t": 4450,
+      "title": "sexist gambling superstition"
+    },
+    {
+      "t": 4480,
+      "title": "Beetlejuice mural in Chinatown"
+    },
+    {
+      "t": 4530,
+      "title": "Robin, JD and sexual propositions"
+    },
+    {
+      "t": 4580,
+      "title": "condom and STI misinformation"
+    },
+    {
+      "t": 4630,
+      "title": "Pillowfight and later promotion"
+    },
+    {
+      "t": 4670,
+      "title": "Facebook holdings refusal"
+    },
+    {
+      "t": 4706,
+      "title": "formal guest farewell"
+    },
+    {
+      "t": 4710,
+      "title": "adoption and Kim Jong-Stern jokes"
+    },
+    {
+      "t": 4735,
+      "title": "explicit sexual coda"
+    },
+    {
+      "t": 4740,
+      "title": "Harry Kim and Guam Cruise"
+    },
+    {
+      "t": 4760,
+      "title": "Dirty Hands and iTunes claim"
+    },
+    {
+      "t": 4763,
+      "title": "post-interview wrap-up"
+    },
+    {
+      "t": 4800,
+      "title": "green-room painting permission sought"
+    },
+    {
+      "t": 4840,
+      "title": "painting begins before approval is proved"
+    },
+    {
+      "t": 4880,
+      "title": "Barbara Walters and White House claims"
+    },
+    {
+      "t": 4927,
+      "title": "closing music"
+    },
+    {
+      "t": 4943,
+      "title": "abrupt mid-sentence ending"
+    }
+  ],
+  "connections": [
+    {
+      "t": 626,
+      "to": "Sean Parker",
+      "relationship": "Choe locates the Facebook commission inside a longer Napster and Plaxo relationship."
+    },
+    {
+      "t": 732,
+      "to": "Facebook",
+      "relationship": "The appearance preserves Choe's correction of the cash-versus-equity origin story."
+    },
+    {
+      "t": 757,
+      "to": "The Social Network",
+      "relationship": "Choe treats the film as a sensationalized counter-narrative to his memory."
+    },
+    {
+      "t": 1080,
+      "to": "New York Times",
+      "relationship": "Press coverage drives the privacy and sudden-wealth discussion."
+    },
+    {
+      "t": 1910,
+      "to": "1992 Los Angeles uprising",
+      "relationship": "Family and Koreatown memories recur as personal testimony, not neutral history."
+    },
+    {
+      "t": 2770,
+      "to": "Barbara Walters / 20/20",
+      "relationship": "A proposed appearance recurs in the post-interview recap and needs primary verification."
+    },
+    {
+      "t": 2890,
+      "to": "Banksy",
+      "relationship": "A claimed London-gallery association needs exact exhibition and sales records."
+    },
+    {
+      "t": 3905,
+      "to": "Die Antwoord",
+      "relationship": "The group appears in the program's promotional cluster."
+    },
+    {
+      "t": 3905,
+      "to": "Thumbs Up!",
+      "relationship": "The travel series connects this interview to the archive's road corpus."
+    },
+    {
+      "t": 3905,
+      "to": "VICE",
+      "relationship": "VICE is named as distribution context, not blanket rights provenance."
+    },
+    {
+      "t": 3970,
+      "to": "ayahuasca",
+      "relationship": "The Colombia story is subjective experience, not treatment advice."
+    },
+    {
+      "t": 4140,
+      "to": "Channing Tatum / Mike White",
+      "relationship": "Choe reports approaches around unmade travel television projects."
+    },
+    {
+      "t": 4210,
+      "to": "Asian representation",
+      "relationship": "The meaningful lead-representation argument sits beside degrading stereotypes and must remain intact."
+    },
+    {
+      "t": 4480,
+      "to": "Release the Poison",
+      "relationship": "The Chinatown mural requires separate object, owner, permission, survival and image-rights records."
+    },
+    {
+      "t": 4630,
+      "to": "Pillowfight",
+      "relationship": "A promoted music project needs lineup and title verification."
+    },
+    {
+      "t": 4740,
+      "to": "Harry Kim / Guam Cruise",
+      "relationship": "Kim links the travel corpus and Dirty Hands production history."
+    },
+    {
+      "t": 4760,
+      "to": "Dirty Hands",
+      "relationship": "The film title, subtitle, credit and historic platform availability require primary credits."
+    },
+    {
+      "t": 4800,
+      "to": "Sirius green-room painting",
+      "relationship": "The capture records permission being sought but does not prove authorization arrived."
+    },
+    {
+      "t": 4880,
+      "to": "Barack Obama / White House collection",
+      "relationship": "The spoken collection claim needs an authoritative object record."
+    },
+    {
+      "t": 4943,
+      "to": "edition provenance",
+      "relationship": "Two-sided truncation prevents a complete-broadcast label."
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Howard Stern",
+    "Robin Quivers",
+    "Sean Parker",
+    "Mark Zuckerberg",
+    "Priscilla Chan",
+    "Justin Timberlake",
+    "Barbara Walters",
+    "Banksy",
+    "Lindsay Lohan",
+    "Channing Tatum",
+    "Mike White",
+    "George Takei",
+    "JD Harmeyer [primary credit verify]",
+    "Ryan Phillippe",
+    "Harry Kim",
+    "Barack Obama",
+    "Yoshi Obayashi",
+    "unidentified private partners",
+    "unidentified production staff"
+  ],
+  "places": [
+    "Japan",
+    "Korea",
+    "Palo Alto",
+    "Las Vegas",
+    "New York",
+    "Los Angeles",
+    "Koreatown",
+    "Congo [exact route/context verify]",
+    "Colombia",
+    "London",
+    "Chinatown [exact location withheld]",
+    "Sirius studio/green room [exact room withheld]"
+  ],
+  "themes": [
+    "source correction",
+    "sudden wealth",
+    "privacy",
+    "custody and survival",
+    "self-harm",
+    "gambling fallacy",
+    "art and patronage",
+    "media framing",
+    "consent",
+    "sexual boasting",
+    "stereotypes and representation",
+    "unmade television",
+    "object provenance",
+    "permission",
+    "memory reliability",
+    "edition completeness"
+  ],
+  "works": [
+    "The Social Network",
+    "Thumbs Up!",
+    "Dirty Hands [exact subtitle verify]",
+    "Koreans Gone Bad [historic styling verify]",
+    "Release the Poison [object title verify]",
+    "Pillowfight [project styling verify]",
+    "David Choe's Facebook murals",
+    "Sirius green-room painting [object record unresolved]"
+  ],
+  "source_notes": [
+    {
+      "t": 0,
+      "claim": "This upload is a complete Howard Stern broadcast.",
+      "assessment": "It begins and ends mid-sentence and is a third-party capture. It may preserve the guest appearance plus a green-room sequence, but is not an official intact aircheck.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    },
+    {
+      "t": 94,
+      "claim": "Visible participants make every line safely nameable.",
+      "assessment": "They do not. All 2,826 caption segments contain zero publisher speaker prefixes; quotation, overlap and post-interview production speech remain unresolved.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    },
+    {
+      "t": 833,
+      "claim": "Choe was offered only $1,000 cash or Facebook stock.",
+      "assessment": "Within this source Choe directly corrects the cash alternative to $60,000; contract records would still control.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    },
+    {
+      "t": 1017,
+      "claim": "Host estimates establish Choe's net worth.",
+      "assessment": "They do not. The estimates are speculative and Choe later refuses exact holdings disclosure.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    },
+    {
+      "t": 1660,
+      "claim": "The host's framed label erases admitted conduct.",
+      "assessment": "Choe also recounts bike theft, tagging and an assault; preserve the contradiction instead of choosing a cleaner story.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    },
+    {
+      "t": 4360,
+      "claim": "A large bankroll guarantees gambling profit.",
+      "assessment": "It does not. The described progression retains negative expected value, table-limit constraints and catastrophic tail risk.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    },
+    {
+      "t": 4800,
+      "claim": "The green-room painting was authorized.",
+      "assessment": "The program says company approval must be checked; the capture does not prove approval arrived before painting began.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    },
+    {
+      "t": 4880,
+      "claim": "Choe's work is in the White House.",
+      "assessment": "Treat this as an on-air claim until an authoritative collection/object record identifies the work and custody.",
+      "source": "https://www.youtube.com/watch?v=XS6awjpIimw"
+    }
+  ],
+  "content_warnings": [
+    "explicit sexual speech",
+    "masturbation technique and bodily injury risk",
+    "suicidality and self-harm",
+    "violent escape ideation",
+    "custody trauma",
+    "gambling addiction and dangerous financial claims",
+    "racist and antisemitic jokes",
+    "homophobic and transphobic stereotypes",
+    "Asian stereotypes",
+    "sexualization and objectification",
+    "unverified public-figure sexual claims",
+    "private relationship allegations",
+    "sexual-health misinformation",
+    "drug and psychedelic discussion",
+    "assault and property crime",
+    "non-consensual use of partner photographs",
+    "sexualized discussion involving children",
+    "mood-disorder self-labeling",
+    "wealth and holdings speculation",
+    "coercion and manipulation"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "label as a third-party truncated appearance capture, never a complete broadcast or official aircheck"
+    },
+    {
+      "t": 1,
+      "rule": "do not reconstruct missing head or tail speech"
+    },
+    {
+      "t": 94,
+      "rule": "publish no named turns without independently held-out acoustic/video validation"
+    },
+    {
+      "t": 159,
+      "rule": "do not claim the proposed print edition was produced, sold or donated"
+    },
+    {
+      "t": 273,
+      "rule": "do not excerpt or reformat the masturbation sequence as health guidance"
+    },
+    {
+      "t": 355,
+      "rule": "keep suicidality contextualized; no sensational or promotional excerpt"
+    },
+    {
+      "t": 445,
+      "rule": "do not reproduce partner photographs or explicit derivative drawings without rights and consent"
+    },
+    {
+      "t": 475,
+      "rule": "do not publish a step-by-step bodily-pressure procedure"
+    },
+    {
+      "t": 626,
+      "rule": "do not expose private correspondence or infer its exact language"
+    },
+    {
+      "t": 833,
+      "rule": "attribute the $60,000 correction to Choe unless contract records confirm it"
+    },
+    {
+      "t": 1017,
+      "rule": "do not calculate historic or current net worth from host estimates"
+    },
+    {
+      "t": 1080,
+      "rule": "do not surface private addresses, rooms, routines or tracking routes"
+    },
+    {
+      "t": 1565,
+      "rule": "do not reuse the false consent analogy as a neutral explanation"
+    },
+    {
+      "t": 1660,
+      "rule": "do not turn admitted theft, tagging or assault into operational guidance"
+    },
+    {
+      "t": 1910,
+      "rule": "keep uprising claims attributed and historically contextualized"
+    },
+    {
+      "t": 2270,
+      "rule": "do not present manipulative portrait promises as relationship advice"
+    },
+    {
+      "t": 2380,
+      "rule": "do not identify or profile private sexual partners"
+    },
+    {
+      "t": 2520,
+      "rule": "exclude degrading racial/genital stereotypes from neutral snippets and metadata"
+    },
+    {
+      "t": 2640,
+      "rule": "exclude sexualized child imagery from snippets, visuals and search metadata"
+    },
+    {
+      "t": 2890,
+      "rule": "do not promote gallery sales figures without exhibition and transaction evidence"
+    },
+    {
+      "t": 3230,
+      "rule": "do not publish self-harm as a method for obtaining care"
+    },
+    {
+      "t": 3360,
+      "rule": "do not expose the escape plan as operational instructions"
+    },
+    {
+      "t": 3970,
+      "rule": "do not present ayahuasca testimony as medical or legal guidance"
+    },
+    {
+      "t": 4060,
+      "rule": "do not treat photos, proximity or boasts as proof of sex or orientation"
+    },
+    {
+      "t": 4140,
+      "rule": "label reported offers as unmade unless commissioning records exist"
+    },
+    {
+      "t": 4210,
+      "rule": "preserve the representation argument beside—not cleansed of—the surrounding prejudice"
+    },
+    {
+      "t": 4360,
+      "rule": "do not excerpt bankroll, doubling and table-limit claims as a gambling system"
+    },
+    {
+      "t": 4450,
+      "rule": "do not reuse gender superstition as risk-management advice"
+    },
+    {
+      "t": 4480,
+      "rule": "withhold exact mural location and image reuse until object, permission and rights are verified"
+    },
+    {
+      "t": 4530,
+      "rule": "do not infer consent or sexual conduct for Robin Quivers, JD Harmeyer or Ryan Phillippe"
+    },
+    {
+      "t": 4580,
+      "rule": "correct STI-risk framing; never infer or advertise the unnamed condom brand"
+    },
+    {
+      "t": 4670,
+      "rule": "preserve refusal; do not infer share count, proceeds, holdings or family wealth"
+    },
+    {
+      "t": 4740,
+      "rule": "verify Harry Kim/Guam Cruise aliases and credits from primary records"
+    },
+    {
+      "t": 4760,
+      "rule": "verify Dirty Hands title, subtitle, credits and platform history before cataloging"
+    },
+    {
+      "t": 4800,
+      "rule": "do not infer Sirius permission or third-party image rights from the footage"
+    },
+    {
+      "t": 4880,
+      "rule": "do not publish a White House ownership claim without an authoritative object record"
+    }
+  ],
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "The program visibly establishes David Choe, Howard Stern, Robin Quivers and staff context, but the extracted captions contain zero publisher speaker prefixes across 2,826 segments. The artifact includes pre-interview briefing, formal interview, quotation, jokes, possible overlap, a farewell, post-interview staff speech and an abrupt ending. Topic ownership, grammar, visual familiarity and adjacency are insufficient. Named turns require independently held-out, non-overlapping acoustic/video validation."
+  }
+}

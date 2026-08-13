@@ -1,0 +1,1255 @@
+{
+  "episode_id": "saga1-episode-116-vegas-part-04-the-poon-poon-report",
+  "title": "Vegas Part 04: The Poon Poon Report",
+  "reviewed_on": "2026-07-31",
+  "summary": "Episode 116 closes the four-part Las Vegas sequence with a recap of the intoxicated escort guest, deliberate bedside audio capture of a sexual encounter, a detailed commercial-sex review, the guest's confusion over live versus recorded publication, Critter's attempted resignation over the show's turn toward pornography, and a Le Rêve wager that pressures Bill into a photographed body act until he says no. The audit preserves the explicit and offensive dialogue, corrects locally resolvable entities, separates subjective review from fact, and records publication, intoxication, withdrawal, bodily-autonomy and public-discovery boundaries.",
+  "quality": {
+    "raw_segments": 2021,
+    "clean_segments": 1998,
+    "raw_words_approx": 12169,
+    "clean_words_approx": 12169,
+    "duration_seconds": 4346.645,
+    "accepted_context_decisions": 250,
+    "chapters": 250,
+    "connections": 36,
+    "content_warnings": 30,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 23,
+    "cleaning_net_reduction": 23,
+    "public_restriction_spans": 30
+  },
+  "source_notes": [
+    "The raw file has 2,021 segments and approximately 12,169 words; the clean file has 1,998 segments and the same approximate word count across 4,341.54 transcript seconds (4,346.645-second audio). All twenty-three cleaner removals are empty zero-duration artifacts.",
+    "Accept DVDASA, Wicked, Critter and David Choe. Reject global `the Bellagio` → `Bellagio`. Context also supports TER, TruthSayers, Preferred 411, Cityvibe, Balboa Island, PMs, neti pot, Le Rêve and Franco Dragone, while remaining corrupt venue/site/private names stay uncertain pending audio verification.",
+    "The intimate audio cannot be described as unambiguously consented. A microphone is deliberately placed at the bedside after a speaker says the participants probably do not want audio; others infer consent from prior on-camera conduct. The guest later shows confusion about live versus recorded/edited publication.",
+    "During the recorded encounter, the guest says she does not like doggy style, repeats no, and the partner offers to switch. The post-sex report confirms this refusal. This is useful positive evidence amid the larger recording-consent failure.",
+    "The guest moves away from the microphone to exchange contact information. Her work alias, review-board identifier, current account status, rates, clients, schedule, lodging and contact routes remain outside public discovery.",
+    "The guest is repeatedly described as too intoxicated; the cast imposes a liquor timeout and later offers more alcohol. Self-requested alcohol does not erase capacity concerns.",
+    "The Poon Report is a subjective and economically consequential review. The cast calls the encounter a freebie tied to a favorable review and offers to post to the board; the reader must not present the rating as objective product quality.",
+    "Critter reads a resignation letter saying the show is turning him into a `porno person`. Others refuse to accept it. Withdrawal from participation does not require group approval, even though he later proposes an off-camera audio role.",
+    "The Le Rêve wager is factually resolved: the Wynn production was created by former Cirque du Soleil director Franco Dragone and resembled Cirque, but was not a Cirque du Soleil production.",
+    "Neither losing a bet nor another person's willingness grants access to Bill's body. Bill questions whether he gets a say, faces escalating act/photo pressure, forbids tagging, explains privacy harm, and ultimately says no. The cast stops the act and confirms the bet ends because he does not want it.",
+    "De-identifying a photograph by omitting a face does not establish permission to capture or publish it. `Do not tag me` is also a direct discoverability boundary.",
+    "David's proposal to gamble as an alternative punishment is rejected by others; exploiting a known gambling problem is not an acceptable wager.",
+    "Every slur, degrading judgment, stereotype, manipulation admission and contradiction remains literal. Editorial corrections and warnings do not rewrite those ideas.",
+    "Named dialogue remains withheld because the diarization file contains zero turns. Window embeddings exist but have not passed independently held-out multispeaker validation."
+  ],
+  "speaker_policy": "The diarization file contains zero turns. Fixed-window embeddings do not pass independently held-out multispeaker validation, so named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 15,
+      "title": "opening begins after fifteen seconds"
+    },
+    {
+      "t": 23,
+      "title": "DVDASA"
+    },
+    {
+      "t": 26,
+      "title": "guest described as `number one blonde escort"
+    },
+    {
+      "t": 39,
+      "title": "lost gummy bear recap"
+    },
+    {
+      "t": 50,
+      "title": "guest is no longer in room"
+    },
+    {
+      "t": 84,
+      "title": "cast critiques guest's intoxication"
+    },
+    {
+      "t": 91,
+      "title": "double-fisting Coke and vodka"
+    },
+    {
+      "t": 105,
+      "title": "guest was getting wasted"
+    },
+    {
+      "t": 111,
+      "title": "uncertain `straight coke` phrase"
+    },
+    {
+      "t": 126,
+      "title": "speaker called alcoholic"
+    },
+    {
+      "t": 131,
+      "title": "desired guest looseness for conversation"
+    },
+    {
+      "t": 143,
+      "title": "roofies joke"
+    },
+    {
+      "t": 157,
+      "title": "speaker says not into what happened"
+    },
+    {
+      "t": 163,
+      "title": "Las Vegas recap"
+    },
+    {
+      "t": 175,
+      "title": "sexual acts happening in private room"
+    },
+    {
+      "t": 204,
+      "title": "speaker says he inserted gummy bear"
+    },
+    {
+      "t": 213,
+      "title": "claims inexperience with anal play"
+    },
+    {
+      "t": 219,
+      "title": "expected guest could expel item"
+    },
+    {
+      "t": 241,
+      "title": "sexual activity on hotel bed"
+    },
+    {
+      "t": 285,
+      "title": "do not rub dry skin into air"
+    },
+    {
+      "t": 304,
+      "title": "proposal to leave microphone in bedroom"
+    },
+    {
+      "t": 309,
+      "title": "camera proposed and rejected"
+    },
+    {
+      "t": 314,
+      "title": "speaker says participants probably do not want audio either"
+    },
+    {
+      "t": 321,
+      "title": "others infer guest does not care"
+    },
+    {
+      "t": 324,
+      "title": "prior on-camera act treated as audio permission"
+    },
+    {
+      "t": 335,
+      "title": "microphone placed by bedside"
+    },
+    {
+      "t": 351,
+      "title": "checks whether listeners can hear"
+    },
+    {
+      "t": 624,
+      "title": "I don't really like doggy"
+    },
+    {
+      "t": 626,
+      "title": "repeated no"
+    },
+    {
+      "t": 627,
+      "title": "partner offers to switch"
+    },
+    {
+      "t": 658,
+      "title": "proposal to make out instead"
+    },
+    {
+      "t": 848,
+      "title": "checks whether orgasm matters"
+    },
+    {
+      "t": 856,
+      "title": "explains not coming is not lack of desire"
+    },
+    {
+      "t": 860,
+      "title": "asks to be told when partner is done"
+    },
+    {
+      "t": 872,
+      "title": "TER"
+    },
+    {
+      "t": 874,
+      "title": "guest states work alias"
+    },
+    {
+      "t": 899,
+      "title": "review-site name/version history"
+    },
+    {
+      "t": 904,
+      "title": "TruthSayer / TruthSayers"
+    },
+    {
+      "t": 908,
+      "title": "Humaniplex history"
+    },
+    {
+      "t": 922,
+      "title": "friend's location and site use"
+    },
+    {
+      "t": 926,
+      "title": "account status discussed"
+    },
+    {
+      "t": 938,
+      "title": "childcare scheduling"
+    },
+    {
+      "t": 952,
+      "title": "rates compared across sites"
+    },
+    {
+      "t": 992,
+      "title": "TruthSayers"
+    },
+    {
+      "t": 1003,
+      "title": "performer premium claim"
+    },
+    {
+      "t": 1027,
+      "title": "Preferred 411"
+    },
+    {
+      "t": 1029,
+      "title": "TER"
+    },
+    {
+      "t": 1030,
+      "title": "Cityvibe"
+    },
+    {
+      "t": 1061,
+      "title": "ads and provider profile"
+    },
+    {
+      "t": 1077,
+      "title": "does not want random clients"
+    },
+    {
+      "t": 1090,
+      "title": "money placed in bathroom"
+    },
+    {
+      "t": 1100,
+      "title": "appointment clock starts at door"
+    },
+    {
+      "t": 1111,
+      "title": "agency-versus-independent comparison"
+    },
+    {
+      "t": 1136,
+      "title": "friendliness linked to promotion"
+    },
+    {
+      "t": 1151,
+      "title": "Orange County clients praised"
+    },
+    {
+      "t": 1161,
+      "title": "four-to-five-hundred-dollar rate"
+    },
+    {
+      "t": 1179,
+      "title": "hotel-brand/status signaling"
+    },
+    {
+      "t": 1205,
+      "title": "Balboa Island"
+    },
+    {
+      "t": 1214,
+      "title": "uncertain forum/site phrase"
+    },
+    {
+      "t": 1233,
+      "title": "PMs"
+    },
+    {
+      "t": 1245,
+      "title": "referral to lower-rate worker"
+    },
+    {
+      "t": 1255,
+      "title": "block clients who haggle"
+    },
+    {
+      "t": 1272,
+      "title": "audience-disappointment question"
+    },
+    {
+      "t": 1285,
+      "title": "audio is recording"
+    },
+    {
+      "t": 1295,
+      "title": "uncertain whether live stream or recording"
+    },
+    {
+      "t": 1301,
+      "title": "guest says live stream sounds cool"
+    },
+    {
+      "t": 1361,
+      "title": "gummy-bear residue joke"
+    },
+    {
+      "t": 1377,
+      "title": "Human Rights Campaign shirt"
+    },
+    {
+      "t": 1384,
+      "title": "private uncle's sexuality"
+    },
+    {
+      "t": 1404,
+      "title": "guest has later appointment"
+    },
+    {
+      "t": 1436,
+      "title": "guest asks if still recording"
+    },
+    {
+      "t": 1447,
+      "title": "we're always on"
+    },
+    {
+      "t": 1454,
+      "title": "recording was off at one point"
+    },
+    {
+      "t": 1457,
+      "title": "liquor timeout"
+    },
+    {
+      "t": 1463,
+      "title": "desire to keep guest happy and social"
+    },
+    {
+      "t": 1467,
+      "title": "guest asks for alcohol"
+    },
+    {
+      "t": 1473,
+      "title": "next guest coming"
+    },
+    {
+      "t": 1505,
+      "title": "Critter"
+    },
+    {
+      "t": 1513,
+      "title": "guest wants the job"
+    },
+    {
+      "t": 1536,
+      "title": "private person she answers to"
+    },
+    {
+      "t": 1541,
+      "title": "body appraisal"
+    },
+    {
+      "t": 1550,
+      "title": "retained gummy bear remains"
+    },
+    {
+      "t": 1558,
+      "title": "NeoCutis bleaching product claim"
+    },
+    {
+      "t": 1572,
+      "title": "off-label bleaching-cream use"
+    },
+    {
+      "t": 1590,
+      "title": "Poon Report begins"
+    },
+    {
+      "t": 1597,
+      "title": "GFE label"
+    },
+    {
+      "t": 1601,
+      "title": "kissing/intimacy claims"
+    },
+    {
+      "t": 1637,
+      "title": "dirty talk withheld because audio was on"
+    },
+    {
+      "t": 1651,
+      "title": "degrading slur toward guest"
+    },
+    {
+      "t": 1658,
+      "title": "orgasm and masturbation account"
+    },
+    {
+      "t": 1667,
+      "title": "doggy-style request and refusal retold"
+    },
+    {
+      "t": 1673,
+      "title": "degrading sex-work slur"
+    },
+    {
+      "t": 1693,
+      "title": "invited to take alcohol"
+    },
+    {
+      "t": 1697,
+      "title": "guest calls herself a drunk"
+    },
+    {
+      "t": 1710,
+      "title": "Don't touch me` repeated"
+    },
+    {
+      "t": 1711,
+      "title": "dancing schedule and venue"
+    },
+    {
+      "t": 1714,
+      "title": "request to exchange information"
+    },
+    {
+      "t": 1716,
+      "title": "moves away so microphone cannot capture info"
+    },
+    {
+      "t": 1724,
+      "title": "plan to obtain guest info through another person"
+    },
+    {
+      "t": 1732,
+      "title": "neti pot"
+    },
+    {
+      "t": 1743,
+      "title": "checks audio level"
+    },
+    {
+      "t": 1753,
+      "title": "escort guest to elevator/upstairs"
+    },
+    {
+      "t": 1766,
+      "title": "unnamed `arch nemesis"
+    },
+    {
+      "t": 1771,
+      "title": "private rival allegedly in jail"
+    },
+    {
+      "t": 1775,
+      "title": "uncertain criminal phrase"
+    },
+    {
+      "t": 1806,
+      "title": "former friend and success rivalry"
+    },
+    {
+      "t": 1834,
+      "title": "guest unsure what she was supposed to say"
+    },
+    {
+      "t": 1851,
+      "title": "asks where/when publication appears"
+    },
+    {
+      "t": 1854,
+      "title": "guest thought it was live"
+    },
+    {
+      "t": 1856,
+      "title": "asks whether it will be edited"
+    },
+    {
+      "t": 1860,
+      "title": "says she thought livestreamed online"
+    },
+    {
+      "t": 1865,
+      "title": "cast explains live portion and later audio"
+    },
+    {
+      "t": 1868,
+      "title": "private photographs and promised painting"
+    },
+    {
+      "t": 1871,
+      "title": "speaker says art promise was used to obtain sex"
+    },
+    {
+      "t": 1888,
+      "title": "private future meeting"
+    },
+    {
+      "t": 1923,
+      "title": "says he will never paint her"
+    },
+    {
+      "t": 1932,
+      "title": "met guest at strip club ten years earlier"
+    },
+    {
+      "t": 1947,
+      "title": "guest mistook speaker for another artist"
+    },
+    {
+      "t": 1959,
+      "title": "promised painting and took photographs"
+    },
+    {
+      "t": 1970,
+      "title": "says sex followed and painting never happened"
+    },
+    {
+      "t": 1990,
+      "title": "describes `trickery and methods"
+    },
+    {
+      "t": 1999,
+      "title": "guest described as drunk"
+    },
+    {
+      "t": 2005,
+      "title": "Poon Report title"
+    },
+    {
+      "t": 2009,
+      "title": "reviewer says he is not suitable reviewer"
+    },
+    {
+      "t": 2021,
+      "title": "loss of mystery after nudity"
+    },
+    {
+      "t": 2041,
+      "title": "uncertain orgasm phrase"
+    },
+    {
+      "t": 2077,
+      "title": "says guest wanted to stop kissing and progress"
+    },
+    {
+      "t": 2088,
+      "title": "PSE versus GFE classification"
+    },
+    {
+      "t": 2115,
+      "title": "condom source discussed"
+    },
+    {
+      "t": 2140,
+      "title": "masturbation cream as lubricant question"
+    },
+    {
+      "t": 2146,
+      "title": "reviewer says he was never near orgasm"
+    },
+    {
+      "t": 2153,
+      "title": "plans not to tell guest when episode airs"
+    },
+    {
+      "t": 2271,
+      "title": "sex called a freebie in exchange for review"
+    },
+    {
+      "t": 2281,
+      "title": "offers to post review to board"
+    },
+    {
+      "t": 2293,
+      "title": "10/9 rating"
+    },
+    {
+      "t": 2313,
+      "title": "pressure to give harsher review"
+    },
+    {
+      "t": 2333,
+      "title": "person changes before camera"
+    },
+    {
+      "t": 2348,
+      "title": "camera display request"
+    },
+    {
+      "t": 2374,
+      "title": "DVDASA"
+    },
+    {
+      "t": 2383,
+      "title": "shop URL"
+    },
+    {
+      "t": 2402,
+      "title": "9/10 rating resumes"
+    },
+    {
+      "t": 2425,
+      "title": "rating requires acts not performed"
+    },
+    {
+      "t": 2477,
+      "title": "DVDASA"
+    },
+    {
+      "t": 2499,
+      "title": "DVDASA"
+    },
+    {
+      "t": 2503,
+      "title": "Critter says he can no longer be part of show"
+    },
+    {
+      "t": 2531,
+      "title": "says show is making him a `porno person"
+    },
+    {
+      "t": 2552,
+      "title": "others say there are no takebacks"
+    },
+    {
+      "t": 2555,
+      "title": "resignation not accepted"
+    },
+    {
+      "t": 2612,
+      "title": "claim breakup takes two sides"
+    },
+    {
+      "t": 2653,
+      "title": "show originally intended as audio"
+    },
+    {
+      "t": 2664,
+      "title": "video added for audience"
+    },
+    {
+      "t": 2674,
+      "title": "debate whether acts constitute porn"
+    },
+    {
+      "t": 2681,
+      "title": "speaker admits inserting gummy bear"
+    },
+    {
+      "t": 2696,
+      "title": "past staged-art body insertions"
+    },
+    {
+      "t": 2714,
+      "title": "claim calling something art makes it not porn"
+    },
+    {
+      "t": 2728,
+      "title": "proposal to block/censor visual detail"
+    },
+    {
+      "t": 2733,
+      "title": "episode may become audio-only"
+    },
+    {
+      "t": 2745,
+      "title": "downloadable video proposed"
+    },
+    {
+      "t": 2753,
+      "title": "participant did not know site video was YouTube-hosted"
+    },
+    {
+      "t": 2766,
+      "title": "repeated `asshole` chant"
+    },
+    {
+      "t": 2770,
+      "title": "asshole"
+    },
+    {
+      "t": 2813,
+      "title": "claim employed people live longer"
+    },
+    {
+      "t": 2817,
+      "title": "Critter offers off-camera audio role"
+    },
+    {
+      "t": 2848,
+      "title": "racial belonging discussion"
+    },
+    {
+      "t": 2881,
+      "title": "Asian-room smell joke"
+    },
+    {
+      "t": 2909,
+      "title": "Vegas trivia begins"
+    },
+    {
+      "t": 2923,
+      "title": "complaint about surprise thumb contact"
+    },
+    {
+      "t": 2936,
+      "title": "wedding rings"
+    },
+    {
+      "t": 2946,
+      "title": "ring removed for appearances"
+    },
+    {
+      "t": 2991,
+      "title": "garbled trivia question"
+    },
+    {
+      "t": 3008,
+      "title": "security pat-down genital-contact discussion"
+    },
+    {
+      "t": 3030,
+      "title": "guest-list/limo entry claims"
+    },
+    {
+      "t": 3056,
+      "title": "strip-club rejection story"
+    },
+    {
+      "t": 3119,
+      "title": "the Bellagio"
+    },
+    {
+      "t": 3129,
+      "title": "Britney Spears residency break"
+    },
+    {
+      "t": 3153,
+      "title": "Le Rêve"
+    },
+    {
+      "t": 3154,
+      "title": "claim Le Rêve is Cirque du Soleil"
+    },
+    {
+      "t": 3164,
+      "title": "bet involving Bill's body"
+    },
+    {
+      "t": 3169,
+      "title": "Bill asks whether he has a say"
+    },
+    {
+      "t": 3174,
+      "title": "speaker refuses to eat caviar from Bill"
+    },
+    {
+      "t": 3215,
+      "title": "photo condition added to bet"
+    },
+    {
+      "t": 3221,
+      "title": "promise not to include face"
+    },
+    {
+      "t": 3273,
+      "title": "Franco Dragone"
+    },
+    {
+      "t": 3283,
+      "title": "Wikipedia checked during show"
+    },
+    {
+      "t": 3325,
+      "title": "speaker recognizes it is Bill's body"
+    },
+    {
+      "t": 3348,
+      "title": "conditional willingness if Bill agrees"
+    },
+    {
+      "t": 3355,
+      "title": "limits act to ass cheek, not anus"
+    },
+    {
+      "t": 3367,
+      "title": "others escalate to licking without food"
+    },
+    {
+      "t": 3375,
+      "title": "loser says he will honor bet"
+    },
+    {
+      "t": 3380,
+      "title": "asks what Bill wants"
+    },
+    {
+      "t": 3383,
+      "title": "alternative requested"
+    },
+    {
+      "t": 3416,
+      "title": "it's your body` repeated"
+    },
+    {
+      "t": 3425,
+      "title": "speaker says he does not want to lick another man's ass"
+    },
+    {
+      "t": 3430,
+      "title": "transphobic slur/fantasy"
+    },
+    {
+      "t": 3479,
+      "title": "asks if speaker actually wants alternate sex act"
+    },
+    {
+      "t": 3481,
+      "title": "directly refuses"
+    },
+    {
+      "t": 3488,
+      "title": "rejects public nudity due arrest risk"
+    },
+    {
+      "t": 3491,
+      "title": "offers gambling as alternative"
+    },
+    {
+      "t": 3495,
+      "title": "others reject gambling alternative"
+    },
+    {
+      "t": 3532,
+      "title": "coercive false binary between sexual acts"
+    },
+    {
+      "t": 3543,
+      "title": "proposal to record alternate act audio"
+    },
+    {
+      "t": 3554,
+      "title": "person reluctant to serve food/body setup"
+    },
+    {
+      "t": 3564,
+      "title": "Critter repeats porn-show objection"
+    },
+    {
+      "t": 3573,
+      "title": "Bill told he can leave if unwilling"
+    },
+    {
+      "t": 3582,
+      "title": "Bill asks what will be placed on body"
+    },
+    {
+      "t": 3586,
+      "title": "rejects ice cream/butter"
+    },
+    {
+      "t": 3587,
+      "title": "confirms only licking"
+    },
+    {
+      "t": 3590,
+      "title": "photo timing requested"
+    },
+    {
+      "t": 3593,
+      "title": "Definitely not"
+    },
+    {
+      "t": 3597,
+      "title": "taint placement suggested"
+    },
+    {
+      "t": 3598,
+      "title": "No"
+    },
+    {
+      "t": 3601,
+      "title": "threat to punch face"
+    },
+    {
+      "t": 3610,
+      "title": "plan to Instagram image"
+    },
+    {
+      "t": 3612,
+      "title": "must not tag subject"
+    },
+    {
+      "t": 3622,
+      "title": "subject says regular friends do not know show"
+    },
+    {
+      "t": 3625,
+      "title": "explicitly told he may say no"
+    },
+    {
+      "t": 3632,
+      "title": "Bill says no"
+    },
+    {
+      "t": 3639,
+      "title": "act stops"
+    },
+    {
+      "t": 3644,
+      "title": "apology and forgiveness"
+    },
+    {
+      "t": 3655,
+      "title": "cast confirms bet ends because Bill does not want it"
+    },
+    {
+      "t": 3679,
+      "title": "loser claims willingness"
+    },
+    {
+      "t": 3696,
+      "title": "breadstick insertion joke"
+    },
+    {
+      "t": 3713,
+      "title": "uncertain trivia recap phrase"
+    },
+    {
+      "t": 3746,
+      "title": "garbled Fremont/Las Vegas street answer"
+    },
+    {
+      "t": 3763,
+      "title": "blackjack double-down trivia"
+    },
+    {
+      "t": 3780,
+      "title": "eleven as conventional double-down hand"
+    },
+    {
+      "t": 3828,
+      "title": "unwanted smell/contact prank callback"
+    },
+    {
+      "t": 3846,
+      "title": "death threat as joke after nose-contact warning"
+    },
+    {
+      "t": 3863,
+      "title": "fan made unwanted contact/smell prank"
+    },
+    {
+      "t": 3888,
+      "title": "departure in thirty minutes"
+    },
+    {
+      "t": 3894,
+      "title": "planned Vegas outcomes mostly did not occur"
+    },
+    {
+      "t": 3945,
+      "title": "sexual fingering bet proposed"
+    },
+    {
+      "t": 3968,
+      "title": "show sign-off"
+    },
+    {
+      "t": 3981,
+      "title": "praises intimate disclosure"
+    },
+    {
+      "t": 3990,
+      "title": "calls encounter a porno"
+    },
+    {
+      "t": 3996,
+      "title": "forgives refusal of body act"
+    },
+    {
+      "t": 4043,
+      "title": "asks fans to judge Vegas shows"
+    },
+    {
+      "t": 4077,
+      "title": "private restaurant workers named"
+    },
+    {
+      "t": 4086,
+      "title": "uncertain restaurant/location"
+    },
+    {
+      "t": 4126,
+      "title": "David Choe"
+    },
+    {
+      "t": 4135,
+      "title": "post-sex debrief continues"
+    },
+    {
+      "t": 4153,
+      "title": "participant verbally checks orgasm expectation"
+    },
+    {
+      "t": 4161,
+      "title": "encounter ends after clarification"
+    },
+    {
+      "t": 4167,
+      "title": "discussion of splitting recording into episodes"
+    },
+    {
+      "t": 4181,
+      "title": "proposed cut at start of sex"
+    },
+    {
+      "t": 4203,
+      "title": "asks whether unwanted body act would have been preferable"
+    },
+    {
+      "t": 4227,
+      "title": "private person's text requested"
+    },
+    {
+      "t": 4253,
+      "title": "Korean punishment comparison"
+    },
+    {
+      "t": 4295,
+      "title": "ten-minute posture ends"
+    },
+    {
+      "t": 4340,
+      "title": "terminal single `You` token"
+    }
+  ],
+  "connections": [
+    {
+      "t": 39,
+      "to": "Episode 115 — Vegas Part 03",
+      "why": "The recap confirms the retained gummy bear and the speaker who inserted it."
+    },
+    {
+      "t": 84,
+      "to": "Corpus intoxication-and-capacity taxonomy",
+      "why": "The cast explicitly critiques allowing the guest to become too intoxicated for coherent conversation."
+    },
+    {
+      "t": 143,
+      "to": "Corpus drugging/consent correction ledger",
+      "why": "A roofies joke is preserved but cannot normalize incapacitation as consent."
+    },
+    {
+      "t": 204,
+      "to": "Corpus informed-consent taxonomy",
+      "why": "A speaker admits inserting the gummy bear that the guest later said she did not know about."
+    },
+    {
+      "t": 304,
+      "to": "Corpus intimate-recording consent taxonomy",
+      "why": "A microphone is deliberately placed in the bedroom after someone says the participants probably do not want audio."
+    },
+    {
+      "t": 624,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "A position-specific no is immediately met with an offer to switch."
+    },
+    {
+      "t": 872,
+      "to": "DVDASA adult-industry source map",
+      "why": "TER, TruthSayers, Preferred 411 and Cityvibe appear as historical review/advertising infrastructure."
+    },
+    {
+      "t": 1077,
+      "to": "DVDASA no-contact boundaries",
+      "why": "The guest rejects unscreened random clients and describes a firm appointment structure."
+    },
+    {
+      "t": 1295,
+      "to": "Corpus publication-mode taxonomy",
+      "why": "The guest and cast are unsure whether audio is live or merely recording."
+    },
+    {
+      "t": 1457,
+      "to": "Corpus intoxication-and-capacity taxonomy",
+      "why": "The cast imposes a liquor timeout, then later offers more alcohol despite acknowledged intoxication."
+    },
+    {
+      "t": 1637,
+      "to": "Corpus recording-awareness evidence",
+      "why": "The participants say they restrained their speech because bedroom audio was active."
+    },
+    {
+      "t": 1667,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "The post-sex report confirms the earlier doggy-style refusal."
+    },
+    {
+      "t": 1710,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "The guest repeats `Don't touch me` during departure."
+    },
+    {
+      "t": 1716,
+      "to": "Corpus public-discovery policy",
+      "why": "The guest moves away from the microphone before exchanging contact information."
+    },
+    {
+      "t": 1854,
+      "to": "Corpus publication-consent taxonomy",
+      "why": "She thought the program was live, asks whether it is edited, and receives a post-hoc explanation of live versus later audio."
+    },
+    {
+      "t": 1959,
+      "to": "David Choe art/sexual-leverage timeline",
+      "why": "David describes promising a painting, taking photographs, having sex and never making the painting."
+    },
+    {
+      "t": 1990,
+      "to": "David Choe self-described manipulation themes",
+      "why": "He calls his approaches to sex `trickery and methods`."
+    },
+    {
+      "t": 2005,
+      "to": "Poon Report",
+      "why": "The title segment reviews the just-recorded encounter."
+    },
+    {
+      "t": 2271,
+      "to": "Corpus review-power taxonomy",
+      "why": "The encounter is called a freebie in anticipation of a favorable economically consequential review."
+    },
+    {
+      "t": 2503,
+      "to": "Critter Fleming participation timeline",
+      "why": "Critter reads a resignation letter objecting that the show is making him a `porno person`."
+    },
+    {
+      "t": 2653,
+      "to": "DVDASA media-format timeline",
+      "why": "The cast explains the shift from intended audio radio to video and YouTube distribution."
+    },
+    {
+      "t": 2696,
+      "to": "David Choe body-art timeline",
+      "why": "Past filmed insertions are invoked to argue art versus pornography without resolving consent."
+    },
+    {
+      "t": 2753,
+      "to": "Corpus platform-awareness taxonomy",
+      "why": "A participant did not know that the site video was hosted on YouTube."
+    },
+    {
+      "t": 2923,
+      "to": "DVDASA bodily-boundary evidence",
+      "why": "A surprise thumb contact and aggressive security pat-down are described as unwanted."
+    },
+    {
+      "t": 3119,
+      "to": "Episode 113 vocabulary regression",
+      "why": "The natural phrase `the Bellagio` again defeats a global article-deletion rule."
+    },
+    {
+      "t": 3153,
+      "to": "Le Rêve / Franco Dragone",
+      "why": "The on-air wager hinges on incorrectly calling the Wynn production a Cirque du Soleil show."
+    },
+    {
+      "t": 3169,
+      "to": "Corpus third-party-consent taxonomy",
+      "why": "Bill asks whether he gets a say when others wager access to his body."
+    },
+    {
+      "t": 3325,
+      "to": "DVDASA bodily-autonomy correction evidence",
+      "why": "The cast begins repeating that it is Bill's body and his choice."
+    },
+    {
+      "t": 3425,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "David says he does not want to lick another man's ass even though he lost the wager."
+    },
+    {
+      "t": 3491,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "Gambling is proposed as an alternative punishment and rejected because it exploits relapse risk."
+    },
+    {
+      "t": 3612,
+      "to": "Corpus image/publication consent taxonomy",
+      "why": "Bill forbids tagging and explains that ordinary friends do not know about the show."
+    },
+    {
+      "t": 3632,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "Bill says no and the proposed photographed body act stops."
+    },
+    {
+      "t": 3655,
+      "to": "Corpus consent-outcome ledger",
+      "why": "The cast explicitly confirms the wager cannot proceed because Bill does not want it."
+    },
+    {
+      "t": 3863,
+      "to": "DVDASA fan-contact boundaries",
+      "why": "A fan's unwanted smell/contact prank is recalled; fandom is not physical permission."
+    },
+    {
+      "t": 3981,
+      "to": "Episode 114 — Vegas Part 02",
+      "why": "The cast praises Bill for exposing intimate details, continuing the coerced-disclosure theme."
+    },
+    {
+      "t": 4167,
+      "to": "Corpus edition/provenance ledger",
+      "why": "The cast discusses splitting this recording into two or three releases around the sex segment."
+    }
+  ],
+  "content_warnings": [
+    "explicit recorded sexual activity",
+    "uncertain consent to intimate audio recording",
+    "publication-mode misunderstanding",
+    "intoxication and impaired capacity",
+    "drugging/roofies joke",
+    "unconsented internal food insertion",
+    "retained foreign object and infection risk",
+    "sex work and commercial sexual services",
+    "economically consequential sexual-service reviews",
+    "private contact and procurement routes",
+    "private client and worker details",
+    "racial, homophobic and transphobic slurs",
+    "racial and cultural stereotypes",
+    "degrading sexual language",
+    "position-specific sexual refusal",
+    "physical-contact refusal",
+    "withdrawal from show participation",
+    "pressure after resignation",
+    "third-party bodily-autonomy violation",
+    "pressure after sexual refusal",
+    "image capture and social tagging",
+    "gambling addiction/relapse risk",
+    "violent threats and assault jokes",
+    "unwanted fan contact",
+    "private photographs and promised artwork",
+    "self-described sexual trickery/manipulation",
+    "uncertain condom/lubricant details",
+    "off-label bleaching cream on sensitive tissue",
+    "platform and distribution uncertainty",
+    "private schedules, lodging and access details"
+  ]
+}

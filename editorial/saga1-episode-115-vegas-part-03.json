@@ -1,0 +1,730 @@
+{
+  "episode_id": "saga1-episode-115-vegas-part-03",
+  "title": "Vegas Part 03",
+  "reviewed_on": "2026-07-31",
+  "summary": "Episode 115 closes the Las Vegas hotel-room sequence. It begins with a corrupted half-minute followed by an explicit off-air boundary, then moves through gambling risk, an escort guest's work history, repeated publication and privacy issues, an adult/minor sexual history that requires child-abuse framing, incorrect client-count arithmetic, racial exclusions and other offensive ideas, increasing intoxication, sexualized pressure toward a hotel worker, direct no/fisting corrections, unsafe lubricant and body-food practices, and a late admission that internal food insertion occurred without the guest's knowledge. The audit preserves every idea and contradiction, corrects only context-supported words, and keeps factual, consent, health and public-discovery judgments outside the dialogue.",
+  "quality": {
+    "raw_segments": 3443,
+    "clean_segments": 3368,
+    "raw_words_approx": 20415,
+    "clean_words_approx": 20450,
+    "duration_seconds": 5971.66,
+    "accepted_context_decisions": 129,
+    "chapters": 129,
+    "connections": 28,
+    "content_warnings": 28,
+    "identity_windows": 5,
+    "named_turns": 0,
+    "cleaning_edits": 75,
+    "opening_hallucination_edits": 62,
+    "empty_zero_duration_removals": 13,
+    "public_restriction_spans": 32
+  },
+  "source_notes": [
+    "The raw file contains 3,443 segments and approximately 20,415 words; the clean file contains 3,368 segments and approximately 20,450 words across 5,971.66 seconds.",
+    "The cleaner reports seventy-five changes. Sixty-two occur in the opening 29.96 seconds, where a 20.7778 compression ratio and repeated `Your` tokens indicate hallucination; the current twelve indistinct markers should become one bounded marker after immutable-audio regeneration. The other thirteen removals are empty zero-duration artifacts.",
+    "Accept Humaniplex, Asa Akira, Kaylani Lei, RealDoll, Jenna Jameson, pole tricks, penile piercings, black guys and Larry Flynt only where local context supports them. Reject a global deletion of `the` before Bellagio and leave other garbled names uncertain pending audio verification.",
+    "The first intelligible line says the subject should be discussed off air, followed by checks that nothing was said. That boundary survives the general warning that recording is active.",
+    "The guest describes sex at twelve with a nineteen-year-old and another older-person encounter at thirteen. These are child sexual abuse/exploitation; retrospective love, pursuit or defense cannot create legal consent. Names, relatives, street, social account, wife and children remain outside public discovery.",
+    "The cast's count math is wrong: five appointments per week is about 260 per year, and about 2,600 over ten years before repeat clients—not 420 per year or 4,200 unique men. The claimed two-million-dollar gross remains speculative.",
+    "The guest's racial client exclusions and the cast's racial stereotypes remain literal ideas. They are not rewritten or censored, but neither are they promoted as neutral demographic facts.",
+    "At roughly 1:03:25 the cast says the guest is too drunk/wasted and cuts off alcohol. That is material capacity evidence for later body-food and sexual acts.",
+    "A hotel room-service worker is questioned about identity and employment, offered money, told sexualized participation is part of the job, and repeatedly tries to leave. Service, customer pressure, a tip or payment are not consent; identifying details remain restricted.",
+    "The guest directly says a prior statement was not an invitation, and another speaker says no does not permit fisting. Porn performance, pain or prior acts do not grant real-life consent.",
+    "Baby oil can degrade latex condoms. Internal food insertion can cause irritation, infection or a retained foreign body. The guest later says she did not know gummy bears had been inserted and one remained lost.",
+    "The spoken historical review-site identifier, current prices, travel, schedules, client locations, worker identity, hotel access, private partners and family remain outside public discovery. The underlying ideas remain in the transcript.",
+    "The speakers explicitly say they are not filming. Audio recording awareness cannot be converted into video permission.",
+    "Five coarse identity windows and zero diarized turns do not pass held-out multispeaker validation. Named dialogue remains withheld."
+  ],
+  "speaker_policy": "The recording names recurring cast, a guest and public people, but only five coarse embeddings and zero diarized turns exist. These do not pass independently held-out multispeaker validation. Named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "[indistinct audio - not transcribable]"
+    },
+    {
+      "t": 30,
+      "title": "That should be discussed off air"
+    },
+    {
+      "t": 35,
+      "title": "checks whether anything was already said"
+    },
+    {
+      "t": 60,
+      "title": "Las Vegas day two"
+    },
+    {
+      "t": 95,
+      "title": "room-service and caviar bill claims"
+    },
+    {
+      "t": 150,
+      "title": "private-suite access and prank logistics"
+    },
+    {
+      "t": 197,
+      "title": "recording is rolling"
+    },
+    {
+      "t": 207,
+      "title": "active room setup"
+    },
+    {
+      "t": 240,
+      "title": "arrived despite being told not to come"
+    },
+    {
+      "t": 270,
+      "title": "gambling-recovery risk"
+    },
+    {
+      "t": 310,
+      "title": "Oakland mural schedule"
+    },
+    {
+      "t": 350,
+      "title": "planned guest uses public work alias"
+    },
+    {
+      "t": 390,
+      "title": "long-time friend and `top escort` claim"
+    },
+    {
+      "t": 430,
+      "title": "guest arrives with alcohol"
+    },
+    {
+      "t": 461,
+      "title": "fear that guest might steal passport"
+    },
+    {
+      "t": 475,
+      "title": "spy-pen concern"
+    },
+    {
+      "t": 504,
+      "title": "warning that speech is on the show"
+    },
+    {
+      "t": 540,
+      "title": "thanks guest for attending"
+    },
+    {
+      "t": 579,
+      "title": "gambling problem"
+    },
+    {
+      "t": 588,
+      "title": "Kaylani Lei"
+    },
+    {
+      "t": 610,
+      "title": "Daisy Marie"
+    },
+    {
+      "t": 650,
+      "title": "Critter introduction and request for secret"
+    },
+    {
+      "t": 700,
+      "title": "Insatiable"
+    },
+    {
+      "t": 760,
+      "title": "Humaniplex"
+    },
+    {
+      "t": 790,
+      "title": "Truth Sayers forum"
+    },
+    {
+      "t": 820,
+      "title": "guest's work cities and ads"
+    },
+    {
+      "t": 900,
+      "title": "hotel base jump observed"
+    },
+    {
+      "t": 960,
+      "title": "escort advertising channels"
+    },
+    {
+      "t": 1010,
+      "title": "driver used for safety"
+    },
+    {
+      "t": 1060,
+      "title": "robbery and assault risks"
+    },
+    {
+      "t": 1100,
+      "title": "Asa danced nude"
+    },
+    {
+      "t": 1127,
+      "title": "uncertain corrupt phrase"
+    },
+    {
+      "t": 1160,
+      "title": "Bill focused on work rather than jealousy"
+    },
+    {
+      "t": 1210,
+      "title": "private relationships affected by podcast"
+    },
+    {
+      "t": 1260,
+      "title": "Episode 114 intimate disclosure retold"
+    },
+    {
+      "t": 1310,
+      "title": "private client wore lingerie and refused touch"
+    },
+    {
+      "t": 1360,
+      "title": "sex workers are paid to leave and not call"
+    },
+    {
+      "t": 1410,
+      "title": "TER and Humaniplex rankings"
+    },
+    {
+      "t": 1470,
+      "title": "Eva Lin"
+    },
+    {
+      "t": 1510,
+      "title": "literal slurs about transgender people"
+    },
+    {
+      "t": 1560,
+      "title": "orientation claims assigned to others"
+    },
+    {
+      "t": 1620,
+      "title": "private childhood sexual history"
+    },
+    {
+      "t": 1680,
+      "title": "guest says no childhood rape"
+    },
+    {
+      "t": 1740,
+      "title": "age twelve and nineteen-year-old neighbor"
+    },
+    {
+      "t": 1800,
+      "title": "cast says twelve is a child"
+    },
+    {
+      "t": 1840,
+      "title": "some speakers argue nineteen-to-twelve is acceptable"
+    },
+    {
+      "t": 1880,
+      "title": "alleged adult's name and social profile"
+    },
+    {
+      "t": 1930,
+      "title": "age thirteen anal sex with older person"
+    },
+    {
+      "t": 1980,
+      "title": "secrecy normalized at age twelve"
+    },
+    {
+      "t": 2027,
+      "title": "pole tricks"
+    },
+    {
+      "t": 2070,
+      "title": "childhood partying and family breakdown"
+    },
+    {
+      "t": 2140,
+      "title": "escort work began at eighteen"
+    },
+    {
+      "t": 2160,
+      "title": "uncertain art-title/name phrase"
+    },
+    {
+      "t": 2195,
+      "title": "uncertain cocaine/location phrase"
+    },
+    {
+      "t": 2240,
+      "title": "ten years of escort work and age estimate"
+    },
+    {
+      "t": 2290,
+      "title": "prices, client counts and revenue"
+    },
+    {
+      "t": 2340,
+      "title": "five clients per week arithmetic"
+    },
+    {
+      "t": 2380,
+      "title": "ten-year client arithmetic"
+    },
+    {
+      "t": 2420,
+      "title": "claimed two-million-dollar revenue"
+    },
+    {
+      "t": 2480,
+      "title": "penile piercings"
+    },
+    {
+      "t": 2520,
+      "title": "Hustler `number one blonde escort` claim"
+    },
+    {
+      "t": 2580,
+      "title": "Jenna Jameson"
+    },
+    {
+      "t": 2630,
+      "title": "48 Laws of Power paraphrase"
+    },
+    {
+      "t": 2690,
+      "title": "childhood adult magazines"
+    },
+    {
+      "t": 2750,
+      "title": "aspiration to become professionally attractive"
+    },
+    {
+      "t": 2810,
+      "title": "cosmetic procedures and appearance"
+    },
+    {
+      "t": 2870,
+      "title": "private family and school details"
+    },
+    {
+      "t": 2920,
+      "title": "refusal to force herself into work"
+    },
+    {
+      "t": 2980,
+      "title": "racial client preferences"
+    },
+    {
+      "t": 3040,
+      "title": "industry racial stereotypes"
+    },
+    {
+      "t": 3100,
+      "title": "no children and no animals"
+    },
+    {
+      "t": 3160,
+      "title": "cast suggests prohibited acts"
+    },
+    {
+      "t": 3220,
+      "title": "private client countries and demographics"
+    },
+    {
+      "t": 3280,
+      "title": "private client insulting alias"
+    },
+    {
+      "t": 3340,
+      "title": "disability and amputee client details"
+    },
+    {
+      "t": 3400,
+      "title": "private butcher/client story"
+    },
+    {
+      "t": 3460,
+      "title": "condom and semen fetish"
+    },
+    {
+      "t": 3520,
+      "title": "storing bodily fluids"
+    },
+    {
+      "t": 3580,
+      "title": "guest does not kiss clients"
+    },
+    {
+      "t": 3630,
+      "title": "married clients and spouses"
+    },
+    {
+      "t": 3663,
+      "title": "uncertain escort/ranking phrase"
+    },
+    {
+      "t": 3670,
+      "title": "repeat-it-until-true law-of-power claim"
+    },
+    {
+      "t": 3740,
+      "title": "escort and performer earnings"
+    },
+    {
+      "t": 3805,
+      "title": "cast says guest is too drunk/wasted"
+    },
+    {
+      "t": 3860,
+      "title": "alcohol is cut off"
+    },
+    {
+      "t": 3920,
+      "title": "room-service worker enters"
+    },
+    {
+      "t": 3970,
+      "title": "worker's name, origin, city and tenure"
+    },
+    {
+      "t": 4010,
+      "title": "guest threatens/teases nudity in worker's face"
+    },
+    {
+      "t": 4040,
+      "title": "worker asked to apply food and take photos"
+    },
+    {
+      "t": 4066,
+      "title": "asks guest whether she is okay before contact"
+    },
+    {
+      "t": 4100,
+      "title": "worker offered money to participate"
+    },
+    {
+      "t": 4130,
+      "title": "That wasn't an invitation"
+    },
+    {
+      "t": 4165,
+      "title": "she said no, you can't just fist someone"
+    },
+    {
+      "t": 4200,
+      "title": "porn pain used as comparison"
+    },
+    {
+      "t": 4240,
+      "title": "baby oil proposed with condoms"
+    },
+    {
+      "t": 4280,
+      "title": "food placed on body"
+    },
+    {
+      "t": 4320,
+      "title": "worker attempts to leave"
+    },
+    {
+      "t": 4360,
+      "title": "worker told participation is part of job description"
+    },
+    {
+      "t": 4400,
+      "title": "worker leaves"
+    },
+    {
+      "t": 4460,
+      "title": "caviar and hummus sexualized acts"
+    },
+    {
+      "t": 4520,
+      "title": "internal food insertion discussed"
+    },
+    {
+      "t": 4580,
+      "title": "guest's anal-sex pain history"
+    },
+    {
+      "t": 4640,
+      "title": "squirting claims"
+    },
+    {
+      "t": 4700,
+      "title": "anal and vaginal physiology generalizations"
+    },
+    {
+      "t": 4760,
+      "title": "fisting preparation discussion"
+    },
+    {
+      "t": 4824,
+      "title": "black guys"
+    },
+    {
+      "t": 4860,
+      "title": "North Dakota racial claims"
+    },
+    {
+      "t": 4900,
+      "title": "personal preference` defense"
+    },
+    {
+      "t": 4960,
+      "title": "guest rejects black clients"
+    },
+    {
+      "t": 5020,
+      "title": "guest rejects swallowing"
+    },
+    {
+      "t": 5080,
+      "title": "drug-use boundaries"
+    },
+    {
+      "t": 5140,
+      "title": "MDMA body-heat claim"
+    },
+    {
+      "t": 5200,
+      "title": "chocolate/gum insertion"
+    },
+    {
+      "t": 5260,
+      "title": "RealDoll"
+    },
+    {
+      "t": 5320,
+      "title": "sex on mushrooms felt romantic"
+    },
+    {
+      "t": 5380,
+      "title": "long-term partner criminal claim"
+    },
+    {
+      "t": 5440,
+      "title": "pink-eye joke"
+    },
+    {
+      "t": 5500,
+      "title": "current fees and Germany travel"
+    },
+    {
+      "t": 5550,
+      "title": "no children/no animals repeated"
+    },
+    {
+      "t": 5595,
+      "title": "guest did not know gummy bears were inserted internally"
+    },
+    {
+      "t": 5620,
+      "title": "one gummy bear remains lost"
+    },
+    {
+      "t": 5670,
+      "title": "Larry Flynt"
+    },
+    {
+      "t": 5710,
+      "title": "TER identifier spoken"
+    },
+    {
+      "t": 5778,
+      "title": "we're not filming"
+    },
+    {
+      "t": 5820,
+      "title": "body-food acts discussed as possible pornography"
+    },
+    {
+      "t": 5870,
+      "title": "guest's private contact and work schedule"
+    },
+    {
+      "t": 5920,
+      "title": "closing thanks and intoxicated aftermath"
+    },
+    {
+      "t": 5962,
+      "title": "show ends"
+    },
+    {
+      "t": 5964,
+      "title": "equipment is dropped / stop"
+    }
+  ],
+  "connections": [
+    {
+      "t": 30,
+      "to": "Corpus publication-boundary taxonomy",
+      "why": "The first intelligible sentence says the subject belongs off air, followed by a check that nothing was already said."
+    },
+    {
+      "t": 197,
+      "to": "Corpus recording-consent taxonomy",
+      "why": "General awareness that audio is rolling does not erase later topic- and act-specific refusals."
+    },
+    {
+      "t": 270,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "The Las Vegas setting is again framed as a relapse risk rather than proof of recovery."
+    },
+    {
+      "t": 588,
+      "to": "Episode 113 — Vegas Part 01",
+      "why": "Kaylani Lei and the Wicked performance context continue the prior installment."
+    },
+    {
+      "t": 760,
+      "to": "DVDASA adult-industry source map",
+      "why": "Humaniplex and review-board reputation recur as historical industry infrastructure."
+    },
+    {
+      "t": 1260,
+      "to": "Episode 114 — Vegas Part 02",
+      "why": "A disclosure made under sustained pressure is retold to a new guest, extending its publication consequences."
+    },
+    {
+      "t": 1360,
+      "to": "DVDASA no-contact boundaries",
+      "why": "The guest says sex workers are paid to leave and not call, a direct limit on post-appointment familiarity."
+    },
+    {
+      "t": 1470,
+      "to": "Episode 108 — Magic Person: Eva Lin",
+      "why": "Eva Lin returns in a discussion that separates public persona, gender identity and assigned orientation claims."
+    },
+    {
+      "t": 1740,
+      "to": "Corpus child-safeguarding taxonomy",
+      "why": "The guest describes sex at twelve with a nineteen-year-old; retrospective affection does not make this adult/child relationship consensual."
+    },
+    {
+      "t": 1930,
+      "to": "Corpus child-safeguarding taxonomy",
+      "why": "A second account at thirteen likewise requires abuse/exploitation framing and de-identification."
+    },
+    {
+      "t": 2140,
+      "to": "DVDASA sex-work timeline",
+      "why": "The guest places the start of escort work at eighteen, separate from childhood exploitation."
+    },
+    {
+      "t": 2340,
+      "to": "Corpus factual-correction ledger",
+      "why": "The cast's weekly and ten-year client-count arithmetic is materially wrong."
+    },
+    {
+      "t": 2520,
+      "to": "David Choe publicity and reputation themes",
+      "why": "A self-promotional ranking and a loose 48 Laws of Power paraphrase frame reputation as repetition."
+    },
+    {
+      "t": 2920,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "The guest describes not forcing herself into work and later states categorical act/client boundaries."
+    },
+    {
+      "t": 2980,
+      "to": "Corpus offensive-ideas preservation policy",
+      "why": "Racial exclusions and stereotypes remain literal while the editorial layer refuses to convert them into demographic truth."
+    },
+    {
+      "t": 3100,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "The guest repeatedly rejects children and animals despite cast suggestions."
+    },
+    {
+      "t": 3520,
+      "to": "Corpus sexual-health correction ledger",
+      "why": "Stored bodily fluids and used condoms carry biohazard and infection risk."
+    },
+    {
+      "t": 3805,
+      "to": "Corpus intoxication-and-capacity taxonomy",
+      "why": "The cast explicitly identifies the guest as too intoxicated, affecting interpretation of everything that follows."
+    },
+    {
+      "t": 3920,
+      "to": "Corpus worker-power taxonomy",
+      "why": "A hotel worker is subjected to sexualized requests within a customer/employment imbalance."
+    },
+    {
+      "t": 4066,
+      "to": "DVDASA affirmative-consent evidence",
+      "why": "A speaker pauses to ask the guest whether she is okay before bodily contact."
+    },
+    {
+      "t": 4130,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "The guest says her prior statement was not an invitation, and another speaker explicitly states that no forbids fisting."
+    },
+    {
+      "t": 4240,
+      "to": "Corpus sexual-health correction ledger",
+      "why": "Baby oil can degrade latex condoms; compatible lubricant guidance belongs outside literal dialogue."
+    },
+    {
+      "t": 4824,
+      "to": "Corpus entity-correction ledger",
+      "why": "Context resolves `black eyes` as `black guys` without sanitizing the underlying racial preference."
+    },
+    {
+      "t": 5260,
+      "to": "Episode 111 — Mom's Wand",
+      "why": "RealDoll language recurs, but a product metaphor cannot convert a person into an object."
+    },
+    {
+      "t": 5595,
+      "to": "Corpus informed-consent taxonomy",
+      "why": "The guest says she did not know food was inserted internally, and one item remains unaccounted for."
+    },
+    {
+      "t": 5710,
+      "to": "Corpus public-discovery policy",
+      "why": "A historical review-site identifier is spoken but is not reproduced as a present contact route."
+    },
+    {
+      "t": 5778,
+      "to": "Corpus recording-versus-filming taxonomy",
+      "why": "The speakers explicitly state that they are not filming, preventing audio consent from being treated as video consent."
+    },
+    {
+      "t": 5962,
+      "to": "Vegas sequence",
+      "why": "Part 03 closes the extended Las Vegas hotel-room run."
+    }
+  ],
+  "content_warnings": [
+    "opening ASR hallucination and uncertain audio",
+    "explicit sexual discussion",
+    "sex work and commercial sexual services",
+    "child sexual abuse and statutory exploitation",
+    "adult/minor age-gap normalization",
+    "private childhood and family history",
+    "intoxication and impaired capacity",
+    "workplace/customer power imbalance",
+    "sexual pressure directed at a hotel worker",
+    "unconsented internal food insertion",
+    "retained foreign object and infection risk",
+    "anal pain and fisting discussion",
+    "bodily fluids and biohazard risk",
+    "condom/lubricant misinformation",
+    "drug use and MDMA hyperthermia risk",
+    "gambling addiction and relapse risk",
+    "covert-recording and spy-pen anxiety",
+    "private client health and disability details",
+    "private partners, spouses and families",
+    "racial stereotypes and discriminatory client exclusions",
+    "homophobic, transphobic, racial and ableist slurs",
+    "orientation and gender misinformation",
+    "unverified crimes and private-person allegations",
+    "escort prices, income and client-count claims",
+    "incorrect arithmetic and promotional rankings",
+    "hotel access, worker identity and active-location clues",
+    "review-site identifiers and contact paths",
+    "pornography/performance versus real-life consent"
+  ]
+}

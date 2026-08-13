@@ -1,0 +1,77 @@
+{
+  "summary": "The second DVDASA episode develops the show's early ensemble format with David Choe and Asa Akira joined by Yoshi Obayashi and Bobby Namba. It moves from Yoshi's media habits and Asa's work ethic into relationships, language, money, trivia, adult-industry labor, escorting, jealousy, independence, and friendship. The longest coherent section is Asa's first-person account of escorting, with the others questioning and interrupting; that structure makes the episode useful for speaker validation but also makes paragraph-level attribution unsafe.",
+  "chapters": [
+    {"t": 9, "title": "Episode Two: Yoshi and Bobby return"},
+    {"t": 70, "title": "Action Girls, revenge sites, and discomfort"},
+    {"t": 500, "title": "Asa's discipline and work ethic"},
+    {"t": 1100, "title": "Marriage, language, and financial trust"},
+    {"t": 1517, "title": "Trivia With Bobby: television, film, and Zoolander"},
+    {"t": 2050, "title": "Party stories and adult-industry competition"},
+    {"t": 2840, "title": "Asa begins the escorting story"},
+    {"t": 3090, "title": "Money, celebrity, and the price of access"},
+    {"t": 3600, "title": "The second meeting and boundaries"},
+    {"t": 4200, "title": "Hawaii, attachment, and the Pretty Woman turn"},
+    {"t": 5000, "title": "Independence, hobbies, friends, and closing advice"}
+  ],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Jessie Andrews",
+    "Mark Spiegler",
+    "Hunter Moore",
+    "Christina Rose",
+    "Katsuni",
+    "Joanna Angel",
+    "Karl Lagerfeld",
+    "Anna Wintour"
+  ],
+  "places": ["Los Angeles", "Hawaii"],
+  "works": [
+    "DVDASA",
+    "Trivia With Bobby",
+    "Zoolander",
+    "Indecent Proposal",
+    "Pretty Woman",
+    "Girls"
+  ],
+  "themes": [
+    "work ethic",
+    "adult-industry labor",
+    "money",
+    "marriage",
+    "sexuality",
+    "privacy",
+    "performance",
+    "boundaries",
+    "jealousy",
+    "independence",
+    "friendship"
+  ],
+  "connections": [
+    {
+      "label": "The ensemble format is already present",
+      "note": "Although the title names David and Asa, Yoshi participates throughout and Bobby runs the trivia segment. This early structure explains why title-derived speaker counts and two-host assumptions fail."
+    },
+    {
+      "label": "Performance versus private transaction",
+      "note": "Asa repeatedly distinguishes enjoying the camera, set, and audience from private paid sex. That distinction becomes the organizing tension in the escorting account."
+    },
+    {
+      "label": "Money changes the relationship frame",
+      "note": "The episode links David's public wealth, celebrity access, adult-industry rates, escorting, and romantic support as different markets whose emotional consequences cannot be reduced to price."
+    },
+    {
+      "label": "Independence as relationship advice",
+      "note": "The closing discussion argues for separate hobbies, work, and friends. It echoes the Ranch emphasis on self-sufficiency, but here it emerges through disagreement among several people rather than a solo blueprint."
+    }
+  ],
+  "quality": {
+    "transcript_state": "draft-needs-audio-check",
+    "speaker_state": "known four-person participant set; named turns withheld pending measured mixed-speaker validation",
+    "correction_fixture": "episode-002-correction-fixture.json",
+    "content_note": "The episode contains explicit sexual material and discussion of revenge pornography and escorting. Editorial summaries preserve context without endorsing harmful conduct."
+  },
+  "note": "Chapter labels and commentary are editorial. The ASR is highly readable, but many segments contain multiple speakers; exact quotations and speaker attribution require checking the recording."
+}

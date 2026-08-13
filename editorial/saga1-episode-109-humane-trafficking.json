@@ -1,0 +1,1239 @@
+{
+  "episode_id": "saga1-episode-109-humane-trafficking",
+  "title": "Humane Trafficking",
+  "reviewed_on": "2026-07-31",
+  "summary": "Episode 109 brings Bobby Lee and Khalyla back after the honeymoon and moves through relationship privacy, Khalyla's depression and medication history, David's suffering-and-creativity theory, an extended joint-suicide fantasy, revenge and reproductive hypotheticals, an improvised `humane human trafficking` sitcom, DVDASA personnel conflict, stand-up and television development, sexual price games, and a late strip-club story. `Humane trafficking` is a deliberately contradictory fictional pitch, not an actual business: nominal volunteering cannot authorize coercion, forced labor or loss of personhood. The closing story supplies a clear boundary record—the worker repeatedly refuses escalating offers, David admits the $100,000 offer was not genuine, and he eventually recognizes lap dancing as her line. Ideas and offensive speech remain intact; fact-checks, attribution, consent analysis and privacy restrictions remain separate.",
+  "quality": {
+    "raw_segments": 5837,
+    "clean_segments": 5833,
+    "raw_words_approx": 33371,
+    "clean_words_approx": 33371,
+    "duration_seconds": 10649.04,
+    "accepted_context_decisions": 194,
+    "chapters": 268,
+    "connections": 21,
+    "content_warnings": 24,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 4,
+    "cleaning_net_reduction": 4
+  },
+  "source_notes": [
+    "The raw file contains 5,837 segments and approximately 33,371 words; the clean file contains 5,833 segments and the same approximate word count across 10,649.04 seconds.",
+    "All four cleaner removals are empty zero-duration artifacts. No spoken text is removed.",
+    "The episode is primary for cast statements but not independent proof of diagnoses, private relationships, personnel disputes, targets, earnings, gambling, addiction, celebrity interest, medical conditions or a stripper's identity.",
+    "DOJ defines human trafficking as exploitation through compelled or coerced labor, services or commercial sex. 18 U.S.C. §1589 covers labor obtained by force, threats, restraint, serious harm, abuse of legal process or schemes creating fear of harm. The episode's amenities and nominal `volunteering` do not make coercive forced labor humane: https://www.justice.gov/humantrafficking/what-is-human-trafficking and https://uscode.house.gov/view.xhtml?edition=prelim&req=granuleid%3AUSC-prelim-title18-section1589",
+    "UNODC explains that consent is irrelevant when trafficking means such as force, coercion, fraud, deception, abuse of power or vulnerability are used. The fictional premise is preserved without becoming a consent loophole: https://www.unodc.org/documents/human-trafficking/2014/UNODC_2014_Issue_Paper_Consent.pdf",
+    "Depression has not been replaced by bipolar I/II. Khalyla's diagnosis and treatment are her personal report; the cast's taxonomy and 5-HTP advice are not clinical guidance.",
+    "The suicide material is extensive and graphic but presented as improvised fantasy. It remains mapped and warned rather than silently removed.",
+    "Ideas and explicit speech remain intact. Public restrictions protect private social accounts, diagnoses, sexual/medical details, revenge targets, children, family, contributors' messages, prospective dates, private workers, addiction allegations, residences and contact channels."
+  ],
+  "speaker_policy": "Introductions and context identify recurring cast, Bobby Lee and Khalyla, but this episode has no accepted identity windows and has not passed independently held-out multispeaker validation. Named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Music setup"
+    },
+    {
+      "t": 17,
+      "title": "DVDASA introduction"
+    },
+    {
+      "t": 21,
+      "title": "Bill, Critter and Val host"
+    },
+    {
+      "t": 29,
+      "title": "Guest-name permission"
+    },
+    {
+      "t": 31,
+      "title": "Khalyla introduced"
+    },
+    {
+      "t": 54,
+      "title": "Houston work trip"
+    },
+    {
+      "t": 81,
+      "title": "Bill's panda costume"
+    },
+    {
+      "t": 119,
+      "title": "Why own a gorilla suit?"
+    },
+    {
+      "t": 192,
+      "title": "Giant Robot origin"
+    },
+    {
+      "t": 200,
+      "title": "Eric and the bear costume"
+    },
+    {
+      "t": 222,
+      "title": "Employment story summarized"
+    },
+    {
+      "t": 237,
+      "title": "Bill says he walked away"
+    },
+    {
+      "t": 244,
+      "title": "Panda Poon nicknames"
+    },
+    {
+      "t": 251,
+      "title": "Episode 102 has not aired"
+    },
+    {
+      "t": 257,
+      "title": "Backlash anticipated"
+    },
+    {
+      "t": 269,
+      "title": "Bobby's Instagram"
+    },
+    {
+      "t": 282,
+      "title": "Khalyla's private account"
+    },
+    {
+      "t": 298,
+      "title": "Social media and friendship"
+    },
+    {
+      "t": 479,
+      "title": "Hygiene exaggeration"
+    },
+    {
+      "t": 544,
+      "title": "Prior episode revisited"
+    },
+    {
+      "t": 549,
+      "title": "Private anal-sex history"
+    },
+    {
+      "t": 600,
+      "title": "Racialized sexual calendar"
+    },
+    {
+      "t": 611,
+      "title": "How far ahead to ask"
+    },
+    {
+      "t": 638,
+      "title": "Direct anal-sex request"
+    },
+    {
+      "t": 645,
+      "title": "Eva Lin callback"
+    },
+    {
+      "t": 650,
+      "title": "Bobby challenges David"
+    },
+    {
+      "t": 658,
+      "title": "Steve's provider encounter"
+    },
+    {
+      "t": 668,
+      "title": "David denies coercive control"
+    },
+    {
+      "t": 674,
+      "title": "Erotic-provider terminology"
+    },
+    {
+      "t": 678,
+      "title": "Candy-and-child analogy"
+    },
+    {
+      "t": 689,
+      "title": "Trivia game of chance"
+    },
+    {
+      "t": 698,
+      "title": "Who bears responsibility?"
+    },
+    {
+      "t": 729,
+      "title": "Cast treats encounter as real"
+    },
+    {
+      "t": 758,
+      "title": "Who arranged the provider?"
+    },
+    {
+      "t": 967,
+      "title": "Relationship fight follow-up"
+    },
+    {
+      "t": 976,
+      "title": "Private Instagram observation"
+    },
+    {
+      "t": 1008,
+      "title": "Did the show cause breakup?"
+    },
+    {
+      "t": 1040,
+      "title": "Causation questioned"
+    },
+    {
+      "t": 1053,
+      "title": "Bipolar question"
+    },
+    {
+      "t": 1070,
+      "title": "Recurrent depression report"
+    },
+    {
+      "t": 1081,
+      "title": "Show timing and mood"
+    },
+    {
+      "t": 1123,
+      "title": "Depression follows coincidentally"
+    },
+    {
+      "t": 1131,
+      "title": "Gridlock in the head"
+    },
+    {
+      "t": 1144,
+      "title": "Adolescent diagnosis"
+    },
+    {
+      "t": 1149,
+      "title": "False depression taxonomy"
+    },
+    {
+      "t": 1153,
+      "title": "Bipolar umbrella error"
+    },
+    {
+      "t": 1203,
+      "title": "Expected two-week course"
+    },
+    {
+      "t": 1211,
+      "title": "Episodes strike anywhere"
+    },
+    {
+      "t": 1216,
+      "title": "Past antipsychotic trials"
+    },
+    {
+      "t": 1231,
+      "title": "Medication and personality tradeoff"
+    },
+    {
+      "t": 1242,
+      "title": "David's substance sensitivity"
+    },
+    {
+      "t": 1246,
+      "title": "Treatment advice recalled"
+    },
+    {
+      "t": 1251,
+      "title": "5-HTP supplement"
+    },
+    {
+      "t": 1258,
+      "title": "`Real medication` framing"
+    },
+    {
+      "t": 1266,
+      "title": "Fat Thor relationship joke"
+    },
+    {
+      "t": 1295,
+      "title": "Clouded feeling"
+    },
+    {
+      "t": 1300,
+      "title": "Spontaneous reckless art"
+    },
+    {
+      "t": 1310,
+      "title": "Regret and free flow"
+    },
+    {
+      "t": 1323,
+      "title": "Choosing to feel like himself"
+    },
+    {
+      "t": 1332,
+      "title": "Dark-place creativity theory"
+    },
+    {
+      "t": 1336,
+      "title": "Inducing darkness deliberately"
+    },
+    {
+      "t": 1341,
+      "title": "Self-imposed prison"
+    },
+    {
+      "t": 1347,
+      "title": "Double-suicide fantasy begins"
+    },
+    {
+      "t": 1354,
+      "title": "Graphic firearm scenario"
+    },
+    {
+      "t": 1361,
+      "title": "Building-jump alternative"
+    },
+    {
+      "t": 1365,
+      "title": "Handcuff condition"
+    },
+    {
+      "t": 1374,
+      "title": "Genital handcuff joke"
+    },
+    {
+      "t": 1381,
+      "title": "Vows during jump"
+    },
+    {
+      "t": 1386,
+      "title": "Recording the suicide"
+    },
+    {
+      "t": 1401,
+      "title": "Who goes first?"
+    },
+    {
+      "t": 1414,
+      "title": "Tonight's `plan` joke"
+    },
+    {
+      "t": 1481,
+      "title": "They might miss it"
+    },
+    {
+      "t": 1530,
+      "title": "Secluded Ranch mentioned"
+    },
+    {
+      "t": 1708,
+      "title": "Triple-suicide fantasy"
+    },
+    {
+      "t": 1801,
+      "title": "Cocaine denial and fantasy"
+    },
+    {
+      "t": 1818,
+      "title": "Eight-ball dose"
+    },
+    {
+      "t": 1820,
+      "title": "Viagra after cocaine"
+    },
+    {
+      "t": 1827,
+      "title": "Movie theater plan"
+    },
+    {
+      "t": 1840,
+      "title": "Pretty Woman rejected"
+    },
+    {
+      "t": 1846,
+      "title": "Kurosawa's High and Low"
+    },
+    {
+      "t": 1868,
+      "title": "Revenge quest begins"
+    },
+    {
+      "t": 1870,
+      "title": "Violence toward kids and women"
+    },
+    {
+      "t": 1888,
+      "title": "Private target list"
+    },
+    {
+      "t": 1900,
+      "title": "Separate quests"
+    },
+    {
+      "t": 1913,
+      "title": "Prior abuse story misidentified"
+    },
+    {
+      "t": 1918,
+      "title": "Casting professional targeted"
+    },
+    {
+      "t": 2400,
+      "title": "Hypothetical child"
+    },
+    {
+      "t": 2408,
+      "title": "Half-Asian corrected"
+    },
+    {
+      "t": 2411,
+      "title": "Critter asked to raise children"
+    },
+    {
+      "t": 2415,
+      "title": "Abuse joke about hypothetical kids"
+    },
+    {
+      "t": 2422,
+      "title": "Reproductive-sex hypothetical"
+    },
+    {
+      "t": 2428,
+      "title": "Scenario labeled hypothetical"
+    },
+    {
+      "t": 2431,
+      "title": "Legacy rationale"
+    },
+    {
+      "t": 2457,
+      "title": "Return to suicide fantasy"
+    },
+    {
+      "t": 2461,
+      "title": "Anti-Asian paternity slur"
+    },
+    {
+      "t": 2476,
+      "title": "Sex and violence `handled`"
+    },
+    {
+      "t": 2480,
+      "title": "Family farewells"
+    },
+    {
+      "t": 2597,
+      "title": "Gambling on the final day"
+    },
+    {
+      "t": 2946,
+      "title": "Finish the suicide date"
+    },
+    {
+      "t": 3007,
+      "title": "Suicide Bro Date"
+    },
+    {
+      "t": 3046,
+      "title": "Fictional $200 million"
+    },
+    {
+      "t": 3075,
+      "title": "Human-trafficking business recalled"
+    },
+    {
+      "t": 3081,
+      "title": "Sitcom potential"
+    },
+    {
+      "t": 3088,
+      "title": "Human-trafficking premise"
+    },
+    {
+      "t": 3097,
+      "title": "`Humane` contradiction"
+    },
+    {
+      "t": 3101,
+      "title": "Slavery named"
+    },
+    {
+      "t": 3105,
+      "title": "People who `want` slavery"
+    },
+    {
+      "t": 3130,
+      "title": "Humane-conditions recruitment pitch"
+    },
+    {
+      "t": 3150,
+      "title": "Purported voluntary slavery"
+    },
+    {
+      "t": 3155,
+      "title": "Personhood renounced in fantasy"
+    },
+    {
+      "t": 3190,
+      "title": "Fictional operation starts"
+    },
+    {
+      "t": 3218,
+      "title": "Premise becomes TV show"
+    },
+    {
+      "t": 3231,
+      "title": "Pilot opening"
+    },
+    {
+      "t": 3264,
+      "title": "Show improvised on air"
+    },
+    {
+      "t": 3266,
+      "title": "Bros Suicide Pack Club"
+    },
+    {
+      "t": 3271,
+      "title": "Twist-ending format"
+    },
+    {
+      "t": 3291,
+      "title": "Pilot episode"
+    },
+    {
+      "t": 3298,
+      "title": "Sex-worker waiting room"
+    },
+    {
+      "t": 3306,
+      "title": "Multi-camera island sitcom"
+    },
+    {
+      "t": 3349,
+      "title": "Title questioned"
+    },
+    {
+      "t": 3374,
+      "title": "Will anyone make it?"
+    },
+    {
+      "t": 3387,
+      "title": "Real sex work on fictional show?"
+    },
+    {
+      "t": 3401,
+      "title": "Bobby defends Steve"
+    },
+    {
+      "t": 3560,
+      "title": "Steve's absence"
+    },
+    {
+      "t": 3653,
+      "title": "What the show reveals"
+    },
+    {
+      "t": 3782,
+      "title": "Steve dating-show project"
+    },
+    {
+      "t": 3889,
+      "title": "Television reference"
+    },
+    {
+      "t": 4003,
+      "title": "Five stand-up shows"
+    },
+    {
+      "t": 4007,
+      "title": "Post-show audience interaction"
+    },
+    {
+      "t": 4032,
+      "title": "Khalyla at Bobby's shows"
+    },
+    {
+      "t": 4063,
+      "title": "Appropriate flirting move"
+    },
+    {
+      "t": 4147,
+      "title": "Bobby may avoid show"
+    },
+    {
+      "t": 4153,
+      "title": "Trafficking-sitcom callback"
+    },
+    {
+      "t": 4184,
+      "title": "Glue-fist production joke"
+    },
+    {
+      "t": 4243,
+      "title": "Private genital exposure"
+    },
+    {
+      "t": 4344,
+      "title": "Genitals shown in studio"
+    },
+    {
+      "t": 4734,
+      "title": "Next-show planning"
+    },
+    {
+      "t": 4765,
+      "title": "Attendance conflict"
+    },
+    {
+      "t": 4768,
+      "title": "Nobody arrived"
+    },
+    {
+      "t": 4909,
+      "title": "Missing perspectives"
+    },
+    {
+      "t": 5015,
+      "title": "Suicide-club callback"
+    },
+    {
+      "t": 5099,
+      "title": "Guests under microscope"
+    },
+    {
+      "t": 5356,
+      "title": "Hypothetical TV pickup"
+    },
+    {
+      "t": 5455,
+      "title": "Show concept continues"
+    },
+    {
+      "t": 5789,
+      "title": "Mexico reference"
+    },
+    {
+      "t": 5899,
+      "title": "Comedy Central development deal"
+    },
+    {
+      "t": 5904,
+      "title": "Who belongs in the show?"
+    },
+    {
+      "t": 5923,
+      "title": "All-Asian casting question"
+    },
+    {
+      "t": 5989,
+      "title": "Writing versus auditioning"
+    },
+    {
+      "t": 6101,
+      "title": "Past writing control"
+    },
+    {
+      "t": 6135,
+      "title": "Which sitcom?"
+    },
+    {
+      "t": 6152,
+      "title": "Likely show outcome"
+    },
+    {
+      "t": 6218,
+      "title": "Private text coordination"
+    },
+    {
+      "t": 6282,
+      "title": "Public personnel criticism pattern"
+    },
+    {
+      "t": 6645,
+      "title": "Showcase conflict"
+    },
+    {
+      "t": 6667,
+      "title": "Bobby event, wording uncertain"
+    },
+    {
+      "t": 6678,
+      "title": "Contributor fired"
+    },
+    {
+      "t": 6691,
+      "title": "Effort required for show"
+    },
+    {
+      "t": 6751,
+      "title": "Trafficking twist recalled"
+    },
+    {
+      "t": 6848,
+      "title": "Vietnamese-culture generalization"
+    },
+    {
+      "t": 7039,
+      "title": "`Showbiz mad` interpretation"
+    },
+    {
+      "t": 7109,
+      "title": "Show continues"
+    },
+    {
+      "t": 7256,
+      "title": "Ranch tomorrow"
+    },
+    {
+      "t": 7473,
+      "title": "Assault/revenge phrase garbled"
+    },
+    {
+      "t": 7636,
+      "title": "Ranch versus relationship"
+    },
+    {
+      "t": 7758,
+      "title": "Dating Critter's mother"
+    },
+    {
+      "t": 7779,
+      "title": "Showering family with affection"
+    },
+    {
+      "t": 7847,
+      "title": "Fleming family listens"
+    },
+    {
+      "t": 7912,
+      "title": "Many DVDASA dating concepts"
+    },
+    {
+      "t": 7917,
+      "title": "Megan Fox hypothetical"
+    },
+    {
+      "t": 7951,
+      "title": "Sexual price game begins"
+    },
+    {
+      "t": 7970,
+      "title": "Compensated anal-sex hypothetical"
+    },
+    {
+      "t": 7980,
+      "title": "Jokes sometimes become arrangements"
+    },
+    {
+      "t": 7990,
+      "title": "Trafficking sitcom might be made"
+    },
+    {
+      "t": 8000,
+      "title": "Missionary-style condition"
+    },
+    {
+      "t": 8008,
+      "title": "Composite Bill-Critter partner"
+    },
+    {
+      "t": 8027,
+      "title": "Name your price"
+    },
+    {
+      "t": 8033,
+      "title": "Prison-role statement"
+    },
+    {
+      "t": 8042,
+      "title": "Millionaire framing"
+    },
+    {
+      "t": 8129,
+      "title": "Price reconsidered"
+    },
+    {
+      "t": 8146,
+      "title": "Ten million rejected"
+    },
+    {
+      "t": 8149,
+      "title": "One billion refusal"
+    },
+    {
+      "t": 8174,
+      "title": "Bill's half-million range"
+    },
+    {
+      "t": 8207,
+      "title": "Billion-dollar challenge"
+    },
+    {
+      "t": 8229,
+      "title": "Gift-shop comparison"
+    },
+    {
+      "t": 8240,
+      "title": "Critter scenario"
+    },
+    {
+      "t": 8358,
+      "title": "Orgasm required for payment"
+    },
+    {
+      "t": 8386,
+      "title": "Price rises"
+    },
+    {
+      "t": 8418,
+      "title": "Can money erase memory?"
+    },
+    {
+      "t": 8436,
+      "title": "One-billion price"
+    },
+    {
+      "t": 8447,
+      "title": "Val asked"
+    },
+    {
+      "t": 8467,
+      "title": "Five-million answer"
+    },
+    {
+      "t": 8474,
+      "title": "House for parents"
+    },
+    {
+      "t": 8487,
+      "title": "Veracruz beach hypothetical"
+    },
+    {
+      "t": 8493,
+      "title": "Siblings and house"
+    },
+    {
+      "t": 8511,
+      "title": "Val chooses giving role"
+    },
+    {
+      "t": 8521,
+      "title": "Completion requirement"
+    },
+    {
+      "t": 8541,
+      "title": "Five-million winner"
+    },
+    {
+      "t": 8676,
+      "title": "Adult-scene compensation"
+    },
+    {
+      "t": 8723,
+      "title": "David chooses one million"
+    },
+    {
+      "t": 8742,
+      "title": "Stripper stereotype"
+    },
+    {
+      "t": 8814,
+      "title": "Prostitution disclaimer"
+    },
+    {
+      "t": 8821,
+      "title": "`Donation for time` euphemism"
+    },
+    {
+      "t": 8931,
+      "title": "Audience indecent proposals"
+    },
+    {
+      "t": 8939,
+      "title": "Historical dates contact"
+    },
+    {
+      "t": 8964,
+      "title": "Val's price repeated"
+    },
+    {
+      "t": 9001,
+      "title": "Asa absent and missed"
+    },
+    {
+      "t": 9021,
+      "title": "Bobby and Khalyla thanked"
+    },
+    {
+      "t": 9027,
+      "title": "Steve drinking concern"
+    },
+    {
+      "t": 9030,
+      "title": "`Keep it real` claim"
+    },
+    {
+      "t": 9033,
+      "title": "Bobby's showbiz anger"
+    },
+    {
+      "t": 9051,
+      "title": "West Covina mall joke"
+    },
+    {
+      "t": 9063,
+      "title": "New-marriage sex question"
+    },
+    {
+      "t": 9077,
+      "title": "Private doctor issue"
+    },
+    {
+      "t": 9094,
+      "title": "Pain during intercourse"
+    },
+    {
+      "t": 9110,
+      "title": "Manual sex detail"
+    },
+    {
+      "t": 9132,
+      "title": "Permanent-limitation hypothetical"
+    },
+    {
+      "t": 9143,
+      "title": "Would he leave?"
+    },
+    {
+      "t": 9155,
+      "title": "Transgender comparison"
+    },
+    {
+      "t": 9173,
+      "title": "Absent-partner permission imagined"
+    },
+    {
+      "t": 9219,
+      "title": "Billionaire call repeated"
+    },
+    {
+      "t": 9386,
+      "title": "Two-man show"
+    },
+    {
+      "t": 9423,
+      "title": "New York art show"
+    },
+    {
+      "t": 9442,
+      "title": "Release after art show"
+    },
+    {
+      "t": 9456,
+      "title": "Meeting women through art"
+    },
+    {
+      "t": 9474,
+      "title": "Critter's opening-night prospects"
+    },
+    {
+      "t": 9508,
+      "title": "Art pricing"
+    },
+    {
+      "t": 9535,
+      "title": "Signing idea"
+    },
+    {
+      "t": 9565,
+      "title": "Art and human interaction"
+    },
+    {
+      "t": 9643,
+      "title": "Still on air"
+    },
+    {
+      "t": 9653,
+      "title": "First attempted ending"
+    },
+    {
+      "t": 9684,
+      "title": "David's missing topic"
+    },
+    {
+      "t": 9695,
+      "title": "Recording continues"
+    },
+    {
+      "t": 9701,
+      "title": "Critter's hat revisited"
+    },
+    {
+      "t": 9724,
+      "title": "Private goddaughter"
+    },
+    {
+      "t": 9730,
+      "title": "Public reactions to costume"
+    },
+    {
+      "t": 9843,
+      "title": "Ranch-bound strip-club story"
+    },
+    {
+      "t": 9898,
+      "title": "Private stripper"
+    },
+    {
+      "t": 10114,
+      "title": "Critter receives affection"
+    },
+    {
+      "t": 10149,
+      "title": "Everyone hugs Critter"
+    },
+    {
+      "t": 10162,
+      "title": "Two years without gambling"
+    },
+    {
+      "t": 10171,
+      "title": "Private Vice acquaintance"
+    },
+    {
+      "t": 10187,
+      "title": "Gambling-addiction allegation"
+    },
+    {
+      "t": 10223,
+      "title": "Casino-chip message"
+    },
+    {
+      "t": 10235,
+      "title": "David lies about gambling"
+    },
+    {
+      "t": 10241,
+      "title": "Attraction to the worker"
+    },
+    {
+      "t": 10267,
+      "title": "Offsite proposition"
+    },
+    {
+      "t": 10286,
+      "title": "Five-thousand-dollar offer"
+    },
+    {
+      "t": 10308,
+      "title": "Worker refuses"
+    },
+    {
+      "t": 10314,
+      "title": "Offer doubles after no"
+    },
+    {
+      "t": 10321,
+      "title": "Annoyed refusal"
+    },
+    {
+      "t": 10337,
+      "title": "Twenty-five-thousand offer"
+    },
+    {
+      "t": 10349,
+      "title": "Hundred-thousand escalation"
+    },
+    {
+      "t": 10353,
+      "title": "Professional boundary repeated"
+    },
+    {
+      "t": 10360,
+      "title": "Largest offer admitted false"
+    },
+    {
+      "t": 10366,
+      "title": "Other women's prices compared"
+    },
+    {
+      "t": 10382,
+      "title": "Critter versus David"
+    },
+    {
+      "t": 10399,
+      "title": "Did she believe him?"
+    },
+    {
+      "t": 10408,
+      "title": "Lap dancing is her line"
+    },
+    {
+      "t": 10419,
+      "title": "Cash-versus-chip speculation"
+    },
+    {
+      "t": 10435,
+      "title": "Ableist insult"
+    },
+    {
+      "t": 10446,
+      "title": "Religious price comparison"
+    },
+    {
+      "t": 10483,
+      "title": "Hope and standards"
+    },
+    {
+      "t": 10493,
+      "title": "Moral ranking"
+    },
+    {
+      "t": 10501,
+      "title": "Final thematic close"
+    },
+    {
+      "t": 10509,
+      "title": "Gambling recovery follow-up"
+    },
+    {
+      "t": 10516,
+      "title": "Past compulsion"
+    },
+    {
+      "t": 10553,
+      "title": "Outro music"
+    }
+  ],
+  "connections": [
+    {
+      "t": 257,
+      "to": "Episode 102 Khalyla appearance",
+      "why": "The earlier appearance has not aired, so anticipated backlash and relationship effects are prospective."
+    },
+    {
+      "t": 645,
+      "to": "Episode 108 Eva Lin",
+      "why": "The cast immediately carries transgender and sexual-boundary discussion into the next recording."
+    },
+    {
+      "t": 658,
+      "to": "Episodes 104–105 Delilah and Steve",
+      "why": "Bobby challenges the production's responsibility for arranging the encounter."
+    },
+    {
+      "t": 1149,
+      "to": "mental-health fact checking",
+      "why": "Depression remains distinct from bipolar I and II; the cast's taxonomy is false."
+    },
+    {
+      "t": 1251,
+      "to": "5-HTP evidence boundary",
+      "why": "A retail supplement can still have serotonergic interactions and is not a consequence-free first step."
+    },
+    {
+      "t": 1336,
+      "to": "Ranch creative isolation",
+      "why": "David explicitly links induced darkness and self-imposed prison to creative production."
+    },
+    {
+      "t": 1347,
+      "to": "suicide-content architecture",
+      "why": "The long improvised fantasy must remain discoverable with warning rather than disappear from summaries."
+    },
+    {
+      "t": 3075,
+      "to": "fiction versus biography",
+      "why": "`Humane trafficking` is a sitcom premise created in conversation, not evidence of a real business."
+    },
+    {
+      "t": 3097,
+      "to": "DOJ forced-labor definition",
+      "why": "Amenities or nominal volunteering do not make force, threats, serious harm or coercion humane."
+    },
+    {
+      "t": 3150,
+      "to": "UNODC consent principle",
+      "why": "Consent does not excuse trafficking when coercion, fraud, abuse of power or vulnerability is used."
+    },
+    {
+      "t": 3264,
+      "to": "David/Bobby creative development",
+      "why": "The episode documents a full premise, working title, pilot and multi-camera format being improvised."
+    },
+    {
+      "t": 5099,
+      "to": "DVDASA publication norm",
+      "why": "Putting guests under a microscope cannot authorize disclosure of unrelated private people."
+    },
+    {
+      "t": 6282,
+      "to": "Yoshi/Yen/Shane personnel timeline",
+      "why": "The argument connects several earlier public workplace confrontations."
+    },
+    {
+      "t": 7256,
+      "to": "Ranch chronology",
+      "why": "David says he leaves for the Ranch the next day."
+    },
+    {
+      "t": 7912,
+      "to": "DVDASA relationship engineering",
+      "why": "The Steve dating call, celebrity hypotheticals and indecent proposals form a growing family of audience-driven formats."
+    },
+    {
+      "t": 7980,
+      "to": "joke-to-action risk",
+      "why": "The cast acknowledges that on-air hypotheticals sometimes become real, making refusal and contingency essential."
+    },
+    {
+      "t": 8358,
+      "to": "consent versus sexual response",
+      "why": "Orgasm cannot prove consent or turn a hypothetical into a future agreement."
+    },
+    {
+      "t": 8931,
+      "to": "historical audience submissions",
+      "why": "The proposal/contact channel belongs in provenance but private responses must remain restricted."
+    },
+    {
+      "t": 9423,
+      "to": "David Choe art-show timeline",
+      "why": "The pending New York show intersects with release timing, pricing and social motives."
+    },
+    {
+      "t": 10162,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "He reports more than two years without gambling while describing a triggering casino-chip message."
+    },
+    {
+      "t": 10308,
+      "to": "act-specific refusal",
+      "why": "The worker repeatedly says she does not do offsite sex despite escalating money and continuing the contracted lap dance."
+    }
+  ],
+  "content_warnings": [
+    "graphic suicide fantasy",
+    "firearm and jumping suicide methods",
+    "coercive suicide pact jokes",
+    "depression, bipolar disorder and psychiatric medication",
+    "unverified supplement advice",
+    "cocaine and Viagra mixing",
+    "revenge violence toward children and women",
+    "sexual assault and childhood-abuse references",
+    "explicit sexual discussion",
+    "sex work and compensated encounters",
+    "human trafficking, slavery and forced-labor fantasy",
+    "racial, gender and disability slurs",
+    "private relationship and sexual-health information",
+    "pregnancy speculation",
+    "hypothetical children sexualized",
+    "private revenge targets",
+    "public workplace firing and humiliation",
+    "genital exposure",
+    "celebrity sexual hypotheticals",
+    "sexual price games",
+    "orgasm misused as consent evidence",
+    "gambling addiction and recovery",
+    "pressure after repeated sexual refusal",
+    "private workers, family and contact information"
+  ]
+}

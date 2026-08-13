@@ -1,0 +1,2902 @@
+{
+  "episode_id": "saga1-episode-118-2-depressed-artists",
+  "title": "2 Depressed Artists",
+  "reviewed_on": "2026-07-31",
+  "summary": "Episode 118 opens with a ten-minute media montage, then brings David Chang back for a nearly three-hour discussion spanning fishing, workplace power, artistic discipline, burnout, wealth and racialized service, restaurant labor, depression and suicide, family risk philosophy, rage versus happiness, fan boundaries, gambling relapse pressure and a future-child naming wager. Its depression section combines useful help-seeking testimony with explicit suicide incitement and unsafe universal advice. The audit preserves every statement while making the safety, medical, factual, consent, workplace, confidentiality and discovery distinctions impossible to miss.",
+  "quality": {
+    "raw_segments": 3959,
+    "clean_segments": 3955,
+    "raw_words_approx": 34719,
+    "clean_words_approx": 34719,
+    "duration_seconds": 10649.76,
+    "accepted_context_decisions": 626,
+    "chapters": 626,
+    "connections": 64,
+    "content_warnings": 30,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 4,
+    "cleaning_net_reduction": 4,
+    "public_restriction_spans": 41
+  },
+  "source_notes": [
+    "The raw transcript contains 3,959 segments and approximately 34,719 words; the clean transcript contains 3,955 segments and the same approximate word count across 10,649.76 seconds. All four cleaner drops are empty zero-duration artifacts.",
+    "The first roughly ten minutes are an edited montage of external news, radio and interview clips. The main DVDASA room recording begins at about 603 seconds. The reader must not imply one continuous conversation.",
+    "Accept David Choe, DVDASA, Jane Choe, Tony Stark, Saelee, Alain Ducasse, Rustin Cohle, Wüsthof, Henckels, Hainan chicken and other context-resolved entities. Reject `health podcast` → `self-description joke`: it substitutes interpretation for literal speech.",
+    "The depression section contains responsible statements—depression is real, stigma is dangerous, treatment varies, therapy/medication can help, and people care—alongside explicit suicide incitement. The latter remains verbatim but is labeled dangerous and never presented as advice.",
+    "`Stay alive one more year` may express care but is not an adequate crisis response, and a bucket-list framing can encourage risk. A person in immediate danger needs emergency/crisis help and trusted human support now.",
+    "`Manic depression` is the historical term for bipolar disorder, not a synonym for all depression. The `chemical imbalance` account is oversimplified, and cancer analogies are illustrative rather than mechanistic.",
+    "Exercise, sunlight, social contact, reading, laughter practices and structured activity may help some people, but none is a universal cure or replacement for professional assessment. Chang explicitly corrects Choe's universal claim.",
+    "5-HTP is an amino-acid supplement, not a vitamin. Evidence for depression is limited and it can interact with serotonergic medicines, creating serotonin-syndrome risk. Starting or stopping treatment should be clinician-guided.",
+    "The Tokyo suicide attempt and subsequent acclaimed work are connected as autobiography, not a claim that self-harm produces art. The corpus does not romanticize attempts as a creative method.",
+    "General nontraditional-work agreements do not waive labor protections, consent, dignity or privacy. The episode itself says employees lacked notice about touching and includes sexual-orientation questions and on-air pressure.",
+    "Race/class discrimination on a flight is a plausible interpretation of the described unequal treatment, but the audio does not independently prove motive. The account and Chang's alternative explanation both remain.",
+    "Violence is not an appropriate restitution for an accidental bodily function or ordinary customer dispute. Employee defense and immediate safety can matter, but legality and proportionality are fact-specific.",
+    "The no-new-dudes and Choey fan boundaries continue: public venue contact may be tolerated, private-space invasion, sexual questions, deceptive commission approaches and deliberately disliked nicknames are not.",
+    "Post-rehab gambling pressure culminates in a proposed million-dollar bet. `Moderation` is not appropriate advice for a person who states abstinence as the recovery rule.",
+    "A bet cannot assign naming rights over a future child against the co-parent's agreement or child's welfare. The episode raises the wife's objection but repeatedly uses mandatory language.",
+    "Every offensive idea, slur, contradiction and admission remains literal. Private workers, listeners, partners, relatives, fans, reproductive plans, messages, injuries, settlements, lodging and account details remain outside public discovery.",
+    "Zero diarized turns means named dialogue remains withheld pending independently held-out multispeaker validation."
+  ],
+  "speaker_policy": "The diarization file contains zero turns. Fixed-window embeddings have not passed independently held-out multispeaker validation, so named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "external scrapping-news clip"
+    },
+    {
+      "t": 6,
+      "title": "David Choe"
+    },
+    {
+      "t": 18,
+      "title": "private scrapper first name"
+    },
+    {
+      "t": 37,
+      "title": "former-criminal self-description"
+    },
+    {
+      "t": 53,
+      "title": "I don't rape people, I rape life"
+    },
+    {
+      "t": 69,
+      "title": "Facebook/mother warning"
+    },
+    {
+      "t": 75,
+      "title": "racially abusive art-critique clip"
+    },
+    {
+      "t": 103,
+      "title": "eighty-three pages claim"
+    },
+    {
+      "t": 137,
+      "title": "motivational montage begins"
+    },
+    {
+      "t": 142,
+      "title": "fortune favors bold claim"
+    },
+    {
+      "t": 145,
+      "title": "success/jail/death false binary"
+    },
+    {
+      "t": 158,
+      "title": "short song lyric"
+    },
+    {
+      "t": 167,
+      "title": "family sexual-history montage"
+    },
+    {
+      "t": 181,
+      "title": "Montblanc"
+    },
+    {
+      "t": 194,
+      "title": "uncertain proper name"
+    },
+    {
+      "t": 201,
+      "title": "childhood anal foreign-object story"
+    },
+    {
+      "t": 255,
+      "title": "Hungry Hungry Hippos marble"
+    },
+    {
+      "t": 268,
+      "title": "marble inserted internally"
+    },
+    {
+      "t": 291,
+      "title": "earthquake during unsafe position"
+    },
+    {
+      "t": 300,
+      "title": "childhood earthquake memory"
+    },
+    {
+      "t": 357,
+      "title": "Anthony Bourdain clip"
+    },
+    {
+      "t": 368,
+      "title": "AsaAkira.com"
+    },
+    {
+      "t": 379,
+      "title": "2013 AVN performer-of-year claim"
+    },
+    {
+      "t": 385,
+      "title": "Fleshlight product reference"
+    },
+    {
+      "t": 398,
+      "title": "injury prevents skating/workouts"
+    },
+    {
+      "t": 408,
+      "title": "painting as creative outlet"
+    },
+    {
+      "t": 411,
+      "title": "Jackson Pollock comparison"
+    },
+    {
+      "t": 420,
+      "title": "watercolor/acrylic/oil/blood advice"
+    },
+    {
+      "t": 427,
+      "title": "David Choe"
+    },
+    {
+      "t": 434,
+      "title": "sponsor sent image"
+    },
+    {
+      "t": 452,
+      "title": "addiction characterization"
+    },
+    {
+      "t": 461,
+      "title": "adult-performer interview clip"
+    },
+    {
+      "t": 467,
+      "title": "explicit body compliment"
+    },
+    {
+      "t": 480,
+      "title": "David Choe"
+    },
+    {
+      "t": 490,
+      "title": "graffiti artist plus mixed media"
+    },
+    {
+      "t": 501,
+      "title": "Salvador Dalí comparison"
+    },
+    {
+      "t": 512,
+      "title": "menstrual/blood artwork account"
+    },
+    {
+      "t": 532,
+      "title": "actual"
+    },
+    {
+      "t": 544,
+      "title": "blood art called overdone"
+    },
+    {
+      "t": 557,
+      "title": "coffee/blood/urine as art media"
+    },
+    {
+      "t": 603,
+      "title": "DVDASA room check begins"
+    },
+    {
+      "t": 614,
+      "title": "Chris Chen"
+    },
+    {
+      "t": 635,
+      "title": "rack of oil/water found"
+    },
+    {
+      "t": 638,
+      "title": "Yoshinoya comparison"
+    },
+    {
+      "t": 644,
+      "title": "shared headphones hygiene joke"
+    },
+    {
+      "t": 652,
+      "title": "Critter"
+    },
+    {
+      "t": 660,
+      "title": "Beautiful Girls cast discussion"
+    },
+    {
+      "t": 670,
+      "title": "Natalie Portman, Uma Thurman, Lauren Holly"
+    },
+    {
+      "t": 674,
+      "title": "Matt Dillon"
+    },
+    {
+      "t": 678,
+      "title": "checks whether recording is on"
+    },
+    {
+      "t": 689,
+      "title": "chewing tobacco/dip"
+    },
+    {
+      "t": 695,
+      "title": "gums worsened"
+    },
+    {
+      "t": 710,
+      "title": "fly-fishing invitation"
+    },
+    {
+      "t": 719,
+      "title": "calendar/social pressure to attend"
+    },
+    {
+      "t": 725,
+      "title": "show introduction"
+    },
+    {
+      "t": 727,
+      "title": "DVDASA"
+    },
+    {
+      "t": 729,
+      "title": "David Choe"
+    },
+    {
+      "t": 731,
+      "title": "David Chang"
+    },
+    {
+      "t": 734,
+      "title": "Critter"
+    },
+    {
+      "t": 740,
+      "title": "Bobby Trivia"
+    },
+    {
+      "t": 751,
+      "title": "listener-gifted jersey"
+    },
+    {
+      "t": 775,
+      "title": "Canada Olympic cheering"
+    },
+    {
+      "t": 786,
+      "title": "restaurant in Canada"
+    },
+    {
+      "t": 801,
+      "title": "Tim Tams"
+    },
+    {
+      "t": 819,
+      "title": "fans bring Critter gifts through host meetings"
+    },
+    {
+      "t": 854,
+      "title": "David Chang returns"
+    },
+    {
+      "t": 868,
+      "title": "absent cast travel/schedule"
+    },
+    {
+      "t": 872,
+      "title": "Lee brothers not returning calls"
+    },
+    {
+      "t": 884,
+      "title": "Oakland Museum painting schedule"
+    },
+    {
+      "t": 895,
+      "title": "Steve Lee album work"
+    },
+    {
+      "t": 899,
+      "title": "Money Mark collaboration"
+    },
+    {
+      "t": 918,
+      "title": "intimate prior Chang episode"
+    },
+    {
+      "t": 927,
+      "title": "host tunes out water/fishing topics"
+    },
+    {
+      "t": 970,
+      "title": "agrees to try fishing once"
+    },
+    {
+      "t": 1000,
+      "title": "permit fish catch claim"
+    },
+    {
+      "t": 1028,
+      "title": "one-hour fight"
+    },
+    {
+      "t": 1044,
+      "title": "fly fishing as zen and competitive"
+    },
+    {
+      "t": 1055,
+      "title": "only activity that interrupts work thoughts"
+    },
+    {
+      "t": 1062,
+      "title": "Asian therapy stereotype"
+    },
+    {
+      "t": 1070,
+      "title": "fly fishing labeled white activity"
+    },
+    {
+      "t": 1082,
+      "title": "waders"
+    },
+    {
+      "t": 1094,
+      "title": "racial visibility in fishing"
+    },
+    {
+      "t": 1111,
+      "title": "Critter"
+    },
+    {
+      "t": 1180,
+      "title": "apocalypse skills discussion"
+    },
+    {
+      "t": 1220,
+      "title": "artist usefulness debated"
+    },
+    {
+      "t": 1337,
+      "title": "leadership survival hypothetical"
+    },
+    {
+      "t": 1359,
+      "title": "high-profile guests report harm after appearing"
+    },
+    {
+      "t": 1369,
+      "title": "blackmailable/horrible consequences"
+    },
+    {
+      "t": 1374,
+      "title": "Eddie Huang TED fellowship claim"
+    },
+    {
+      "t": 1386,
+      "title": "asks Chang about consequences"
+    },
+    {
+      "t": 1392,
+      "title": "private/former employee criticized by name"
+    },
+    {
+      "t": 1397,
+      "title": "violent regret about former employee"
+    },
+    {
+      "t": 1416,
+      "title": "Chang listened after appearance"
+    },
+    {
+      "t": 1426,
+      "title": "Val enters"
+    },
+    {
+      "t": 1430,
+      "title": "Yakuza Boy"
+    },
+    {
+      "t": 1437,
+      "title": "Chang approves public employee confrontation"
+    },
+    {
+      "t": 1449,
+      "title": "would have physically harmed employee"
+    },
+    {
+      "t": 1461,
+      "title": "family yelling/humiliation invoked as normalization"
+    },
+    {
+      "t": 1474,
+      "title": "employee lives/works with host"
+    },
+    {
+      "t": 1490,
+      "title": "reference to prior Chang episode"
+    },
+    {
+      "t": 1501,
+      "title": "Chang has hundreds of employees claim"
+    },
+    {
+      "t": 1519,
+      "title": "show declared part of employment environment"
+    },
+    {
+      "t": 1529,
+      "title": "employee allegedly signed off"
+    },
+    {
+      "t": 1533,
+      "title": "public humiliation denied"
+    },
+    {
+      "t": 1562,
+      "title": "boss excuse deemed unacceptable"
+    },
+    {
+      "t": 1568,
+      "title": "Hell's Kitchen model"
+    },
+    {
+      "t": 1594,
+      "title": "Steve Jobs harshness justification"
+    },
+    {
+      "t": 1624,
+      "title": "Walter Isaacson biography paraphrase"
+    },
+    {
+      "t": 1644,
+      "title": "millennial management claim"
+    },
+    {
+      "t": 1652,
+      "title": "expectations should be explained prospectively"
+    },
+    {
+      "t": 1668,
+      "title": "nontraditional-environment agreements"
+    },
+    {
+      "t": 1673,
+      "title": "asks workers sexual orientation"
+    },
+    {
+      "t": 1686,
+      "title": "old Craigslist roommate ad"
+    },
+    {
+      "t": 1692,
+      "title": "Shaggy ban"
+    },
+    {
+      "t": 1715,
+      "title": "equal-opportunity contradiction recognized"
+    },
+    {
+      "t": 1727,
+      "title": "private former roommates named"
+    },
+    {
+      "t": 1737,
+      "title": "workers know what they get into claim"
+    },
+    {
+      "t": 1741,
+      "title": "employee did not know about touching"
+    },
+    {
+      "t": 1750,
+      "title": "Critter and Bobby work for host"
+    },
+    {
+      "t": 1755,
+      "title": "asked if would still work there"
+    },
+    {
+      "t": 1768,
+      "title": "can quit anytime"
+    },
+    {
+      "t": 1788,
+      "title": "Val asked if likes working there"
+    },
+    {
+      "t": 1802,
+      "title": "surprised by audience size"
+    },
+    {
+      "t": 1815,
+      "title": "Asian listeners respond despite disliking food"
+    },
+    {
+      "t": 1839,
+      "title": "Chang difficult boss/lover admission"
+    },
+    {
+      "t": 1857,
+      "title": "Chang called artist more than chef"
+    },
+    {
+      "t": 1869,
+      "title": "Beijing art-school anecdote"
+    },
+    {
+      "t": 1880,
+      "title": "technical imitation versus invention"
+    },
+    {
+      "t": 1907,
+      "title": "emotion/disruption as art criterion"
+    },
+    {
+      "t": 1943,
+      "title": "cooking as craft/repetition and invention"
+    },
+    {
+      "t": 1966,
+      "title": "romantic inspiration myth rejected"
+    },
+    {
+      "t": 1978,
+      "title": "artists work without inspiration"
+    },
+    {
+      "t": 1988,
+      "title": "daily repetition"
+    },
+    {
+      "t": 2000,
+      "title": "podcast repetition used to improve"
+    },
+    {
+      "t": 2031,
+      "title": "Chang rejects artist label"
+    },
+    {
+      "t": 2050,
+      "title": "burnout"
+    },
+    {
+      "t": 2061,
+      "title": "Ko reopening/moving"
+    },
+    {
+      "t": 2063,
+      "title": "Toronto/Australia expansion toll"
+    },
+    {
+      "t": 2072,
+      "title": "Choe piece"
+    },
+    {
+      "t": 2077,
+      "title": "Jane Choe"
+    },
+    {
+      "t": 2079,
+      "title": "art show"
+    },
+    {
+      "t": 2089,
+      "title": "ten years of Momofuku"
+    },
+    {
+      "t": 2108,
+      "title": "difficulty imagining next"
+    },
+    {
+      "t": 2113,
+      "title": "family proposed as solution"
+    },
+    {
+      "t": 2123,
+      "title": "work used to escape family stereotype"
+    },
+    {
+      "t": 2151,
+      "title": "back-scratcher story"
+    },
+    {
+      "t": 2212,
+      "title": "Critter misses intimate care"
+    },
+    {
+      "t": 2246,
+      "title": "gender stereotype about zit-popping"
+    },
+    {
+      "t": 2259,
+      "title": "dehumanizing monkey/lice joke"
+    },
+    {
+      "t": 2268,
+      "title": "settling-down pressure"
+    },
+    {
+      "t": 2299,
+      "title": "private lesbian couple"
+    },
+    {
+      "t": 2310,
+      "title": "former co-parenting discussion"
+    },
+    {
+      "t": 2322,
+      "title": "offer now withdrawn"
+    },
+    {
+      "t": 2338,
+      "title": "two mothers/breast-milk joke"
+    },
+    {
+      "t": 2348,
+      "title": "only gestational/lactating parent usually produces milk"
+    },
+    {
+      "t": 2353,
+      "title": "menstrual synchrony claim"
+    },
+    {
+      "t": 2361,
+      "title": "proposal to impregnate both"
+    },
+    {
+      "t": 2365,
+      "title": "asks why offer withdrawn"
+    },
+    {
+      "t": 2375,
+      "title": "private couple may have requested call"
+    },
+    {
+      "t": 2380,
+      "title": "unnamed famous person rumor"
+    },
+    {
+      "t": 2400,
+      "title": "rumored same-sex/orgy behavior"
+    },
+    {
+      "t": 2425,
+      "title": "monogamy suggested as next challenge"
+    },
+    {
+      "t": 2432,
+      "title": "ethnic preference for future spouse"
+    },
+    {
+      "t": 2457,
+      "title": "sperm freezing"
+    },
+    {
+      "t": 2470,
+      "title": "scientists' advice summarized"
+    },
+    {
+      "t": 2486,
+      "title": "female age-risk claim"
+    },
+    {
+      "t": 2492,
+      "title": "speaker disclaims medical authority"
+    },
+    {
+      "t": 2502,
+      "title": "compulsory freezing at eighteen"
+    },
+    {
+      "t": 2512,
+      "title": "health-cost claim"
+    },
+    {
+      "t": 2523,
+      "title": "eighteen as best genetic self"
+    },
+    {
+      "t": 2531,
+      "title": "sperm bank sexual joke"
+    },
+    {
+      "t": 2540,
+      "title": "cost unknown"
+    },
+    {
+      "t": 2558,
+      "title": "Angelina Jolie tabloid report"
+    },
+    {
+      "t": 2570,
+      "title": "reproductive surgery rumor"
+    },
+    {
+      "t": 2593,
+      "title": "celebrity egg purchase joke"
+    },
+    {
+      "t": 2604,
+      "title": "friend concealed frozen sperm from wife"
+    },
+    {
+      "t": 2612,
+      "title": "vasectomy reversal"
+    },
+    {
+      "t": 2617,
+      "title": "wealth discussion begins"
+    },
+    {
+      "t": 2636,
+      "title": "simple lifestyle claim"
+    },
+    {
+      "t": 2652,
+      "title": "property/rental/family finances"
+    },
+    {
+      "t": 2670,
+      "title": "wealth benefit: avoiding lines/first class"
+    },
+    {
+      "t": 2687,
+      "title": "celebrity dining treatment"
+    },
+    {
+      "t": 2725,
+      "title": "thousand-dollar meals"
+    },
+    {
+      "t": 2739,
+      "title": "private yacht-owner friend"
+    },
+    {
+      "t": 2752,
+      "title": "million-dollar yacht operation claim"
+    },
+    {
+      "t": 2769,
+      "title": "asks friend to close door"
+    },
+    {
+      "t": 2785,
+      "title": "racialized first-class treatment"
+    },
+    {
+      "t": 2803,
+      "title": "seeks Chang as peer"
+    },
+    {
+      "t": 2812,
+      "title": "Chang resists privileged complaint"
+    },
+    {
+      "t": 2832,
+      "title": "imagines 22-year-old judgment"
+    },
+    {
+      "t": 2849,
+      "title": "private flights rejected partly for carbon footprint"
+    },
+    {
+      "t": 2899,
+      "title": "first-class phone enforcement disparity"
+    },
+    {
+      "t": 2965,
+      "title": "flight attendant grabs headphones"
+    },
+    {
+      "t": 2995,
+      "title": "phone taken from hand"
+    },
+    {
+      "t": 3007,
+      "title": "racial discrimination inference"
+    },
+    {
+      "t": 3026,
+      "title": "Chang says he might laugh at complaint"
+    },
+    {
+      "t": 3049,
+      "title": "KLM named as alleged airline"
+    },
+    {
+      "t": 3074,
+      "title": "meal service skips host"
+    },
+    {
+      "t": 3112,
+      "title": "slanted-eye joke"
+    },
+    {
+      "t": 3130,
+      "title": "speaker acknowledges audience may tire"
+    },
+    {
+      "t": 3166,
+      "title": "misogynistic slur toward worker"
+    },
+    {
+      "t": 3193,
+      "title": "compares dessert treatment"
+    },
+    {
+      "t": 3257,
+      "title": "hard-ice-cream grievance"
+    },
+    {
+      "t": 3338,
+      "title": "cannot eat frozen dessert"
+    },
+    {
+      "t": 3366,
+      "title": "politely asks for more fudge"
+    },
+    {
+      "t": 3377,
+      "title": "still interprets hostility"
+    },
+    {
+      "t": 3386,
+      "title": "peer consultation purpose"
+    },
+    {
+      "t": 3403,
+      "title": "analogy to wealthy Black travelers"
+    },
+    {
+      "t": 3441,
+      "title": "Chang says worker rude but embellishment possible"
+    },
+    {
+      "t": 3453,
+      "title": "phone rule violation acknowledged"
+    },
+    {
+      "t": 3464,
+      "title": "jaywalking police harassment callback"
+    },
+    {
+      "t": 3874,
+      "title": "complain only for systemic improvement"
+    },
+    {
+      "t": 3914,
+      "title": "airline burn injury"
+    },
+    {
+      "t": 3951,
+      "title": "water temperature estimate"
+    },
+    {
+      "t": 3953,
+      "title": "blistering injury"
+    },
+    {
+      "t": 3984,
+      "title": "ambulance allegedly absent"
+    },
+    {
+      "t": 3992,
+      "title": "lasting scar"
+    },
+    {
+      "t": 4017,
+      "title": "airline never admitted fault"
+    },
+    {
+      "t": 4026,
+      "title": "child/parent hypothetical motivates complaint"
+    },
+    {
+      "t": 4037,
+      "title": "settlement and donation"
+    },
+    {
+      "t": 4052,
+      "title": "Philippine volcano reference"
+    },
+    {
+      "t": 4079,
+      "title": "weekly employee meeting"
+    },
+    {
+      "t": 4089,
+      "title": "Kobawoo House"
+    },
+    {
+      "t": 4110,
+      "title": "digestive problems"
+    },
+    {
+      "t": 4136,
+      "title": "private diners identified by ethnicity"
+    },
+    {
+      "t": 4195,
+      "title": "audible fart in restaurant"
+    },
+    {
+      "t": 4208,
+      "title": "third party comments"
+    },
+    {
+      "t": 4295,
+      "title": "offers to accept punch"
+    },
+    {
+      "t": 4315,
+      "title": "one slap/punch proposed as punishment"
+    },
+    {
+      "t": 4352,
+      "title": "fart revenge/harsh language discussed"
+    },
+    {
+      "t": 4361,
+      "title": "Asa airport assault account"
+    },
+    {
+      "t": 4377,
+      "title": "stranger grabs breast"
+    },
+    {
+      "t": 4385,
+      "title": "past reciprocal behavior raised"
+    },
+    {
+      "t": 4392,
+      "title": "Bill Poon as security"
+    },
+    {
+      "t": 4407,
+      "title": "Bill intimate underwear detail retold"
+    },
+    {
+      "t": 4438,
+      "title": "restaurant employee threatened"
+    },
+    {
+      "t": 4444,
+      "title": "Kino"
+    },
+    {
+      "t": 4451,
+      "title": "customer threatens punch over closing"
+    },
+    {
+      "t": 4477,
+      "title": "Chang chases customer"
+    },
+    {
+      "t": 4480,
+      "title": "suplex into street"
+    },
+    {
+      "t": 4496,
+      "title": "police response claim"
+    },
+    {
+      "t": 4502,
+      "title": "cast calls violence appropriate"
+    },
+    {
+      "t": 4526,
+      "title": "drunk customers main problem"
+    },
+    {
+      "t": 4537,
+      "title": "rudeness to servers called immoral"
+    },
+    {
+      "t": 4554,
+      "title": "treatment-of-help maxim"
+    },
+    {
+      "t": 4559,
+      "title": "mother criticized publicly"
+    },
+    {
+      "t": 4572,
+      "title": "slavery comparison"
+    },
+    {
+      "t": 4580,
+      "title": "host avoids sending food back"
+    },
+    {
+      "t": 4589,
+      "title": "calm management communication"
+    },
+    {
+      "t": 4602,
+      "title": "restaurant mistakes and repair"
+    },
+    {
+      "t": 4633,
+      "title": "late-night closing question"
+    },
+    {
+      "t": 4655,
+      "title": "do not order tasting menu at closing"
+    },
+    {
+      "t": 4660,
+      "title": "10:59 arrival burdens kitchen"
+    },
+    {
+      "t": 4680,
+      "title": "line-cook breakdown workflow"
+    },
+    {
+      "t": 4722,
+      "title": "exception for considerate guest"
+    },
+    {
+      "t": 4729,
+      "title": "ordering well signals understanding"
+    },
+    {
+      "t": 4733,
+      "title": "buy kitchen beers"
+    },
+    {
+      "t": 4740,
+      "title": "don't be a dick` rule"
+    },
+    {
+      "t": 4753,
+      "title": "be generous"
+    },
+    {
+      "t": 4755,
+      "title": "ask what is easy near closing"
+    },
+    {
+      "t": 4782,
+      "title": "regular-customer relationship"
+    },
+    {
+      "t": 4785,
+      "title": "Mr. Choe"
+    },
+    {
+      "t": 4837,
+      "title": "health podcast"
+    },
+    {
+      "t": 4846,
+      "title": "two people recently diagnosed depressed"
+    },
+    {
+      "t": 4860,
+      "title": "diagnosis self-reported"
+    },
+    {
+      "t": 4873,
+      "title": "Dr. Dave` joke"
+    },
+    {
+      "t": 4885,
+      "title": "cannot save anyone"
+    },
+    {
+      "t": 4889,
+      "title": "listeners say show saved life"
+    },
+    {
+      "t": 4903,
+      "title": "private suicidal listener"
+    },
+    {
+      "t": 4909,
+      "title": "overdose and final message"
+    },
+    {
+      "t": 4914,
+      "title": "stay alive another year"
+    },
+    {
+      "t": 4921,
+      "title": "bucket-list year advice"
+    },
+    {
+      "t": 4932,
+      "title": "father found overdose"
+    },
+    {
+      "t": 4937,
+      "title": "depression is real disease"
+    },
+    {
+      "t": 4943,
+      "title": "bipolar disorder"
+    },
+    {
+      "t": 4950,
+      "title": "get professional help"
+    },
+    {
+      "t": 4959,
+      "title": "mental-health stigma"
+    },
+    {
+      "t": 4971,
+      "title": "cancer analogy"
+    },
+    {
+      "t": 4984,
+      "title": "cancer treatment examples"
+    },
+    {
+      "t": 5006,
+      "title": "undiagnosed mood change"
+    },
+    {
+      "t": 5024,
+      "title": "depression as serious as tumor"
+    },
+    {
+      "t": 5048,
+      "title": "host says diagnosed manic depressive"
+    },
+    {
+      "t": 5063,
+      "title": "predictable depressive episodes"
+    },
+    {
+      "t": 5070,
+      "title": "chemical imbalance explanation"
+    },
+    {
+      "t": 5077,
+      "title": "5-HTP"
+    },
+    {
+      "t": 5081,
+      "title": "Prozac/therapy mentioned"
+    },
+    {
+      "t": 5102,
+      "title": "recognizes early warning signs"
+    },
+    {
+      "t": 5118,
+      "title": "isolates in room"
+    },
+    {
+      "t": 5128,
+      "title": "asks what if method stops working"
+    },
+    {
+      "t": 5133,
+      "title": "two-week duration"
+    },
+    {
+      "t": 5154,
+      "title": "expects episode to pass"
+    },
+    {
+      "t": 5168,
+      "title": "Chang links success and depression struggle"
+    },
+    {
+      "t": 5173,
+      "title": "therapy and medication"
+    },
+    {
+      "t": 5183,
+      "title": "combination changes over time"
+    },
+    {
+      "t": 5207,
+      "title": "depression linked to Momofuku"
+    },
+    {
+      "t": 5220,
+      "title": "therapy and work helped"
+    },
+    {
+      "t": 5228,
+      "title": "did not expect to live to 36"
+    },
+    {
+      "t": 5241,
+      "title": "others observe mood changes"
+    },
+    {
+      "t": 5267,
+      "title": "cannot get out of bed"
+    },
+    {
+      "t": 5280,
+      "title": "men fear stigma"
+    },
+    {
+      "t": 5289,
+      "title": "suicidal thoughts"
+    },
+    {
+      "t": 5304,
+      "title": "Asian-family stigma stereotype"
+    },
+    {
+      "t": 5315,
+      "title": "people die by suicide"
+    },
+    {
+      "t": 5324,
+      "title": "there is help"
+    },
+    {
+      "t": 5351,
+      "title": "cannot do it alone"
+    },
+    {
+      "t": 5354,
+      "title": "people care"
+    },
+    {
+      "t": 5355,
+      "title": "depression distorts perception"
+    },
+    {
+      "t": 5373,
+      "title": "intoxication analogy"
+    },
+    {
+      "t": 5393,
+      "title": "seek path/function in real world"
+    },
+    {
+      "t": 5401,
+      "title": "force yourself out of bed"
+    },
+    {
+      "t": 5419,
+      "title": "laughter-yoga theory"
+    },
+    {
+      "t": 5438,
+      "title": "fake laughter becomes real claim"
+    },
+    {
+      "t": 5453,
+      "title": "endorphin claim"
+    },
+    {
+      "t": 5461,
+      "title": "misogynistic `hot chicks do nothing"
+    },
+    {
+      "t": 5489,
+      "title": "fuck your feelings` advice"
+    },
+    {
+      "t": 5503,
+      "title": "activity as cure claim"
+    },
+    {
+      "t": 5508,
+      "title": "Chang explicitly corrects universality"
+    },
+    {
+      "t": 5515,
+      "title": "individual variation"
+    },
+    {
+      "t": 5520,
+      "title": "friend helped by medication"
+    },
+    {
+      "t": 5531,
+      "title": "Prozac turnaround claim"
+    },
+    {
+      "t": 5542,
+      "title": "mixture of treatments"
+    },
+    {
+      "t": 5556,
+      "title": "cancer of the mind` analogy"
+    },
+    {
+      "t": 5597,
+      "title": "don't talk about killing yourself"
+    },
+    {
+      "t": 5604,
+      "title": "false gender claim about attempts"
+    },
+    {
+      "t": 5613,
+      "title": "be successful at suicide"
+    },
+    {
+      "t": 5617,
+      "title": "just do it"
+    },
+    {
+      "t": 5622,
+      "title": "do us all a favor"
+    },
+    {
+      "t": 5623,
+      "title": "returns to recognizing real problem"
+    },
+    {
+      "t": 5635,
+      "title": "try multiple supports"
+    },
+    {
+      "t": 5643,
+      "title": "5-HTP is an amino-acid supplement, not a vitamin"
+    },
+    {
+      "t": 5643,
+      "title": "5-HTP self-treatment"
+    },
+    {
+      "t": 5655,
+      "title": "doctor suggested supplement"
+    },
+    {
+      "t": 5660,
+      "title": "brief clarity"
+    },
+    {
+      "t": 5666,
+      "title": "stopped because preferred darkness"
+    },
+    {
+      "t": 5671,
+      "title": "accepts episodic darkness"
+    },
+    {
+      "t": 5688,
+      "title": "depression is real illness"
+    },
+    {
+      "t": 5694,
+      "title": "healthcare fragmentation"
+    },
+    {
+      "t": 5701,
+      "title": "psychiatrist only gives drugs claim"
+    },
+    {
+      "t": 5715,
+      "title": "host insists activity is what works"
+    },
+    {
+      "t": 5724,
+      "title": "society/feelings critique"
+    },
+    {
+      "t": 5734,
+      "title": "exercise benefits self-report"
+    },
+    {
+      "t": 5751,
+      "title": "severe depression reduces motivation"
+    },
+    {
+      "t": 5762,
+      "title": "forcing activity proposed"
+    },
+    {
+      "t": 5777,
+      "title": "surf/hike/day relief example"
+    },
+    {
+      "t": 5792,
+      "title": "art during depression"
+    },
+    {
+      "t": 5800,
+      "title": "stopped 5-HTP"
+    },
+    {
+      "t": 5837,
+      "title": "hypersensitivity and depression linked to art"
+    },
+    {
+      "t": 5846,
+      "title": "medication/supplement seen as dulling creativity"
+    },
+    {
+      "t": 6116,
+      "title": "Tokyo suicide attempt reference"
+    },
+    {
+      "t": 6127,
+      "title": "calls post-attempt work best"
+    },
+    {
+      "t": 6132,
+      "title": "near-death removes constructs claim"
+    },
+    {
+      "t": 6141,
+      "title": "Alain Ducasse"
+    },
+    {
+      "t": 6145,
+      "title": "most Michelin stars claim"
+    },
+    {
+      "t": 6152,
+      "title": "addresses distressed listeners"
+    },
+    {
+      "t": 6159,
+      "title": "we don't give a shit"
+    },
+    {
+      "t": 6162,
+      "title": "says they do care/love listener"
+    },
+    {
+      "t": 6168,
+      "title": "homophobic slur toward distressed listener"
+    },
+    {
+      "t": 6173,
+      "title": "cast acknowledges conflicting advice"
+    },
+    {
+      "t": 6177,
+      "title": "pull yourself out"
+    },
+    {
+      "t": 6201,
+      "title": "some cannot move"
+    },
+    {
+      "t": 6204,
+      "title": "throw self out of bed"
+    },
+    {
+      "t": 6210,
+      "title": "avoid dark music"
+    },
+    {
+      "t": 6224,
+      "title": "read shared-experience literature"
+    },
+    {
+      "t": 6237,
+      "title": "worries audience stopped listening"
+    },
+    {
+      "t": 6243,
+      "title": "hopes episode brings happiness"
+    },
+    {
+      "t": 6252,
+      "title": "mother and Critter art show"
+    },
+    {
+      "t": 6265,
+      "title": "Critter seen as always happy"
+    },
+    {
+      "t": 6294,
+      "title": "Critter says he has bad days"
+    },
+    {
+      "t": 6314,
+      "title": "pretends/fakes positivity"
+    },
+    {
+      "t": 6321,
+      "title": "mother's joy despite trauma"
+    },
+    {
+      "t": 6331,
+      "title": "mother lost mother at five"
+    },
+    {
+      "t": 6347,
+      "title": "fake-it-till-real thesis"
+    },
+    {
+      "t": 6365,
+      "title": "I See a Darkness` song discussion"
+    },
+    {
+      "t": 6380,
+      "title": "short lyric fragment"
+    },
+    {
+      "t": 6417,
+      "title": "Critter called violent"
+    },
+    {
+      "t": 6431,
+      "title": "rom-com/music anger management"
+    },
+    {
+      "t": 6466,
+      "title": "Maury childhood story"
+    },
+    {
+      "t": 6479,
+      "title": "devil/darkness belief"
+    },
+    {
+      "t": 6503,
+      "title": "Twilight Zone comparison"
+    },
+    {
+      "t": 6513,
+      "title": "pretending happy after death"
+    },
+    {
+      "t": 6525,
+      "title": "Maury"
+    },
+    {
+      "t": 6538,
+      "title": "force action thesis"
+    },
+    {
+      "t": 6547,
+      "title": "fight-or-die false binary"
+    },
+    {
+      "t": 6553,
+      "title": "mother/Critter art show"
+    },
+    {
+      "t": 6572,
+      "title": "parents' travel details"
+    },
+    {
+      "t": 6585,
+      "title": "chooses drive with parents"
+    },
+    {
+      "t": 6591,
+      "title": "mother's family-history stories"
+    },
+    {
+      "t": 6610,
+      "title": "father sleeping/drooling"
+    },
+    {
+      "t": 6621,
+      "title": "A Real Hero"
+    },
+    {
+      "t": 6626,
+      "title": "Ryan Gosling"
+    },
+    {
+      "t": 6637,
+      "title": "Tom Petty `Free Fallin'` memory"
+    },
+    {
+      "t": 6650,
+      "title": "Harris Ranch"
+    },
+    {
+      "t": 6669,
+      "title": "mother talks five hours"
+    },
+    {
+      "t": 6738,
+      "title": "maternal family remains in Korea"
+    },
+    {
+      "t": 6748,
+      "title": "paternal family West Coast cities"
+    },
+    {
+      "t": 6769,
+      "title": "mother immigrated alone in late twenties"
+    },
+    {
+      "t": 6781,
+      "title": "mother's maiden name"
+    },
+    {
+      "t": 6803,
+      "title": "no cushion"
+    },
+    {
+      "t": 6813,
+      "title": "family-name contrast"
+    },
+    {
+      "t": 6825,
+      "title": "Gattaca/one-way-ticket thesis"
+    },
+    {
+      "t": 6852,
+      "title": "father's place-name interjections"
+    },
+    {
+      "t": 6860,
+      "title": "comfort interpreted as regret"
+    },
+    {
+      "t": 6882,
+      "title": "more to lose"
+    },
+    {
+      "t": 6912,
+      "title": "comic-book source explicitly unreliable"
+    },
+    {
+      "t": 6922,
+      "title": "Incredible Hulk issue uncertain"
+    },
+    {
+      "t": 6931,
+      "title": "Tony Stark/Iron Man and Bruce Banner"
+    },
+    {
+      "t": 6942,
+      "title": "writer/issue unknown"
+    },
+    {
+      "t": 6965,
+      "title": "knowledge-building versus impossible-goal thesis"
+    },
+    {
+      "t": 6981,
+      "title": "applied science fiction phrase"
+    },
+    {
+      "t": 7002,
+      "title": "connects depression/art/restaurant risk"
+    },
+    {
+      "t": 7011,
+      "title": "school versus improvisation false binary"
+    },
+    {
+      "t": 7022,
+      "title": "sous-vide"
+    },
+    {
+      "t": 7043,
+      "title": "depression has solution claim"
+    },
+    {
+      "t": 7059,
+      "title": "lifelong search/fight"
+    },
+    {
+      "t": 7064,
+      "title": "live versus exist rhetoric"
+    },
+    {
+      "t": 7092,
+      "title": "Hulk body/sexual jokes"
+    },
+    {
+      "t": 7121,
+      "title": "Bruce Banner"
+    },
+    {
+      "t": 7142,
+      "title": "accept Hulk identity"
+    },
+    {
+      "t": 7159,
+      "title": "no regret about depressing audience"
+    },
+    {
+      "t": 7175,
+      "title": "racialized anatomy joke"
+    },
+    {
+      "t": 7204,
+      "title": "Bobby Christian-rock habit"
+    },
+    {
+      "t": 7220,
+      "title": "not Christian"
+    },
+    {
+      "t": 7247,
+      "title": "Hillsong United"
+    },
+    {
+      "t": 7259,
+      "title": "short song lyric"
+    },
+    {
+      "t": 7277,
+      "title": "family religious affiliation"
+    },
+    {
+      "t": 7291,
+      "title": "blind faith interpretation"
+    },
+    {
+      "t": 7305,
+      "title": "insults Christians"
+    },
+    {
+      "t": 7324,
+      "title": "faith/depression analogy"
+    },
+    {
+      "t": 7344,
+      "title": "happiness versus creative talent"
+    },
+    {
+      "t": 7354,
+      "title": "20/80 sadness/happiness estimate"
+    },
+    {
+      "t": 7365,
+      "title": "extreme loneliness/depression"
+    },
+    {
+      "t": 7381,
+      "title": "happy experiences coexist"
+    },
+    {
+      "t": 7424,
+      "title": "food-blog criticism"
+    },
+    {
+      "t": 7442,
+      "title": "upset at not becoming enraged"
+    },
+    {
+      "t": 7450,
+      "title": "we'll do better` response"
+    },
+    {
+      "t": 7469,
+      "title": "ableist/racial insult toward Bobby"
+    },
+    {
+      "t": 7484,
+      "title": "keep making despite criticism"
+    },
+    {
+      "t": 7490,
+      "title": "acceptance itself feels threatening"
+    },
+    {
+      "t": 7528,
+      "title": "polite service request proposed"
+    },
+    {
+      "t": 7553,
+      "title": "rehearses responses into behavior"
+    },
+    {
+      "t": 7569,
+      "title": "everything framed as competition"
+    },
+    {
+      "t": 7583,
+      "title": "service interaction treated as loss"
+    },
+    {
+      "t": 7598,
+      "title": "Yoshi comeback story"
+    },
+    {
+      "t": 7605,
+      "title": "racial slur in street incident"
+    },
+    {
+      "t": 7610,
+      "title": "fifty comebacks claim"
+    },
+    {
+      "t": 7644,
+      "title": "private engagement party/location"
+    },
+    {
+      "t": 7667,
+      "title": "construction-worker description"
+    },
+    {
+      "t": 7699,
+      "title": "impulse to punch"
+    },
+    {
+      "t": 7713,
+      "title": "drunkenness inference"
+    },
+    {
+      "t": 7753,
+      "title": "perceived fight initiation"
+    },
+    {
+      "t": 7761,
+      "title": "first possible fistfight in decade"
+    },
+    {
+      "t": 7781,
+      "title": "yellow card` racism accusation strategy"
+    },
+    {
+      "t": 7794,
+      "title": "fight adrenaline"
+    },
+    {
+      "t": 7832,
+      "title": "chaotic racetrack claims"
+    },
+    {
+      "t": 7869,
+      "title": "aspire Tony Stark not Hulk"
+    },
+    {
+      "t": 7884,
+      "title": "Jedi/reverse-psychology analogy"
+    },
+    {
+      "t": 7914,
+      "title": "meet anger with calm/humor"
+    },
+    {
+      "t": 7933,
+      "title": "transphobic content requested over serious talk"
+    },
+    {
+      "t": 7959,
+      "title": "Val's Veracruz origin"
+    },
+    {
+      "t": 7979,
+      "title": "Val laughs/de-escalates fights"
+    },
+    {
+      "t": 7991,
+      "title": "asked about racial service discrimination"
+    },
+    {
+      "t": 8000,
+      "title": "leaves bad service"
+    },
+    {
+      "t": 8023,
+      "title": "favor/grudge lists"
+    },
+    {
+      "t": 8043,
+      "title": "threat of future regret"
+    },
+    {
+      "t": 8061,
+      "title": "death-row final meal"
+    },
+    {
+      "t": 8069,
+      "title": "chef calls question stupid"
+    },
+    {
+      "t": 8111,
+      "title": "food irrelevant before execution"
+    },
+    {
+      "t": 8133,
+      "title": "asks about beating employees"
+    },
+    {
+      "t": 8138,
+      "title": "joke says public beatings"
+    },
+    {
+      "t": 8148,
+      "title": "Evan Rich"
+    },
+    {
+      "t": 8164,
+      "title": "physical-abuse misunderstanding"
+    },
+    {
+      "t": 8644,
+      "title": "36-hour cooking shift"
+    },
+    {
+      "t": 8652,
+      "title": "flood plus service"
+    },
+    {
+      "t": 8664,
+      "title": "Chang says single"
+    },
+    {
+      "t": 8681,
+      "title": "asks about children"
+    },
+    {
+      "t": 8694,
+      "title": "trade rage/success for happiness"
+    },
+    {
+      "t": 8714,
+      "title": "Fortress of Solitude metaphor"
+    },
+    {
+      "t": 8721,
+      "title": "success fueled by pain/depression/rage"
+    },
+    {
+      "t": 8730,
+      "title": "happiness versus success"
+    },
+    {
+      "t": 8744,
+      "title": "cannot separate rage and work"
+    },
+    {
+      "t": 8753,
+      "title": "fantasy of ordinary Omaha life"
+    },
+    {
+      "t": 8767,
+      "title": "words of Socrates"
+    },
+    {
+      "t": 8771,
+      "title": "unexamined-life quote"
+    },
+    {
+      "t": 8776,
+      "title": "ignorance imagined as happiness"
+    },
+    {
+      "t": 8785,
+      "title": "Errol Morris documentary"
+    },
+    {
+      "t": 8804,
+      "title": "Superman gives up powers"
+    },
+    {
+      "t": 8828,
+      "title": "Michael Jackson supermarket story"
+    },
+    {
+      "t": 8849,
+      "title": "normal-life question"
+    },
+    {
+      "t": 8861,
+      "title": "quiet-life fantasy"
+    },
+    {
+      "t": 8866,
+      "title": "grass-is-greener recognition"
+    },
+    {
+      "t": 8868,
+      "title": "True Detective"
+    },
+    {
+      "t": 8872,
+      "title": "Rustin Cohle"
+    },
+    {
+      "t": 8881,
+      "title": "nihilistic worldview identification"
+    },
+    {
+      "t": 8893,
+      "title": "spaghetti monster` criminal"
+    },
+    {
+      "t": 8905,
+      "title": "car monologue"
+    },
+    {
+      "t": 8913,
+      "title": "sketchbook/job obsession identification"
+    },
+    {
+      "t": 8922,
+      "title": "one year of drugs"
+    },
+    {
+      "t": 8926,
+      "title": "more acid suggested"
+    },
+    {
+      "t": 8946,
+      "title": "favorite knife"
+    },
+    {
+      "t": 8955,
+      "title": "knife choice depends on task"
+    },
+    {
+      "t": 8967,
+      "title": "Wüsthof and Henckels"
+    },
+    {
+      "t": 8983,
+      "title": "Critter bleaching story"
+    },
+    {
+      "t": 8993,
+      "title": "bleach as mouthwash claim"
+    },
+    {
+      "t": 9018,
+      "title": "Atlantic City casino noodle-bar job"
+    },
+    {
+      "t": 9026,
+      "title": "strip-club visit"
+    },
+    {
+      "t": 9031,
+      "title": "discarded clothing after visit"
+    },
+    {
+      "t": 9059,
+      "title": "lap-dance contamination story"
+    },
+    {
+      "t": 9071,
+      "title": "airplane/hotel cleaning questions"
+    },
+    {
+      "t": 9083,
+      "title": "refuses top sheets"
+    },
+    {
+      "t": 9090,
+      "title": "Critter blackout drinking"
+    },
+    {
+      "t": 9107,
+      "title": "says blackout removes all boundaries"
+    },
+    {
+      "t": 9115,
+      "title": "Chang says germaphobia worsening"
+    },
+    {
+      "t": 9122,
+      "title": "washes after handshakes"
+    },
+    {
+      "t": 9131,
+      "title": "uses shirt for doors"
+    },
+    {
+      "t": 9170,
+      "title": "race-traitor joke"
+    },
+    {
+      "t": 9180,
+      "title": "Critter travel shown on Facebook"
+    },
+    {
+      "t": 9193,
+      "title": "private neighborhood/bar"
+    },
+    {
+      "t": 9220,
+      "title": "female friend asks show questions"
+    },
+    {
+      "t": 9233,
+      "title": "strangers assume she's girlfriend"
+    },
+    {
+      "t": 9237,
+      "title": "fans ask explicit sex question"
+    },
+    {
+      "t": 9249,
+      "title": "fame changes private life"
+    },
+    {
+      "t": 9252,
+      "title": "told he could stop, then cannot"
+    },
+    {
+      "t": 9267,
+      "title": "fans insulted while boundaries explained"
+    },
+    {
+      "t": 9274,
+      "title": "fan behavior called cock-blocking/disrespectful"
+    },
+    {
+      "t": 9284,
+      "title": "Tom Cruise analogy"
+    },
+    {
+      "t": 9292,
+      "title": "drunken laughter not consent"
+    },
+    {
+      "t": 9300,
+      "title": "top-secret project"
+    },
+    {
+      "t": 9316,
+      "title": "premature disclosure self-sabotage"
+    },
+    {
+      "t": 9322,
+      "title": "project could change Critter's life"
+    },
+    {
+      "t": 9333,
+      "title": "rejects sex/fame, wants money/ranch"
+    },
+    {
+      "t": 9349,
+      "title": "Wyoming/Idaho ranch fantasy"
+    },
+    {
+      "t": 9355,
+      "title": "past Idaho residence"
+    },
+    {
+      "t": 9372,
+      "title": "Korean tour-bus joke"
+    },
+    {
+      "t": 9389,
+      "title": "Christian-rock callback"
+    },
+    {
+      "t": 9417,
+      "title": "Peter Meehan"
+    },
+    {
+      "t": 9422,
+      "title": "employee trading compared with slavery"
+    },
+    {
+      "t": 9434,
+      "title": "Chang camp/Choe camp exchange"
+    },
+    {
+      "t": 9466,
+      "title": "Trivia with Bobby"
+    },
+    {
+      "t": 9484,
+      "title": "roommate requirement question"
+    },
+    {
+      "t": 9488,
+      "title": "sexual orientation falsely guessed as exclusion"
+    },
+    {
+      "t": 9491,
+      "title": "Shaggy ban correct answer"
+    },
+    {
+      "t": 9523,
+      "title": "show honesty used by fans to harass"
+    },
+    {
+      "t": 9535,
+      "title": "Choey"
+    },
+    {
+      "t": 9539,
+      "title": "directly says nickname bothers him"
+    },
+    {
+      "t": 9544,
+      "title": "cast explains negative reaction reinforces nickname"
+    },
+    {
+      "t": 9593,
+      "title": "blocks accounts using nickname"
+    },
+    {
+      "t": 9600,
+      "title": "refuses photo/autograph after nickname"
+    },
+    {
+      "t": 9616,
+      "title": "Shaggy prank warning"
+    },
+    {
+      "t": 9630,
+      "title": "Ja Rule dislike"
+    },
+    {
+      "t": 9633,
+      "title": "grudge list"
+    },
+    {
+      "t": 9640,
+      "title": "sarcastically claims to hate unsolicited oral sex"
+    },
+    {
+      "t": 9651,
+      "title": "without asking"
+    },
+    {
+      "t": 9661,
+      "title": "waking to oral sex"
+    },
+    {
+      "t": 9667,
+      "title": "trivia begins"
+    },
+    {
+      "t": 9675,
+      "title": "David Chang distinguished from David Choe"
+    },
+    {
+      "t": 9696,
+      "title": "KLM story callback"
+    },
+    {
+      "t": 9712,
+      "title": "crop dusting"
+    },
+    {
+      "t": 9721,
+      "title": "Dungeons & Dragons podcast answer"
+    },
+    {
+      "t": 9737,
+      "title": "Saelee appearance"
+    },
+    {
+      "t": 9745,
+      "title": "Saelee"
+    },
+    {
+      "t": 9760,
+      "title": "hesitates to share private message"
+    },
+    {
+      "t": 9765,
+      "title": "fan disguises dating approach as art commission"
+    },
+    {
+      "t": 9777,
+      "title": "described as scary"
+    },
+    {
+      "t": 9786,
+      "title": "Saelee age guessed"
+    },
+    {
+      "t": 9797,
+      "title": "16 to 40` age joke"
+    },
+    {
+      "t": 9801,
+      "title": "preferred adult age range"
+    },
+    {
+      "t": 9822,
+      "title": "fans still seek dates"
+    },
+    {
+      "t": 9833,
+      "title": "claims sex with virgins from show"
+    },
+    {
+      "t": 9841,
+      "title": "guest condemns behavior"
+    },
+    {
+      "t": 9866,
+      "title": "nineteen-year-old adult referenced"
+    },
+    {
+      "t": 9886,
+      "title": "I don't want your life` callback"
+    },
+    {
+      "t": 9893,
+      "title": "Varsity Blues"
+    },
+    {
+      "t": 9898,
+      "title": "marriage prediction"
+    },
+    {
+      "t": 9952,
+      "title": "five-year Korean-spouse bet"
+    },
+    {
+      "t": 9967,
+      "title": "large monetary wager"
+    },
+    {
+      "t": 9986,
+      "title": "speaker says he should not gamble"
+    },
+    {
+      "t": 9997,
+      "title": "million-dollar proposed wager"
+    },
+    {
+      "t": 10024,
+      "title": "subject cannot fairly take bet about own behavior"
+    },
+    {
+      "t": 10050,
+      "title": "I'm not allowed to gamble"
+    },
+    {
+      "t": 10059,
+      "title": "rehab/clean context"
+    },
+    {
+      "t": 10061,
+      "title": "first post-rehab bet would be million dollars"
+    },
+    {
+      "t": 10068,
+      "title": "cast calls it good/white-lie bet"
+    },
+    {
+      "t": 10072,
+      "title": "guest advocates moderation"
+    },
+    {
+      "t": 10079,
+      "title": "claims gambling is good"
+    },
+    {
+      "t": 10104,
+      "title": "who marries first bet"
+    },
+    {
+      "t": 10118,
+      "title": "money called weak stake"
+    },
+    {
+      "t": 10121,
+      "title": "lifetime table joke"
+    },
+    {
+      "t": 10133,
+      "title": "new Ko restaurant/art plans"
+    },
+    {
+      "t": 10139,
+      "title": "Choe painting commission"
+    },
+    {
+      "t": 10140,
+      "title": "Jane Choe bathroom art"
+    },
+    {
+      "t": 10145,
+      "title": "Critter painting requested"
+    },
+    {
+      "t": 10154,
+      "title": "NFS dog painting"
+    },
+    {
+      "t": 10160,
+      "title": "counterfeit Critter paintings claim"
+    },
+    {
+      "t": 10177,
+      "title": "winner names first child"
+    },
+    {
+      "t": 10187,
+      "title": "wife objection raised"
+    },
+    {
+      "t": 10195,
+      "title": "middle name compromise"
+    },
+    {
+      "t": 10202,
+      "title": "must` language"
+    },
+    {
+      "t": 10225,
+      "title": "whole legal name proposed"
+    },
+    {
+      "t": 10241,
+      "title": "depressive mode invoked in naming bet"
+    },
+    {
+      "t": 10256,
+      "title": "objection to harmful name"
+    },
+    {
+      "t": 10294,
+      "title": "bet accepted socially"
+    },
+    {
+      "t": 10324,
+      "title": "unmarried child loophole"
+    },
+    {
+      "t": 10339,
+      "title": "frozen sperm joke"
+    },
+    {
+      "t": 10357,
+      "title": "literal/figurative trivia"
+    },
+    {
+      "t": 10405,
+      "title": "loser smell/contact punishment"
+    },
+    {
+      "t": 10414,
+      "title": "nose touching encouraged despite germaphobia"
+    },
+    {
+      "t": 10437,
+      "title": "guest thanks hosts"
+    },
+    {
+      "t": 10439,
+      "title": "DVDASA"
+    },
+    {
+      "t": 10455,
+      "title": "Asa Akira Is Insatiable"
+    },
+    {
+      "t": 10458,
+      "title": "book promoted"
+    },
+    {
+      "t": 10463,
+      "title": "self-published"
+    },
+    {
+      "t": 10468,
+      "title": "spelling/grammar mistakes intentionally preserved"
+    },
+    {
+      "t": 10480,
+      "title": "three hundred watercolors/text messages"
+    },
+    {
+      "t": 10484,
+      "title": "private text messages published"
+    },
+    {
+      "t": 10499,
+      "title": "Munko stuffed animal"
+    },
+    {
+      "t": 10506,
+      "title": "intersex slur/terminology"
+    },
+    {
+      "t": 10511,
+      "title": "Upper Playground"
+    },
+    {
+      "t": 10514,
+      "title": "shop URL"
+    },
+    {
+      "t": 10531,
+      "title": "Momofuku endorsement"
+    },
+    {
+      "t": 10539,
+      "title": "Ko moving"
+    },
+    {
+      "t": 10543,
+      "title": "reservation difficulty"
+    },
+    {
+      "t": 10557,
+      "title": "restaurant buyout correction"
+    },
+    {
+      "t": 10568,
+      "title": "private friend bought restaurant"
+    },
+    {
+      "t": 10601,
+      "title": "chocolate shaped like chip dispute"
+    },
+    {
+      "t": 10608,
+      "title": "DVDASA"
+    },
+    {
+      "t": 10648,
+      "title": "I don't want your life"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "David Choe public-media montage",
+      "why": "The episode begins with multiple television/radio excerpts before the actual DVDASA room recording."
+    },
+    {
+      "t": 137,
+      "to": "David Choe creative-risk philosophy",
+      "why": "The montage establishes boldness, delusion, work, jail/death risk and art-making as the episode's frame."
+    },
+    {
+      "t": 201,
+      "to": "Corpus foreign-body safety ledger",
+      "why": "A childhood internal-marble story carries injury and retained-object risk."
+    },
+    {
+      "t": 408,
+      "to": "David Choe painting origin timeline",
+      "why": "An injury and lack of physical outlets are linked to painting more intensely."
+    },
+    {
+      "t": 480,
+      "to": "Public critical reception of David Choe",
+      "why": "A radio critic describes mixed media, bodily fluids, photography and unusual art-book ideas."
+    },
+    {
+      "t": 603,
+      "to": "Episode 118 main recording",
+      "why": "The live DVDASA room check begins after roughly ten minutes of montage."
+    },
+    {
+      "t": 689,
+      "to": "DVDASA substance-health ledger",
+      "why": "Chewing tobacco is described as pleasurable despite gum damage."
+    },
+    {
+      "t": 918,
+      "to": "Prior David Chang DVDASA appearance",
+      "why": "The cast explicitly frames this as Chang's second intimate episode."
+    },
+    {
+      "t": 1000,
+      "to": "David Chang fishing and attention practice",
+      "why": "Permit fishing is described as a rare work-free, focused state."
+    },
+    {
+      "t": 1359,
+      "to": "DVDASA guest-regret/publication ledger",
+      "why": "The host says prominent guests report lost work and relationships after appearing."
+    },
+    {
+      "t": 1392,
+      "to": "Prior employee-confrontation episode",
+      "why": "A former employee's on-air humiliation is revisited and defended."
+    },
+    {
+      "t": 1519,
+      "to": "Corpus workplace-consent taxonomy",
+      "why": "A nontraditional-work agreement is treated as permission for all on-air conduct, then contradicted by lack of notice about touching."
+    },
+    {
+      "t": 1839,
+      "to": "David Chang leadership/burnout timeline",
+      "why": "Chang reflects on being difficult as boss/partner and later identifies burnout."
+    },
+    {
+      "t": 1857,
+      "to": "Artist-versus-technician theme",
+      "why": "Choe calls Chang an artist because his work challenges and disrupts rather than only reproducing technique."
+    },
+    {
+      "t": 1943,
+      "to": "David Chang craft philosophy",
+      "why": "Cooking is framed as repetition, service craft and occasional status-quo rupture."
+    },
+    {
+      "t": 1978,
+      "to": "Corpus creative-discipline method",
+      "why": "Both guests reject waiting for inspiration and identify repetition as the route to improvement."
+    },
+    {
+      "t": 2050,
+      "to": "David Chang burnout timeline",
+      "why": "Ten years of Momofuku and international openings are tied to exhaustion and uncertainty about what comes next."
+    },
+    {
+      "t": 2072,
+      "to": "David Choe / David Chang art collaboration",
+      "why": "A future Ko space is discussed with work by David and Jane Choe and possibly Critter."
+    },
+    {
+      "t": 2299,
+      "to": "Corpus reproductive/private-boundary taxonomy",
+      "why": "A private couple's withdrawn co-parenting offer is discussed despite no longer being available."
+    },
+    {
+      "t": 2457,
+      "to": "Corpus reproductive-health correction ledger",
+      "why": "Sperm/egg freezing is discussed through speculative compulsory policy and oversimplified age claims."
+    },
+    {
+      "t": 2617,
+      "to": "Wealth, race and privilege theme",
+      "why": "The two Davids compare luxury benefits, complaint shame and racialized treatment in elite settings."
+    },
+    {
+      "t": 2899,
+      "to": "Corpus service/discrimination taxonomy",
+      "why": "A flight attendant's phone, meal and dessert treatment is narrated as possible racial/class exclusion but not independently proven."
+    },
+    {
+      "t": 3386,
+      "to": "David Choe appropriate-response method",
+      "why": "He uses peer discussion to rehearse future responses instead of freezing or exploding."
+    },
+    {
+      "t": 3874,
+      "to": "David Chang complaint philosophy",
+      "why": "Chang recommends escalation when it can fix a systemic fault for future customers."
+    },
+    {
+      "t": 3914,
+      "to": "David Chang injury/legal timeline",
+      "why": "An airline burn, clinic treatment, settlement and donation are described as a systemic-safety example."
+    },
+    {
+      "t": 4438,
+      "to": "David Chang restaurant-worker protection",
+      "why": "Chang describes physically intervening after a customer threatened and struck an employee."
+    },
+    {
+      "t": 4526,
+      "to": "Restaurant service and repair philosophy",
+      "why": "Drunk customers, worker dignity, calm correction and mistake recovery form an operations lesson."
+    },
+    {
+      "t": 4633,
+      "to": "Restaurant closing-time etiquette",
+      "why": "Chang explains kitchen breakdown, late orders and how considerate guests communicate."
+    },
+    {
+      "t": 4837,
+      "to": "Episode 118 depression discussion",
+      "why": "The literal `health podcast` joke opens the episode's longest and most consequential section."
+    },
+    {
+      "t": 4903,
+      "to": "Corpus suicide-risk ledger",
+      "why": "A private listener's overdose and final message lead to incomplete one-more-year advice."
+    },
+    {
+      "t": 4937,
+      "to": "Corpus mental-health correction ledger",
+      "why": "Depression is treated as real and professional help is urged, though causal explanations are oversimplified."
+    },
+    {
+      "t": 5048,
+      "to": "David Choe bipolar/depression self-report",
+      "why": "Choe describes recurrent severe episodes and historical `manic depressive` diagnosis."
+    },
+    {
+      "t": 5168,
+      "to": "David Chang depression/therapy timeline",
+      "why": "Chang ties therapy, medication, overwork and Momofuku's origin to daily survival."
+    },
+    {
+      "t": 5228,
+      "to": "Corpus suicide-risk ledger",
+      "why": "Chang says he did not expect to live to age thirty-six."
+    },
+    {
+      "t": 5489,
+      "to": "Corpus harmful-mental-health-advice ledger",
+      "why": "`Fuck your feelings` and activity-as-cure claims are corrected by Chang's individual-variation warning."
+    },
+    {
+      "t": 5597,
+      "to": "Corpus suicide-incitement ledger",
+      "why": "The show explicitly tells suicidal listeners to stop talking and `just do it`; this is dangerous, never advice."
+    },
+    {
+      "t": 5643,
+      "to": "Corpus supplement correction ledger",
+      "why": "5-HTP is an amino-acid supplement with interaction risk, not a vitamin or universal treatment."
+    },
+    {
+      "t": 6116,
+      "to": "David Choe suicide-attempt timeline",
+      "why": "A Tokyo attempt and later creative work are connected without treating self-harm as a method."
+    },
+    {
+      "t": 6173,
+      "to": "DVDASA editorial self-awareness",
+      "why": "The cast itself names its depression guidance conflicting."
+    },
+    {
+      "t": 6252,
+      "to": "Jane Choe / Critter joint art show",
+      "why": "The discussion pivots from depression to two people publicly perceived as joyful."
+    },
+    {
+      "t": 6466,
+      "to": "Choe family spirituality and coping",
+      "why": "Jane Choe's devil/darkness story becomes a force-positive-action metaphor, not clinical fact."
+    },
+    {
+      "t": 6553,
+      "to": "Jane Choe and Critter art timeline",
+      "why": "The recent art show triggers a family road-trip and immigration story."
+    },
+    {
+      "t": 6803,
+      "to": "One-way-ticket / no-cushion thesis",
+      "why": "Jane Choe contrasts family risk styles and frames Choe's creative identity."
+    },
+    {
+      "t": 6912,
+      "to": "Applied-science-fiction creative method",
+      "why": "An uncertain Hulk issue becomes an analogy for working backward from impossible goals."
+    },
+    {
+      "t": 7344,
+      "to": "Happiness-versus-creative-power theme",
+      "why": "Both Davids ask whether depression and rage are inseparable from their work."
+    },
+    {
+      "t": 7424,
+      "to": "David Chang criticism/review timeline",
+      "why": "Chang is disturbed that a negative food-blog post no longer provokes his former rage."
+    },
+    {
+      "t": 7553,
+      "to": "Appropriate-response rehearsal method",
+      "why": "Choe says he talks through incidents until a calmer response becomes learned behavior."
+    },
+    {
+      "t": 7644,
+      "to": "Golden Gate Fields conflict",
+      "why": "A perceived line-cut accusation nearly produces Choe's first fistfight in a decade."
+    },
+    {
+      "t": 7869,
+      "to": "Hulk-versus-Tony-Stark de-escalation",
+      "why": "The comic metaphor is repurposed toward calm, strategic conflict response."
+    },
+    {
+      "t": 7991,
+      "to": "Val's discrimination/de-escalation account",
+      "why": "A worker/associate describes leaving bad service rather than escalating."
+    },
+    {
+      "t": 8694,
+      "to": "Two Depressed Artists central question",
+      "why": "The guest is asked whether he would surrender rage, success and creative power for happiness."
+    },
+    {
+      "t": 8767,
+      "to": "Socrates / unexamined life",
+      "why": "Chang questions whether examined awareness is actually preferable to happy ignorance."
+    },
+    {
+      "t": 8868,
+      "to": "True Detective / Rustin Cohle",
+      "why": "Both Davids identify with a fictional nihilist whom others view as abnormal."
+    },
+    {
+      "t": 8993,
+      "to": "Corpus bleach safety ledger",
+      "why": "Bleach-as-mouthwash/genital-cleaning claims are dangerous and corrected."
+    },
+    {
+      "t": 9090,
+      "to": "Corpus blackout/capacity taxonomy",
+      "why": "Blackout drinking is said to dissolve germaphobic boundaries; incapacity is not consent."
+    },
+    {
+      "t": 9237,
+      "to": "DVDASA fan-contact boundaries",
+      "why": "Fans intrude on Critter's private social life with an explicit sexual question."
+    },
+    {
+      "t": 9300,
+      "to": "DVDASA confidential-project policy",
+      "why": "The cast consciously withholds a future project after recognizing premature disclosure as sabotage."
+    },
+    {
+      "t": 9535,
+      "to": "Episode 114/117 Choey boundary",
+      "why": "Choe repeats that the nickname causes blocking and refusal of photographs/autographs."
+    },
+    {
+      "t": 9640,
+      "to": "Corpus sleep/consent taxonomy",
+      "why": "An unsolicited oral-sex joke includes waking from sleep; lack of asking is not consent."
+    },
+    {
+      "t": 9745,
+      "to": "Saelee appearance / missing Episode 066",
+      "why": "Fan contact disguised as an art commission follows Saelee's appearance and shows discovery harm."
+    },
+    {
+      "t": 9986,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "A post-rehab marriage wager escalates toward a million dollars despite a direct no-gambling rule."
+    },
+    {
+      "t": 10133,
+      "to": "Ko / Choe family art collaboration",
+      "why": "The future restaurant links work by David Choe, Jane Choe and Critter."
+    },
+    {
+      "t": 10177,
+      "to": "Corpus future-child autonomy taxonomy",
+      "why": "A marriage bet proposes naming a future child despite the absent co-parent's rights."
+    },
+    {
+      "t": 10455,
+      "to": "Asa Akira Is Insatiable",
+      "why": "The book's deliberate preservation of errors/text messages mirrors this corpus's raw-versus-editorial problem."
+    }
+  ],
+  "content_warnings": [
+    "suicide attempts and explicit suicide encouragement",
+    "depression and bipolar-disorder discussion",
+    "dangerous mental-health misinformation",
+    "medication and supplement discussion",
+    "5-HTP interaction risk",
+    "romanticization of suffering and creativity",
+    "gambling addiction and relapse pressure",
+    "racial discrimination and racial slurs",
+    "homophobic, transphobic and ableist slurs",
+    "workplace humiliation and power imbalance",
+    "inappropriate employment questions",
+    "unwanted workplace touching",
+    "violent threats and claimed assaults",
+    "sexual assault and breast grabbing",
+    "sleeping-person sexual-contact joke",
+    "blackout intoxication and incapacity",
+    "foreign-body insertion and injury risk",
+    "bodily-fluid art and infection risk",
+    "bleach misuse on mouth/genitals",
+    "chewing tobacco and oral-health risk",
+    "private listener overdose and family detail",
+    "private employee/partner/fan identities",
+    "confidential-project disclosure",
+    "reproductive-health misinformation",
+    "private fertility and co-parenting plans",
+    "wealth/class privilege and alleged discrimination",
+    "unverified airline/casino/hotel allegations",
+    "private legal settlement and injury detail",
+    "copyright-sensitive song excerpts",
+    "future-child naming/autonomy"
+  ]
+}

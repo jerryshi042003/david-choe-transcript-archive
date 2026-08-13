@@ -1,0 +1,655 @@
+{
+  "episode_id": "ksa76m5HHfk",
+  "title": "Unlocking Life's Algorithm with David Choe: Art, Insight & Survival",
+  "editorial_title": "Peekaboo, paper coffee, stolen chips, art approval, and algorithm parody",
+  "reviewed_on": "2026-08-01",
+  "summary": "An 8:24 variety monologue moving from peekaboo/spider play and not-feeling-on-it disclosure into damaged sponsor/code wordplay, pray/play, a taped paper coffee cup and tongue burn, snack tasting and a playful dad/cameraman/Val chip accusation, art-for-self rhetoric immediately called a lie, delegated editing and virality/algorithm anxiety, then a parody of a prior love/trust/sorry aphorism through hugs, an explicit unsafe password joke, money, an uncertain promo code and an unmade weighted-stuffy pitch seeking a manufacturer. Every joke, accusation, bodily detail and commercial claim remains. Codes/passwords are never tested; no offer, theft, analytics, consent, product or voice fact is invented.",
+  "quality": {
+    "raw_segments": 69,
+    "clean_segments": 69,
+    "raw_words_approx": 1277,
+    "duration_seconds": 504,
+    "accepted_context_decisions": 69,
+    "chapters": 56,
+    "connections": 12,
+    "content_warnings": 9,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 37,
+    "public_restriction_spans": 56
+  },
+  "speaker_policy": {
+    "status": "single variety monologue with performed objections/voices; identity withheld",
+    "reason": "Channel/self-address context suggests David Choe, but captions lack prefix and held-out acoustic validation; dad/cameraman/Val/Mangchi references are not roles."
+  },
+  "people": [
+    "David Choe (publisher/self-address context; no named turn)",
+    "unidentified monologue speaker",
+    "dad/cameraman/Val (playful suspect references; identities/voices unresolved)",
+    "editing team",
+    "unidentified potential manufacturer"
+  ],
+  "places": [
+    "studio",
+    "website/online platforms",
+    "paper-cup imagined setting"
+  ],
+  "works": [
+    "Unlocking Life's Algorithm with David Choe: Art, Insight & Survival",
+    "Where’s Waldo",
+    "Mangchi",
+    "prior love/trust/sorry video",
+    "unidentified snacks/O-tubes",
+    "unmade weighted doll/stuffy"
+  ],
+  "themes": [
+    "play",
+    "mood/performance",
+    "promotion uncertainty",
+    "paper-cup art",
+    "food/body humor",
+    "private accusation",
+    "art/audience contradiction",
+    "delegated editing",
+    "virality/algorithm",
+    "aphorism parody",
+    "touch preference",
+    "password security joke",
+    "money parody",
+    "unmade product"
+  ],
+  "chapters": [
+    {
+      "t": 0.12,
+      "title": "hide-and-seek / peekaboo"
+    },
+    {
+      "t": 19.2,
+      "title": "foolishness / song"
+    },
+    {
+      "t": 44.56,
+      "title": "good morning / Where’s Waldo"
+    },
+    {
+      "t": 61.96,
+      "title": "deflated spider"
+    },
+    {
+      "t": 69.76,
+      "title": "annoying spider-face voice"
+    },
+    {
+      "t": 76.32,
+      "title": "not feeling on it / fake it"
+    },
+    {
+      "t": 81.68,
+      "title": "sponsor transition"
+    },
+    {
+      "t": 86.76,
+      "title": "unclear sponsor/Choe pun/code"
+    },
+    {
+      "t": 96.44,
+      "title": "rough-morning play"
+    },
+    {
+      "t": 103.68,
+      "title": "play/pray wordplay"
+    },
+    {
+      "t": 109.04,
+      "title": "no kids/family/partner/roommates"
+    },
+    {
+      "t": 117.2,
+      "title": "solo hide-and-seek"
+    },
+    {
+      "t": 123.28,
+      "title": "decaf joe / C-cup"
+    },
+    {
+      "t": 129.8,
+      "title": "paper handle/spout"
+    },
+    {
+      "t": 138.04,
+      "title": "tape/sippy cup / decorate"
+    },
+    {
+      "t": 151.08,
+      "title": "pre-coffee jittery figure"
+    },
+    {
+      "t": 156.2,
+      "title": "editing-team smoke request"
+    },
+    {
+      "t": 175.24,
+      "title": "thought clouds / damaged daydream phrase"
+    },
+    {
+      "t": 180.68,
+      "title": "burned tongue"
+    },
+    {
+      "t": 184.8,
+      "title": "I see you"
+    },
+    {
+      "t": 195.44,
+      "title": "bottomless cup / free refills"
+    },
+    {
+      "t": 201.72,
+      "title": "black coffee"
+    },
+    {
+      "t": 212.28,
+      "title": "tofu-kimchi snack"
+    },
+    {
+      "t": 224.36,
+      "title": "tofu-kimchi chips / corn cheese"
+    },
+    {
+      "t": 230.92,
+      "title": "damaged snack phrases"
+    },
+    {
+      "t": 245.56,
+      "title": "missing chips accusation"
+    },
+    {
+      "t": 254.6,
+      "title": "one-chip interrogation"
+    },
+    {
+      "t": 269.44,
+      "title": "chip tasting / O-tubes claim"
+    },
+    {
+      "t": 276.36,
+      "title": "resentment / make art"
+    },
+    {
+      "t": 289,
+      "title": "dad/cameraman/Val suspects"
+    },
+    {
+      "t": 294.28,
+      "title": "art for art’s sake / heart art"
+    },
+    {
+      "t": 302.36,
+      "title": "just-for-me claim called lie"
+    },
+    {
+      "t": 310.28,
+      "title": "cameras / wants approval"
+    },
+    {
+      "t": 317.52,
+      "title": "like/subscribe / partial lie"
+    },
+    {
+      "t": 326.4,
+      "title": "no editing control claim"
+    },
+    {
+      "t": 337.48,
+      "title": "permission / different edits"
+    },
+    {
+      "t": 344,
+      "title": "no shade / difference can be good"
+    },
+    {
+      "t": 349.2,
+      "title": "viral surprises"
+    },
+    {
+      "t": 354.44,
+      "title": "long labor / nobody cares"
+    },
+    {
+      "t": 359.76,
+      "title": "damaged low-watch work"
+    },
+    {
+      "t": 364.84,
+      "title": "Mangchi/audience generalization"
+    },
+    {
+      "t": 373.44,
+      "title": "teaching-moment voice objection"
+    },
+    {
+      "t": 383.28,
+      "title": "feeling/intuition/less thought"
+    },
+    {
+      "t": 396.96,
+      "title": "watching self / algorithm"
+    },
+    {
+      "t": 402.72,
+      "title": "video-performance question"
+    },
+    {
+      "t": 408.6,
+      "title": "unexpected viral aphorism video"
+    },
+    {
+      "t": 413.88,
+      "title": "love/trust/sorry aphorism"
+    },
+    {
+      "t": 419.64,
+      "title": "millions-of-views claim"
+    },
+    {
+      "t": 424.16,
+      "title": "questions truth"
+    },
+    {
+      "t": 433.96,
+      "title": "touch / hugs and kisses"
+    },
+    {
+      "t": 445.2,
+      "title": "trust/password parody"
+    },
+    {
+      "t": 451.52,
+      "title": "696969 password joke"
+    },
+    {
+      "t": 461.92,
+      "title": "sorry/money parody"
+    },
+    {
+      "t": 470.16,
+      "title": "like/subscribe / uncertain promo code"
+    },
+    {
+      "t": 483.08,
+      "title": "weighted doll/stuffy pitch"
+    },
+    {
+      "t": 488.2,
+      "title": "website/manufacturer request"
+    }
+  ],
+  "connections": [
+    {
+      "t": 76.32,
+      "to": "performance versus mood",
+      "relationship": "Fake-it language follows not-feeling-on-it disclosure."
+    },
+    {
+      "t": 86.76,
+      "to": "promotion uncertainty",
+      "relationship": "Sponsor and code are wordplay/damaged rather than verified offer metadata."
+    },
+    {
+      "t": 123.28,
+      "to": "paper-cup art",
+      "relationship": "Coffee ritual becomes a drawn/taped cup and animation request."
+    },
+    {
+      "t": 180.68,
+      "to": "safety counterevidence",
+      "relationship": "The speaker reports a burned tongue after the cup sequence."
+    },
+    {
+      "t": 245.56,
+      "to": "private accusation",
+      "relationship": "Missing chips create a playful dad/cameraman/Val suspect list."
+    },
+    {
+      "t": 302.36,
+      "to": "art/audience contradiction",
+      "relationship": "Art only for self is called a lie because cameras and approval desire remain."
+    },
+    {
+      "t": 326.4,
+      "to": "delegated editing",
+      "relationship": "Letting go of editing control complicates authorship and satisfaction."
+    },
+    {
+      "t": 349.2,
+      "to": "virality uncertainty",
+      "relationship": "Effort and expected audience response are described as poorly correlated."
+    },
+    {
+      "t": 396.96,
+      "to": "algorithm desire",
+      "relationship": "Intuition-based art coexists with watching metrics and wanting explanations."
+    },
+    {
+      "t": 413.88,
+      "to": "aphorism revision",
+      "relationship": "A viral slogan is questioned and rewritten selfishly/comically."
+    },
+    {
+      "t": 451.52,
+      "to": "security parody",
+      "relationship": "An explicit repeated password joke illustrates trust while being unsafe practice."
+    },
+    {
+      "t": 483.08,
+      "to": "unmade product",
+      "relationship": "The weighted-stuffy discount precedes a request for a manufacturer."
+    }
+  ],
+  "source_notes": [
+    "All 69 raw caption records remain aligned exactly once.",
+    "Hide-and-seek, peekaboo, Wheres Waldo, art for arts sake and Mangchi receive supported repairs.",
+    "Sponsor, snack, low-watch work/name and promo-code terms remain uncertain.",
+    "Codes/discounts are unverified and never tested or linked.",
+    "Explicit 696969 remains source text, is labeled unsafe password practice and is never tested.",
+    "Chip accusation remains playful self-report; no theft/guilt/access fact is inferred.",
+    "Editing/viral/view claims remain unverified self-report, not platform analytics.",
+    "Touch/hugs/kisses remain personal preference, not consent.",
+    "Weighted product/manufacturer pitch explicitly lacks verified product availability.",
+    "Zero named turns or enrollment windows."
+  ],
+  "content_warnings": [
+    "explicit password/security joke",
+    "unverified sponsor/promo/discount claims",
+    "hot-drink tongue burn",
+    "food/snack product uncertainty",
+    "private first-name/family theft accusation",
+    "audience/virality analytics claims",
+    "touch/hugs/kisses consent context",
+    "money/transaction parody",
+    "unmade weighted-product pitch"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0.12,
+      "title": "hide-and-seek / peekaboo",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 19.2,
+      "title": "foolishness / song",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 44.56,
+      "title": "good morning / Where’s Waldo",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 61.96,
+      "title": "deflated spider",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 69.76,
+      "title": "annoying spider-face voice",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 76.32,
+      "title": "not feeling on it / fake it",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 81.68,
+      "title": "sponsor transition",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 86.76,
+      "title": "unclear sponsor/Choe pun/code",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 96.44,
+      "title": "rough-morning play",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 103.68,
+      "title": "play/pray wordplay",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 109.04,
+      "title": "no kids/family/partner/roommates",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 117.2,
+      "title": "solo hide-and-seek",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 123.28,
+      "title": "decaf joe / C-cup",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 129.8,
+      "title": "paper handle/spout",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 138.04,
+      "title": "tape/sippy cup / decorate",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 151.08,
+      "title": "pre-coffee jittery figure",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 156.2,
+      "title": "editing-team smoke request",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 175.24,
+      "title": "thought clouds / damaged daydream phrase",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 180.68,
+      "title": "burned tongue",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 184.8,
+      "title": "I see you",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 195.44,
+      "title": "bottomless cup / free refills",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 201.72,
+      "title": "black coffee",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 212.28,
+      "title": "tofu-kimchi snack",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 224.36,
+      "title": "tofu-kimchi chips / corn cheese",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 230.92,
+      "title": "damaged snack phrases",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 245.56,
+      "title": "missing chips accusation",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 254.6,
+      "title": "one-chip interrogation",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 269.44,
+      "title": "chip tasting / O-tubes claim",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 276.36,
+      "title": "resentment / make art",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 289,
+      "title": "dad/cameraman/Val suspects",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 294.28,
+      "title": "art for art’s sake / heart art",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 302.36,
+      "title": "just-for-me claim called lie",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 310.28,
+      "title": "cameras / wants approval",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 317.52,
+      "title": "like/subscribe / partial lie",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 326.4,
+      "title": "no editing control claim",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 337.48,
+      "title": "permission / different edits",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 344,
+      "title": "no shade / difference can be good",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 349.2,
+      "title": "viral surprises",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 354.44,
+      "title": "long labor / nobody cares",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 359.76,
+      "title": "damaged low-watch work",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 364.84,
+      "title": "Mangchi/audience generalization",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 373.44,
+      "title": "teaching-moment voice objection",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 383.28,
+      "title": "feeling/intuition/less thought",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 396.96,
+      "title": "watching self / algorithm",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 402.72,
+      "title": "video-performance question",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 408.6,
+      "title": "unexpected viral aphorism video",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 413.88,
+      "title": "love/trust/sorry aphorism",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 419.64,
+      "title": "millions-of-views claim",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 424.16,
+      "title": "questions truth",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 433.96,
+      "title": "touch / hugs and kisses",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 445.2,
+      "title": "trust/password parody",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 451.52,
+      "title": "696969 password joke",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 461.92,
+      "title": "sorry/money parody",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 470.16,
+      "title": "like/subscribe / uncertain promo code",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 483.08,
+      "title": "weighted doll/stuffy pitch",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    },
+    {
+      "t": 488.2,
+      "title": "website/manufacturer request",
+      "rule": "attribute to unidentified variety-monologue speaker, parody, self-report or promotion; never test/use code/password; do not infer offer, discount, theft/guilt, analytics, consent, nutrition, legal rights, product availability/transaction, private identity or named voice"
+    }
+  ]
+}

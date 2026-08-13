@@ -510,16 +510,10 @@ async function renderStories() {
   }
 }
 
-/* Recurring subjects: the people, places and themes that come up in several
-   different episodes, each linking to all of them.
-
-   Every count is rendered AS A FRACTION of the curated base, never bare. The
-   difference matters more here than anywhere else on the site: "Los Angeles, 34
-   episodes" reads like a discovery, but it is 34 of the 37 episodes that have
-   been curated -- Los Angeles is simply in nearly all of them, which describes
-   the archive rather than the man. "Anthony Bourdain, 11 of 37" is the real
-   finding, and the two are indistinguishable unless the denominator is on
-   screen beside the number. */
+/* Recurring subjects: the people, places and themes that appear in several
+   human-reviewed routes. The reviewed-route count is review progress, not an
+   occurrence denominator for the full corpus. Never turn "not reviewed" into
+   "not present," and never label 37 reviewed records as the whole archive. */
 async function renderSubjects() {
   const box = $('body');
   let data;
@@ -527,22 +521,32 @@ async function renderSubjects() {
   catch { box.innerHTML = '<p class="empty">No subject index built yet.</p>'; return; }
   const sv = data.survey || {};
   const base = sv.items_with_entities || 0;
+  const archiveBase = sv.items_in_archive || base;
   const kinds = data.subjects || {};
   const total = Object.values(kinds).reduce((n, r) => n + r.length, 0);
   $('fhint').textContent = `${total} subjects appearing in ${sv.min_episodes || 3}`
-    + ` or more of the ${base} curated episodes`;
+    + ` or more reviewed routes · ${base} of ${archiveBase} routes reviewed`
+    + ` · review progress, not an occurrence count`;
   const section = (kind) => {
     const rows = kinds[kind] || [];
     if (!rows.length) return '';
     return `<h3 class="skind">${esc(kind)}</h3>` + rows.map((r) => `
       <section class="subj">
         <p class="subjname">${esc(r.name)}
-          <span class="times">${r.count} of ${base} curated episodes</span></p>
+          <span class="times">${r.count} reviewed routes</span></p>
         <p class="subjeps">${r.episodes.map((e) =>
           `<a href="#/${esc(e.id)}">${esc(e.title || e.id)}</a>`).join('')}</p>
       </section>`).join('');
   };
-  box.innerHTML = ['people', 'places', 'themes'].map(section).join('')
+  const signals = (data.signals || []).map((signal) => `<section class="subj signal">
+    <p class="subjname">${esc(signal.name)}
+      <span class="times">${signal.count} of ${signal.denominator} DVDASA routes contain the exact word</span></p>
+    <p class="same">${esc(signal.method)} ${signal.review_gap} routes remain for semantic review of unlabeled segments.</p>
+    <p class="subjeps">${(signal.routes || []).map((episode) =>
+      `<a href="#/${esc(episode.id)}">${esc(episode.title || episode.id)}</a>`).join('')}</p>
+  </section>`).join('');
+  box.innerHTML = (signals ? `<h3 class="skind">Transcript signals</h3>${signals}` : '')
+    + ['people', 'places', 'themes'].map(section).join('')
     || '<p class="empty">No recurring subjects yet.</p>';
 }
 

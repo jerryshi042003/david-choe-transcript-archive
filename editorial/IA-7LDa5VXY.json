@@ -1,0 +1,1711 @@
+{
+  "episode_id": "IA-7LDa5VXY",
+  "title": "David Choe Fires Yoshi Over Potato Chips — Catching You Up with Nadav",
+  "reviewed_on": "2026-07-31",
+  "summary": "Nadav Itzkowitz interviews Yoshi Obayashi about DVDASA Episode 10, friendship/employment conflict, estrangement, later mental-health reinterpretation, suicide loss, paid clinical studies and current-at-recording work. David Choe is absent. The 225-decision correction layer repairs names, titles and terms while comparing the retrospective against the audited primary: Rody researched and brought the Japanese snacks, and Episode 10 is a long ownership/trust/apology/power conflict rather than a simple firing over travel-bought chips. Yoshi’s admission, hunger context, accountability and changed interpretation all remain; diagnoses, wealth, legal, abuse, family, study and charity claims stay attributed or verification-required.",
+  "quality": {
+    "raw_segments": 1020,
+    "clean_segments": 1020,
+    "raw_words_approx": 7367,
+    "clean_words_approx": 7367,
+    "duration_seconds": 2445,
+    "accepted_context_decisions": 225,
+    "chapters": 185,
+    "connections": 25,
+    "content_warnings": 24,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 151
+  },
+  "speaker_policy": {
+    "status": "David Choe absent; all line-level turns unresolved",
+    "reason": "The source-level participants are Nadav Itzkowitz and Yoshi Obayashi, but automatic captions contain no publisher prefixes. David Choe appears only as the subject of retrospective speech and must never receive a line label or voice-training window from this upload. Even Nadav/Yoshi turns remain unpublished pending held-out acoustic/video validation."
+  },
+  "people": [
+    "Yoshi Obayashi",
+    "Nadav Itzkowitz",
+    "David Choe [absent/subject only]",
+    "Asa Akira",
+    "Harry Kim",
+    "Sean Parker",
+    "Mark Zuckerberg",
+    "Tom Segura",
+    "Christina Pazsitzky",
+    "Joey Kurtzman",
+    "Critter",
+    "Brody Stevens",
+    "Brandon Iron",
+    "Russell Peters",
+    "Dennis Rader",
+    "Bernie Madoff"
+  ],
+  "places": [
+    "Los Angeles",
+    "Koreatown",
+    "San Jose",
+    "East Los Angeles area",
+    "Beverly Hills",
+    "Japan",
+    "LAX",
+    "Austin",
+    "Arizona",
+    "Chicago",
+    "Switzerland",
+    "Spokane",
+    "Tacoma",
+    "private homes and workplaces"
+  ],
+  "works": [
+    "Catching You Up with Nadav",
+    "DVDASA Episode 010",
+    "Koreans Gone Bad",
+    "Yoshi Didn’t",
+    "Your Mom’s House",
+    "Thumbs Up!",
+    "The Joe Rogan Experience",
+    "Pervert [proposed]",
+    "Survivors for Change [historic plug]"
+  ],
+  "themes": [
+    "secondary testimony",
+    "source hierarchy",
+    "friendship and employment power",
+    "property and trust",
+    "food insecurity",
+    "evasion and admission",
+    "mental-health speculation",
+    "retrospective compassion",
+    "suicide loss",
+    "paid clinical studies",
+    "pandemic reflection",
+    "archive permanence",
+    "fantasy-management theory",
+    "historic charity and show plugs"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Yoshi Obayashi"
+    },
+    {
+      "t": 2,
+      "title": "Catching You Up with Nadav"
+    },
+    {
+      "t": 5,
+      "title": "left DVDASA / firing retrospective"
+    },
+    {
+      "t": 9,
+      "title": "David Choe"
+    },
+    {
+      "t": 17,
+      "title": "Eric Bay"
+    },
+    {
+      "t": 26,
+      "title": "Nigerian-prince scam joke"
+    },
+    {
+      "t": 36,
+      "title": "Venmo"
+    },
+    {
+      "t": 46,
+      "title": "comic scam mechanics"
+    },
+    {
+      "t": 67,
+      "title": "Patreon"
+    },
+    {
+      "t": 73,
+      "title": "Yoshi Obayashi"
+    },
+    {
+      "t": 77,
+      "title": "good, Nadav"
+    },
+    {
+      "t": 102,
+      "title": "YMH / Your Mom’s House"
+    },
+    {
+      "t": 109,
+      "title": "VICE’s Thumbs Up!"
+    },
+    {
+      "t": 118,
+      "title": "Asa Akira"
+    },
+    {
+      "t": 125,
+      "title": "Koreans Gone Bad"
+    },
+    {
+      "t": 134,
+      "title": "multiple public conflicts"
+    },
+    {
+      "t": 167,
+      "title": "rough 2009–2010 listening estimate"
+    },
+    {
+      "t": 183,
+      "title": "DVDASA"
+    },
+    {
+      "t": 186,
+      "title": "Your Mom’s House"
+    },
+    {
+      "t": 186.5,
+      "title": "The Joe Rogan Experience"
+    },
+    {
+      "t": 216,
+      "title": "David Choe"
+    },
+    {
+      "t": 227,
+      "title": "audience/outsider perspective"
+    },
+    {
+      "t": 242,
+      "title": "David Choe"
+    },
+    {
+      "t": 245,
+      "title": "Korean American artist"
+    },
+    {
+      "t": 250,
+      "title": "Mark Zuckerberg"
+    },
+    {
+      "t": 255,
+      "title": "Sean Parker"
+    },
+    {
+      "t": 259,
+      "title": "reported early-career description"
+    },
+    {
+      "t": 266,
+      "title": "Koreatown ice-cream-shop story"
+    },
+    {
+      "t": 283,
+      "title": "San Jose hair-salon story"
+    },
+    {
+      "t": 291,
+      "title": "private former partner"
+    },
+    {
+      "t": 294,
+      "title": "Sean Parker"
+    },
+    {
+      "t": 298,
+      "title": "I could be wrong"
+    },
+    {
+      "t": 318,
+      "title": "Facebook office/headquarters murals"
+    },
+    {
+      "t": 321,
+      "title": "reported $65,000 cash offer"
+    },
+    {
+      "t": 328,
+      "title": "Facebook stock"
+    },
+    {
+      "t": 333,
+      "title": "wealth headline shorthand"
+    },
+    {
+      "t": 350,
+      "title": "David Choe’s podcast orbit"
+    },
+    {
+      "t": 360,
+      "title": "Tom Segura/YMH work was separate"
+    },
+    {
+      "t": 376,
+      "title": "DVDASA"
+    },
+    {
+      "t": 378,
+      "title": "Asa Akira"
+    },
+    {
+      "t": 381,
+      "title": "embedded Hims advertisement begins"
+    },
+    {
+      "t": 388,
+      "title": "personalized ED treatments"
+    },
+    {
+      "t": 391,
+      "title": "Hard Mints"
+    },
+    {
+      "t": 395,
+      "title": "Cialis"
+    },
+    {
+      "t": 419,
+      "title": "hims.com/nadav"
+    },
+    {
+      "t": 439,
+      "title": "not approved by FDA / safety-effectiveness disclaimer"
+    },
+    {
+      "t": 446,
+      "title": "healthcare provider"
+    },
+    {
+      "t": 460,
+      "title": "hims.com/nadav"
+    },
+    {
+      "t": 465,
+      "title": "Yoshi’s wealth-before-Facebook claim"
+    },
+    {
+      "t": 468,
+      "title": "reported gambling/art income"
+    },
+    {
+      "t": 482,
+      "title": "adult industry"
+    },
+    {
+      "t": 488,
+      "title": "VICE"
+    },
+    {
+      "t": 503,
+      "title": "Thumbs Up!"
+    },
+    {
+      "t": 505,
+      "title": "Harry Kim"
+    },
+    {
+      "t": 528,
+      "title": "Mexico route recollection"
+    },
+    {
+      "t": 533,
+      "title": "northeastern Canada"
+    },
+    {
+      "t": 539,
+      "title": "injection scene recollection"
+    },
+    {
+      "t": 545,
+      "title": "border-running recollection"
+    },
+    {
+      "t": 564,
+      "title": "Mississippi River"
+    },
+    {
+      "t": 573,
+      "title": "possible illness after river travel"
+    },
+    {
+      "t": 580,
+      "title": "ethos of warriors?"
+    },
+    {
+      "t": 591,
+      "title": "travel-media perspective"
+    },
+    {
+      "t": 596,
+      "title": "white heterosexual male travel perspective"
+    },
+    {
+      "t": 610,
+      "title": "adult-industry employer"
+    },
+    {
+      "t": 613,
+      "title": "adult-media outreach gift"
+    },
+    {
+      "t": 616,
+      "title": "Russell Peters DVD"
+    },
+    {
+      "t": 631,
+      "title": "San Jose"
+    },
+    {
+      "t": 641,
+      "title": "Harry Kim’s residence"
+    },
+    {
+      "t": 644,
+      "title": "2007 first-meeting estimate"
+    },
+    {
+      "t": 651,
+      "title": "East Los Angeles-area neighborhood"
+    },
+    {
+      "t": 658,
+      "title": "chickens running around"
+    },
+    {
+      "t": 662,
+      "title": "driven away"
+    },
+    {
+      "t": 664,
+      "title": "Choe"
+    },
+    {
+      "t": 670,
+      "title": "private former partner"
+    },
+    {
+      "t": 695,
+      "title": "grew up in Japan"
+    },
+    {
+      "t": 697,
+      "title": "Tom Segura likes"
+    },
+    {
+      "t": 707,
+      "title": "same-date arrest coincidence claim"
+    },
+    {
+      "t": 710,
+      "title": "LAX arrest for weapon in bag"
+    },
+    {
+      "t": 715,
+      "title": "September 11, 2003"
+    },
+    {
+      "t": 719,
+      "title": "collapsible baton"
+    },
+    {
+      "t": 723,
+      "title": "reported prior assault and 25 stitches"
+    },
+    {
+      "t": 730,
+      "title": "weapon in bag"
+    },
+    {
+      "t": 733,
+      "title": "baton mechanism fragment"
+    },
+    {
+      "t": 752,
+      "title": "stand-up comedian/adult-industry worker"
+    },
+    {
+      "t": 777,
+      "title": "grew comfortable"
+    },
+    {
+      "t": 783,
+      "title": "masked insult/slur"
+    },
+    {
+      "t": 797,
+      "title": "rough 11.5-year no-contact period"
+    },
+    {
+      "t": 802,
+      "title": "Yoshi’s later mental-health framework"
+    },
+    {
+      "t": 811,
+      "title": "borderline/antisocial personality labels"
+    },
+    {
+      "t": 816,
+      "title": "narcissism speculation"
+    },
+    {
+      "t": 834,
+      "title": "metaphorical car-accident framing"
+    },
+    {
+      "t": 854,
+      "title": "Joey Kurtzman"
+    },
+    {
+      "t": 858,
+      "title": "reported mediator role"
+    },
+    {
+      "t": 863,
+      "title": "Yoshi’s assessment of Choe’s parents"
+    },
+    {
+      "t": 868,
+      "title": "cheap Beverly Hills residence"
+    },
+    {
+      "t": 875,
+      "title": "school/social-network theory"
+    },
+    {
+      "t": 879,
+      "title": "stereotyped advice about gay men"
+    },
+    {
+      "t": 913,
+      "title": "racial/religious social-network theory"
+    },
+    {
+      "t": 920,
+      "title": "speaker generalization"
+    },
+    {
+      "t": 930,
+      "title": "ethnic/gender stereotype"
+    },
+    {
+      "t": 936,
+      "title": "ethnic stereotype"
+    },
+    {
+      "t": 940,
+      "title": "Joey Kurtzman"
+    },
+    {
+      "t": 944,
+      "title": "quit/returned/was fired chronology"
+    },
+    {
+      "t": 960,
+      "title": "host’s compressed chip-source recollection"
+    },
+    {
+      "t": 968,
+      "title": "Japanese snack/chip gift"
+    },
+    {
+      "t": 973,
+      "title": "warehouse cleaning/employment role"
+    },
+    {
+      "t": 981,
+      "title": "friend/cast/worker power overlap"
+    },
+    {
+      "t": 1002,
+      "title": "reported fan harassment"
+    },
+    {
+      "t": 1014,
+      "title": "1:19 audience-ratio joke/estimate"
+    },
+    {
+      "t": 1026,
+      "title": "host’s inaccurate purchase/travel compression"
+    },
+    {
+      "t": 1070,
+      "title": "DVDASA Episode 010"
+    },
+    {
+      "t": 1073,
+      "title": "fan nickname for Episode 10 conflict"
+    },
+    {
+      "t": 1079,
+      "title": "racial slur framing"
+    },
+    {
+      "t": 1081,
+      "title": "Red Wedding / Game of Thrones"
+    },
+    {
+      "t": 1109,
+      "title": "reported employment/payment change"
+    },
+    {
+      "t": 1113,
+      "title": "food insecurity self-report"
+    },
+    {
+      "t": 1121,
+      "title": "David’s snacks/chips"
+    },
+    {
+      "t": 1137,
+      "title": "Yoshi’s allegation about Choe"
+    },
+    {
+      "t": 1143,
+      "title": "private person/home allegation"
+    },
+    {
+      "t": 1151,
+      "title": "reported work duties"
+    },
+    {
+      "t": 1158,
+      "title": "Joey Kurtzman and private roommate"
+    },
+    {
+      "t": 1161,
+      "title": "retaliatory/comparative allegation"
+    },
+    {
+      "t": 1169,
+      "title": "Yoshi Didn’t"
+    },
+    {
+      "t": 1187,
+      "title": "Yoshi characterizes evasive answer as not lying"
+    },
+    {
+      "t": 1200,
+      "title": "Yoshi’s description of Choe’s reaction"
+    },
+    {
+      "t": 1208,
+      "title": "janitor, Bobby and Critter/security staff"
+    },
+    {
+      "t": 1213,
+      "title": "security-camera review claim"
+    },
+    {
+      "t": 1220,
+      "title": "Yoshi’s addiction labels for Choe"
+    },
+    {
+      "t": 1226,
+      "title": "analogy to taking heroin from a person with addiction"
+    },
+    {
+      "t": 1256,
+      "title": "Asa Akira"
+    },
+    {
+      "t": 1260,
+      "title": "believed me"
+    },
+    {
+      "t": 1275,
+      "title": "reported demand involving Critter"
+    },
+    {
+      "t": 1285,
+      "title": "tsunami metaphor"
+    },
+    {
+      "t": 1297,
+      "title": "retrospective self/other characterization"
+    },
+    {
+      "t": 1309,
+      "title": "near-fights/verbal conflicts at restaurant"
+    },
+    {
+      "t": 1316,
+      "title": "please calm down"
+    },
+    {
+      "t": 1318,
+      "title": "Joey Kurtzman"
+    },
+    {
+      "t": 1333,
+      "title": "Your Mom’s House"
+    },
+    {
+      "t": 1337,
+      "title": "Christina Pazsitzky"
+    },
+    {
+      "t": 1338,
+      "title": "Tom Segura"
+    },
+    {
+      "t": 1375,
+      "title": "looking back, Dave"
+    },
+    {
+      "t": 1396,
+      "title": "Yoshi’s retrospective interpretation"
+    },
+    {
+      "t": 1427,
+      "title": "Brody Stevens"
+    },
+    {
+      "t": 1430,
+      "title": "Brandon Iron"
+    },
+    {
+      "t": 1436,
+      "title": "three family suicides"
+    },
+    {
+      "t": 1443,
+      "title": "COVID-19 pandemic"
+    },
+    {
+      "t": 1452,
+      "title": "Your Mom’s House"
+    },
+    {
+      "t": 1457,
+      "title": "paid clinical-study participation"
+    },
+    {
+      "t": 1469,
+      "title": "Austin study screening"
+    },
+    {
+      "t": 1477,
+      "title": "Alzheimer’s disease study"
+    },
+    {
+      "t": 1478,
+      "title": "$11,000 for twenty days"
+    },
+    {
+      "t": 1497,
+      "title": "get locked up"
+    },
+    {
+      "t": 1508,
+      "title": "Evil Angel"
+    },
+    {
+      "t": 1515,
+      "title": "supplement income"
+    },
+    {
+      "t": 1531,
+      "title": "COVID-19"
+    },
+    {
+      "t": 1550,
+      "title": "pandemic assistance self-report"
+    },
+    {
+      "t": 1560,
+      "title": "private friends Stan/Stanley and Karen"
+    },
+    {
+      "t": 1563,
+      "title": "Arizona"
+    },
+    {
+      "t": 1568,
+      "title": "ten-mile walks in 105°F weather"
+    },
+    {
+      "t": 1577,
+      "title": "mental-health and healthy-living podcasts"
+    },
+    {
+      "t": 1602,
+      "title": "medieval-doctor metaphor"
+    },
+    {
+      "t": 1615,
+      "title": "Yoshi’s interpretation of Choe’s intent"
+    },
+    {
+      "t": 1628,
+      "title": "COVID-19"
+    },
+    {
+      "t": 1637,
+      "title": "Joey Kurtzman"
+    },
+    {
+      "t": 1640,
+      "title": "one quarter from medical-school graduation"
+    },
+    {
+      "t": 1646,
+      "title": "clinic/psychiatric-hospital volunteering"
+    },
+    {
+      "t": 1654,
+      "title": "reported clinical-population comparison"
+    },
+    {
+      "t": 1681,
+      "title": "Beverly Hills"
+    },
+    {
+      "t": 1689,
+      "title": "KGB / Koreans Gone Bad"
+    },
+    {
+      "t": 1697,
+      "title": "reported conditional return invitation"
+    },
+    {
+      "t": 1703,
+      "title": "two-job-loss claim"
+    },
+    {
+      "t": 1714,
+      "title": "counterfactual private conversation"
+    },
+    {
+      "t": 1735,
+      "title": "host’s hypothetical pre-show framing"
+    },
+    {
+      "t": 1754,
+      "title": "real"
+    },
+    {
+      "t": 1763,
+      "title": "de-escalation metaphor"
+    },
+    {
+      "t": 1767,
+      "title": "escalation metaphor"
+    },
+    {
+      "t": 1808,
+      "title": "called a thief"
+    },
+    {
+      "t": 1815,
+      "title": "Yoshi explicitly admits eating the chips"
+    },
+    {
+      "t": 1817,
+      "title": "Yoshi Didn’t"
+    },
+    {
+      "t": 1825,
+      "title": "Yoshi’s addiction framing"
+    },
+    {
+      "t": 1832,
+      "title": "quarter-billion-dollar wealth claim"
+    },
+    {
+      "t": 1836,
+      "title": "Vegas penthouse story"
+    },
+    {
+      "t": 1839,
+      "title": "reported cash amount"
+    },
+    {
+      "t": 1848,
+      "title": "Joey ate chocolate bars"
+    },
+    {
+      "t": 1868,
+      "title": "Joey Kurtzman, childhood friend"
+    }
+  ],
+  "connections": [
+    {
+      "t": 5,
+      "to": "DVDASA Episode 010",
+      "relationship": "The retrospective revisits an already-audited primary event; the primary controls sequence and object provenance."
+    },
+    {
+      "t": 102,
+      "to": "Your Mom’s House",
+      "relationship": "Nadav’s long familiarity with Yoshi arises through the early podcast network."
+    },
+    {
+      "t": 118,
+      "to": "DVDASA cast",
+      "relationship": "Yoshi describes his ensemble role around Choe and Asa Akira without making Choe present here."
+    },
+    {
+      "t": 245,
+      "to": "secondary Choe biography",
+      "relationship": "Yoshi and Nadav recap Facebook and early-career stories with explicit memory uncertainty."
+    },
+    {
+      "t": 381,
+      "to": "embedded Hims advertisement",
+      "relationship": "A dated sponsor block is part of this upload edition, not Choe biography."
+    },
+    {
+      "t": 503,
+      "to": "Thumbs Up!",
+      "relationship": "Yoshi explains how travel representation motivated his initial contact with Choe."
+    },
+    {
+      "t": 613,
+      "to": "adult-media outreach",
+      "relationship": "His former networking tactic connects adult-industry work to meeting artists and comedians."
+    },
+    {
+      "t": 644,
+      "to": "2007 first meeting",
+      "relationship": "The account places Yoshi, Choe and Harry Kim together before later podcast work."
+    },
+    {
+      "t": 707,
+      "to": "parallel arrest dates",
+      "relationship": "Yoshi links his LAX baton arrest to Choe’s Japan arrest as a relationship coincidence."
+    },
+    {
+      "t": 802,
+      "to": "retrospective mental-health frame",
+      "relationship": "Later learning changes Yoshi’s moral interpretation but does not establish any diagnosis."
+    },
+    {
+      "t": 854,
+      "to": "Joey Kurtzman mediation",
+      "relationship": "A recurring friend becomes a reported bridge in conflicts."
+    },
+    {
+      "t": 981,
+      "to": "friend/cast/employee overlap",
+      "relationship": "The chip dispute becomes legible as a power and role-boundary conflict, not merely food comedy."
+    },
+    {
+      "t": 1070,
+      "to": "primary chip incident",
+      "relationship": "The original Episode 10 supplies the fuller ownership, gift, trust, apology and power sequence."
+    },
+    {
+      "t": 1113,
+      "to": "food insecurity",
+      "relationship": "Yoshi’s hunger explains why he ate the snacks without negating the property violation."
+    },
+    {
+      "t": 1169,
+      "to": "Yoshi Didn’t",
+      "relationship": "The podcast-title joke explains the evasive response and why participants interpreted it differently."
+    },
+    {
+      "t": 1275,
+      "to": "Critter and threatened violence",
+      "relationship": "A reported face-punch permission demand requires primary context and cannot become a current threat."
+    },
+    {
+      "t": 1375,
+      "to": "accountability and compassion",
+      "relationship": "Yoshi holds his own mistakes alongside a later compassionate reinterpretation."
+    },
+    {
+      "t": 1427,
+      "to": "suicide losses",
+      "relationship": "Brody Stevens, Brandon Iron and family deaths become catalysts for reflection."
+    },
+    {
+      "t": 1457,
+      "to": "paid clinical studies",
+      "relationship": "Economic precarity and repeated confinement shape Yoshi’s experience of pandemic lockdown."
+    },
+    {
+      "t": 1577,
+      "to": "podcast self-education",
+      "relationship": "Walking and listening become a self-directed learning process, not clinical credentialing."
+    },
+    {
+      "t": 1637,
+      "to": "Joey’s reported clinical knowledge",
+      "relationship": "Third-party credentials and comparisons require verification and remain hearsay."
+    },
+    {
+      "t": 1815,
+      "to": "explicit admission",
+      "relationship": "Yoshi clearly admits eating the chips while preserving his explanation of the joke."
+    },
+    {
+      "t": 1986,
+      "to": "friendship as seasons",
+      "relationship": "The television-season metaphor frames estrangement without claiming reconciliation."
+    },
+    {
+      "t": 2140,
+      "to": "Pervert / fantasy management",
+      "relationship": "A proposed show and theory move beyond Choe into Yoshi’s current-at-recording work."
+    },
+    {
+      "t": 2245,
+      "to": "Survivors for Change",
+      "relationship": "The historic charity plug requires current organizational verification before routing users."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 5,
+      "claim": "Choe fired Yoshi solely over rare chips acquired abroad.",
+      "assessment": "The primary Episode 10 says Rody researched and brought Japanese snacks and shows a broader conflict; later employment chronology is separate.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 255,
+      "claim": "Sean Parker connected Choe to Facebook through a salon relationship.",
+      "assessment": "Secondary oral-history chain with private-person detail; verify through primary company/contract sources.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 321,
+      "claim": "Facebook offered exactly $65,000 cash.",
+      "assessment": "Amount conflicts with common retellings and lacks primary evidence here; do not canonicalize.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 333,
+      "claim": "Choe became rich overnight only from Facebook.",
+      "assessment": "Headline compression; Yoshi separately claims prior wealth from art/gambling, neither audited here.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 503,
+      "claim": "Thumbs Up! scenes happened exactly as summarized.",
+      "assessment": "Yoshi and Nadav are recalling edited work; primary documentary captions/video control route, injections, illness and river events.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 644,
+      "claim": "Yoshi first met Choe in 2007.",
+      "assessment": "First-person date estimate and useful chronology lead; verify against source publication/messages if necessary.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 707,
+      "claim": "Yoshi and Choe were arrested on the same day.",
+      "assessment": "Specific September 11, 2003 coincidence claim requires independent legal/date records.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 802,
+      "claim": "Choe has borderline, antisocial personality disorder or narcissism.",
+      "assessment": "Lay retrospective speculation; no clinician or diagnostic evidence appears.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 944,
+      "claim": "Yoshi’s quit/return/firing chronology is completely established.",
+      "assessment": "Useful first-person summary, but individual episode/employment records must resolve exact sequence.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 960,
+      "claim": "Choe personally bought the chips while abroad.",
+      "assessment": "Contradicted by audited Episode 10, which attributes researched Japanese snacks to Rody’s gift.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1113,
+      "claim": "Yoshi ate the chips because he lacked food money.",
+      "assessment": "Direct first-person explanation; contextualizes but does not erase taking another person’s property.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1137,
+      "claim": "Choe regularly broke into private homes and stole food.",
+      "assessment": "Yoshi’s allegation/analogy; not established biography and private targets remain protected.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1220,
+      "claim": "Choe clinically has food, gambling and sex addictions.",
+      "assessment": "Yoshi’s labels are not diagnoses; primary self-reports may be indexed separately as attributed speech.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1275,
+      "claim": "Choe ordered Critter to assault Yoshi.",
+      "assessment": "Retrospective account; exact language, consent and outcome require the primary recording. No assault is inferred.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1427,
+      "claim": "Suicides proved Yoshi’s diagnoses of Choe.",
+      "assessment": "The losses motivated reflection; they do not validate diagnosis.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1478,
+      "claim": "A twenty-day Alzheimer’s study paid $111,000.",
+      "assessment": "Caption likely damaged, but $11,000 is still only probable pending listening or study documents.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1640,
+      "claim": "Joey nearly completed medical school and had psychiatric expertise.",
+      "assessment": "Third-party credential claim requiring primary verification.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1832,
+      "claim": "Choe was worth a quarter billion and kept half a million dollars in a Vegas room.",
+      "assessment": "Unsupported wealth/custody estimates; never searchable as current holdings/location.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 1943,
+      "claim": "Choe currently has a wife and children.",
+      "assessment": "Yoshi’s uncertain report; private family/current status should not be exposed.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    },
+    {
+      "t": 2245,
+      "claim": "Survivors for Change and the listed shows/URLs remain active.",
+      "assessment": "Historic plugs only; current status, safeguarding and donation routing require primary checks.",
+      "source": "https://www.youtube.com/watch?v=IA-7LDa5VXY"
+    }
+  ],
+  "content_warnings": [
+    "scam-mechanics joke",
+    "sexual-health advertisement",
+    "ED medication",
+    "border crossing and injections",
+    "polluted-river danger",
+    "adult-industry material",
+    "weapon possession and arrest",
+    "assault and stitches",
+    "racial and antisemitic stereotypes",
+    "homophobic stereotyping",
+    "lay mental-health diagnoses",
+    "food/gambling/sex addiction labels",
+    "food insecurity",
+    "employment and financial distress",
+    "threatened physical violence",
+    "suicide deaths",
+    "family suicide",
+    "COVID-19",
+    "paid clinical studies",
+    "private health eligibility",
+    "serial killers and rape",
+    "child sexual abuse",
+    "Hitler, Stalin and Mao comparisons",
+    "strong language"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "David Choe is absent; publish no Choe line-level turns or voice-enrollment windows"
+    },
+    {
+      "t": 0,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 2,
+      "rule": "retain raw speech; canonical program title"
+    },
+    {
+      "t": 5,
+      "rule": "retain raw speech; secondary framing; exact chronology compare primary"
+    },
+    {
+      "t": 9,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 17,
+      "rule": "retain raw speech; publisher credit; spelling from captions"
+    },
+    {
+      "t": 26,
+      "rule": "retain raw speech; not actual fraud plan"
+    },
+    {
+      "t": 36,
+      "rule": "retain raw speech; canonical service"
+    },
+    {
+      "t": 46,
+      "rule": "retain raw speech; do not surface as fraud guidance"
+    },
+    {
+      "t": 67,
+      "rule": "retain raw speech; canonical platform; historic appeal"
+    },
+    {
+      "t": 73,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 77,
+      "rule": "retain raw speech; host name/context"
+    },
+    {
+      "t": 102,
+      "rule": "retain raw speech; canonical podcast"
+    },
+    {
+      "t": 109,
+      "rule": "retain raw speech; canonical work/publisher"
+    },
+    {
+      "t": 118,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 125,
+      "rule": "retain raw speech; canonical show expansion"
+    },
+    {
+      "t": 134,
+      "rule": "retain raw speech; not one-event summary"
+    },
+    {
+      "t": 167,
+      "rule": "retain raw speech; host memory; verify publication chronology"
+    },
+    {
+      "t": 183,
+      "rule": "retain raw speech; canonical show title"
+    },
+    {
+      "t": 186,
+      "rule": "retain raw speech; canonical title"
+    },
+    {
+      "t": 186.5,
+      "rule": "retain raw speech; canonical show context"
+    },
+    {
+      "t": 216,
+      "rule": "retain raw speech; public shorthand; no line-level choe speech"
+    },
+    {
+      "t": 227,
+      "rule": "retain raw speech; retrospective-evidence frame"
+    },
+    {
+      "t": 242,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 245,
+      "rule": "retain raw speech; biographical descriptor"
+    },
+    {
+      "t": 250,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 255,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 259,
+      "rule": "retain raw speech; secondary memory, not verified chronology"
+    },
+    {
+      "t": 266,
+      "rule": "retain raw speech; oral-history lead"
+    },
+    {
+      "t": 283,
+      "rule": "retain raw speech; oral-history lead"
+    },
+    {
+      "t": 291,
+      "rule": "retain raw speech; do not identify or reconstruct"
+    },
+    {
+      "t": 294,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 298,
+      "rule": "retain raw speech; speaker explicitly qualifies memory"
+    },
+    {
+      "t": 318,
+      "rule": "retain raw speech; primary-company records required"
+    },
+    {
+      "t": 321,
+      "rule": "retain raw speech; do not canonicalize without contract/company evidence"
+    },
+    {
+      "t": 328,
+      "rule": "retain raw speech; asset claim; verify"
+    },
+    {
+      "t": 333,
+      "rule": "retain raw speech; not audited timing/value"
+    },
+    {
+      "t": 350,
+      "rule": "retain raw speech; secondary relationship context"
+    },
+    {
+      "t": 360,
+      "rule": "retain raw speech; damaged phrasing"
+    },
+    {
+      "t": 376,
+      "rule": "retain raw speech; canonical title"
+    },
+    {
+      "t": 378,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 381,
+      "rule": "retain raw speech; edition boundary"
+    },
+    {
+      "t": 388,
+      "rule": "retain raw speech; ad copy"
+    },
+    {
+      "t": 391,
+      "rule": "retain raw speech; historic branded product"
+    },
+    {
+      "t": 395,
+      "rule": "retain raw speech; medication name; listening/ad copy verify"
+    },
+    {
+      "t": 419,
+      "rule": "retain raw speech; historic sponsor url; current status not implied"
+    },
+    {
+      "t": 439,
+      "rule": "retain raw speech; preserve ad disclaimer"
+    },
+    {
+      "t": 446,
+      "rule": "retain raw speech; obvious asr repair"
+    },
+    {
+      "t": 460,
+      "rule": "retain raw speech; ad close"
+    },
+    {
+      "t": 465,
+      "rule": "retain raw speech; secondary testimony, not audited"
+    },
+    {
+      "t": 468,
+      "rule": "retain raw speech; not financial record"
+    },
+    {
+      "t": 482,
+      "rule": "retain raw speech; occupation context"
+    },
+    {
+      "t": 488,
+      "rule": "retain raw speech; canonical publisher"
+    },
+    {
+      "t": 503,
+      "rule": "retain raw speech; canonical work title"
+    },
+    {
+      "t": 505,
+      "rule": "retain raw speech; canonical public participant"
+    },
+    {
+      "t": 528,
+      "rule": "retain raw speech; secondary recap; compare primary documentary"
+    },
+    {
+      "t": 533,
+      "rule": "retain raw speech; memory uncertainty"
+    },
+    {
+      "t": 539,
+      "rule": "retain raw speech; dangerous/medical claim; primary video controls"
+    },
+    {
+      "t": 545,
+      "rule": "retain raw speech; do not turn into evasion guidance"
+    },
+    {
+      "t": 564,
+      "rule": "retain raw speech; canonical place"
+    },
+    {
+      "t": 573,
+      "rule": "retain raw speech; not diagnosed fact"
+    },
+    {
+      "t": 580,
+      "rule": "retain raw speech; listening required"
+    },
+    {
+      "t": 591,
+      "rule": "retain raw speech; cultural representation theme"
+    },
+    {
+      "t": 596,
+      "rule": "retain raw speech; speaker generalization"
+    },
+    {
+      "t": 610,
+      "rule": "retain raw speech; occupation self-report"
+    },
+    {
+      "t": 613,
+      "rule": "retain raw speech; historic networking method, not recommendation"
+    },
+    {
+      "t": 616,
+      "rule": "retain raw speech; public work/person; exact title verify"
+    },
+    {
+      "t": 631,
+      "rule": "retain raw speech; canonical place"
+    },
+    {
+      "t": 641,
+      "rule": "retain raw speech; private location; do not map"
+    },
+    {
+      "t": 644,
+      "rule": "retain raw speech; oral-history date; verify"
+    },
+    {
+      "t": 651,
+      "rule": "retain raw speech; do not identify residence"
+    },
+    {
+      "t": 658,
+      "rule": "retain raw speech; obvious asr repair"
+    },
+    {
+      "t": 662,
+      "rule": "retain raw speech; obvious asr repair"
+    },
+    {
+      "t": 664,
+      "rule": "retain raw speech; contextual surname; no speaker inference"
+    },
+    {
+      "t": 670,
+      "rule": "retain raw speech; do not identify"
+    },
+    {
+      "t": 695,
+      "rule": "retain raw speech; yoshi biography"
+    },
+    {
+      "t": 697,
+      "rule": "retain raw speech; podcast context"
+    },
+    {
+      "t": 707,
+      "rule": "retain raw speech; verify dates independently"
+    },
+    {
+      "t": 710,
+      "rule": "retain raw speech; legal self-report"
+    },
+    {
+      "t": 715,
+      "rule": "retain raw speech; date claim; verify"
+    },
+    {
+      "t": 719,
+      "rule": "retain raw speech; weapon identity; no concealment guidance"
+    },
+    {
+      "t": 723,
+      "rule": "retain raw speech; health/legal self-report"
+    },
+    {
+      "t": 730,
+      "rule": "retain raw speech; live repetition"
+    },
+    {
+      "t": 733,
+      "rule": "retain raw speech; do not operationalize"
+    },
+    {
+      "t": 752,
+      "rule": "retain raw speech; occupation context"
+    },
+    {
+      "t": 777,
+      "rule": "retain raw speech; caption repair"
+    },
+    {
+      "t": 783,
+      "rule": "retain raw speech; preserve mask; no reconstruction"
+    },
+    {
+      "t": 797,
+      "rule": "retain raw speech; recording-date self-report"
+    },
+    {
+      "t": 802,
+      "rule": "retain raw speech; not diagnosis of choe"
+    },
+    {
+      "t": 811,
+      "rule": "retain raw speech; lay speculation; never canonical diagnosis"
+    },
+    {
+      "t": 816,
+      "rule": "retain raw speech; not diagnosis"
+    },
+    {
+      "t": 834,
+      "rule": "retain raw speech; not physical incident"
+    },
+    {
+      "t": 854,
+      "rule": "retain raw speech; canonical recurring public name"
+    },
+    {
+      "t": 858,
+      "rule": "retain raw speech; relationship self-report"
+    },
+    {
+      "t": 863,
+      "rule": "retain raw speech; not neutral fact"
+    },
+    {
+      "t": 868,
+      "rule": "retain raw speech; do not map private residence"
+    },
+    {
+      "t": 875,
+      "rule": "retain raw speech; speaker opinion"
+    },
+    {
+      "t": 879,
+      "rule": "retain raw speech; preserve; not guidance or group fact"
+    },
+    {
+      "t": 913,
+      "rule": "retain raw speech; offensive stereotype; not fact"
+    },
+    {
+      "t": 920,
+      "rule": "retain raw speech; not demographic fact"
+    },
+    {
+      "t": 930,
+      "rule": "retain raw speech; not family or group fact"
+    },
+    {
+      "t": 936,
+      "rule": "retain raw speech; not fact"
+    },
+    {
+      "t": 940,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 944,
+      "rule": "retain raw speech; compare primary episodes"
+    },
+    {
+      "t": 960,
+      "rule": "retain raw speech; contradicted by primary episode 10"
+    },
+    {
+      "t": 968,
+      "rule": "retain raw speech; primary episode 10 says rody researched and brought snacks"
+    },
+    {
+      "t": 973,
+      "rule": "retain raw speech; do not reduce role without employment record"
+    },
+    {
+      "t": 981,
+      "rule": "retain raw speech; core relationship evidence"
+    },
+    {
+      "t": 1002,
+      "rule": "retain raw speech; do not expose accounts"
+    },
+    {
+      "t": 1014,
+      "rule": "retain raw speech; not analytics"
+    },
+    {
+      "t": 1026,
+      "rule": "retain raw speech; primary episode 10 controls"
+    },
+    {
+      "t": 1070,
+      "rule": "retain raw speech; canonical primary source"
+    },
+    {
+      "t": 1073,
+      "rule": "retain raw speech; community label"
+    },
+    {
+      "t": 1079,
+      "rule": "retain raw speech; preserve; not neutral metadata"
+    },
+    {
+      "t": 1081,
+      "rule": "retain raw speech; canonical reference"
+    },
+    {
+      "t": 1109,
+      "rule": "retain raw speech; financial relationship self-report"
+    },
+    {
+      "t": 1113,
+      "rule": "retain raw speech; private financial context"
+    },
+    {
+      "t": 1121,
+      "rule": "retain raw speech; ownership dispute"
+    },
+    {
+      "t": 1137,
+      "rule": "retain raw speech; attribute; primary/other-source verification required"
+    },
+    {
+      "t": 1143,
+      "rule": "retain raw speech; never identify or map"
+    },
+    {
+      "t": 1151,
+      "rule": "retain raw speech; employment self-report"
+    },
+    {
+      "t": 1158,
+      "rule": "retain raw speech; protect roommate"
+    },
+    {
+      "t": 1161,
+      "rule": "retain raw speech; does not excuse taking property"
+    },
+    {
+      "t": 1169,
+      "rule": "retain raw speech; canonical podcast title/pun"
+    },
+    {
+      "t": 1187,
+      "rule": "retain raw speech; interpretation, not objective finding"
+    },
+    {
+      "t": 1200,
+      "rule": "retain raw speech; avoid medicalized fact"
+    },
+    {
+      "t": 1208,
+      "rule": "retain raw speech; roles and names require primary record"
+    },
+    {
+      "t": 1213,
+      "rule": "retain raw speech; do not expose system details"
+    },
+    {
+      "t": 1220,
+      "rule": "retain raw speech; lay/secondary claims, not diagnoses"
+    },
+    {
+      "t": 1226,
+      "rule": "retain raw speech; not clinical comparison"
+    },
+    {
+      "t": 1256,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1260,
+      "rule": "retain raw speech; obvious asr repair"
+    },
+    {
+      "t": 1275,
+      "rule": "retain raw speech; primary episode context required; no current threat"
+    },
+    {
+      "t": 1285,
+      "rule": "retain raw speech; not literal disaster"
+    },
+    {
+      "t": 1297,
+      "rule": "retain raw speech; not diagnosis"
+    },
+    {
+      "t": 1309,
+      "rule": "retain raw speech; do not claim completed assaults"
+    },
+    {
+      "t": 1316,
+      "rule": "retain raw speech; obvious context"
+    },
+    {
+      "t": 1318,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1333,
+      "rule": "retain raw speech; canonical podcast"
+    },
+    {
+      "t": 1337,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1338,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1375,
+      "rule": "retain raw speech; caption repair"
+    },
+    {
+      "t": 1396,
+      "rule": "retain raw speech; not medical diagnosis"
+    },
+    {
+      "t": 1427,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1430,
+      "rule": "retain raw speech; canonical public name; death claim verify"
+    },
+    {
+      "t": 1436,
+      "rule": "retain raw speech; high-sensitivity family privacy"
+    },
+    {
+      "t": 1443,
+      "rule": "retain raw speech; canonical event"
+    },
+    {
+      "t": 1452,
+      "rule": "retain raw speech; canonical title"
+    },
+    {
+      "t": 1457,
+      "rule": "retain raw speech; health/financial self-report"
+    },
+    {
+      "t": 1469,
+      "rule": "retain raw speech; do not surface current logistics"
+    },
+    {
+      "t": 1477,
+      "rule": "retain raw speech; canonical term"
+    }
+  ]
+}

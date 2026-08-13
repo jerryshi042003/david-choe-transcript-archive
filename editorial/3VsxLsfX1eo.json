@@ -1,0 +1,444 @@
+{
+  "episode_id": "3VsxLsfX1eo",
+  "title": "DAVID CHOE: HIGH RISK (2015) | Official Trailer",
+  "reviewed_on": "2026-07-31",
+  "summary": "A 1:39 official trailer assembled from music and at least three short interview fragments. One fragment dismisses college and grades, then cuts into art-school nude drawing, an upside-down drawing exercise and badly damaged rooftop/tagging/sexual imagery. Another speaker praises David Choe’s individuality and ability; a final voice challenges normal/weird/strange labels before collapsing into an unintelligible family-related clause. Every idea and source mask remains, but the montage is not reconstructed as one argument. “Six-year-old naked dude” is not accepted as a minor reference because the age phrase is implausible and audio-required. Rooftop, tagging, dreadlocks/armpits and the final family sentence remain unresolved. Music and editing cannot supply speaker identities; zero named turns ship.",
+  "quality": {
+    "raw_segments": 28,
+    "clean_segments": 28,
+    "raw_words_approx": 171,
+    "clean_words_approx": 171,
+    "duration_seconds": 99,
+    "accepted_context_decisions": 30,
+    "chapters": 30,
+    "connections": 17,
+    "content_warnings": 11,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 36
+  },
+  "speaker_policy": {
+    "status": "multi-speaker montage unresolved",
+    "reason": "The trailer cuts among music and multiple voices without caption prefixes. David Choe is the subject, not automatically every speaker. No montage adjacency, title or visual assumption is sufficient for named turns or enrollment; publish zero named turns."
+  },
+  "people": [
+    "David Choe (trailer subject; line-level speaker status unresolved)",
+    "multiple unidentified interview voices",
+    "unidentified nude figure model [age unresolved; do not infer minor]",
+    "unidentified person in damaged sexual/bohemian fragment"
+  ],
+  "places": [
+    "art/drawing classroom",
+    "uncertain rooftop setting",
+    "unresolved Disneyland/reality reference"
+  ],
+  "works": [
+    "David Choe: High Risk (2015) official trailer",
+    "David Choe: High Risk documentary",
+    "unidentified drawing/artwork"
+  ],
+  "themes": [
+    "future planning",
+    "college and grades",
+    "art education",
+    "nude figure drawing",
+    "upside-down drawing",
+    "graffiti/tagging fragment",
+    "sexual/bohemian imagery",
+    "individuality",
+    "artistic ability",
+    "normality",
+    "weirdness",
+    "promotional montage",
+    "caption uncertainty"
+  ],
+  "chapters": [
+    {
+      "t": 1,
+      "title": "music/opening montage"
+    },
+    {
+      "t": 17,
+      "title": "people plan their future"
+    },
+    {
+      "t": 19,
+      "title": "college aspiration example"
+    },
+    {
+      "t": 22,
+      "title": "speaker says he never cared about college [source mask retained]"
+    },
+    {
+      "t": 23,
+      "title": "another person’s lack of concern about college [source mask retained]"
+    },
+    {
+      "t": 25,
+      "title": "lack of concern about grades"
+    },
+    {
+      "t": 27,
+      "title": "dismissive rhetorical question"
+    },
+    {
+      "t": 28,
+      "title": "“it’s not realistic” [referent unresolved]"
+    },
+    {
+      "t": 37,
+      "title": "art-school drawing-class setup"
+    },
+    {
+      "t": 39,
+      "title": "source-masked description of a nude male figure model; age wording is likely damaged"
+    },
+    {
+      "t": 40,
+      "title": "drawing homework example"
+    },
+    {
+      "t": 43,
+      "title": "draw the model upside down"
+    },
+    {
+      "t": 45,
+      "title": "[uncertain rooftop phrase]"
+    },
+    {
+      "t": 47,
+      "title": "[likely tagging/graffiti fragment]"
+    },
+    {
+      "t": 47.5,
+      "title": "making out"
+    },
+    {
+      "t": 48,
+      "title": "[uncertain dreadlocks/hairy-armpits description]"
+    },
+    {
+      "t": 52,
+      "title": "Disneyland is contrasted with the real world"
+    },
+    {
+      "t": 55,
+      "title": "music/montage transition"
+    },
+    {
+      "t": 62,
+      "title": "David Choe is his own person"
+    },
+    {
+      "t": 66,
+      "title": "does things in his own way"
+    },
+    {
+      "t": 68,
+      "title": "approval of individuality"
+    },
+    {
+      "t": 69,
+      "title": "speaker says many people believe in Choe’s ability"
+    },
+    {
+      "t": 71,
+      "title": "ability to do amazing things"
+    },
+    {
+      "t": 74,
+      "title": "normal/weird/strange categories are challenged"
+    },
+    {
+      "t": 76,
+      "title": "labels can describe the same person/thing"
+    },
+    {
+      "t": 82,
+      "title": "everyone can be both weird and normal"
+    },
+    {
+      "t": 85,
+      "title": "“we’re all solid” [wording retained; meaning uncertain]"
+    },
+    {
+      "t": 86,
+      "title": "[severely damaged final clause about people/families]"
+    },
+    {
+      "t": 88,
+      "title": "“that’s life” closes the spoken montage"
+    },
+    {
+      "t": 92,
+      "title": "music/outro"
+    }
+  ],
+  "connections": [
+    {
+      "t": 1,
+      "to": "promotional montage",
+      "relationship": "Music and hard cuts establish a trailer rather than a continuous interview."
+    },
+    {
+      "t": 17,
+      "to": "future planning",
+      "relationship": "A planning/college example opens the first excerpt."
+    },
+    {
+      "t": 22,
+      "to": "college rejection",
+      "relationship": "Masked profanity underscores the speaker’s lack of investment in college."
+    },
+    {
+      "t": 25,
+      "to": "grades",
+      "relationship": "Academic evaluation is grouped with conventional future planning."
+    },
+    {
+      "t": 28,
+      "to": "unresolved realism claim",
+      "relationship": "The referent of “not realistic” is lost at the montage cut."
+    },
+    {
+      "t": 37,
+      "to": "art-school drawing",
+      "relationship": "A new fragment introduces a nude-figure drawing class."
+    },
+    {
+      "t": 39,
+      "to": "damaged age wording",
+      "relationship": "The caption appears to say a six-year-old nude model; that implausible/high-risk phrase requires audio and is not accepted."
+    },
+    {
+      "t": 43,
+      "to": "upside-down drawing",
+      "relationship": "A perceptual drawing exercise is juxtaposed with off-campus activity."
+    },
+    {
+      "t": 45,
+      "to": "rooftop/tagging fragment",
+      "relationship": "Likely graffiti context remains non-operational and listening-required."
+    },
+    {
+      "t": 47.5,
+      "to": "sexual/bohemian imagery",
+      "relationship": "Making out, dreadlocks and hairy armpits form a damaged montage fragment."
+    },
+    {
+      "t": 52,
+      "to": "Disneyland/reality contrast",
+      "relationship": "The speaker contrasts an idealized environment with the real world, but the exact target is unclear."
+    },
+    {
+      "t": 62,
+      "to": "David Choe individuality",
+      "relationship": "A different speaker praises Choe as his own person."
+    },
+    {
+      "t": 69,
+      "to": "belief in ability",
+      "relationship": "The praise shifts from individuality to future potential."
+    },
+    {
+      "t": 74,
+      "to": "normal/weird/strange",
+      "relationship": "Another fragment rejects stable labels of normality and weirdness."
+    },
+    {
+      "t": 82,
+      "to": "shared weirdness/normality",
+      "relationship": "The categories are made universal and overlapping."
+    },
+    {
+      "t": 86,
+      "to": "damaged family clause",
+      "relationship": "The final philosophical sentence is too corrupted to support interpretation."
+    },
+    {
+      "t": 92,
+      "to": "trailer close",
+      "relationship": "Music ends the montage without resolving prior fragments."
+    }
+  ],
+  "source_notes": [
+    "Multicom Entertainment official trailer upload.",
+    "Automatic captions contain 28 long records / 171 words / 1:39.",
+    "Music divides at least three spoken fragments.",
+    "The trailer subject is not automatically the speaker of each line.",
+    "Source profanity masks remain masked.",
+    "The “six-year-old” age in a nude-model clause is implausible and not accepted without audio/video.",
+    "The rooftop/tagging clause is badly damaged.",
+    "The dreadlocks/hairy-armpits clause is badly damaged.",
+    "No operational graffiti or climbing detail is published.",
+    "The David Choe individuality/potential praise is clear but its speaker is unidentified.",
+    "The normal/weird/strange argument is clear until its final clause.",
+    "“We’re all solid” remains semantically uncertain.",
+    "The family-related final line is unusable without listening.",
+    "Promotional cuts destroy continuous chronology.",
+    "No voice enrollment windows are accepted.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "masked profanity",
+    "nudity",
+    "age ambiguity",
+    "sexual imagery",
+    "graffiti/trespass risk",
+    "rooftop/climbing risk",
+    "education dismissal",
+    "multiple unidentified speakers",
+    "severe transcript damage",
+    "promotional decontextualization",
+    "family-clause uncertainty"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; the trailer is a multi-speaker montage without prefixes"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve every fragment and mask but never reconstruct cuts as one continuous testimony"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not assert that a nude model is six years old; age wording is audio/video-required"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not surface rooftop/tagging content as trespass, climbing or graffiti guidance"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not infer identities, relationships or sexual conduct from the damaged dreadlocks/armpits fragment"
+    },
+    {
+      "t": -0.01,
+      "rule": "do not repair the final family clause, “solid,” or other damaged wording for fluency without evidence"
+    },
+    {
+      "t": 1,
+      "rule": "exclude from voice enrollment and continuous-argument reconstruction"
+    },
+    {
+      "t": 17,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 19,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 22,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 23,
+      "rule": "retain uncertainty and require audio/video review; do not fabricate fluent copy"
+    },
+    {
+      "t": 25,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 27,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 28,
+      "rule": "retain uncertainty and require audio/video review; do not fabricate fluent copy"
+    },
+    {
+      "t": 37,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 39,
+      "rule": "preserve raw/masked context with uncertainty; do not infer a minor, sexual identity or explicit scene"
+    },
+    {
+      "t": 40,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 43,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 45,
+      "rule": "retain as listening-required montage context; exclude trespass, climbing or graffiti guidance"
+    },
+    {
+      "t": 47,
+      "rule": "retain as listening-required montage context; exclude trespass, climbing or graffiti guidance"
+    },
+    {
+      "t": 47.5,
+      "rule": "preserve raw/masked context with uncertainty; do not infer a minor, sexual identity or explicit scene"
+    },
+    {
+      "t": 48,
+      "rule": "preserve raw/masked context with uncertainty; do not infer a minor, sexual identity or explicit scene"
+    },
+    {
+      "t": 52,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 55,
+      "rule": "exclude from voice enrollment and continuous-argument reconstruction"
+    },
+    {
+      "t": 62,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 66,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 68,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 69,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 71,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 74,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 76,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 82,
+      "rule": "preserve as an attributed montage fragment; do not infer speaker identity by adjacency"
+    },
+    {
+      "t": 85,
+      "rule": "retain uncertainty and require audio/video review; do not fabricate fluent copy"
+    },
+    {
+      "t": 86,
+      "rule": "retain uncertainty and require audio/video review; do not fabricate fluent copy"
+    },
+    {
+      "t": 88,
+      "rule": "exclude from voice enrollment and continuous-argument reconstruction"
+    },
+    {
+      "t": 92,
+      "rule": "exclude from voice enrollment and continuous-argument reconstruction"
+    }
+  ]
+}

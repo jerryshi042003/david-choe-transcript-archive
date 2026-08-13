@@ -1,0 +1,389 @@
+{
+  "episode_id": "yfBr58eH6ls",
+  "title": "The Choe Show-Healing",
+  "reviewed_on": "2026-07-31",
+  "summary": "A sparse 0:59 official-channel monologue that rejects simply moving on from harm, uses removing a bullet before suturing a wound as a metaphor for deeper repair, then links acceptance to liberation and condemnation to oppression. The speaker implicates himself in the condemning stance and contrasts healing together with suffering alone. The final promise of an unprecedented experience is incomplete because the clip does not identify what follows. Three caption phrases—“destructed,” “thickness” and “person I invent”—are semantically insecure and remain listening-required instead of being silently polished. “Healers,” bullet removal and sutures are rhetoric rather than clinical credentials or medical guidance. Every idea remains uncensored; zero named turns ship.",
+  "quality": {
+    "raw_segments": 7,
+    "clean_segments": 7,
+    "raw_words_approx": 124,
+    "clean_words_approx": 124,
+    "duration_seconds": 59,
+    "accepted_context_decisions": 26,
+    "chapters": 26,
+    "connections": 14,
+    "content_warnings": 10,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 32
+  },
+  "speaker_policy": {
+    "status": "all line-level turns unresolved",
+    "reason": "The official David Choe channel establishes source-level provenance but automatic captions do not label the performer. The sparse monologue and missing parent-show context are insufficient for enrollment. Publish zero named turns."
+  },
+  "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)",
+    "unnamed person referenced inside an uncertain caption phrase"
+  ],
+  "places": [
+    "unidentified Choe Show setting"
+  ],
+  "works": [
+    "The Choe Show-Healing",
+    "unresolved parent Choe Show segment"
+  ],
+  "themes": [
+    "healing",
+    "unresolved harm",
+    "wound metaphor",
+    "premature closure",
+    "acceptance",
+    "condemnation",
+    "liberation",
+    "oppression",
+    "self-implication",
+    "solidarity",
+    "collective healing",
+    "solitary suffering",
+    "experiential promise"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "healing thesis begins"
+    },
+    {
+      "t": 1,
+      "title": "cannot simply move on"
+    },
+    {
+      "t": 3,
+      "title": "cannot simply get over harm"
+    },
+    {
+      "t": 4,
+      "title": "remove the bullet before closing the wound"
+    },
+    {
+      "t": 5,
+      "title": "close a fresh wound without addressing what remains inside"
+    },
+    {
+      "t": 8,
+      "title": "surface closure alone will not heal the metaphorical wound"
+    },
+    {
+      "t": 10,
+      "title": "collective healer identity"
+    },
+    {
+      "t": 12,
+      "title": "[uncertain: “destructed” likely miscaptioned]"
+    },
+    {
+      "t": 14,
+      "title": "[uncertain: “thickness” may be “sickness”]"
+    },
+    {
+      "t": 16,
+      "title": "darkness paired with prior uncertain noun"
+    },
+    {
+      "t": 17,
+      "title": "acceptance as prerequisite"
+    },
+    {
+      "t": 19,
+      "title": "unless it is accepted"
+    },
+    {
+      "t": 20,
+      "title": "rejecting others reproduces separation"
+    },
+    {
+      "t": 21,
+      "title": "condemnation critique"
+    },
+    {
+      "t": 23,
+      "title": "condemnation does not liberate"
+    },
+    {
+      "t": 25,
+      "title": "condemnation is framed as oppression"
+    },
+    {
+      "t": 26,
+      "title": "speaker locates oppression in his own condemning stance"
+    },
+    {
+      "t": 28,
+      "title": "[uncertain: “person I invent” is not semantically secure]"
+    },
+    {
+      "t": 30,
+      "title": "failure of solidarity/friendship"
+    },
+    {
+      "t": 31,
+      "title": "fellow sufferer/“sucker” wording retained pending audio"
+    },
+    {
+      "t": 33,
+      "title": "heal together"
+    },
+    {
+      "t": 36,
+      "title": "suffer alone and slowly"
+    },
+    {
+      "t": 39,
+      "title": "isolated connective into closing promise"
+    },
+    {
+      "t": 45,
+      "title": "speaker makes a direct promise"
+    },
+    {
+      "t": 47,
+      "title": "claims an unprecedented coming experience"
+    },
+    {
+      "t": 58,
+      "title": "clip closes on lifetime-scale promise"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "healing after harm",
+      "relationship": "The monologue rejects simple moving on or getting over harm."
+    },
+    {
+      "t": 4,
+      "to": "bullet-removal metaphor",
+      "relationship": "Unaddressed harm is imagined as a bullet left inside a wound."
+    },
+    {
+      "t": 5,
+      "to": "surface closure",
+      "relationship": "Sutures represent premature closure without deeper repair."
+    },
+    {
+      "t": 10,
+      "to": "healer identity",
+      "relationship": "“Healers” is a rhetorical collective, not proof of clinical credentials."
+    },
+    {
+      "t": 12,
+      "to": "uncertain caption cluster",
+      "relationship": "Three damaged phrases prevent a falsely smooth transcript."
+    },
+    {
+      "t": 16,
+      "to": "darkness",
+      "relationship": "Difficult material must be faced rather than rejected."
+    },
+    {
+      "t": 17,
+      "to": "acceptance",
+      "relationship": "Acceptance is named as the condition for difference and repair."
+    },
+    {
+      "t": 21,
+      "to": "condemnation",
+      "relationship": "Condemnation is contrasted with liberation."
+    },
+    {
+      "t": 25,
+      "to": "oppression",
+      "relationship": "The condemning stance is described as reproducing oppression."
+    },
+    {
+      "t": 26,
+      "to": "self-implication",
+      "relationship": "The speaker identifies himself, not only an external enemy, as capable of oppression."
+    },
+    {
+      "t": 30,
+      "to": "friendship/solidarity",
+      "relationship": "Failure to accept blocks friendship with the other person."
+    },
+    {
+      "t": 33,
+      "to": "collective healing",
+      "relationship": "Healing together is contrasted with slow solitary suffering."
+    },
+    {
+      "t": 45,
+      "to": "promise",
+      "relationship": "The ending shifts from ethical argument into a large experiential promise."
+    },
+    {
+      "t": 58,
+      "to": "excerpt boundary",
+      "relationship": "The promise ends without identifying the promised event or parent source."
+    }
+  ],
+  "source_notes": [
+    "Official David Choe channel upload.",
+    "Automatic captions contain seven long records / 124 words / 0:59.",
+    "The clip is a sparse monologue and likely excerpt.",
+    "The promised experience/event is not identified.",
+    "Bullet removal and suturing form one metaphorical sequence.",
+    "“Healers” is a rhetorical identity, not a licensed-profession claim.",
+    "“Destructed” is likely damaged but cannot be securely repaired from text.",
+    "“Thickness” may be “sickness,” but that remains unaccepted pending audio.",
+    "“Person I invent” is not semantically secure.",
+    "“Fellow sucker” may be literal or damaged and stays visible.",
+    "Condemnation/oppression are conceptual claims, not verified allegations against a real person.",
+    "The source does not establish a medical or mental-health treatment.",
+    "No publisher speaker prefixes exist.",
+    "Raw wording remains immutable."
+  ],
+  "content_warnings": [
+    "trauma/healing language",
+    "bullet and wound imagery",
+    "sutures/medical metaphor",
+    "oppression",
+    "condemnation",
+    "darkness",
+    "mental-health/clinical overreading risk",
+    "unresolved caption wording",
+    "promotional promise",
+    "clip truncation"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; no publisher speaker prefixes exist"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve every idea and all uncertainty; do not replace damaged phrases with aesthetically smoother guesses"
+    },
+    {
+      "t": -0.04,
+      "rule": "treat bullets, wounds and sutures as metaphor, not emergency, surgical or trauma-treatment guidance"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not turn rhetorical “healers” into medical, therapeutic or spiritual credentials"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not identify a real oppressor, condemned person or patient from the sparse text"
+    },
+    {
+      "t": -0.01,
+      "rule": "retain the incomplete ending and do not invent the promised Choe Show experience"
+    },
+    {
+      "t": 0,
+      "rule": "preserve as rhetorical metaphor/self-description; do not present as medical or trauma-treatment instruction"
+    },
+    {
+      "t": 1,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 3,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 4,
+      "rule": "preserve as rhetorical metaphor/self-description; do not present as medical or trauma-treatment instruction"
+    },
+    {
+      "t": 5,
+      "rule": "preserve as rhetorical metaphor/self-description; do not present as medical or trauma-treatment instruction"
+    },
+    {
+      "t": 8,
+      "rule": "preserve as rhetorical metaphor/self-description; do not present as medical or trauma-treatment instruction"
+    },
+    {
+      "t": 10,
+      "rule": "preserve as rhetorical metaphor/self-description; do not present as medical or trauma-treatment instruction"
+    },
+    {
+      "t": 12,
+      "rule": "retain uncertainty marker and require audio review; do not silently infer smoother wording"
+    },
+    {
+      "t": 14,
+      "rule": "retain uncertainty marker and require audio review; do not silently infer smoother wording"
+    },
+    {
+      "t": 16,
+      "rule": "retain uncertainty marker and require audio review; do not silently infer smoother wording"
+    },
+    {
+      "t": 17,
+      "rule": "retain uncertainty marker and require audio review; do not silently infer smoother wording"
+    },
+    {
+      "t": 19,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 20,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 21,
+      "rule": "preserve within the complete acceptance/solidarity argument; do not isolate as accusation of a real person"
+    },
+    {
+      "t": 23,
+      "rule": "preserve within the complete acceptance/solidarity argument; do not isolate as accusation of a real person"
+    },
+    {
+      "t": 25,
+      "rule": "preserve within the complete acceptance/solidarity argument; do not isolate as accusation of a real person"
+    },
+    {
+      "t": 26,
+      "rule": "preserve within the complete acceptance/solidarity argument; do not isolate as accusation of a real person"
+    },
+    {
+      "t": 28,
+      "rule": "retain uncertainty marker and require audio review; do not silently infer smoother wording"
+    },
+    {
+      "t": 30,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 31,
+      "rule": "retain uncertainty marker and require audio review; do not silently infer smoother wording"
+    },
+    {
+      "t": 33,
+      "rule": "preserve as rhetorical metaphor/self-description; do not present as medical or trauma-treatment instruction"
+    },
+    {
+      "t": 36,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 39,
+      "rule": "preserve as rhetorical metaphor/self-description; do not present as medical or trauma-treatment instruction"
+    },
+    {
+      "t": 45,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 47,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    },
+    {
+      "t": 58,
+      "rule": "preserve in the sparse monologue; do not expand the missing parent-show context"
+    }
+  ]
+}

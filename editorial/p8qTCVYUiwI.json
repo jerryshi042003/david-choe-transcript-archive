@@ -1,0 +1,613 @@
+{
+  "episode_id": "p8qTCVYUiwI",
+  "title": "How to Paint a Colorful Year in 72 Hours—Art Tutorial",
+  "editorial_title": "A year batched in 72 hours: tools, timelines, CAPTCHA, ads, and paper dialogue",
+  "reviewed_on": "2026-08-01",
+  "summary": "A 6:34 process monologue rather than a conventional painting tutorial. Tool envy yields an inside-you refrain; the speaker claims one annual 72-hour studio batch becomes a year of edited releases, avoids social/electronics and trusts a team, jokes about telepathic texts and multiple Earth time streams, satirizes AI/job fear through CAPTCHA, proposes blocking senses, personifies paper/trees, interrupts himself with a Monk Bags ad, speculates about inner-teen and unhoused self-talk, discloses sleep/reality difficulty, and reconciles with the paper through betrayal/help/apology language. All claims, stigma, promotion and vulnerability remain attributed; none becomes production, science, safety, psychology, product or crisis fact.",
+  "quality": {
+    "raw_segments": 61,
+    "clean_segments": 61,
+    "raw_words_approx": 1083,
+    "duration_seconds": 394,
+    "accepted_context_decisions": 61,
+    "chapters": 51,
+    "connections": 12,
+    "content_warnings": 11,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 29,
+    "public_restriction_spans": 51
+  },
+  "speaker_policy": {
+    "status": "single process monologue with performed dialogue/ad; identity withheld",
+    "reason": "Channel/self-address context suggests David Choe, but captions lack prefix and independently held-out acoustic validation."
+  },
+  "people": [
+    "David Choe (publisher/self-address context; no named turn)",
+    "unidentified monologue speaker",
+    "unidentified publishing team/friends",
+    "generic unhoused woman/man, past boss and ex-wife examples"
+  ],
+  "places": [
+    "studio",
+    "other room",
+    "online/web",
+    "Earth 2/Earth-616/Earth B/Saturn (metaphorical/fictional)"
+  ],
+  "works": [
+    "How to Paint a Colorful Year in 72 Hours—Art Tutorial",
+    "Monk Bags promotion",
+    "unidentified good-morning song fragment",
+    "decades of footage (self-report)"
+  ],
+  "themes": [
+    "tools versus inner resources",
+    "batch production",
+    "edited time",
+    "social-media separation",
+    "team trust",
+    "telepathy joke",
+    "multiverse metaphor",
+    "AI/CAPTCHA",
+    "sensory deprivation",
+    "conflict/noise",
+    "tree personification",
+    "embedded ad",
+    "inner teenager",
+    "unhoused self-talk generalization",
+    "sleep/reality disclosure",
+    "paper reconciliation",
+    "cold-press cutoff"
+  ],
+  "chapters": [
+    {
+      "t": 0.24,
+      "title": "paper/canvas direct address"
+    },
+    {
+      "t": 5.2,
+      "title": "tool questions"
+    },
+    {
+      "t": 14.24,
+      "title": "tool-envy attitude rejected"
+    },
+    {
+      "t": 19.84,
+      "title": "everything needed is inside"
+    },
+    {
+      "t": 26.8,
+      "title": "sausage-made spoiler"
+    },
+    {
+      "t": 30.88,
+      "title": "skip fantasy / studio day"
+    },
+    {
+      "t": 38.72,
+      "title": "one-day-a-year claim / artificial light"
+    },
+    {
+      "t": 49.52,
+      "title": "72-hour painting / costume change"
+    },
+    {
+      "t": 56.16,
+      "title": "24/48/72-hour talking and painting"
+    },
+    {
+      "t": 64.4,
+      "title": "segments across next year"
+    },
+    {
+      "t": 70.48,
+      "title": "October versus January 2020"
+    },
+    {
+      "t": 79.12,
+      "title": "self-ban from social/electronics"
+    },
+    {
+      "t": 87.52,
+      "title": "trust team to publish"
+    },
+    {
+      "t": 92.88,
+      "title": "telepathic text/textathy joke"
+    },
+    {
+      "t": 105.36,
+      "title": "decades of footage"
+    },
+    {
+      "t": 110.56,
+      "title": "one versus multiple time streams"
+    },
+    {
+      "t": 122.24,
+      "title": "Earth 2/Earth-616/Earth B/Saturn"
+    },
+    {
+      "t": 131.52,
+      "title": "good-morning song fragment"
+    },
+    {
+      "t": 145.04,
+      "title": "friends/jobs/AI concern"
+    },
+    {
+      "t": 150.56,
+      "title": "website/computer setup"
+    },
+    {
+      "t": 162.32,
+      "title": "robot asks if alive"
+    },
+    {
+      "t": 169.68,
+      "title": "prove-human challenge"
+    },
+    {
+      "t": 179.28,
+      "title": "crosswalk CAPTCHA failure"
+    },
+    {
+      "t": 185.52,
+      "title": "bunny CAPTCHA success"
+    },
+    {
+      "t": 190.72,
+      "title": "sensory categories"
+    },
+    {
+      "t": 196.56,
+      "title": "blocking ears/eyes/mouth"
+    },
+    {
+      "t": 201.12,
+      "title": "podcast/family/neighbors noise"
+    },
+    {
+      "t": 212,
+      "title": "fight fragments"
+    },
+    {
+      "t": 214.8,
+      "title": "staring at paper"
+    },
+    {
+      "t": 220.8,
+      "title": "paper/eyes objection"
+    },
+    {
+      "t": 228.24,
+      "title": "trees have eyes/hear/see claim"
+    },
+    {
+      "t": 235.92,
+      "title": "inside-you refrain"
+    },
+    {
+      "t": 241.76,
+      "title": "perfect control/touch/pigment"
+    },
+    {
+      "t": 263.12,
+      "title": "Monk Bags ad / uncertain product phrase"
+    },
+    {
+      "t": 268.32,
+      "title": "leather/metal/handcrafted/website claims"
+    },
+    {
+      "t": 273.76,
+      "title": "return to program / self-talk"
+    },
+    {
+      "t": 278.96,
+      "title": "specific inner part"
+    },
+    {
+      "t": 284.16,
+      "title": "angry unmet-needs teenager / unhoused example"
+    },
+    {
+      "t": 291.76,
+      "title": "past job/ex-wife examples"
+    },
+    {
+      "t": 300.64,
+      "title": "crazy framing / talking to someone"
+    },
+    {
+      "t": 310,
+      "title": "sleep/reality difficulty"
+    },
+    {
+      "t": 314.8,
+      "title": "talk to paper"
+    },
+    {
+      "t": 321.52,
+      "title": "anything to say / gave everything"
+    },
+    {
+      "t": 330.96,
+      "title": "betrayal/help"
+    },
+    {
+      "t": 339.36,
+      "title": "first conversation/apology"
+    },
+    {
+      "t": 344.56,
+      "title": "tree feet/sap/blood personification"
+    },
+    {
+      "t": 349.52,
+      "title": "start over"
+    },
+    {
+      "t": 353.76,
+      "title": "imperfection warning"
+    },
+    {
+      "t": 359.36,
+      "title": "mutual persistence / hug"
+    },
+    {
+      "t": 373.44,
+      "title": "repeated apology / cutoff"
+    },
+    {
+      "t": 382.16,
+      "title": "cold-press question/cutoff"
+    }
+  ],
+  "connections": [
+    {
+      "t": 5.2,
+      "to": "tool dependence",
+      "relationship": "Repeated tool questions set up the inside-you refrain."
+    },
+    {
+      "t": 38.72,
+      "to": "batch production",
+      "relationship": "A claimed annual 72-hour session explains later segmented releases."
+    },
+    {
+      "t": 79.12,
+      "to": "delegated publication",
+      "relationship": "Self-blocking and team trust separate creation from distribution."
+    },
+    {
+      "t": 110.56,
+      "to": "edited time",
+      "relationship": "Footage cutting becomes a multiple-time-stream metaphor."
+    },
+    {
+      "t": 162.32,
+      "to": "human-machine reversal",
+      "relationship": "A CAPTCHA makes the human prove identity to a robot."
+    },
+    {
+      "t": 196.56,
+      "to": "sensory control",
+      "relationship": "Noise and sensory blocking are proposed as creative constraints."
+    },
+    {
+      "t": 228.24,
+      "to": "paper/tree personification",
+      "relationship": "Paper’s lack of eyes is countered with sentient-tree rhetoric."
+    },
+    {
+      "t": 263.12,
+      "to": "commerce interruption",
+      "relationship": "A product ad interrupts the inside-you/material philosophy."
+    },
+    {
+      "t": 278.96,
+      "to": "self-dialogue",
+      "relationship": "The speaker identifies an angry teenage inner addressee."
+    },
+    {
+      "t": 284.16,
+      "to": "social interpretation",
+      "relationship": "Unhoused self-talk is speculatively mapped to past relationships."
+    },
+    {
+      "t": 310,
+      "to": "sleep/reality disclosure",
+      "relationship": "The monologue moves from theory to current-seeming personal difficulty."
+    },
+    {
+      "t": 321.52,
+      "to": "art as relationship",
+      "relationship": "Paper becomes a betrayed/helping partner in a reconciliation scene."
+    }
+  ],
+  "source_notes": [
+    "All 61 raw caption records remain aligned exactly once.",
+    "Tool, Earth-616, alive/CAPTCHA and regularly scheduled receive supported repairs.",
+    "Textathy, product phrase and cold-press ending remain unresolved or qualified.",
+    "72-hour/year/editing chronology remains self-report, not production proof.",
+    "Sensory blocking is not a complete/safe protocol.",
+    "Trees hearing/seeing and inner materials remain personification/metaphor.",
+    "Monk Bags language is embedded ad copy; availability/material claims are unverified.",
+    "Unhoused/self-talk theory and crazy framing remain speaker generalization, not psychology.",
+    "Sleep/reality difficulty remains dated self-report, not diagnosis/current crisis status.",
+    "Zero named turns or enrollment windows."
+  ],
+  "content_warnings": [
+    "72-hour no-stop work claim",
+    "AI/job-loss fear and CAPTCHA satire",
+    "sensory-deprivation proposal",
+    "family/neighborhood fighting language",
+    "fight fragment",
+    "tree sentience/personification",
+    "embedded product promotion",
+    "unhoused people psychological generalization",
+    "stigmatizing crazy framing",
+    "sleep/reality difficulty self-report",
+    "betrayal/help/apology emotional dialogue"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0.24,
+      "title": "paper/canvas direct address",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 5.2,
+      "title": "tool questions",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 14.24,
+      "title": "tool-envy attitude rejected",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 19.84,
+      "title": "everything needed is inside",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 26.8,
+      "title": "sausage-made spoiler",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 30.88,
+      "title": "skip fantasy / studio day",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 38.72,
+      "title": "one-day-a-year claim / artificial light",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 49.52,
+      "title": "72-hour painting / costume change",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 56.16,
+      "title": "24/48/72-hour talking and painting",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 64.4,
+      "title": "segments across next year",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 70.48,
+      "title": "October versus January 2020",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 79.12,
+      "title": "self-ban from social/electronics",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 87.52,
+      "title": "trust team to publish",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 92.88,
+      "title": "telepathic text/textathy joke",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 105.36,
+      "title": "decades of footage",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 110.56,
+      "title": "one versus multiple time streams",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 122.24,
+      "title": "Earth 2/Earth-616/Earth B/Saturn",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 131.52,
+      "title": "good-morning song fragment",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 145.04,
+      "title": "friends/jobs/AI concern",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 150.56,
+      "title": "website/computer setup",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 162.32,
+      "title": "robot asks if alive",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 169.68,
+      "title": "prove-human challenge",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 179.28,
+      "title": "crosswalk CAPTCHA failure",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 185.52,
+      "title": "bunny CAPTCHA success",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 190.72,
+      "title": "sensory categories",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 196.56,
+      "title": "blocking ears/eyes/mouth",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 201.12,
+      "title": "podcast/family/neighbors noise",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 212,
+      "title": "fight fragments",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 214.8,
+      "title": "staring at paper",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 220.8,
+      "title": "paper/eyes objection",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 228.24,
+      "title": "trees have eyes/hear/see claim",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 235.92,
+      "title": "inside-you refrain",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 241.76,
+      "title": "perfect control/touch/pigment",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 263.12,
+      "title": "Monk Bags ad / uncertain product phrase",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 268.32,
+      "title": "leather/metal/handcrafted/website claims",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 273.76,
+      "title": "return to program / self-talk",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 278.96,
+      "title": "specific inner part",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 284.16,
+      "title": "angry unmet-needs teenager / unhoused example",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 291.76,
+      "title": "past job/ex-wife examples",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 300.64,
+      "title": "crazy framing / talking to someone",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 310,
+      "title": "sleep/reality difficulty",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 314.8,
+      "title": "talk to paper",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 321.52,
+      "title": "anything to say / gave everything",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 330.96,
+      "title": "betrayal/help",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 339.36,
+      "title": "first conversation/apology",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 344.56,
+      "title": "tree feet/sap/blood personification",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 349.52,
+      "title": "start over",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 353.76,
+      "title": "imperfection warning",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 359.36,
+      "title": "mutual persistence / hug",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 373.44,
+      "title": "repeated apology / cutoff",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    },
+    {
+      "t": 382.16,
+      "title": "cold-press question/cutoff",
+      "rule": "attribute to unidentified monologue speaker, metaphor, satire, self-report or ad; do not infer production chronology, safe work/sensory protocol, AI/employment fact, biology, psychology/diagnosis/crisis, product availability/materials, private identity, literal paper speech or named voice"
+    }
+  ]
+}

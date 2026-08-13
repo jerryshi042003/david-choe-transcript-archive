@@ -1,0 +1,1461 @@
+{
+  "episode_id": "_-b2tXazWKs",
+  "title": "David Choe — How to Succeed Creatively",
+  "reviewed_on": "2026-07-31",
+  "summary": "Creative Minds compiles excerpts from already-audited Rich Roll, Huberman, JRE, It All Adds Up and Cartoonist Kayfabe sources into three narrated lessons about autonomy, validation and suffering. The correction layer repairs Choe, Geof Darrow, Rich Roll, Soundgarden, titles and craft terms while preserving sponsor/narrator boundaries. This is a derivative curated path, not a new interview or independent corroboration. Its central acceptance rule keeps Choe’s complete arc: he initially says great art requires suffering, immediately says viewers have already suffered, switches to I-statements and rejects repeatedly manufacturing trauma. Every self-harm, graffiti, assault, suicide, addiction and commercial idea remains, but none becomes guidance or decontextualized inspiration.",
+  "quality": {
+    "raw_segments": 672,
+    "clean_segments": 672,
+    "raw_words_approx": 4742,
+    "clean_words_approx": 4742,
+    "duration_seconds": 1595,
+    "accepted_context_decisions": 170,
+    "chapters": 150,
+    "connections": 24,
+    "content_warnings": 22,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 127
+  },
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; compilation-only source",
+    "reason": "Choe, compiler narration and multiple primary-source interlocutors are audible, but auto-caption arrows and montage adjacency are not publisher identity labels. Publish zero named turns. Speaker training should use independently held-out windows from the full primary sources, not this edited compilation."
+  },
+  "people": [
+    "David Choe",
+    "Geof Darrow",
+    "Rich Roll",
+    "Chris Cornell",
+    "Vince Perez",
+    "Quentin Tarantino [source context only]",
+    "private classmates and alleged teenage assailant"
+  ],
+  "places": [
+    "Los Angeles",
+    "Oakland",
+    "private childhood home and school locations"
+  ],
+  "works": [
+    "How to Succeed Creatively [compilation]",
+    "Slaves & Bulldozers",
+    "Soundgarden",
+    "Nirvana",
+    "Pearl Jam",
+    "Does Great Art Require Suffering?",
+    "It All Adds Up",
+    "David Choe official YouTube excerpts",
+    "Cartoonist Kayfabe excerpts"
+  ],
+  "themes": [
+    "derivative curation",
+    "source hierarchy",
+    "DIY autonomy",
+    "medium and expression",
+    "visual density",
+    "control versus experimentation",
+    "validation",
+    "performance-based love",
+    "workaholism",
+    "trauma and creativity",
+    "self-harm",
+    "graffiti anxiety",
+    "assault and racism",
+    "historic suicidal thoughts",
+    "stopping trauma repetition"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "cold-open excerpt from Choe trauma account"
+    },
+    {
+      "t": 13,
+      "title": "wherever I’ve been—prison, money?"
+    },
+    {
+      "t": 20,
+      "title": "creative-expression question"
+    },
+    {
+      "t": 23,
+      "title": "Playlist Push sponsor mention"
+    },
+    {
+      "t": 32,
+      "title": "David Choe"
+    },
+    {
+      "t": 39,
+      "title": "compiler’s advice framing"
+    },
+    {
+      "t": 43,
+      "title": "Choe addressing another artist’s sketchbook"
+    },
+    {
+      "t": 54,
+      "title": "separate later excerpt begins"
+    },
+    {
+      "t": 62,
+      "title": "train/work hard"
+    },
+    {
+      "t": 75,
+      "title": "variants?"
+    },
+    {
+      "t": 78,
+      "title": "reported high-value art sales"
+    },
+    {
+      "t": 84,
+      "title": "David Choe’s official YouTube channel"
+    },
+    {
+      "t": 98,
+      "title": "trauma-comparison excerpt"
+    },
+    {
+      "t": 110,
+      "title": "Kevin"
+    },
+    {
+      "t": 111,
+      "title": "maximum to them"
+    },
+    {
+      "t": 118,
+      "title": "does it take trauma to create?"
+    },
+    {
+      "t": 128,
+      "title": "compiler’s Lesson 1"
+    },
+    {
+      "t": 131,
+      "title": "compiler interpretation"
+    },
+    {
+      "t": 150,
+      "title": "DIY-independence excerpt"
+    },
+    {
+      "t": 151,
+      "title": "Marvel / DC / Image Comics"
+    },
+    {
+      "t": 154,
+      "title": "zines"
+    },
+    {
+      "t": 160,
+      "title": "DIY / do it yourself"
+    },
+    {
+      "t": 168,
+      "title": "Choe’s general earnings claim"
+    },
+    {
+      "t": 174,
+      "title": "practicality"
+    },
+    {
+      "t": 186,
+      "title": "Zoom meetings"
+    },
+    {
+      "t": 192,
+      "title": "cartoon or television project"
+    },
+    {
+      "t": 204,
+      "title": "institutional dilution critique"
+    },
+    {
+      "t": 215,
+      "title": "painting-process excerpt"
+    },
+    {
+      "t": 230,
+      "title": "medium-selection question"
+    },
+    {
+      "t": 242,
+      "title": "digital archive recollection"
+    },
+    {
+      "t": 243,
+      "title": "paintings from ages eight, ten, eighteen and twenty-three"
+    },
+    {
+      "t": 257,
+      "title": "at age 41"
+    },
+    {
+      "t": 263,
+      "title": "hyperbolic self-assessment"
+    },
+    {
+      "t": 272,
+      "title": "compiler’s lesson framing"
+    },
+    {
+      "t": 282,
+      "title": "compiler interpretation"
+    },
+    {
+      "t": 322,
+      "title": "Choe critiques an artist’s dense work"
+    },
+    {
+      "t": 327,
+      "title": "cheesecake-for-the-whole-meal analogy"
+    },
+    {
+      "t": 337,
+      "title": "law of diminishing returns"
+    },
+    {
+      "t": 366,
+      "title": "negative self-talk"
+    },
+    {
+      "t": 368,
+      "title": "detailed background/fire-escape example"
+    },
+    {
+      "t": 373,
+      "title": "phoned it in"
+    },
+    {
+      "t": 389,
+      "title": "permission for visual breathing room"
+    },
+    {
+      "t": 400,
+      "title": "Geof Darrow"
+    },
+    {
+      "t": 421,
+      "title": "drawing with your big toe"
+    },
+    {
+      "t": 428,
+      "title": "shared sketchbook session"
+    },
+    {
+      "t": 433,
+      "title": "control/technique to pure expression"
+    },
+    {
+      "t": 455,
+      "title": "Geof’s lost it"
+    },
+    {
+      "t": 462,
+      "title": "Choe talking"
+    },
+    {
+      "t": 471,
+      "title": "compiler’s Lesson 2 topic"
+    },
+    {
+      "t": 487,
+      "title": "Playlist Push sponsor block begins"
+    },
+    {
+      "t": 495,
+      "title": "channel-performance sponsor thanks"
+    },
+    {
+      "t": 518,
+      "title": "music-promotion service claim"
+    },
+    {
+      "t": 525,
+      "title": "sponsor’s platform-count claim"
+    },
+    {
+      "t": 527,
+      "title": "sponsor’s tenure claim"
+    },
+    {
+      "t": 553,
+      "title": "historic discount offer"
+    },
+    {
+      "t": 566,
+      "title": "sponsor block ends"
+    },
+    {
+      "t": 578,
+      "title": "Choe childhood-separation excerpt"
+    },
+    {
+      "t": 581,
+      "title": "sent away from home"
+    },
+    {
+      "t": 584,
+      "title": "childhood interpretation"
+    },
+    {
+      "t": 592,
+      "title": "historic internal state"
+    },
+    {
+      "t": 605,
+      "title": "performance-based acceptance belief"
+    },
+    {
+      "t": 624,
+      "title": "Creative Minds narration resumes"
+    },
+    {
+      "t": 648,
+      "title": "Choe"
+    },
+    {
+      "t": 655,
+      "title": "Choe excerpt resumes"
+    },
+    {
+      "t": 664,
+      "title": "performance-based love"
+    },
+    {
+      "t": 671,
+      "title": "free-throw example"
+    },
+    {
+      "t": 673,
+      "title": "escalating hypothetical sale figures"
+    },
+    {
+      "t": 684,
+      "title": "bottomless need metaphor"
+    },
+    {
+      "t": 692,
+      "title": "bottomless pit"
+    },
+    {
+      "t": 694,
+      "title": "compulsion list"
+    },
+    {
+      "t": 699,
+      "title": "Netflix deal example"
+    },
+    {
+      "t": 717,
+      "title": "disease-of-more phrase"
+    },
+    {
+      "t": 730,
+      "title": "return to self/heart"
+    },
+    {
+      "t": 735,
+      "title": "affirmation"
+    },
+    {
+      "t": 748,
+      "title": "acceptance, gratitude and presence"
+    },
+    {
+      "t": 759,
+      "title": "art school in Oakland"
+    },
+    {
+      "t": 763,
+      "title": "California College of Arts and Crafts"
+    },
+    {
+      "t": 787,
+      "title": "Vince Perez"
+    },
+    {
+      "t": 794,
+      "title": "weeklong no-sleep work claim"
+    },
+    {
+      "t": 803,
+      "title": "two private classmates"
+    },
+    {
+      "t": 815,
+      "title": "felt joy when classmates quit"
+    },
+    {
+      "t": 822,
+      "title": "self-described addiction pattern"
+    },
+    {
+      "t": 833,
+      "title": "workaholism"
+    },
+    {
+      "t": 834,
+      "title": "rough seven-year retrospective"
+    },
+    {
+      "t": 838,
+      "title": "stand-up comedy"
+    },
+    {
+      "t": 843,
+      "title": "art-sale scale self-report"
+    },
+    {
+      "t": 845,
+      "title": "self-help group"
+    },
+    {
+      "t": 850,
+      "title": "titans of industry"
+    },
+    {
+      "t": 854,
+      "title": "less-than attitude"
+    },
+    {
+      "t": 864,
+      "title": "don’t do drugs"
+    },
+    {
+      "t": 868,
+      "title": "competitive hyperbole"
+    },
+    {
+      "t": 879,
+      "title": "reactive way to live"
+    },
+    {
+      "t": 887,
+      "title": "interviewer’s synthesis"
+    },
+    {
+      "t": 896,
+      "title": "art-as-sport framing"
+    },
+    {
+      "t": 906,
+      "title": "interviewer’s causal interpretation"
+    },
+    {
+      "t": 910,
+      "title": "interviewer links drive to abandonment"
+    },
+    {
+      "t": 926,
+      "title": "ego-as-beast metaphor"
+    },
+    {
+      "t": 952,
+      "title": "compiler’s Lesson 3 begins"
+    },
+    {
+      "t": 954,
+      "title": "compiler self-commentary"
+    },
+    {
+      "t": 971,
+      "title": "compiler’s question"
+    },
+    {
+      "t": 981,
+      "title": "compiler poses suffering question"
+    },
+    {
+      "t": 990,
+      "title": "David Choe"
+    },
+    {
+      "t": 1010,
+      "title": "David Choe’s official YouTube channel"
+    },
+    {
+      "t": 1027,
+      "title": "Choe’s graffiti-origin excerpt"
+    },
+    {
+      "t": 1036,
+      "title": "graffiti rules and structure"
+    },
+    {
+      "t": 1043,
+      "title": "ironic rule critique"
+    },
+    {
+      "t": 1049,
+      "title": "Soundgarden"
+    },
+    {
+      "t": 1053,
+      "title": "Nirvana / Pearl Jam / Soundgarden"
+    },
+    {
+      "t": 1063,
+      "title": "Slaves & Bulldozers"
+    },
+    {
+      "t": 1069,
+      "title": "Chris Cornell"
+    },
+    {
+      "t": 1072,
+      "title": "wide-range praise"
+    },
+    {
+      "t": 1087,
+      "title": "cassette or CD"
+    },
+    {
+      "t": 1095,
+      "title": "gang or graffiti crew"
+    },
+    {
+      "t": 1098,
+      "title": "stolen spray paint"
+    },
+    {
+      "t": 1105,
+      "title": "short lyric fragment"
+    },
+    {
+      "t": 1116,
+      "title": "self-harm before graffiti"
+    },
+    {
+      "t": 1122,
+      "title": "escalating self-harm detail"
+    },
+    {
+      "t": 1135,
+      "title": "private drawing practice"
+    },
+    {
+      "t": 1142,
+      "title": "public-scale anxiety"
+    },
+    {
+      "t": 1154,
+      "title": "territory/overpainting fear"
+    },
+    {
+      "t": 1157,
+      "title": "police-chase fear"
+    },
+    {
+      "t": 1165,
+      "title": "self-harm defense belief"
+    },
+    {
+      "t": 1174,
+      "title": "self-harm arousal technique"
+    },
+    {
+      "t": 1183,
+      "title": "spray-paint learning curve"
+    },
+    {
+      "t": 1197,
+      "title": "David Choe"
+    },
+    {
+      "t": 1201,
+      "title": "signed own name rather than tag"
+    },
+    {
+      "t": 1209,
+      "title": "whale drawing"
+    },
+    {
+      "t": 1213,
+      "title": "come-get-me interpretation"
+    },
+    {
+      "t": 1218,
+      "title": "retrospective unconscious interpretation"
+    },
+    {
+      "t": 1230,
+      "title": "Rich Roll’s podcast"
+    },
+    {
+      "t": 1241,
+      "title": "Does Great Art Require Suffering?"
+    },
+    {
+      "t": 1244,
+      "title": "Choe initially answers yes"
+    },
+    {
+      "t": 1251,
+      "title": "provocative joke/generalization"
+    },
+    {
+      "t": 1263,
+      "title": "universal trauma claim"
+    },
+    {
+      "t": 1279,
+      "title": "Kevin’s ‘maximum to them’ phrase"
+    },
+    {
+      "t": 1288,
+      "title": "initial yes, immediately reframed as already-suffered"
+    },
+    {
+      "t": 1300,
+      "title": "reported severe assault"
+    },
+    {
+      "t": 1302,
+      "title": "Reza"
+    },
+    {
+      "t": 1307,
+      "title": "black eyes and injured/broken nose"
+    },
+    {
+      "t": 1314,
+      "title": "long-lasting emotional harm"
+    },
+    {
+      "t": 1325,
+      "title": "rejected retaliation/training routes"
+    },
+    {
+      "t": 1332,
+      "title": "art as attention/safety strategy"
+    },
+    {
+      "t": 1348,
+      "title": "achievement as protection belief"
+    },
+    {
+      "t": 1364,
+      "title": "counterfactual artistic identity"
+    },
+    {
+      "t": 1379,
+      "title": "trauma description"
+    },
+    {
+      "t": 1381,
+      "title": "assault, mockery and racism"
+    },
+    {
+      "t": 1398,
+      "title": "historic suicidal thoughts without attempt claim"
+    },
+    {
+      "t": 1403,
+      "title": "trauma channeled into art"
+    },
+    {
+      "t": 1410,
+      "title": "age 45 at source recording"
+    },
+    {
+      "t": 1413,
+      "title": "rough three-decade distance"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "source montage",
+      "relationship": "The cold open combines excerpts before the compiler states his argument."
+    },
+    {
+      "t": 23,
+      "to": "Playlist Push",
+      "relationship": "Sponsorship is part of the derivative edition and not evidence about Choe."
+    },
+    {
+      "t": 43,
+      "to": "Geof Darrow sketchbook",
+      "relationship": "Choe’s craft critique values less-controlled expression from an established master."
+    },
+    {
+      "t": 150,
+      "to": "DIY publishing",
+      "relationship": "Choe links zines, graffiti and avoiding large publishers to autonomy and livelihood."
+    },
+    {
+      "t": 215,
+      "to": "medium selection",
+      "relationship": "A loaded brush prompts the question of which medium most honestly carries a feeling."
+    },
+    {
+      "t": 243,
+      "to": "childhood paintings",
+      "relationship": "Looking across ages becomes a critique of technical progress that loses early truth."
+    },
+    {
+      "t": 322,
+      "to": "visual density",
+      "relationship": "Cheesecake and breathing-room metaphors describe intensity, detail and restraint."
+    },
+    {
+      "t": 433,
+      "to": "control versus expression",
+      "relationship": "The Darrow sketchbook becomes evidence that unfamiliar constraints can reopen expression."
+    },
+    {
+      "t": 578,
+      "to": "It All Adds Up",
+      "relationship": "The acceptance excerpt links separation, achievement and performance-based love."
+    },
+    {
+      "t": 673,
+      "to": "rhetorical sale ladder",
+      "relationship": "Escalating prices illustrate bottomless validation rather than verified transactions."
+    },
+    {
+      "t": 717,
+      "to": "disease of more",
+      "relationship": "Recovery language connects work, money, sex and achievement to never-enough thinking."
+    },
+    {
+      "t": 759,
+      "to": "California College of Arts and Crafts",
+      "relationship": "School competition and classmates quitting illustrate early achievement identity."
+    },
+    {
+      "t": 833,
+      "to": "workaholism",
+      "relationship": "Socially rewarded overwork becomes Choe’s hidden addiction framework."
+    },
+    {
+      "t": 1027,
+      "to": "Rich Roll graffiti account",
+      "relationship": "Teenage public-art anxiety, theft and self-harm require full-source context."
+    },
+    {
+      "t": 1049,
+      "to": "Soundgarden",
+      "relationship": "Slaves & Bulldozers becomes part of the pre-graffiti activation ritual."
+    },
+    {
+      "t": 1197,
+      "to": "David Choe and whale signature",
+      "relationship": "Signing his own name and drawing a whale differ from a conventional tag identity."
+    },
+    {
+      "t": 1230,
+      "to": "Does Great Art Require Suffering?",
+      "relationship": "The Rich Roll question anchors the compilation’s final lesson."
+    },
+    {
+      "t": 1288,
+      "to": "already-suffered qualification",
+      "relationship": "Choe’s initial yes is immediately narrowed: suffering need not be deliberately repeated."
+    },
+    {
+      "t": 1300,
+      "to": "teenage assault account",
+      "relationship": "Physical injury, racism, humiliation and shame are framed as creative fuel and lasting harm."
+    },
+    {
+      "t": 1398,
+      "to": "historic suicidal thoughts",
+      "relationship": "Choe explicitly reports thoughts and non-action before describing art as an outlet."
+    },
+    {
+      "t": 1410,
+      "to": "change across decades",
+      "relationship": "At 45 he says he can discuss and release what he reenacted seven years earlier."
+    },
+    {
+      "t": 1452,
+      "to": "treadmill of trauma",
+      "relationship": "Repetition becomes the rejected pattern, not a creative prescription."
+    },
+    {
+      "t": 1463,
+      "to": "compiler synthesis",
+      "relationship": "Creative Minds explicitly rejects the toxic artist-must-suffer narrative."
+    },
+    {
+      "t": 1523,
+      "to": "compiler music project",
+      "relationship": "The closing newsletter/project plug belongs to the compiler, not Choe’s Works catalog."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 0,
+      "claim": "This upload is a new interview with Choe.",
+      "assessment": "It is a narrated compilation assembled from fuller existing sources.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 43,
+      "claim": "Every arrow-prefixed segment has a publisher-verified speaker.",
+      "assessment": "Auto-caption arrows reflect formatting and cuts, not reliable identity labels.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 75,
+      "claim": "Choe made only variants and sold the named work for millions.",
+      "assessment": "The noun is damaged and the sales language is rhetorical/self-report; primary source required.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 150,
+      "claim": "Choe rejects all publishers in every circumstance.",
+      "assessment": "The excerpt is a forceful DIY argument; later Zoom/project discussion shows ongoing institutional negotiation.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 243,
+      "claim": "The listed ages and ‘best at six’ are precise objective assessment.",
+      "assessment": "A damaged age sequence and hyperbolic self-critique; primary episode controls wording.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 322,
+      "claim": "Choe is criticizing his own detailed pages.",
+      "assessment": "He is addressing Geof Darrow; the full primary conversation controls who is being discussed.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 400,
+      "claim": "Jeff Daryl is an artist.",
+      "assessment": "Caption damage for Geof Darrow.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 525,
+      "claim": "Playlist Push had 4,000 verified playlists and seven years’ tenure.",
+      "assessment": "Historical sponsor copy, not independently verified product data or current status.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 673,
+      "claim": "Specific paintings sold for every amount through $500 million.",
+      "assessment": "The amounts escalate rhetorically to demonstrate performance-based acceptance, not ledger entries.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 759,
+      "claim": "The school’s current name remains California College of Arts and Crafts.",
+      "assessment": "Historical name in Choe’s account; current institutional naming should follow primary school records.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 803,
+      "claim": "Two classmates quit solely because of Choe.",
+      "assessment": "Choe’s memory; identities withheld and their motives cannot be independently inferred.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 833,
+      "claim": "Workaholism is Choe’s clinical diagnosis.",
+      "assessment": "Self-help/recovery language and autobiographical framing, not a clinician’s diagnosis.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1027,
+      "claim": "Graffiti rules authorize illegal painting.",
+      "assessment": "Choe describes constraints and anxiety; historical conduct is not instruction.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1105,
+      "claim": "The compilation may reproduce an unlimited lyric excerpt.",
+      "assessment": "Keep only the short source fragment and identify the song; do not expand lyrics.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1116,
+      "claim": "Punching oneself is a useful way to generate creativity or courage.",
+      "assessment": "Historic self-harm account with explicit harm context; never guidance.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1197,
+      "claim": "David Joe was Choe’s tag.",
+      "assessment": "Caption error for David Choe; he explicitly says it was his own name, not a tag/alter ego.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1230,
+      "claim": "Buddy Rich Rolls is a podcast.",
+      "assessment": "Caption error for Rich Roll’s podcast.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1244,
+      "claim": "Choe’s complete answer is simply that suffering is required.",
+      "assessment": "He immediately says suffering already exists and later rejects deliberately repeating trauma.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1302,
+      "claim": "Reza’s identity and alleged assault are independently established.",
+      "assessment": "A first name in autobiographical speech is insufficient for identity resolution or a factual finding.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1398,
+      "claim": "Choe attempted suicide.",
+      "assessment": "He reports suicidal thoughts and explicitly says he did not act in this passage.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1418,
+      "claim": "Choe is permanently recovered from trauma.",
+      "assessment": "Current-at-recording self-assessment; not proof of permanent condition.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    },
+    {
+      "t": 1513,
+      "claim": "The compilation is an independent corroborating source.",
+      "assessment": "Repeated excerpts add curation, not independent evidence; group them with their primary editions.",
+      "source": "https://www.youtube.com/watch?v=_-b2tXazWKs"
+    }
+  ],
+  "content_warnings": [
+    "childhood separation and abandonment",
+    "worthlessness",
+    "masked profanity",
+    "art-market wealth claims",
+    "addiction and workaholism",
+    "trauma universalization",
+    "teenage assault",
+    "racial abuse",
+    "black eyes and broken nose",
+    "historic suicidal thoughts",
+    "self-harm by punching",
+    "stolen spray paint",
+    "illegal graffiti",
+    "gang and police fear",
+    "performance-based love",
+    "sex and drugs",
+    "compulsive achievement",
+    "sleep deprivation",
+    "private classmates",
+    "mental-illness joke",
+    "historic sponsor claims",
+    "strong language"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.02,
+      "rule": "publish zero named line-level turns; auto-caption arrows do not prove speaker identity"
+    },
+    {
+      "t": -0.01,
+      "rule": "group repeated excerpts with audited primary editions; do not count as independent corroboration"
+    },
+    {
+      "t": 0,
+      "rule": "retain compilation text; compilation excerpt; primary source controls"
+    },
+    {
+      "t": 13,
+      "rule": "retain compilation text; do not invent cold-open phrase"
+    },
+    {
+      "t": 20,
+      "rule": "retain compilation text; montage thesis"
+    },
+    {
+      "t": 23,
+      "rule": "retain compilation text; embedded commerce"
+    },
+    {
+      "t": 32,
+      "rule": "retain compilation text; canonical public name"
+    },
+    {
+      "t": 39,
+      "rule": "retain compilation text; not choe’s own title/promise"
+    },
+    {
+      "t": 43,
+      "rule": "retain compilation text; primary-source excerpt"
+    },
+    {
+      "t": 54,
+      "rule": "retain compilation text; montage boundary"
+    },
+    {
+      "t": 62,
+      "rule": "retain compilation text; preserve mask"
+    },
+    {
+      "t": 75,
+      "rule": "retain compilation text; do not invent boast noun"
+    },
+    {
+      "t": 78,
+      "rule": "retain compilation text; self-report; not audited"
+    },
+    {
+      "t": 84,
+      "rule": "retain compilation text; canonical public name/channel"
+    },
+    {
+      "t": 98,
+      "rule": "retain compilation text; source excerpt"
+    },
+    {
+      "t": 110,
+      "rule": "retain compilation text; do not identity-resolve"
+    },
+    {
+      "t": 111,
+      "rule": "retain compilation text; quoted friend phrase; exact source controls"
+    },
+    {
+      "t": 118,
+      "rule": "retain compilation text; question, not consensus"
+    },
+    {
+      "t": 128,
+      "rule": "retain compilation text; editorial framing, not choe’s taxonomy"
+    },
+    {
+      "t": 131,
+      "rule": "retain compilation text; not direct choe doctrine"
+    },
+    {
+      "t": 150,
+      "rule": "retain compilation text; source context"
+    },
+    {
+      "t": 151,
+      "rule": "retain compilation text; canonical companies"
+    },
+    {
+      "t": 154,
+      "rule": "retain compilation text; obvious asr repair"
+    },
+    {
+      "t": 160,
+      "rule": "retain compilation text; canonical term"
+    },
+    {
+      "t": 168,
+      "rule": "retain compilation text; not audited amount"
+    },
+    {
+      "t": 174,
+      "rule": "retain compilation text; caption repair"
+    },
+    {
+      "t": 186,
+      "rule": "retain compilation text; canonical platform"
+    },
+    {
+      "t": 192,
+      "rule": "retain compilation text; work-development self-report"
+    },
+    {
+      "t": 204,
+      "rule": "retain compilation text; speaker opinion"
+    },
+    {
+      "t": 215,
+      "rule": "retain compilation text; direct craft evidence"
+    },
+    {
+      "t": 230,
+      "rule": "retain compilation text; creative-process evidence"
+    },
+    {
+      "t": 242,
+      "rule": "retain compilation text; object context"
+    },
+    {
+      "t": 243,
+      "rule": "retain compilation text; sequence needs primary source"
+    },
+    {
+      "t": 257,
+      "rule": "retain compilation text; dated self-report"
+    },
+    {
+      "t": 263,
+      "rule": "retain compilation text; not objective ranking"
+    },
+    {
+      "t": 272,
+      "rule": "retain compilation text; not choe-authored lesson"
+    },
+    {
+      "t": 282,
+      "rule": "retain compilation text; not literal choe quotation"
+    },
+    {
+      "t": 322,
+      "rule": "retain compilation text; primary conversation context required"
+    },
+    {
+      "t": 327,
+      "rule": "retain compilation text; critical metaphor"
+    },
+    {
+      "t": 337,
+      "rule": "retain compilation text; canonical phrase"
+    },
+    {
+      "t": 366,
+      "rule": "retain compilation text; obvious asr repair"
+    },
+    {
+      "t": 368,
+      "rule": "retain compilation text; craft criticism"
+    },
+    {
+      "t": 373,
+      "rule": "retain compilation text; idiom"
+    },
+    {
+      "t": 389,
+      "rule": "retain compilation text; craft suggestion"
+    },
+    {
+      "t": 400,
+      "rule": "retain compilation text; canonical public name"
+    },
+    {
+      "t": 421,
+      "rule": "retain compilation text; hyperbolic praise"
+    },
+    {
+      "t": 428,
+      "rule": "retain compilation text; primary-source event"
+    },
+    {
+      "t": 433,
+      "rule": "retain compilation text; craft distinction"
+    },
+    {
+      "t": 455,
+      "rule": "retain compilation text; canonical public first name/context"
+    },
+    {
+      "t": 462,
+      "rule": "retain compilation text; obvious asr name damage"
+    },
+    {
+      "t": 471,
+      "rule": "retain compilation text; editorial framing"
+    },
+    {
+      "t": 487,
+      "rule": "retain compilation text; edition boundary"
+    },
+    {
+      "t": 495,
+      "rule": "retain compilation text; compiler commerce"
+    },
+    {
+      "t": 518,
+      "rule": "retain compilation text; sponsor copy, not independent review"
+    },
+    {
+      "t": 525,
+      "rule": "retain compilation text; historic advertising claim"
+    },
+    {
+      "t": 527,
+      "rule": "retain compilation text; historic ad; verify current"
+    },
+    {
+      "t": 553,
+      "rule": "retain compilation text; do not imply current"
+    },
+    {
+      "t": 566,
+      "rule": "retain compilation text; edition boundary"
+    },
+    {
+      "t": 578,
+      "rule": "retain compilation text; primary source controls"
+    },
+    {
+      "t": 581,
+      "rule": "retain compilation text; family self-report"
+    },
+    {
+      "t": 584,
+      "rule": "retain compilation text; not mother’s stated intent"
+    },
+    {
+      "t": 592,
+      "rule": "retain compilation text; mental-health self-report"
+    },
+    {
+      "t": 605,
+      "rule": "retain compilation text; self-analysis"
+    },
+    {
+      "t": 624,
+      "rule": "retain compilation text; edition boundary"
+    },
+    {
+      "t": 648,
+      "rule": "retain compilation text; canonical surname"
+    },
+    {
+      "t": 655,
+      "rule": "retain compilation text; primary source controls"
+    },
+    {
+      "t": 664,
+      "rule": "retain compilation text; self-analysis"
+    },
+    {
+      "t": 671,
+      "rule": "retain compilation text; achievement metaphor"
+    },
+    {
+      "t": 673,
+      "rule": "retain compilation text; not actual sales ledger"
+    },
+    {
+      "t": 684,
+      "rule": "retain compilation text; not diagnosis"
+    },
+    {
+      "t": 692,
+      "rule": "retain compilation text; caption likely damages idiom; primary check"
+    },
+    {
+      "t": 694,
+      "rule": "retain compilation text; self-analysis"
+    },
+    {
+      "t": 699,
+      "rule": "retain compilation text; not specific contract claim"
+    },
+    {
+      "t": 717,
+      "rule": "retain compilation text; recovery framework, not diagnosis"
+    },
+    {
+      "t": 730,
+      "rule": "retain compilation text; self-help language"
+    },
+    {
+      "t": 735,
+      "rule": "retain compilation text; preserve"
+    },
+    {
+      "t": 748,
+      "rule": "retain compilation text; speaker values"
+    },
+    {
+      "t": 759,
+      "rule": "retain compilation text; education self-report"
+    },
+    {
+      "t": 763,
+      "rule": "retain compilation text; historical institution name"
+    },
+    {
+      "t": 787,
+      "rule": "retain compilation text; teacher name from speaker; verify public spelling"
+    },
+    {
+      "t": 794,
+      "rule": "retain compilation text; health/workaholism self-report"
+    },
+    {
+      "t": 803,
+      "rule": "retain compilation text; do not identify"
+    },
+    {
+      "t": 815,
+      "rule": "retain compilation text; historic self-critique"
+    },
+    {
+      "t": 822,
+      "rule": "retain compilation text; not clinical diagnosis"
+    },
+    {
+      "t": 833,
+      "rule": "retain compilation text; obvious asr repair"
+    },
+    {
+      "t": 834,
+      "rule": "retain compilation text; dated relative to source"
+    },
+    {
+      "t": 838,
+      "rule": "retain compilation text; canonical term"
+    },
+    {
+      "t": 843,
+      "rule": "retain compilation text; not audited"
+    },
+    {
+      "t": 845,
+      "rule": "retain compilation text; privacy boundary"
+    },
+    {
+      "t": 850,
+      "rule": "retain compilation text; idiom"
+    },
+    {
+      "t": 854,
+      "rule": "retain compilation text; speaker’s comparison mindset"
+    },
+    {
+      "t": 864,
+      "rule": "retain compilation text; self-report at time described"
+    },
+    {
+      "t": 868,
+      "rule": "retain compilation text; not metric"
+    },
+    {
+      "t": 879,
+      "rule": "retain compilation text; self-assessment"
+    },
+    {
+      "t": 887,
+      "rule": "retain compilation text; not solely choe quotation"
+    },
+    {
+      "t": 896,
+      "rule": "retain compilation text; creative-work theme"
+    },
+    {
+      "t": 906,
+      "rule": "retain compilation text; not diagnosis"
+    },
+    {
+      "t": 910,
+      "rule": "retain compilation text; causal framing, not clinical proof"
+    },
+    {
+      "t": 926,
+      "rule": "retain compilation text; recovery/spiritual framing"
+    },
+    {
+      "t": 952,
+      "rule": "retain compilation text; edition boundary"
+    },
+    {
+      "t": 954,
+      "rule": "retain compilation text; not choe content"
+    },
+    {
+      "t": 971,
+      "rule": "retain compilation text; editorial framing"
+    },
+    {
+      "t": 981,
+      "rule": "retain compilation text; not established fact"
+    },
+    {
+      "t": 990,
+      "rule": "retain compilation text; canonical public name"
+    },
+    {
+      "t": 1010,
+      "rule": "retain compilation text; canonical name/channel"
+    },
+    {
+      "t": 1027,
+      "rule": "retain compilation text; primary rich roll source"
+    },
+    {
+      "t": 1036,
+      "rule": "retain compilation text; speaker experience"
+    },
+    {
+      "t": 1043,
+      "rule": "retain compilation text; not permission to vandalize"
+    },
+    {
+      "t": 1049,
+      "rule": "retain compilation text; canonical band styling"
+    },
+    {
+      "t": 1053,
+      "rule": "retain compilation text; canonical bands"
+    },
+    {
+      "t": 1063,
+      "rule": "retain compilation text; canonical song title"
+    },
+    {
+      "t": 1069,
+      "rule": "retain compilation text; canonical public name"
+    },
+    {
+      "t": 1072,
+      "rule": "retain compilation text; not measured vocal range"
+    },
+    {
+      "t": 1087,
+      "rule": "retain compilation text; preserve uncertainty"
+    },
+    {
+      "t": 1095,
+      "rule": "retain compilation text; speaker says neither"
+    },
+    {
+      "t": 1098,
+      "rule": "retain compilation text; historic theft self-report; no guidance"
+    },
+    {
+      "t": 1105,
+      "rule": "retain compilation text; copyright-limited quoted lyric"
+    },
+    {
+      "t": 1116,
+      "rule": "retain compilation text; high-risk behavior; never guidance"
+    },
+    {
+      "t": 1122,
+      "rule": "retain compilation text; do not operationalize"
+    },
+    {
+      "t": 1135,
+      "rule": "retain compilation text; creative anxiety context"
+    },
+    {
+      "t": 1142,
+      "rule": "retain compilation text; self-report"
+    },
+    {
+      "t": 1154,
+      "rule": "retain compilation text; do not surface as graffiti tactics"
+    },
+    {
+      "t": 1157,
+      "rule": "retain compilation text; not evasion guidance"
+    },
+    {
+      "t": 1165,
+      "rule": "retain compilation text; historic cognition, not advice"
+    },
+    {
+      "t": 1174,
+      "rule": "retain compilation text; restrict from snippets/guidance"
+    },
+    {
+      "t": 1183,
+      "rule": "retain compilation text; benign craft only; illegal context"
+    },
+    {
+      "t": 1197,
+      "rule": "retain compilation text; canonical name"
+    }
+  ]
+}

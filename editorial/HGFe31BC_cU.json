@@ -1,0 +1,725 @@
+{
+  "episode_id": "HGFe31BC_cU",
+  "title": "Aubrey Plaza's Very Filthy Housewarming Present of a David Choe Painting given to Conan O'Brien",
+  "reviewed_on": "2026-07-31",
+  "summary": "A 2:15 Conan-style host/guest clip in which Aubrey Plaza’s title-level appearance frames a story about a large nude painting on wood that she says David Choe gave her as a housewarming gift. She first calls it a naked picture of herself, then corrects that to a nude woman Choe reportedly said was her, describing “Asian eyes” and an unresolved feet-related alteration. She claims Choe was a thief and jailed for years while admitting she does not know what he stole; those remain unverified comedy-stage allegations, not biography. She says he contacted her as a fan, asked to bring a gift, arrived barefoot in a white suit, gave her the work, jumped in the pool and left. The host’s police-report framing is a joke, not evidence of a complaint. The painting later appears in a Thanksgiving/dining-room joke involving her mother. Every allegation, nude detail, racialized phrase and private-home anecdote remains uncensored. Title context identifies the public participants at source level, but captions do not prefix turns; zero named turns ship.",
+  "quality": {
+    "raw_segments": 62,
+    "clean_segments": 62,
+    "raw_words_approx": 393,
+    "clean_words_approx": 393,
+    "duration_seconds": 135,
+    "accepted_context_decisions": 64,
+    "chapters": 64,
+    "connections": 21,
+    "content_warnings": 11,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 70
+  },
+  "speaker_policy": {
+    "status": "host/guest turns structurally evident but line-level names withheld",
+    "reason": "The upload title attributes Aubrey Plaza and Conan O’Brien context, but automatic captions contain no publisher speaker prefixes and visual cuts may include audience/production audio. Do not convert source-level cast into named turns without held-out audiovisual validation."
+  },
+  "people": [
+    "Aubrey Plaza (source-title/visual context; line-level turns unresolved)",
+    "Conan O’Brien (source-title/show context; line-level turns unresolved)",
+    "David Choe",
+    "Aubrey Plaza’s mother",
+    "unidentified audience/production voices if present"
+  ],
+  "places": [
+    "Aubrey Plaza’s private home (no address/property details)",
+    "dining room",
+    "private pool",
+    "Conan interview set"
+  ],
+  "works": [
+    "unnamed David Choe painting on wood",
+    "Aubrey Plaza/Conan interview clip",
+    "unresolved letter from David Choe"
+  ],
+  "themes": [
+    "housewarming gift",
+    "nude portrait ambiguity",
+    "racialized visual description",
+    "unverified criminal-history claims",
+    "first meeting",
+    "artist/fan contact",
+    "private-home visit",
+    "white suit/bare feet",
+    "pool jump",
+    "gift provenance",
+    "police-report joke",
+    "Thanksgiving display",
+    "family prank"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "host restarts question about moving into a new house"
+    },
+    {
+      "t": 1,
+      "title": "guest’s new house"
+    },
+    {
+      "t": 2,
+      "title": "brief confirmation"
+    },
+    {
+      "t": 2.5,
+      "title": "host introduces an unusual household decoration"
+    },
+    {
+      "t": 6,
+      "title": "guest reports uncertainty about the object"
+    },
+    {
+      "t": 8,
+      "title": "why she is going to show it"
+    },
+    {
+      "t": 11,
+      "title": "asks host/audience for interpretive help"
+    },
+    {
+      "t": 13,
+      "title": "artist David Choe"
+    },
+    {
+      "t": 16,
+      "title": "describes Choe as Korean [heritage/nationality wording attributed]"
+    },
+    {
+      "t": 18,
+      "title": "guest says she thinks Choe was a thief"
+    },
+    {
+      "t": 19,
+      "title": "guest claims Choe was jailed for years"
+    },
+    {
+      "t": 21,
+      "title": "host jokes back at guest"
+    },
+    {
+      "t": 22,
+      "title": "hesitation"
+    },
+    {
+      "t": 24,
+      "title": "repeated theft allegation"
+    },
+    {
+      "t": 27,
+      "title": "intensifies allegation"
+    },
+    {
+      "t": 29,
+      "title": "speaker acknowledges lacking specifics"
+    },
+    {
+      "t": 31,
+      "title": "repeats jail claim"
+    },
+    {
+      "t": 33,
+      "title": "guest initially says he painted a nude picture of her"
+    },
+    {
+      "t": 35,
+      "title": "host repeats/clarifies the claim"
+    },
+    {
+      "t": 37,
+      "title": "guest retracts literal nude-portrait wording"
+    },
+    {
+      "t": 42,
+      "title": "painting depicts a nude woman"
+    },
+    {
+      "t": 45,
+      "title": "guest says Choe identified the figure as her"
+    },
+    {
+      "t": 47,
+      "title": "confirmation/check within exchange"
+    },
+    {
+      "t": 47.5,
+      "title": "describes features assigned to the painted figure"
+    },
+    {
+      "t": 50,
+      "title": "racialized “Asian eyes” description of the painted figure"
+    },
+    {
+      "t": 51,
+      "title": "[uncertain “his feet” clause about the figure]"
+    },
+    {
+      "t": 55,
+      "title": "host/guest jokes “the perfect woman”"
+    },
+    {
+      "t": 59,
+      "title": "guest attempts to restore chronology"
+    },
+    {
+      "t": 62,
+      "title": "guest says Choe wrote her a letter"
+    },
+    {
+      "t": 63,
+      "title": "host interrupts the detailed backstory"
+    },
+    {
+      "t": 65,
+      "title": "guest abandons the letter detail"
+    },
+    {
+      "t": 66,
+      "title": "host summarizes artwork as made for guest"
+    },
+    {
+      "t": 68,
+      "title": "guest says Choe contacted her"
+    },
+    {
+      "t": 69,
+      "title": "guest says Choe was a fan of their show"
+    },
+    {
+      "t": 72,
+      "title": "Choe reportedly asked permission to bring a housewarming gift"
+    },
+    {
+      "t": 74,
+      "title": "guest says they had not previously met"
+    },
+    {
+      "t": 76,
+      "title": "guest says Choe arrived at her home"
+    },
+    {
+      "t": 78,
+      "title": "white suit and barefoot appearance"
+    },
+    {
+      "t": 81,
+      "title": "a painting"
+    },
+    {
+      "t": 83,
+      "title": "painting on a wood support"
+    },
+    {
+      "t": 84,
+      "title": "artwork larger than guest"
+    },
+    {
+      "t": 86,
+      "title": "guest again summarizes the nude figure as herself"
+    },
+    {
+      "t": 89,
+      "title": "guest reports receiving the artwork as a gift"
+    },
+    {
+      "t": 91,
+      "title": "guest says Choe jumped into her pool"
+    },
+    {
+      "t": 94,
+      "title": "reported visit ends"
+    },
+    {
+      "t": 94.5,
+      "title": "guest trails off"
+    },
+    {
+      "t": 96,
+      "title": "host jokes that the story resembles taking a police report"
+    },
+    {
+      "t": 99,
+      "title": "host extends police-report joke"
+    },
+    {
+      "t": 102,
+      "title": "brief acknowledgment"
+    },
+    {
+      "t": 102.5,
+      "title": "host begins asking how explicit/unusual the painting is"
+    },
+    {
+      "t": 105,
+      "title": "hesitation before description"
+    },
+    {
+      "t": 107,
+      "title": "guest defers description to visual reveal"
+    },
+    {
+      "t": 109,
+      "title": "transition to visual display"
+    },
+    {
+      "t": 110,
+      "title": "guest says painting is currently in dining room"
+    },
+    {
+      "t": 113,
+      "title": "host asks why it is displayed there"
+    },
+    {
+      "t": 117,
+      "title": "music/visual transition"
+    },
+    {
+      "t": 119,
+      "title": "Thanksgiving display anecdote"
+    },
+    {
+      "t": 123,
+      "title": "guest hosted family"
+    },
+    {
+      "t": 125,
+      "title": "placed/displayed painting in that location"
+    },
+    {
+      "t": 126,
+      "title": "guest deliberately seated her mother facing the painting"
+    },
+    {
+      "t": 129,
+      "title": "positioned mother with clear view"
+    },
+    {
+      "t": 131,
+      "title": "host jokes that the large painting is hard to miss"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "new-house setup",
+      "relationship": "The host introduces the artwork as an unusual decoration in a new home."
+    },
+    {
+      "t": 6,
+      "to": "uncertain ownership/display",
+      "relationship": "The guest keeps the work but says she does not know what to do with it."
+    },
+    {
+      "t": 13,
+      "to": "David Choe",
+      "relationship": "The artist’s name is repaired from the captions."
+    },
+    {
+      "t": 18,
+      "to": "theft/jail allegations",
+      "relationship": "The guest repeatedly asserts criminal history while admitting she does not know the alleged theft."
+    },
+    {
+      "t": 21,
+      "to": "host counter-joke",
+      "relationship": "The host treats the accusation comedically rather than verifying it."
+    },
+    {
+      "t": 33,
+      "to": "nude portrait correction",
+      "relationship": "“Naked picture of me” is immediately narrowed to a nude woman Choe reportedly said was her."
+    },
+    {
+      "t": 50,
+      "to": "racialized eyes",
+      "relationship": "The guest describes “Asian eyes” as a feature assigned to the figure."
+    },
+    {
+      "t": 51,
+      "to": "uncertain feet clause",
+      "relationship": "Caption damage prevents knowing whose feet or what visual alteration is described."
+    },
+    {
+      "t": 59,
+      "to": "backstory interruption",
+      "relationship": "The guest tries to explain a letter but the host cuts directly to the gift."
+    },
+    {
+      "t": 68,
+      "to": "initial contact",
+      "relationship": "Choe reportedly contacted the guest as a fan of the show."
+    },
+    {
+      "t": 72,
+      "to": "permission to visit",
+      "relationship": "The account says he asked to bring a housewarming gift, so “showed up” should not be rewritten as trespass."
+    },
+    {
+      "t": 74,
+      "to": "first meeting",
+      "relationship": "The home visit is described as their first in-person meeting."
+    },
+    {
+      "t": 78,
+      "to": "white suit/bare feet",
+      "relationship": "Appearance detail contributes to the surreal anecdote."
+    },
+    {
+      "t": 83,
+      "to": "wood support and scale",
+      "relationship": "The painting is on wood and larger than the guest."
+    },
+    {
+      "t": 89,
+      "to": "gift provenance",
+      "relationship": "The guest says the painting was given to her; no title/date/value is supplied."
+    },
+    {
+      "t": 91,
+      "to": "pool jump",
+      "relationship": "A reported pool jump ends the visit, but consent/permission is not resolved."
+    },
+    {
+      "t": 96,
+      "to": "police-report joke",
+      "relationship": "The host’s framing is comedy, not evidence that a complaint was made."
+    },
+    {
+      "t": 107,
+      "to": "visual dependence",
+      "relationship": "The captions defer the painting’s explicitness to an on-screen reveal."
+    },
+    {
+      "t": 110,
+      "to": "dining-room display",
+      "relationship": "The guest identifies a room but the archive does not expose a property trail."
+    },
+    {
+      "t": 119,
+      "to": "Thanksgiving",
+      "relationship": "The work becomes part of a family holiday prank/display."
+    },
+    {
+      "t": 126,
+      "to": "mother’s sightline",
+      "relationship": "Seating the mother opposite the nude image supplies the closing joke."
+    }
+  ],
+  "source_notes": [
+    "David Choe Clips upload title identifies Aubrey Plaza and Conan O’Brien context.",
+    "Automatic captions contain 62 segments / 393 words / 2:15.",
+    "David Choe repairs “David Cho.”",
+    "The guest says “Korean artist”; the archive does not silently change the quoted identity wording.",
+    "Theft and years-in-jail statements are unverified allegations inside comedy.",
+    "The speaker explicitly admits not knowing what was allegedly stolen.",
+    "The nude-painting description is corrected within the exchange from literal portrait to a woman Choe reportedly said was Plaza.",
+    "“Asian eyes” is source wording, not archive morphology.",
+    "The feet clause is damaged and remains audiovisual-required.",
+    "The reported letter is not read or summarized.",
+    "The account says Choe asked to bring a housewarming gift.",
+    "The guest says they had never met previously.",
+    "White suit/bare feet, wood support, relative scale and pool jump are attributed recollection.",
+    "No artwork title, date, dimensions, value or current ownership proof is supplied.",
+    "The police-report language is a host joke.",
+    "The painting reveal is visual and cannot be reconstructed from captions alone.",
+    "Private home/interior/family details are not expanded.",
+    "No publisher speaker prefixes exist.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "unverified criminal allegations",
+    "nudity",
+    "sexualized artwork",
+    "racialized feature description",
+    "private-home context",
+    "pool/consent ambiguity",
+    "family privacy",
+    "source comedy",
+    "art provenance uncertainty",
+    "damaged caption wording",
+    "visual-content dependency"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; source-level public cast does not equal caption prefixes"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve all theft/jail allegations but label them unverified and include the speaker’s admitted lack of specifics"
+    },
+    {
+      "t": -0.04,
+      "rule": "preserve nude-art and “Asian eyes” wording uncensored without identifying a real nude body or endorsing racial morphology"
+    },
+    {
+      "t": -0.03,
+      "rule": "keep the feet clause audiovisual-required; do not invent the depicted alteration"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not expose a home/address/property/family trail or infer trespass/permission beyond the reported request to bring a gift"
+    },
+    {
+      "t": -0.01,
+      "rule": "do not infer artwork title, value, dimensions, legal ownership, letter content or unseen visual details"
+    },
+    {
+      "t": 0,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 1,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 2,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 2.5,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 6,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 8,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 11,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 13,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 16,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 18,
+      "rule": "preserve as guest allegation with admitted uncertainty; do not publish as adjudicated biography"
+    },
+    {
+      "t": 19,
+      "rule": "preserve as guest allegation with admitted uncertainty; do not publish as adjudicated biography"
+    },
+    {
+      "t": 21,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 22,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 24,
+      "rule": "preserve as guest allegation with admitted uncertainty; do not publish as adjudicated biography"
+    },
+    {
+      "t": 27,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 29,
+      "rule": "preserve as guest allegation with admitted uncertainty; do not publish as adjudicated biography"
+    },
+    {
+      "t": 31,
+      "rule": "preserve as guest allegation with admitted uncertainty; do not publish as adjudicated biography"
+    },
+    {
+      "t": 33,
+      "rule": "preserve uncensored as artwork/comedy description; do not identify a real nude body, endorse racial morphology or invent the feet clause"
+    },
+    {
+      "t": 35,
+      "rule": "preserve uncensored as artwork/comedy description; do not identify a real nude body, endorse racial morphology or invent the feet clause"
+    },
+    {
+      "t": 37,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 42,
+      "rule": "preserve uncensored as artwork/comedy description; do not identify a real nude body, endorse racial morphology or invent the feet clause"
+    },
+    {
+      "t": 45,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 47,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 47.5,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 50,
+      "rule": "preserve uncensored as artwork/comedy description; do not identify a real nude body, endorse racial morphology or invent the feet clause"
+    },
+    {
+      "t": 51,
+      "rule": "preserve uncensored as artwork/comedy description; do not identify a real nude body, endorse racial morphology or invent the feet clause"
+    },
+    {
+      "t": 55,
+      "rule": "preserve uncensored as artwork/comedy description; do not identify a real nude body, endorse racial morphology or invent the feet clause"
+    },
+    {
+      "t": 59,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 62,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 63,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 65,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 66,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 68,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 69,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 72,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 74,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 76,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 78,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 81,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 83,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 84,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 86,
+      "rule": "preserve uncensored as artwork/comedy description; do not identify a real nude body, endorse racial morphology or invent the feet clause"
+    },
+    {
+      "t": 89,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 91,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 94,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 94.5,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 96,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 99,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 102,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 102.5,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 105,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 107,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 109,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 110,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 113,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 117,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    },
+    {
+      "t": 119,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 123,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 125,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 126,
+      "rule": "retain the anecdote without address/property/family identity expansion; do not infer trespass or consent beyond what is said"
+    },
+    {
+      "t": 129,
+      "rule": "preserve as reported/comedic chronology; do not strengthen provenance or factuality"
+    },
+    {
+      "t": 131,
+      "rule": "preserve structural turn/visual boundary; do not infer named line-level speaker or unseen visual detail"
+    }
+  ]
+}

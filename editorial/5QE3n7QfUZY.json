@@ -1,0 +1,560 @@
+{
+  "episode_id": "5QE3n7QfUZY",
+  "title": "The Trap of Watching Instead of Doing (and How to Escape It)",
+  "editorial_title": "Watching, reviewing, criticizing, doing, and choosing how to feel",
+  "reviewed_on": "2026-08-01",
+  "summary": "A 6:12 self-implicating monologue about replacing direct experience and creation with unboxings, game streams, reviews, criticism and negative media. Finishing Better Call Saul and crying leads immediately to review-seeking; borrowed judgment displaces making. The speaker stages an objection to himself, narrows claims to personal experience, and refuses an aggressive viral rant. Chili fries, a giant pot of plain quinoa, a bowel movement, murder documentaries, pornography, food and a stigmatizing crackhead simile supply intentionally bodily and provocative examples of wanting something but feeling bad afterward. Community support supplies the alternative. The close asks not only what one wants but how one wants to feel afterward. Every contradiction and detail remains; no behavioral, nutritional, therapeutic or addiction claim is invented.",
+  "quality": {
+    "raw_segments": 54,
+    "clean_segments": 54,
+    "raw_words_approx": 971,
+    "duration_seconds": 372,
+    "accepted_context_decisions": 54,
+    "chapters": 46,
+    "connections": 11,
+    "content_warnings": 9,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 16,
+    "public_restriction_spans": 46
+  },
+  "speaker_policy": {
+    "status": "single monologue with performed self-objection; identity withheld",
+    "reason": "Channel/self-address context suggests David Choe, but captions have no speaker prefix or independently held-out acoustic validation."
+  },
+  "people": [
+    "David Choe (channel/self-address context; no named turn)",
+    "unidentified monologue speaker",
+    "Christopher Nolan (criticism example)",
+    "generic children/parents/partners/community"
+  ],
+  "places": [
+    "online/YouTube",
+    "home/kitchen",
+    "community gathering",
+    "sleep/bedtime destination"
+  ],
+  "works": [
+    "The Trap of Watching Instead of Doing (and How to Escape It)",
+    "Better Call Saul",
+    "The Mandalorian",
+    "unidentified music/book/TV reviews",
+    "unidentified Netflix murder documentary"
+  ],
+  "themes": [
+    "watching versus doing",
+    "direct feeling",
+    "review consumption",
+    "criticism",
+    "borrowed taste",
+    "self-implication",
+    "making",
+    "hypercriticism",
+    "viral negativity",
+    "food desire and aftermath",
+    "quinoa anecdote",
+    "body detail",
+    "pornography",
+    "compulsive-consumption simile",
+    "community support",
+    "want versus desired feeling",
+    "cutoff"
+  ],
+  "chapters": [
+    {
+      "t": 1.76,
+      "title": "children watching toy unboxings"
+    },
+    {
+      "t": 7.68,
+      "title": "having versus watching"
+    },
+    {
+      "t": 16.72,
+      "title": "Better Call Saul reaction"
+    },
+    {
+      "t": 22.72,
+      "title": "reviews replace direct feeling"
+    },
+    {
+      "t": 34,
+      "title": "writing/dancing/architecture saying"
+    },
+    {
+      "t": 40.4,
+      "title": "talking about art"
+    },
+    {
+      "t": 47.76,
+      "title": "watching games instead of playing"
+    },
+    {
+      "t": 54.4,
+      "title": "consumer reports and self-betrayal"
+    },
+    {
+      "t": 64.72,
+      "title": "wanting art because others want it"
+    },
+    {
+      "t": 71.36,
+      "title": "performed David objection"
+    },
+    {
+      "t": 82.56,
+      "title": "online review consumption"
+    },
+    {
+      "t": 95.6,
+      "title": "not making / external influence"
+    },
+    {
+      "t": 104.56,
+      "title": "criticism negativity claim"
+    },
+    {
+      "t": 113.76,
+      "title": "talk about art transition"
+    },
+    {
+      "t": 126.48,
+      "title": "private discussion / hypocrisy"
+    },
+    {
+      "t": 136.64,
+      "title": "making/living/doing preference"
+    },
+    {
+      "t": 145.6,
+      "title": "pause hypercriticism"
+    },
+    {
+      "t": 152.32,
+      "title": "creator/family/partner/self examples"
+    },
+    {
+      "t": 168.96,
+      "title": "teardown-audience claim"
+    },
+    {
+      "t": 174.72,
+      "title": "declined disliked-artists rant"
+    },
+    {
+      "t": 179.28,
+      "title": "passive/direct aggression"
+    },
+    {
+      "t": 189.84,
+      "title": "viral potential and refusal"
+    },
+    {
+      "t": 195.28,
+      "title": "amazing-label examples"
+    },
+    {
+      "t": 207.36,
+      "title": "base instincts / chili fries"
+    },
+    {
+      "t": 213.28,
+      "title": "chili-fries order"
+    },
+    {
+      "t": 219.92,
+      "title": "feeling bad after"
+    },
+    {
+      "t": 226.4,
+      "title": "quinoa because house was empty"
+    },
+    {
+      "t": 239.92,
+      "title": "undiluted flavor / hunger"
+    },
+    {
+      "t": 244.32,
+      "title": "giant pot of quinoa"
+    },
+    {
+      "t": 251.44,
+      "title": "bowel-movement anecdote"
+    },
+    {
+      "t": 260,
+      "title": "negative-media transition"
+    },
+    {
+      "t": 271.68,
+      "title": "Netflix murder documentary / talk show"
+    },
+    {
+      "t": 277.36,
+      "title": "pre-consumption feeling question"
+    },
+    {
+      "t": 284.48,
+      "title": "want versus aftermath"
+    },
+    {
+      "t": 290.96,
+      "title": "porn/food examples / damaged feeling"
+    },
+    {
+      "t": 301.76,
+      "title": "giant-pot suggestion interrupted"
+    },
+    {
+      "t": 307.12,
+      "title": "plain/no-salt suggestion"
+    },
+    {
+      "t": 312.88,
+      "title": "crackhead review-consumption simile"
+    },
+    {
+      "t": 319.44,
+      "title": "Christopher Nolan / The Mandalorian reviews"
+    },
+    {
+      "t": 326.16,
+      "title": "confirmation of negative opinions"
+    },
+    {
+      "t": 330.8,
+      "title": "lowest-part / feels bad"
+    },
+    {
+      "t": 340.08,
+      "title": "community feels good"
+    },
+    {
+      "t": 345.68,
+      "title": "mutual support"
+    },
+    {
+      "t": 350.48,
+      "title": "keep coming back"
+    },
+    {
+      "t": 357.36,
+      "title": "want versus desired feeling"
+    },
+    {
+      "t": 364.56,
+      "title": "sleep feeling good / cutoff"
+    }
+  ],
+  "connections": [
+    {
+      "t": 16.72,
+      "to": "direct reception",
+      "relationship": "A strong Better Call Saul reaction is immediately displaced by reviews."
+    },
+    {
+      "t": 34,
+      "to": "criticism skepticism",
+      "relationship": "The music/architecture saying frames discussion as inferior to making."
+    },
+    {
+      "t": 71.36,
+      "to": "self-correction",
+      "relationship": "A performed moral objection is followed by first-person narrowing."
+    },
+    {
+      "t": 95.6,
+      "to": "influence loop",
+      "relationship": "Review consumption changes taste and displaces making."
+    },
+    {
+      "t": 168.96,
+      "to": "attention incentives",
+      "relationship": "Aggressive criticism is described as funny, entertaining and viral, then refused."
+    },
+    {
+      "t": 207.36,
+      "to": "want versus aftermath",
+      "relationship": "Chili fries illustrate desire followed by feeling bad."
+    },
+    {
+      "t": 226.4,
+      "to": "constraint and discovery",
+      "relationship": "Having only quinoa produces an unexpectedly positive food anecdote."
+    },
+    {
+      "t": 277.36,
+      "to": "decision question",
+      "relationship": "The speaker asks how consumption will feel afterward."
+    },
+    {
+      "t": 312.88,
+      "to": "compulsive-consumption simile",
+      "relationship": "The crackhead comparison depicts seeking reviews that confirm negativity."
+    },
+    {
+      "t": 340.08,
+      "to": "community alternative",
+      "relationship": "Mutual support supplies the positive-feeling counterexample."
+    },
+    {
+      "t": 357.36,
+      "to": "closing rule",
+      "relationship": "Desired aftermath, not immediate want, is proposed as the decision input."
+    }
+  ],
+  "source_notes": [
+    "All 54 raw caption records remain aligned exactly once.",
+    "Better Call Saul, hypercritical, Christopher Nolan and The Mandalorian receive supported repairs.",
+    "Consumer reports remains generic; censored/unclear feeling and final words stay unresolved.",
+    "Performed David objection is self-dialogue, not a second speaker.",
+    "Food, bowel and pornography details remain uncensored personal examples.",
+    "Quinoa and chili-fries passages are anecdotes/contradictions, not diet or digestive advice.",
+    "The crackhead comparison remains attributed stigmatizing rhetoric, not diagnosis.",
+    "Zero named turns or enrollment windows."
+  ],
+  "content_warnings": [
+    "pornography reference",
+    "food and bowel-movement detail",
+    "stigmatizing crackhead simile",
+    "broad criticism/audience claims",
+    "passive/direct aggression description",
+    "parent/child/partner motivational direction",
+    "damaged/censored phrase",
+    "unsourced quotation origin",
+    "final cutoff"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 1.76,
+      "title": "children watching toy unboxings",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 7.68,
+      "title": "having versus watching",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 16.72,
+      "title": "Better Call Saul reaction",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 22.72,
+      "title": "reviews replace direct feeling",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 34,
+      "title": "writing/dancing/architecture saying",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 40.4,
+      "title": "talking about art",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 47.76,
+      "title": "watching games instead of playing",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 54.4,
+      "title": "consumer reports and self-betrayal",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 64.72,
+      "title": "wanting art because others want it",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 71.36,
+      "title": "performed David objection",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 82.56,
+      "title": "online review consumption",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 95.6,
+      "title": "not making / external influence",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 104.56,
+      "title": "criticism negativity claim",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 113.76,
+      "title": "talk about art transition",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 126.48,
+      "title": "private discussion / hypocrisy",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 136.64,
+      "title": "making/living/doing preference",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 145.6,
+      "title": "pause hypercriticism",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 152.32,
+      "title": "creator/family/partner/self examples",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 168.96,
+      "title": "teardown-audience claim",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 174.72,
+      "title": "declined disliked-artists rant",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 179.28,
+      "title": "passive/direct aggression",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 189.84,
+      "title": "viral potential and refusal",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 195.28,
+      "title": "amazing-label examples",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 207.36,
+      "title": "base instincts / chili fries",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 213.28,
+      "title": "chili-fries order",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 219.92,
+      "title": "feeling bad after",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 226.4,
+      "title": "quinoa because house was empty",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 239.92,
+      "title": "undiluted flavor / hunger",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 244.32,
+      "title": "giant pot of quinoa",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 251.44,
+      "title": "bowel-movement anecdote",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 260,
+      "title": "negative-media transition",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 271.68,
+      "title": "Netflix murder documentary / talk show",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 277.36,
+      "title": "pre-consumption feeling question",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 284.48,
+      "title": "want versus aftermath",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 290.96,
+      "title": "porn/food examples / damaged feeling",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 301.76,
+      "title": "giant-pot suggestion interrupted",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 307.12,
+      "title": "plain/no-salt suggestion",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 312.88,
+      "title": "crackhead review-consumption simile",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 319.44,
+      "title": "Christopher Nolan / The Mandalorian reviews",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 326.16,
+      "title": "confirmation of negative opinions",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 330.8,
+      "title": "lowest-part / feels bad",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 340.08,
+      "title": "community feels good",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 345.68,
+      "title": "mutual support",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 350.48,
+      "title": "keep coming back",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 357.36,
+      "title": "want versus desired feeling",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    },
+    {
+      "t": 364.56,
+      "title": "sleep feeling good / cutoff",
+      "rule": "attribute to unidentified monologue speaker; do not convert into behavioral science, therapy, parenting/relationship guidance, nutrition/digestive advice, addiction diagnosis, quotation attribution, review fact or named voice"
+    }
+  ]
+}

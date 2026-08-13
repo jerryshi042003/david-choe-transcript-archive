@@ -1,0 +1,1608 @@
+{
+  "episode_id": "WuufP8mTmd8",
+  "title": "David Choe presents: Marvel Comics' Best, Most Hardcore, Violent, Outlaw Slobberknocker Fight Scene!",
+  "reviewed_on": "2026-07-31",
+  "summary": "David Choe joins Jim Rugg and Ed Piskor for a page-by-page reading of The Punisher #94–95, drawn by Frank Teran. The episode is direct craft genealogy: Choe names lessons in motion, bodies and composition, accepts a Slow Jams comparison, and describes Teran’s two-issue impact as a youthful career ideal. He also traces a childhood masculinity script through family and violent media, then explicitly revises it at 45 by distinguishing comic endurance from real bodies and describing discomfort with current violent work. Every graphic, sexual, offensive, commercial and disputed idea remains in the raw layer; the record separates attributed memory, critical analogy, collector claims, operational violence and unverified Marvel/The Hundreds leads.",
+  "quality": {
+    "raw_segments": 1219,
+    "clean_segments": 1219,
+    "raw_words_approx": 7794,
+    "clean_words_approx": 7794,
+    "duration_seconds": 2500.68,
+    "accepted_context_decisions": 226,
+    "chapters": 180,
+    "connections": 24,
+    "content_warnings": 24,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 140
+  },
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "The public source establishes David Choe, Jim Rugg and Ed Piskor as participants, but all 1,219 automatic-caption segments lack publisher speaker prefixes. Rapid page reading, quotation, jokes, overlap, visual reference and an embedded advertisement make adjacency or topic ownership unsafe. Publish zero named turns until independently held-out acoustic/video validation proves them."
+  },
+  "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Frank Teran",
+    "Bobby Hundreds",
+    "Mike Tyson",
+    "Frank Miller",
+    "Bill Sienkiewicz",
+    "Stephen Platt",
+    "Rob Liefeld",
+    "Jae Lee",
+    "Sam Kieth",
+    "Frank Quitely",
+    "Jamie Hewlett",
+    "Ted McKeever",
+    "Simon Bisley",
+    "Michael Golden",
+    "Geof Darrow"
+  ],
+  "places": [
+    "Los Angeles",
+    "Korea",
+    "Kubert School",
+    "private collector locations"
+  ],
+  "works": [
+    "The Punisher #94–95",
+    "Slow Jams",
+    "Red Room: The Antisocial Network",
+    "Red Room: Trigger Warnings",
+    "Hulk: Grand Design",
+    "Batman",
+    "Teenage Mutant Ninja Turtles",
+    "Natural Born Killers",
+    "Squid Game",
+    "Pulp Fiction",
+    "Fight Club",
+    "Judgment Night",
+    "Lionheart",
+    "Pit-Fighter",
+    "The ’Nam",
+    "Æon Flux",
+    "The Hundreds Marvel/Punisher collaboration"
+  ],
+  "themes": [
+    "comic-book craft",
+    "visual influence",
+    "motion and anatomy",
+    "masculinity",
+    "family formation",
+    "therapy reflection",
+    "violent-media literacy",
+    "later self-revision",
+    "graphic violence",
+    "real bodies versus comic endurance",
+    "critical analogy",
+    "collector markets",
+    "embedded advertising",
+    "plagiarism uncertainty",
+    "licensed collaboration",
+    "bibliography verification"
+  ],
+  "chapters": [
+    {
+      "t": 8,
+      "title": "Cartoonist Kayfabe"
+    },
+    {
+      "t": 9,
+      "title": "Jim Rugg"
+    },
+    {
+      "t": 11,
+      "title": "David Choe"
+    },
+    {
+      "t": 21,
+      "title": "Frank Teran's Punisher issues"
+    },
+    {
+      "t": 25,
+      "title": "Publisher mask preserved"
+    },
+    {
+      "t": 33,
+      "title": "Jonathan Gold"
+    },
+    {
+      "t": 42,
+      "title": "Choe's Los Angeles self-report"
+    },
+    {
+      "t": 58,
+      "title": "hypothetical scarce-zine example"
+    },
+    {
+      "t": 75,
+      "title": "The Punisher #94–95 [series/date verify]"
+    },
+    {
+      "t": 82,
+      "title": "Ed Piskor's direct-edition copy"
+    },
+    {
+      "t": 87,
+      "title": "Kmart newsstand purchase recollection"
+    },
+    {
+      "t": 98,
+      "title": "sexual excitement joke"
+    },
+    {
+      "t": 107,
+      "title": "Choe reports buying original pages on eBay"
+    },
+    {
+      "t": 123,
+      "title": "reported seller refusal/status"
+    },
+    {
+      "t": 125,
+      "title": "comic negotiation boast"
+    },
+    {
+      "t": 137,
+      "title": "Choe's corporate-character craft thesis"
+    },
+    {
+      "t": 155,
+      "title": "Wolverine / Superman / Batman / Punisher"
+    },
+    {
+      "t": 158,
+      "title": "Publisher mask preserved"
+    },
+    {
+      "t": 173,
+      "title": "Batman speed round"
+    },
+    {
+      "t": 178,
+      "title": "David Mazzucchelli"
+    },
+    {
+      "t": 182,
+      "title": "Curt Swan"
+    },
+    {
+      "t": 186,
+      "title": "Frank Quitely [probable]"
+    },
+    {
+      "t": 194,
+      "title": "Todd McFarlane"
+    },
+    {
+      "t": 199,
+      "title": "Herb Trimpe"
+    },
+    {
+      "t": 207,
+      "title": "Bill Sienkiewicz"
+    },
+    {
+      "t": 209,
+      "title": "Stephen Platt [probable]"
+    },
+    {
+      "t": 216,
+      "title": "John Romita Jr."
+    },
+    {
+      "t": 225,
+      "title": "Frank Teran"
+    },
+    {
+      "t": 226,
+      "title": "Mike Zeck"
+    },
+    {
+      "t": 231,
+      "title": "The Kubert School"
+    },
+    {
+      "t": 235,
+      "title": "Piskor reports attending one year"
+    },
+    {
+      "t": 243,
+      "title": "reported later Punisher covers [issues verify]"
+    },
+    {
+      "t": 270,
+      "title": "What If...? / Sabretooth issue [exact title verify]"
+    },
+    {
+      "t": 275,
+      "title": "Batman or Detective Comics issue [unresolved]"
+    },
+    {
+      "t": 277,
+      "title": "Green Lantern 1,000,000 [issue/title verify]"
+    },
+    {
+      "t": 284,
+      "title": "Frank Teran"
+    },
+    {
+      "t": 304,
+      "title": "Choe says he wanted a two-issue, maximum-impact career like Frank Teran"
+    },
+    {
+      "t": 323,
+      "title": "opening splash-page analysis"
+    },
+    {
+      "t": 342,
+      "title": "losing a tooth? [caption uncertain]"
+    },
+    {
+      "t": 345,
+      "title": "black-and-white outlaw-comic comparison"
+    },
+    {
+      "t": 359,
+      "title": "Natural Born Killers"
+    },
+    {
+      "t": 364,
+      "title": "Choe reports therapist's masculinity question"
+    },
+    {
+      "t": 368,
+      "title": "masculinity-source reflection"
+    },
+    {
+      "t": 373,
+      "title": "Choe identifies his father as one source"
+    },
+    {
+      "t": 376,
+      "title": "Choe's Korean-machismo framing"
+    },
+    {
+      "t": 381,
+      "title": "Punisher / Teenage Mutant Ninja Turtles / Batman"
+    },
+    {
+      "t": 392,
+      "title": "Choe's childhood masculinity script"
+    },
+    {
+      "t": 402,
+      "title": "Choe reports rereading at age 45"
+    },
+    {
+      "t": 412,
+      "title": "Red Room"
+    },
+    {
+      "t": 422,
+      "title": "Choe says he could not finish Red Room"
+    },
+    {
+      "t": 431,
+      "title": "Squid Game"
+    },
+    {
+      "t": 432,
+      "title": "Choe says killing prevented him watching Squid Game"
+    },
+    {
+      "t": 445,
+      "title": "Publisher mask preserved"
+    },
+    {
+      "t": 446,
+      "title": "Timberland-style work boots"
+    },
+    {
+      "t": 455,
+      "title": "Comics Code Authority"
+    },
+    {
+      "t": 459,
+      "title": "black-ink blood under color/code constraints"
+    },
+    {
+      "t": 478,
+      "title": "Kayfabe Effect"
+    },
+    {
+      "t": 483,
+      "title": "historic host price estimate"
+    },
+    {
+      "t": 495,
+      "title": "Choe reports two page purchases"
+    },
+    {
+      "t": 499,
+      "title": "two additional private negotiations"
+    },
+    {
+      "t": 516,
+      "title": "reported open offers for both covers"
+    },
+    {
+      "t": 526,
+      "title": "David Mandel"
+    },
+    {
+      "t": 532,
+      "title": "David Mandel"
+    },
+    {
+      "t": 540,
+      "title": "embedded Kayfabe commerce begins"
+    },
+    {
+      "t": 546,
+      "title": "Ed Piskor"
+    },
+    {
+      "t": 547,
+      "title": "Red Room: The Antisocial Network"
+    },
+    {
+      "t": 562,
+      "title": "roughly 70–80 bonus pages [package verify]"
+    },
+    {
+      "t": 572,
+      "title": "Hellboy collections"
+    },
+    {
+      "t": 575,
+      "title": "Fantagraphics"
+    },
+    {
+      "t": 582,
+      "title": "Red Room: Trigger Warnings, announced for February 2022"
+    },
+    {
+      "t": 607,
+      "title": "Jim Rugg variant-cover claim"
+    },
+    {
+      "t": 611,
+      "title": "Robert Crumb / Zap Comix homage"
+    },
+    {
+      "t": 622,
+      "title": "Hulk: Grand Design"
+    },
+    {
+      "t": 625,
+      "title": "historic announced March/April 2022 release dates"
+    },
+    {
+      "t": 637,
+      "title": "host's compression description of Hulk history"
+    },
+    {
+      "t": 652,
+      "title": "Ed Piskor"
+    },
+    {
+      "t": 654,
+      "title": "Incredible Hulk #181 / corrected to #240 mash-up discussion"
+    },
+    {
+      "t": 671,
+      "title": "Peach Momoko"
+    },
+    {
+      "t": 674,
+      "title": "Marcos Martín [probable]"
+    },
+    {
+      "t": 687,
+      "title": "embedded commerce ends"
+    },
+    {
+      "t": 691,
+      "title": "page-by-page reading resumes"
+    },
+    {
+      "t": 696,
+      "title": "Hell's Kitchen [story location uncertain]"
+    },
+    {
+      "t": 709,
+      "title": "comic violence description"
+    },
+    {
+      "t": 728,
+      "title": "page-turning hand joke"
+    },
+    {
+      "t": 744,
+      "title": "unnamed Punisher opponent [identity verify from issue]"
+    },
+    {
+      "t": 759,
+      "title": "Rob Liefeld-style pose"
+    },
+    {
+      "t": 774,
+      "title": "impossible comic-injury endurance"
+    },
+    {
+      "t": 788,
+      "title": "redshirts in Star Trek analogy"
+    },
+    {
+      "t": 811,
+      "title": "Slow Jams"
+    },
+    {
+      "t": 814,
+      "title": "Choe confirms related compositions in Slow Jams"
+    },
+    {
+      "t": 827,
+      "title": "Fight Club"
+    },
+    {
+      "t": 832,
+      "title": "spiked-bat visual detail"
+    },
+    {
+      "t": 839,
+      "title": "Choe critiques all-male hypermasculinity"
+    },
+    {
+      "t": 844,
+      "title": "human cockfighting/chicken-fighting analogy [wording]"
+    },
+    {
+      "t": 862,
+      "title": "Choe identifies desired original page"
+    },
+    {
+      "t": 865,
+      "title": "facial-detail criticism"
+    },
+    {
+      "t": 869,
+      "title": "Publisher mask preserved drooling"
+    },
+    {
+      "t": 876,
+      "title": "critical reading of character intent"
+    },
+    {
+      "t": 888,
+      "title": "graphic facial-injury description"
+    },
+    {
+      "t": 898,
+      "title": "Frank Miller Batman comparison"
+    },
+    {
+      "t": 923,
+      "title": "racialized/ethnic facial-reading speculation"
+    },
+    {
+      "t": 930,
+      "title": "John Romita Jr."
+    },
+    {
+      "t": 935,
+      "title": "Frank Teran"
+    },
+    {
+      "t": 945,
+      "title": "cage-fight sequence"
+    },
+    {
+      "t": 947,
+      "title": "Choe reports learning to draw rear of head from this page"
+    },
+    {
+      "t": 969,
+      "title": "broken-tooth visual detail"
+    },
+    {
+      "t": 987,
+      "title": "host's violent footwear characterization"
+    },
+    {
+      "t": 997,
+      "title": "Adidas three-stripe shoes [visual analogy]"
+    },
+    {
+      "t": 1024,
+      "title": "Nine Inch Nails fan stereotype"
+    },
+    {
+      "t": 1035,
+      "title": "Frank Teran"
+    },
+    {
+      "t": 1047,
+      "title": "Nine Inch Nails T-shirt [probable]"
+    },
+    {
+      "t": 1057,
+      "title": "Simon Bisley"
+    },
+    {
+      "t": 1092,
+      "title": "Jae Lee / Namor, the Sub-Mariner? [exact era/title verify]"
+    },
+    {
+      "t": 1096,
+      "title": "Sam Kieth"
+    },
+    {
+      "t": 1102,
+      "title": "Frank Quitely"
+    },
+    {
+      "t": 1122,
+      "title": "Jamie Hewlett"
+    },
+    {
+      "t": 1125,
+      "title": "Ted McKeever"
+    },
+    {
+      "t": 1153,
+      "title": "Frank Teran"
+    },
+    {
+      "t": 1169,
+      "title": "Aliens work [exact issue/title verify]"
+    },
+    {
+      "t": 1172,
+      "title": "Sabretooth work [exact title verify]"
+    },
+    {
+      "t": 1183,
+      "title": "Choe reports active graffiti practice when he found the issues"
+    },
+    {
+      "t": 1194,
+      "title": "Sam Kieth"
+    },
+    {
+      "t": 1216,
+      "title": "BOSS jeans [brand/style verify]"
+    },
+    {
+      "t": 1219,
+      "title": "Cross Colours"
+    },
+    {
+      "t": 1235,
+      "title": "Rapidograph [tool inference]"
+    },
+    {
+      "t": 1252,
+      "title": "Simon Bisley comparison"
+    },
+    {
+      "t": 1265,
+      "title": "comic weapon imagery"
+    },
+    {
+      "t": 1278,
+      "title": "character reputation in fiction"
+    },
+    {
+      "t": 1298,
+      "title": "UFC/MMA fighter bar-story generalization"
+    },
+    {
+      "t": 1320,
+      "title": "speculative reasons fictional men attack"
+    },
+    {
+      "t": 1357,
+      "title": "story injury continuity"
+    },
+    {
+      "t": 1361,
+      "title": "speaker reports prior broken nose"
+    },
+    {
+      "t": 1365,
+      "title": "fictional gun escalation"
+    },
+    {
+      "t": 1378,
+      "title": "fictional use of person as shield"
+    },
+    {
+      "t": 1383,
+      "title": "host guesses wound near collarbone"
+    },
+    {
+      "t": 1392,
+      "title": "sexualized hypermasculinity metaphor"
+    },
+    {
+      "t": 1408,
+      "title": "horror/zombie analogy"
+    },
+    {
+      "t": 1424,
+      "title": "nu-metal/reggae-fusion stereotype"
+    },
+    {
+      "t": 1439,
+      "title": "Frank Castle"
+    },
+    {
+      "t": 1450,
+      "title": "Emilio Estevez / Judgment Night"
+    },
+    {
+      "t": 1472,
+      "title": "Old Testament retribution analogy"
+    },
+    {
+      "t": 1476,
+      "title": "Choe reports buying `no mercy` original page"
+    },
+    {
+      "t": 1490,
+      "title": "Einstürzende Neubauten"
+    },
+    {
+      "t": 1525,
+      "title": "Howard Stern"
+    },
+    {
+      "t": 1532,
+      "title": "explicit sexual-position terminology discussion"
+    },
+    {
+      "t": 1556,
+      "title": "Lucky Pierre"
+    },
+    {
+      "t": 1572,
+      "title": "CTE joke about fictional repeated head trauma"
+    },
+    {
+      "t": 1583,
+      "title": "advertisement interruption [content unclear]"
+    },
+    {
+      "t": 1587,
+      "title": "enemy-team-up wrestling trope"
+    },
+    {
+      "t": 1593,
+      "title": "Nick Nolte / Eddie Murphy / 48 Hrs. analogy"
+    },
+    {
+      "t": 1600,
+      "title": "Bruce Willis / Marsellus Wallace / Pulp Fiction"
+    },
+    {
+      "t": 1605,
+      "title": "question whether Quentin Tarantino knew the comic"
+    },
+    {
+      "t": 1617,
+      "title": "spoken chronology uncertainty around 1994"
+    },
+    {
+      "t": 1626,
+      "title": "Fight Club publication chronology question"
+    },
+    {
+      "t": 1644,
+      "title": "Pit-Fighter"
+    },
+    {
+      "t": 1648,
+      "title": "Cannon Films / Lionheart"
+    },
+    {
+      "t": 1654,
+      "title": "Fist Fighter [exact film verify]"
+    },
+    {
+      "t": 1674,
+      "title": "participants discuss real fight histories"
+    },
+    {
+      "t": 1677,
+      "title": "hyperbolic report of repeatedly losing fights"
+    },
+    {
+      "t": 1688,
+      "title": "G.I. Joe / Punisher / Teenage Mutant Ninja Turtles"
+    },
+    {
+      "t": 1693,
+      "title": "Choe says he misread comic endurance as realistic when young"
+    },
+    {
+      "t": 1701,
+      "title": "Choe explicitly rejects comic injury realism"
+    },
+    {
+      "t": 1708,
+      "title": "Choe reports many fights and losses"
+    },
+    {
+      "t": 1729,
+      "title": "Chekhov's hook"
+    },
+    {
+      "t": 1750,
+      "title": "Choe's thrift-store suit recollection"
+    },
+    {
+      "t": 1777,
+      "title": "early digital-coloring inference"
+    },
+    {
+      "t": 1791,
+      "title": "Lucky Pierre"
+    },
+    {
+      "t": 1818,
+      "title": "Booker T comparison"
+    },
+    {
+      "t": 1829,
+      "title": "host estimates Punisher at 6'1–6'2"
+    },
+    {
+      "t": 1847,
+      "title": "Frank Teran"
+    },
+    {
+      "t": 1866,
+      "title": "Choe reports another private original-page negotiation"
+    },
+    {
+      "t": 1883,
+      "title": "real-fighting comparison"
+    },
+    {
+      "t": 1899,
+      "title": "Mike Tyson"
+    },
+    {
+      "t": 1902,
+      "title": "reported chin-strike explanation"
+    },
+    {
+      "t": 1917,
+      "title": "`bingo button` fighting slang"
+    },
+    {
+      "t": 1925,
+      "title": "Wizard bad-girl movement / Top Cow"
+    },
+    {
+      "t": 1943,
+      "title": "fictional explanation for impossible survival"
+    },
+    {
+      "t": 1965,
+      "title": "Big Daddy Roth comparison"
+    },
+    {
+      "t": 1988,
+      "title": "Michael Golden's The 'Nam comics"
+    },
+    {
+      "t": 2016,
+      "title": "unclear close-up/ponytail phrase"
+    }
+  ],
+  "connections": [
+    {
+      "t": 21,
+      "to": "Frank Teran’s Punisher",
+      "relationship": "The two-issue run is the object under close reading and Choe’s stated model for maximum creative impact."
+    },
+    {
+      "t": 42,
+      "to": "Los Angeles formation",
+      "relationship": "Choe frames the comic inside his own Los Angeles childhood and early visual education."
+    },
+    {
+      "t": 116,
+      "to": "Slow Jams",
+      "relationship": "Rugg identifies related compositions in Choe’s early comic; Choe accepts the craft connection."
+    },
+    {
+      "t": 170,
+      "to": "drawing motion",
+      "relationship": "Roof-hopping, backs, faces and the back of a head become concrete drawing lessons."
+    },
+    {
+      "t": 284,
+      "to": "masculinity genealogy",
+      "relationship": "Choe links father, Korean machismo and violent popular culture to his childhood masculinity script."
+    },
+    {
+      "t": 352,
+      "to": "later self-revision",
+      "relationship": "At 45, Choe reports discomfort with imagery he once absorbed as realistic."
+    },
+    {
+      "t": 405,
+      "to": "Red Room",
+      "relationship": "Choe’s inability to finish the comic becomes evidence of changed tolerance, not a judgment on its maker."
+    },
+    {
+      "t": 432,
+      "to": "Squid Game",
+      "relationship": "The comparison extends his changing response from comics to contemporary screen violence."
+    },
+    {
+      "t": 498,
+      "to": "real-world fighting",
+      "relationship": "Choe contrasts comic-book durability with fights he says he repeatedly lost."
+    },
+    {
+      "t": 540,
+      "to": "Cartoonist Kayfabe commerce",
+      "relationship": "The embedded Red Room and Hulk: Grand Design promotion is part of the episode edition, not Choe biography."
+    },
+    {
+      "t": 692,
+      "to": "original-art collecting",
+      "relationship": "Page ownership and negotiation claims belong to dated collector context with private-party boundaries."
+    },
+    {
+      "t": 806,
+      "to": "Frank Miller and Sienkiewicz",
+      "relationship": "Host comparisons are criticism and visual analogy, not proof of Teran’s influences."
+    },
+    {
+      "t": 975,
+      "to": "Stephen Platt and 1990s image comics",
+      "relationship": "The hosts place the pages in a broader period vocabulary while leaving actual genealogy unresolved."
+    },
+    {
+      "t": 1110,
+      "to": "Mike Tyson anecdote",
+      "relationship": "A real-world striking explanation requires context and must not be repackaged as instruction."
+    },
+    {
+      "t": 1260,
+      "to": "impossible endurance",
+      "relationship": "The page reading repeatedly contrasts spectacular comic injury with actual bodily limits."
+    },
+    {
+      "t": 1430,
+      "to": "Pulp Fiction chronology",
+      "relationship": "A similarity question is preserved without converting it into a plagiarism finding."
+    },
+    {
+      "t": 1550,
+      "to": "Fight Club and fight films",
+      "relationship": "Film comparisons help describe tone and staging but do not establish borrowing."
+    },
+    {
+      "t": 1710,
+      "to": "page economy",
+      "relationship": "The hosts treat panel density, silhouettes and transitions as working craft evidence."
+    },
+    {
+      "t": 1880,
+      "to": "Frank Quitely, Sam Kieth and Jamie Hewlett",
+      "relationship": "Artist comparisons map a critical vocabulary rather than a verified influence tree."
+    },
+    {
+      "t": 2030,
+      "to": "Einstürzende Neubauten",
+      "relationship": "Music and subculture references broaden the episode’s aesthetic map while exact captions need verification."
+    },
+    {
+      "t": 2200,
+      "to": "Marvel ban claim",
+      "relationship": "Choe’s statement remains attributed and requires primary editorial evidence."
+    },
+    {
+      "t": 2380,
+      "to": "The Hundreds collaboration",
+      "relationship": "Bobby Hundreds becomes the reported route to a licensed Marvel-related product."
+    },
+    {
+      "t": 2459,
+      "to": "Punisher homage",
+      "relationship": "Choe explicitly describes a Frank Teran and Geof Darrow homage, making the product a high-priority Works lead."
+    },
+    {
+      "t": 2476,
+      "to": "indirect Marvel work",
+      "relationship": "Choe’s own joke distinguishes a licensed collaboration from direct Marvel employment."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 21,
+      "claim": "Frank Teran drew the discussed Punisher issues.",
+      "assessment": "The captions and page reading strongly identify Teran, but exact issue titles, dates and full credits should follow Marvel or object indicia.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 116,
+      "claim": "Slow Jams contains compositions related to these pages.",
+      "assessment": "This is a direct in-episode critical observation accepted by Choe; it supports a comparison, not a copied-panel claim.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 170,
+      "claim": "The issues influenced Choe’s treatment of movement and bodies.",
+      "assessment": "This is direct first-person craft evidence and can be indexed as attributed influence.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 284,
+      "claim": "Choe’s masculinity came from his father, Korean machismo and violent media.",
+      "assessment": "Preserve as autobiographical reflection; do not generalize Korean people or diagnose causation.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 352,
+      "claim": "Choe became uncomfortable with violent media by age 45.",
+      "assessment": "Dated self-report of changed response; it does not imply censorship or a permanent current condition.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 498,
+      "claim": "Comics led Choe to expect unrealistic physical endurance.",
+      "assessment": "His childhood interpretation and fight history are self-report, while his correction that real bodies cannot endure this is explicit.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 540,
+      "claim": "The embedded promotion describes Red Room and Hulk: Grand Design editions.",
+      "assessment": "Historic house ad; availability, prices and edition details require current publisher records.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 692,
+      "claim": "Choe owned or was negotiating for original pages.",
+      "assessment": "Private collector-market statement; do not publish sellers, offers, value or present custody.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 1110,
+      "claim": "Mike Tyson used a particular chin strike.",
+      "assessment": "Anecdotal and potentially operational; retain in transcript but do not surface as fighting guidance.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 1430,
+      "claim": "The comic ending anticipated or was copied by Pulp Fiction.",
+      "assessment": "The hosts pose a chronology/influence question. Similarity is not evidence of plagiarism.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 2200,
+      "claim": "Marvel’s editor-in-chief banned Choe.",
+      "assessment": "Uncorroborated first-person claim; identify neither decision-maker nor institutional fact without primary records.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 2380,
+      "claim": "Bobby Hundreds invited Choe into a Marvel collaboration.",
+      "assessment": "High-value bibliography lead requiring The Hundreds/Marvel product evidence and exact credits.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 2459,
+      "claim": "Choe made a Punisher design honoring Frank Teran and Geof Darrow.",
+      "assessment": "Direct work claim; verify product image, date, license and credit before canonical Works entry.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    },
+    {
+      "t": 2476,
+      "claim": "The shirt sold out and constituted working for Marvel.",
+      "assessment": "Sellout requires primary commerce evidence; the episode itself frames the relationship as indirect rather than employment.",
+      "source": "https://www.youtube.com/watch?v=WuufP8mTmd8"
+    }
+  ],
+  "content_warnings": [
+    "graphic comic-book violence",
+    "broken teeth, ribs and facial injury",
+    "shootings and automatic weapons",
+    "electrocution",
+    "killing and human-shield imagery",
+    "real-world fighting anecdotes",
+    "operational striking anatomy",
+    "weapons discussion",
+    "childhood fights",
+    "masculinity and emotional suppression",
+    "family and therapy disclosures",
+    "racial and ethnic generalizations in quoted speech",
+    "sexual jokes",
+    "offensive language",
+    "death and mass-casualty analogy",
+    "private collector negotiations",
+    "unverified plagiarism comparisons",
+    "unverified institutional-ban claim",
+    "commercial promotion",
+    "historic prices and availability",
+    "body-harm humor",
+    "fictional criminal violence",
+    "graphic page description",
+    "strong language"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 8,
+      "rule": "retain source text; canonical channel title"
+    },
+    {
+      "t": 9,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 11,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 21,
+      "rule": "retain source text; canonical artist surname"
+    },
+    {
+      "t": 25,
+      "rule": "publish no named line-level turn before held-out acoustic/video validation"
+    },
+    {
+      "t": 33,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 42,
+      "rule": "retain source text; autobiographical context"
+    },
+    {
+      "t": 58,
+      "rule": "retain source text; not a real edition claim"
+    },
+    {
+      "t": 75,
+      "rule": "retain source text; canonical object lead"
+    },
+    {
+      "t": 82,
+      "rule": "retain source text; historic object custody"
+    },
+    {
+      "t": 87,
+      "rule": "retain source text; historic purchase self-report"
+    },
+    {
+      "t": 98,
+      "rule": "retain source text; not literal event metadata"
+    },
+    {
+      "t": 107,
+      "rule": "retain source text; private collector transaction"
+    },
+    {
+      "t": 123,
+      "rule": "retain source text; do not identify seller"
+    },
+    {
+      "t": 125,
+      "rule": "retain source text; not coercion finding"
+    },
+    {
+      "t": 137,
+      "rule": "retain source text; artist opinion"
+    },
+    {
+      "t": 155,
+      "rule": "retain source text; canonical characters"
+    },
+    {
+      "t": 158,
+      "rule": "retain source text; preserve mask"
+    },
+    {
+      "t": 173,
+      "rule": "retain source text; chapter boundary"
+    },
+    {
+      "t": 178,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 182,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 186,
+      "rule": "retain source text; caption repair; speaker overlap"
+    },
+    {
+      "t": 194,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 199,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 207,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 209,
+      "rule": "retain source text; moon knight artist context"
+    },
+    {
+      "t": 216,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 225,
+      "rule": "retain source text; canonical artist surname"
+    },
+    {
+      "t": 226,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 231,
+      "rule": "retain source text; canonical institution"
+    },
+    {
+      "t": 235,
+      "rule": "retain source text; education self-report"
+    },
+    {
+      "t": 243,
+      "rule": "retain source text; bibliography lead"
+    },
+    {
+      "t": 270,
+      "rule": "retain source text; bibliography uncertainty"
+    },
+    {
+      "t": 275,
+      "rule": "retain source text; do not guess"
+    },
+    {
+      "t": 277,
+      "rule": "retain source text; bibliography lead"
+    },
+    {
+      "t": 284,
+      "rule": "retain source text; canonical surname"
+    },
+    {
+      "t": 304,
+      "rule": "retain source text; direct craft autobiography"
+    },
+    {
+      "t": 323,
+      "rule": "retain source text; page structure"
+    },
+    {
+      "t": 342,
+      "rule": "retain source text; do not invent injury detail"
+    },
+    {
+      "t": 345,
+      "rule": "retain source text; critical analogy"
+    },
+    {
+      "t": 359,
+      "rule": "retain source text; canonical film title"
+    },
+    {
+      "t": 364,
+      "rule": "retain source text; health/privacy self-report"
+    },
+    {
+      "t": 368,
+      "rule": "retain source text; theme"
+    },
+    {
+      "t": 373,
+      "rule": "retain source text; family self-report"
+    },
+    {
+      "t": 376,
+      "rule": "retain source text; not korean-group fact"
+    },
+    {
+      "t": 381,
+      "rule": "retain source text; canonical titles"
+    },
+    {
+      "t": 392,
+      "rule": "retain source text; not guidance"
+    },
+    {
+      "t": 402,
+      "rule": "retain source text; dated self-report"
+    },
+    {
+      "t": 412,
+      "rule": "retain source text; canonical title"
+    },
+    {
+      "t": 422,
+      "rule": "retain source text; taste self-report"
+    },
+    {
+      "t": 431,
+      "rule": "retain source text; canonical title"
+    },
+    {
+      "t": 432,
+      "rule": "retain source text; taste self-report"
+    },
+    {
+      "t": 445,
+      "rule": "retain source text; preserve mask"
+    },
+    {
+      "t": 446,
+      "rule": "retain source text; visual analogy, not brand proof"
+    },
+    {
+      "t": 455,
+      "rule": "retain source text; canonical institution; issue approval verify"
+    },
+    {
+      "t": 459,
+      "rule": "retain source text; visual criticism"
+    },
+    {
+      "t": 478,
+      "rule": "retain source text; channel phrase"
+    },
+    {
+      "t": 483,
+      "rule": "retain source text; not current valuation"
+    },
+    {
+      "t": 495,
+      "rule": "retain source text; private collector claim"
+    },
+    {
+      "t": 499,
+      "rule": "retain source text; do not expose sellers/offers"
+    },
+    {
+      "t": 516,
+      "rule": "retain source text; private transaction"
+    },
+    {
+      "t": 526,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 532,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 540,
+      "rule": "retain source text; edition boundary"
+    },
+    {
+      "t": 546,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 547,
+      "rule": "retain source text; canonical title styling"
+    },
+    {
+      "t": 562,
+      "rule": "retain source text; spoken correction/uncertainty"
+    },
+    {
+      "t": 572,
+      "rule": "retain source text; canonical title"
+    },
+    {
+      "t": 575,
+      "rule": "retain source text; canonical publisher"
+    },
+    {
+      "t": 582,
+      "rule": "retain source text; historic release claim"
+    },
+    {
+      "t": 607,
+      "rule": "retain source text; credit verify"
+    },
+    {
+      "t": 611,
+      "rule": "retain source text; canonical public name/title"
+    },
+    {
+      "t": 622,
+      "rule": "retain source text; canonical title"
+    },
+    {
+      "t": 625,
+      "rule": "retain source text; dated commerce"
+    },
+    {
+      "t": 637,
+      "rule": "retain source text; project claim verify"
+    },
+    {
+      "t": 652,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 654,
+      "rule": "retain source text; preserve live correction"
+    },
+    {
+      "t": 671,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 674,
+      "rule": "retain source text; canonical artist; verify credit"
+    },
+    {
+      "t": 687,
+      "rule": "retain source text; edition boundary"
+    },
+    {
+      "t": 691,
+      "rule": "retain source text; edition boundary"
+    },
+    {
+      "t": 696,
+      "rule": "retain source text; do not assert geography"
+    },
+    {
+      "t": 709,
+      "rule": "retain source text; not real technique guidance"
+    },
+    {
+      "t": 728,
+      "rule": "retain source text; not person metadata"
+    },
+    {
+      "t": 744,
+      "rule": "retain source text; do not invent character"
+    },
+    {
+      "t": 759,
+      "rule": "retain source text; canonical public name/critical analogy"
+    },
+    {
+      "t": 774,
+      "rule": "retain source text; not medical realism"
+    },
+    {
+      "t": 788,
+      "rule": "retain source text; canonical title"
+    },
+    {
+      "t": 811,
+      "rule": "retain source text; canonical choe title"
+    },
+    {
+      "t": 814,
+      "rule": "retain source text; direct influence/craft evidence"
+    },
+    {
+      "t": 827,
+      "rule": "retain source text; canonical title/analogy"
+    },
+    {
+      "t": 832,
+      "rule": "retain source text; weapon content, not guidance"
+    },
+    {
+      "t": 839,
+      "rule": "retain source text; gender commentary"
+    },
+    {
+      "t": 844,
+      "rule": "retain source text; violent analogy"
+    },
+    {
+      "t": 862,
+      "rule": "retain source text; private collector negotiation"
+    },
+    {
+      "t": 865,
+      "rule": "retain source text; visual evidence"
+    },
+    {
+      "t": 869,
+      "rule": "retain source text; preserve mask"
+    },
+    {
+      "t": 876,
+      "rule": "retain source text; comic plot, not speaker intent"
+    },
+    {
+      "t": 888,
+      "rule": "retain source text; content warning"
+    },
+    {
+      "t": 898,
+      "rule": "retain source text; critical analogy"
+    },
+    {
+      "t": 923,
+      "rule": "retain source text; not character ethnicity fact"
+    },
+    {
+      "t": 930,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 935,
+      "rule": "retain source text; canonical surname"
+    },
+    {
+      "t": 945,
+      "rule": "retain source text; comic plot"
+    },
+    {
+      "t": 947,
+      "rule": "retain source text; direct craft autobiography"
+    },
+    {
+      "t": 969,
+      "rule": "retain source text; graphic content"
+    },
+    {
+      "t": 987,
+      "rule": "retain source text; not guidance"
+    },
+    {
+      "t": 997,
+      "rule": "retain source text; brand not verified"
+    },
+    {
+      "t": 1024,
+      "rule": "retain source text; not character fact"
+    },
+    {
+      "t": 1035,
+      "rule": "retain source text; canonical surname"
+    },
+    {
+      "t": 1047,
+      "rule": "retain source text; visual/title uncertainty"
+    },
+    {
+      "t": 1057,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 1092,
+      "rule": "retain source text; caption damage"
+    },
+    {
+      "t": 1096,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 1102,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 1122,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 1125,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 1153,
+      "rule": "retain source text; canonical surname"
+    },
+    {
+      "t": 1169,
+      "rule": "retain source text; bibliography lead"
+    },
+    {
+      "t": 1172,
+      "rule": "retain source text; bibliography lead"
+    },
+    {
+      "t": 1183,
+      "rule": "retain source text; craft chronology"
+    },
+    {
+      "t": 1194,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 1216,
+      "rule": "retain source text; historic fashion context"
+    },
+    {
+      "t": 1219,
+      "rule": "retain source text; canonical brand"
+    },
+    {
+      "t": 1235,
+      "rule": "retain source text; host inference, not confirmed process"
+    },
+    {
+      "t": 1252,
+      "rule": "retain source text; canonical public name"
+    },
+    {
+      "t": 1265,
+      "rule": "retain source text; not operational guidance"
+    },
+    {
+      "t": 1278,
+      "rule": "retain source text; not real-world claim"
+    },
+    {
+      "t": 1298,
+      "rule": "retain source text; not sourced incident/statistic"
+    },
+    {
+      "t": 1320,
+      "rule": "retain source text; not fact"
+    },
+    {
+      "t": 1357,
+      "rule": "retain source text; comic plot"
+    },
+    {
+      "t": 1361,
+      "rule": "retain source text; health self-report"
+    },
+    {
+      "t": 1365,
+      "rule": "retain source text; content warning"
+    },
+    {
+      "t": 1378,
+      "rule": "retain source text; not tactics guidance"
+    },
+    {
+      "t": 1383,
+      "rule": "retain source text; visual uncertainty"
+    },
+    {
+      "t": 1392,
+      "rule": "retain source text; not diagnosis"
+    },
+    {
+      "t": 1408,
+      "rule": "retain source text; critical reading"
+    },
+    {
+      "t": 1424,
+      "rule": "retain source text; critical joke"
+    },
+    {
+      "t": 1439,
+      "rule": "retain source text; canonical character name"
+    },
+    {
+      "t": 1450,
+      "rule": "retain source text; canonical public name/title"
+    }
+  ]
+}

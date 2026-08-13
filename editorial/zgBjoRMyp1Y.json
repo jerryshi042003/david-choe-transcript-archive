@@ -1,0 +1,355 @@
+{
+  "episode_id": "zgBjoRMyp1Y",
+  "title": "Thumbs UP Season 4 Trailer",
+  "reviewed_on": "2026-07-31",
+  "summary": "A 55-second official-channel travel trailer made of widely separated caption fragments: career questions about archaeology/helping poor people and CJ; a dead/burned/“evil” forest; an unresolved “jumper”; a straight/ride line followed by travelers saying a driver stopped before they began hitchhiking; an unresolved found-money fragment; a question asking whether Mormons love chicken and watermelon; and a final chair line. Every fragment remains uncensored, but none is joined into a continuous event or speaker. “Jumper” may refer to a person, animal or object and stays audiovisual-required with self-harm sensitivity. The stranger ride is not safety guidance, “money from heaven” proves no ownership, and the Mormon/food question is preserved as stereotype bait without an available answer or inferred endorsement. CJ is not identified/profiled. Zero named turns ship.",
+  "quality": {
+    "raw_segments": 18,
+    "clean_segments": 18,
+    "raw_words_approx": 109,
+    "clean_words_approx": 109,
+    "duration_seconds": 55,
+    "accepted_context_decisions": 21,
+    "chapters": 21,
+    "connections": 14,
+    "content_warnings": 11,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 27
+  },
+  "speaker_policy": {
+    "status": "multi-speaker/visual montage unresolved",
+    "reason": "Hard cuts, long caption gaps and unseen visual referents prevent continuous turn reconstruction. The trailer title provides no participant list or caption prefixes. Publish zero named turns and accept no voice enrollment windows."
+  },
+  "people": [
+    "David Choe (series/source context only; line-level presence unresolved)",
+    "CJ (spoken name only; likely minor, not identified)",
+    "multiple unidentified travelers/interviewees/drivers"
+  ],
+  "places": [
+    "burned forest (unidentified)",
+    "roadside/hitchhiking setting (unidentified)",
+    "unresolved chair location"
+  ],
+  "works": [
+    "Thumbs UP Season 4 Trailer",
+    "Thumbs Up! Season 4"
+  ],
+  "themes": [
+    "career aspirations",
+    "helping poor people",
+    "burned forest",
+    "jumper ambiguity",
+    "sexual-orientation/ride wordplay",
+    "hitchhiking",
+    "stranger ride",
+    "found money/property",
+    "Mormon stereotype",
+    "racialized food trope",
+    "visual montage",
+    "missing response"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "career question: archaeologist"
+    },
+    {
+      "t": 1,
+      "title": "service/help-the-poor aspiration"
+    },
+    {
+      "t": 4,
+      "title": "speaker ends/deflects the exchange"
+    },
+    {
+      "t": 4.5,
+      "title": "asks CJ what they want to be"
+    },
+    {
+      "t": 7,
+      "title": "affirming response"
+    },
+    {
+      "t": 8,
+      "title": "describes a dead forest"
+    },
+    {
+      "t": 9,
+      "title": "burned, blackened forest"
+    },
+    {
+      "t": 10,
+      "title": "calls the forest evil"
+    },
+    {
+      "t": 11,
+      "title": "“that’s a jumper right there” [referent unresolved]"
+    },
+    {
+      "t": 13,
+      "title": "sexual-orientation statement/pun setup"
+    },
+    {
+      "t": 14,
+      "title": "sometimes needs a ride"
+    },
+    {
+      "t": 15,
+      "title": "says they had not yet begun hitchhiking"
+    },
+    {
+      "t": 16,
+      "title": "driver reportedly stopped for them without a visible hitchhiking request"
+    },
+    {
+      "t": 17,
+      "title": "“that’s not us” [referent unresolved]"
+    },
+    {
+      "t": 18,
+      "title": "found-object/money likened to money from heaven"
+    },
+    {
+      "t": 20,
+      "title": "[uncertain phrase about picking it up/over]"
+    },
+    {
+      "t": 23,
+      "title": "new interview/question fragment"
+    },
+    {
+      "t": 24,
+      "title": "asks a generalizing question about Mormons"
+    },
+    {
+      "t": 25,
+      "title": "chicken-and-watermelon stereotype bait"
+    },
+    {
+      "t": 26,
+      "title": "response absent from captions"
+    },
+    {
+      "t": 51,
+      "title": "“let’s go check the chair” [visual referent unresolved]"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "career aspirations",
+      "relationship": "The opening asks about archaeology and helping poor people."
+    },
+    {
+      "t": 4,
+      "to": "child/participant boundary",
+      "relationship": "A speaker stops or deflects the interview before asking CJ."
+    },
+    {
+      "t": 8,
+      "to": "burned forest",
+      "relationship": "A new location fragment describes environmental devastation through moralized language."
+    },
+    {
+      "t": 11,
+      "to": "jumper ambiguity",
+      "relationship": "Without the image, “jumper” could denote a person, animal or object and carries possible self-harm risk."
+    },
+    {
+      "t": 13,
+      "to": "straight/ride wordplay",
+      "relationship": "Sexual orientation and needing a ride may form a pun, but the edit removes context."
+    },
+    {
+      "t": 15,
+      "to": "hitchhiking",
+      "relationship": "The travelers say a driver stopped before they began signaling."
+    },
+    {
+      "t": 16,
+      "to": "unsolicited ride",
+      "relationship": "A stranger-ride moment remains history, not travel-safety guidance."
+    },
+    {
+      "t": 17,
+      "to": "unresolved visual referent",
+      "relationship": "“That’s not us” cannot be connected confidently to the ride or next money shot."
+    },
+    {
+      "t": 18,
+      "to": "found money/property",
+      "relationship": "“Money from heaven” does not establish ownership or permission to take it."
+    },
+    {
+      "t": 20,
+      "to": "damaged action phrase",
+      "relationship": "The caption does not securely reveal whether something was picked up."
+    },
+    {
+      "t": 23,
+      "to": "religious stereotype question",
+      "relationship": "A hard cut introduces a question about Mormons."
+    },
+    {
+      "t": 25,
+      "to": "racialized food trope",
+      "relationship": "Chicken-and-watermelon language has a racial stereotype history even when attached to another group."
+    },
+    {
+      "t": 26,
+      "to": "missing response",
+      "relationship": "The trailer supplies no answer, so it cannot be used as endorsement."
+    },
+    {
+      "t": 51,
+      "to": "chair fragment",
+      "relationship": "A final distant line depends entirely on unseen visual context."
+    }
+  ],
+  "source_notes": [
+    "Official David Choe channel upload.",
+    "Automatic captions contain 18 long records / 109 words / 0:55.",
+    "Long time gaps and hard cuts prove montage structure.",
+    "CJ is a spoken name only and is not identified.",
+    "The burned forest location/event is unknown.",
+    "“Jumper” requires audiovisual inspection.",
+    "The straight/ride line may be wordplay but context is insufficient.",
+    "A driver reportedly stopped before hitchhiking began.",
+    "The ride is not presented as safe practice.",
+    "“That’s not us” has no secure visual referent.",
+    "Found-money ownership and action are unresolved.",
+    "The Mormon/chicken/watermelon line is a question, not an answer.",
+    "No response to the stereotype question appears in captions.",
+    "Chicken-and-watermelon carries racialized historical baggage.",
+    "The final chair line is visually dependent.",
+    "No publisher speaker prefixes exist.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "possible child participant",
+    "burned/dead landscape",
+    "possible self-harm reference",
+    "sexual-orientation language",
+    "hitchhiking",
+    "stranger ride",
+    "found property",
+    "religious stereotype",
+    "racialized food trope",
+    "montage decontextualization",
+    "missing response"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; hard-cut trailer captions have no prefixes"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve every fragment uncensored but never reconstruct one continuous trip, location or conversation"
+    },
+    {
+      "t": -0.04,
+      "rule": "keep “jumper” audiovisual-required and do not identify or sensationalize a possible self-harm event"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not present hitchhiking or accepting an unsolicited stranger ride as safety guidance"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not infer ownership/permission or encourage taking the “money from heaven” object"
+    },
+    {
+      "t": -0.01,
+      "rule": "preserve the Mormon/chicken/watermelon question as stereotype evidence without assigning belief or inventing a response"
+    },
+    {
+      "t": 0,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 1,
+      "rule": "retain minimal spoken context; do not identify/profile a likely minor"
+    },
+    {
+      "t": 4,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 4.5,
+      "rule": "retain minimal spoken context; do not identify/profile a likely minor"
+    },
+    {
+      "t": 7,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 8,
+      "rule": "preserve wording with visual uncertainty and warning; do not identify a person/event or surface as self-harm spectacle"
+    },
+    {
+      "t": 9,
+      "rule": "preserve wording with visual uncertainty and warning; do not identify a person/event or surface as self-harm spectacle"
+    },
+    {
+      "t": 10,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 11,
+      "rule": "preserve wording with visual uncertainty and warning; do not identify a person/event or surface as self-harm spectacle"
+    },
+    {
+      "t": 13,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 14,
+      "rule": "retain as travel anecdote; do not present unsolicited stranger rides or hitchhiking as safety guidance"
+    },
+    {
+      "t": 15,
+      "rule": "retain as travel anecdote; do not present unsolicited stranger rides or hitchhiking as safety guidance"
+    },
+    {
+      "t": 16,
+      "rule": "retain as travel anecdote; do not present unsolicited stranger rides or hitchhiking as safety guidance"
+    },
+    {
+      "t": 17,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 18,
+      "rule": "preserve as unresolved found-property fragment; do not infer ownership, permission or encourage taking property"
+    },
+    {
+      "t": 20,
+      "rule": "preserve as unresolved found-property fragment; do not infer ownership, permission or encourage taking property"
+    },
+    {
+      "t": 23,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 24,
+      "rule": "preserve the question uncensored; label group/racial stereotype and do not infer belief or missing response"
+    },
+    {
+      "t": 25,
+      "rule": "preserve the question uncensored; label group/racial stereotype and do not infer belief or missing response"
+    },
+    {
+      "t": 26,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    },
+    {
+      "t": 51,
+      "rule": "preserve as a separate montage fragment; do not join speakers, locations or events"
+    }
+  ]
+}

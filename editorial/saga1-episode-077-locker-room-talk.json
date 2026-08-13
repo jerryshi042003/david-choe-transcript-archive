@@ -1,0 +1,767 @@
+{
+  "episode_id": "saga1-episode-077-locker-room-talk",
+  "title": "Locker Room Talk",
+  "reviewed_on": "2026-07-30",
+  "summary": "Episode 77 is framed as locker-room talk while Asa Akira is absent, then repeatedly turns absent partners, fans and workers into intimate material without demonstrated publication consent. Its strongest documentary value is not the explicit detail but the participants' live recognition that boundaries are being crossed: a private partner is said not to want her medical and sexual life discussed; the room says the show has become large enough to affect real encounters; and a bowling bet is treated as if it could transfer access to an absent co-host's body. The archive minimizes those dossiers and rejects sex-for-shelter advice, violence, wager-based consent, secret-recording exceptionalism, rape misinformation, sex-worker stigma and unpaid-restaurant-work advice. Public material remains rich: Choe's November 20, 2013 alice + olivia collaboration with Stacey Bendet; Sushi Nakazawa, David Chang, Aziz Ansari and Toro; Dark Dick's episode-specific fan art; the DVDASA hiring experiment; Choe's claimed 8MM set graffiti; and the 500-copy Into the Limelight vinyl with Edison and Capsule Labs credits. Named dialogue remains withheld.",
+  "speaker_policy": "Named dialogue remains withheld. Episode 77 has zero diarized turns and five coarse window embeddings for a changing ensemble. Public participants are contextually known, but no independently held-out multispeaker validation has passed.",
+  "sensitivity": "Absent-person sexual disclosure; coercive shelter recap; choking; fan harassment; workplace status and role stacking; drug speculation; unpaid labor; private proposal logistics; private medical information; explicit publication objection; body shaming; mental-health speculation; secret intimate recording; rape misinformation; bodily fluids; disordered eating; sex-worker stigma; wager-based sexual entitlement; workplace sexualization; fan violence.",
+  "source_notes": [
+    "Immutable ASR and cleaned segment JSON remain in the shared corpus; this record supplies editorial decisions and research anchors.",
+    "The alice + olivia event is independently dated to November 20, 2013 and publicly styled as the Kindness Project fashion-and-art collaboration.",
+    "New York Penal Law Article 250 supports the one-party recording distinction; the archive separately evaluates ethics and publication consent.",
+    "Contemporaneous reporting and later appeal coverage establish Mike Tyson's 1992 rape conviction; the episode's escort-to-the-door explanation is false.",
+    "CDC guidance supports pain, soreness, itching and dyspareunia as possible candidiasis symptoms; the private partner's diagnosis is not republished.",
+    "Sushi Nakazawa opened in New York in 2013 with Daisuke Nakazawa, known from Jiro Dreams of Sushi.",
+    "The 8MM art credit, Vung Tau/Yao Ming restaurant story, Dark Dick archive, exact Capsule Labs credit and massage-oil release remain open research leads."
+  ],
+  "quality": {
+    "raw_segments": 2910,
+    "clean_segments": 2908,
+    "words_approx": 22648,
+    "duration_seconds": 7425.12,
+    "accepted_context_decisions": 242,
+    "chapters": 139,
+    "connections": 30,
+    "content_warnings": 25,
+    "identity_windows": 5,
+    "named_turns": 0,
+    "cleaning_drops": 2
+  },
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Cold open and absent co-host"
+    },
+    {
+      "t": 72,
+      "title": "Locker-room framing"
+    },
+    {
+      "t": 112,
+      "title": "Absent co-host's intimate history"
+    },
+    {
+      "t": 168,
+      "title": "Breath restriction discussed"
+    },
+    {
+      "t": 231,
+      "title": "Episode 76 coercion recap"
+    },
+    {
+      "t": 338,
+      "title": "New York mural puzzle"
+    },
+    {
+      "t": 392,
+      "title": "Taco stereotyping"
+    },
+    {
+      "t": 470,
+      "title": "BOBASA and Bobby Trivia"
+    },
+    {
+      "t": 535,
+      "title": "Critter confronts status hierarchy"
+    },
+    {
+      "t": 585,
+      "title": "Violent retaliation rejected"
+    },
+    {
+      "t": 644,
+      "title": "Phone attention conflict"
+    },
+    {
+      "t": 705,
+      "title": "Slink Johnson comparison"
+    },
+    {
+      "t": 770,
+      "title": "Question dismissed"
+    },
+    {
+      "t": 845,
+      "title": "alice + olivia trip"
+    },
+    {
+      "t": 880,
+      "title": "Stacey Bendet collaboration"
+    },
+    {
+      "t": 915,
+      "title": "Watercolor dress"
+    },
+    {
+      "t": 965,
+      "title": "Embellished red suit"
+    },
+    {
+      "t": 1030,
+      "title": "Critter's stacked jobs"
+    },
+    {
+      "t": 1095,
+      "title": "Professional security dispute"
+    },
+    {
+      "t": 1150,
+      "title": "Fans recognize Critter"
+    },
+    {
+      "t": 1205,
+      "title": "Harry Kim merchandise"
+    },
+    {
+      "t": 1235,
+      "title": "Dirty Hands screening story"
+    },
+    {
+      "t": 1280,
+      "title": "Repeated fan questions"
+    },
+    {
+      "t": 1310,
+      "title": "Security and fan dignity"
+    },
+    {
+      "t": 1395,
+      "title": "Sushi Nakazawa"
+    },
+    {
+      "t": 1425,
+      "title": "Daisuke Nakazawa and Jiro"
+    },
+    {
+      "t": 1475,
+      "title": "Dinner with David Chang and Aziz Ansari"
+    },
+    {
+      "t": 1560,
+      "title": "Reservation access"
+    },
+    {
+      "t": 1665,
+      "title": "No-photo boundary"
+    },
+    {
+      "t": 1740,
+      "title": "Celebrity fan-interaction model"
+    },
+    {
+      "t": 1815,
+      "title": "Scott Weiland encounter"
+    },
+    {
+      "t": 1870,
+      "title": "Big Empty"
+    },
+    {
+      "t": 1925,
+      "title": "Drug speculation rejected"
+    },
+    {
+      "t": 1990,
+      "title": "Vung Tau restaurant puzzle"
+    },
+    {
+      "t": 2015,
+      "title": "Yao Ming encounter"
+    },
+    {
+      "t": 2100,
+      "title": "No-autograph boundary"
+    },
+    {
+      "t": 2170,
+      "title": "Superfan access pressure"
+    },
+    {
+      "t": 2260,
+      "title": "Granola prank revealed"
+    },
+    {
+      "t": 2320,
+      "title": "Email prediction"
+    },
+    {
+      "t": 2390,
+      "title": "Dark Dick fan art"
+    },
+    {
+      "t": 2440,
+      "title": "Archived comments as source lead"
+    },
+    {
+      "t": 2500,
+      "title": "Pseudonym and anatomy pressure"
+    },
+    {
+      "t": 2570,
+      "title": "Fan-art superhero labels"
+    },
+    {
+      "t": 2700,
+      "title": "Momofuku scale claim"
+    },
+    {
+      "t": 2760,
+      "title": "Hiring philosophy paraphrase"
+    },
+    {
+      "t": 2790,
+      "title": "Unpaid dishwashing advice"
+    },
+    {
+      "t": 2860,
+      "title": "Cooking-school credential"
+    },
+    {
+      "t": 2930,
+      "title": "DVDASA candidate funnel"
+    },
+    {
+      "t": 3000,
+      "title": "Jobs project continuity"
+    },
+    {
+      "t": 3060,
+      "title": "Speculative work boundaries"
+    },
+    {
+      "t": 3140,
+      "title": "Raw-footage assignment"
+    },
+    {
+      "t": 3230,
+      "title": "Critter business development"
+    },
+    {
+      "t": 3340,
+      "title": "Proposal logistics"
+    },
+    {
+      "t": 3410,
+      "title": "Old graffiti location"
+    },
+    {
+      "t": 3480,
+      "title": "8MM correction"
+    },
+    {
+      "t": 3540,
+      "title": "Commissioned set art"
+    },
+    {
+      "t": 3600,
+      "title": "Paintball-gun allegation"
+    },
+    {
+      "t": 3690,
+      "title": "Little Dragon"
+    },
+    {
+      "t": 3715,
+      "title": "The Lady in Red"
+    },
+    {
+      "t": 3790,
+      "title": "Proposal and sexual obligation"
+    },
+    {
+      "t": 3860,
+      "title": "Marriage stereotype"
+    },
+    {
+      "t": 3940,
+      "title": "Partner medical privacy"
+    },
+    {
+      "t": 4030,
+      "title": "Partner's explicit objection"
+    },
+    {
+      "t": 4050,
+      "title": "Too-late publication failure"
+    },
+    {
+      "t": 4120,
+      "title": "Catching Fire outing"
+    },
+    {
+      "t": 4210,
+      "title": "Kalilah naming balance"
+    },
+    {
+      "t": 4310,
+      "title": "Jacuzzi Boy recognized"
+    },
+    {
+      "t": 4370,
+      "title": "Ambiguous bar contact"
+    },
+    {
+      "t": 4430,
+      "title": "Venue withheld"
+    },
+    {
+      "t": 4480,
+      "title": "Guest-consent joke"
+    },
+    {
+      "t": 4550,
+      "title": "Show harms acknowledged"
+    },
+    {
+      "t": 4680,
+      "title": "Private fan contact"
+    },
+    {
+      "t": 4740,
+      "title": "Mental-health dossier withheld"
+    },
+    {
+      "t": 4800,
+      "title": "Body-size catfishing claim"
+    },
+    {
+      "t": 4870,
+      "title": "Girl, Interrupted"
+    },
+    {
+      "t": 4930,
+      "title": "Sasha Grey comparison"
+    },
+    {
+      "t": 5000,
+      "title": "Silent exit strategy"
+    },
+    {
+      "t": 5070,
+      "title": "Armenian Virgin callback"
+    },
+    {
+      "t": 5150,
+      "title": "Mike Tyson rape misinformation"
+    },
+    {
+      "t": 5230,
+      "title": "Secret recording and New York law"
+    },
+    {
+      "t": 5310,
+      "title": "Recording is not full consent"
+    },
+    {
+      "t": 5400,
+      "title": "Urine nutrition myth"
+    },
+    {
+      "t": 5500,
+      "title": "Adult age not established"
+    },
+    {
+      "t": 5600,
+      "title": "Explicit encounter conclusion"
+    },
+    {
+      "t": 5680,
+      "title": "Diagnosis-by-behavior rejected"
+    },
+    {
+      "t": 5720,
+      "title": "Toro and Momofuku"
+    },
+    {
+      "t": 5735,
+      "title": "Bingeing and vomiting disclosure"
+    },
+    {
+      "t": 5775,
+      "title": "Room reacts"
+    },
+    {
+      "t": 5810,
+      "title": "Absent co-host story resumes"
+    },
+    {
+      "t": 5880,
+      "title": "Forced sexual contact language"
+    },
+    {
+      "t": 5910,
+      "title": "Sex-worker stigma"
+    },
+    {
+      "t": 5940,
+      "title": "Non-listening is not permission"
+    },
+    {
+      "t": 5970,
+      "title": "Bet cannot transfer consent"
+    },
+    {
+      "t": 5980,
+      "title": "Massage-oil product concept"
+    },
+    {
+      "t": 6040,
+      "title": "Testing and cleanliness myth"
+    },
+    {
+      "t": 6110,
+      "title": "Proposal-sex expectation"
+    },
+    {
+      "t": 6140,
+      "title": "Partner boundary repeated"
+    },
+    {
+      "t": 6160,
+      "title": "Room names boundary failure"
+    },
+    {
+      "t": 6170,
+      "title": "Proposal photography"
+    },
+    {
+      "t": 6215,
+      "title": "Sex-quota contract joke"
+    },
+    {
+      "t": 6245,
+      "title": "Asa owes nobody contact"
+    },
+    {
+      "t": 6265,
+      "title": "Nude product demonstration"
+    },
+    {
+      "t": 6290,
+      "title": "Workplace sexual boundaries"
+    },
+    {
+      "t": 6310,
+      "title": "Valentin's private partners"
+    },
+    {
+      "t": 6370,
+      "title": "No-one-listens premise collapses"
+    },
+    {
+      "t": 6427,
+      "title": "Critter improvises theme"
+    },
+    {
+      "t": 6490,
+      "title": "Bobby Trivia introduction"
+    },
+    {
+      "t": 6500,
+      "title": "Audience growth chills disclosure"
+    },
+    {
+      "t": 6520,
+      "title": "Bar retaliation callback"
+    },
+    {
+      "t": 6545,
+      "title": "Into the Limelight promotion"
+    },
+    {
+      "t": 6590,
+      "title": "Coogi cover portrait"
+    },
+    {
+      "t": 6600,
+      "title": "Etched vinyl artwork"
+    },
+    {
+      "t": 6675,
+      "title": "Private-partner portrait"
+    },
+    {
+      "t": 6708,
+      "title": "Sibling validation callback"
+    },
+    {
+      "t": 6760,
+      "title": "One-take album mythmaking"
+    },
+    {
+      "t": 6780,
+      "title": "Edison production credit"
+    },
+    {
+      "t": 6850,
+      "title": "Parodies and film sketches"
+    },
+    {
+      "t": 6880,
+      "title": "Record-player seduction pitch"
+    },
+    {
+      "t": 6905,
+      "title": "False sexual marketing claim"
+    },
+    {
+      "t": 6912,
+      "title": "Album title"
+    },
+    {
+      "t": 6925,
+      "title": "Big Empty performance"
+    },
+    {
+      "t": 6950,
+      "title": "The Crow correction"
+    },
+    {
+      "t": 6970,
+      "title": "Scott Weiland ban lifted"
+    },
+    {
+      "t": 7022,
+      "title": "Future fan encounter hypothetical"
+    },
+    {
+      "t": 7090,
+      "title": "Chester Bennington era"
+    },
+    {
+      "t": 7115,
+      "title": "Trivia scoring dispute"
+    },
+    {
+      "t": 7140,
+      "title": "Famous Steves"
+    },
+    {
+      "t": 7160,
+      "title": "Stone Cold Steve Austin"
+    },
+    {
+      "t": 7190,
+      "title": "Nucky Thompson confusion"
+    },
+    {
+      "t": 7225,
+      "title": "Steve Buscemi"
+    },
+    {
+      "t": 7247,
+      "title": "Prize handoff"
+    },
+    {
+      "t": 7260,
+      "title": "Midnight close"
+    },
+    {
+      "t": 7270,
+      "title": "Formal sign-off"
+    },
+    {
+      "t": 7280,
+      "title": "Capsule Labs credit"
+    },
+    {
+      "t": 7300,
+      "title": "Associate thank-yous"
+    },
+    {
+      "t": 7320,
+      "title": "Future privacy threat"
+    },
+    {
+      "t": 7338,
+      "title": "DVDASA close"
+    },
+    {
+      "t": 7403,
+      "title": "Post-roll proposal timing"
+    },
+    {
+      "t": 7425,
+      "title": "End"
+    }
+  ],
+  "connections": [
+    {
+      "from": 231,
+      "to": "Episode 76 housing and sexual-coercion ledger",
+      "relationship": "The previous episode's harmful shelter story is repeated as advice and rejected again"
+    },
+    {
+      "from": 535,
+      "to": "DVDASA labor and status ledger",
+      "relationship": "Critter and Valentin identify fame hierarchy and unanswered questions as workplace problems"
+    },
+    {
+      "from": 845,
+      "to": "David Choe fashion timeline",
+      "relationship": "The November 20, 2013 alice + olivia Kindness Project launch becomes a dated creative event"
+    },
+    {
+      "from": 1030,
+      "to": "Critter Fleming labor timeline",
+      "relationship": "Driver, publicist, assistant, security, trainer and camera duties reveal role stacking"
+    },
+    {
+      "from": 1150,
+      "to": "DVDASA fandom-growth timeline",
+      "relationship": "Fans physically shake when meeting Critter, marking cast-level recognition"
+    },
+    {
+      "from": 1235,
+      "to": "Dirty Hands exhibition history",
+      "relationship": "A fan reports screening Harry Kim's documentary at an unidentified festival"
+    },
+    {
+      "from": 1395,
+      "to": "David Choe New York food timeline",
+      "relationship": "Sushi Nakazawa, David Chang, Aziz Ansari, Toro and Momofuku form a dense trip itinerary"
+    },
+    {
+      "from": 1665,
+      "to": "public-figure fan-boundary ledger",
+      "relationship": "Conversation without photography is treated as a legitimate differentiated boundary"
+    },
+    {
+      "from": 1815,
+      "to": "music and celebrity encounter timeline",
+      "relationship": "Scott Weiland and Big Empty anchor the bar story and closing trivia"
+    },
+    {
+      "from": 2390,
+      "to": "DVDASA fan-art and web-archive census",
+      "relationship": "Dark Dick's episode-specific comment art is a priority source lead"
+    },
+    {
+      "from": 2760,
+      "to": "David Chang and Momofuku source census",
+      "relationship": "The cast relays a hiring anecdote that requires separation from verified company policy"
+    },
+    {
+      "from": 2930,
+      "to": "Episode 75 jobs.dvdasa timeline",
+      "relationship": "Hundreds of applications and five finalists continue the hiring experiment"
+    },
+    {
+      "from": 3230,
+      "to": "Critter Fleming role timeline",
+      "relationship": "Business development joins the already extensive production and personal-service duties"
+    },
+    {
+      "from": 3480,
+      "to": "David Choe screen-art timeline",
+      "relationship": "The host identifies commissioned graffiti in 8MM, a credit still needing independent confirmation"
+    },
+    {
+      "from": 4030,
+      "to": "DVDASA publication-consent ledger",
+      "relationship": "A private partner's explicit desire not to be discussed is acknowledged and overridden"
+    },
+    {
+      "from": 4310,
+      "to": "Jacuzzi Boy recognition ledger",
+      "relationship": "A bar confrontation shows the offline consequences of show nicknames"
+    },
+    {
+      "from": 4550,
+      "to": "DVDASA harm-awareness timeline",
+      "relationship": "The room says the show ruins lives while continuing to pressure disclosure"
+    },
+    {
+      "from": 5150,
+      "to": "rape-misinformation ledger",
+      "relationship": "A false explanation of Mike Tyson's conviction is corrected against the criminal record"
+    },
+    {
+      "from": 5230,
+      "to": "recording and publication-consent ledger",
+      "relationship": "One-party recording legality is separated from consent to intimate publication"
+    },
+    {
+      "from": 5720,
+      "to": "David Choe eating and health timeline",
+      "relationship": "Celebratory restaurant access shifts into repeated vomiting after overeating"
+    },
+    {
+      "from": 5810,
+      "to": "Asa Akira scope-of-consent ledger",
+      "relationship": "The absent co-host's intimate history is narrated without evidence of permission"
+    },
+    {
+      "from": 5970,
+      "to": "DVDASA wager and bodily-autonomy ledger",
+      "relationship": "A bowling bet is wrongly treated as transferable access to Asa's body"
+    },
+    {
+      "from": 5980,
+      "to": "DVDASA product-development timeline",
+      "relationship": "An Asa Akira massage-oil concept appears, with release status still unverified"
+    },
+    {
+      "from": 6140,
+      "to": "Bobby Lee–Kalilah privacy timeline",
+      "relationship": "The partner's boundary is stated again during proposal planning"
+    },
+    {
+      "from": 6500,
+      "to": "DVDASA audience-growth timeline",
+      "relationship": "Valentin's refusal prompts acknowledgment that recognition now constrains disclosure"
+    },
+    {
+      "from": 6545,
+      "to": "DVDASA physical-media timeline",
+      "relationship": "The 500-copy Into the Limelight vinyl is tied to shop purchases"
+    },
+    {
+      "from": 6600,
+      "to": "David Choe editioned-art timeline",
+      "relationship": "Cover, insert and etched-vinyl artwork turn the comedy album into a collectible object"
+    },
+    {
+      "from": 6708,
+      "to": "Episode 76 sibling-validation thread",
+      "relationship": "Bobby's album response echoes the prior episode's question of family versus independent approval"
+    },
+    {
+      "from": 7280,
+      "to": "DVDASA production-credit ledger",
+      "relationship": "Gil and Capsule Labs receive episode-era mastering and mixing credit"
+    },
+    {
+      "from": 7403,
+      "to": "proposal privacy ledger",
+      "relationship": "A post-roll exchange exposes schedule and location timing that the archive minimizes"
+    }
+  ],
+  "content_warnings": [
+    "absent-person explicit sexual disclosure",
+    "breath restriction and choking",
+    "sex-for-shelter coercion recap",
+    "assault and forced-removal jokes",
+    "racial and ethnic stereotyping",
+    "workplace status and retaliation",
+    "fan harassment and security escalation",
+    "drug-use speculation",
+    "unpaid labor and unsafe hiring advice",
+    "private proposal logistics and location details",
+    "unverified theft allegation",
+    "private partner medical information",
+    "explicit objection to publication",
+    "body shaming and mental-health speculation",
+    "secret intimate recording",
+    "rape misinformation",
+    "urine and bodily-fluid content",
+    "binge eating and self-induced vomiting",
+    "sex-worker stigma",
+    "wager-based sexual entitlement",
+    "workplace sexualization",
+    "private partners and identifying vehicles",
+    "violence toward fans",
+    "sexual-health misinformation",
+    "future threat to publish private sexual information"
+  ]
+}

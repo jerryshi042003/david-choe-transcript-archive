@@ -1,0 +1,1446 @@
+{
+  "episode_id": "mB3oDYYlcF0",
+  "title": "The RZA + David Choe — A Black Mozart x Korean Jesus Collaboration",
+  "reviewed_on": "2026-07-31",
+  "summary": "RZA and David Choe create a collaborative painting for Hurricane Sandy relief while discussing Staten Island family damage, painting, film, Wu-Tang legacy, creative influence, Asian representation, sexual retention, incarceration, explicit comedy, friendship and film-set culture. The record repairs 160 damaged names, titles, places and concepts while preserving every mask and idea. Strongest evidence is the observed work session and creative-method accounts; charity accounting, film credits, representation firsts, health/Taoist claims and private stories remain attributed or verification-required.",
+  "quality": {
+    "raw_segments": 763,
+    "clean_segments": 763,
+    "raw_words_approx": 5715,
+    "clean_words_approx": 5715,
+    "duration_seconds": 2091,
+    "accepted_context_decisions": 160,
+    "chapters": 145,
+    "connections": 24,
+    "content_warnings": 24,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 126
+  },
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "RZA and David Choe are visible public participants, but all 763 automatic-caption segments lack publisher prefixes and include crew, music, quotation, jokes, overlap and damaged clauses. Named turns require independently held-out acoustic/video validation."
+  },
+  "people": [
+    "David Choe",
+    "RZA",
+    "Eli Roth",
+    "Samuel L. Jackson",
+    "Danny Glover",
+    "Taylor Kitsch",
+    "Julia Stiles",
+    "Ol’ Dirty Bastard",
+    "Money Mark",
+    "Quentin Tarantino",
+    "Russell Crowe",
+    "Rick Yune",
+    "Jamie Chung",
+    "Steven Yeun",
+    "Mantak Chia"
+  ],
+  "places": [
+    "Staten Island",
+    "Queens",
+    "New York",
+    "Denver",
+    "China",
+    "Japan",
+    "private family residences",
+    "private prison location"
+  ],
+  "works": [
+    "collaborative Hurricane Sandy relief painting",
+    "The Man with the Iron Fists",
+    "Gospel Hill",
+    "Wu-Tang Clan",
+    "Rock the Bells",
+    "Gangnam Style",
+    "Check Your Head",
+    "Iron Shirt Qigong",
+    "Iron Palm",
+    "The Walking Dead",
+    "Death Proof",
+    "Kill Bill",
+    "Kung Fu Hustle"
+  ],
+  "themes": [
+    "charity art",
+    "disaster testimony",
+    "live painting",
+    "creative process",
+    "screenwriting and directing",
+    "principle versus form",
+    "creative influence",
+    "music legacy",
+    "Asian representation",
+    "health self-report",
+    "sexual retention",
+    "Taoist practice",
+    "incarceration",
+    "explicit comedy",
+    "coercion hypothetical",
+    "women’s objectification and self-critique",
+    "cross-cultural production"
+  ],
+  "chapters": [
+    {
+      "t": 0.32,
+      "title": "RZA identifies himself through The Man with the Iron Fists imagery"
+    },
+    {
+      "t": 2.39,
+      "title": "Abbot of the Wu-Tang Clan"
+    },
+    {
+      "t": 8,
+      "title": "do not invent opening fragment"
+    },
+    {
+      "t": 32,
+      "title": ", get out the way"
+    },
+    {
+      "t": 40,
+      "title": "David Choe and RZA"
+    },
+    {
+      "t": 43,
+      "title": "Hurricane Sandy victim charity event"
+    },
+    {
+      "t": 47,
+      "title": "Staten Island"
+    },
+    {
+      "t": 48,
+      "title": "Queens, of course"
+    },
+    {
+      "t": 50,
+      "title": "Staten Island"
+    },
+    {
+      "t": 54,
+      "title": "Staten Island"
+    },
+    {
+      "t": 56,
+      "title": "some of her property/home got damaged"
+    },
+    {
+      "t": 64,
+      "title": "shelter"
+    },
+    {
+      "t": 66,
+      "title": "a tree on my property"
+    },
+    {
+      "t": 79,
+      "title": "tree landed on the house"
+    },
+    {
+      "t": 97,
+      "title": "lawn-mower tractor"
+    },
+    {
+      "t": 118,
+      "title": "get out of the tractor"
+    },
+    {
+      "t": 130,
+      "title": "Hurricane Sandy"
+    },
+    {
+      "t": 140,
+      "title": "out of my way"
+    },
+    {
+      "t": 229,
+      "title": "Phantom high-speed camera"
+    },
+    {
+      "t": 237,
+      "title": "staged flaming-punch proposal"
+    },
+    {
+      "t": 243,
+      "title": "foam fists like Incredible Hulk fists"
+    },
+    {
+      "t": 248,
+      "title": "gasoline applied to prop"
+    },
+    {
+      "t": 250,
+      "title": "Choe reports his face/hair catching fire"
+    },
+    {
+      "t": 270,
+      "title": "The Man with the Iron Fists"
+    },
+    {
+      "t": 284,
+      "title": "Eli Roth"
+    },
+    {
+      "t": 286,
+      "title": "I wrote it first by myself"
+    },
+    {
+      "t": 292,
+      "title": "make it Hollywood-ready/better"
+    },
+    {
+      "t": 304,
+      "title": "hip-hop writing versus executive format"
+    },
+    {
+      "t": 364,
+      "title": "Eli Roth"
+    },
+    {
+      "t": 381,
+      "title": "upcoming acting role in February"
+    },
+    {
+      "t": 387,
+      "title": "samurai/apocalypse season"
+    },
+    {
+      "t": 412,
+      "title": "what’s the movie?"
+    },
+    {
+      "t": 419,
+      "title": "driving-test examiner"
+    },
+    {
+      "t": 425,
+      "title": "psychopath"
+    },
+    {
+      "t": 430,
+      "title": "listening required"
+    },
+    {
+      "t": 438,
+      "title": "directing is hard work"
+    },
+    {
+      "t": 452,
+      "title": "fast painting style"
+    },
+    {
+      "t": 456,
+      "title": "long-form style takes months"
+    },
+    {
+      "t": 459,
+      "title": "six-month painting process estimate"
+    },
+    {
+      "t": 461,
+      "title": "live-painting time compression"
+    },
+    {
+      "t": 480,
+      "title": "painting session"
+    },
+    {
+      "t": 486,
+      "title": "comic involving Wu-Tang/RZA"
+    },
+    {
+      "t": 498,
+      "title": "Denver during the Democratic National Convention"
+    },
+    {
+      "t": 505,
+      "title": "artist friend"
+    },
+    {
+      "t": 510,
+      "title": "strip club"
+    },
+    {
+      "t": 531,
+      "title": "Wu-Tang"
+    },
+    {
+      "t": 533,
+      "title": "RZA"
+    },
+    {
+      "t": 539,
+      "title": "do not guess"
+    },
+    {
+      "t": 548,
+      "title": "Gospel Hill"
+    },
+    {
+      "t": 550,
+      "title": "Samuel L. Jackson"
+    },
+    {
+      "t": 552,
+      "title": "Danny Glover"
+    },
+    {
+      "t": 552.5,
+      "title": "Taylor Kitsch"
+    },
+    {
+      "t": 554,
+      "title": "Julia Stiles"
+    },
+    {
+      "t": 557,
+      "title": "Black political audience/support for Barack Obama"
+    },
+    {
+      "t": 561,
+      "title": "2008 presidential election"
+    },
+    {
+      "t": 580,
+      "title": "privacy/listening required"
+    },
+    {
+      "t": 637,
+      "title": "touring frequency question"
+    },
+    {
+      "t": 643,
+      "title": "$20,000–$30,000 weekend-gig estimate"
+    },
+    {
+      "t": 649,
+      "title": "reported Wu-Tang touring plan"
+    },
+    {
+      "t": 655,
+      "title": "Rock the Bells"
+    },
+    {
+      "t": 660,
+      "title": "Ol’ Dirty Bastard’s parts"
+    },
+    {
+      "t": 663,
+      "title": "Young Dirty Bastard?"
+    },
+    {
+      "t": 677,
+      "title": "through our children we reach eternity"
+    },
+    {
+      "t": 701,
+      "title": "Gangnam Style"
+    },
+    {
+      "t": 713,
+      "title": "condom-style misunderstanding"
+    },
+    {
+      "t": 717,
+      "title": "open-condom-style joke"
+    },
+    {
+      "t": 724,
+      "title": "high cholesterol and high blood pressure"
+    },
+    {
+      "t": 732,
+      "title": "doctor quotation with masked sexual-health term"
+    },
+    {
+      "t": 742,
+      "title": "prison in Japan a few years ago"
+    },
+    {
+      "t": 747,
+      "title": "only there for a few months"
+    },
+    {
+      "t": 749,
+      "title": "Tantric sexual practice"
+    },
+    {
+      "t": 752,
+      "title": "ejaculation-retention discussion"
+    },
+    {
+      "t": 785,
+      "title": "circulate sexual energy"
+    },
+    {
+      "t": 787,
+      "title": "chi/qi"
+    },
+    {
+      "t": 803,
+      "title": "Taoist way"
+    },
+    {
+      "t": 803.5,
+      "title": "internal alchemy"
+    },
+    {
+      "t": 817,
+      "title": "speaker’s anatomy explanation"
+    },
+    {
+      "t": 831,
+      "title": "under wraps/control"
+    },
+    {
+      "t": 842,
+      "title": "prison-cell routine self-report"
+    },
+    {
+      "t": 847,
+      "title": "Japanese incarceration self-report"
+    },
+    {
+      "t": 869,
+      "title": "chi/iron-body practice"
+    },
+    {
+      "t": 871,
+      "title": "five internal organs"
+    },
+    {
+      "t": 878,
+      "title": "Iron Shirt Qigong"
+    },
+    {
+      "t": 880,
+      "title": "100-day retention claim"
+    },
+    {
+      "t": 884,
+      "title": "lower dantian?"
+    },
+    {
+      "t": 892,
+      "title": "Mantak Chia"
+    },
+    {
+      "t": 900,
+      "title": "Iron Palm"
+    },
+    {
+      "t": 934,
+      "title": "30-day abstinence estimate"
+    },
+    {
+      "t": 939,
+      "title": "wet dream on a train"
+    },
+    {
+      "t": 947,
+      "title": "China class of roughly sixty students"
+    },
+    {
+      "t": 959,
+      "title": "student in dream"
+    },
+    {
+      "t": 961,
+      "title": "married student/friend"
+    },
+    {
+      "t": 972,
+      "title": "never happened outside the wet dream"
+    },
+    {
+      "t": 983,
+      "title": "summer-camp memory"
+    },
+    {
+      "t": 990,
+      "title": "toy-store dream"
+    },
+    {
+      "t": 1088,
+      "title": "caption gap"
+    },
+    {
+      "t": 1105,
+      "title": "Money Mark"
+    },
+    {
+      "t": 1108,
+      "title": "Beastie Boys"
+    },
+    {
+      "t": 1110,
+      "title": "Check Your Head"
+    },
+    {
+      "t": 1117,
+      "title": "guitar teacher"
+    },
+    {
+      "t": 1162,
+      "title": "Bruce Lee taught forms/principles"
+    },
+    {
+      "t": 1169,
+      "title": "learn principle, then adapt form"
+    },
+    {
+      "t": 1178,
+      "title": "The Man with the Iron Fists"
+    },
+    {
+      "t": 1182,
+      "title": "student of Quentin Tarantino"
+    },
+    {
+      "t": 1211,
+      "title": "lead actor discussion"
+    },
+    {
+      "t": 1227,
+      "title": "Korean actor reference"
+    },
+    {
+      "t": 1229,
+      "title": "Russell Crowe"
+    },
+    {
+      "t": 1241,
+      "title": "Rick Yune"
+    },
+    {
+      "t": 1244,
+      "title": "Zen Yi, the X-Blade"
+    },
+    {
+      "t": 1249,
+      "title": "Jamie Chung"
+    },
+    {
+      "t": 1293,
+      "title": "Centro Digital Pictures"
+    },
+    {
+      "t": 1297,
+      "title": "ownership claim"
+    },
+    {
+      "t": 1300,
+      "title": "Kung Fu Hustle"
+    },
+    {
+      "t": 1306,
+      "title": "Brass Body sequence/effect"
+    },
+    {
+      "t": 1310,
+      "title": "Gradient Effects"
+    },
+    {
+      "t": 1319,
+      "title": "practical arm effect"
+    },
+    {
+      "t": 1322,
+      "title": "The Walking Dead"
+    },
+    {
+      "t": 1335,
+      "title": "Death Proof"
+    },
+    {
+      "t": 1335.5,
+      "title": "Kill Bill"
+    },
+    {
+      "t": 1338,
+      "title": "Eli Roth"
+    },
+    {
+      "t": 1347,
+      "title": "Quentin Tarantino?"
+    },
+    {
+      "t": 1360,
+      "title": "Steven Yeun"
+    },
+    {
+      "t": 1363,
+      "title": "television sex-scene representation claim"
+    },
+    {
+      "t": 1378,
+      "title": "racial representation in pornography"
+    },
+    {
+      "t": 1432,
+      "title": "Native American representation joke"
+    },
+    {
+      "t": 1443,
+      "title": "comic boycott proposal"
+    },
+    {
+      "t": 1473,
+      "title": "religious pornography generalization"
+    },
+    {
+      "t": 1483,
+      "title": "bestiality joke/reference"
+    },
+    {
+      "t": 1489,
+      "title": "kung-fu porn parody"
+    },
+    {
+      "t": 1499,
+      "title": "fictional porn-parody technique"
+    },
+    {
+      "t": 1532,
+      "title": "Ron Jeremy"
+    },
+    {
+      "t": 1534,
+      "title": "was not Ron Jeremy"
+    },
+    {
+      "t": 1558,
+      "title": "sexual-orientation joke/debate"
+    },
+    {
+      "t": 1678,
+      "title": "hypothetical prison sexual-coercion scenario"
+    },
+    {
+      "t": 1685,
+      "title": "masked coercive sexual hypothetical"
+    },
+    {
+      "t": 1694,
+      "title": "pray and fast to Allah"
+    },
+    {
+      "t": 1705,
+      "title": "violent refusal hypothetical"
+    },
+    {
+      "t": 1732,
+      "title": "speaker says he is past killing/violence in life"
+    },
+    {
+      "t": 1756,
+      "title": "Choe proposes negotiation in hypothetical"
+    },
+    {
+      "t": 1829,
+      "title": "painting session reaches completion"
+    },
+    {
+      "t": 1842,
+      "title": "gifted ring discussion"
+    },
+    {
+      "t": 1850,
+      "title": "celibacy/sexual boundary self-report"
+    },
+    {
+      "t": 1862,
+      "title": "friendship with women without sex"
+    },
+    {
+      "t": 1870,
+      "title": "speaker critiques objectifying women"
+    },
+    {
+      "t": 1882,
+      "title": "blend/finish the painting together"
+    }
+  ],
+  "connections": [
+    {
+      "t": 43,
+      "to": "Hurricane Sandy relief",
+      "relationship": "Painting benefit responds to family and community damage on Staten Island."
+    },
+    {
+      "t": 229,
+      "to": "high-speed film experiment",
+      "relationship": "Choe links visual curiosity to a dangerous staged fire event."
+    },
+    {
+      "t": 286,
+      "to": "Eli Roth and screenwriting",
+      "relationship": "RZA describes adapting his story with a collaborator for film form."
+    },
+    {
+      "t": 452,
+      "to": "live versus long-form painting",
+      "relationship": "Choe contrasts a months-long process with a collaborative piece made in minutes."
+    },
+    {
+      "t": 486,
+      "to": "Wu-Tang/comics history",
+      "relationship": "An earlier comic encounter remains a bibliography lead."
+    },
+    {
+      "t": 498,
+      "to": "2008 Denver DNC",
+      "relationship": "Their prior meeting sits in live painting, music and nightlife around the convention."
+    },
+    {
+      "t": 548,
+      "to": "Gospel Hill",
+      "relationship": "RZA connects Denver presence to film work and political support."
+    },
+    {
+      "t": 637,
+      "to": "Wu-Tang live performance",
+      "relationship": "The session moves from directing/acting to group touring and legacy."
+    },
+    {
+      "t": 660,
+      "to": "Ol’ Dirty Bastard legacy",
+      "relationship": "A son performing his father’s parts prompts reflection on continuity through children."
+    },
+    {
+      "t": 724,
+      "to": "health and risk",
+      "relationship": "Choe’s health disclosure sits beside unsafe-sex jokes and must not become advice."
+    },
+    {
+      "t": 742,
+      "to": "Japanese incarceration",
+      "relationship": "Choe links prison boredom and isolation to learning retention practices."
+    },
+    {
+      "t": 878,
+      "to": "Iron Shirt Qigong",
+      "relationship": "RZA maps retention to a wider Taoist/chi framework."
+    },
+    {
+      "t": 892,
+      "to": "Mantak Chia",
+      "relationship": "The named author is a bibliography lead, not medical validation."
+    },
+    {
+      "t": 1105,
+      "to": "Money Mark and Beastie Boys",
+      "relationship": "A proposed lesson extends the cross-medium music network."
+    },
+    {
+      "t": 1162,
+      "to": "Bruce Lee principle over form",
+      "relationship": "RZA articulates understanding principle, then translating form."
+    },
+    {
+      "t": 1182,
+      "to": "Quentin Tarantino influence",
+      "relationship": "RZA names influence while insisting on his own translation."
+    },
+    {
+      "t": 1191,
+      "to": "Asian screen representation",
+      "relationship": "Choe praises substantial roles while retaining critique of typecasting."
+    },
+    {
+      "t": 1241,
+      "to": "Rick Yune and Jamie Chung",
+      "relationship": "Casting discussion supplies probable primary-credit leads."
+    },
+    {
+      "t": 1291,
+      "to": "visual and practical effects",
+      "relationship": "RZA distinguishes China-based digital work from American effects vendors."
+    },
+    {
+      "t": 1360,
+      "to": "Steven Yeun representation claim",
+      "relationship": "A remembered TV scene prompts a broad, unverified visibility claim."
+    },
+    {
+      "t": 1829,
+      "to": "collaborative painting completion",
+      "relationship": "The visual work returns and is jointly finished."
+    },
+    {
+      "t": 1862,
+      "to": "friendship without sex",
+      "relationship": "Choe critiques treating women as objects and reframes them as genuine friends."
+    },
+    {
+      "t": 1981,
+      "to": "film-set infrastructure",
+      "relationship": "A bathroom anecdote links production scale and workplace accommodation."
+    },
+    {
+      "t": 2076,
+      "to": "time as contribution",
+      "relationship": "The close returns to charitable labor and relief support."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 43,
+      "claim": "The session benefited Hurricane Sandy victims.",
+      "assessment": "Purpose is explicit, but recipient, accounting and current donation status are not.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 47,
+      "claim": "RZA’s family experienced Staten Island storm damage.",
+      "assessment": "First-person testimony; exact property and shelter history remain private.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 229,
+      "claim": "A fire stunt burned Choe’s face and hair.",
+      "assessment": "Dangerous anecdote; retain historically, never promote as repeatable.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 286,
+      "claim": "Eli Roth helped convert RZA’s story into film form.",
+      "assessment": "Probable context repair; exact credit requires primary evidence.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 459,
+      "claim": "Choe contrasts six months with minutes.",
+      "assessment": "Dated process estimate, not universal productivity advice.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 486,
+      "claim": "Choe made a Wu-Tang/RZA comic.",
+      "assessment": "Damaged phrase does not securely establish title or publisher.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 548,
+      "claim": "RZA was in Denver for Gospel Hill and the convention.",
+      "assessment": "Chronology and cast require primary verification.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 643,
+      "claim": "Wu-Tang weekend gigs paid $20,000–$30,000.",
+      "assessment": "Historic estimate, not audited or current rate.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 724,
+      "claim": "Choe had high cholesterol and blood pressure.",
+      "assessment": "Dated self-report, not current diagnosis.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 742,
+      "claim": "Choe spent years in Japanese prison.",
+      "assessment": "Immediately corrected to months, a few years earlier.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 878,
+      "claim": "Retention builds Iron Shirt/chi.",
+      "assessment": "Practice claim, not medical fact or safety guidance.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 892,
+      "claim": "Mantak Chia wrote the referenced books.",
+      "assessment": "Strong repair; exact titles need verification.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 1182,
+      "claim": "RZA is a student of Tarantino.",
+      "assessment": "Creative-influence description, not formal schooling.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 1293,
+      "claim": "Centro was Disney-owned and handled effects.",
+      "assessment": "Damaged company/ownership wording requires credits and corporate records.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 1310,
+      "claim": "Gradient Effects handled Brass Body.",
+      "assessment": "Probable vendor repair requiring credits/listening.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 1360,
+      "claim": "Steven Yeun had TV’s first Asian-male sex scene.",
+      "assessment": "Probable person and broad ‘first’ claim require independent chronology.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 1678,
+      "claim": "The prison coercion scenario happened.",
+      "assessment": "It is explicitly hypothetical, not an allegation or threat.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 1850,
+      "claim": "RZA was not allowed to have sex.",
+      "assessment": "Dated personal boundary; reason/duration unclear.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 1981,
+      "claim": "Crew was twenty Western and four hundred Asian people.",
+      "assessment": "Rough estimate, not audited staffing.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    },
+    {
+      "t": 2076,
+      "claim": "The appeal remains active.",
+      "assessment": "Source proves only a historic relief appeal.",
+      "source": "https://www.youtube.com/watch?v=mB3oDYYlcF0"
+    }
+  ],
+  "content_warnings": [
+    "Hurricane Sandy and displacement",
+    "dangerous fire stunt",
+    "facial and hair burning",
+    "gasoline use",
+    "unsafe-sex jokes",
+    "sexual-health discussion",
+    "high blood pressure and cholesterol",
+    "Japanese incarceration",
+    "explicit masturbation and ejaculation",
+    "painful sexual self-experimentation",
+    "private student sexual dream",
+    "minor-age uncertainty in sexual memory",
+    "Taoist health claims",
+    "graphic pornography",
+    "racial and ethnic stereotypes",
+    "religious stereotypes",
+    "Indigenous stereotypes",
+    "bestiality reference",
+    "sexual-orientation jokes",
+    "prison sexual coercion hypothetical",
+    "violent killing response",
+    "women’s objectification",
+    "graphic sanitation joke",
+    "strong language"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0.32,
+      "rule": "publish no named line-level turns before independently held-out acoustic/video validation"
+    },
+    {
+      "t": 0.32,
+      "rule": "retain raw speech; opening self-introduction; exact wording needs listening"
+    },
+    {
+      "t": 2.39,
+      "rule": "retain raw speech; canonical group/title styling"
+    },
+    {
+      "t": 8,
+      "rule": "retain raw speech; do not invent opening fragment"
+    },
+    {
+      "t": 32,
+      "rule": "retain raw speech; preserve mask and lyric fragment"
+    },
+    {
+      "t": 40,
+      "rule": "retain raw speech; visible participants; exact spoken phrasing needs listening"
+    },
+    {
+      "t": 43,
+      "rule": "retain raw speech; contextual repair"
+    },
+    {
+      "t": 47,
+      "rule": "retain raw speech; canonical place"
+    },
+    {
+      "t": 48,
+      "rule": "retain raw speech; punctuation/context"
+    },
+    {
+      "t": 50,
+      "rule": "retain raw speech; canonical place"
+    },
+    {
+      "t": 54,
+      "rule": "retain raw speech; caption truncation"
+    },
+    {
+      "t": 56,
+      "rule": "retain raw speech; do not invent object"
+    },
+    {
+      "t": 64,
+      "rule": "retain raw speech; disaster context; listening required"
+    },
+    {
+      "t": 66,
+      "rule": "retain raw speech; caption collapse; do not reconstruct"
+    },
+    {
+      "t": 79,
+      "rule": "retain raw speech; contextual repair"
+    },
+    {
+      "t": 97,
+      "rule": "retain raw speech; equipment term; listening required"
+    },
+    {
+      "t": 118,
+      "rule": "retain raw speech; caption damage"
+    },
+    {
+      "t": 130,
+      "rule": "retain raw speech; canonical event"
+    },
+    {
+      "t": 140,
+      "rule": "retain raw speech; separate music"
+    },
+    {
+      "t": 229,
+      "rule": "retain raw speech; canonical equipment class"
+    },
+    {
+      "t": 237,
+      "rule": "retain raw speech; dangerous stunt context"
+    },
+    {
+      "t": 243,
+      "rule": "retain raw speech; prop description; listening required"
+    },
+    {
+      "t": 248,
+      "rule": "retain raw speech; do not operationalize stunt"
+    },
+    {
+      "t": 250,
+      "rule": "retain raw speech; injury self-report"
+    },
+    {
+      "t": 270,
+      "rule": "retain raw speech; film context"
+    },
+    {
+      "t": 284,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 286,
+      "rule": "retain raw speech; obvious asr repair"
+    },
+    {
+      "t": 292,
+      "rule": "retain raw speech; do not overstate contribution"
+    },
+    {
+      "t": 304,
+      "rule": "retain raw speech; preserve conceptual contrast"
+    },
+    {
+      "t": 364,
+      "rule": "retain raw speech; probable public name; listening required"
+    },
+    {
+      "t": 381,
+      "rule": "retain raw speech; film title unresolved"
+    },
+    {
+      "t": 387,
+      "rule": "retain raw speech; do not guess title"
+    },
+    {
+      "t": 412,
+      "rule": "retain raw speech; punctuation"
+    },
+    {
+      "t": 419,
+      "rule": "retain raw speech; role description"
+    },
+    {
+      "t": 425,
+      "rule": "retain raw speech; preserve mask"
+    },
+    {
+      "t": 430,
+      "rule": "retain raw speech; listening required"
+    },
+    {
+      "t": 438,
+      "rule": "retain raw speech; contextual repair"
+    },
+    {
+      "t": 452,
+      "rule": "retain raw speech; art-making context"
+    },
+    {
+      "t": 456,
+      "rule": "retain raw speech; contrast with live painting; listening required"
+    },
+    {
+      "t": 459,
+      "rule": "retain raw speech; artist self-report"
+    },
+    {
+      "t": 461,
+      "rule": "retain raw speech; artist self-report"
+    },
+    {
+      "t": 480,
+      "rule": "retain raw speech; contextual repair"
+    },
+    {
+      "t": 486,
+      "rule": "retain raw speech; bibliography lead"
+    },
+    {
+      "t": 498,
+      "rule": "retain raw speech; event/location self-report"
+    },
+    {
+      "t": 505,
+      "rule": "retain raw speech; do not guess private/public identity"
+    },
+    {
+      "t": 510,
+      "rule": "retain raw speech; obvious asr repair"
+    },
+    {
+      "t": 531,
+      "rule": "retain raw speech; canonical group"
+    },
+    {
+      "t": 533,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 539,
+      "rule": "retain raw speech; do not guess"
+    },
+    {
+      "t": 548,
+      "rule": "retain raw speech; canonical film title"
+    },
+    {
+      "t": 550,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 552,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 552.5,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 554,
+      "rule": "retain raw speech; cast context; listening required"
+    },
+    {
+      "t": 557,
+      "rule": "retain raw speech; do not reconstruct exact claim"
+    },
+    {
+      "t": 561,
+      "rule": "retain raw speech; dnc chronology; verify"
+    },
+    {
+      "t": 580,
+      "rule": "retain raw speech; privacy/listening required"
+    },
+    {
+      "t": 637,
+      "rule": "retain raw speech; music context"
+    },
+    {
+      "t": 643,
+      "rule": "retain raw speech; dated self-report; not current rate"
+    },
+    {
+      "t": 649,
+      "rule": "retain raw speech; historic intent, not proof"
+    },
+    {
+      "t": 655,
+      "rule": "retain raw speech; canonical festival"
+    },
+    {
+      "t": 660,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 663,
+      "rule": "retain raw speech; do not infer from relation alone"
+    },
+    {
+      "t": 677,
+      "rule": "retain raw speech; listening required"
+    },
+    {
+      "t": 701,
+      "rule": "retain raw speech; canonical song title"
+    },
+    {
+      "t": 713,
+      "rule": "retain raw speech; joke context"
+    },
+    {
+      "t": 717,
+      "rule": "retain raw speech; unsafe sexual practice; not guidance"
+    },
+    {
+      "t": 724,
+      "rule": "retain raw speech; health self-report"
+    },
+    {
+      "t": 732,
+      "rule": "retain raw speech; do not diagnose or reconstruct"
+    },
+    {
+      "t": 742,
+      "rule": "retain raw speech; live self-correction follows"
+    },
+    {
+      "t": 747,
+      "rule": "retain raw speech; preserve correction"
+    },
+    {
+      "t": 749,
+      "rule": "retain raw speech; religious/sexual context"
+    },
+    {
+      "t": 752,
+      "rule": "retain raw speech; not medical advice"
+    },
+    {
+      "t": 785,
+      "rule": "retain raw speech; belief/practice, not physiology"
+    },
+    {
+      "t": 787,
+      "rule": "retain raw speech; canonical concept"
+    },
+    {
+      "t": 803,
+      "rule": "retain raw speech; canonical tradition; probable"
+    },
+    {
+      "t": 803.5,
+      "rule": "retain raw speech; practice context"
+    },
+    {
+      "t": 817,
+      "rule": "retain raw speech; not medical fact"
+    },
+    {
+      "t": 831,
+      "rule": "retain raw speech; caption repair"
+    },
+    {
+      "t": 842,
+      "rule": "retain raw speech; private/incarceration context"
+    },
+    {
+      "t": 847,
+      "rule": "retain raw speech; biographical attribution"
+    },
+    {
+      "t": 869,
+      "rule": "retain raw speech; canonical concept"
+    },
+    {
+      "t": 871,
+      "rule": "retain raw speech; taoist vocabulary"
+    },
+    {
+      "t": 878,
+      "rule": "retain raw speech; canonical practice name"
+    },
+    {
+      "t": 880,
+      "rule": "retain raw speech; belief/practice, not medical advice"
+    },
+    {
+      "t": 884,
+      "rule": "retain raw speech; do not invent technical term"
+    },
+    {
+      "t": 892,
+      "rule": "retain raw speech; canonical author; probable"
+    },
+    {
+      "t": 900,
+      "rule": "retain raw speech; canonical practice name"
+    },
+    {
+      "t": 934,
+      "rule": "retain raw speech; sexual self-report"
+    },
+    {
+      "t": 939,
+      "rule": "retain raw speech; obvious asr repair"
+    },
+    {
+      "t": 947,
+      "rule": "retain raw speech; self-report; identities private"
+    },
+    {
+      "t": 959,
+      "rule": "retain raw speech; do not identify"
+    },
+    {
+      "t": 961,
+      "rule": "retain raw speech; private relationship context"
+    },
+    {
+      "t": 972,
+      "rule": "retain raw speech; preserve explicit denial"
+    },
+    {
+      "t": 983,
+      "rule": "retain raw speech; minor-sensitive context"
+    },
+    {
+      "t": 990,
+      "rule": "retain raw speech; sexual dream content"
+    },
+    {
+      "t": 1088,
+      "rule": "retain raw speech; caption gap"
+    },
+    {
+      "t": 1105,
+      "rule": "retain raw speech; canonical public name; preceding phrase unresolved"
+    },
+    {
+      "t": 1108,
+      "rule": "retain raw speech; canonical group"
+    },
+    {
+      "t": 1110,
+      "rule": "retain raw speech; canonical album title"
+    },
+    {
+      "t": 1117,
+      "rule": "retain raw speech; do not guess without listening"
+    },
+    {
+      "t": 1162,
+      "rule": "retain raw speech; attribution needs listening"
+    },
+    {
+      "t": 1169,
+      "rule": "retain raw speech; creative-method statement"
+    },
+    {
+      "t": 1178,
+      "rule": "retain raw speech; canonical film title"
+    },
+    {
+      "t": 1182,
+      "rule": "retain raw speech; creative-influence self-report"
+    },
+    {
+      "t": 1211,
+      "rule": "retain raw speech; do not guess name"
+    },
+    {
+      "t": 1227,
+      "rule": "retain raw speech; identity unresolved until next named span"
+    },
+    {
+      "t": 1229,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1241,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1244,
+      "rule": "retain raw speech; character/title verify"
+    },
+    {
+      "t": 1249,
+      "rule": "retain raw speech; canonical public name; probable"
+    },
+    {
+      "t": 1293,
+      "rule": "retain raw speech; vfx company; primary credits/listening verify"
+    },
+    {
+      "t": 1297,
+      "rule": "retain raw speech; do not publish as fact"
+    },
+    {
+      "t": 1300,
+      "rule": "retain raw speech; canonical film title"
+    },
+    {
+      "t": 1306,
+      "rule": "retain raw speech; film effect context"
+    },
+    {
+      "t": 1310,
+      "rule": "retain raw speech; vfx company; primary credits/listening verify"
+    },
+    {
+      "t": 1319,
+      "rule": "retain raw speech; do not invent vendor"
+    },
+    {
+      "t": 1322,
+      "rule": "retain raw speech; canonical series title"
+    },
+    {
+      "t": 1335,
+      "rule": "retain raw speech; canonical film title"
+    },
+    {
+      "t": 1335.5,
+      "rule": "retain raw speech; canonical title"
+    },
+    {
+      "t": 1338,
+      "rule": "retain raw speech; canonical public name"
+    },
+    {
+      "t": 1347,
+      "rule": "retain raw speech; do not guess without listening"
+    },
+    {
+      "t": 1360,
+      "rule": "retain raw speech; verify exact reference"
+    },
+    {
+      "t": 1363,
+      "rule": "retain raw speech; verify chronology; not ‘first’ as fact"
+    },
+    {
+      "t": 1378,
+      "rule": "retain raw speech; speaker generalization, not census"
+    },
+    {
+      "t": 1432,
+      "rule": "retain raw speech; offensive generalization; preserve"
+    }
+  ]
+}

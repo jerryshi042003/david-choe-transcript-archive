@@ -1,0 +1,29 @@
+{
+  "summary": "A career-history interview conducted through comics rather than celebrity biography. David Choe reconstructs the Los Angeles shops, magazines, art-school influences, self-publishing, pornography illustration, graffiti, and chance editorial contacts that formed Slow Jams and his early career. The hosts’ detailed comics knowledge makes this unusually valuable for identifying works, collaborators, and chronology.",
+  "chapters": [
+    {"t": 0, "title": "Introduction amid the 2020 protests"},
+    {"t": 210, "title": "Los Angeles comics shops and growing up around the medium"},
+    {"t": 420, "title": "Wizard, art school, and the origins of Slow Jams"},
+    {"t": 2200, "title": "Marvel approaches after Slow Jams"},
+    {"t": 3300, "title": "Illustration work, writing, and Giant Robot"},
+    {"t": 6100, "title": "Money, scarcity, and making work available"}
+  ],
+  "people": ["David Choe", "Ed Piskor", "Jim Rugg", "Jordan Crane", "Jim Lee", "Eric Nakamura"],
+  "places": ["Los Angeles", "Koreatown"],
+  "themes": ["comics", "self-publishing", "graffiti", "art school", "creative influences", "money", "distribution"],
+  "connections": [
+    {
+      "label": "Slow Jams as the career hinge",
+      "note": "The episode ties the comic to Wizard coverage, Marvel interest, later collector prices, and Choe’s resistance to scarcity. It should be a first-class work page linking every later recollection."
+    },
+    {
+      "label": "Los Angeles creative infrastructure",
+      "note": "Meltdown, Golden Apple, Giant Robot, Koreatown, graffiti walls, and adult-magazine offices appear as a local ecosystem rather than unrelated anecdotes. The archive should expose this as a place-based path."
+    },
+    {
+      "label": "Dirty Hands as external memory",
+      "note": "The hosts refer to the documentary while questioning Choe’s account. This creates a useful evidence edge between present recollection, earlier documentary footage, and surviving publications."
+    }
+  ],
+  "note": "The automatic transcript remains rough around comic-book names and the opening host introduction. Editorial metadata uses verified program and creator spellings; quoted language should be checked against video."
+}

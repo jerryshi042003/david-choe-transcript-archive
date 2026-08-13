@@ -1,0 +1,1861 @@
+{
+  "episode_id": "saga1-episode-117-vegas-part-05-no-newdes",
+  "title": "Vegas Part 05: No New Dudes",
+  "reviewed_on": "2026-07-31",
+  "summary": "Episode 117 closes the immediate Vegas aftermath through gambling-recovery reflection, a long argument over racial client exclusion, a hotel worker pulled into that debate, multiple private sexual and relationship accounts, lambskin-condom nondisclosure, manipulation through a television pitch, the `no means yes` line and sex described while a woman is passed out or half asleep, fan entry into the private suite, Critter's continuing resignation conflict, public reading of his vulnerable poem, and the deliberate No New Dudes/nudes/NEWDS title pun. The audit preserves every idea while separating literal speech from consent, health, factual, confidentiality and discovery judgments.",
+  "quality": {
+    "raw_segments": 3065,
+    "clean_segments": 3061,
+    "raw_words_approx": 20775,
+    "clean_words_approx": 20775,
+    "duration_seconds": 6629.303,
+    "accepted_context_decisions": 391,
+    "chapters": 391,
+    "connections": 44,
+    "content_warnings": 30,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 4,
+    "cleaning_net_reduction": 4,
+    "public_restriction_spans": 38
+  },
+  "source_notes": [
+    "The raw transcript contains 3,065 segments and approximately 20,775 words; the clean file contains 3,061 segments and the same approximate word count across 6,629.18 transcript seconds (6,629.303-second audio). All four cleaner drops are empty zero-duration artifacts.",
+    "Accept David Choe, DVDASA, Critter, Asa, Eva Lin, Beyoncé, Jamie Kennedy, Andy Milonakis, Hainan chicken and locally supported proper names. Reject all five `the Bellagio` → `Bellagio` edits because they damage natural speech.",
+    "The episode's title is an intentional new dudes / nudes / `NEWDS` pun. Preserve the spoken variations rather than flattening them, while correcting the final `No new maids` ASR error to `No new dudes`.",
+    "The rehab statistic that one in four gambling addicts die by suicide is explicitly unverified and should not be repeated as fact. The self-harm account, relapse cues and million-dollar betting claims remain attributed.",
+    "David reports leaving the baccarat trigger and completing the Vegas stay without gambling. This is a meaningful recovery event, not proof of permanent control.",
+    "Racial exclusions, stereotypes and slurs remain literal. A fabricated racial slur attributed to the prior guest is immediately retracted and must not become a quotation. The editorial layer distinguishes racial attraction from commercial race discrimination and rejects the cast's narrow dictionary defense.",
+    "A hotel employee is pulled from service into filming, asked sexual and racial questions, and used to validate the cast's argument. A nominal opt-out and tip do not erase the customer/employment imbalance; name, tenure and personal answers remain restricted.",
+    "Natural membrane/lambskin condoms can prevent pregnancy but do not protect against STIs. David admits partners were not initially told the condom was lambskin, so their reasonable belief in STI protection was false. Withdrawal is not an equivalent substitute.",
+    "David describes a private television pitch, influence promises, removing clothes, touching the guest while she is apprehensive, and lying while pursuing sex. `Baby` and a narrow okay to remove pants are not blanket consent.",
+    "The phrase `no means yes` is medically, ethically and legally dangerous. No means no. Rough-sex or rape-role-play language requires explicit, conscious, ongoing, act-specific agreement.",
+    "The woman is repeatedly described as passed out, sleeping or half asleep. Breast touching and renewed sex while she is half asleep cannot be called affirmatively consented merely because her thighs moved.",
+    "Critter's resignation cannot be invalidated by colleagues. The later publication of his private poem follows social/job pressure; laughter, apparent tears and apologies remain material harm evidence.",
+    "Fans are invited into a private suite through misleading texts without the host's informed permission. The reader preserves the conflict but withholds room proximity, identities, access, cash/equipment and health details.",
+    "David's `Choey` boundary is confirmed in a private conversation and then violated again. Respectful fans who ask cautiously receive autographs, showing the distinction between contact and entitlement.",
+    "Private partners, workers, fans, relatives, messages, photographs, account/card data, hotel access, travel times, schedules, employers and health details remain outside public discovery. Ideas are not censored.",
+    "Zero diarized turns means named dialogue remains withheld until independently held-out multispeaker validation passes."
+  ],
+  "speaker_policy": "The diarization file contains zero turns. Fixed-window embeddings have not passed independently held-out multispeaker validation, so named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 21,
+      "title": "David Choe"
+    },
+    {
+      "t": 21,
+      "title": "DVDASA"
+    },
+    {
+      "t": 26,
+      "title": "Critter's"
+    },
+    {
+      "t": 37,
+      "title": "the Bellagio"
+    },
+    {
+      "t": 46,
+      "title": "Critter remains resigned"
+    },
+    {
+      "t": 75,
+      "title": "rehab statistics explicitly unverified"
+    },
+    {
+      "t": 102,
+      "title": "one-in-four gambling-addict suicide claim"
+    },
+    {
+      "t": 111,
+      "title": "gambling rock-bottom account"
+    },
+    {
+      "t": 131,
+      "title": "death as absolute bottom"
+    },
+    {
+      "t": 163,
+      "title": "has not killed himself"
+    },
+    {
+      "t": 166,
+      "title": "Cosmopolitan"
+    },
+    {
+      "t": 178,
+      "title": "claimed balcony suicides"
+    },
+    {
+      "t": 187,
+      "title": "claimed hearse ban on Strip"
+    },
+    {
+      "t": 195,
+      "title": "runs into hotel glass after losses"
+    },
+    {
+      "t": 241,
+      "title": "Critter declines joining show"
+    },
+    {
+      "t": 246,
+      "title": "says he thought he retired"
+    },
+    {
+      "t": 247,
+      "title": "others deny retirement"
+    },
+    {
+      "t": 298,
+      "title": "guest asks whether podcasting started"
+    },
+    {
+      "t": 300,
+      "title": "already podcasting"
+    },
+    {
+      "t": 327,
+      "title": "three-act short-film discussion"
+    },
+    {
+      "t": 342,
+      "title": "15-second setup and twist"
+    },
+    {
+      "t": 369,
+      "title": "literal transphobic punchline"
+    },
+    {
+      "t": 373,
+      "title": "wonders what occurred while sleeping"
+    },
+    {
+      "t": 399,
+      "title": "private medical appointment"
+    },
+    {
+      "t": 417,
+      "title": "casino uses comp incentives"
+    },
+    {
+      "t": 427,
+      "title": "comping tied to play"
+    },
+    {
+      "t": 436,
+      "title": "offensive guest descriptions used as excuse"
+    },
+    {
+      "t": 455,
+      "title": "room worth several thousand nightly"
+    },
+    {
+      "t": 466,
+      "title": "proposal to let Critter use player's card"
+    },
+    {
+      "t": 480,
+      "title": "David Choe"
+    },
+    {
+      "t": 494,
+      "title": "cameras would reveal mismatch"
+    },
+    {
+      "t": 504,
+      "title": "paying room cost safer than multimillion-dollar loss"
+    },
+    {
+      "t": 511,
+      "title": "refuses to gamble"
+    },
+    {
+      "t": 525,
+      "title": "Eva Lin"
+    },
+    {
+      "t": 538,
+      "title": "private casino host/worker"
+    },
+    {
+      "t": 546,
+      "title": "admits making up stories to worker"
+    },
+    {
+      "t": 572,
+      "title": "leaving without gambling"
+    },
+    {
+      "t": 575,
+      "title": "million-dollar shoe trigger"
+    },
+    {
+      "t": 586,
+      "title": "baccarat board/run explanation"
+    },
+    {
+      "t": 599,
+      "title": "claim a run makes a million dollars"
+    },
+    {
+      "t": 620,
+      "title": "claims $100,000 hands"
+    },
+    {
+      "t": 626,
+      "title": "panics and leaves trigger"
+    },
+    {
+      "t": 633,
+      "title": "speculation casino staged shoe"
+    },
+    {
+      "t": 666,
+      "title": "seventy-two hours without gambling"
+    },
+    {
+      "t": 673,
+      "title": "celebrating by gambling rejected"
+    },
+    {
+      "t": 681,
+      "title": "active departure time"
+    },
+    {
+      "t": 687,
+      "title": "hotel worker name and possible delivery"
+    },
+    {
+      "t": 701,
+      "title": "cast hygiene jokes"
+    },
+    {
+      "t": 712,
+      "title": "Asa"
+    },
+    {
+      "t": 733,
+      "title": "proposal to cast hotel worker"
+    },
+    {
+      "t": 734,
+      "title": "Eva Lin"
+    },
+    {
+      "t": 749,
+      "title": "escort marketing rank repeated"
+    },
+    {
+      "t": 759,
+      "title": "promised review not written"
+    },
+    {
+      "t": 783,
+      "title": "off-podcast racial argument"
+    },
+    {
+      "t": 789,
+      "title": "guest's refusal of Black clients"
+    },
+    {
+      "t": 794,
+      "title": "cast inaccurately quotes guest as self-declared racist"
+    },
+    {
+      "t": 797,
+      "title": "speaker corrects fabricated wording"
+    },
+    {
+      "t": 823,
+      "title": "racial discrimination defended as honesty"
+    },
+    {
+      "t": 847,
+      "title": "top-secret sex-work project"
+    },
+    {
+      "t": 853,
+      "title": "claims most workers reject Black clients"
+    },
+    {
+      "t": 868,
+      "title": "racist but very not racist` contradiction"
+    },
+    {
+      "t": 885,
+      "title": "speaker's racial attraction generalization"
+    },
+    {
+      "t": 890,
+      "title": "Beyoncé"
+    },
+    {
+      "t": 905,
+      "title": "Tyson Beckford/`white friendly` stereotype"
+    },
+    {
+      "t": 916,
+      "title": "claim racism is harmless if private"
+    },
+    {
+      "t": 934,
+      "title": "partners say they are not into Asians"
+    },
+    {
+      "t": 941,
+      "title": "discrimination correctly identified"
+    },
+    {
+      "t": 948,
+      "title": "reserve right to refuse service` claim"
+    },
+    {
+      "t": 953,
+      "title": "cast disagrees whether racist"
+    },
+    {
+      "t": 985,
+      "title": "refusal to accept money from Black clients"
+    },
+    {
+      "t": 1015,
+      "title": "discrimination acknowledged"
+    },
+    {
+      "t": 1039,
+      "title": "narrow dictionary definition of racist"
+    },
+    {
+      "t": 1052,
+      "title": "Le Rêve"
+    },
+    {
+      "t": 1054,
+      "title": "Le Rêve not Cirque du Soleil"
+    },
+    {
+      "t": 1056,
+      "title": "unsupported percentage about trans sex"
+    },
+    {
+      "t": 1062,
+      "title": "Asa"
+    },
+    {
+      "t": 1074,
+      "title": "fabricated racial slur attributed to guest"
+    },
+    {
+      "t": 1085,
+      "title": "discriminating"
+    },
+    {
+      "t": 1093,
+      "title": "Critter's partner history"
+    },
+    {
+      "t": 1136,
+      "title": "John Mayer quote paraphrase"
+    },
+    {
+      "t": 1144,
+      "title": "multicultural"
+    },
+    {
+      "t": 1178,
+      "title": "fifth Vegas podcast"
+    },
+    {
+      "t": 1205,
+      "title": "Slink intoxication critique"
+    },
+    {
+      "t": 1213,
+      "title": "Heather Leather intoxication critique"
+    },
+    {
+      "t": 1230,
+      "title": "hotel worker interruption recalled"
+    },
+    {
+      "t": 1243,
+      "title": "host unsure prior show was good"
+    },
+    {
+      "t": 1272,
+      "title": "retained gummy bear possibly remains"
+    },
+    {
+      "t": 1288,
+      "title": "lube packet given to guest"
+    },
+    {
+      "t": 1292,
+      "title": "lube package caused later conflict"
+    },
+    {
+      "t": 1311,
+      "title": "declines using takeback token"
+    },
+    {
+      "t": 1317,
+      "title": "Critter fired after resignation"
+    },
+    {
+      "t": 1330,
+      "title": "podcast burned relationship bridges"
+    },
+    {
+      "t": 1347,
+      "title": "self-esteem at all-time low"
+    },
+    {
+      "t": 1352,
+      "title": "private former partner in Las Vegas"
+    },
+    {
+      "t": 1380,
+      "title": "former stripper's career/college/job history"
+    },
+    {
+      "t": 1416,
+      "title": "private person's boredom and return to Vegas"
+    },
+    {
+      "t": 1427,
+      "title": "family worries about return to stripping"
+    },
+    {
+      "t": 1444,
+      "title": "isolated from former friends"
+    },
+    {
+      "t": 1453,
+      "title": "private dinner at Yellowtail"
+    },
+    {
+      "t": 1483,
+      "title": "offers account to friends"
+    },
+    {
+      "t": 1492,
+      "title": "food/weight joke"
+    },
+    {
+      "t": 1500,
+      "title": "Palace Station"
+    },
+    {
+      "t": 1510,
+      "title": "warns cast guest is not sex worker"
+    },
+    {
+      "t": 1521,
+      "title": "body and procedure description"
+    },
+    {
+      "t": 1536,
+      "title": "manager identity claim"
+    },
+    {
+      "t": 1546,
+      "title": "says sex not expected"
+    },
+    {
+      "t": 1553,
+      "title": "boner-hug account"
+    },
+    {
+      "t": 1570,
+      "title": "woman says she is not a go-to sex partner"
+    },
+    {
+      "t": 1582,
+      "title": "she questions gambling relapse"
+    },
+    {
+      "t": 1590,
+      "title": "asks about relationship possibility"
+    },
+    {
+      "t": 1609,
+      "title": "speaker gives ambiguous possibility"
+    },
+    {
+      "t": 1634,
+      "title": "Critter says `see you in fifteen minutes"
+    },
+    {
+      "t": 1644,
+      "title": "ableist slur"
+    },
+    {
+      "t": 1658,
+      "title": "guest asks whether friends were told sex would occur"
+    },
+    {
+      "t": 1690,
+      "title": "apology texts"
+    },
+    {
+      "t": 1737,
+      "title": "Critter denies sexual intent"
+    },
+    {
+      "t": 1753,
+      "title": "benefit-of-doubt distinction between intent and impact"
+    },
+    {
+      "t": 1796,
+      "title": "private guest nearly crying"
+    },
+    {
+      "t": 1813,
+      "title": "guest believes sexual details were shared"
+    },
+    {
+      "t": 1820,
+      "title": "top-secret project referenced"
+    },
+    {
+      "t": 1827,
+      "title": "young people and sensitive sexuality interviews"
+    },
+    {
+      "t": 1851,
+      "title": "Critter's rape statement recalled"
+    },
+    {
+      "t": 1862,
+      "title": "hotel worker name"
+    },
+    {
+      "t": 1866,
+      "title": "worker told he need not answer"
+    },
+    {
+      "t": 1869,
+      "title": "worker asked to join filming"
+    },
+    {
+      "t": 1882,
+      "title": "intoxicated escort described to worker"
+    },
+    {
+      "t": 1898,
+      "title": "worker tenure solicited"
+    },
+    {
+      "t": 1907,
+      "title": "sexualized hotel-room observations"
+    },
+    {
+      "t": 1913,
+      "title": "guest's explicit claims repeated"
+    },
+    {
+      "t": 1917,
+      "title": "ableist slur for disabled clients"
+    },
+    {
+      "t": 1921,
+      "title": "racial refusal presented to worker for judgment"
+    },
+    {
+      "t": 1935,
+      "title": "worker repeats pimp stereotypes"
+    },
+    {
+      "t": 1972,
+      "title": "worker asked if he is a pimp"
+    },
+    {
+      "t": 2021,
+      "title": "worker's sexual preferences solicited"
+    },
+    {
+      "t": 2052,
+      "title": "real Asian or jungle Asian"
+    },
+    {
+      "t": 2061,
+      "title": "worker praised and dismissed"
+    },
+    {
+      "t": 2097,
+      "title": "producer signs/tips"
+    },
+    {
+      "t": 2106,
+      "title": "nice tip requested"
+    },
+    {
+      "t": 2152,
+      "title": "rape comment contrasted with 15-minute remark"
+    },
+    {
+      "t": 2166,
+      "title": "young participants in project"
+    },
+    {
+      "t": 2171,
+      "title": "Critter reveals top-secret project clue"
+    },
+    {
+      "t": 2187,
+      "title": "host admits seeking worker opinion"
+    },
+    {
+      "t": 2194,
+      "title": "claims group agreed not racist"
+    },
+    {
+      "t": 2236,
+      "title": "DVDASA"
+    },
+    {
+      "t": 2248,
+      "title": "rape comment quoted again"
+    },
+    {
+      "t": 2256,
+      "title": "participants described as young"
+    },
+    {
+      "t": 2266,
+      "title": "rape comment used to discredit Critter"
+    },
+    {
+      "t": 2296,
+      "title": "admits lying to private guest"
+    },
+    {
+      "t": 2317,
+      "title": "private Russian stripper"
+    },
+    {
+      "t": 2324,
+      "title": "guest searched Instagram/Google"
+    },
+    {
+      "t": 2351,
+      "title": "private reality-show aspiration"
+    },
+    {
+      "t": 2360,
+      "title": "contact saved by degrading body label"
+    },
+    {
+      "t": 2368,
+      "title": "multiple contacts catalogued by body traits"
+    },
+    {
+      "t": 2395,
+      "title": "uncertain stolen-item story"
+    },
+    {
+      "t": 2412,
+      "title": "reality-show idea and business/luxury clues"
+    },
+    {
+      "t": 2432,
+      "title": "claims access to television contact"
+    },
+    {
+      "t": 2437,
+      "title": "sex implied in exchange for help"
+    },
+    {
+      "t": 2444,
+      "title": "admits using trickery for sex"
+    },
+    {
+      "t": 2453,
+      "title": "guest leaves angry"
+    },
+    {
+      "t": 2455,
+      "title": "guest expected private conversation"
+    },
+    {
+      "t": 2462,
+      "title": "guest fears being perceived as sex worker"
+    },
+    {
+      "t": 2497,
+      "title": "guest wanted private pitch"
+    },
+    {
+      "t": 2510,
+      "title": "explicit ejaculation claim"
+    },
+    {
+      "t": 2533,
+      "title": "three sexual encounters on same bed"
+    },
+    {
+      "t": 2544,
+      "title": "condom source discussion"
+    },
+    {
+      "t": 2550,
+      "title": "lambskin prevents pregnancy but not STIs"
+    },
+    {
+      "t": 2558,
+      "title": "pores aren't big enough` explanation"
+    },
+    {
+      "t": 2579,
+      "title": "pullout proposed instead"
+    },
+    {
+      "t": 2583,
+      "title": "partners do not want condomless penetration"
+    },
+    {
+      "t": 2594,
+      "title": "lambskin not disclosed initially"
+    },
+    {
+      "t": 2615,
+      "title": "partner recognizes lambskin limitation"
+    },
+    {
+      "t": 2627,
+      "title": "switches to latex condom"
+    },
+    {
+      "t": 2632,
+      "title": "hypothetical partner asks for protection"
+    },
+    {
+      "t": 2641,
+      "title": "admits not disclosing lambskin"
+    },
+    {
+      "t": 2644,
+      "title": "partner falsely believes protected from STIs"
+    },
+    {
+      "t": 2653,
+      "title": "tells private guest podcast begins soon"
+    },
+    {
+      "t": 2661,
+      "title": "asks to remove pants during business pitch"
+    },
+    {
+      "t": 2664,
+      "title": "guest says okay to pants removal"
+    },
+    {
+      "t": 2684,
+      "title": "guest says behavior is weird"
+    },
+    {
+      "t": 2695,
+      "title": "guest described as apprehensive"
+    },
+    {
+      "t": 2697,
+      "title": "television promise repeated during sexual escalation"
+    },
+    {
+      "t": 2709,
+      "title": "admits lying while touching guest"
+    },
+    {
+      "t": 2732,
+      "title": "guest objects that other men are outside"
+    },
+    {
+      "t": 2741,
+      "title": "cast treats `baby` as permission"
+    },
+    {
+      "t": 2746,
+      "title": "reported `falling for you` during sex"
+    },
+    {
+      "t": 2759,
+      "title": "political conversation during sex"
+    },
+    {
+      "t": 2788,
+      "title": "lambskin-condom encounter in same bed"
+    },
+    {
+      "t": 2808,
+      "title": "distracts guest from upsetting remark"
+    },
+    {
+      "t": 2828,
+      "title": "lies about escort encounter"
+    },
+    {
+      "t": 2843,
+      "title": "hides condom/lube evidence"
+    },
+    {
+      "t": 2858,
+      "title": "private guest asks why he delayed calling"
+    },
+    {
+      "t": 2867,
+      "title": "calls many people baby/wife"
+    },
+    {
+      "t": 2880,
+      "title": "guest asks about other partners"
+    },
+    {
+      "t": 2885,
+      "title": "lube package found"
+    },
+    {
+      "t": 2917,
+      "title": "lies that lube is for masturbation"
+    },
+    {
+      "t": 2947,
+      "title": "cast identifies contradiction in dry masturbation claim"
+    },
+    {
+      "t": 2960,
+      "title": "relationship conversation resumes"
+    },
+    {
+      "t": 2971,
+      "title": "guest discloses current partner"
+    },
+    {
+      "t": 2976,
+      "title": "partner ethnicity/job/location"
+    },
+    {
+      "t": 2988,
+      "title": "cast pressures Critter to describe private woman's body"
+    },
+    {
+      "t": 3000,
+      "title": "woman now hates speaker"
+    },
+    {
+      "t": 3045,
+      "title": "private partner's sexual rejection"
+    },
+    {
+      "t": 3059,
+      "title": "partner described as gambling addict"
+    },
+    {
+      "t": 3061,
+      "title": "addiction erases all other motives claim"
+    },
+    {
+      "t": 3075,
+      "title": "woman changed body due rejection"
+    },
+    {
+      "t": 3091,
+      "title": "private couple's sexual frequency"
+    },
+    {
+      "t": 3115,
+      "title": "Asian men stereotyped as passionless"
+    },
+    {
+      "t": 3121,
+      "title": "erection used as answer to vulnerability"
+    },
+    {
+      "t": 3143,
+      "title": "no means yes"
+    },
+    {
+      "t": 3143,
+      "title": "lambskin condom used again"
+    },
+    {
+      "t": 3148,
+      "title": "woman must leave for mother"
+    },
+    {
+      "t": 3187,
+      "title": "hour and a half of `blanket of lies"
+    },
+    {
+      "t": 3205,
+      "title": "friends worried he was gambling"
+    },
+    {
+      "t": 3226,
+      "title": "disappearance plausibly signals relapse"
+    },
+    {
+      "t": 3234,
+      "title": "sex as gambling alibi"
+    },
+    {
+      "t": 3250,
+      "title": "door knock during sexual escalation"
+    },
+    {
+      "t": 3301,
+      "title": "woman may be changing her mind"
+    },
+    {
+      "t": 3306,
+      "title": "says sex occurred the way she requested"
+    },
+    {
+      "t": 3315,
+      "title": "pretty much rape me` fantasy language"
+    },
+    {
+      "t": 3320,
+      "title": "rough-sex description"
+    },
+    {
+      "t": 3339,
+      "title": "woman passed out/asleep"
+    },
+    {
+      "t": 3350,
+      "title": "touches breasts while she sleeps"
+    },
+    {
+      "t": 3374,
+      "title": "calls for additional partners while woman passed out"
+    },
+    {
+      "t": 3394,
+      "title": "no new dudes"
+    },
+    {
+      "t": 3396,
+      "title": "N-E-W-D"
+    },
+    {
+      "t": 3400,
+      "title": "DVDASA"
+    },
+    {
+      "t": 3414,
+      "title": "texts imply women are present"
+    },
+    {
+      "t": 3431,
+      "title": "woman described passed out while breasts touched"
+    },
+    {
+      "t": 3456,
+      "title": "hopes to have sex with someone else while woman passed out"
+    },
+    {
+      "t": 3467,
+      "title": "private suite has multiple bedrooms"
+    },
+    {
+      "t": 3517,
+      "title": "DVDASA"
+    },
+    {
+      "t": 3528,
+      "title": "fan gender ratio requested"
+    },
+    {
+      "t": 3551,
+      "title": "passed-out woman referenced again"
+    },
+    {
+      "t": 3601,
+      "title": "host says he hates new dudes"
+    },
+    {
+      "t": 3628,
+      "title": "recorders/cameras/private equipment in room"
+    },
+    {
+      "t": 3645,
+      "title": "categorical no-new-men room boundary"
+    },
+    {
+      "t": 3660,
+      "title": "unknown fans enter private suite"
+    },
+    {
+      "t": 3677,
+      "title": "high-pitched voice mistaken for woman"
+    },
+    {
+      "t": 3691,
+      "title": "five male fans"
+    },
+    {
+      "t": 3712,
+      "title": "fans invited via messages"
+    },
+    {
+      "t": 3745,
+      "title": "fame motive assigned to absent cast member"
+    },
+    {
+      "t": 3755,
+      "title": "fan encounter recap"
+    },
+    {
+      "t": 3804,
+      "title": "the Bellagio"
+    },
+    {
+      "t": 3809,
+      "title": "claims hotel staff stole laptop/camera"
+    },
+    {
+      "t": 3820,
+      "title": "fans called crazy/weird"
+    },
+    {
+      "t": 3825,
+      "title": "cash/equipment security concern"
+    },
+    {
+      "t": 3844,
+      "title": "demands strangers leave"
+    },
+    {
+      "t": 3856,
+      "title": "employee/security role criticized"
+    },
+    {
+      "t": 3905,
+      "title": "only women or interesting celebrities allowed"
+    },
+    {
+      "t": 3931,
+      "title": "Jamie Kennedy"
+    },
+    {
+      "t": 3941,
+      "title": "prefers fan meetings at public venue"
+    },
+    {
+      "t": 3950,
+      "title": "messages falsely imply women are leaving"
+    },
+    {
+      "t": 3970,
+      "title": "job threatened"
+    },
+    {
+      "t": 4009,
+      "title": "company-card charges and cancellation"
+    },
+    {
+      "t": 4032,
+      "title": "absent cast member blamed for fame behavior"
+    },
+    {
+      "t": 4049,
+      "title": "firing announced for later broadcast"
+    },
+    {
+      "t": 4055,
+      "title": "cannot stop gambling claim"
+    },
+    {
+      "t": 4076,
+      "title": "DVDASA"
+    },
+    {
+      "t": 4097,
+      "title": "private group-text date"
+    },
+    {
+      "t": 4155,
+      "title": "David Choe"
+    },
+    {
+      "t": 4157,
+      "title": "Money Mark travel/show message"
+    },
+    {
+      "t": 4177,
+      "title": "mass-text membership"
+    },
+    {
+      "t": 4206,
+      "title": "people excluded from group text"
+    },
+    {
+      "t": 4225,
+      "title": "Android group-text joke"
+    },
+    {
+      "t": 4239,
+      "title": "literal transphobic slur in private text"
+    },
+    {
+      "t": 4265,
+      "title": "fans invited while host is absent"
+    },
+    {
+      "t": 4285,
+      "title": "private sexually explicit photo shared in group"
+    },
+    {
+      "t": 4302,
+      "title": "host lies about intimate activity"
+    },
+    {
+      "t": 4312,
+      "title": "exact room proximity"
+    },
+    {
+      "t": 4321,
+      "title": "No New Dudes hashtag"
+    },
+    {
+      "t": 4335,
+      "title": "host asks who `they` are"
+    },
+    {
+      "t": 4356,
+      "title": "Critter falsely says many women present"
+    },
+    {
+      "t": 4370,
+      "title": "host refuses to leave sleeping partner for male fans"
+    },
+    {
+      "t": 4374,
+      "title": "sex-count boast"
+    },
+    {
+      "t": 4387,
+      "title": "private image request involving Bill"
+    },
+    {
+      "t": 4425,
+      "title": "Putin skeleton joke"
+    },
+    {
+      "t": 4429,
+      "title": "homophobic slurs in group text"
+    },
+    {
+      "t": 4461,
+      "title": "fan with long hair mocked"
+    },
+    {
+      "t": 4481,
+      "title": "women-versus-men contact preference"
+    },
+    {
+      "t": 4514,
+      "title": "private room nickname/location"
+    },
+    {
+      "t": 4527,
+      "title": "manager joins no-new-men boundary"
+    },
+    {
+      "t": 4545,
+      "title": "sexual detail about sleeping woman shared by text"
+    },
+    {
+      "t": 4552,
+      "title": "asks how drunk cast were"
+    },
+    {
+      "t": 4561,
+      "title": "claims handshakes after sexual contact"
+    },
+    {
+      "t": 4565,
+      "title": "sets fifteen-minute deadline for strangers to leave"
+    },
+    {
+      "t": 4583,
+      "title": "sleeping naked woman"
+    },
+    {
+      "t": 4586,
+      "title": "violent property-destruction fantasy"
+    },
+    {
+      "t": 4605,
+      "title": "request to bring fans into bedroom"
+    },
+    {
+      "t": 4611,
+      "title": "woman sleeping during request"
+    },
+    {
+      "t": 4617,
+      "title": "violent threat toward Critter"
+    },
+    {
+      "t": 4631,
+      "title": "private eczema detail"
+    },
+    {
+      "t": 4645,
+      "title": "only women/famous people allowed"
+    },
+    {
+      "t": 4655,
+      "title": "security/cash/camera concern"
+    },
+    {
+      "t": 4685,
+      "title": "initiates sex again"
+    },
+    {
+      "t": 4689,
+      "title": "woman half asleep"
+    },
+    {
+      "t": 4692,
+      "title": "thigh movement treated as permission"
+    },
+    {
+      "t": 4700,
+      "title": "Gay Hitler persona"
+    },
+    {
+      "t": 4741,
+      "title": "friends checked door due gambling concern"
+    },
+    {
+      "t": 4753,
+      "title": "Critter asks if done with everything"
+    },
+    {
+      "t": 4764,
+      "title": "resignation-style message"
+    },
+    {
+      "t": 4807,
+      "title": "fans and Australians met at club"
+    },
+    {
+      "t": 4827,
+      "title": "fans wore cast shirts"
+    },
+    {
+      "t": 4832,
+      "title": "fans recognize host dislikes meeting new people"
+    },
+    {
+      "t": 4843,
+      "title": "host clarifies no one in room"
+    },
+    {
+      "t": 4884,
+      "title": "Choey"
+    },
+    {
+      "t": 4891,
+      "title": "private conversation confirmed nickname bothers him"
+    },
+    {
+      "t": 4899,
+      "title": "nickname repeated after apology"
+    },
+    {
+      "t": 4937,
+      "title": "forgiveness conditioned on physical punishment and poem"
+    },
+    {
+      "t": 4950,
+      "title": "Critter retirement letter"
+    },
+    {
+      "t": 4952,
+      "title": "private project recaps"
+    },
+    {
+      "t": 4961,
+      "title": "private ex-partner advice"
+    },
+    {
+      "t": 4992,
+      "title": "poem publication pressured"
+    },
+    {
+      "t": 4996,
+      "title": "someone else proposed to read poem"
+    },
+    {
+      "t": 5028,
+      "title": "asks not to mock spelling"
+    },
+    {
+      "t": 5058,
+      "title": "physical plank punishment begins"
+    },
+    {
+      "t": 5097,
+      "title": "ten-minute punishment"
+    },
+    {
+      "t": 5153,
+      "title": "ordered into plank"
+    },
+    {
+      "t": 5161,
+      "title": "asks listeners not to laugh"
+    },
+    {
+      "t": 5168,
+      "title": "Critter's poem begins"
+    },
+    {
+      "t": 5188,
+      "title": "poem about loss and fear of hurting partners"
+    },
+    {
+      "t": 5227,
+      "title": "cast laughs during poem"
+    },
+    {
+      "t": 5237,
+      "title": "apology follows laughter"
+    },
+    {
+      "t": 5288,
+      "title": "author appears to cry"
+    },
+    {
+      "t": 5292,
+      "title": "repeated apologies"
+    },
+    {
+      "t": 5314,
+      "title": "cast recognizes he rarely expresses emotion"
+    },
+    {
+      "t": 5358,
+      "title": "Choey"
+    },
+    {
+      "t": 5366,
+      "title": "short film made while cast slept"
+    },
+    {
+      "t": 5381,
+      "title": "food placed in sleeping person's hand"
+    },
+    {
+      "t": 5406,
+      "title": "DVDASA"
+    },
+    {
+      "t": 5419,
+      "title": "Oakland work schedule"
+    },
+    {
+      "t": 5422,
+      "title": "Asa performance schedule"
+    },
+    {
+      "t": 5475,
+      "title": "mock poem aimed at Asa"
+    },
+    {
+      "t": 5505,
+      "title": "Andy Milonakis"
+    },
+    {
+      "t": 5603,
+      "title": "public humiliation called consequence"
+    },
+    {
+      "t": 5622,
+      "title": "laughter explained as discomfort"
+    },
+    {
+      "t": 5646,
+      "title": "Critter rejects apology's relevance"
+    },
+    {
+      "t": 5653,
+      "title": "15-minute callback"
+    },
+    {
+      "t": 5699,
+      "title": "Instagram-name pronunciation confusion"
+    },
+    {
+      "t": 5726,
+      "title": "checks pain during punishment"
+    },
+    {
+      "t": 5752,
+      "title": "permission to end plank"
+    },
+    {
+      "t": 5764,
+      "title": "Critter"
+    },
+    {
+      "t": 5800,
+      "title": "century egg"
+    },
+    {
+      "t": 5822,
+      "title": "Hainan chicken"
+    },
+    {
+      "t": 5837,
+      "title": "century/thousand-year egg clarification"
+    },
+    {
+      "t": 5870,
+      "title": "the Bellagio"
+    },
+    {
+      "t": 5911,
+      "title": "private woman sends relationship boundary"
+    },
+    {
+      "t": 5935,
+      "title": "she is in love and does not want disrespect"
+    },
+    {
+      "t": 5941,
+      "title": "podcast criticism harmed relationship"
+    },
+    {
+      "t": 5954,
+      "title": "long recording used to explain exaggeration"
+    },
+    {
+      "t": 5988,
+      "title": "recognizes family may hear public speech"
+    },
+    {
+      "t": 5995,
+      "title": "private mother text"
+    },
+    {
+      "t": 6003,
+      "title": "Critter says family listening causes silence/retirement"
+    },
+    {
+      "t": 6017,
+      "title": "hostile response to mother's video"
+    },
+    {
+      "t": 6043,
+      "title": "mother's bleach callback"
+    },
+    {
+      "t": 6051,
+      "title": "says would not talk if mother listened"
+    },
+    {
+      "t": 6095,
+      "title": "fan thanks"
+    },
+    {
+      "t": 6105,
+      "title": "directly says he dislikes meeting new people"
+    },
+    {
+      "t": 6125,
+      "title": "Critter"
+    },
+    {
+      "t": 6130,
+      "title": "flight time"
+    },
+    {
+      "t": 6154,
+      "title": "group massage request"
+    },
+    {
+      "t": 6176,
+      "title": "four masseuses requested to room"
+    },
+    {
+      "t": 6183,
+      "title": "Critter dislikes being touched"
+    },
+    {
+      "t": 6192,
+      "title": "private text chain read aloud"
+    },
+    {
+      "t": 6216,
+      "title": "woman had indicated sex would not happen"
+    },
+    {
+      "t": 6237,
+      "title": "later claims he `fucked her to sleep"
+    },
+    {
+      "t": 6260,
+      "title": "fans invited based on misleading implication"
+    },
+    {
+      "t": 6275,
+      "title": "apology accepted with no-repeat boundary"
+    },
+    {
+      "t": 6277,
+      "title": "No new dudes in room, ever"
+    },
+    {
+      "t": 6292,
+      "title": "clarifies dislikes meeting people even at club"
+    },
+    {
+      "t": 6300,
+      "title": "fans approached respectfully"
+    },
+    {
+      "t": 6313,
+      "title": "signing offered after respectful approach"
+    },
+    {
+      "t": 6325,
+      "title": "Hitler comparison"
+    },
+    {
+      "t": 6394,
+      "title": "still has not gambled"
+    },
+    {
+      "t": 6405,
+      "title": "casino trigger still destabilizing"
+    },
+    {
+      "t": 6424,
+      "title": "staging belief called paranoid"
+    },
+    {
+      "t": 6428,
+      "title": "casino delays after wins claim"
+    },
+    {
+      "t": 6443,
+      "title": "ableist slur toward casino staff"
+    },
+    {
+      "t": 6462,
+      "title": "performance attendance/fans"
+    },
+    {
+      "t": 6484,
+      "title": "papaya health claim vague"
+    },
+    {
+      "t": 6506,
+      "title": "show-direction discussion"
+    },
+    {
+      "t": 6537,
+      "title": "refuses bowing to outside control"
+    },
+    {
+      "t": 6547,
+      "title": "Joe Rogan episode-count estimate"
+    },
+    {
+      "t": 6554,
+      "title": "cast says prior show technically filmed porn"
+    },
+    {
+      "t": 6556,
+      "title": "David Choe"
+    },
+    {
+      "t": 6565,
+      "title": "show described as schizophrenic educational"
+    },
+    {
+      "t": 6594,
+      "title": "HBO trafficking work versus explicit show"
+    },
+    {
+      "t": 6605,
+      "title": "gummy-bear insertion used as reputational contrast"
+    },
+    {
+      "t": 6614,
+      "title": "Do Not Disturb request refused"
+    },
+    {
+      "t": 6619,
+      "title": "orders person out of room"
+    },
+    {
+      "t": 6622,
+      "title": "No new dudes"
+    },
+    {
+      "t": 6628,
+      "title": "No new dudes"
+    }
+  ],
+  "connections": [
+    {
+      "t": 46,
+      "to": "Episode 116 — Vegas Part 04",
+      "why": "Critter's resignation remains active and is repeatedly denied by the group."
+    },
+    {
+      "t": 75,
+      "to": "Corpus factual-claim taxonomy",
+      "why": "The speaker labels rehab statistics unverified before repeating a suicide statistic."
+    },
+    {
+      "t": 102,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "The episode opens with suicide, rock bottom and relapse-risk discussion."
+    },
+    {
+      "t": 195,
+      "to": "DVDASA self-harm timeline",
+      "why": "David describes running into hotel glass after gambling losses."
+    },
+    {
+      "t": 298,
+      "to": "Corpus recording-awareness taxonomy",
+      "why": "A participant asks whether podcasting has started after it already has."
+    },
+    {
+      "t": 342,
+      "to": "David Choe short-form creative method",
+      "why": "The cast describes setup, conflict and final-second twist for a fifteen-second film."
+    },
+    {
+      "t": 466,
+      "to": "Corpus evasion-safety taxonomy",
+      "why": "Using another person on a casino player card is proposed and rejected as detectable and unsafe."
+    },
+    {
+      "t": 504,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "Paying thousands for a room is explicitly preferred over risking millions gambling."
+    },
+    {
+      "t": 575,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "A baccarat shoe becomes a powerful trigger, but he leaves."
+    },
+    {
+      "t": 789,
+      "to": "Episode 115 — Vegas Part 03",
+      "why": "The guest's racial client exclusion is retold and debated at length."
+    },
+    {
+      "t": 1039,
+      "to": "Corpus racism/discrimination taxonomy",
+      "why": "A narrow dictionary definition is used to deny discrimination that the cast also explicitly recognizes."
+    },
+    {
+      "t": 1054,
+      "to": "Episode 116 — Le Rêve correction",
+      "why": "The prior wager's factual resolution is repeated."
+    },
+    {
+      "t": 1205,
+      "to": "DVDASA intoxication/production timeline",
+      "why": "Slink and Heather Leather are used as examples of guests becoming too impaired to converse."
+    },
+    {
+      "t": 1272,
+      "to": "Episode 115 informed-consent/health ledger",
+      "why": "The retained gummy bear remains a possible foreign-body risk."
+    },
+    {
+      "t": 1330,
+      "to": "DVDASA publication-consequence timeline",
+      "why": "David says the show has burned relationship bridges."
+    },
+    {
+      "t": 1570,
+      "to": "DVDASA direct relational boundaries",
+      "why": "A private woman says she is not a casual go-to sexual partner."
+    },
+    {
+      "t": 1634,
+      "to": "Critter Fleming participation/conflict timeline",
+      "why": "A joking fifteen-minute remark produces humiliation, conflict and near tears."
+    },
+    {
+      "t": 1851,
+      "to": "Corpus violent-speech ledger",
+      "why": "Critter's `would have raped them` remark from a confidential project is preserved and criticized."
+    },
+    {
+      "t": 1862,
+      "to": "Corpus worker-power taxonomy",
+      "why": "A hotel worker is pulled into filming and asked racial and sexual questions while serving the room."
+    },
+    {
+      "t": 2171,
+      "to": "Corpus confidentiality ledger",
+      "why": "The episode leaks clues about a top-secret sexuality project and its young participants."
+    },
+    {
+      "t": 2437,
+      "to": "David Choe self-described manipulation themes",
+      "why": "Television access is used as leverage while pursuing sex."
+    },
+    {
+      "t": 2550,
+      "to": "Corpus sexual-health correction ledger",
+      "why": "Natural membrane condoms are correctly identified as lacking STI protection."
+    },
+    {
+      "t": 2594,
+      "to": "Corpus informed-consent taxonomy",
+      "why": "David admits he does not initially disclose that the condom is lambskin."
+    },
+    {
+      "t": 2697,
+      "to": "Corpus quid-pro-quo/sexual-leverage taxonomy",
+      "why": "A promised television opportunity is repeated during sexual escalation and admitted lying."
+    },
+    {
+      "t": 2885,
+      "to": "DVDASA deception/publication timeline",
+      "why": "A private partner finds lube evidence after the room was cleaned and receives another lie."
+    },
+    {
+      "t": 3143,
+      "to": "Corpus consent correction ledger",
+      "why": "The phrase `no means yes` is rejected: no means no."
+    },
+    {
+      "t": 3315,
+      "to": "Corpus consensual-role-play taxonomy",
+      "why": "Rape fantasy language cannot substitute for explicit, ongoing rough-sex agreement."
+    },
+    {
+      "t": 3339,
+      "to": "Corpus sleep/incapacity taxonomy",
+      "why": "The woman becomes passed out/asleep and later sexual touching/activity is described."
+    },
+    {
+      "t": 3394,
+      "to": "Episode title / No New Dudes",
+      "why": "New dudes, nudes and NEWDS form the deliberate title pun."
+    },
+    {
+      "t": 3809,
+      "to": "Corpus unverified-allegation policy",
+      "why": "Hotel workers are accused of theft without evidence in the recording."
+    },
+    {
+      "t": 3941,
+      "to": "DVDASA fan-contact boundaries",
+      "why": "David states that public clubs or bars are preferable to fans entering his room."
+    },
+    {
+      "t": 4177,
+      "to": "DVDASA private-message archive",
+      "why": "The cast reads private group texts and maps membership on air."
+    },
+    {
+      "t": 4265,
+      "to": "Corpus private-space consent taxonomy",
+      "why": "Fans are invited toward a room without the host's informed agreement."
+    },
+    {
+      "t": 4545,
+      "to": "Corpus privacy taxonomy",
+      "why": "Intimate details about a sleeping woman are shared in the group text."
+    },
+    {
+      "t": 4685,
+      "to": "Corpus sleep/incapacity taxonomy",
+      "why": "Sex is initiated again while the woman is described as half asleep; thigh movement is not affirmative consent."
+    },
+    {
+      "t": 4832,
+      "to": "DVDASA fan-contact boundaries",
+      "why": "Fans recognize the no-new-people preference and approach cautiously."
+    },
+    {
+      "t": 4891,
+      "to": "Episode 114 — Choey boundary",
+      "why": "David confirms privately that the nickname bothers him, yet it is repeated."
+    },
+    {
+      "t": 4992,
+      "to": "Corpus creative-work/publication consent",
+      "why": "Critter's private poem is pressured into public reading."
+    },
+    {
+      "t": 5227,
+      "to": "DVDASA humiliation/publication timeline",
+      "why": "The cast laughs during a vulnerable poem and the author appears to cry."
+    },
+    {
+      "t": 5911,
+      "to": "DVDASA relationship-boundary archive",
+      "why": "A private woman says she is in love with someone else and rejects contact that disrespects him."
+    },
+    {
+      "t": 6003,
+      "to": "Critter Fleming participation timeline",
+      "why": "He says family listening is why he stays silent and retired."
+    },
+    {
+      "t": 6277,
+      "to": "DVDASA private-space boundaries",
+      "why": "The conflict resolves with a no-new-dudes-in-the-room rule."
+    },
+    {
+      "t": 6394,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "The Vegas run ends without gambling, though the baccarat trigger remains active."
+    },
+    {
+      "t": 6506,
+      "to": "DVDASA editorial/product timeline",
+      "why": "The cast debates whether an art/food/porn/conflict mixture can have a coherent public identity."
+    }
+  ],
+  "content_warnings": [
+    "gambling addiction and relapse risk",
+    "suicide statistics and suicide references",
+    "dangerous self-harm behavior",
+    "explicit sexual discussion",
+    "sex while asleep or half asleep",
+    "lack of affirmative consent",
+    "rape fantasy and rape statements",
+    "sexual manipulation and quid-pro-quo influence",
+    "condom/STI misinformation and nondisclosure",
+    "private partner and family details",
+    "private worker sexual/racial questioning",
+    "employment/customer power imbalance",
+    "racial discrimination and stereotypes",
+    "racist, ableist, homophobic and transphobic slurs",
+    "violent threats and property-destruction fantasies",
+    "intoxication and impaired capacity",
+    "foreign-body and infection risk",
+    "private contact and hotel access clues",
+    "fan entry into private space",
+    "private group messages and photographs",
+    "unverified theft and casino allegations",
+    "confidential-project disclosure",
+    "relationship deception and concealment",
+    "public humiliation and emotional distress",
+    "physical punishment under social/work pressure",
+    "publication of private creative writing",
+    "fan-contact and nickname boundaries",
+    "medical and disability slurs",
+    "private health and sexual-frequency claims",
+    "gambling strategy misconceptions"
+  ]
+}

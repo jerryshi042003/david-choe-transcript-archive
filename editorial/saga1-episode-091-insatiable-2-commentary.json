@@ -1,0 +1,641 @@
+{
+  "episode_id": "saga1-episode-091-insatiable-2-commentary",
+  "title": "Insatiable 2 Commentary",
+  "reviewed_on": "2026-07-30",
+  "quality": {
+    "raw_segments": 4248,
+    "clean_segments": 4225,
+    "words_approx": 23611,
+    "duration_seconds": 7487.24,
+    "accepted_context_decisions": 56,
+    "chapters": 87,
+    "connections": 28,
+    "content_warnings": 27,
+    "identity_windows": 6,
+    "named_turns": 0,
+    "cleaning_drops": 23
+  },
+  "speaker_policy": "The public roster supports episode-level context, but coarse legacy windows do not pass held-out line-level identity validation. Named dialogue remains withheld.",
+  "source_notes": [
+    "The cleaner removed twenty-two empty artifacts and one 28.98-second region at 6804.52–6833.50. The latter is not a hallucination: the surrounding audio introduces a childhood cassette repeating “I love you, Drew Barrymore,” requests a recreation, and continues with clear repetitions. Restore it concisely as a reviewed performed phrase.",
+    "The episode borrows the synchronized commentary form while discussing Asa Akira Is Insatiable 2. Public chapters summarize the commentary without reproducing a screenplay or long explicit scene description.",
+    "Contemporary award ledgers report that the film received multiple 2012 AVN awards; award details remain source-attributed rather than treated as proof of every on-air claim.",
+    "A Something Awful DVDASA archive thread independently lists Bill Poon's Poon Report, old YouTube videos, Dark Dick art, Thumbs Up!, Dirty Hands, Koreans Gone Bad, Yoshi Didn't, Into the Limelight, Nega Mola and Hong Dynasty: https://forums.somethingawful.com/showthread.php?threadid=3547484",
+    "The surviving Tumblr archive at https://dvdasabrowneye.tumblr.com/ is a later fan-documentation lead, not an official or neutral source.",
+    "Sexual, medical, legal, product, payment and biographical claims remain attributed unless independently sourced."
+  ],
+  "summary": "A large ensemble uses Asa Akira Is Insatiable 2 for a synchronized commentary experiment, borrowing the form associated on air with Kevin Smith's podcast commentary. The useful archive is not a substitute distribution channel for the underlying explicit film: it records production choices, editing, performance memory, retrospective discomfort and the limits of commentary as documentation. The most important safety distinction arrives when the room debates an on-set refusal. Participation in a scene, earlier agreement and a performer's profession never eliminate the right to pause or withdraw consent; a safe word or “cut” matters only if it is honored. Asa's own retrospective account of pain, blood, overwhelm and crying is preserved as first-person evidence without inventing a legal conclusion. After the film, the episode maps a fan archive around the Poon Report, YumYumCha, DVDASA Observer, Scrotum Coat and the official Tumblr, creating a concrete written-source and old-video discovery queue. A childhood cassette recreation also exposes a cleaner error: genuine repetition was deleted as degeneration and must be restored concisely. The closing schedule reconnects the episode to the planned seclusion/Ranch timeline. Explicit film commentary, sexualized child-aged likenesses, private partners and family, unsupported pheromone marketing and nonparticipant sexual details are withheld from public transcript, search, snippets and embeddings. Named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Cold open with Money Mark"
+    },
+    {
+      "t": 31,
+      "title": "Flavors and ensemble reassembly"
+    },
+    {
+      "t": 56,
+      "title": "Opening theme falters"
+    },
+    {
+      "t": 65,
+      "title": "DVDASA introduction"
+    },
+    {
+      "t": 72,
+      "title": "Money Mark and Val introduced"
+    },
+    {
+      "t": 79,
+      "title": "Bobby and Steve Lee arrive"
+    },
+    {
+      "t": 89,
+      "title": "Critter returns"
+    },
+    {
+      "t": 102,
+      "title": "Missing cast member"
+    },
+    {
+      "t": 111,
+      "title": "Private engagement event"
+    },
+    {
+      "t": 145,
+      "title": "Full-room logistics"
+    },
+    {
+      "t": 204,
+      "title": "AVN nomination discussion"
+    },
+    {
+      "t": 204,
+      "title": "Public awards versus private detail"
+    },
+    {
+      "t": 216,
+      "title": "Insatiable 2 introduced"
+    },
+    {
+      "t": 300,
+      "title": "Award categories and claims"
+    },
+    {
+      "t": 390,
+      "title": "Commentary plan takes shape"
+    },
+    {
+      "t": 492,
+      "title": "Restricted sexual-history block"
+    },
+    {
+      "t": 704,
+      "title": "Medical speculation requires attribution"
+    },
+    {
+      "t": 910,
+      "title": "Products and performance talk"
+    },
+    {
+      "t": 1180,
+      "title": "Unsupported product claims"
+    },
+    {
+      "t": 1450,
+      "title": "Sibling and partner privacy"
+    },
+    {
+      "t": 1700,
+      "title": "Work, money and on-air pressure"
+    },
+    {
+      "t": 1900,
+      "title": "Dehumanizing job label"
+    },
+    {
+      "t": 2040,
+      "title": "Private death and house details"
+    },
+    {
+      "t": 2160,
+      "title": "Synchronized commentary starts"
+    },
+    {
+      "t": 2160,
+      "title": "Underlying film stays out of public search"
+    },
+    {
+      "t": 2190,
+      "title": "Kevin Smith format reference"
+    },
+    {
+      "t": 2300,
+      "title": "Director Mason and the production frame"
+    },
+    {
+      "t": 2460,
+      "title": "Scene terminology"
+    },
+    {
+      "t": 2600,
+      "title": "Blocking and camera position"
+    },
+    {
+      "t": 2780,
+      "title": "Edits versus camera cuts"
+    },
+    {
+      "t": 2950,
+      "title": "What commentary can reveal"
+    },
+    {
+      "t": 3100,
+      "title": "Retrospective performance memory"
+    },
+    {
+      "t": 3280,
+      "title": "On-set communication"
+    },
+    {
+      "t": 3520,
+      "title": "Pain and blood recalled"
+    },
+    {
+      "t": 3520,
+      "title": "First-person evidence without diagnosis"
+    },
+    {
+      "t": 3720,
+      "title": "Editing hides duration"
+    },
+    {
+      "t": 4010,
+      "title": "Reported loss of consciousness"
+    },
+    {
+      "t": 4200,
+      "title": "Performance versus lived experience"
+    },
+    {
+      "t": 4350,
+      "title": "Safe words and stop signals"
+    },
+    {
+      "t": 4550,
+      "title": "Crew responsibility"
+    },
+    {
+      "t": 4750,
+      "title": "Commentary cannot settle intent"
+    },
+    {
+      "t": 4950,
+      "title": "Distress and production pressure"
+    },
+    {
+      "t": 5150,
+      "title": "Prior agreement questioned"
+    },
+    {
+      "t": 5271,
+      "title": "Consent can be withdrawn"
+    },
+    {
+      "t": 5271,
+      "title": "Profession is not blanket consent"
+    },
+    {
+      "t": 5290,
+      "title": "A refusal must be honored"
+    },
+    {
+      "t": 5320,
+      "title": "Room debates a legal label"
+    },
+    {
+      "t": 5480,
+      "title": "The meaning of cut"
+    },
+    {
+      "t": 5680,
+      "title": "Asa recalls being overwhelmed"
+    },
+    {
+      "t": 5880,
+      "title": "Commentary nears the ending"
+    },
+    {
+      "t": 6077,
+      "title": "Poon Report enters the archive"
+    },
+    {
+      "t": 6077,
+      "title": "Fan-source discovery queue opens"
+    },
+    {
+      "t": 6090,
+      "title": "Bill Poon and fan reporting"
+    },
+    {
+      "t": 6110,
+      "title": "YumYumCha named"
+    },
+    {
+      "t": 6140,
+      "title": "DVDASA Observer named"
+    },
+    {
+      "t": 6170,
+      "title": "Scrotum Coat archive"
+    },
+    {
+      "t": 6190,
+      "title": "Tumblr as documentation layer"
+    },
+    {
+      "t": 6210,
+      "title": "Official DVDASA Tumblr"
+    },
+    {
+      "t": 6260,
+      "title": "Spoken URL remains uncertain"
+    },
+    {
+      "t": 6340,
+      "title": "Fans as unofficial indexers"
+    },
+    {
+      "t": 6430,
+      "title": "Private details quoted from a fan report"
+    },
+    {
+      "t": 6460,
+      "title": "Fan reporting is not verification"
+    },
+    {
+      "t": 6540,
+      "title": "Documentation becomes part of the show"
+    },
+    {
+      "t": 6626,
+      "title": "Restricted doll discussion"
+    },
+    {
+      "t": 6746,
+      "title": "Childhood Drew Barrymore cassette"
+    },
+    {
+      "t": 6770,
+      "title": "Thirty-thousand-times memory claim"
+    },
+    {
+      "t": 6805,
+      "title": "Genuine repetition wrongly deleted"
+    },
+    {
+      "t": 6805,
+      "title": "Cleaner false positive documented"
+    },
+    {
+      "t": 6834,
+      "title": "Clear phrase repetitions continue"
+    },
+    {
+      "t": 6860,
+      "title": "Memory performance ends"
+    },
+    {
+      "t": 6940,
+      "title": "Celebrity fixation revisited"
+    },
+    {
+      "t": 7063,
+      "title": "Restricted child-aged likeness discussion"
+    },
+    {
+      "t": 7063,
+      "title": "Public-layer child safety boundary"
+    },
+    {
+      "t": 7144,
+      "title": "Return to fan sites"
+    },
+    {
+      "t": 7164,
+      "title": "Poon Report revisited"
+    },
+    {
+      "t": 7190,
+      "title": "DVDASA Observer revisited"
+    },
+    {
+      "t": 7244,
+      "title": "Marketed pheromone product"
+    },
+    {
+      "t": 7305,
+      "title": "Private supplier withheld"
+    },
+    {
+      "t": 7340,
+      "title": "Travel and Africa plans"
+    },
+    {
+      "t": 7360,
+      "title": "VICE work mentioned"
+    },
+    {
+      "t": 7370,
+      "title": "HBO mentioned"
+    },
+    {
+      "t": 7400,
+      "title": "Seclusion schedule"
+    },
+    {
+      "t": 7400,
+      "title": "Pre-Ranch chronology resumes"
+    },
+    {
+      "t": 7420,
+      "title": "Weekly-show continuity"
+    },
+    {
+      "t": 7440,
+      "title": "Closing love round"
+    },
+    {
+      "t": 7470,
+      "title": "Episode close"
+    },
+    {
+      "t": 7487,
+      "title": "End of source"
+    }
+  ],
+  "connections": [
+    {
+      "t": 2160,
+      "to": "Kevin Smith / Fatman on Batman",
+      "why": "On-air model for synchronized commentary; spelling and exact format require source care."
+    },
+    {
+      "t": 2160,
+      "to": "commentary as documentation",
+      "why": "Production memory and editing insight are useful, but the archive must not reproduce the underlying film."
+    },
+    {
+      "t": 2300,
+      "to": "Mason",
+      "why": "Public director context for the commented film."
+    },
+    {
+      "t": 3100,
+      "to": "participant-first oral history",
+      "why": "Asa's retrospective account is primary evidence about her own experience."
+    },
+    {
+      "t": 3520,
+      "to": "editing and hidden duration",
+      "why": "Pain and elapsed time can be obscured by cuts."
+    },
+    {
+      "t": 4350,
+      "to": "consent protocol",
+      "why": "A safe word or cut signal is protective only when understood and honored."
+    },
+    {
+      "t": 5271,
+      "to": "withdrawable consent",
+      "why": "Previous agreement, previous acts and profession do not eliminate the right to stop."
+    },
+    {
+      "t": 5320,
+      "to": "legal-claim boundary",
+      "why": "Preserve the debate without converting it into an unsourced legal ruling."
+    },
+    {
+      "t": 6077,
+      "to": "Poon Report",
+      "why": "Bill Poon's fan report becomes a written-source discovery lead."
+    },
+    {
+      "t": 6110,
+      "to": "YumYumCha",
+      "why": "Named participant in the fan documentation ecosystem."
+    },
+    {
+      "t": 6140,
+      "to": "DVDASA Observer",
+      "why": "Unofficial indexing and recap source named on air."
+    },
+    {
+      "t": 6170,
+      "to": "Scrotum Coat",
+      "why": "Tumblr-era fan archive lead."
+    },
+    {
+      "t": 6210,
+      "to": "official DVDASA Tumblr",
+      "why": "A separate first-party publishing layer to census."
+    },
+    {
+      "t": 6077,
+      "to": "Something Awful DVDASA Saga 02 thread",
+      "why": "Later thread independently lists the Poon Report archive, old YouTube videos and adjacent Choe works."
+    },
+    {
+      "t": 6077,
+      "to": "old DVDASA YouTube videos",
+      "why": "Fan thread confirms a video layer not covered by audio ingest."
+    },
+    {
+      "t": 6077,
+      "to": "Dark Dick art archive",
+      "why": "Fan thread lists another artwork/source branch."
+    },
+    {
+      "t": 6077,
+      "to": "Thumbs Up!",
+      "why": "Fan archive groups the series with DVDASA source material."
+    },
+    {
+      "t": 6077,
+      "to": "Dirty Hands",
+      "why": "Fan archive points to the documentary as adjacent primary material."
+    },
+    {
+      "t": 6077,
+      "to": "Koreans Gone Bad",
+      "why": "Fan archive identifies an older Choe film lead."
+    },
+    {
+      "t": 6077,
+      "to": "Yoshi Didn't",
+      "why": "Fan archive identifies a short-film lead."
+    },
+    {
+      "t": 6077,
+      "to": "Into the Limelight",
+      "why": "Fan archive identifies a named DVDASA-era work."
+    },
+    {
+      "t": 6077,
+      "to": "Nega Mola",
+      "why": "Fan archive identifies a DVDASA cartoon lead."
+    },
+    {
+      "t": 6077,
+      "to": "Hong Dynasty",
+      "why": "Fan archive identifies another Choe video/source branch."
+    },
+    {
+      "t": 6746,
+      "to": "childhood recorded-media archive",
+      "why": "The cassette story is a personal archive object, not merely repeated speech."
+    },
+    {
+      "t": 6805,
+      "to": "cleaner false-positive taxonomy",
+      "why": "Performed repetition can resemble decoder degeneration and requires context review."
+    },
+    {
+      "t": 7244,
+      "to": "marketing-claim policy",
+      "why": "A marketed pheromone product cannot be presented as effective without evidence."
+    },
+    {
+      "t": 7400,
+      "to": "Episode 090 remote-cabin plan",
+      "why": "The closing schedule continues the immediate pre-Ranch seclusion chronology."
+    },
+    {
+      "t": 7400,
+      "to": "Ranch solo series",
+      "why": "Planned isolation and weekly return anticipate the later recorded Ranch episodes."
+    }
+  ],
+  "content_warnings": [
+    {
+      "t": 204,
+      "warning": "adult-film awards and explicit sexual discussion"
+    },
+    {
+      "t": 492,
+      "warning": "long explicit sex-toy and sexual-history discussion"
+    },
+    {
+      "t": 704,
+      "warning": "unsupported medical speculation"
+    },
+    {
+      "t": 1180,
+      "warning": "unsupported sexual physiology and product claims"
+    },
+    {
+      "t": 1450,
+      "warning": "private partner and sibling sexual details"
+    },
+    {
+      "t": 1900,
+      "warning": "dehumanizing description of sex work"
+    },
+    {
+      "t": 2040,
+      "warning": "private death and residence details"
+    },
+    {
+      "t": 2160,
+      "warning": "long synchronized explicit-film commentary"
+    },
+    {
+      "t": 3100,
+      "warning": "performance distress recalled"
+    },
+    {
+      "t": 3520,
+      "warning": "pain and blood"
+    },
+    {
+      "t": 4010,
+      "warning": "choking or loss of consciousness"
+    },
+    {
+      "t": 4350,
+      "warning": "safe-word and stop-signal discussion"
+    },
+    {
+      "t": 4550,
+      "warning": "on-set coercion and crew responsibility"
+    },
+    {
+      "t": 4950,
+      "warning": "crying and overwhelm"
+    },
+    {
+      "t": 5271,
+      "warning": "withdrawal of consent debated"
+    },
+    {
+      "t": 5320,
+      "warning": "rape terminology and legal uncertainty"
+    },
+    {
+      "t": 5480,
+      "warning": "ignored or disputed stop signal"
+    },
+    {
+      "t": 5680,
+      "warning": "participant recalls distress"
+    },
+    {
+      "t": 6430,
+      "warning": "private third-party details quoted from fan site"
+    },
+    {
+      "t": 6460,
+      "warning": "unverified fan reporting"
+    },
+    {
+      "t": 6626,
+      "warning": "explicit doll and celebrity sexualization"
+    },
+    {
+      "t": 6746,
+      "warning": "childhood fixation discussed"
+    },
+    {
+      "t": 7063,
+      "warning": "sexualized child-aged likeness"
+    },
+    {
+      "t": 7244,
+      "warning": "unsupported pheromone efficacy claims"
+    },
+    {
+      "t": 7305,
+      "warning": "private supplier information"
+    },
+    {
+      "t": 7340,
+      "warning": "private travel and work plans"
+    },
+    {
+      "t": 7400,
+      "warning": "seclusion framed as creative method"
+    }
+  ],
+  "sensitivity": {
+    "public_summary_only": [
+      "explicit synchronized film commentary",
+      "private sexual and family details",
+      "sexualized child-aged likeness discussion",
+      "unsupported product efficacy",
+      "private supplier and nonparticipant identities"
+    ],
+    "consent_note": "Consent is specific, ongoing and withdrawable. Prior agreement, previous acts or profession do not waive the right to stop. The archive preserves the participant's own account and does not infer permission from distress or make an unsourced legal finding.",
+    "public_search_policy": "Restricted spans are excluded from transcript, snippets, embeddings, quotations and previews; neutral chapter labels remain discoverable."
+  }
+}

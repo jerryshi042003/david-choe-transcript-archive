@@ -1,0 +1,255 @@
+{
+  "episode_id": "x5jTxz_n2yo",
+  "title": "Thumbs Up Season 5 TEASER (Philippines, Manila, Siargao)",
+  "reviewed_on": "2026-07-31",
+  "summary": "A sparse 47-second official-channel Season 5 teaser with seven caption records. It contains a spoken Manila greeting, an unresolved “Full blast, please,” an isolated “When?”, then a separate scene compared to a hospital where someone appears to eat crackers and porridge while connected to an IV. The speaker jokes that this is what they hope death will be like. Every word remains. Manila is spoken; Philippines and Siargao are title-level geography and cannot be assigned to every shot. “Like a hospital” does not prove a facility, and the IV supplies no diagnosis, patient identity or treatment. The death line is preserved as gallows humor in that scene, not evidence of suicidal intent or prognosis. Sparse cuts provide no publisher speaker labels; zero named turns ship.",
+  "quality": {
+    "raw_segments": 7,
+    "clean_segments": 7,
+    "raw_words_approx": 39,
+    "clean_words_approx": 39,
+    "duration_seconds": 47,
+    "accepted_context_decisions": 12,
+    "chapters": 12,
+    "connections": 10,
+    "content_warnings": 7,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 18
+  },
+  "speaker_policy": {
+    "status": "sparse multi-scene teaser unresolved",
+    "reason": "The teaser has large gaps and visual-dependent fragments without caption prefixes. Title/channel context does not identify the speaker or IV-scene participant. Publish zero named turns and accept no enrollment window."
+  },
+  "people": [
+    "David Choe (series/source context only; line-level presence unresolved)",
+    "unidentified speaker(s)",
+    "unidentified person associated with IV/food scene"
+  ],
+  "places": [
+    "Manila (spoken greeting)",
+    "Philippines (title level)",
+    "Siargao (title level)",
+    "hospital-like setting (facility status unresolved)"
+  ],
+  "works": [
+    "Thumbs Up Season 5 teaser",
+    "Thumbs Up! Season 5"
+  ],
+  "themes": [
+    "travel greeting",
+    "Manila",
+    "unresolved intensity request",
+    "hospital comparison",
+    "IV",
+    "food/porridge",
+    "gallows humor",
+    "death",
+    "visual montage",
+    "truncation"
+  ],
+  "chapters": [
+    {
+      "t": 3,
+      "title": "greeting to Manila"
+    },
+    {
+      "t": 4,
+      "title": "arrival/presence statement"
+    },
+    {
+      "t": 7,
+      "title": "request for “full blast” [object/action unresolved]"
+    },
+    {
+      "t": 15,
+      "title": "isolated question “When?”"
+    },
+    {
+      "t": 18,
+      "title": "surprised reaction"
+    },
+    {
+      "t": 18.5,
+      "title": "“This” repeated"
+    },
+    {
+      "t": 19,
+      "title": "scene compared to a hospital"
+    },
+    {
+      "t": 20,
+      "title": "person appears to eat crackers while connected to an IV"
+    },
+    {
+      "t": 21,
+      "title": "porridge also present/eaten"
+    },
+    {
+      "t": 21.5,
+      "title": "speaker imagines a future state"
+    },
+    {
+      "t": 23,
+      "title": "gallows-humor hope about conditions at death"
+    },
+    {
+      "t": 24,
+      "title": "hospital/death fragment ends without explanation"
+    }
+  ],
+  "connections": [
+    {
+      "t": 3,
+      "to": "Manila",
+      "relationship": "The spoken greeting anchors at least one scene in Manila."
+    },
+    {
+      "t": 4,
+      "to": "arrival",
+      "relationship": "“Here we are” functions as travel-teaser positioning."
+    },
+    {
+      "t": 7,
+      "to": "full-blast request",
+      "relationship": "The object or intensity being controlled is absent from captions."
+    },
+    {
+      "t": 15,
+      "to": "isolated question",
+      "relationship": "A long gap leaves “When?” without an answer or topic."
+    },
+    {
+      "t": 18,
+      "to": "scene cut",
+      "relationship": "A surprised reaction opens a different visual fragment."
+    },
+    {
+      "t": 19,
+      "to": "hospital comparison",
+      "relationship": "“Like a hospital” is a comparison and does not prove facility type."
+    },
+    {
+      "t": 20,
+      "to": "IV/crackers",
+      "relationship": "The image appears medical but captions establish no condition or treatment."
+    },
+    {
+      "t": 21,
+      "to": "porridge",
+      "relationship": "Food details contribute to the visual joke."
+    },
+    {
+      "t": 23,
+      "to": "death joke",
+      "relationship": "The speaker imagines this as a preferred death setting/experience in gallows humor."
+    },
+    {
+      "t": 24,
+      "to": "missing context",
+      "relationship": "The teaser ends before the person, location or medical circumstances are explained."
+    }
+  ],
+  "source_notes": [
+    "Official David Choe channel upload.",
+    "Automatic captions contain seven long records / 39 words / 0:47.",
+    "Manila is spoken in the audio/captions.",
+    "Philippines and Siargao appear in the title, not the surviving speech.",
+    "Large gaps indicate visual montage and missing context.",
+    "The object of “Full blast” is unknown.",
+    "The topic/answer for “When?” is missing.",
+    "The scene is described as ‘like a hospital,’ not definitively a hospital.",
+    "An IV is mentioned but no condition, clinician or treatment is named.",
+    "The person eating is not identified.",
+    "The death line is joke-like in context.",
+    "No suicidal intent, plan, cause or prognosis is stated.",
+    "No publisher speaker prefixes exist.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "hospital imagery",
+    "IV/medical imagery",
+    "death joke",
+    "suicidal-intent misclassification risk",
+    "unidentified patient/participant",
+    "sparse/truncated context",
+    "geographic uncertainty"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.06,
+      "rule": "publish zero named line-level turns; sparse teaser captions have no prefixes"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve every fragment and the death joke uncensored without joining scenes"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not infer a diagnosis, treatment, medical facility, patient identity or care recommendation from IV/food imagery"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not classify the death joke as suicidal ideation, intent, plan, prognosis or cause"
+    },
+    {
+      "t": -0.02,
+      "rule": "distinguish spoken Manila from title-level Philippines/Siargao and do not geolocate every scene"
+    },
+    {
+      "t": -0.01,
+      "rule": "do not invent what ‘full blast’ controls, the subject of ‘when,’ or missing visual context"
+    },
+    {
+      "t": 3,
+      "rule": "distinguish spoken Manila from title-level Philippines/Siargao; do not assign every scene to one place"
+    },
+    {
+      "t": 4,
+      "rule": "preserve visible/captioned scene with uncertainty; do not infer diagnosis, treatment, facility, patient or medical guidance"
+    },
+    {
+      "t": 7,
+      "rule": "preserve as a separate sparse fragment; do not invent visual referent, response or speaker identity"
+    },
+    {
+      "t": 15,
+      "rule": "preserve as a separate sparse fragment; do not invent visual referent, response or speaker identity"
+    },
+    {
+      "t": 18,
+      "rule": "preserve as a separate sparse fragment; do not invent visual referent, response or speaker identity"
+    },
+    {
+      "t": 18.5,
+      "rule": "preserve as a separate sparse fragment; do not invent visual referent, response or speaker identity"
+    },
+    {
+      "t": 19,
+      "rule": "preserve visible/captioned scene with uncertainty; do not infer diagnosis, treatment, facility, patient or medical guidance"
+    },
+    {
+      "t": 20,
+      "rule": "preserve visible/captioned scene with uncertainty; do not infer diagnosis, treatment, facility, patient or medical guidance"
+    },
+    {
+      "t": 21,
+      "rule": "preserve visible/captioned scene with uncertainty; do not infer diagnosis, treatment, facility, patient or medical guidance"
+    },
+    {
+      "t": 21.5,
+      "rule": "preserve as a separate sparse fragment; do not invent visual referent, response or speaker identity"
+    },
+    {
+      "t": 23,
+      "rule": "preserve as contextualized gallows humor; do not label suicidal intent, prognosis or cause of death"
+    },
+    {
+      "t": 24,
+      "rule": "preserve visible/captioned scene with uncertainty; do not infer diagnosis, treatment, facility, patient or medical guidance"
+    }
+  ]
+}

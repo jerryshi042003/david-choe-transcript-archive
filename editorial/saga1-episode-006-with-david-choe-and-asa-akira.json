@@ -1,0 +1,107 @@
+{
+  "summary": "Episode Six brings therapist and Yoshi Didn't co-host Lilit Arvahi into the recurring David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba room. It opens with language, migration, habit, and David's argument that adaptation is necessary, then uses Yoshi's supposedly clean UCLA performance to examine artistic repetition and whether a comic can distinguish a durable act from stagnation. The center of the episode shifts into a personality-test session: the participants debate labels, self-reporting, narcissism, sociopathy, empathy, intimacy, work, sacrifice, and whether therapy can separate a useful pattern from a verdict. The longest late section focuses on Yoshi's grievance against a former employer who contacts him while seriously ill; forgiveness, apology, hate, depression, and sadism become concrete rather than hypothetical before psychology trivia ends the formal show.",
+  "chapters": [
+    {"t": 24, "title": "Lilit Arvahi and Yoshi Didn't join the room"},
+    {"t": 230, "title": "The attempt at an anal-free episode"},
+    {"t": 340, "title": "Loveline, childhood voice, migration, and language"},
+    {"t": 520, "title": "Habit, technology, pragmatism, and adaptation"},
+    {"t": 680, "title": "Yoshi's supposedly clean UCLA performance"},
+    {"t": 1080, "title": "Comics Without Borders and the unchanged act"},
+    {"t": 1260, "title": "Writing new material, discomfort, and audience control"},
+    {"t": 2050, "title": "The personality-test method and its limits"},
+    {"t": 2400, "title": "Conflict scenarios and self-reporting"},
+    {"t": 2700, "title": "David's result: narcissism, risk, and mortality"},
+    {"t": 3200, "title": "Body care, work, sacrifice, and earned outcomes"},
+    {"t": 3600, "title": "Only children, touch, sleep, and intimacy"},
+    {"t": 4100, "title": "Empathy, homelessness, judgment, and chosen work"},
+    {"t": 4450, "title": "Adult-industry community and freedom from explanation"},
+    {"t": 4780, "title": "Coney Island, inner monsters, and Mark Spiegler"},
+    {"t": 4850, "title": "Lilit reads the room without turning scores into diagnoses"},
+    {"t": 5400, "title": "Yoshi, hate, music, dysthymia, and depression"},
+    {"t": 5750, "title": "The seriously ill former employer asks to meet"},
+    {"t": 6060, "title": "Forgiveness, apology, cruelty, and Bobby's counterpoint"},
+    {"t": 6260, "title": "Psychology trivia: disorders, Freud, and Maslow"},
+    {"t": 6560, "title": "Lilit wins, the lobe returns, and therapy continues"}
+  ],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lilit Arvahi",
+    "Money Mark",
+    "Dr. Drew Pinsky",
+    "Poor Man",
+    "Russell Peters",
+    "Mark Spiegler",
+    "Sigmund Freud",
+    "Abraham Maslow"
+  ],
+  "places": [
+    "Los Angeles",
+    "Japan",
+    "Seattle",
+    "UCLA",
+    "Coney Island",
+    "Mount Everest"
+  ],
+  "works": [
+    "DVDASA",
+    "Yoshi Didn't",
+    "Loveline",
+    "Comics Without Borders",
+    "Chappelle's Show",
+    "Asa Akira Is Insatiable",
+    "Spawn",
+    "Trivia With Bobby"
+  ],
+  "themes": [
+    "migration and language",
+    "habit and adaptation",
+    "comedy writing",
+    "artistic repetition",
+    "audience discomfort",
+    "personality testing",
+    "therapy",
+    "empathy",
+    "work and sacrifice",
+    "intimacy",
+    "depression",
+    "hate",
+    "forgiveness",
+    "apology"
+  ],
+  "connections": [
+    {
+      "label": "Repetition can be signature or stagnation",
+      "note": "David still laughs at Yoshi's familiar material and also treats its persistence across years and recordings as evidence that the act is not developing. The archive should make recurrence visible without deciding that repetition has only one meaning."
+    },
+    {
+      "label": "A test score is not a diagnosis",
+      "note": "Lilit repeatedly distinguishes a narrow self-report instrument from clinical assessment. The group's competitive framing—who is most damaged—conflicts with her attempt to use patterns as openings for inquiry rather than rankings."
+    },
+    {
+      "label": "Adaptation and tradition coexist in Yoshi's migration story",
+      "note": "Yoshi describes arriving without a shared language at home or school, learning incompatible social rules, and later using travel as permission to act outside familiar expectations. His rigid habits and geographic experimentation are not opposites."
+    },
+    {
+      "label": "Work becomes a defense against pity",
+      "note": "Asa and David connect sacrifice, self-authorship, and professional community to their limited patience for explanations of failure. The episode exposes both the agency in that position and its risk of erasing unequal constraints."
+    },
+    {
+      "label": "Hate is treated as fuel and symptom",
+      "note": "Yoshi describes hate as keeping him alive after job loss, while others connect it to depression, grievance, and sadism. The former employer's illness tests whether the emotion protects dignity or prevents any form of repair."
+    },
+    {
+      "label": "Apology is the missing condition",
+      "note": "Yoshi and Bobby both resist forgiveness when the former employer seeks contact without clearly admitting wrongdoing. Their answers differ from simple cruelty: the requested meeting, serious illness, apology, and accountability are treated as separate facts."
+    }
+  ],
+  "quality": {
+    "transcript_state": "draft-needs-audio-check",
+    "speaker_state": "five-person panel with overlapping test discussion; named turns withheld",
+    "correction_fixture": "episode-006-correction-fixture.json",
+    "content_note": "The episode contains explicit sexual material, offensive racial, disability, and mental-health language, discussion of childhood trauma, depression, suicide, addiction, violence, serious illness, and withholding forgiveness. Editorial labels do not convert a podcast test into diagnosis."
+  },
+  "note": "Chapter titles and connections are editorial. The ASR and cleaner are statistically strong; guest identity and psychology terms receive logged corrections, while exact quotation and speaker attribution require audio validation."
+}

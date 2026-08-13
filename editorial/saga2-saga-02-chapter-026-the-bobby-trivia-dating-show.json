@@ -1,0 +1,1638 @@
+{
+  "episode_id": "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show",
+  "title": "The Bobby Trivia Dating Show",
+  "reviewed_on": "2026-07-31",
+  "quality": {
+    "raw_segments": 4488,
+    "clean_segments": 4475,
+    "raw_words_approx": 34594,
+    "clean_words_approx": 34593,
+    "duration_seconds": 10813.62,
+    "accepted_context_decisions": 317,
+    "chapters": 130,
+    "connections": 23,
+    "content_warnings": 47,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 13,
+    "cleaning_net_word_delta": 0,
+    "clean_transcript_net_word_delta": -1,
+    "uncertainty_marker_words_added": 0,
+    "public_restriction_spans": 184,
+    "review_queue_suggestions": 5,
+    "review_queue_suggestions_accepted": 0
+  },
+  "summary": "Chapter 26 opens with a Mangchi song that moves from school-shooting and suicide imagery toward survival, then becomes an unusually useful failure report on DVDASA's attempt at a produced segment. Bobby Trivia revives Saelee Oh's year-old matchmaking premise while drinking, arranges three private dates, confirms the studio appearance only a day before recording, tells the only available date not to turn back because a one-person confrontation might be awkward, and begins the episode without any of the dates present. The cast directly calls this bad production and acknowledges that absent people should be able to answer. Saelee's current position supersedes the old premise: she does not want a boyfriend, wants to attend events normally, and objects to being reduced to weed and dating rather than her art. The archive therefore retains the off-air date chronology without names, wealth, family, ancestry, residence or private phone details, and treats every future appearance as a new invitation. Her November 2 testimony adds a needed women's-safety perspective: asymmetric fan knowledge felt creepy, one attendee's conduct was enough to change the event, another woman was reportedly groped after being announced single, and a room of strangers knew intimate details. The cake/suit conflict separates video evidence, intent, impact, labor and remedy. Video confirms Saelee threw cake at Critter; she says she meant play, did not know the suit's significance, apologizes and offers to pay, while Critter explains humiliation, cleanup and custom-clothing harm. Neither an audience poll nor the venue's disputed invoice determines the moral record. The subsequent young-roadie argument exposes David's punitive teaching philosophy: public humiliation is defended as efficient correction, while others demand private feedback, direct testimony and medical humility. The worker remains anonymous and no conclusion about his inner response is invented. A three-month-delayed Kevin Smith conflict shows why release lag matters: a perceived Comic-Con snub is discussed publicly, heard months later, disputed and finally resolved by phone. Digital-consent failures recur when friends use Saelee's phone and James Jean's accounts, impersonate them, send a deceptive explicit scrotum image and observe the recipient. The archive never displays the image or reproduces the private sext dossier. Date two is reported to begin with sexual questions, drinking pressure, mistaken identity and repeated hope that Saelee was a sex worker. Dinner payment does not erase those claims, and the absent date remains unidentified. Saelee's final oral-sex/nosebleed account distinguishes initial willingness from later wanting the prolonged act to end, no consent to intercourse, cocaine/sinus health context, blood exposure and a behavior-change conclusion. Humor is her coping frame, not proof the event was harmless. The episode also contains high-value product evidence: long intros frustrate listeners, lack of production prevents follow-through, stale release timing creates conflict, editable wiki pages flatten or falsify people, and hour-three intimacy can become parasocial sunk cost. A better product must preserve complete recordings while enabling immediate topic entry, easy exit, exact context, corrections, participant control and work-centered identity. Saelee Oh's art and Critter Fleming's Momofuku work stay visible beside the dating material. All five fuzzy Saelee suggestions are rejected as unusable untimestamped fragments; the canonical name is repaired explicitly. The final pilcrow glyph is nonlexical, and damaged song/reprise words are not invented. Named turns remain withheld pending held-out acoustic validation.",
+  "source_notes": [
+    {
+      "t": 1778,
+      "claim": "Asian Americans were less than four or five percent of the United States.",
+      "assessment": "The 2010 Census counted 4.8% Asian alone and 5.6% Asian alone or in combination. The in-room 5.6% correction is valid only with that definition.",
+      "source": "https://www.census.gov/newsroom/releases/archives/2010_census/cb12-cn22.html"
+    },
+    {
+      "t": 1888,
+      "claim": "Affirmative action at UCLA worked against Asian applicants.",
+      "assessment": "Race could not be considered in UC admissions after California Proposition 209 took effect. The episode's simple causal explanation for enrollment/admission outcomes is therefore inaccurate.",
+      "source": "https://www.universityofcalifornia.edu/press-room/uc-statement-scotus-decision-regarding-use-race-college-admissions"
+    },
+    {
+      "t": 4518,
+      "claim": "Vomiting and chewing/spitting were ordinary ways to become temporarily irresistible.",
+      "assessment": "These are disordered-eating behaviors, not safe weight-control methods. The archive documents the admission without endorsing it or diagnosing a specific disorder.",
+      "source": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6005a1.htm"
+    },
+    {
+      "t": 7423,
+      "claim": "Stopping daily cannabis is either harmless or necessarily caused a particular symptom.",
+      "assessment": "Cannabis withdrawal can include irritability, nervousness, sleep problems, appetite change and other symptoms, but the episode does not establish which, if any, Saelee experienced.",
+      "source": "https://datashare.nida.nih.gov/instrument/marijuana-withdrawal-symptom-checklist"
+    },
+    {
+      "t": 9453,
+      "claim": "Aggressive oral sex itself caused the nosebleed.",
+      "assessment": "The participant and room reject that simple causal joke. Sinus irritation and intranasal cocaine are recognized nosebleed causes; the exact cause here cannot be diagnosed from the recording.",
+      "source": "https://medlineplus.gov/ency/article/003106.htm"
+    },
+    {
+      "t": 9453,
+      "claim": "Snorted cocaine has no relevant nasal health context.",
+      "assessment": "Repeated snorting can lead to nosebleeds and nasal damage, among other risks.",
+      "source": "https://medlineplus.gov/cocaine.html"
+    },
+    {
+      "t": 9595,
+      "claim": "Continuing an act after wanting it to end is required by politeness.",
+      "assessment": "Consent can be withdrawn at any point. Intoxication and social pressure complicate action but do not remove the right to stop.",
+      "source": "https://www.cdc.gov/sexual-violence/about/index.html"
+    }
+  ],
+  "speaker_policy": "Public cast and Saelee Oh may be identified at episode level where introduced. The three dates, referring agent, private partners, spouses, young roadie, fan tailor, venue workers, family members, account owners, sexual partners, residences, routes, phone numbers, private messages and explicit images remain excluded from discovery. Overlap, song lyrics, seating, physical contact, cake throw, wedding video, phone-message reading and the damaged tail require acoustic/video validation. No line-level named dialogue publishes until held-out voice validation passes.",
+  "chapters": [
+    {
+      "t": 6,
+      "title": "School-shooting discussion fragment"
+    },
+    {
+      "t": 50,
+      "title": "Mangchi Peter Tong song"
+    },
+    {
+      "t": 189,
+      "title": "Song turns toward survival"
+    },
+    {
+      "t": 345,
+      "title": "Pre-show seating"
+    },
+    {
+      "t": 397,
+      "title": "East Coast signing recap"
+    },
+    {
+      "t": 488,
+      "title": "Mangchi recording absence"
+    },
+    {
+      "t": 563,
+      "title": "Producer conflict begins"
+    },
+    {
+      "t": 606,
+      "title": "Blind-date segment planning"
+    },
+    {
+      "t": 627,
+      "title": "Nikki appearance comparison"
+    },
+    {
+      "t": 679,
+      "title": "Absent dates and fairness"
+    },
+    {
+      "t": 785,
+      "title": "Always-recording room"
+    },
+    {
+      "t": 889,
+      "title": "Why the show starts slowly"
+    },
+    {
+      "t": 947,
+      "title": "Seat dispute"
+    },
+    {
+      "t": 1050,
+      "title": "Formal introduction"
+    },
+    {
+      "t": 1067,
+      "title": "Saelee Oh returns"
+    },
+    {
+      "t": 1085,
+      "title": "Failed blind-date production"
+    },
+    {
+      "t": 1137,
+      "title": "Prior Saelee episodes"
+    },
+    {
+      "t": 1167,
+      "title": "Audience analytics"
+    },
+    {
+      "t": 1183,
+      "title": "Old guest judgment reversed"
+    },
+    {
+      "t": 1267,
+      "title": "Old dating list"
+    },
+    {
+      "t": 1354,
+      "title": "Saelee is not looking for dates"
+    },
+    {
+      "t": 1362,
+      "title": "Fan-event safety"
+    },
+    {
+      "t": 1398,
+      "title": "November 2 wedding"
+    },
+    {
+      "t": 1495,
+      "title": "25-hour event chronology"
+    },
+    {
+      "t": 1588,
+      "title": "Wedding vows"
+    },
+    {
+      "t": 1628,
+      "title": "Cult-like atmosphere"
+    },
+    {
+      "t": 1667,
+      "title": "Cash-contest winners"
+    },
+    {
+      "t": 1722,
+      "title": "Fandom and assumed intimacy"
+    },
+    {
+      "t": 1778,
+      "title": "Asian-American population debate"
+    },
+    {
+      "t": 1975,
+      "title": "No producer, no follow-through"
+    },
+    {
+      "t": 2000,
+      "title": "Bobby revives the show"
+    },
+    {
+      "t": 2044,
+      "title": "Three preferences"
+    },
+    {
+      "t": 2159,
+      "title": "Original list read aloud"
+    },
+    {
+      "t": 2241,
+      "title": "No boyfriend"
+    },
+    {
+      "t": 2286,
+      "title": "Room nominates Bobby"
+    },
+    {
+      "t": 2346,
+      "title": "Hockey stereotypes"
+    },
+    {
+      "t": 2404,
+      "title": "Leave me alone"
+    },
+    {
+      "t": 2435,
+      "title": "No dates present"
+    },
+    {
+      "t": 2593,
+      "title": "Date one chronology"
+    },
+    {
+      "t": 2747,
+      "title": "Short version versus full story"
+    },
+    {
+      "t": 2777,
+      "title": "Outfit coaching"
+    },
+    {
+      "t": 2893,
+      "title": "First-date venue"
+    },
+    {
+      "t": 2994,
+      "title": "First impression"
+    },
+    {
+      "t": 3062,
+      "title": "One-hour date"
+    },
+    {
+      "t": 3185,
+      "title": "Restaurant and roommate detour"
+    },
+    {
+      "t": 3354,
+      "title": "Bill matchmaking pressure"
+    },
+    {
+      "t": 3424,
+      "title": "Date-one character assessment"
+    },
+    {
+      "t": 3465,
+      "title": "Housing/driver hypothetical"
+    },
+    {
+      "t": 3515,
+      "title": "Private porn and home discussion"
+    },
+    {
+      "t": 3721,
+      "title": "Bathroom story"
+    },
+    {
+      "t": 3821,
+      "title": "Chapter 25 relationship callback"
+    },
+    {
+      "t": 4000,
+      "title": "Late-night meal and urgency"
+    },
+    {
+      "t": 4121,
+      "title": "Unwanted explicit image"
+    },
+    {
+      "t": 4178,
+      "title": "Seat-warmer boundary"
+    },
+    {
+      "t": 4252,
+      "title": "Past bodily accident"
+    },
+    {
+      "t": 4366,
+      "title": "Bowel/body discussion"
+    },
+    {
+      "t": 4518,
+      "title": "Disordered-eating admission"
+    },
+    {
+      "t": 4558,
+      "title": "Why Bobby produced dates"
+    },
+    {
+      "t": 4590,
+      "title": "First-date follow-up"
+    },
+    {
+      "t": 4750,
+      "title": "Ferguson protests nearby"
+    },
+    {
+      "t": 4831,
+      "title": "Cycle and attraction"
+    },
+    {
+      "t": 4888,
+      "title": "Date two delayed"
+    },
+    {
+      "t": 4946,
+      "title": "Unnamed artist dispute"
+    },
+    {
+      "t": 5144,
+      "title": "Critter conflict interrupts"
+    },
+    {
+      "t": 5180,
+      "title": "Custom camouflage suit"
+    },
+    {
+      "t": 5219,
+      "title": "Wedding cake video"
+    },
+    {
+      "t": 5291,
+      "title": "Billy Bob Crit counterrecord"
+    },
+    {
+      "t": 5315,
+      "title": "Intent versus impact"
+    },
+    {
+      "t": 5427,
+      "title": "Critter explains harm"
+    },
+    {
+      "t": 5477,
+      "title": "Kevin Smith conflict by delayed podcast"
+    },
+    {
+      "t": 5600,
+      "title": "Suit apology"
+    },
+    {
+      "t": 5693,
+      "title": "Private message dispute"
+    },
+    {
+      "t": 5796,
+      "title": "Threat during argument"
+    },
+    {
+      "t": 5867,
+      "title": "Poll cannot resolve harm"
+    },
+    {
+      "t": 5970,
+      "title": "Venue labor and cleanup"
+    },
+    {
+      "t": 6045,
+      "title": "Flirting assumptions corrected"
+    },
+    {
+      "t": 6201,
+      "title": "Friend-contact boundaries"
+    },
+    {
+      "t": 6260,
+      "title": "Screenshots and responsibility"
+    },
+    {
+      "t": 6435,
+      "title": "Humiliation as discipline"
+    },
+    {
+      "t": 6480,
+      "title": "Young roadie odor dispute"
+    },
+    {
+      "t": 6653,
+      "title": "Does humiliation teach?"
+    },
+    {
+      "t": 6834,
+      "title": "Good Will Hunting versus Whiplash"
+    },
+    {
+      "t": 6973,
+      "title": "Need direct worker testimony"
+    },
+    {
+      "t": 7045,
+      "title": "Demeanor mistaken for invitation"
+    },
+    {
+      "t": 7125,
+      "title": "Steve and Nikki contact boundary"
+    },
+    {
+      "t": 7253,
+      "title": "Why the dating show returned"
+    },
+    {
+      "t": 7323,
+      "title": "Saelee assesses herself"
+    },
+    {
+      "t": 7381,
+      "title": "Cannabis abstinence and porn use"
+    },
+    {
+      "t": 7471,
+      "title": "Cuddling-service claim"
+    },
+    {
+      "t": 7600,
+      "title": "Sailor Moon parody"
+    },
+    {
+      "t": 7739,
+      "title": "Disclosure limit recognized"
+    },
+    {
+      "t": 7833,
+      "title": "Explicit photo refusal"
+    },
+    {
+      "t": 7920,
+      "title": "2011 private messages"
+    },
+    {
+      "t": 7979,
+      "title": "Phone/account impersonation"
+    },
+    {
+      "t": 8130,
+      "title": "Deceptive sext exchange"
+    },
+    {
+      "t": 8370,
+      "title": "Prank revealed"
+    },
+    {
+      "t": 8402,
+      "title": "Did Bobby have a crush?"
+    },
+    {
+      "t": 8471,
+      "title": "Show tries to end"
+    },
+    {
+      "t": 8500,
+      "title": "Date two at last"
+    },
+    {
+      "t": 8600,
+      "title": "Fan confuses Saelee"
+    },
+    {
+      "t": 8611,
+      "title": "Reported harassment on date"
+    },
+    {
+      "t": 8686,
+      "title": "Advice to imitator fans"
+    },
+    {
+      "t": 8800,
+      "title": "Dinner does not erase harassment"
+    },
+    {
+      "t": 8838,
+      "title": "Production reimbursement"
+    },
+    {
+      "t": 8932,
+      "title": "Other bad-date hearsay"
+    },
+    {
+      "t": 8990,
+      "title": "Sex-work compatibility debate"
+    },
+    {
+      "t": 9050,
+      "title": "Podcasts as substitute friends"
+    },
+    {
+      "t": 9130,
+      "title": "Sex and money"
+    },
+    {
+      "t": 9233,
+      "title": "Private Tinder/sexting"
+    },
+    {
+      "t": 9306,
+      "title": "Nosebleed story"
+    },
+    {
+      "t": 9390,
+      "title": "Prolonged oral-sex account"
+    },
+    {
+      "t": 9453,
+      "title": "Cocaine and bleeding"
+    },
+    {
+      "t": 9490,
+      "title": "Why tell it publicly"
+    },
+    {
+      "t": 9552,
+      "title": "Wanting it to end"
+    },
+    {
+      "t": 9646,
+      "title": "Nosebleed stops encounter"
+    },
+    {
+      "t": 9724,
+      "title": "Consent clarified"
+    },
+    {
+      "t": 9776,
+      "title": "Humor after distress"
+    },
+    {
+      "t": 9851,
+      "title": "Behavior-change conclusion"
+    },
+    {
+      "t": 9883,
+      "title": "Hour-three intimacy"
+    },
+    {
+      "t": 9915,
+      "title": "Main show closes"
+    },
+    {
+      "t": 9959,
+      "title": "Laugh or cry"
+    },
+    {
+      "t": 10098,
+      "title": "Saelee's relationship insight"
+    },
+    {
+      "t": 10191,
+      "title": "Merch and editable website"
+    },
+    {
+      "t": 10300,
+      "title": "Return regret and persona flattening"
+    },
+    {
+      "t": 10382,
+      "title": "Reconciliation touch"
+    },
+    {
+      "t": 10410,
+      "title": "Critter Fleming art"
+    },
+    {
+      "t": 10515,
+      "title": "Damaged tail"
+    },
+    {
+      "t": 10671,
+      "title": "Library-shooting fragment"
+    },
+    {
+      "t": 10716,
+      "title": "Peter Tong reprise"
+    },
+    {
+      "t": 10812,
+      "title": "End glyph"
+    }
+  ],
+  "connections": [
+    {
+      "t": 50,
+      "to": "mangchi-peter-tong",
+      "why": "Opening and damaged reprise appear to be the same suicide-to-survival song."
+    },
+    {
+      "t": 606,
+      "to": "dvdasa-produced-segments",
+      "why": "Bobby's first produced dating segment fails through late booking and absent participants."
+    },
+    {
+      "t": 1137,
+      "to": "saga1-episode-065",
+      "why": "The source instructs listeners to return to Saelee's original appearance."
+    },
+    {
+      "t": 1155,
+      "to": "saga1-episode-066-gap",
+      "why": "The lost stoner episode is explicitly named as required context."
+    },
+    {
+      "t": 1398,
+      "to": "november-2-live-event",
+      "why": "Women's safety, wedding, cash contest and venue effects add new event testimony."
+    },
+    {
+      "t": 1975,
+      "to": "dvdasa-product-critique",
+      "why": "The cast says lack of a producer prevents promised projects from happening."
+    },
+    {
+      "t": 2435,
+      "to": "fairness-and-absence",
+      "why": "The dates are discussed without being present; cast acknowledges the editorial defect."
+    },
+    {
+      "t": 4750,
+      "to": "ferguson-protest-timeline",
+      "why": "Live nearby protests provide a recording-date anchor."
+    },
+    {
+      "t": 4946,
+      "to": "saga2-chapter-025",
+      "why": "Saelee supplies an additional interpretation of the unnamed-artist dispute."
+    },
+    {
+      "t": 5291,
+      "to": "billy-bob-crit-corpus",
+      "why": "The cake/suit dispute is documented in a faster satellite show."
+    },
+    {
+      "t": 5477,
+      "to": "kevin-smith-corpus",
+      "why": "Podcast delay converts a missed greeting into a three-month-late conflict."
+    },
+    {
+      "t": 6797,
+      "to": "yen-workplace-chronology",
+      "why": "Humiliation-as-teaching philosophy recurs from earlier employee conflicts."
+    },
+    {
+      "t": 6887,
+      "to": "whiplash",
+      "why": "The then-current film supplies the punitive-teaching analogy."
+    },
+    {
+      "t": 7059,
+      "to": "unaired-artist-interview",
+      "why": "A separate interview may never have aired and remains a source lead."
+    },
+    {
+      "t": 7381,
+      "to": "saga1-episode-066-gap",
+      "why": "Saelee's earlier intoxicated appearance is contrasted with 52 days without cannabis."
+    },
+    {
+      "t": 7920,
+      "to": "hawaii-2011-friend-trip",
+      "why": "Private-message prank and serenade chronology originate on the trip."
+    },
+    {
+      "t": 7994,
+      "to": "james-jean-corpus",
+      "why": "Unauthorized prank tweets were falsely attributed to James Jean."
+    },
+    {
+      "t": 8686,
+      "to": "fan-culture-product",
+      "why": "David explicitly rejects fans reducing and imitating his public persona."
+    },
+    {
+      "t": 9050,
+      "to": "parasocial-product",
+      "why": "The room describes podcasts as friendship substitutes and audience family."
+    },
+    {
+      "t": 9883,
+      "to": "longform-retention",
+      "why": "The cast articulates its hour-three sunk-cost intimacy model."
+    },
+    {
+      "t": 10217,
+      "to": "dvdasa-wiki-history",
+      "why": "User-editable pages explain false or unwanted biographical content."
+    },
+    {
+      "t": 10311,
+      "to": "saelee-oh-artist-record",
+      "why": "Saelee objects to being flattened into weed and dating instead of her work."
+    },
+    {
+      "t": 10410,
+      "to": "momofuku-ko-art",
+      "why": "Critter Fleming paintings and the no-nose style recur."
+    }
+  ],
+  "content_warnings": [
+    {
+      "t": 6,
+      "warning": "mass shooting and suicide discussion"
+    },
+    {
+      "t": 50,
+      "warning": "suicidal song"
+    },
+    {
+      "t": 103,
+      "warning": "racial slur in lyric"
+    },
+    {
+      "t": 627,
+      "warning": "appearance pressure"
+    },
+    {
+      "t": 679,
+      "warning": "dehumanizing insult"
+    },
+    {
+      "t": 1022,
+      "warning": "physical game"
+    },
+    {
+      "t": 1247,
+      "warning": "intoxication discussion"
+    },
+    {
+      "t": 1362,
+      "warning": "fan harassment/fear"
+    },
+    {
+      "t": 1421,
+      "warning": "reported groping"
+    },
+    {
+      "t": 1554,
+      "warning": "child sexual-violence joke"
+    },
+    {
+      "t": 1748,
+      "warning": "sexual availability inferred from fandom"
+    },
+    {
+      "t": 2159,
+      "warning": "explicit partner checklist"
+    },
+    {
+      "t": 3646,
+      "warning": "age-themed adult-content discussion"
+    },
+    {
+      "t": 3651,
+      "warning": "child sexual-abuse-material fear"
+    },
+    {
+      "t": 3821,
+      "warning": "absent partner relationship discussion"
+    },
+    {
+      "t": 3861,
+      "warning": "shooting threat joke"
+    },
+    {
+      "t": 3930,
+      "warning": "sexual degradation"
+    },
+    {
+      "t": 4124,
+      "warning": "feces image"
+    },
+    {
+      "t": 4178,
+      "warning": "bodily-boundary interference"
+    },
+    {
+      "t": 4252,
+      "warning": "incontinence account"
+    },
+    {
+      "t": 4518,
+      "warning": "purging/chew-spit"
+    },
+    {
+      "t": 4946,
+      "warning": "relationship betrayal dispute"
+    },
+    {
+      "t": 5100,
+      "warning": "retaliatory framing"
+    },
+    {
+      "t": 5219,
+      "warning": "food thrown at person"
+    },
+    {
+      "t": 5621,
+      "warning": "threat to have partner attack"
+    },
+    {
+      "t": 5796,
+      "warning": "strangulation threat"
+    },
+    {
+      "t": 6045,
+      "warning": "sexual/flirting allegations"
+    },
+    {
+      "t": 6450,
+      "warning": "child humiliation"
+    },
+    {
+      "t": 6480,
+      "warning": "young worker body humiliation"
+    },
+    {
+      "t": 6653,
+      "warning": "punitive humiliation"
+    },
+    {
+      "t": 7059,
+      "warning": "private marriage hearsay"
+    },
+    {
+      "t": 7105,
+      "warning": "sexual demeanor misread"
+    },
+    {
+      "t": 7381,
+      "warning": "heavy porn/cannabis discussion"
+    },
+    {
+      "t": 7600,
+      "warning": "explicit adult work"
+    },
+    {
+      "t": 7833,
+      "warning": "private explicit image"
+    },
+    {
+      "t": 7920,
+      "warning": "private sexts"
+    },
+    {
+      "t": 7979,
+      "warning": "account hijacking"
+    },
+    {
+      "t": 8204,
+      "warning": "deceptive explicit image"
+    },
+    {
+      "t": 8505,
+      "warning": "sexual first-date interrogation"
+    },
+    {
+      "t": 8611,
+      "warning": "reported sexual harassment"
+    },
+    {
+      "t": 8952,
+      "warning": "sexual question on date"
+    },
+    {
+      "t": 9390,
+      "warning": "prolonged oral sex"
+    },
+    {
+      "t": 9453,
+      "warning": "cocaine use"
+    },
+    {
+      "t": 9552,
+      "warning": "continued sex amid discomfort"
+    },
+    {
+      "t": 9646,
+      "warning": "blood exposure"
+    },
+    {
+      "t": 9815,
+      "warning": "head restraint during oral sex"
+    },
+    {
+      "t": 10671,
+      "warning": "library mass shooting audio"
+    }
+  ],
+  "publication_restrictions": [
+    {
+      "t": 25,
+      "rule": "reported classroom/school-shooting discussion; speaker and referent need acoustic context"
+    },
+    {
+      "t": 50,
+      "rule": "Mangchi song; likely name/title is Peter Tong, exact credits and lyrics verify acoustically"
+    },
+    {
+      "t": 189,
+      "rule": "ASR name likely Peter Tong; exact title/protagonist verify"
+    },
+    {
+      "t": 397,
+      "rule": "Saelee Oh reports attendance impressions, not audited counts"
+    },
+    {
+      "t": 442,
+      "rule": "anonymous fan anecdote; workplace and location details minimized"
+    },
+    {
+      "t": 627,
+      "rule": "appearance follows defend-yourself-or-be-discussed framing"
+    },
+    {
+      "t": 679,
+      "rule": "recurrent insult/characterization of Saelee, not literal violence classification"
+    },
+    {
+      "t": 785,
+      "rule": "participants describe recording light and perpetual-capture norm"
+    },
+    {
+      "t": 1022,
+      "rule": "physical game proposed after prior slap; boundaries require video/audio validation"
+    },
+    {
+      "t": 1167,
+      "rule": "self-reported subscriber analytics, not complete audience census"
+    },
+    {
+      "t": 1200,
+      "rule": "host's prior judgment later reversed by audience response"
+    },
+    {
+      "t": 1247,
+      "rule": "participant says she went to sleep; intoxication degree disputed"
+    },
+    {
+      "t": 1256,
+      "rule": "self-reported listener response, not ranked analytics"
+    },
+    {
+      "t": 1267,
+      "rule": "prior voluntary dating request; does not remain permanent availability"
+    },
+    {
+      "t": 1334,
+      "rule": "comic reversal and audience projection"
+    },
+    {
+      "t": 1354,
+      "rule": "direct present boundary controls over year-old premise"
+    },
+    {
+      "t": 1362,
+      "rule": "direct request not to be treated as a dating commodity at events"
+    },
+    {
+      "t": 1365,
+      "rule": "participant's direct safety experience; do not dismiss via aggregate defense"
+    },
+    {
+      "t": 1372,
+      "rule": "one person's behavior can determine event safety"
+    },
+    {
+      "t": 1383,
+      "rule": "fear statement, not claim that a specific attendee was violent"
+    },
+    {
+      "t": 1411,
+      "rule": "relationship availability does not authorize touching"
+    },
+    {
+      "t": 1426,
+      "rule": "reported conduct, not proof of consent or mutual interest"
+    },
+    {
+      "t": 1440,
+      "rule": "host's self-description does not excuse attendee harassment"
+    },
+    {
+      "t": 1489,
+      "rule": "participant describes unsettling fan statement; do not identify fan"
+    },
+    {
+      "t": 1588,
+      "rule": "public handles used in on-air wedding; legal identities withheld"
+    },
+    {
+      "t": 1628,
+      "rule": "participants describe emotional atmosphere as cult-like, not literal diagnosis"
+    },
+    {
+      "t": 1667,
+      "rule": "two winners reportedly share prize; verify records before treating amount as fact"
+    },
+    {
+      "t": 1722,
+      "rule": "host attributes fan relationship to DVDASA; participant testimony is more nuanced"
+    },
+    {
+      "t": 1748,
+      "rule": "fan identity and prior appearance are treated as sexual availability; reject inference"
+    },
+    {
+      "t": 1901,
+      "rule": "historical enrollment figure shown in-room; exact year/source verify"
+    },
+    {
+      "t": 1945,
+      "rule": "ancestry joke, not identity measurement"
+    },
+    {
+      "t": 2103,
+      "rule": "third-party ancestry claim; date participant remains anonymous"
+    },
+    {
+      "t": 2111,
+      "rule": "referral chain withheld to prevent identification"
+    },
+    {
+      "t": 2159,
+      "rule": "mix of genuine items and inserted jokes; do not attribute every read item"
+    },
+    {
+      "t": 2241,
+      "rule": "direct current boundary repeated"
+    },
+    {
+      "t": 2286,
+      "rule": "room projection; both parties' later responses control"
+    },
+    {
+      "t": 2310,
+      "rule": "private child/family anecdote; identity withheld"
+    },
+    {
+      "t": 2404,
+      "rule": "latest stated dating preference"
+    },
+    {
+      "t": 2503,
+      "rule": "future appearance remains invitation, not obligation"
+    },
+    {
+      "t": 2615,
+      "rule": "room explicitly decides not to; anonymous dates remain anonymous"
+    },
+    {
+      "t": 2631,
+      "rule": "appearance nickname only; do not reverse-identify date"
+    },
+    {
+      "t": 2652,
+      "rule": "location already spoken but exact venue/time should not enable identification"
+    },
+    {
+      "t": 2701,
+      "rule": "fan status does not authorize public exposure"
+    },
+    {
+      "t": 2718,
+      "rule": "residence details remain excluded"
+    },
+    {
+      "t": 2747,
+      "rule": "Saelee says she is happy single and wants to be left alone"
+    },
+    {
+      "t": 2893,
+      "rule": "first-date venue; exact branch omitted from discovery"
+    },
+    {
+      "t": 2934,
+      "rule": "cast opinion about chain restaurant, not evidence about participant"
+    },
+    {
+      "t": 2994,
+      "rule": "participant describes him as normal/cute; no identity publication"
+    },
+    {
+      "t": 3018,
+      "rule": "third-party ancestry detail restricted"
+    },
+    {
+      "t": 3185,
+      "rule": "likely Newport Seafood; exact private outing not needed"
+    },
+    {
+      "t": 3248,
+      "rule": "private residence history; no address discovery"
+    },
+    {
+      "t": 3313,
+      "rule": "hypothetical shifts under repeated questioning; no tenancy offer"
+    },
+    {
+      "t": 3354,
+      "rule": "repeated matchmaking pressure despite direct no-men statement"
+    },
+    {
+      "t": 3382,
+      "rule": "joking hypothetical, not relationship intent"
+    },
+    {
+      "t": 3424,
+      "rule": "guest's characterization; archive does not resolve business classification"
+    },
+    {
+      "t": 3454,
+      "rule": "date's private sexual history as reported; not indexed"
+    },
+    {
+      "t": 3515,
+      "rule": "private message paraphrased; do not reproduce or index"
+    },
+    {
+      "t": 3646,
+      "rule": "explicit site discovery omitted; age-themed branding does not prove illegal content"
+    },
+    {
+      "t": 3651,
+      "rule": "no allegation or evidence about specific content/person"
+    },
+    {
+      "t": 3693,
+      "rule": "private-home object disputed; not meaningful identity data"
+    },
+    {
+      "t": 3721,
+      "rule": "bodily anecdote and apartment detail; no location discovery"
+    },
+    {
+      "t": 3755,
+      "rule": "joke is not medical advice"
+    },
+    {
+      "t": 3821,
+      "rule": "discussion of prior relationship continues in her absence"
+    },
+    {
+      "t": 3839,
+      "rule": "Asa's interpretation; David says there may be truth"
+    },
+    {
+      "t": 3899,
+      "rule": "friend's interpretation, not mental-health fact"
+    },
+    {
+      "t": 3930,
+      "rule": "participant distinguishes requested bedroom language from public use"
+    },
+    {
+      "t": 4000,
+      "rule": "private late-night route and companion details minimized"
+    },
+    {
+      "t": 4088,
+      "rule": "self-reported urgency; not diagnosis"
+    },
+    {
+      "t": 4124,
+      "rule": "do not display or link explicit private image"
+    },
+    {
+      "t": 4178,
+      "rule": "repeatedly turned back on after direct request; bodily risk/discomfort"
+    },
+    {
+      "t": 4221,
+      "rule": "physical interference after warnings; consent not established"
+    },
+    {
+      "t": 4252,
+      "rule": "private prior partner story; identity and location withheld"
+    },
+    {
+      "t": 4324,
+      "rule": "neighborhood clue should not be combined with residence details"
+    },
+    {
+      "t": 4366,
+      "rule": "self-report; frequency alone is not diagnosis"
+    },
+    {
+      "t": 4452,
+      "rule": "short-term appearance claim is not evidence-based weight guidance"
+    },
+    {
+      "t": 4518,
+      "rule": "disordered-eating behaviors described as weight-control routine"
+    },
+    {
+      "t": 4526,
+      "rule": "peer label; archive documents behavior but does not diagnose"
+    },
+    {
+      "t": 4558,
+      "rule": "producer repeats explanation; no secret romantic motive established"
+    },
+    {
+      "t": 4590,
+      "rule": "private number exchange; no contact data publishes"
+    },
+    {
+      "t": 4678,
+      "rule": "Saelee's inference from timing; date's motive unverified"
+    },
+    {
+      "t": 4790,
+      "rule": "real-time unverified report; do not publish as settled event fact"
+    },
+    {
+      "t": 4831,
+      "rule": "personal pattern; libido does not follow one universal cycle"
+    },
+    {
+      "t": 5025,
+      "rule": "room opinion conflicts with participant account; preserve disagreement"
+    },
+    {
+      "t": 5100,
+      "rule": "retaliatory long-game framing; preserve as relationship warning"
+    },
+    {
+      "t": 5180,
+      "rule": "fan tailor and exact identity withheld"
+    },
+    {
+      "t": 5219,
+      "rule": "video evidence confirms throw, not internal intent"
+    },
+    {
+      "t": 5252,
+      "rule": "venue consequence as reported; invoice absent"
+    },
+    {
+      "t": 5352,
+      "rule": "Saelee frames food destruction as cultural/class offense"
+    },
+    {
+      "t": 5371,
+      "rule": "disputed food-waste counterexample; no verdict"
+    },
+    {
+      "t": 5544,
+      "rule": "Kevin Smith's reported denial retained beside David's memory"
+    },
+    {
+      "t": 5578,
+      "rule": "reported explanation and apology, not verified mental state"
+    },
+    {
+      "t": 5693,
+      "rule": "private message characterization; full text withheld"
+    },
+    {
+      "t": 5704,
+      "rule": "reported offer; no payment proof"
+    },
+    {
+      "t": 6045,
+      "rule": "witness assumptions corrected; Nikki's brief statement is not proof of flirtation"
+    },
+    {
+      "t": 6097,
+      "rule": "partner phone access is reported but not a universal privacy norm"
+    },
+    {
+      "t": 6110,
+      "rule": "private contact and messages withheld"
+    },
+    {
+      "t": 6141,
+      "rule": "allegation/side comment requires source context and direct response"
+    },
+    {
+      "t": 6260,
+      "rule": "private venue/group messages summarized, not reproduced"
+    },
+    {
+      "t": 6317,
+      "rule": "silence does not prove rejection of remedy"
+    },
+    {
+      "t": 6370,
+      "rule": "reported venue behavior; no identities or images published"
+    },
+    {
+      "t": 6435,
+      "rule": "host first generalizes then narrows to own family/culture"
+    },
+    {
+      "t": 6450,
+      "rule": "child-humiliation tradition anecdote; not endorsed or universal"
+    },
+    {
+      "t": 6480,
+      "rule": "young worker remains anonymous; body/health details not searchable"
+    },
+    {
+      "t": 6508,
+      "rule": "Terrell explicitly excluded as referent; unnamed worker stays unnamed"
+    },
+    {
+      "t": 6583,
+      "rule": "host admits public correction; worker's own reaction absent"
+    },
+    {
+      "t": 6611,
+      "rule": "inference by peers, not yet direct testimony"
+    },
+    {
+      "t": 6668,
+      "rule": "peer/own joking label, not diagnosis"
+    },
+    {
+      "t": 6671,
+      "rule": "age guessed; do not treat as verified minor/young adult fact"
+    },
+    {
+      "t": 6801,
+      "rule": "reported private endorsement, not verified quote"
+    },
+    {
+      "t": 6956,
+      "rule": "hypothetical reinforces need for private, non-diagnostic correction"
+    },
+    {
+      "t": 7045,
+      "rule": "host connects women through conflict-causing stereotype"
+    },
+    {
+      "t": 7070,
+      "rule": "private third-party relationship hearsay; identities withheld"
+    },
+    {
+      "t": 7105,
+      "rule": "demeanor does not equal invitation or consent"
+    },
+    {
+      "t": 7125,
+      "rule": "friend/partner boundary should be asked directly; private number withheld"
+    },
+    {
+      "t": 7135,
+      "rule": "zero-strike threat reflects relationship power, not completed action"
+    },
+    {
+      "t": 7221,
+      "rule": "host says he uses phrase broadly, complicating romantic interpretation"
+    },
+    {
+      "t": 7270,
+      "rule": "private dating history minimized"
+    },
+    {
+      "t": 7296,
+      "rule": "speculation; producer says maybe after initially denying"
+    },
+    {
+      "t": 7381,
+      "rule": "self-reported temporary behavior after stopping daily cannabis"
+    },
+    {
+      "t": 7400,
+      "rule": "self-reported abstinence milestone"
+    },
+    {
+      "t": 7410,
+      "rule": "self-report, not diagnosis verification"
+    },
+    {
+      "t": 7423,
+      "rule": "stopping can cause withdrawal symptoms, but none should be invented"
+    },
+    {
+      "t": 7471,
+      "rule": "historical LA service claim with zero research; verify before indexing"
+    },
+    {
+      "t": 7561,
+      "rule": "speaker directly disclaims price/market knowledge"
+    },
+    {
+      "t": 7600,
+      "rule": "adult parody title; participant asks not to continue discussion"
+    },
+    {
+      "t": 7677,
+      "rule": "likely Toni Ribas; proper name verify"
+    },
+    {
+      "t": 7739,
+      "rule": "room directly recognizes privacy limit about third party"
+    },
+    {
+      "t": 7759,
+      "rule": "public performer age claim at time unverified; do not index sexualized age"
+    },
+    {
+      "t": 7814,
+      "rule": "partner says stop when body feature is manipulated; boundary controls"
+    },
+    {
+      "t": 7833,
+      "rule": "private explicit photograph; subject says do not show it"
+    },
+    {
+      "t": 7840,
+      "rule": "artist's aesthetic belief does not override subject's publication refusal"
+    },
+    {
+      "t": 7920,
+      "rule": "private messages read on air; archive summarizes rather than reproduces"
+    },
+    {
+      "t": 7952,
+      "rule": "dated friend trip; exact lodging/participants minimized"
+    },
+    {
+      "t": 7979,
+      "rule": "unauthorized account access and impersonation"
+    },
+    {
+      "t": 7994,
+      "rule": "prank posts falsely attributed to artist; preserve correction"
+    },
+    {
+      "t": 8037,
+      "rule": "account hijacking can cause real harm; not harmless prank"
+    },
+    {
+      "t": 8060,
+      "rule": "participant uncertainty; no clear consent from message parties"
+    },
+    {
+      "t": 8130,
+      "rule": "named-turn privacy risk; do not create searchable message dossier"
+    },
+    {
+      "t": 8190,
+      "rule": "sexual messages were sent by others using her phone"
+    },
+    {
+      "t": 8204,
+      "rule": "David's altered scrotum image sent deceptively as Saelee; never display/index"
+    },
+    {
+      "t": 8250,
+      "rule": "deception included observing recipient; no informed consent"
+    },
+    {
+      "t": 8402,
+      "rule": "room pressures romantic explanation; direct denial retained"
+    },
+    {
+      "t": 8412,
+      "rule": "Saelee's personal past perception, not current accusation of conduct"
+    },
+    {
+      "t": 8435,
+      "rule": "private spouse/partner remains protected alias"
+    },
+    {
+      "t": 8505,
+      "rule": "first question reported by Saelee; date absent to respond"
+    },
+    {
+      "t": 8655,
+      "rule": "reported repeated sexual statement; anonymous date remains unidentifiable"
+    },
+    {
+      "t": 8746,
+      "rule": "humor does not by itself make harassment acceptable"
+    },
+    {
+      "t": 8790,
+      "rule": "comic advice; not proof of character"
+    },
+    {
+      "t": 8859,
+      "rule": "private wealth/family claims withheld"
+    },
+    {
+      "t": 8880,
+      "rule": "reported state; absent person cannot answer"
+    },
+    {
+      "t": 8932,
+      "rule": "hearsay from unidentified prior person"
+    },
+    {
+      "t": 8952,
+      "rule": "reported separate date anecdote; private person withheld"
+    },
+    {
+      "t": 8968,
+      "rule": "private friend account; identity not expanded"
+    },
+    {
+      "t": 8990,
+      "rule": "Saelee says she asked dates; private answers not indexed"
+    },
+    {
+      "t": 9102,
+      "rule": "likely Oculus Rift/virtual-reality analogy; exact wording uncertain"
+    },
+    {
+      "t": 9201,
+      "rule": "analogy, not identified restaurant review"
+    },
+    {
+      "t": 9233,
+      "rule": "private phone content and third-party messages withheld"
+    },
+    {
+      "t": 9254,
+      "rule": "pattern of unauthorized device use recurs"
+    },
+    {
+      "t": 9332,
+      "rule": "friends' nickname/characterization; she disputes specific attribution"
+    },
+    {
+      "t": 9439,
+      "rule": "speaker immediately corrects causal joke; cocaine/sinus irritation are plausible, not proven"
+    },
+    {
+      "t": 9453,
+      "rule": "participant affirms later; exact dose/source withheld"
+    },
+    {
+      "t": 9490,
+      "rule": "she proceeds but uncertainty supports restrained discovery"
+    },
+    {
+      "t": 9530,
+      "rule": "private person and location withheld"
+    },
+    {
+      "t": 9552,
+      "rule": "direct internal discomfort; continued participation is not proof she wanted continuation"
+    },
+    {
+      "t": 9560,
+      "rule": "self-report followed by 'allegedly'; preserve uncertainty"
+    },
+    {
+      "t": 9573,
+      "rule": "self-reported count; not independently verified"
+    },
+    {
+      "t": 9595,
+      "rule": "cast discusses stopping; direct consent can be withdrawn at any time"
+    },
+    {
+      "t": 9625,
+      "rule": "correct principle, though social/drug pressure can impede action"
+    },
+    {
+      "t": 9646,
+      "rule": "health event interrupts encounter"
+    },
+    {
+      "t": 9668,
+      "rule": "direct boundary; oral-sex participation does not authorize intercourse"
+    },
+    {
+      "t": 9704,
+      "rule": "nosebleed, not menstrual bleeding, according to participant"
+    },
+    {
+      "t": 9724,
+      "rule": "she clarifies she initially wanted oral sex but not prolonged continuation"
+    },
+    {
+      "t": 9747,
+      "rule": "oral tissue injury is not a normal required consequence"
+    },
+    {
+      "t": 9762,
+      "rule": "participant links event to desired lifestyle change"
+    },
+    {
+      "t": 9800,
+      "rule": "later contact outcome; absent person motive unknown"
+    },
+    {
+      "t": 9815,
+      "rule": "separate account of continued oral contact and nose injury; consent requires review"
+    },
+    {
+      "t": 10138,
+      "rule": "private post-show conversation summarized, not quoted as diagnosis"
+    },
+    {
+      "t": 10163,
+      "rule": "peer advice, not clinical prescription"
+    },
+    {
+      "t": 10220,
+      "rule": "participant explicitly wants false page content removed"
+    },
+    {
+      "t": 10233,
+      "rule": "unsafe account advice; archive does not recommend evasion"
+    },
+    {
+      "t": 10382,
+      "rule": "direct question and affirmative response for hug/touch; event-specific consent"
+    },
+    {
+      "t": 10515,
+      "rule": "decoder repetition in damaged tail; do not reconstruct"
+    },
+    {
+      "t": 10671,
+      "rule": "detached violent audio/news/sample; provenance and speaker unclear"
+    },
+    {
+      "t": 10716,
+      "rule": "damaged song reprise; lyrics differ from opening ASR and need acoustic recovery"
+    }
+  ]
+}

@@ -1,0 +1,1356 @@
+{
+  "episode_id": "saga1-episode-113-vegas-part-01",
+  "title": "Vegas Part 01",
+  "reviewed_on": "2026-07-31",
+  "summary": "Episode 113 records DVDASA's first Las Vegas installment: David tests his gambling recovery amid casino inducements and private supervision; the cast discusses VICE/HBO and Oakland Museum work, Southwest travel, the podcast's effect on private relationships, Bill's work and adult-industry access, Asa's feature-dance engagement, Kira Kenner and a nonconsensual-contact story, then returns to Episode 108 guest Eva Lin through a long gender, orientation and sexual-fantasy argument. The audit repairs high-impact entities such as Kaylani Lei and Eva Lin, preserves performer-identification uncertainty, records Asa's repeated lap-dance refusals and David's immediate no during the Kira story, and keeps every offensive or contradictory idea literal while separating uncertainty, safety, consent and publication handling.",
+  "quality": {
+    "raw_segments": 2112,
+    "clean_segments": 2110,
+    "raw_words_approx": 12739,
+    "clean_words_approx": 12739,
+    "duration_seconds": 3961.18,
+    "accepted_context_decisions": 297,
+    "chapters": 297,
+    "connections": 20,
+    "content_warnings": 25,
+    "identity_windows": 5,
+    "named_turns": 0,
+    "cleaning_edits": 2,
+    "cleaning_net_reduction": 2
+  },
+  "source_notes": [
+    "The raw file contains 2,112 segments and approximately 12,739 words; the clean file contains 2,110 segments and the same approximate word count across 3,961.18 seconds.",
+    "Both cleaner removals are empty zero-duration artifacts at 1,080.58 and 1,219.02 seconds. No spoken idea is removed.",
+    "Repair `go get some kids` to `go get some sun` in the tanning context and `been gambled` to `haven't gambled` in the recovery statement. Leave the corrupt room-temperature and `mass ignoring` phrases uncertain pending audio verification.",
+    "The existing global `the Bellagio` to `Bellagio` proposal is rejected. Spoken phrases such as `at the Bellagio` are grammatical and literal; normalization would add no retrieval value.",
+    "In the Wicked/Las Vegas performer context, `Kehlani` is almost certainly Kaylani Lei, not the singer. `Evelyn` refers back to Episode 108 guest Eva Lin. Both repairs are contextual, never global identity merges.",
+    "The Kira Kenner identification emerges only after Kobe Tai, Kina/Kira Kai and other guesses. Preserve the search sequence and normalize only after the cast resolves it.",
+    "Asa says at least five times that the cast will not receive lap dances, including `No`, `stop`, `not going to happen` and `no amount of money`. Friendship, payment and hypothetical reframing do not reopen consent.",
+    "In the Kira Kenner story, the narrator says a performer placed another patron's hand on his genitals and that he said no. Strip-club attendance does not authorize third-party genital contact; the cast's later legal label remains attributed.",
+    "The Eva Lin discussion contains literal period slurs, objectification and gender/orientation claims. Editorial navigation uses transgender woman and separates gender identity from sexual orientation without silently rewriting the dialogue.",
+    "Instagram likes, past appearance, attraction and reported sexual preferences do not establish Eva's interest or consent. The cast itself briefly acknowledges that she may not want sexual contact.",
+    "Tears are not suitable anal lubricant. Forceful or submissive sexual preferences require explicit, act-specific, informed and revocable consent; shame or fantasy supplies none.",
+    "The exact hotel room number, private security/fees, travel, lodging, relatives, spouses, messages, partners, workers, health and contact paths remain outside public discovery.",
+    "All eight rejected suggestions are retained in the fixture so regeneration cannot turn uncertainty into certainty, payment into consent, social engagement into permission, or offensive ideas into sanitized prose."
+  ],
+  "speaker_policy": "The recording names recurring cast and public people, but only five coarse embeddings and zero diarized turns exist. These do not pass independently held-out multispeaker validation. Named dialogue remains withheld.",
+  "chapters": [
+    {
+      "t": 22,
+      "title": "hotel-room hygiene claim"
+    },
+    {
+      "t": 34,
+      "title": "sex-worker in-call room convention"
+    },
+    {
+      "t": 87,
+      "title": "`all hypothetical`"
+    },
+    {
+      "t": 115,
+      "title": "uncertain room-temperature phrase"
+    },
+    {
+      "t": 121,
+      "title": "request to address the group"
+    },
+    {
+      "t": 127,
+      "title": "direct request to stop an interruption"
+    },
+    {
+      "t": 137,
+      "title": "go get some sun"
+    },
+    {
+      "t": 142,
+      "title": "take advantage of this distraction (uncertain)"
+    },
+    {
+      "t": 157,
+      "title": "Las Vegas hotel-room setting"
+    },
+    {
+      "t": 169,
+      "title": "Las Vegas"
+    },
+    {
+      "t": 174,
+      "title": "gambling-recovery risk"
+    },
+    {
+      "t": 176,
+      "title": "Asa is feature dancing"
+    },
+    {
+      "t": 184,
+      "title": "VICE on HBO production"
+    },
+    {
+      "t": 204,
+      "title": "request to avoid loud food"
+    },
+    {
+      "t": 225,
+      "title": "`whore transporter`"
+    },
+    {
+      "t": 228,
+      "title": "contracted feature-dance work"
+    },
+    {
+      "t": 233,
+      "title": "Oakland Museum mural"
+    },
+    {
+      "t": 243,
+      "title": "accountant / financial planner / manager"
+    },
+    {
+      "t": 252,
+      "title": "direct reminder that recording is underway"
+    },
+    {
+      "t": 272,
+      "title": "Spike Jonze"
+    },
+    {
+      "t": 313,
+      "title": "Los Angeles VICE/HBO premiere"
+    },
+    {
+      "t": 327,
+      "title": "David says he appears in a later episode"
+    },
+    {
+      "t": 347,
+      "title": "one of roughly eight hosts"
+    },
+    {
+      "t": 355,
+      "title": "Joey and his group"
+    },
+    {
+      "t": 368,
+      "title": "Spike Jonze"
+    },
+    {
+      "t": 373,
+      "title": "Thumbs Up footage"
+    },
+    {
+      "t": 376,
+      "title": "hearsay about Critter and Spike Jonze"
+    },
+    {
+      "t": 380,
+      "title": "uncertain Heather reference"
+    },
+    {
+      "t": 391,
+      "title": "The Wolf of Wall Street"
+    },
+    {
+      "t": 401,
+      "title": "penny-stock brokerage scene"
+    },
+    {
+      "t": 417,
+      "title": "private sibling history"
+    },
+    {
+      "t": 451,
+      "title": "stepbrother correction"
+    },
+    {
+      "t": 463,
+      "title": "older brother correction"
+    },
+    {
+      "t": 475,
+      "title": "actor-playing-Critter comparison"
+    },
+    {
+      "t": 488,
+      "title": "private stockbroker profession"
+    },
+    {
+      "t": 520,
+      "title": "Las Vegas relapse-risk setting"
+    },
+    {
+      "t": 524,
+      "title": "hasn't gambled"
+    },
+    {
+      "t": 530,
+      "title": "private person described by slur"
+    },
+    {
+      "t": 533,
+      "title": "prior HBO-story trip"
+    },
+    {
+      "t": 545,
+      "title": "others call him a gambling addict"
+    },
+    {
+      "t": 551,
+      "title": "addict-denial self-recognition"
+    },
+    {
+      "t": 558,
+      "title": "environmental triggers"
+    },
+    {
+      "t": 563,
+      "title": "casino oxygen/scent claim"
+    },
+    {
+      "t": 578,
+      "title": "sexual-addiction trigger"
+    },
+    {
+      "t": 584,
+      "title": "DVDASA"
+    },
+    {
+      "t": 587,
+      "title": "walls-closing-in metaphor"
+    },
+    {
+      "t": 592,
+      "title": "bridges-being-burned metaphor"
+    },
+    {
+      "t": 598,
+      "title": "LAX"
+    },
+    {
+      "t": 606,
+      "title": "private-jet plan canceled"
+    },
+    {
+      "t": 614,
+      "title": "gambling condition attached to private jet"
+    },
+    {
+      "t": 637,
+      "title": "weekly Burbank-to-Vegas travel claim"
+    },
+    {
+      "t": 648,
+      "title": "celebrity sightings on Southwest"
+    },
+    {
+      "t": 661,
+      "title": "Ice Cube / Paris Hilton / Mötley Crüe / Pat O'Brien"
+    },
+    {
+      "t": 683,
+      "title": "SARS mask"
+    },
+    {
+      "t": 697,
+      "title": "Ice Cube and Too $hort / E-40"
+    },
+    {
+      "t": 709,
+      "title": "Ice Cube airplane behavior story"
+    },
+    {
+      "t": 734,
+      "title": "buying an extra seat / whole row"
+    },
+    {
+      "t": 746,
+      "title": "`ghetto first class`"
+    },
+    {
+      "t": 791,
+      "title": "private airport conversation"
+    },
+    {
+      "t": 817,
+      "title": "camera pen"
+    },
+    {
+      "t": 823,
+      "title": "ghosting / relationship ending"
+    },
+    {
+      "t": 869,
+      "title": "long gap between recordings"
+    },
+    {
+      "t": 895,
+      "title": "private text history"
+    },
+    {
+      "t": 942,
+      "title": "private past sexual relationship"
+    },
+    {
+      "t": 961,
+      "title": "one person ignored the other's messages"
+    },
+    {
+      "t": 987,
+      "title": "private crush disclosure"
+    },
+    {
+      "t": 1012,
+      "title": "private friend dating unnamed supermodel"
+    },
+    {
+      "t": 1039,
+      "title": "degrading a partner to exploit insecurity"
+    },
+    {
+      "t": 1047,
+      "title": "Gisele comparison (likely)"
+    },
+    {
+      "t": 1058,
+      "title": "name deliberately deferred until after recording"
+    },
+    {
+      "t": 1082,
+      "title": "modeling-age pressure claim"
+    },
+    {
+      "t": 1117,
+      "title": "podcast consequences"
+    },
+    {
+      "t": 1124,
+      "title": "audience spike claim"
+    },
+    {
+      "t": 1148,
+      "title": "mass ignoring / mass rejection phrase uncertain"
+    },
+    {
+      "t": 1174,
+      "title": "women ignoring David after podcast disclosures"
+    },
+    {
+      "t": 1201,
+      "title": "women ranked as backups / C-list"
+    },
+    {
+      "t": 1214,
+      "title": "friends listen even when partner says she does not"
+    },
+    {
+      "t": 1219,
+      "title": "private Las Vegas worker"
+    },
+    {
+      "t": 1240,
+      "title": "private text-message pursuit"
+    },
+    {
+      "t": 1248,
+      "title": "stopping the show proposed"
+    },
+    {
+      "t": 1253,
+      "title": "damage already done"
+    },
+    {
+      "t": 1263,
+      "title": "private sexual contact campaign"
+    },
+    {
+      "t": 1280,
+      "title": "David Choe"
+    },
+    {
+      "t": 1282,
+      "title": "DVDASA"
+    },
+    {
+      "t": 1289,
+      "title": "podcast recognition exceeds art recognition"
+    },
+    {
+      "t": 1309,
+      "title": "need to go to Vegas for sexual access"
+    },
+    {
+      "t": 1321,
+      "title": "short stripping-career claim"
+    },
+    {
+      "t": 1343,
+      "title": "Vegas food/entertainment without gambling"
+    },
+    {
+      "t": 1355,
+      "title": "pre-worn condom/lubricant claim"
+    },
+    {
+      "t": 1364,
+      "title": "wearing a masturbatory sleeve in public fantasy"
+    },
+    {
+      "t": 1381,
+      "title": "private work end time"
+    },
+    {
+      "t": 1392,
+      "title": "unusual Monday feature-dance booking"
+    },
+    {
+      "t": 1405,
+      "title": "unnamed convention"
+    },
+    {
+      "t": 1410,
+      "title": "airport delay"
+    },
+    {
+      "t": 1417,
+      "title": "stereotyping women as strippers or performers by appearance"
+    },
+    {
+      "t": 1445,
+      "title": "unidentified woman at airport"
+    },
+    {
+      "t": 1482,
+      "title": "Raven Bay"
+    },
+    {
+      "t": 1500,
+      "title": "Wheel of Fortune improbable-solve reference"
+    },
+    {
+      "t": 1513,
+      "title": "driver's adult-work clientele"
+    },
+    {
+      "t": 1526,
+      "title": "Sasha Grey"
+    },
+    {
+      "t": 1532,
+      "title": "adult-industry awards"
+    },
+    {
+      "t": 1537,
+      "title": "Sapphire Las Vegas"
+    },
+    {
+      "t": 1546,
+      "title": "Tori Black / Alexis Texas / Chanel Preston"
+    },
+    {
+      "t": 1567,
+      "title": "Keiran Lee (likely Kieran Lee)"
+    },
+    {
+      "t": 1595,
+      "title": "private pregnancy and arrest story"
+    },
+    {
+      "t": 1610,
+      "title": "Phantom high-speed camera proposal"
+    },
+    {
+      "t": 1617,
+      "title": "private lactation/contact and fee negotiation"
+    },
+    {
+      "t": 1631,
+      "title": "proposal abandoned"
+    },
+    {
+      "t": 1643,
+      "title": "private Instagram account history"
+    },
+    {
+      "t": 1647,
+      "title": "Poon Report"
+    },
+    {
+      "t": 1654,
+      "title": "Raven Bay"
+    },
+    {
+      "t": 1664,
+      "title": "extras in a porno"
+    },
+    {
+      "t": 1666,
+      "title": "sex-toy/body-molding workplace visit"
+    },
+    {
+      "t": 1674,
+      "title": "unverified television offers"
+    },
+    {
+      "t": 1720,
+      "title": "private driving clients"
+    },
+    {
+      "t": 1728,
+      "title": "clients describe him as driver"
+    },
+    {
+      "t": 1739,
+      "title": "Asa introduces Bill as friend"
+    },
+    {
+      "t": 1766,
+      "title": "Critter friendship joke"
+    },
+    {
+      "t": 1785,
+      "title": "adult friendship theme"
+    },
+    {
+      "t": 1813,
+      "title": "adult performers once experienced as celebrities"
+    },
+    {
+      "t": 1830,
+      "title": "Christy/Christina Rose name uncertain"
+    },
+    {
+      "t": 1836,
+      "title": "private explicit conversation"
+    },
+    {
+      "t": 1854,
+      "title": "anal-sex discussion"
+    },
+    {
+      "t": 1877,
+      "title": "alleged hidden upskirt photography and MySpace firing"
+    },
+    {
+      "t": 1888,
+      "title": "openness does not make covert photography non-creepy or consensual"
+    },
+    {
+      "t": 1904,
+      "title": "friendship does not authorize voyeurism"
+    },
+    {
+      "t": 1936,
+      "title": "private emails and Instagram invitations"
+    },
+    {
+      "t": 1951,
+      "title": "truncated Las Vegas episode"
+    },
+    {
+      "t": 1955,
+      "title": "DVDASA"
+    },
+    {
+      "t": 1964,
+      "title": "Bobby Lee foot-wart story"
+    },
+    {
+      "t": 1966,
+      "title": "Khalyla"
+    },
+    {
+      "t": 1970,
+      "title": "Quiet C"
+    },
+    {
+      "t": 1983,
+      "title": "Bobby Lee"
+    },
+    {
+      "t": 1995,
+      "title": "Khalyla"
+    },
+    {
+      "t": 2007,
+      "title": "gambling recovery boundary"
+    },
+    {
+      "t": 2010,
+      "title": "multiple monitors/bodyguards"
+    },
+    {
+      "t": 2014,
+      "title": "second security person watching Critter"
+    },
+    {
+      "t": 2033,
+      "title": "claimed $2,000 daily security fee"
+    },
+    {
+      "t": 2059,
+      "title": "offer to arrange paid sex"
+    },
+    {
+      "t": 2067,
+      "title": "strip-club workers generalized as sex workers"
+    },
+    {
+      "t": 2075,
+      "title": "speaker defines `hooker` as nearly everyone"
+    },
+    {
+      "t": 2088,
+      "title": "paid-dance-to-private-date pattern"
+    },
+    {
+      "t": 2106,
+      "title": "suggestion for evading gambling supervision"
+    },
+    {
+      "t": 2119,
+      "title": "refusal to explain evasion route interrupted"
+    },
+    {
+      "t": 2132,
+      "title": "private security arrangement repeated"
+    },
+    {
+      "t": 2142,
+      "title": "Little Darlings feature-dance work"
+    },
+    {
+      "t": 2149,
+      "title": "Poon / friend role"
+    },
+    {
+      "t": 2157,
+      "title": "group plans to attend Asa's work"
+    },
+    {
+      "t": 2173,
+      "title": "Asa says she is a bad dancer"
+    },
+    {
+      "t": 2183,
+      "title": "ballet/stripper contrast"
+    },
+    {
+      "t": 2235,
+      "title": "lap-dance work question"
+    },
+    {
+      "t": 2240,
+      "title": "Asa: no cast lap dances"
+    },
+    {
+      "t": 2245,
+      "title": "Asa repeats no cast lap dances"
+    },
+    {
+      "t": 2252,
+      "title": "merchandise line/table"
+    },
+    {
+      "t": 2257,
+      "title": "$100 lap-dance price"
+    },
+    {
+      "t": 2263,
+      "title": "topless with underwear"
+    },
+    {
+      "t": 2291,
+      "title": "celebrity handshake/side-hug hypothetical"
+    },
+    {
+      "t": 2301,
+      "title": "Francine Dee"
+    },
+    {
+      "t": 2308,
+      "title": "`fell asleep on my dick`"
+    },
+    {
+      "t": 2315,
+      "title": "private cousin and club trip"
+    },
+    {
+      "t": 2328,
+      "title": "club name forgotten"
+    },
+    {
+      "t": 2347,
+      "title": "future masturbation framed as value"
+    },
+    {
+      "t": 2355,
+      "title": "question about client touching himself"
+    },
+    {
+      "t": 2362,
+      "title": "planned concealed genital stimulation under sweatpants"
+    },
+    {
+      "t": 2367,
+      "title": "one speaker says they would not care"
+    },
+    {
+      "t": 2368,
+      "title": "Asa again refuses cast lap dances"
+    },
+    {
+      "t": 2371,
+      "title": "pressure after refusal"
+    },
+    {
+      "t": 2383,
+      "title": "Asa anticipates patrons being removed"
+    },
+    {
+      "t": 2391,
+      "title": "venue-dependent dance setup"
+    },
+    {
+      "t": 2431,
+      "title": "performer-identification guessing sequence"
+    },
+    {
+      "t": 2442,
+      "title": "Kobe Tai"
+    },
+    {
+      "t": 2447,
+      "title": "Kina Kai / Kira guesses"
+    },
+    {
+      "t": 2485,
+      "title": "Kira Kenner"
+    },
+    {
+      "t": 2498,
+      "title": "request for hotel room number"
+    },
+    {
+      "t": 2503,
+      "title": "literal room number"
+    },
+    {
+      "t": 2517,
+      "title": "Bobby arrival uncertainty"
+    },
+    {
+      "t": 2520,
+      "title": "Quiet C / Khalyla context"
+    },
+    {
+      "t": 2533,
+      "title": "impromptu wedding proposal"
+    },
+    {
+      "t": 2535,
+      "title": "marriage-license requirement"
+    },
+    {
+      "t": 2543,
+      "title": "Kira Kenner"
+    },
+    {
+      "t": 2553,
+      "title": "Rhino venue reference"
+    },
+    {
+      "t": 2583,
+      "title": "`college kids`"
+    },
+    {
+      "t": 2590,
+      "title": "friends pool money for lap dance"
+    },
+    {
+      "t": 2614,
+      "title": "fan fantasy about performer falling in love"
+    },
+    {
+      "t": 2636,
+      "title": "phone lock-screen art"
+    },
+    {
+      "t": 2665,
+      "title": "artist-model romantic fantasy"
+    },
+    {
+      "t": 2683,
+      "title": "`exactly how a stalker thinks`"
+    },
+    {
+      "t": 2691,
+      "title": "Kira Kenner fantasy account"
+    },
+    {
+      "t": 2724,
+      "title": "mixed Vietnamese/white identity guess"
+    },
+    {
+      "t": 2751,
+      "title": "Kira Kenner"
+    },
+    {
+      "t": 2764,
+      "title": "performance differed from fantasy"
+    },
+    {
+      "t": 2793,
+      "title": "stage-to-audience lap contact"
+    },
+    {
+      "t": 2837,
+      "title": "performer grinds on narrator"
+    },
+    {
+      "t": 2843,
+      "title": "performer places another patron's hand on narrator's genitals"
+    },
+    {
+      "t": 2853,
+      "title": "narrator says no"
+    },
+    {
+      "t": 2862,
+      "title": "cast calls it molestation"
+    },
+    {
+      "t": 2864,
+      "title": "being in a strip club is not blanket consent"
+    },
+    {
+      "t": 2873,
+      "title": "narrator describes humiliation dynamic"
+    },
+    {
+      "t": 2888,
+      "title": "fantasy of love/art/private conversation collapses"
+    },
+    {
+      "t": 2924,
+      "title": "Raylene"
+    },
+    {
+      "t": 2940,
+      "title": "`playing with fire`"
+    },
+    {
+      "t": 2944,
+      "title": "says he will not gamble"
+    },
+    {
+      "t": 2947,
+      "title": "casino inducement discussion"
+    },
+    {
+      "t": 2950,
+      "title": "Bellagio"
+    },
+    {
+      "t": 2954,
+      "title": "MGM Detroit"
+    },
+    {
+      "t": 2969,
+      "title": "casino loyalty/player card"
+    },
+    {
+      "t": 2974,
+      "title": "David Choe high-roller status"
+    },
+    {
+      "t": 2980,
+      "title": "casino staff allegedly pressure Critter"
+    },
+    {
+      "t": 2988,
+      "title": "joke about bribing Critter"
+    },
+    {
+      "t": 3013,
+      "title": "pressure for lap dance resumes"
+    },
+    {
+      "t": 3019,
+      "title": "Asa: no one gets a lap dance"
+    },
+    {
+      "t": 3023,
+      "title": "cast acknowledges refusal is understandable"
+    },
+    {
+      "t": 3030,
+      "title": "speaker feels weird discussing it"
+    },
+    {
+      "t": 3042,
+      "title": "hypothetical preference for sex over lap dance"
+    },
+    {
+      "t": 3061,
+      "title": "private lodging question"
+    },
+    {
+      "t": 3066,
+      "title": "large Bellagio suite"
+    },
+    {
+      "t": 3091,
+      "title": "porn awards"
+    },
+    {
+      "t": 3094,
+      "title": "multiple casino rooms during gambling peak"
+    },
+    {
+      "t": 3103,
+      "title": "private friend Yoshi and room assignment"
+    },
+    {
+      "t": 3127,
+      "title": "lap-dance pressure repeats"
+    },
+    {
+      "t": 3132,
+      "title": "Asa: `not going to happen`"
+    },
+    {
+      "t": 3161,
+      "title": "`loaded gun` sexual metaphor"
+    },
+    {
+      "t": 3163,
+      "title": "invented lap-dance terms"
+    },
+    {
+      "t": 3192,
+      "title": "request to try act tonight"
+    },
+    {
+      "t": 3193,
+      "title": "`stop` and no lap dance"
+    },
+    {
+      "t": 3196,
+      "title": "`not going to happen` / no amount of money"
+    },
+    {
+      "t": 3201,
+      "title": "hypothetical reframing after refusal"
+    },
+    {
+      "t": 3221,
+      "title": "Bill's first security/work gig"
+    },
+    {
+      "t": 3231,
+      "title": "driver/luggage/merchandise duties"
+    },
+    {
+      "t": 3244,
+      "title": "Vegas merchandise-demand estimate"
+    },
+    {
+      "t": 3271,
+      "title": "whether worker can have fun"
+    },
+    {
+      "t": 3277,
+      "title": "sex/cocaine-at-work fantasy"
+    },
+    {
+      "t": 3297,
+      "title": "Bill says he is hired to work"
+    },
+    {
+      "t": 3305,
+      "title": "friendship/business concern"
+    },
+    {
+      "t": 3313,
+      "title": "speaker says married"
+    },
+    {
+      "t": 3335,
+      "title": "worker-to-friend sequence"
+    },
+    {
+      "t": 3355,
+      "title": "private New York friends helped at clubs"
+    },
+    {
+      "t": 3366,
+      "title": "Wicked Pictures representative context"
+    },
+    {
+      "t": 3372,
+      "title": "Kaylani Lei"
+    },
+    {
+      "t": 3375,
+      "title": "private family visit"
+    },
+    {
+      "t": 3390,
+      "title": "literal transphobic slur"
+    },
+    {
+      "t": 3392,
+      "title": "Eva Lin"
+    },
+    {
+      "t": 3398,
+      "title": "proposal to contact Eva"
+    },
+    {
+      "t": 3400,
+      "title": "claim Eva lives in Las Vegas"
+    },
+    {
+      "t": 3411,
+      "title": "Tranny Awards (historical event name likely)"
+    },
+    {
+      "t": 3417,
+      "title": "HBO story and adult-film set"
+    },
+    {
+      "t": 3430,
+      "title": "about one month since Eva episode"
+    },
+    {
+      "t": 3443,
+      "title": "David says he cannot stop thinking about Eva"
+    },
+    {
+      "t": 3446,
+      "title": "does not have or want her number"
+    },
+    {
+      "t": 3452,
+      "title": "another speaker proposes calling Eva"
+    },
+    {
+      "t": 3472,
+      "title": "cast notes she may not want sex"
+    },
+    {
+      "t": 3478,
+      "title": "Instagram likes do not imply sexual consent"
+    },
+    {
+      "t": 3495,
+      "title": "speculation about sexual acts with Eva"
+    },
+    {
+      "t": 3515,
+      "title": "claim she would do anything if David took charge"
+    },
+    {
+      "t": 3520,
+      "title": "sexual orientation discussion"
+    },
+    {
+      "t": 3531,
+      "title": "Eva is a transgender woman"
+    },
+    {
+      "t": 3545,
+      "title": "shame/aggression fantasy"
+    },
+    {
+      "t": 3552,
+      "title": "claim that she likes forceful sex"
+    },
+    {
+      "t": 3563,
+      "title": "cast polls whether sex would be gay"
+    },
+    {
+      "t": 3577,
+      "title": "Eva Lin"
+    },
+    {
+      "t": 3582,
+      "title": "post-op transphobic objectification"
+    },
+    {
+      "t": 3588,
+      "title": "poll continues"
+    },
+    {
+      "t": 3598,
+      "title": "one speaker says it is not shameful"
+    },
+    {
+      "t": 3608,
+      "title": "`accidental` sex stories generalized"
+    },
+    {
+      "t": 3634,
+      "title": "prediction David will eventually have sex with Eva"
+    },
+    {
+      "t": 3638,
+      "title": "Eva relapse story callback"
+    },
+    {
+      "t": 3644,
+      "title": "Satanism anecdote"
+    },
+    {
+      "t": 3650,
+      "title": "paid-sex anecdote"
+    },
+    {
+      "t": 3673,
+      "title": "YouTube-safe/censored Eva clip (uncertain)"
+    },
+    {
+      "t": 3685,
+      "title": "image used to cover nudity"
+    },
+    {
+      "t": 3698,
+      "title": "watching the Eva episode"
+    },
+    {
+      "t": 3706,
+      "title": "decision-like fantasy to have sex with Eva"
+    },
+    {
+      "t": 3714,
+      "title": "show blamed for lost partners"
+    },
+    {
+      "t": 3732,
+      "title": "tears-as-lubricant joke"
+    },
+    {
+      "t": 3738,
+      "title": "hypothetical forceful sex"
+    },
+    {
+      "t": 3741,
+      "title": "possible receptive sex question"
+    },
+    {
+      "t": 3751,
+      "title": "reported sexual preference and anatomy"
+    },
+    {
+      "t": 3760,
+      "title": "strap-on callback"
+    },
+    {
+      "t": 3767,
+      "title": "`what am I holding on to?`"
+    },
+    {
+      "t": 3774,
+      "title": "Vegas outcome checklist"
+    },
+    {
+      "t": 3778,
+      "title": "transphobic slur in sexual goal"
+    },
+    {
+      "t": 3781,
+      "title": "impromptu wedding goal"
+    },
+    {
+      "t": 3786,
+      "title": "lap-dance demand repeated"
+    },
+    {
+      "t": 3800,
+      "title": "conditional willingness regarding Quiet C"
+    },
+    {
+      "t": 3813,
+      "title": "`that's not happening`"
+    },
+    {
+      "t": 3819,
+      "title": "sex-with-Eva scenario `not happening`"
+    },
+    {
+      "t": 3824,
+      "title": "what happens in Vegas ends up on podcast"
+    },
+    {
+      "t": 3833,
+      "title": "what happens in Vegas will not stay private"
+    },
+    {
+      "t": 3837,
+      "title": "truncated first part"
+    },
+    {
+      "t": 3858,
+      "title": "DVDASA"
+    },
+    {
+      "t": 3860,
+      "title": "`welcome to hell`"
+    },
+    {
+      "t": 3873,
+      "title": "orientation prediction"
+    },
+    {
+      "t": 3877,
+      "title": "cast debates gender/orientation"
+    },
+    {
+      "t": 3901,
+      "title": "literal transphobic slur"
+    },
+    {
+      "t": 3923,
+      "title": "`natural woman` contrast"
+    },
+    {
+      "t": 3930,
+      "title": "to be continued"
+    },
+    {
+      "t": 3960,
+      "title": "isolated closing thank-you"
+    }
+  ],
+  "connections": [
+    {
+      "t": 157,
+      "to": "DVDASA Las Vegas sequence",
+      "why": "The episode leaves the studio for the first half of a two-part Las Vegas recording."
+    },
+    {
+      "t": 174,
+      "to": "David Choe gambling-recovery timeline",
+      "why": "David explicitly frames Las Vegas as a relapse-risk environment after roughly two and a half years."
+    },
+    {
+      "t": 184,
+      "to": "VICE on HBO / David Choe television work",
+      "why": "A current HBO-related production helps date the trip, though the exact segment remains to verify."
+    },
+    {
+      "t": 233,
+      "to": "Oakland Museum mural timeline",
+      "why": "David gives the upcoming mural as the scheduling reason for the short trip."
+    },
+    {
+      "t": 272,
+      "to": "Spike Jonze / Thumbs Up",
+      "why": "A premiere anecdote connects Spike Jonze's recognition of Critter to prior Thumbs Up footage."
+    },
+    {
+      "t": 524,
+      "to": "Episode 111 gambling and memory account",
+      "why": "The earlier addiction account becomes an active recovery test in Las Vegas."
+    },
+    {
+      "t": 683,
+      "to": "2010s air-travel culture",
+      "why": "The SARS-mask and Southwest-seat stories anchor period attitudes and airline practices."
+    },
+    {
+      "t": 817,
+      "to": "DVDASA covert-recording ethics",
+      "why": "A camera pen appears as a casual prop despite the need for subject-specific recording permission."
+    },
+    {
+      "t": 1117,
+      "to": "DVDASA publication-consequence timeline",
+      "why": "David says the show is causing partners and prospective partners to stop responding."
+    },
+    {
+      "t": 1526,
+      "to": "Sasha Grey / adult-industry network",
+      "why": "Asa's professional network becomes the basis for Bill's changing access and friendships."
+    },
+    {
+      "t": 1647,
+      "to": "Poon Report",
+      "why": "Bill's Instagram and adult-industry access are discussed as an outgrowth of the Poon Report."
+    },
+    {
+      "t": 1877,
+      "to": "DVDASA voyeurism and privacy taxonomy",
+      "why": "An alleged hidden-photo history is explicitly called creepy; openness and friendship do not create consent."
+    },
+    {
+      "t": 1964,
+      "to": "Bobby Lee / Khalyla DVDASA timeline",
+      "why": "Their planned arrival sets up Vegas Part 02."
+    },
+    {
+      "t": 2142,
+      "to": "Asa Akira feature-dancing timeline",
+      "why": "The Little Darlings engagement, convention and merchandise work structure the trip."
+    },
+    {
+      "t": 2240,
+      "to": "DVDASA direct-refusal evidence",
+      "why": "Asa repeatedly says she will not give the cast lap dances despite payment and friendship pressure."
+    },
+    {
+      "t": 2485,
+      "to": "Kira Kenner",
+      "why": "The cast resolves an extended performer-identification sequence before David recounts a formative show."
+    },
+    {
+      "t": 2843,
+      "to": "DVDASA consent taxonomy",
+      "why": "A performer allegedly moves another patron's hand onto David's genitals; his immediate no remains decisive."
+    },
+    {
+      "t": 2947,
+      "to": "Casino inducement and addiction",
+      "why": "Complimentary rooms, player cards and staff attention are described as relapse pressure."
+    },
+    {
+      "t": 3372,
+      "to": "Kaylani Lei / Wicked Pictures",
+      "why": "Context corrects a high-impact named-entity error that would otherwise point to singer Kehlani."
+    },
+    {
+      "t": 3392,
+      "to": "Episode 108 — Magic Person: Eva Lin",
+      "why": "The final third directly revisits Eva, the censored YouTube edit, and cast speculation about contacting her."
+    }
+  ],
+  "content_warnings": [
+    "gambling addiction and relapse risk",
+    "casino inducements and high-roller claims",
+    "explicit sexual discussion",
+    "sex work and strip-club labor",
+    "repeated pressure after sexual refusal",
+    "nonconsensual genital contact",
+    "covert photography and recording allegations",
+    "private sexual and relationship histories",
+    "private messages and social-media activity",
+    "private health and bodily details",
+    "transphobic and homophobic slurs",
+    "racial and gender stereotypes",
+    "misogynistic and objectifying commentary",
+    "sexual-orientation speculation",
+    "forceful-sex fantasy",
+    "unsafe lubricant and sexual-health claims",
+    "drug-use references",
+    "private security and financial arrangements",
+    "hotel room number and lodging logistics",
+    "travel schedules and workplace locations",
+    "unverified arrest and employment allegations",
+    "family and spouse privacy",
+    "celebrity sightings and private-person rumors",
+    "adult-industry performer identification",
+    "publication-consent boundaries"
+  ]
+}
