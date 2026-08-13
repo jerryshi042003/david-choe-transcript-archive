@@ -6,16 +6,16 @@
   "unique_reader_routes": 421
  },
  "coverage": {
-  "editorial": 291,
-  "context": 291,
-  "summary": 291,
-  "description": 291,
-  "chapters": 291,
-  "people": 150,
-  "places": 145,
-  "works": 149,
-  "themes": 150,
-  "connections": 291
+  "editorial": 292,
+  "context": 292,
+  "summary": 292,
+  "description": 292,
+  "chapters": 292,
+  "people": 151,
+  "places": 146,
+  "works": 150,
+  "themes": 151,
+  "connections": 292
  },
  "known_signal_checks": {
   "exact_word_trivia": {
@@ -129,7 +129,7 @@
   {
    "group": "_SUPERHER0_",
    "routes": 1,
-   "editorial": 0
+   "editorial": 1
   },
   {
    "group": "@StudioMotion",
@@ -2331,14 +2331,6 @@
    "id": "T-632m9gwso",
    "title": "The Problem is You Suck",
    "group": "David Choe",
-   "missing": [
-    "editorial"
-   ]
-  },
-  {
-   "id": "T5Bc_q5FHCQ",
-   "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc",
-   "group": "_SUPERHER0_",
    "missing": [
     "editorial"
    ]

@@ -2,9 +2,9 @@
  "schema": "choe-corpus/subjects@2",
  "survey": {
   "items_in_archive": 421,
-  "items_with_entities": 150,
+  "items_with_entities": 151,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 150 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item and currently exist for 151 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
@@ -916,6 +916,10 @@
       "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
      },
      {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
       "id": "U5CaU1n-_Lk",
       "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 3/4)"
      },
@@ -952,7 +956,7 @@
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
      }
     ],
-    "count": 23
+    "count": 24
    },
    {
     "name": "Anthony Bourdain",
@@ -2883,6 +2887,24 @@
     "count": 3
    },
    {
+    "name": "Critter Fleming",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     }
+    ],
+    "count": 3
+   },
+   {
     "name": "Dan the Automator",
     "episodes": [
      {
@@ -4319,6 +4341,36 @@
     "count": 7
    },
    {
+    "name": "Detroit",
+    "episodes": [
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+     },
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "amjgbcrHUG0",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+     },
+     {
+      "id": "uJXhtxBl3OM",
+      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+     }
+    ],
+    "count": 6
+   },
+   {
     "name": "Tokyo",
     "episodes": [
      {
@@ -4379,32 +4431,6 @@
     "count": 6
    },
    {
-    "name": "Detroit",
-    "episodes": [
-     {
-      "id": "saga2-november-2nd-the-longest-day",
-      "title": "November 2nd the Longest Day"
-     },
-     {
-      "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
-      "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
-     },
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "amjgbcrHUG0",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
-     },
-     {
-      "id": "uJXhtxBl3OM",
-      "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
-     }
-    ],
-    "count": 5
-   },
-   {
     "name": "Miami",
     "episodes": [
      {
@@ -4429,6 +4455,54 @@
      }
     ],
     "count": 5
+   },
+   {
+    "name": "San Francisco",
+    "episodes": [
+     {
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
+     },
+     {
+      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+      "title": "Episode 019"
+     },
+     {
+      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+      "title": "Episode 022"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
+     }
+    ],
+    "count": 5
+   },
+   {
+    "name": "Chicago",
+    "episodes": [
+     {
+      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+      "title": "Episode 021"
+     },
+     {
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+     },
+     {
+      "id": "IA-7LDa5VXY",
+      "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     }
+    ],
+    "count": 4
    },
    {
     "name": "Colombia",
@@ -4563,28 +4637,6 @@
     "count": 4
    },
    {
-    "name": "San Francisco",
-    "episodes": [
-     {
-      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-      "title": "Episode 005"
-     },
-     {
-      "id": "saga1-episode-019-with-david-choe-and-asa-akira",
-      "title": "Episode 019"
-     },
-     {
-      "id": "saga1-episode-022-with-david-choe-and-asa-akira",
-      "title": "Episode 022"
-     },
-     {
-      "id": "tk923yF0TXA",
-      "title": "David Choe Returns to Cartoonist Kayfabe!"
-     }
-    ],
-    "count": 4
-   },
-   {
     "name": "the Ranch",
     "episodes": [
      {
@@ -4656,24 +4708,6 @@
      {
       "id": "vEL0l0Nlmh8",
       "title": "David Choe: It All Adds Up"
-     }
-    ],
-    "count": 3
-   },
-   {
-    "name": "Chicago",
-    "episodes": [
-     {
-      "id": "saga1-episode-021-with-david-choe-and-asa-akira",
-      "title": "Episode 021"
-     },
-     {
-      "id": "8JmtlRXz7V0",
-      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
-     },
-     {
-      "id": "IA-7LDa5VXY",
-      "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
      }
     ],
     "count": 3
@@ -4782,6 +4816,24 @@
      {
       "id": "i8cDwucTSbo",
       "title": "Joe Rogan Experience #392 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "New York City",
+    "episodes": [
+     {
+      "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+      "title": "Episode 030"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "tk923yF0TXA",
+      "title": "David Choe Returns to Cartoonist Kayfabe!"
      }
     ],
     "count": 3
@@ -4951,6 +5003,88 @@
   ],
   "themes": [
    {
+    "name": "friendship",
+    "episodes": [
+     {
+      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+      "title": "Episode 002"
+     },
+     {
+      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+      "title": "Episode 003"
+     },
+     {
+      "id": "saga1-episode-016-with-david-choe-and-asa-akira",
+      "title": "Episode 016"
+     },
+     {
+      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+      "title": "Episode 018"
+     },
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "saga2-november-2nd-the-longest-day",
+      "title": "November 2nd the Longest Day"
+     },
+     {
+      "id": "8JmtlRXz7V0",
+      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+     },
+     {
+      "id": "D-oSpkzPIoQ",
+      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
+     },
+     {
+      "id": "HQ7GRWWgOGM",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 1/5)"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "TaQ3VbsmNLk",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 4/5)"
+     },
+     {
+      "id": "UZ7-frVitVc",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
+     },
+     {
+      "id": "_UXD0KqyBko",
+      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
+     },
+     {
+      "id": "h9ODc_M8iXU",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 5/5)"
+     },
+     {
+      "id": "hicb0ZqmzzM",
+      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+     },
+     {
+      "id": "i06A3F4XkEc",
+      "title": "Exclusive! Eastman and Laird Commentary on Their Most Popular Issue of TMNT. David Choe Cohosts!"
+     },
+     {
+      "id": "oFliGQNTC1c",
+      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
+     },
+     {
+      "id": "wK3xCI1VF-g",
+      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
+     },
+     {
+      "id": "xXDZOnvqyQg",
+      "title": "David Choe | It All Starts With A Bat"
+     }
+    ],
+    "count": 19
+   },
+   {
     "name": "privacy",
     "episodes": [
      {
@@ -5033,84 +5167,6 @@
     "count": 19
    },
    {
-    "name": "friendship",
-    "episodes": [
-     {
-      "id": "saga1-episode-002-with-david-choe-and-asa-akira",
-      "title": "Episode 002"
-     },
-     {
-      "id": "saga1-episode-003-with-david-choe-and-asa-akira",
-      "title": "Episode 003"
-     },
-     {
-      "id": "saga1-episode-016-with-david-choe-and-asa-akira",
-      "title": "Episode 016"
-     },
-     {
-      "id": "saga1-episode-018-with-david-choe-and-asa-akira",
-      "title": "Episode 018"
-     },
-     {
-      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
-      "title": "Episode 029"
-     },
-     {
-      "id": "saga2-november-2nd-the-longest-day",
-      "title": "November 2nd the Longest Day"
-     },
-     {
-      "id": "8JmtlRXz7V0",
-      "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
-     },
-     {
-      "id": "D-oSpkzPIoQ",
-      "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
-     },
-     {
-      "id": "HQ7GRWWgOGM",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 1/5)"
-     },
-     {
-      "id": "TaQ3VbsmNLk",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 4/5)"
-     },
-     {
-      "id": "UZ7-frVitVc",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
-     },
-     {
-      "id": "_UXD0KqyBko",
-      "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
-     },
-     {
-      "id": "h9ODc_M8iXU",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 5/5)"
-     },
-     {
-      "id": "hicb0ZqmzzM",
-      "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
-     },
-     {
-      "id": "i06A3F4XkEc",
-      "title": "Exclusive! Eastman and Laird Commentary on Their Most Popular Issue of TMNT. David Choe Cohosts!"
-     },
-     {
-      "id": "oFliGQNTC1c",
-      "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
-     },
-     {
-      "id": "wK3xCI1VF-g",
-      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
-     },
-     {
-      "id": "xXDZOnvqyQg",
-      "title": "David Choe | It All Starts With A Bat"
-     }
-    ],
-    "count": 18
-   },
-   {
     "name": "consent",
     "episodes": [
      {
@@ -5176,6 +5232,10 @@
       "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
      },
      {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
       "id": "UZ7-frVitVc",
       "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
      },
@@ -5200,7 +5260,45 @@
       "title": "Thumbs UP Season 4 Trailer"
      }
     ],
-    "count": 9
+    "count": 10
+   },
+   {
+    "name": "gambling",
+    "episodes": [
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "CvHFWwVZKoI",
+      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+     },
+     {
+      "id": "QO3-AAVTeDA",
+      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "UZ7-frVitVc",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
+     },
+     {
+      "id": "cOJtx8kDN-Y",
+      "title": "David Choe's Art Chaos: Embrace Mistakes & Joy in Creative Exploration"
+     },
+     {
+      "id": "i8cDwucTSbo",
+      "title": "Joe Rogan Experience #392 - David Choe"
+     },
+     {
+      "id": "j7T6__UbhBI",
+      "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 8
    },
    {
     "name": "speaker-label provenance",
@@ -5239,40 +5337,6 @@
      }
     ],
     "count": 8
-   },
-   {
-    "name": "gambling",
-    "episodes": [
-     {
-      "id": "2Xw5EgZdNvQ",
-      "title": "Joe Rogan Experience #563 - David Choe"
-     },
-     {
-      "id": "CvHFWwVZKoI",
-      "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
-     },
-     {
-      "id": "QO3-AAVTeDA",
-      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
-     },
-     {
-      "id": "UZ7-frVitVc",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
-     },
-     {
-      "id": "cOJtx8kDN-Y",
-      "title": "David Choe's Art Chaos: Embrace Mistakes & Joy in Creative Exploration"
-     },
-     {
-      "id": "i8cDwucTSbo",
-      "title": "Joe Rogan Experience #392 - David Choe"
-     },
-     {
-      "id": "j7T6__UbhBI",
-      "title": "Joe Rogan Experience #1518 - David Choe"
-     }
-    ],
-    "count": 7
    },
    {
     "name": "graffiti",
@@ -5364,6 +5428,36 @@
      {
       "id": "j7T6__UbhBI",
       "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 6
+   },
+   {
+    "name": "religion",
+    "episodes": [
+     {
+      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+      "title": "Episode 005"
+     },
+     {
+      "id": "vimeo-dirty-hands-laff",
+      "title": "Dirty Hands: The Art and Crimes of David Choe"
+     },
+     {
+      "id": "BBArizQhDgk",
+      "title": "Joe Rogan Experience #1965 - David Choe"
+     },
+     {
+      "id": "JZ6wY3dgxdg",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+     },
+     {
+      "id": "T5Bc_q5FHCQ",
+      "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+     },
+     {
+      "id": "UZ7-frVitVc",
+      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
      }
     ],
     "count": 6
@@ -5528,32 +5622,6 @@
      {
       "id": "reW-p9ds4g4",
       "title": "David Choe - Steve-O's Wild Ride! Ep #80"
-     }
-    ],
-    "count": 5
-   },
-   {
-    "name": "religion",
-    "episodes": [
-     {
-      "id": "saga1-episode-005-with-david-choe-and-asa-akira",
-      "title": "Episode 005"
-     },
-     {
-      "id": "vimeo-dirty-hands-laff",
-      "title": "Dirty Hands: The Art and Crimes of David Choe"
-     },
-     {
-      "id": "BBArizQhDgk",
-      "title": "Joe Rogan Experience #1965 - David Choe"
-     },
-     {
-      "id": "JZ6wY3dgxdg",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
-     },
-     {
-      "id": "UZ7-frVitVc",
-      "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
      }
     ],
     "count": 5
