@@ -54,6 +54,8 @@ node scripts/build_visual_editorial.mjs
 node scripts/review_editorial_entities.mjs
 node scripts/embed_editorial.mjs
 node scripts/build_trivia_coverage.mjs
+node scripts/build_corpus_analysis.mjs
+node scripts/refresh_method_counts.mjs
 node scripts/audit_editorial_coverage.mjs
 ```
 
@@ -89,8 +91,10 @@ place/work arrays mean the source was reviewed and did not support one.
 Current completion contract: 434 catalog cards resolve to 421 unique reader
 routes. All 421 have reviewed summaries, descriptions, chronological chapters,
 people/entities, themes, connections, and reviewed place/work status. The
-coverage manifest must have zero incomplete routes, and the DVDASA trivia ledger
-must remain 177/177 reviewed with 167 passages present.
+coverage manifest must have zero incomplete routes, the DVDASA trivia ledger
+must remain 177/177 reviewed with 167 passages present, and the overall corpus
+analysis must cover all 421 unique reader routes with summary, repeated topics,
+normalized people, and screenplay development notes.
 
 ## Repository boundary
 

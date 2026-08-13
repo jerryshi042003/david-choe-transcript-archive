@@ -1,1 +1,53 @@
-{"_count": 7, "schema": "choe-corpus/method@1", "note": "Measurements behind the surfaces, including withdrawn claims.", "findings": [{"heading": "The corpus is complete", "result": "433 items \u00b7 473 hours \u00b7 4,965,235 words", "body": "Every YouTube item that had never been processed is now transcribed. 5 music uploads are deliberately excluded and recorded as excluded rather than quietly dropped: transcribing a performance produces song lyrics, which this archive does not republish."}, {"heading": "What died: the items were never blocked", "result": "403 was a format error, not an authorisation one", "body": "Those forty-five were filed for hours as blocked pending a decision about account cookies. That was wrong. Metadata resolved perfectly while the audio stream returned 403; pinning the downloader to one client fixed every one of them. The note was the obstacle, not the platform."}, {"heading": "Who was in the room", "result": "152 of 177 DVDASA episodes carry a named cast (86%) \u00b7 97% of those names corroborated in the transcript", "body": "The show's own published archive states, per episode, who appeared. Those names were joined to the transcripts on episode number. As a control, each claim was checked against the transcript itself: in 380 of 390 cases the person named by the description is also named inside the recording. That control is what separates this from a plausible guess."}, {"heading": "Stated, not heard", "result": "a provenance rule, applied everywhere names appear", "body": "A description saying someone was on an episode is testimony ABOUT the recording, not a measurement OF it. So a cast name may narrow who a voice could be and may never assert who spoke. No transcript turn carries a name; that requires independent confirmation from the audio."}, {"heading": "Continuity is mostly not there to find", "result": "1 continuation across 164 consecutive episode pairs", "body": "The show was expected to run stories across episodes. It has 4 arcs it names as multi-part, covering 12 episodes. Beyond those, every consecutive pair was measured for a story continuing into the next episode without the title saying so, and 1 qualifies \u2014 a conversation about food. The show closes its subjects within an episode."}, {"heading": "A claim that was withdrawn", "result": "the fee does not change between tellings", "body": "This archive reported that the sum offered for the Facebook mural moved between tellings. It does not. Both figures came from one interview, minutes apart, and both were spoken by the host framing the question rather than by David. The comparison had been drawn from passages that were never shown on the page. Every divergence now ships both quotes, or is not claimed."}, {"heading": "What the corpus cannot answer", "result": "consequence is not recoverable from transcripts", "body": "Automatic detection finds recurring subjects reliably and cannot tell which of them mattered. The story about taking stock instead of cash was found because a reader recognised the name Napster; statistically it is indistinguishable from an actor discussed twice. The transcripts record what was said, not which of it was consequential."}], "counts": {"items": 433, "hours": 473, "words": 4965235, "corroborated": 380, "roster_claims": 390, "join_pct": 86, "corr_pct": 97, "episodes_with_cast": 152, "stories": 5}}
+{
+  "_count": 7,
+  "schema": "choe-corpus/method@1",
+  "note": "Measurements behind the surfaces, including withdrawn claims.",
+  "findings": [
+    {
+      "heading": "The corpus is complete",
+      "result": "421 unique reader routes · 434 catalog cards · 450.2 hours · 4,686,328 words",
+      "body": "Every unique reader route in the current catalog has a transcript record and completed editorial layer. 13 extra cards are alternate source entries that resolve to an existing reader route; they are not counted again as distinct transcripts. Five music uploads are deliberately excluded and recorded as excluded rather than quietly dropped: transcribing a performance produces song lyrics, which this archive does not republish."
+    },
+    {
+      "heading": "What died: the items were never blocked",
+      "result": "403 was a format error, not an authorisation one",
+      "body": "Those forty-five were filed for hours as blocked pending a decision about account cookies. That was wrong. Metadata resolved perfectly while the audio stream returned 403; pinning the downloader to one client fixed every one of them. The note was the obstacle, not the platform."
+    },
+    {
+      "heading": "Who was in the room",
+      "result": "152 of 177 DVDASA episodes carry a named cast (86%) · 97% of those names corroborated in the transcript",
+      "body": "The show's own published archive states, per episode, who appeared. Those names were joined to the transcripts on episode number. As a control, each claim was checked against the transcript itself: in 380 of 390 cases the person named by the description is also named inside the recording. That control is what separates this from a plausible guess."
+    },
+    {
+      "heading": "Stated, not heard",
+      "result": "a provenance rule, applied everywhere names appear",
+      "body": "A description saying someone was on an episode is testimony ABOUT the recording, not a measurement OF it. So a cast name may narrow who a voice could be and may never assert who spoke. No transcript turn carries a name; that requires independent confirmation from the audio."
+    },
+    {
+      "heading": "Continuity is mostly not there to find",
+      "result": "1 continuation across 164 consecutive episode pairs",
+      "body": "The show was expected to run stories across episodes. It has 4 arcs it names as multi-part, covering 12 episodes. Beyond those, every consecutive pair was measured for a story continuing into the next episode without the title saying so, and 1 qualifies — a conversation about food. The show closes its subjects within an episode."
+    },
+    {
+      "heading": "A claim that was withdrawn",
+      "result": "the fee does not change between tellings",
+      "body": "This archive reported that the sum offered for the Facebook mural moved between tellings. It does not. Both figures came from one interview, minutes apart, and both were spoken by the host framing the question rather than by David. The comparison had been drawn from passages that were never shown on the page. Every divergence now ships both quotes, or is not claimed."
+    },
+    {
+      "heading": "What the corpus cannot answer",
+      "result": "consequence is not recoverable from transcripts",
+      "body": "Automatic detection finds recurring subjects reliably and cannot tell which of them mattered. The story about taking stock instead of cash was found because a reader recognised the name Napster; statistically it is indistinguishable from an actor discussed twice. The transcripts record what was said, not which of it was consequential."
+    }
+  ],
+  "counts": {
+    "items": 421,
+    "hours": 450.2,
+    "words": 4686328,
+    "corroborated": 380,
+    "roster_claims": 390,
+    "join_pct": 86,
+    "corr_pct": 97,
+    "episodes_with_cast": 152,
+    "stories": 5
+  }
+}

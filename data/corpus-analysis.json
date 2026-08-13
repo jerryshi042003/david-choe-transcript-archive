@@ -1,0 +1,4607 @@
+{
+  "schema": "choe-corpus/corpus-analysis@1",
+  "generated_from": "421 unique reader routes and their completed human-reviewed editorial records",
+  "survey": {
+    "routes": 421,
+    "catalog_cards": 434,
+    "hours": 450.2,
+    "words": 4686328,
+    "collections": {
+      "DVDASA": 177,
+      "Films": 1,
+      "Clips": 121,
+      "Interviews": 40,
+      "His channel": 82
+    },
+    "boundary": "Counts are unique reader routes, not catalog cards. Topics overlap and are matched only against the completed human-reviewed theme tags; summaries and connections inform the written synthesis but do not inflate frequency. Counts describe tagged archive coverage, not importance, truth, or time spent."
+  },
+  "summary": {
+    "thesis": "Across 421 routes, the corpus is less a success story than a long argument about what happens when the strategies that helped a person survive—risk, motion, performance, work, sex, humor, money, and refusal—keep operating after survival is no longer the immediate problem.",
+    "paragraphs": [
+      "The archive has three interlocking bodies. DVDASA is the largest sustained social record: friends, guests, workers, performers, artists, and fans turn an unedited room into comedy, confession, trivia, production meeting, and power struggle. The interviews retell a more portable public life—Los Angeles, graffiti, self-publishing, travel, Japanese imprisonment, gambling, Sean Parker, Facebook, fame, addiction, retreat, recovery, television, and later acting. The films, clips, music, and art footage show what speech alone cannot, while often carrying weaker transcripts and therefore narrower claims.",
+      "The central pattern is conversion. Pain becomes art; strangers become collaborators; friends become employees and characters; danger becomes story; shame becomes attention; money becomes freedom and then burden; private life becomes material. Each conversion creates something real and also creates a debt that returns later as a boundary, consent, privacy, health, labor, or relationship problem.",
+      "The corpus also documents a changing narrator. Earlier accounts often reward velocity, extremity, and the clean punch line. Later accounts revisit the same legends with more resistance: luck did not erase work, wealth did not end compulsion, confession did not guarantee honesty, and a destructive bottom was not required for creative change. These are revisions in emphasis, not a clean redemption chronology.",
+      "No single route settles the biography. Memory disclaimers, jokes, provocation, damaged captions, reuploads, edited excerpts, and repeated stories all matter. The responsible overall reading is therefore relational: compare versions, preserve direct boundaries, distinguish participant testimony from verification, and let contradiction remain visible instead of forcing one final David Choe persona."
+    ],
+    "corpus_shape": [
+      {
+        "label": "DVDASA",
+        "count": 177,
+        "note": "The numbered ensemble spine: comedy, guests, trivia, intimacy, production, and recurring workplace power."
+      },
+      {
+        "label": "Interviews",
+        "count": 40,
+        "note": "Long-form public retellings and later reinterpretations of the career and private life."
+      },
+      {
+        "label": "His channel",
+        "count": 82,
+        "note": "Official creative lessons, reflections, performance, artwork, and transcript-limited visual records."
+      },
+      {
+        "label": "Clips",
+        "count": 121,
+        "note": "Excerpts, third-party uploads, reuploads, biographies, and narrow moments that require provenance context."
+      },
+      {
+        "label": "Film",
+        "count": 1,
+        "note": "Dirty Hands, held and described as a film-scale source rather than reduced to searchable dialogue."
+      }
+    ]
+  },
+  "repeated_topics": [
+    {
+      "name": "Art as work, compulsion, and identity",
+      "route_count": 127,
+      "denominator": 421,
+      "share": 0.302,
+      "reading": "Making art is presented at once as vocation, survival tactic, practiced craft, social access, and compulsive escape. The corpus is strongest when it shows the labor underneath the myth of spontaneous talent.",
+      "tension": "freedom through making ↔ another activity that can become impossible to stop",
+      "evidence": [
+        {
+          "id": "vimeo-dirty-hands-laff",
+          "title": "Dirty Hands: The Art and Crimes of David Choe",
+          "note": "The feature-length early-career record."
+        },
+        {
+          "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+          "title": "Episode 119 — The Ranch Solo Series Part II",
+          "note": "A long first-person blueprint about practice, pricing, failure, and stopping."
+        },
+        {
+          "id": "CvHFWwVZKoI",
+          "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast",
+          "note": "Later reflection on suffering, workaholism, and whether destruction is necessary for art."
+        }
+      ]
+    },
+    {
+      "name": "Fame, publicity, privacy, and self-mythology",
+      "route_count": 95,
+      "denominator": 421,
+      "share": 0.226,
+      "reading": "Choe seeks direct, unedited speech because profiles flatten him, yet the same no-take-back format exposes guests, partners, workers, and himself. Across later interviews he also argues with the simplified mythology produced by his own repetition.",
+      "tension": "control through saying everything ↔ loss of control once everything is public",
+      "evidence": [
+        {
+          "id": "saga1-episode-057-never-been-dumped-n-b-d",
+          "title": "Episode 057 — Never Been Dumped N B D",
+          "note": "The clearest surviving origin argument for DVDASA as an answer to edited interviews."
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe",
+          "note": "Public controversy, speech, work, money, and the consequences of broadcasting provocation."
+        },
+        {
+          "id": "j7T6__UbhBI",
+          "title": "Joe Rogan Experience #1518 - David Choe",
+          "note": "A later long-form appearance organized around shame, retreat, and resisting the public “Facebook guy” identity."
+        }
+      ]
+    },
+    {
+      "name": "Storytelling, performance, and unreliable memory",
+      "route_count": 92,
+      "denominator": 421,
+      "share": 0.219,
+      "reading": "The archive is not a single authoritative autobiography. It is a record of a practiced storyteller adapting to rooms, formats, audiences, and changing self-understanding. Repetition is evidence of importance, not automatic proof of literal accuracy.",
+      "tension": "a vivid story that creates meaning ↔ a story polished enough to replace uncertain memory",
+      "evidence": [
+        {
+          "id": "XS6awjpIimw",
+          "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA",
+          "note": "A long interview mixing self-report, jokes, exaggeration, and disputed press framing."
+        },
+        {
+          "id": "saga1-episode-057-never-been-dumped-n-b-d",
+          "title": "Episode 057 — Never Been Dumped N B D",
+          "note": "The show’s own argument for unedited speech."
+        },
+        {
+          "id": "zHyvVajsqMw",
+          "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+          "note": "Explicit memory disclaimers coexist with another long reconstruction of the life."
+        }
+      ]
+    },
+    {
+      "name": "Sex, intimacy, consent, and performance",
+      "route_count": 91,
+      "denominator": 421,
+      "share": 0.216,
+      "reading": "DVDASA makes sexuality a recurring game, confession, workplace, and power test. The editorial record has to preserve direct refusals and asymmetries because the room often converts private boundaries into entertainment.",
+      "tension": "radical disclosure and experimentation ↔ privacy, consent, and unequal power",
+      "evidence": [
+        {
+          "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+          "title": "Episode 009",
+          "note": "A public-guest conversation that moves from reporting and risk into sex, relationships, and boundaries."
+        },
+        {
+          "id": "saga1-episode-065-saelee-oh-seeks-double-vag-double-anal-dates",
+          "title": "Episode 065 — Saelee Oh Seeks Double Vag Double Anal Dates",
+          "note": "Friendship, dating, privacy, employment, and a coercive trivia penalty collide."
+        },
+        {
+          "id": "saga2-saga-02-chapter-018-the-marriage-proposal-the-critter-conundrum",
+          "title": "Chapter 018 — The Marriage Proposal the Critter Conundrum",
+          "note": "A clear proposal acceptance is followed by pressure that does not inherit that consent."
+        }
+      ]
+    },
+    {
+      "name": "Family, Korean American identity, and inherited survival",
+      "route_count": 73,
+      "denominator": 421,
+      "share": 0.173,
+      "reading": "Family stories supply the emotional and economic grammar behind later behavior: immigrant survival, the Los Angeles riots, parental work, secrecy, shame, obligation, racialization, and competing ways of showing love.",
+      "tension": "loyalty to family history ↔ the need to author a self outside it",
+      "evidence": [
+        {
+          "id": "zHyvVajsqMw",
+          "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+          "note": "A long account of childhood, poverty, family war memory, shame, and later success."
+        },
+        {
+          "id": "saga1-episode-103-parental-relations",
+          "title": "Episode 103 — Parental Relations",
+          "note": "An episode organized around disclosure, parents, and adult family boundaries."
+        },
+        {
+          "id": "BBArizQhDgk",
+          "title": "Joe Rogan Experience #1965 - David Choe",
+          "note": "Later reflection on money, spirituality, family, and what remains after success."
+        }
+      ]
+    },
+    {
+      "name": "Friendship, collaboration, and workplace power",
+      "route_count": 63,
+      "denominator": 421,
+      "share": 0.15,
+      "reading": "Friends repeatedly become employees, subjects, collaborators, caretakers, or cast. The same intimacy that produces unusually alive work also makes pay, refusal, firing, credit, and privacy harder to separate.",
+      "tension": "chosen family ↔ a workplace whose authority is intentionally blurry",
+      "evidence": [
+        {
+          "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+          "title": "Episode 010",
+          "note": "The potato-chip conflict expands into ownership, trust, apology, and employer power."
+        },
+        {
+          "id": "saga1-episode-058-the-reporter",
+          "title": "Episode 058 — The Reporter",
+          "note": "A press encounter exposes friendship, informal labor, sudden fame, and consent problems."
+        },
+        {
+          "id": "saga2-saga-02-chapter-030-the-trial-of-poon",
+          "title": "Chapter 030 — The Trial of Poon",
+          "note": "Production conflict becomes an improvised trial and pressured reconciliation."
+        }
+      ]
+    },
+    {
+      "name": "Shame, depression, vulnerability, and repair",
+      "route_count": 56,
+      "denominator": 421,
+      "share": 0.133,
+      "reading": "The later corpus increasingly turns the spectacle inward. Shame is described as punishment, attention, defense, and sometimes an opening toward repair; disclosures can be useful without becoming diagnosis or universal advice.",
+      "tension": "confession as relief ↔ confession as another performance that may harm somebody else",
+      "evidence": [
+        {
+          "id": "saga1-episode-118-2-depressed-artists",
+          "title": "Episode 118 — 2 Depressed Artists",
+          "note": "David Choe and David Chang discuss depression, labor, rage, family, and help-seeking."
+        },
+        {
+          "id": "CvHFWwVZKoI",
+          "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast",
+          "note": "A later recovery-focused rejection of the destructive-bottom mythology."
+        },
+        {
+          "id": "zHyvVajsqMw",
+          "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+          "note": "A sustained attempt to connect pain, shame, compulsion, and creative expression."
+        }
+      ]
+    },
+    {
+      "name": "Travel, danger, incarceration, and escape",
+      "route_count": 48,
+      "denominator": 421,
+      "share": 0.114,
+      "reading": "Road stories, prison stories, and dangerous encounters are both biography and a recurring dramatic technology: motion creates strangers, tests identity, and prevents the stillness Choe later says he feared.",
+      "tension": "the road as freedom and contact ↔ danger as compulsion and avoidance",
+      "evidence": [
+        {
+          "id": "vimeo-dirty-hands-laff",
+          "title": "Dirty Hands: The Art and Crimes of David Choe",
+          "note": "Congo travel, graffiti, detention, Japan imprisonment, and success are intercut rather than told linearly."
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026",
+          "note": "A Kabul return episode about fear, security, ordinary life, and danger-shaped expectations."
+        },
+        {
+          "id": "zHyvVajsqMw",
+          "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+          "note": "Later reinterpretation of literal running as a way not to sit with himself."
+        }
+      ]
+    },
+    {
+      "name": "Money, Facebook, and the burden of the lucky break",
+      "route_count": 41,
+      "denominator": 421,
+      "share": 0.097,
+      "reading": "The archive repeatedly resists the one-line legend that a starving artist randomly became rich from Facebook. Choe alternately accepts the luck, defends the work and relationships that preceded it, and describes what sudden public wealth distorted.",
+      "tension": "money as proof of freedom ↔ money as a story that erases the rest of the life",
+      "evidence": [
+        {
+          "id": "i8cDwucTSbo",
+          "title": "Joe Rogan Experience #392 - David Choe",
+          "note": "A compact telling of choosing Facebook shares over cash."
+        },
+        {
+          "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+          "title": "Episode 101 — The Ranch Solo Series Part I",
+          "note": "A direct rebuttal to the luck-only version and a Sean Parker counter-story."
+        },
+        {
+          "id": "saga1-episode-068-david-s-announcement",
+          "title": "Episode 068 — David S Announcement",
+          "note": "Wealth and Facebook proceeds described as accelerants in a downward spiral."
+        }
+      ]
+    },
+    {
+      "name": "Addiction, gambling, and recovery",
+      "route_count": 32,
+      "denominator": 421,
+      "share": 0.076,
+      "reading": "Gambling is not an isolated anecdote. It becomes the clearest model for a wider pattern: risk, sex, work, food, attention, travel, and storytelling can all function as wagers that postpone stillness.",
+      "tension": "the thrill of risk ↔ the wish to become trustworthy and present",
+      "evidence": [
+        {
+          "id": "XS6awjpIimw",
+          "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA",
+          "note": "A long public account linking gambling, money, art, and the Facebook story."
+        },
+        {
+          "id": "zHyvVajsqMw",
+          "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+          "note": "The most explicit later account of many addictions as forms of running."
+        },
+        {
+          "id": "reW-p9ds4g4",
+          "title": "David Choe - Steve-O's Wild Ride! Ep #80",
+          "note": "Recovery, shame, medical shortcuts, service, and difficulty saying no."
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "David Choe",
+      "route_count": 407,
+      "role": "central artist, host, traveler, gambler, and self-narrator",
+      "note": "The archive follows how he repeatedly constructs, rejects, and revises his own public mythology.",
+      "routes": [
+        {
+          "id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
+          "title": "At Comic Con 2013"
+        },
+        {
+          "id": "saga1-episode-001-with-david-choe-and-asa-akira",
+          "title": "Episode 001"
+        },
+        {
+          "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+          "title": "Episode 002"
+        },
+        {
+          "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+          "title": "Episode 003"
+        },
+        {
+          "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+          "title": "Episode 004"
+        },
+        {
+          "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+          "title": "Episode 005"
+        },
+        {
+          "id": "saga1-episode-006-with-david-choe-and-asa-akira",
+          "title": "Episode 006"
+        },
+        {
+          "id": "saga1-episode-007-with-david-choe-and-asa-akira",
+          "title": "Episode 007"
+        },
+        {
+          "id": "saga1-episode-008-with-david-choe-and-asa-akira",
+          "title": "Episode 008"
+        },
+        {
+          "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+          "title": "Episode 009"
+        },
+        {
+          "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+          "title": "Episode 010"
+        },
+        {
+          "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+          "title": "Episode 011"
+        },
+        {
+          "id": "saga1-episode-012-with-david-choe-and-asa-akira",
+          "title": "Episode 012"
+        },
+        {
+          "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+          "title": "Episode 013"
+        },
+        {
+          "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+          "title": "Episode 014"
+        },
+        {
+          "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+          "title": "Episode 015"
+        },
+        {
+          "id": "saga1-episode-016-with-david-choe-and-asa-akira",
+          "title": "Episode 016"
+        },
+        {
+          "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+          "title": "Episode 017"
+        },
+        {
+          "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+          "title": "Episode 018"
+        },
+        {
+          "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+          "title": "Episode 019"
+        },
+        {
+          "id": "saga1-episode-020-with-david-choe-and-asa-akira",
+          "title": "Episode 020"
+        },
+        {
+          "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+          "title": "Episode 021"
+        },
+        {
+          "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+          "title": "Episode 022"
+        },
+        {
+          "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+          "title": "Episode 023"
+        },
+        {
+          "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+          "title": "Episode 024"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+          "title": "Episode 027"
+        },
+        {
+          "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+          "title": "Episode 028"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-032-with-david-choe-and-asa-akira",
+          "title": "Episode 032"
+        },
+        {
+          "id": "saga1-episode-033-with-david-choe-and-asa-akira",
+          "title": "Episode 033"
+        },
+        {
+          "id": "saga1-episode-034-with-david-choe-and-asa-akira",
+          "title": "Episode 034"
+        },
+        {
+          "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+          "title": "Episode 035"
+        },
+        {
+          "id": "saga1-episode-036-with-david-choe-and-asa-akira",
+          "title": "Episode 036"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "saga1-episode-038-with-david-choe-and-asa-akira",
+          "title": "Episode 038"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-040-with-david-choe-and-asa-akira",
+          "title": "Episode 040"
+        },
+        {
+          "id": "saga1-episode-041-with-david-choe-and-asa-akira",
+          "title": "Episode 041"
+        },
+        {
+          "id": "saga1-episode-042-with-david-choe-and-asa-akira",
+          "title": "Episode 042"
+        },
+        {
+          "id": "saga1-episode-043-with-david-choe-and-asa-akira",
+          "title": "Episode 043"
+        },
+        {
+          "id": "saga1-episode-044-with-david-choe-and-asa-akira",
+          "title": "Episode 044"
+        },
+        {
+          "id": "saga1-episode-045-with-david-choe-and-asa-akira",
+          "title": "Episode 045"
+        },
+        {
+          "id": "saga1-episode-046-with-david-choe-and-asa-akira",
+          "title": "Episode 046"
+        },
+        {
+          "id": "saga1-episode-047-with-david-choe-and-asa-akira",
+          "title": "Episode 047"
+        },
+        {
+          "id": "saga1-episode-048-with-david-choe-and-asa-akira",
+          "title": "Episode 048"
+        },
+        {
+          "id": "saga1-episode-049-with-david-choe-and-asa-akira",
+          "title": "Episode 049"
+        },
+        {
+          "id": "saga1-episode-050-with-david-choe-and-asa-akira",
+          "title": "Episode 050"
+        },
+        {
+          "id": "saga1-episode-051-stf-sexually-transmitted-feelings",
+          "title": "Episode 051 — STF Sexually Transmitted Feelings"
+        },
+        {
+          "id": "saga1-episode-052-zach-gilford",
+          "title": "Episode 052 — Zach Gilford"
+        },
+        {
+          "id": "saga1-episode-053-kevin-smith",
+          "title": "Episode 053 — Kevin Smith"
+        },
+        {
+          "id": "saga1-episode-054-ask-asa-sexual-guacamole",
+          "title": "Episode 054 — Ask Asa Sexual Guacamole"
+        },
+        {
+          "id": "saga1-episode-055-bobby-s-announcement",
+          "title": "Episode 055 — Bobby S Announcement"
+        },
+        {
+          "id": "saga1-episode-056-intentional-discomfort",
+          "title": "Episode 056 — Intentional Discomfort"
+        },
+        {
+          "id": "saga1-episode-057-never-been-dumped-n-b-d",
+          "title": "Episode 057 — Never Been Dumped N B D"
+        },
+        {
+          "id": "saga1-episode-058-the-reporter",
+          "title": "Episode 058 — The Reporter"
+        },
+        {
+          "id": "saga1-episode-059-body-modifications-sports",
+          "title": "Episode 059 — Body Modifications Sports"
+        },
+        {
+          "id": "saga1-episode-060-david-arquette",
+          "title": "Episode 060 — David Arquette"
+        },
+        {
+          "id": "saga1-episode-061-aubrey-plaza",
+          "title": "Episode 061 — Aubrey Plaza"
+        },
+        {
+          "id": "saga1-episode-062-kayla-carrera",
+          "title": "Episode 062 — Kayla Carrera"
+        },
+        {
+          "id": "saga1-episode-063-bobby-hundreds-and-heather",
+          "title": "Episode 063 — Bobby Hundreds and Heather"
+        },
+        {
+          "id": "saga1-episode-064-heather-hot-dog",
+          "title": "Episode 064 — Heather Hot Dog"
+        },
+        {
+          "id": "saga1-episode-065-saelee-oh-seeks-double-vag-double-anal-dates",
+          "title": "Episode 065 — Saelee Oh Seeks Double Vag Double Anal Dates"
+        },
+        {
+          "id": "saga1-episode-067-return-of-hikaru-power-check",
+          "title": "Episode 067 — Return of Hikaru Power Check"
+        },
+        {
+          "id": "saga1-episode-068-david-s-announcement",
+          "title": "Episode 068 — David S Announcement"
+        },
+        {
+          "id": "saga1-episode-069-bobby-lee-and-the-pooner",
+          "title": "Episode 069 — Bobby Lee and the Pooner"
+        },
+        {
+          "id": "saga1-episode-070-slink-johnson-cousin-endo-the-armenian-virgin",
+          "title": "Episode 070 — Slink Johnson Cousin Endo the Armenian Virgin"
+        },
+        {
+          "id": "saga1-episode-071-the-conclusion-of-the-armenian-virgin-trilogy-ft-bobby-lee",
+          "title": "Episode 071 — The Conclusion of the Armenian Virgin Trilogy Ft Bobby Lee"
+        },
+        {
+          "id": "saga1-episode-072-bobby-lee-valentin-s-birthday",
+          "title": "Episode 072 — Bobby Lee Valentin S Birthday"
+        },
+        {
+          "id": "saga1-episode-073-am-i-gonna-get-that-ring-ft-bobby-lee-poon-phoebe",
+          "title": "Episode 073 — Am I Gonna Get That Ring Ft Bobby Lee Poon Phoebe"
+        },
+        {
+          "id": "saga1-episode-074-ruining-lives-ft-bobby-lee-the-pooner",
+          "title": "Episode 074 — Ruining Lives Ft Bobby Lee the Pooner"
+        },
+        {
+          "id": "saga1-episode-075-vip-no-problem-ft-dr-nima-bobby-lee",
+          "title": "Episode 075 — VIP No Problem Ft Dr Nima Bobby Lee"
+        },
+        {
+          "id": "saga1-episode-076-the-red-zone-with-steve-lee",
+          "title": "Episode 076 — The Red Zone with Steve Lee"
+        },
+        {
+          "id": "saga1-episode-077-locker-room-talk",
+          "title": "Episode 077 — Locker Room Talk"
+        },
+        {
+          "id": "saga1-episode-078-s-l-a-p-something-like-a-pimp-ft-slink-endo-heather-hot-dog-bobby-le",
+          "title": "Episode 078 — S L a P Something Like a Pimp Ft Slink Endo Heather Hot Dog Bobby Le"
+        },
+        {
+          "id": "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb",
+          "title": "Episode 079 — Bitch You Re Being Worked on Ft Erik Griffin Slink Endo Heather Bobb"
+        },
+        {
+          "id": "saga1-episode-080-colonic-confessions",
+          "title": "Episode 080 — Colonic Confessions"
+        },
+        {
+          "id": "saga1-episode-081-asians-are-future-people",
+          "title": "Episode 081 — Asians Are Future People"
+        },
+        {
+          "id": "saga1-episode-082-the-crappuccino",
+          "title": "Episode 082 — The Crappuccino"
+        },
+        {
+          "id": "saga1-episode-083-elmer-s-glue-bobby-lee-channels-david-s-mom",
+          "title": "Episode 083 — Elmer S Glue Bobby Lee Channels David S Mom"
+        },
+        {
+          "id": "saga1-episode-084-ask-asa-pooner-heather-phone-sex",
+          "title": "Episode 084 — Ask Asa Pooner Heather Phone Sex"
+        },
+        {
+          "id": "saga1-episode-085-pubes-everywhere",
+          "title": "Episode 085 — Pubes Everywhere"
+        },
+        {
+          "id": "saga1-episode-086-gay-for-hawaii-live-at-the-republik",
+          "title": "Episode 086 — Gay for Hawaii Live at the Republik"
+        },
+        {
+          "id": "saga1-episode-087-buyer-s-remorse-from-hawaii",
+          "title": "Episode 087 — Buyer S Remorse from Hawaii"
+        },
+        {
+          "id": "saga1-episode-088-david-chang",
+          "title": "Episode 088 — David Chang"
+        },
+        {
+          "id": "saga1-episode-089-fear-blood",
+          "title": "Episode 089 — Fear Blood"
+        },
+        {
+          "id": "saga1-episode-090-pjing-with-alvin-risk-nosaj-thing-feed-me-kill-the-noise",
+          "title": "Episode 090 — Pjing with Alvin Risk Nosaj Thing Feed Me Kill the Noise"
+        },
+        {
+          "id": "saga1-episode-091-insatiable-2-commentary",
+          "title": "Episode 091 — Insatiable 2 Commentary"
+        },
+        {
+          "id": "saga1-episode-092-jeff-staples-crying-banana",
+          "title": "Episode 092 — Jeff Staples Crying Banana"
+        },
+        {
+          "id": "saga1-episode-093-5-more-inches",
+          "title": "Episode 093 — 5 More Inches"
+        },
+        {
+          "id": "saga1-episode-094-steve-s-future",
+          "title": "Episode 094 — Steve S Future"
+        },
+        {
+          "id": "saga1-episode-095-ask-asa-tripping-with-steve-lee",
+          "title": "Episode 095 — Ask Asa Tripping with Steve Lee"
+        },
+        {
+          "id": "saga1-episode-096-the-trivia-wedding",
+          "title": "Episode 096 — The Trivia Wedding"
+        },
+        {
+          "id": "saga1-episode-097-steven-yeun-and-artist-the-dark-dick",
+          "title": "Episode 097 — Steven Yeun and Artist the Dark Dick"
+        },
+        {
+          "id": "saga1-episode-098-dan-wu-joe-hahn-the-dark-dick",
+          "title": "Episode 098 — Dan Wu Joe Hahn the Dark Dick"
+        },
+        {
+          "id": "saga1-episode-099-pack-hunting",
+          "title": "Episode 099 — Pack Hunting"
+        },
+        {
+          "id": "saga1-episode-100-things-korean-people-like",
+          "title": "Episode 100 — Things Korean People Like"
+        },
+        {
+          "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+          "title": "Episode 101 — The Ranch Solo Series Part I"
+        },
+        {
+          "id": "saga1-episode-102-bobby-lee-s-girlfriend-khalyla",
+          "title": "Episode 102 — Bobby Lee S Girlfriend Khalyla"
+        },
+        {
+          "id": "saga1-episode-103-parental-relations",
+          "title": "Episode 103 — Parental Relations"
+        },
+        {
+          "id": "saga1-episode-104-trivia-with-a-whore-part-1",
+          "title": "Episode 104 — Trivia with a Whore Part I"
+        },
+        {
+          "id": "saga1-episode-105-trivia-with-a-whore-part-2",
+          "title": "Episode 105 — Trivia with a Whore Part II"
+        },
+        {
+          "id": "saga1-episode-106-erection-quest",
+          "title": "Episode 106 — Erection Quest"
+        },
+        {
+          "id": "saga1-episode-107-rapish-behavior",
+          "title": "Episode 107 — Rapish Behavior"
+        },
+        {
+          "id": "saga1-episode-108-magic-person-eva-lin",
+          "title": "Episode 108 — Magic Person Eva Lin"
+        },
+        {
+          "id": "saga1-episode-109-humane-trafficking",
+          "title": "Episode 109 — Humane Trafficking"
+        },
+        {
+          "id": "saga1-episode-110-the-fake-male-orgasm",
+          "title": "Episode 110 — The Fake Male Orgasm"
+        },
+        {
+          "id": "saga1-episode-111-mom-s-wand",
+          "title": "Episode 111 — Mom S Wand"
+        },
+        {
+          "id": "saga1-episode-112-pink-pussy",
+          "title": "Episode 112 — Pink Pussy"
+        },
+        {
+          "id": "saga1-episode-113-vegas-part-01",
+          "title": "Episode 113 — Vegas Part 01"
+        },
+        {
+          "id": "saga1-episode-114-vegas-part-02",
+          "title": "Episode 114 — Vegas Part 02"
+        },
+        {
+          "id": "saga1-episode-115-vegas-part-03",
+          "title": "Episode 115 — Vegas Part 03"
+        },
+        {
+          "id": "saga1-episode-116-vegas-part-04-the-poon-poon-report",
+          "title": "Episode 116 — Vegas Part 04 the Poon Poon Report"
+        },
+        {
+          "id": "saga1-episode-117-vegas-part-05-no-newdes",
+          "title": "Episode 117 — Vegas Part 05 No Newdes"
+        },
+        {
+          "id": "saga1-episode-118-2-depressed-artists",
+          "title": "Episode 118 — 2 Depressed Artists"
+        },
+        {
+          "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+          "title": "Episode 119 — The Ranch Solo Series Part II"
+        },
+        {
+          "id": "saga1-episode-120-bro-show",
+          "title": "Episode 120 — Bro Show"
+        },
+        {
+          "id": "saga1-episode-121-a-day-in-the-life-of-steve-lee",
+          "title": "Episode 121 — A Day in the Life of Steve Lee"
+        },
+        {
+          "id": "saga1-episode-122-time-travel",
+          "title": "Episode 122 — Time Travel"
+        },
+        {
+          "id": "saga1-episode-123-do-you-want-some-pizza",
+          "title": "Episode 123 — Do You Want Some Pizza"
+        },
+        {
+          "id": "saga1-episode-124-bonnie-rotten",
+          "title": "Episode 124 — Bonnie Rotten"
+        },
+        {
+          "id": "saga1-episode-125-deluge",
+          "title": "Episode 125 — Deluge"
+        },
+        {
+          "id": "saga1-episode-126-addicted-to",
+          "title": "Episode 126 — Addicted to"
+        },
+        {
+          "id": "saga1-episode-127-with-david-choe-and-asa-akira",
+          "title": "Episode 127"
+        },
+        {
+          "id": "saga1-episode-128-hawaii-happiness-symposium-part-2-with-jane-choe",
+          "title": "Episode 128 — Hawaii Happiness Symposium Part II with Jane Choe"
+        },
+        {
+          "id": "saga1-episode-129-four-caballeros",
+          "title": "Episode 129 — Four Caballeros"
+        },
+        {
+          "id": "saga1-episode-130-beyond-your-five-senses",
+          "title": "Episode 130 — Beyond Your Five Senses"
+        },
+        {
+          "id": "saga1-episode-131-dave-in-love-part-one",
+          "title": "Episode 131 — Dave in Love Part I"
+        },
+        {
+          "id": "saga1-episode-132-dave-in-love-part-two",
+          "title": "Episode 132 — Dave in Love Part II"
+        },
+        {
+          "id": "saga1-episode-133-horny-in-your-heart",
+          "title": "Episode 133 — Horny in Your Heart"
+        },
+        {
+          "id": "saga1-episode-134-don-t-touch-me-there",
+          "title": "Episode 134 — Don T Touch Me There"
+        },
+        {
+          "id": "saga1-episode-135-eleven-seconds",
+          "title": "Episode 135 — Eleven Seconds"
+        },
+        {
+          "id": "saga1-episode-136-irresistible",
+          "title": "Episode 136 — Irresistible"
+        },
+        {
+          "id": "saga1-episode-137-double-headed-dragon",
+          "title": "Episode 137 — Double Headed Dragon"
+        },
+        {
+          "id": "saga1-episode-139-prank-on-the-prank",
+          "title": "Episode 139 — Prank on the Prank"
+        },
+        {
+          "id": "saga1-episode-140-spooning",
+          "title": "Episode 140 — Spooning"
+        },
+        {
+          "id": "saga1-episode-141-scruples",
+          "title": "Episode 141 — Scruples"
+        },
+        {
+          "id": "saga1-episode-142-fastball",
+          "title": "Episode 142 — Fastball"
+        },
+        {
+          "id": "saga1-live-at-the-egyptian-theatre",
+          "title": "Live at the Egyptian Theatre"
+        },
+        {
+          "id": "saga1-nov-2nd-1-3-slink-johnson-cousin-endo",
+          "title": "Nov 2nd 1 3 Slink Johnson Cousin Endo"
+        },
+        {
+          "id": "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
+          "title": "Nov 2nd 2 3 Slink Endo Spiegler Alina Li Chloe the Virgin"
+        },
+        {
+          "id": "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin",
+          "title": "Nov 2nd 3 3 Bobby Lee Chloe the Virgin"
+        },
+        {
+          "id": "saga2-book-02-chapter-001",
+          "title": "Chapter 001 — The Ranch Solo Series Part IV"
+        },
+        {
+          "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+          "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+        },
+        {
+          "id": "saga2-november-2nd-the-longest-day",
+          "title": "November 2nd the Longest Day"
+        },
+        {
+          "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+          "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+        },
+        {
+          "id": "saga2-saga-02-chapter-002-sardines",
+          "title": "Chapter 002 — Sardines"
+        },
+        {
+          "id": "saga2-saga-02-chapter-003-the-window",
+          "title": "Chapter 003 — The Window"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-005-rude-jude-angelini-jessica-cribbon-and-vivian-kindle",
+          "title": "Chapter 005 — Rude Jude Angelini Jessica Cribbon and Vivian Kindle"
+        },
+        {
+          "id": "saga2-saga-02-chapter-006-standing-69",
+          "title": "Chapter 006 — Standing 69"
+        },
+        {
+          "id": "saga2-saga-02-chapter-008-felt-like-heaven",
+          "title": "Chapter 008 — Felt Like Heaven"
+        },
+        {
+          "id": "saga2-saga-02-chapter-009-torlando",
+          "title": "Chapter 009 — Torlando"
+        },
+        {
+          "id": "saga2-saga-02-chapter-011-dr-dave",
+          "title": "Chapter 011 — Dr Dave"
+        },
+        {
+          "id": "saga2-saga-02-chapter-012-tightey-whiteys",
+          "title": "Chapter 012 — Tightey Whiteys"
+        },
+        {
+          "id": "saga2-saga-02-chapter-013-the-perfect-woman-a-proposition",
+          "title": "Chapter 013 — The Perfect Woman a Proposition"
+        },
+        {
+          "id": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
+          "title": "Chapter 014 — The Redzone Wrestle Trial of Steve Lee"
+        },
+        {
+          "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+          "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+        },
+        {
+          "id": "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern",
+          "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern"
+        },
+        {
+          "id": "saga2-saga-02-chapter-017-mutants-true-love-an-igloo-dong-origin-orgy",
+          "title": "Chapter 017 — Mutants True Love an Igloo Dong Origin Orgy"
+        },
+        {
+          "id": "saga2-saga-02-chapter-018-the-marriage-proposal-the-critter-conundrum",
+          "title": "Chapter 018 — The Marriage Proposal the Critter Conundrum"
+        },
+        {
+          "id": "saga2-saga-02-chapter-019-business-as-usual-a-trannying-day-special",
+          "title": "Chapter 019 — Business As Usual a Trannying Day Special"
+        },
+        {
+          "id": "saga2-saga-02-chapter-020-the-negotiation",
+          "title": "Chapter 020 — The Negotiation"
+        },
+        {
+          "id": "saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode",
+          "title": "Chapter 021 — The Ranch Solo Series #3 — The Lost Episode"
+        },
+        {
+          "id": "saga2-saga-02-chapter-022-a-scrotum-fire-a-bobby-birthday-the-unnuttable",
+          "title": "Chapter 022 — A Scrotum Fire a Bobby Birthday the Unnuttable"
+        },
+        {
+          "id": "saga2-saga-02-chapter-023-in-choe-we-trust",
+          "title": "Chapter 023 — In Choe We Trust"
+        },
+        {
+          "id": "saga2-saga-02-chapter-024-world-whore-z",
+          "title": "Chapter 024 — World Whore Z"
+        },
+        {
+          "id": "saga2-saga-02-chapter-025-american-whoreror-story",
+          "title": "Chapter 025 — American Whoreror Story"
+        },
+        {
+          "id": "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show",
+          "title": "Chapter 026 — The Bobby Trivia Dating Show"
+        },
+        {
+          "id": "saga2-saga-02-chapter-027-fucking-canada",
+          "title": "Chapter 027 — Fucking Canada"
+        },
+        {
+          "id": "saga2-saga-02-chapter-028-new-year-new-you-nuru",
+          "title": "Chapter 028 — New Year New You Nuru"
+        },
+        {
+          "id": "saga2-saga-02-chapter-029-the-sedoner-boner-mushroom-strip",
+          "title": "Chapter 029 — The Sedoner Boner Mushroom Strip"
+        },
+        {
+          "id": "saga2-saga-02-chapter-030-the-trial-of-poon",
+          "title": "Chapter 030 — The Trial of Poon"
+        },
+        {
+          "id": "saga2-saga-02-chapter-10-bane-lee",
+          "title": "Chapter 010 — Bane Lee"
+        },
+        {
+          "id": "vimeo-dirty-hands-laff",
+          "title": "Dirty Hands: The Art and Crimes of David Choe"
+        },
+        {
+          "id": "-I9ut9uikjY",
+          "title": "Inside the Mind of David Choe"
+        },
+        {
+          "id": "-wZk4B1BB0c",
+          "title": "DAVID CHOE Tells Us About Meeting and Interviewing FRANK MILLER...And So Much More!"
+        },
+        {
+          "id": "01HBjlMmqCQ",
+          "title": "Embrace Fearlessness: Art Tutorial"
+        },
+        {
+          "id": "0cp3orVR5lg",
+          "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965"
+        },
+        {
+          "id": "0d9gqEc86-o",
+          "title": "Audition to Healing: A Brave Artistic Journey Through \"The Choe Show\""
+        },
+        {
+          "id": "0mEHuuf5bLw",
+          "title": "HONG GALAXY TRAILER"
+        },
+        {
+          "id": "1DQLpKe3p-E",
+          "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
+        },
+        {
+          "id": "1UA7PnoDiy8",
+          "title": "Your Strength is in Your Weakness | Art Inspiration"
+        },
+        {
+          "id": "1VEq7pdtbHM",
+          "title": "DAVID CHOE :: IN THE STUDIO :: THE HUNDREDS"
+        },
+        {
+          "id": "1YUK34XsNiY",
+          "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
+        },
+        {
+          "id": "1cEPqYMBlXA",
+          "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
+        },
+        {
+          "id": "1x2N5-aYYl4",
+          "title": "David Choe Interview - myFinBec 2013, Graffiti Art & Wine Documentary"
+        },
+        {
+          "id": "2S1kNH59NBk",
+          "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "3AtrUOQcmck",
+          "title": "Slow Jams: The Comics of David Choe"
+        },
+        {
+          "id": "3QecMMrcCCA",
+          "title": "David Choe Shoot Interview"
+        },
+        {
+          "id": "3VsxLsfX1eo",
+          "title": "DAVID CHOE: HIGH RISK (2015) | Official Trailer"
+        },
+        {
+          "id": "3YlN7-9ISBw",
+          "title": "David Choe Diet Magic Story"
+        },
+        {
+          "id": "4FiwPN8M1rM",
+          "title": "David Choe Painting Process"
+        },
+        {
+          "id": "4mPxYY6dL2o",
+          "title": "DVDASA Episode 045 with David Choe and Asa Akira"
+        },
+        {
+          "id": "525yfSuD3TI",
+          "title": "Spraycans to riches: David Choe"
+        },
+        {
+          "id": "5QE3n7QfUZY",
+          "title": "The Trap of Watching Instead of Doing (and How to Escape It)"
+        },
+        {
+          "id": "5iUX02mRsGc",
+          "title": "How I Met David Choe & DVDASA in Vancouver? (The Choe Method)"
+        },
+        {
+          "id": "5s_cO2JCL5Q",
+          "title": "The Choe Show-Embrace Death"
+        },
+        {
+          "id": "6IeVPOLdIEs",
+          "title": "Mangchi"
+        },
+        {
+          "id": "6MIKuySAQTQ",
+          "title": "Embrace the Chaos of Your life | Art Tutorial"
+        },
+        {
+          "id": "6sdmY8WvNlw",
+          "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+        },
+        {
+          "id": "6y7_BT1kLKA",
+          "title": "Tell Me The Truth : Art Tutorial"
+        },
+        {
+          "id": "7NSYJIczwUY",
+          "title": "MANGCHI - REVERSE BIRTHDAY SONG"
+        },
+        {
+          "id": "7S1x4tQ16W0",
+          "title": "Dirty Hands:  The Art & Crimes of David Choe  UnOfficial Trailer"
+        },
+        {
+          "id": "8JmtlRXz7V0",
+          "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+        },
+        {
+          "id": "8VwnzUo98Jc",
+          "title": "How to Draw Your Imagination - Art Tutorial"
+        },
+        {
+          "id": "8WqN0WcYtgQ",
+          "title": "BTS Mangchi Video Shoot"
+        },
+        {
+          "id": "97We1F1yFw4",
+          "title": "Experience Pure Joy: Wake UP and Play"
+        },
+        {
+          "id": "9AzEpY7H5Ac",
+          "title": "Raw Footage - David Choe taking a stroll around Facebook HQ with some paint"
+        },
+        {
+          "id": "AGbJmM2wWjg",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+        },
+        {
+          "id": "AYAAfmzspis",
+          "title": "Dirty Hands The Art & Crimes of David Choe"
+        },
+        {
+          "id": "B4UD01U7pTw",
+          "title": "Watch David Choe Create Magic with Mixed Media"
+        },
+        {
+          "id": "BBArizQhDgk",
+          "title": "Joe Rogan Experience #1965 - David Choe"
+        },
+        {
+          "id": "C3r86q6KhDY",
+          "title": "Life Lessons from David Choe"
+        },
+        {
+          "id": "CF0o5-EOWb4",
+          "title": "The Unofficial Choe Show Trailer on Hulu"
+        },
+        {
+          "id": "CXjukgkB1CY",
+          "title": "Scrape the Poopie Out of Your Soul | Art Technique"
+        },
+        {
+          "id": "C_Rw-0HyJXc",
+          "title": "DVDASA Episode 047 with David Choe and Asa Akira"
+        },
+        {
+          "id": "CnFR15MWKXE",
+          "title": "Get Ready: Thumbs UP Season 4 Trailer"
+        },
+        {
+          "id": "CvHFWwVZKoI",
+          "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+        },
+        {
+          "id": "D-oSpkzPIoQ",
+          "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
+        },
+        {
+          "id": "DInFITDqmkA",
+          "title": "MANGCHI"
+        },
+        {
+          "id": "DMNkQnBl2ao",
+          "title": "Why Artists Stay Stuck — And How to Get Free"
+        },
+        {
+          "id": "FA3orUaXhD4",
+          "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
+        },
+        {
+          "id": "FRrbjiOs4no",
+          "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania"
+        },
+        {
+          "id": "FTW1VapvKNE",
+          "title": "Surprising Collaboration: David Choe's Parents Join Mangchi Vocal Track"
+        },
+        {
+          "id": "FbJRcXuqpqs",
+          "title": "Dirty Hands In SF - Documentary about David Choe"
+        },
+        {
+          "id": "Fj1XP1MgxMQ",
+          "title": "David Choe Meets the Legendary Crenshaw Cowboy"
+        },
+        {
+          "id": "FwXQfRF9h6w",
+          "title": "Igloo Hong Murals with Herbert Baglione and David Choe"
+        },
+        {
+          "id": "G9CTAhKRCTo",
+          "title": "David Choe, El Mac and the Igloo Hong Super Crew Warming Up Before Painting"
+        },
+        {
+          "id": "Ga9f_4K-j8c",
+          "title": "David Choe painting at David Chang's Momofuku Ko restaurant"
+        },
+        {
+          "id": "Gv_yyQBphVs",
+          "title": "Draw Your Soul in Your Underpaintings"
+        },
+        {
+          "id": "H58tyi47qDQ",
+          "title": "Peter LAIRD & David CHOE! Teenage Mutant Ninja Turtles Issue 12! Xeric Award! SLOW JAMZ!"
+        },
+        {
+          "id": "HCQHVHJYQnQ",
+          "title": "DVDASA Episode 036 with David Choe and Asa Akira"
+        },
+        {
+          "id": "HGFe31BC_cU",
+          "title": "Aubrey Plaza's Very Filthy Housewarming Present  of a David Choe Painting given to Conan O' Brien"
+        },
+        {
+          "id": "HQ7GRWWgOGM",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 1/5)"
+        },
+        {
+          "id": "HgG805RV624",
+          "title": "What Lies Beneath Our Masks? | David Choe"
+        },
+        {
+          "id": "HrBhuzHHlhQ",
+          "title": "David Choe's Strange Encounter While Hitchhiking"
+        },
+        {
+          "id": "IA-7LDa5VXY",
+          "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+        },
+        {
+          "id": "IM8oNL2-xIs",
+          "title": "Die Antwoord's Ninja joins David Choe's band Mangchi live on stage for the encore"
+        },
+        {
+          "id": "ISxnJeQ7LdI",
+          "title": "DAVID CHOE Guest Hosts to Unpack TODD McFARLANE's G.I. JOE Comic. Why Did Todd Get Fired?"
+        },
+        {
+          "id": "IliUj9gs7oA",
+          "title": "Comfort is the Killer of Creativity"
+        },
+        {
+          "id": "JNXjG8n4pzE",
+          "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience"
+        },
+        {
+          "id": "JZ6wY3dgxdg",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+        },
+        {
+          "id": "K82jh4XbjCg",
+          "title": "Paint Honestly to Improve Your Art"
+        },
+        {
+          "id": "KOfsocdybBw",
+          "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+        },
+        {
+          "id": "KPnyiFx2O0w",
+          "title": "The SteeBeeWeeBee Show ft David Choe Pt2 A Day In The Life Of Steve Lee 2.0"
+        },
+        {
+          "id": "Kom2FTRT8_Y",
+          "title": "How to Stay Optimistic in a Chaotic World"
+        },
+        {
+          "id": "KzXyZrCEp_o",
+          "title": "Fighting Depression With Thai Snacks and Art"
+        },
+        {
+          "id": "LDZ4edDbcrU",
+          "title": "Barbara Walters x David Choe"
+        },
+        {
+          "id": "LcnoUWEscUY",
+          "title": "Ninja of Die Antwoord, Crowd Surfing at Mangchi Live Show at Elbo Room in San Francisco"
+        },
+        {
+          "id": "LdqB8988S2U",
+          "title": "DVDASA Episode 032 with David Choe and Asa Akira"
+        },
+        {
+          "id": "LzRWHncgel4",
+          "title": "Discover David Choe's Sketching Techniques"
+        },
+        {
+          "id": "MP7SF5dVp70",
+          "title": "\"Gunk Boi\" - MANGCHI"
+        },
+        {
+          "id": "M_jPqv3NvUI",
+          "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
+        },
+        {
+          "id": "MfvXUQOvMIA",
+          "title": "David Choe's Controversial Opinion on Star Wars"
+        },
+        {
+          "id": "MzfWgBgqBPs",
+          "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience"
+        },
+        {
+          "id": "NAMDDNKNlxQ",
+          "title": "David choe's experience on baboon hunting"
+        },
+        {
+          "id": "O3e1iZowlv8",
+          "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+        },
+        {
+          "id": "OP1mXscTUnw",
+          "title": "David Choe | KQED Spark"
+        },
+        {
+          "id": "OuuSC5xoKVk",
+          "title": "DVDASA Episode 046 with David Choe and Asa Akira"
+        },
+        {
+          "id": "PB79YeJ5Rkg",
+          "title": "David Choe Presents: The Halloween Kid 🎃 | Monsters, Paint & Magic with Rhode Montijo"
+        },
+        {
+          "id": "QO3-AAVTeDA",
+          "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+        },
+        {
+          "id": "QfV665kWoSg",
+          "title": "ZUCK 1 x DAVID CHOE"
+        },
+        {
+          "id": "QpCd4BetnoQ",
+          "title": "Remembering Anthony Bourdain"
+        },
+        {
+          "id": "SpxBrXI9CjQ",
+          "title": "David Choe Asks For a Billon Dollars"
+        },
+        {
+          "id": "StlQDvxDtq0",
+          "title": "David Choe Explains BTS 4X to Munkos"
+        },
+        {
+          "id": "Sv4ROnb1XMw",
+          "title": "ZUCK ONE painting with David Choe at Facebook HQ Menlo Park"
+        },
+        {
+          "id": "T-632m9gwso",
+          "title": "The Problem is You Suck"
+        },
+        {
+          "id": "T5Bc_q5FHCQ",
+          "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+        },
+        {
+          "id": "TBUXC2lXvCE",
+          "title": "Why Artists Don’t Grow, And How to Let Go"
+        },
+        {
+          "id": "TRex0Edzz1w",
+          "title": "How I Use My Deepest Wounds to Fuel My Art"
+        },
+        {
+          "id": "TaQ3VbsmNLk",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 4/5)"
+        },
+        {
+          "id": "TtSqnfVygRU",
+          "title": "Saber and David Choe November 2nd Flower Shop"
+        },
+        {
+          "id": "TzEI4nsKhx4",
+          "title": "Watch David Choe Create a Masterpiece in the Facebook Offices - Unbelievable Super 8 Footage!"
+        },
+        {
+          "id": "U4zj1Jb15CE",
+          "title": "Jeff Probst Wants David Choe On SURVIVOR | Joe Rogan | JRE 1965"
+        },
+        {
+          "id": "U5CaU1n-_Lk",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 3/4)"
+        },
+        {
+          "id": "U9RG_RBqyOM",
+          "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
+        },
+        {
+          "id": "UZ7-frVitVc",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
+        },
+        {
+          "id": "Ut-wqAw8kGo",
+          "title": "David Choe Drum Solo at North Korean Restaurant in Dubai"
+        },
+        {
+          "id": "V9v_LJewjLY",
+          "title": "Overcoming Self-Judgment: The Path to Happiness"
+        },
+        {
+          "id": "VBM7yBrWaVg",
+          "title": "Secrets of The Choe Show Revealed"
+        },
+        {
+          "id": "V_v5tS3WRQ8",
+          "title": "Why David Choe Stopped Playing Life Like a Video Game"
+        },
+        {
+          "id": "VucJLf8Jbn0",
+          "title": "Painting in the Facebook Offices with David Choe"
+        },
+        {
+          "id": "W-I6eXxXfIE",
+          "title": "After 1000 Rejections, I Learned This..."
+        },
+        {
+          "id": "WjVbmnTZqf4",
+          "title": "David Choe Talks About Placebo Effect, Faith, and the Power of the Mind-Body Connection"
+        },
+        {
+          "id": "Wm3yHxczebw",
+          "title": "Fine Art is Overrated: Art Tutorial"
+        },
+        {
+          "id": "WuufP8mTmd8",
+          "title": "David Choe presents: Marvel Comics' Best, Most Hardcore, Violent, Outlaw Slobberknocker Fight Scene!"
+        },
+        {
+          "id": "X0z3caRdZTg",
+          "title": "David Choe Made Millions From Facebook | Wild Ride! Clips"
+        },
+        {
+          "id": "XS6awjpIimw",
+          "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+        },
+        {
+          "id": "XhlobuaR2RY",
+          "title": "Fashion District Adventures With David Choe: From Ninjas to Road Rage"
+        },
+        {
+          "id": "Xo6Hj9hw96I",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+        },
+        {
+          "id": "YOiHuk2iUpA",
+          "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever"
+        },
+        {
+          "id": "YWoHetKeERc",
+          "title": "David Choe animation sketch"
+        },
+        {
+          "id": "YeJxJKG3DY8",
+          "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "Yknrg-63674",
+          "title": "Hitchhiking Across America with David Choe (Full Documentary)"
+        },
+        {
+          "id": "Z1fihPegvyk",
+          "title": "Leaning Into Discomfort to Unlock True Artistic Expression-David Choe"
+        },
+        {
+          "id": "ZcaWMy_b9Ns",
+          "title": "David Choe Painting at Good Smile Factory in Japan"
+        },
+        {
+          "id": "_-b2tXazWKs",
+          "title": "DAVID CHOE - HOW TO SUCCEED CREATIVELY"
+        },
+        {
+          "id": "_Azb3sploI0",
+          "title": "MANGCHI - I love you"
+        },
+        {
+          "id": "_IW6hQQdNys",
+          "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience"
+        },
+        {
+          "id": "_KraKw_XXSk",
+          "title": "How I learned to be Grateful"
+        },
+        {
+          "id": "_UXD0KqyBko",
+          "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
+        },
+        {
+          "id": "_XQN0SYz5Oc",
+          "title": "I Want You to Know the Real Val Kilmer"
+        },
+        {
+          "id": "_ZTwIgTkoHw",
+          "title": "Creating with David Choe: Live Art Tutorial"
+        },
+        {
+          "id": "_el5VzDisPo",
+          "title": "David Choe Catfished Adrian Tomine and the Letter Was Printed in Optic Nerve."
+        },
+        {
+          "id": "aJME3ZTtJBE",
+          "title": "Dirty Hands: The Art And Crimes of David Choe - Official Trailer"
+        },
+        {
+          "id": "aPzKoSLopmc",
+          "title": "David choe asmr live"
+        },
+        {
+          "id": "aXa4t8UGTOc",
+          "title": "MANGCHI - The Best"
+        },
+        {
+          "id": "ajJANkFVR3o",
+          "title": "David Choe and Joe Rogan Discuss the Revolutionary Work of Rick Doblin"
+        },
+        {
+          "id": "amdLmZ5gO6w",
+          "title": "Don't Ruin Your Life, Just for Today"
+        },
+        {
+          "id": "amjgbcrHUG0",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+        },
+        {
+          "id": "amm2xIGAE1U",
+          "title": "How to Draw Hair: Art Tutorial"
+        },
+        {
+          "id": "awmakgVOgs0",
+          "title": "Unveiling the Secrets of Mocktails and Mockumentaries with David Choe"
+        },
+        {
+          "id": "bRnQXElR0xE",
+          "title": "\"What Is Unique In Your Head?\" with David Choe (from Joe Rogan Experience #563)"
+        },
+        {
+          "id": "bxqo4zQWNA0",
+          "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial"
+        },
+        {
+          "id": "cGENqgCM_hI",
+          "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie"
+        },
+        {
+          "id": "cMcZRCgKgj4",
+          "title": "DVDASA Episode 048 with David Choe and Asa Akira"
+        },
+        {
+          "id": "cOJtx8kDN-Y",
+          "title": "David Choe's Art Chaos: Embrace Mistakes & Joy in Creative Exploration"
+        },
+        {
+          "id": "cifhF0mCouA",
+          "title": "Make Art Out of Curiosity not Fear | Art Tutorial"
+        },
+        {
+          "id": "cq3QBKbHUro",
+          "title": "How to Overcome Creative Blocks and Fuel Inspiration"
+        },
+        {
+          "id": "d5qA2KUiSws",
+          "title": "How Can You Be Creative If You Don't Know Who You Are?"
+        },
+        {
+          "id": "eOtkM7egpnM",
+          "title": "David Choe Painting a Mural at the Good Smile Factory in Japan #davidchoe #goodsmilecompany"
+        },
+        {
+          "id": "g0SDGfXVzpc",
+          "title": "George Wasn't Invited To The Choe Show"
+        },
+        {
+          "id": "g1G_6-km8sU",
+          "title": "DVDASA Episode 044 with David Choe and Asa Akira"
+        },
+        {
+          "id": "gM1ziiiZTHM",
+          "title": "The rise and fall of david choe a story of art, crime, and comedy"
+        },
+        {
+          "id": "g_DH54kIw54",
+          "title": "Discovering Authenticity: Unmasking the Layers"
+        },
+        {
+          "id": "h12NAoaCY5k",
+          "title": "DVDASA Episode 041 with David Choe and Asa Akira"
+        },
+        {
+          "id": "h4fE_LwuTC0",
+          "title": "Missed Opportunities A Story Explaining How David Choe Almost Was the Drummer of the Band Crazy Town"
+        },
+        {
+          "id": "h9ODc_M8iXU",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 5/5)"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "i06A3F4XkEc",
+          "title": "Exclusive! Eastman and Laird Commentary on Their Most Popular Issue of TMNT. David Choe Cohosts!"
+        },
+        {
+          "id": "i8cDwucTSbo",
+          "title": "Joe Rogan Experience #392 - David Choe"
+        },
+        {
+          "id": "ieBa-DrOj5A",
+          "title": "David Choe and Steven Yeun Finally Get Bobby Lee's Official Picture on the Wall at Parks BBQ"
+        },
+        {
+          "id": "iwWlZJ_EsvE",
+          "title": "How to Draw an Awesome Cityscape: Art Tutorial"
+        },
+        {
+          "id": "iyq1B-TJgOs",
+          "title": "David Choe and Hebert Baglione Painting in Brazil"
+        },
+        {
+          "id": "j442p8oHugE",
+          "title": "This Simple Technique Changed Everything"
+        },
+        {
+          "id": "j7T6__UbhBI",
+          "title": "Joe Rogan Experience #1518 - David Choe"
+        },
+        {
+          "id": "jWMi6WOa56k",
+          "title": "The Last Dinosaur of the Congo with David Choe"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        },
+        {
+          "id": "kHJHdCnGnvA",
+          "title": "David Choe Norway"
+        },
+        {
+          "id": "kdIZ-X0dbM4",
+          "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+        },
+        {
+          "id": "ksa76m5HHfk",
+          "title": "Unlocking Life's Algorithm with David Choe: Art, Insight & Survival"
+        },
+        {
+          "id": "lcbK5KRKDrs",
+          "title": "David Choe Explores the Imperfect Perfection of Michael Mann’s Heat"
+        },
+        {
+          "id": "lqmqqvFV7Ec",
+          "title": "Walrus TV Artist Feature:  David Choe Interview from \"Dithers\""
+        },
+        {
+          "id": "m-5ofpeuOYc",
+          "title": "Mangchi Hammer Live"
+        },
+        {
+          "id": "mB3oDYYlcF0",
+          "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
+        },
+        {
+          "id": "mGo88FJE4q0",
+          "title": "A Guide to Painting Through Pain"
+        },
+        {
+          "id": "mOj5JGBZ4dM",
+          "title": "David Choe's crazy massage story (JRE #392)"
+        },
+        {
+          "id": "mUsyh416654",
+          "title": "Mangchi Video featuring Steve Lee"
+        },
+        {
+          "id": "m_F5oZG0s58",
+          "title": "David Choe's Red Rope massage story (JRE #392)"
+        },
+        {
+          "id": "md5ah3l5BgE",
+          "title": "Old Boyz (Short Film) | with Bobby Lee and David Choe"
+        },
+        {
+          "id": "mw6E0N8PZEM",
+          "title": "The Choe Show - Happy VS. Sad"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        },
+        {
+          "id": "nJ0MUrJYcOM",
+          "title": "How to Draw the Unexpected: Art Tutorial With David Choe"
+        },
+        {
+          "id": "nSWSXRUm3l8",
+          "title": "David Choe's Gambling Strategy"
+        },
+        {
+          "id": "oFliGQNTC1c",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
+        },
+        {
+          "id": "oRWi-tZyotE",
+          "title": "Is David Choe Hiding Podcast Where He Talked About Assault?"
+        },
+        {
+          "id": "p2E_8DhelKQ",
+          "title": "David Choe's Incredible & Unexpected Connection Made During Thumbs Up Season 4"
+        },
+        {
+          "id": "p8qTCVYUiwI",
+          "title": "How to Paint a Colorful Year in 72 Hours—Art Tutorial"
+        },
+        {
+          "id": "pknJx79BV7o",
+          "title": "Choe Show Trailer on Hulu"
+        },
+        {
+          "id": "pw_HXGxrJ9s",
+          "title": "You Were Really Never Here - Joaquin Phoenix X David Choe"
+        },
+        {
+          "id": "qL2vDGvysD0",
+          "title": "David Choe Had Art Lessons With The Hadza Tribe | Joe Rogan Experience"
+        },
+        {
+          "id": "qVPlWFKUBCI",
+          "title": "David Choe Remembers the Death of Anthony Bourdain"
+        },
+        {
+          "id": "qs1yRqLkRm4",
+          "title": "These Are My People - MANGCHI"
+        },
+        {
+          "id": "rN5_qjTyu8M",
+          "title": "Artist David Choe Was Hooked on \"Warcraft 2\""
+        },
+        {
+          "id": "r_erL0rlywQ",
+          "title": "Mangchi animation by Scorpion Dagger and David Choe"
+        },
+        {
+          "id": "reW-p9ds4g4",
+          "title": "David Choe - Steve-O's Wild Ride! Ep #80"
+        },
+        {
+          "id": "spAebvaG-VE",
+          "title": "Watch RZA and David Choe Collide in This Unexpected Jam Session!"
+        },
+        {
+          "id": "tKTL30a-DS4",
+          "title": "David Choe LOVES Being Gay | Joe Rogan | JRE 1965"
+        },
+        {
+          "id": "tP5OmbOXWBc",
+          "title": "DAVID CHOE Visits Cartoonist Kayfabe to Break Open KEVIN EASTMAN's Classic RAPHAEL Comic."
+        },
+        {
+          "id": "tk923yF0TXA",
+          "title": "David Choe Returns to Cartoonist Kayfabe!"
+        },
+        {
+          "id": "u2V3qYnhf3U",
+          "title": "The Choe Show Trailer"
+        },
+        {
+          "id": "u5sqxKpVJYw",
+          "title": "Beef Actor David Choe/Isaac Explains How he raped black woman! Gets cancelled together with Ali Wong"
+        },
+        {
+          "id": "uJXhtxBl3OM",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+        },
+        {
+          "id": "uOf3CdFjXg4",
+          "title": "Bunny Ears Podcast Episode 24 - David Choe"
+        },
+        {
+          "id": "uVgbqMzYRIg",
+          "title": "Mangchi @ San Jose 5-26-2015 - David Choe, Dylan, DJ Cutso - Drum Scratch Jam Intro"
+        },
+        {
+          "id": "vDo1yCwzzxg",
+          "title": "How to Make the Best Underpainting of a Canvas | Art Tutorial"
+        },
+        {
+          "id": "vEL0l0Nlmh8",
+          "title": "David Choe: It All Adds Up"
+        },
+        {
+          "id": "vTaS3XK3rgI",
+          "title": "The Degenerate Mind of David Choe | Mini Documentary"
+        },
+        {
+          "id": "ve6W8gFmNQQ",
+          "title": "The Cooking Choe Starring David Choe and Harry Kim Aka Guam Cruise"
+        },
+        {
+          "id": "vhbVKIwLiSQ",
+          "title": "David Choe Star Wars Fan Fiction, Reaction and Review-Episode 1: Crispy & Chewie - Chewbacca edition"
+        },
+        {
+          "id": "w3vRQZbmLyw",
+          "title": "David Choe Painting in the Philippines 🇵🇭 "
+        },
+        {
+          "id": "w5gzmdRViAY",
+          "title": "\"Beef\" actor David Choe's rape comments resurface"
+        },
+        {
+          "id": "wC3vettgNB0",
+          "title": "DVDASA Episode 043 with David Choe and Asa Akira"
+        },
+        {
+          "id": "wK3xCI1VF-g",
+          "title": "ORIGINAL ART SHOW AND TELL with David Choe"
+        },
+        {
+          "id": "wb34YLBpxcU",
+          "title": "BATMAN surrenders to LOVE"
+        },
+        {
+          "id": "wcMNw16dQKo",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
+        },
+        {
+          "id": "x0o0pC5mJfI",
+          "title": "008 DVDASA Recap Show- With SciFiReuben"
+        },
+        {
+          "id": "x5jTxz_n2yo",
+          "title": "Thumbs Up Season 5 TEASER (Philippines, Manila, Siargao)"
+        },
+        {
+          "id": "xANsVQ33p4Q",
+          "title": "Kevin Smith Interview (2015) | David Choe: High Risk [HD] | Documentary"
+        },
+        {
+          "id": "xS7wfeeeM8I",
+          "title": "David Choe"
+        },
+        {
+          "id": "xXDZOnvqyQg",
+          "title": "David Choe | It All Starts With A Bat"
+        },
+        {
+          "id": "yFFUaDk29pA",
+          "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+        },
+        {
+          "id": "yMw73rpJPRA",
+          "title": "Whales and Orgies | David Choe, Early Years"
+        },
+        {
+          "id": "yWAYOdJVY_o",
+          "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
+        },
+        {
+          "id": "yfBr58eH6ls",
+          "title": "The Choe Show-Healing"
+        },
+        {
+          "id": "yz_qrtjMONo",
+          "title": "Turn Your Feelings into Art | Art Tutorial"
+        },
+        {
+          "id": "z-4TXv6GC18",
+          "title": "The Most Important Choe Show Interview"
+        },
+        {
+          "id": "zHyvVajsqMw",
+          "title": "Transform Pain & Trauma Into Creative Expression | David Choe"
+        },
+        {
+          "id": "zSuvEkr6TY0",
+          "title": "Art lessons with David Choe"
+        },
+        {
+          "id": "zgBjoRMyp1Y",
+          "title": "Thumbs UP Season 4 Trailer"
+        },
+        {
+          "id": "zmvu9oUDi7I",
+          "title": "Herbert Baglione and David Choe in Rio, Brazil"
+        }
+      ]
+    },
+    {
+      "name": "Asa Akira",
+      "route_count": 96,
+      "role": "DVDASA co-host, author, performer, and frequent countervoice",
+      "note": "She often supplies the clearest boundary, production, relationship, and adult-work distinctions in the room.",
+      "routes": [
+        {
+          "id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
+          "title": "At Comic Con 2013"
+        },
+        {
+          "id": "saga1-episode-001-with-david-choe-and-asa-akira",
+          "title": "Episode 001"
+        },
+        {
+          "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+          "title": "Episode 002"
+        },
+        {
+          "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+          "title": "Episode 003"
+        },
+        {
+          "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+          "title": "Episode 004"
+        },
+        {
+          "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+          "title": "Episode 005"
+        },
+        {
+          "id": "saga1-episode-006-with-david-choe-and-asa-akira",
+          "title": "Episode 006"
+        },
+        {
+          "id": "saga1-episode-007-with-david-choe-and-asa-akira",
+          "title": "Episode 007"
+        },
+        {
+          "id": "saga1-episode-008-with-david-choe-and-asa-akira",
+          "title": "Episode 008"
+        },
+        {
+          "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+          "title": "Episode 009"
+        },
+        {
+          "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+          "title": "Episode 010"
+        },
+        {
+          "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+          "title": "Episode 011"
+        },
+        {
+          "id": "saga1-episode-012-with-david-choe-and-asa-akira",
+          "title": "Episode 012"
+        },
+        {
+          "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+          "title": "Episode 013"
+        },
+        {
+          "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+          "title": "Episode 014"
+        },
+        {
+          "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+          "title": "Episode 015"
+        },
+        {
+          "id": "saga1-episode-016-with-david-choe-and-asa-akira",
+          "title": "Episode 016"
+        },
+        {
+          "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+          "title": "Episode 017"
+        },
+        {
+          "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+          "title": "Episode 018"
+        },
+        {
+          "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+          "title": "Episode 019"
+        },
+        {
+          "id": "saga1-episode-020-with-david-choe-and-asa-akira",
+          "title": "Episode 020"
+        },
+        {
+          "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+          "title": "Episode 021"
+        },
+        {
+          "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+          "title": "Episode 022"
+        },
+        {
+          "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+          "title": "Episode 023"
+        },
+        {
+          "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+          "title": "Episode 024"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+          "title": "Episode 027"
+        },
+        {
+          "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+          "title": "Episode 028"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-032-with-david-choe-and-asa-akira",
+          "title": "Episode 032"
+        },
+        {
+          "id": "saga1-episode-033-with-david-choe-and-asa-akira",
+          "title": "Episode 033"
+        },
+        {
+          "id": "saga1-episode-034-with-david-choe-and-asa-akira",
+          "title": "Episode 034"
+        },
+        {
+          "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+          "title": "Episode 035"
+        },
+        {
+          "id": "saga1-episode-036-with-david-choe-and-asa-akira",
+          "title": "Episode 036"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "saga1-episode-038-with-david-choe-and-asa-akira",
+          "title": "Episode 038"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-040-with-david-choe-and-asa-akira",
+          "title": "Episode 040"
+        },
+        {
+          "id": "saga1-episode-041-with-david-choe-and-asa-akira",
+          "title": "Episode 041"
+        },
+        {
+          "id": "saga1-episode-042-with-david-choe-and-asa-akira",
+          "title": "Episode 042"
+        },
+        {
+          "id": "saga1-episode-043-with-david-choe-and-asa-akira",
+          "title": "Episode 043"
+        },
+        {
+          "id": "saga1-episode-045-with-david-choe-and-asa-akira",
+          "title": "Episode 045"
+        },
+        {
+          "id": "saga1-episode-047-with-david-choe-and-asa-akira",
+          "title": "Episode 047"
+        },
+        {
+          "id": "saga1-episode-053-kevin-smith",
+          "title": "Episode 053 — Kevin Smith"
+        },
+        {
+          "id": "saga1-episode-056-intentional-discomfort",
+          "title": "Episode 056 — Intentional Discomfort"
+        },
+        {
+          "id": "saga1-episode-077-locker-room-talk",
+          "title": "Episode 077 — Locker Room Talk"
+        },
+        {
+          "id": "saga1-episode-084-ask-asa-pooner-heather-phone-sex",
+          "title": "Episode 084 — Ask Asa Pooner Heather Phone Sex"
+        },
+        {
+          "id": "saga1-episode-091-insatiable-2-commentary",
+          "title": "Episode 091 — Insatiable 2 Commentary"
+        },
+        {
+          "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+          "title": "Episode 101 — The Ranch Solo Series Part I"
+        },
+        {
+          "id": "saga1-episode-103-parental-relations",
+          "title": "Episode 103 — Parental Relations"
+        },
+        {
+          "id": "saga1-episode-110-the-fake-male-orgasm",
+          "title": "Episode 110 — The Fake Male Orgasm"
+        },
+        {
+          "id": "saga1-episode-111-mom-s-wand",
+          "title": "Episode 111 — Mom S Wand"
+        },
+        {
+          "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+          "title": "Episode 119 — The Ranch Solo Series Part II"
+        },
+        {
+          "id": "saga1-episode-122-time-travel",
+          "title": "Episode 122 — Time Travel"
+        },
+        {
+          "id": "saga1-episode-123-do-you-want-some-pizza",
+          "title": "Episode 123 — Do You Want Some Pizza"
+        },
+        {
+          "id": "saga1-episode-127-with-david-choe-and-asa-akira",
+          "title": "Episode 127"
+        },
+        {
+          "id": "saga1-episode-129-four-caballeros",
+          "title": "Episode 129 — Four Caballeros"
+        },
+        {
+          "id": "saga1-episode-131-dave-in-love-part-one",
+          "title": "Episode 131 — Dave in Love Part I"
+        },
+        {
+          "id": "saga1-episode-135-eleven-seconds",
+          "title": "Episode 135 — Eleven Seconds"
+        },
+        {
+          "id": "saga1-episode-136-irresistible",
+          "title": "Episode 136 — Irresistible"
+        },
+        {
+          "id": "saga1-episode-141-scruples",
+          "title": "Episode 141 — Scruples"
+        },
+        {
+          "id": "saga1-live-at-the-egyptian-theatre",
+          "title": "Live at the Egyptian Theatre"
+        },
+        {
+          "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+          "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+        },
+        {
+          "id": "saga2-november-2nd-the-longest-day",
+          "title": "November 2nd the Longest Day"
+        },
+        {
+          "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+          "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+        },
+        {
+          "id": "saga2-saga-02-chapter-002-sardines",
+          "title": "Chapter 002 — Sardines"
+        },
+        {
+          "id": "saga2-saga-02-chapter-003-the-window",
+          "title": "Chapter 003 — The Window"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-006-standing-69",
+          "title": "Chapter 006 — Standing 69"
+        },
+        {
+          "id": "saga2-saga-02-chapter-008-felt-like-heaven",
+          "title": "Chapter 008 — Felt Like Heaven"
+        },
+        {
+          "id": "saga2-saga-02-chapter-011-dr-dave",
+          "title": "Chapter 011 — Dr Dave"
+        },
+        {
+          "id": "saga2-saga-02-chapter-012-tightey-whiteys",
+          "title": "Chapter 012 — Tightey Whiteys"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "4mPxYY6dL2o",
+          "title": "DVDASA Episode 045 with David Choe and Asa Akira"
+        },
+        {
+          "id": "6sdmY8WvNlw",
+          "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+        },
+        {
+          "id": "C_Rw-0HyJXc",
+          "title": "DVDASA Episode 047 with David Choe and Asa Akira"
+        },
+        {
+          "id": "HCQHVHJYQnQ",
+          "title": "DVDASA Episode 036 with David Choe and Asa Akira"
+        },
+        {
+          "id": "IA-7LDa5VXY",
+          "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+        },
+        {
+          "id": "LdqB8988S2U",
+          "title": "DVDASA Episode 032 with David Choe and Asa Akira"
+        },
+        {
+          "id": "OuuSC5xoKVk",
+          "title": "DVDASA Episode 046 with David Choe and Asa Akira"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "amjgbcrHUG0",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+        },
+        {
+          "id": "cMcZRCgKgj4",
+          "title": "DVDASA Episode 048 with David Choe and Asa Akira"
+        },
+        {
+          "id": "g1G_6-km8sU",
+          "title": "DVDASA Episode 044 with David Choe and Asa Akira"
+        },
+        {
+          "id": "h12NAoaCY5k",
+          "title": "DVDASA Episode 041 with David Choe and Asa Akira"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "i8cDwucTSbo",
+          "title": "Joe Rogan Experience #392 - David Choe"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        },
+        {
+          "id": "tk923yF0TXA",
+          "title": "David Choe Returns to Cartoonist Kayfabe!"
+        },
+        {
+          "id": "uJXhtxBl3OM",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+        },
+        {
+          "id": "wC3vettgNB0",
+          "title": "DVDASA Episode 043 with David Choe and Asa Akira"
+        },
+        {
+          "id": "x0o0pC5mJfI",
+          "title": "008 DVDASA Recap Show- With SciFiReuben"
+        }
+      ]
+    },
+    {
+      "name": "Critter Fleming",
+      "route_count": 75,
+      "role": "friend, assistant, producer, cast member, and informal caretaker",
+      "note": "His changing labor and friendship position makes the show’s blurred workplace structure visible.",
+      "routes": [
+        {
+          "id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
+          "title": "At Comic Con 2013"
+        },
+        {
+          "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+          "title": "Episode 010"
+        },
+        {
+          "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+          "title": "Episode 011"
+        },
+        {
+          "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+          "title": "Episode 013"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+          "title": "Episode 027"
+        },
+        {
+          "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+          "title": "Episode 028"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-032-with-david-choe-and-asa-akira",
+          "title": "Episode 032"
+        },
+        {
+          "id": "saga1-episode-033-with-david-choe-and-asa-akira",
+          "title": "Episode 033"
+        },
+        {
+          "id": "saga1-episode-034-with-david-choe-and-asa-akira",
+          "title": "Episode 034"
+        },
+        {
+          "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+          "title": "Episode 035"
+        },
+        {
+          "id": "saga1-episode-036-with-david-choe-and-asa-akira",
+          "title": "Episode 036"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "saga1-episode-038-with-david-choe-and-asa-akira",
+          "title": "Episode 038"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-040-with-david-choe-and-asa-akira",
+          "title": "Episode 040"
+        },
+        {
+          "id": "saga1-episode-042-with-david-choe-and-asa-akira",
+          "title": "Episode 042"
+        },
+        {
+          "id": "saga1-episode-043-with-david-choe-and-asa-akira",
+          "title": "Episode 043"
+        },
+        {
+          "id": "saga1-episode-044-with-david-choe-and-asa-akira",
+          "title": "Episode 044"
+        },
+        {
+          "id": "saga1-episode-045-with-david-choe-and-asa-akira",
+          "title": "Episode 045"
+        },
+        {
+          "id": "saga1-episode-047-with-david-choe-and-asa-akira",
+          "title": "Episode 047"
+        },
+        {
+          "id": "saga1-episode-050-with-david-choe-and-asa-akira",
+          "title": "Episode 050"
+        },
+        {
+          "id": "saga1-episode-053-kevin-smith",
+          "title": "Episode 053 — Kevin Smith"
+        },
+        {
+          "id": "saga1-episode-055-bobby-s-announcement",
+          "title": "Episode 055 — Bobby S Announcement"
+        },
+        {
+          "id": "saga1-episode-057-never-been-dumped-n-b-d",
+          "title": "Episode 057 — Never Been Dumped N B D"
+        },
+        {
+          "id": "saga1-episode-058-the-reporter",
+          "title": "Episode 058 — The Reporter"
+        },
+        {
+          "id": "saga1-episode-059-body-modifications-sports",
+          "title": "Episode 059 — Body Modifications Sports"
+        },
+        {
+          "id": "saga1-episode-060-david-arquette",
+          "title": "Episode 060 — David Arquette"
+        },
+        {
+          "id": "saga1-episode-072-bobby-lee-valentin-s-birthday",
+          "title": "Episode 072 — Bobby Lee Valentin S Birthday"
+        },
+        {
+          "id": "saga1-episode-076-the-red-zone-with-steve-lee",
+          "title": "Episode 076 — The Red Zone with Steve Lee"
+        },
+        {
+          "id": "saga1-episode-099-pack-hunting",
+          "title": "Episode 099 — Pack Hunting"
+        },
+        {
+          "id": "saga1-episode-111-mom-s-wand",
+          "title": "Episode 111 — Mom S Wand"
+        },
+        {
+          "id": "saga1-episode-112-pink-pussy",
+          "title": "Episode 112 — Pink Pussy"
+        },
+        {
+          "id": "saga1-episode-114-vegas-part-02",
+          "title": "Episode 114 — Vegas Part 02"
+        },
+        {
+          "id": "saga1-episode-116-vegas-part-04-the-poon-poon-report",
+          "title": "Episode 116 — Vegas Part 04 the Poon Poon Report"
+        },
+        {
+          "id": "saga1-episode-117-vegas-part-05-no-newdes",
+          "title": "Episode 117 — Vegas Part 05 No Newdes"
+        },
+        {
+          "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+          "title": "Episode 119 — The Ranch Solo Series Part II"
+        },
+        {
+          "id": "saga1-episode-120-bro-show",
+          "title": "Episode 120 — Bro Show"
+        },
+        {
+          "id": "saga1-episode-127-with-david-choe-and-asa-akira",
+          "title": "Episode 127"
+        },
+        {
+          "id": "saga1-episode-128-hawaii-happiness-symposium-part-2-with-jane-choe",
+          "title": "Episode 128 — Hawaii Happiness Symposium Part II with Jane Choe"
+        },
+        {
+          "id": "saga1-episode-130-beyond-your-five-senses",
+          "title": "Episode 130 — Beyond Your Five Senses"
+        },
+        {
+          "id": "saga1-episode-131-dave-in-love-part-one",
+          "title": "Episode 131 — Dave in Love Part I"
+        },
+        {
+          "id": "saga1-episode-133-horny-in-your-heart",
+          "title": "Episode 133 — Horny in Your Heart"
+        },
+        {
+          "id": "saga1-episode-134-don-t-touch-me-there",
+          "title": "Episode 134 — Don T Touch Me There"
+        },
+        {
+          "id": "saga1-episode-135-eleven-seconds",
+          "title": "Episode 135 — Eleven Seconds"
+        },
+        {
+          "id": "saga1-live-at-the-egyptian-theatre",
+          "title": "Live at the Egyptian Theatre"
+        },
+        {
+          "id": "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
+          "title": "Nov 2nd 2 3 Slink Endo Spiegler Alina Li Chloe the Virgin"
+        },
+        {
+          "id": "saga2-november-2nd-the-longest-day",
+          "title": "November 2nd the Longest Day"
+        },
+        {
+          "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+          "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-005-rude-jude-angelini-jessica-cribbon-and-vivian-kindle",
+          "title": "Chapter 005 — Rude Jude Angelini Jessica Cribbon and Vivian Kindle"
+        },
+        {
+          "id": "saga2-saga-02-chapter-006-standing-69",
+          "title": "Chapter 006 — Standing 69"
+        },
+        {
+          "id": "saga2-saga-02-chapter-008-felt-like-heaven",
+          "title": "Chapter 008 — Felt Like Heaven"
+        },
+        {
+          "id": "saga2-saga-02-chapter-009-torlando",
+          "title": "Chapter 009 — Torlando"
+        },
+        {
+          "id": "saga2-saga-02-chapter-011-dr-dave",
+          "title": "Chapter 011 — Dr Dave"
+        },
+        {
+          "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+          "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+        },
+        {
+          "id": "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern",
+          "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern"
+        },
+        {
+          "id": "saga2-saga-02-chapter-018-the-marriage-proposal-the-critter-conundrum",
+          "title": "Chapter 018 — The Marriage Proposal the Critter Conundrum"
+        },
+        {
+          "id": "saga2-saga-02-chapter-023-in-choe-we-trust",
+          "title": "Chapter 023 — In Choe We Trust"
+        },
+        {
+          "id": "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show",
+          "title": "Chapter 026 — The Bobby Trivia Dating Show"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "4mPxYY6dL2o",
+          "title": "DVDASA Episode 045 with David Choe and Asa Akira"
+        },
+        {
+          "id": "C_Rw-0HyJXc",
+          "title": "DVDASA Episode 047 with David Choe and Asa Akira"
+        },
+        {
+          "id": "HCQHVHJYQnQ",
+          "title": "DVDASA Episode 036 with David Choe and Asa Akira"
+        },
+        {
+          "id": "IA-7LDa5VXY",
+          "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+        },
+        {
+          "id": "LdqB8988S2U",
+          "title": "DVDASA Episode 032 with David Choe and Asa Akira"
+        },
+        {
+          "id": "T5Bc_q5FHCQ",
+          "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "g1G_6-km8sU",
+          "title": "DVDASA Episode 044 with David Choe and Asa Akira"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        },
+        {
+          "id": "wC3vettgNB0",
+          "title": "DVDASA Episode 043 with David Choe and Asa Akira"
+        }
+      ]
+    },
+    {
+      "name": "Bobby Namba (Bobby Trivia)",
+      "route_count": 59,
+      "role": "friend, trivia host, recurring cast member, and audience surrogate",
+      "note": "Trivia, humiliation, loyalty, sport, and the cost of being material repeatedly converge around him.",
+      "routes": [
+        {
+          "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+          "title": "Episode 002"
+        },
+        {
+          "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+          "title": "Episode 003"
+        },
+        {
+          "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+          "title": "Episode 004"
+        },
+        {
+          "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+          "title": "Episode 005"
+        },
+        {
+          "id": "saga1-episode-006-with-david-choe-and-asa-akira",
+          "title": "Episode 006"
+        },
+        {
+          "id": "saga1-episode-007-with-david-choe-and-asa-akira",
+          "title": "Episode 007"
+        },
+        {
+          "id": "saga1-episode-008-with-david-choe-and-asa-akira",
+          "title": "Episode 008"
+        },
+        {
+          "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+          "title": "Episode 009"
+        },
+        {
+          "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+          "title": "Episode 010"
+        },
+        {
+          "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+          "title": "Episode 011"
+        },
+        {
+          "id": "saga1-episode-012-with-david-choe-and-asa-akira",
+          "title": "Episode 012"
+        },
+        {
+          "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+          "title": "Episode 013"
+        },
+        {
+          "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+          "title": "Episode 014"
+        },
+        {
+          "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+          "title": "Episode 015"
+        },
+        {
+          "id": "saga1-episode-016-with-david-choe-and-asa-akira",
+          "title": "Episode 016"
+        },
+        {
+          "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+          "title": "Episode 017"
+        },
+        {
+          "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+          "title": "Episode 018"
+        },
+        {
+          "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+          "title": "Episode 019"
+        },
+        {
+          "id": "saga1-episode-020-with-david-choe-and-asa-akira",
+          "title": "Episode 020"
+        },
+        {
+          "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+          "title": "Episode 021"
+        },
+        {
+          "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+          "title": "Episode 022"
+        },
+        {
+          "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+          "title": "Episode 023"
+        },
+        {
+          "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+          "title": "Episode 024"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+          "title": "Episode 027"
+        },
+        {
+          "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+          "title": "Episode 028"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-032-with-david-choe-and-asa-akira",
+          "title": "Episode 032"
+        },
+        {
+          "id": "saga1-episode-033-with-david-choe-and-asa-akira",
+          "title": "Episode 033"
+        },
+        {
+          "id": "saga1-episode-034-with-david-choe-and-asa-akira",
+          "title": "Episode 034"
+        },
+        {
+          "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+          "title": "Episode 035"
+        },
+        {
+          "id": "saga1-episode-036-with-david-choe-and-asa-akira",
+          "title": "Episode 036"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "saga1-episode-038-with-david-choe-and-asa-akira",
+          "title": "Episode 038"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-040-with-david-choe-and-asa-akira",
+          "title": "Episode 040"
+        },
+        {
+          "id": "saga1-episode-053-kevin-smith",
+          "title": "Episode 053 — Kevin Smith"
+        },
+        {
+          "id": "saga1-episode-055-bobby-s-announcement",
+          "title": "Episode 055 — Bobby S Announcement"
+        },
+        {
+          "id": "saga1-episode-056-intentional-discomfort",
+          "title": "Episode 056 — Intentional Discomfort"
+        },
+        {
+          "id": "saga1-episode-080-colonic-confessions",
+          "title": "Episode 080 — Colonic Confessions"
+        },
+        {
+          "id": "saga1-episode-120-bro-show",
+          "title": "Episode 120 — Bro Show"
+        },
+        {
+          "id": "saga1-episode-134-don-t-touch-me-there",
+          "title": "Episode 134 — Don T Touch Me There"
+        },
+        {
+          "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+          "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+        },
+        {
+          "id": "saga2-november-2nd-the-longest-day",
+          "title": "November 2nd the Longest Day"
+        },
+        {
+          "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+          "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+        },
+        {
+          "id": "saga2-saga-02-chapter-002-sardines",
+          "title": "Chapter 002 — Sardines"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-006-standing-69",
+          "title": "Chapter 006 — Standing 69"
+        },
+        {
+          "id": "saga2-saga-02-chapter-022-a-scrotum-fire-a-bobby-birthday-the-unnuttable",
+          "title": "Chapter 022 — A Scrotum Fire a Bobby Birthday the Unnuttable"
+        },
+        {
+          "id": "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show",
+          "title": "Chapter 026 — The Bobby Trivia Dating Show"
+        },
+        {
+          "id": "6sdmY8WvNlw",
+          "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+        },
+        {
+          "id": "HCQHVHJYQnQ",
+          "title": "DVDASA Episode 036 with David Choe and Asa Akira"
+        },
+        {
+          "id": "LdqB8988S2U",
+          "title": "DVDASA Episode 032 with David Choe and Asa Akira"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        }
+      ]
+    },
+    {
+      "name": "Steve Lee",
+      "route_count": 52,
+      "role": "musician, comedian, Mangchi collaborator, and recurring friend",
+      "note": "He connects family, music, comedy, dependence, aspiration, and the show’s late ensemble.",
+      "routes": [
+        {
+          "id": "saga1-episode-076-the-red-zone-with-steve-lee",
+          "title": "Episode 076 — The Red Zone with Steve Lee"
+        },
+        {
+          "id": "saga1-episode-089-fear-blood",
+          "title": "Episode 089 — Fear Blood"
+        },
+        {
+          "id": "saga1-episode-094-steve-s-future",
+          "title": "Episode 094 — Steve S Future"
+        },
+        {
+          "id": "saga1-episode-095-ask-asa-tripping-with-steve-lee",
+          "title": "Episode 095 — Ask Asa Tripping with Steve Lee"
+        },
+        {
+          "id": "saga1-episode-096-the-trivia-wedding",
+          "title": "Episode 096 — The Trivia Wedding"
+        },
+        {
+          "id": "saga1-episode-100-things-korean-people-like",
+          "title": "Episode 100 — Things Korean People Like"
+        },
+        {
+          "id": "saga1-episode-106-erection-quest",
+          "title": "Episode 106 — Erection Quest"
+        },
+        {
+          "id": "saga1-episode-120-bro-show",
+          "title": "Episode 120 — Bro Show"
+        },
+        {
+          "id": "saga1-episode-121-a-day-in-the-life-of-steve-lee",
+          "title": "Episode 121 — A Day in the Life of Steve Lee"
+        },
+        {
+          "id": "saga1-episode-122-time-travel",
+          "title": "Episode 122 — Time Travel"
+        },
+        {
+          "id": "saga1-episode-129-four-caballeros",
+          "title": "Episode 129 — Four Caballeros"
+        },
+        {
+          "id": "saga1-episode-130-beyond-your-five-senses",
+          "title": "Episode 130 — Beyond Your Five Senses"
+        },
+        {
+          "id": "saga1-episode-131-dave-in-love-part-one",
+          "title": "Episode 131 — Dave in Love Part I"
+        },
+        {
+          "id": "saga1-episode-133-horny-in-your-heart",
+          "title": "Episode 133 — Horny in Your Heart"
+        },
+        {
+          "id": "saga1-episode-134-don-t-touch-me-there",
+          "title": "Episode 134 — Don T Touch Me There"
+        },
+        {
+          "id": "saga1-episode-135-eleven-seconds",
+          "title": "Episode 135 — Eleven Seconds"
+        },
+        {
+          "id": "saga1-episode-136-irresistible",
+          "title": "Episode 136 — Irresistible"
+        },
+        {
+          "id": "saga1-episode-137-double-headed-dragon",
+          "title": "Episode 137 — Double Headed Dragon"
+        },
+        {
+          "id": "saga1-episode-139-prank-on-the-prank",
+          "title": "Episode 139 — Prank on the Prank"
+        },
+        {
+          "id": "saga1-episode-140-spooning",
+          "title": "Episode 140 — Spooning"
+        },
+        {
+          "id": "saga1-episode-142-fastball",
+          "title": "Episode 142 — Fastball"
+        },
+        {
+          "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+          "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+        },
+        {
+          "id": "saga2-november-2nd-the-longest-day",
+          "title": "November 2nd the Longest Day"
+        },
+        {
+          "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+          "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+        },
+        {
+          "id": "saga2-saga-02-chapter-002-sardines",
+          "title": "Chapter 002 — Sardines"
+        },
+        {
+          "id": "saga2-saga-02-chapter-003-the-window",
+          "title": "Chapter 003 — The Window"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-005-rude-jude-angelini-jessica-cribbon-and-vivian-kindle",
+          "title": "Chapter 005 — Rude Jude Angelini Jessica Cribbon and Vivian Kindle"
+        },
+        {
+          "id": "saga2-saga-02-chapter-008-felt-like-heaven",
+          "title": "Chapter 008 — Felt Like Heaven"
+        },
+        {
+          "id": "saga2-saga-02-chapter-009-torlando",
+          "title": "Chapter 009 — Torlando"
+        },
+        {
+          "id": "saga2-saga-02-chapter-012-tightey-whiteys",
+          "title": "Chapter 012 — Tightey Whiteys"
+        },
+        {
+          "id": "saga2-saga-02-chapter-013-the-perfect-woman-a-proposition",
+          "title": "Chapter 013 — The Perfect Woman a Proposition"
+        },
+        {
+          "id": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
+          "title": "Chapter 014 — The Redzone Wrestle Trial of Steve Lee"
+        },
+        {
+          "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+          "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+        },
+        {
+          "id": "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern",
+          "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "6IeVPOLdIEs",
+          "title": "Mangchi"
+        },
+        {
+          "id": "7NSYJIczwUY",
+          "title": "MANGCHI - REVERSE BIRTHDAY SONG"
+        },
+        {
+          "id": "AGbJmM2wWjg",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+        },
+        {
+          "id": "IM8oNL2-xIs",
+          "title": "Die Antwoord's Ninja joins David Choe's band Mangchi live on stage for the encore"
+        },
+        {
+          "id": "KPnyiFx2O0w",
+          "title": "The SteeBeeWeeBee Show ft David Choe Pt2 A Day In The Life Of Steve Lee 2.0"
+        },
+        {
+          "id": "LcnoUWEscUY",
+          "title": "Ninja of Die Antwoord, Crowd Surfing at Mangchi Live Show at Elbo Room in San Francisco"
+        },
+        {
+          "id": "MP7SF5dVp70",
+          "title": "\"Gunk Boi\" - MANGCHI"
+        },
+        {
+          "id": "O3e1iZowlv8",
+          "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+        },
+        {
+          "id": "_Azb3sploI0",
+          "title": "MANGCHI - I love you"
+        },
+        {
+          "id": "aXa4t8UGTOc",
+          "title": "MANGCHI - The Best"
+        },
+        {
+          "id": "amjgbcrHUG0",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "m-5ofpeuOYc",
+          "title": "Mangchi Hammer Live"
+        },
+        {
+          "id": "mUsyh416654",
+          "title": "Mangchi Video featuring Steve Lee"
+        },
+        {
+          "id": "qs1yRqLkRm4",
+          "title": "These Are My People - MANGCHI"
+        },
+        {
+          "id": "uJXhtxBl3OM",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+        }
+      ]
+    },
+    {
+      "name": "Money Mark",
+      "route_count": 50,
+      "role": "musician, collaborator, and recurring early cast member",
+      "note": "He broadens the archive beyond autobiography into music-making, friendship, and a working artist’s long view.",
+      "routes": [
+        {
+          "id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
+          "title": "At Comic Con 2013"
+        },
+        {
+          "id": "saga1-episode-006-with-david-choe-and-asa-akira",
+          "title": "Episode 006"
+        },
+        {
+          "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+          "title": "Episode 013"
+        },
+        {
+          "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+          "title": "Episode 021"
+        },
+        {
+          "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+          "title": "Episode 022"
+        },
+        {
+          "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+          "title": "Episode 024"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+          "title": "Episode 028"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-032-with-david-choe-and-asa-akira",
+          "title": "Episode 032"
+        },
+        {
+          "id": "saga1-episode-033-with-david-choe-and-asa-akira",
+          "title": "Episode 033"
+        },
+        {
+          "id": "saga1-episode-036-with-david-choe-and-asa-akira",
+          "title": "Episode 036"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-040-with-david-choe-and-asa-akira",
+          "title": "Episode 040"
+        },
+        {
+          "id": "saga1-episode-053-kevin-smith",
+          "title": "Episode 053 — Kevin Smith"
+        },
+        {
+          "id": "saga1-episode-054-ask-asa-sexual-guacamole",
+          "title": "Episode 054 — Ask Asa Sexual Guacamole"
+        },
+        {
+          "id": "saga1-episode-056-intentional-discomfort",
+          "title": "Episode 056 — Intentional Discomfort"
+        },
+        {
+          "id": "saga1-episode-057-never-been-dumped-n-b-d",
+          "title": "Episode 057 — Never Been Dumped N B D"
+        },
+        {
+          "id": "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb",
+          "title": "Episode 079 — Bitch You Re Being Worked on Ft Erik Griffin Slink Endo Heather Bobb"
+        },
+        {
+          "id": "saga1-episode-096-the-trivia-wedding",
+          "title": "Episode 096 — The Trivia Wedding"
+        },
+        {
+          "id": "saga1-episode-098-dan-wu-joe-hahn-the-dark-dick",
+          "title": "Episode 098 — Dan Wu Joe Hahn the Dark Dick"
+        },
+        {
+          "id": "saga1-episode-120-bro-show",
+          "title": "Episode 120 — Bro Show"
+        },
+        {
+          "id": "saga1-episode-124-bonnie-rotten",
+          "title": "Episode 124 — Bonnie Rotten"
+        },
+        {
+          "id": "saga1-episode-131-dave-in-love-part-one",
+          "title": "Episode 131 — Dave in Love Part I"
+        },
+        {
+          "id": "saga1-episode-133-horny-in-your-heart",
+          "title": "Episode 133 — Horny in Your Heart"
+        },
+        {
+          "id": "saga1-episode-135-eleven-seconds",
+          "title": "Episode 135 — Eleven Seconds"
+        },
+        {
+          "id": "saga1-episode-137-double-headed-dragon",
+          "title": "Episode 137 — Double Headed Dragon"
+        },
+        {
+          "id": "saga1-episode-139-prank-on-the-prank",
+          "title": "Episode 139 — Prank on the Prank"
+        },
+        {
+          "id": "saga1-episode-142-fastball",
+          "title": "Episode 142 — Fastball"
+        },
+        {
+          "id": "saga1-live-at-the-egyptian-theatre",
+          "title": "Live at the Egyptian Theatre"
+        },
+        {
+          "id": "saga2-november-2nd-the-longest-day",
+          "title": "November 2nd the Longest Day"
+        },
+        {
+          "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+          "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+        },
+        {
+          "id": "saga2-saga-02-chapter-002-sardines",
+          "title": "Chapter 002 — Sardines"
+        },
+        {
+          "id": "saga2-saga-02-chapter-003-the-window",
+          "title": "Chapter 003 — The Window"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-011-dr-dave",
+          "title": "Chapter 011 — Dr Dave"
+        },
+        {
+          "id": "saga2-saga-02-chapter-012-tightey-whiteys",
+          "title": "Chapter 012 — Tightey Whiteys"
+        },
+        {
+          "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+          "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "5iUX02mRsGc",
+          "title": "How I Met David Choe & DVDASA in Vancouver? (The Choe Method)"
+        },
+        {
+          "id": "AGbJmM2wWjg",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+        },
+        {
+          "id": "HCQHVHJYQnQ",
+          "title": "DVDASA Episode 036 with David Choe and Asa Akira"
+        },
+        {
+          "id": "LdqB8988S2U",
+          "title": "DVDASA Episode 032 with David Choe and Asa Akira"
+        },
+        {
+          "id": "amjgbcrHUG0",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        },
+        {
+          "id": "mB3oDYYlcF0",
+          "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        }
+      ]
+    },
+    {
+      "name": "Harry Kim",
+      "route_count": 43,
+      "role": "filmmaker, friend, collaborator, and keeper of early visual history",
+      "note": "Dirty Hands and later production stories make him essential to the archive’s tension between documentation and friendship.",
+      "routes": [
+        {
+          "id": "saga1-episode-008-with-david-choe-and-asa-akira",
+          "title": "Episode 008"
+        },
+        {
+          "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+          "title": "Episode 010"
+        },
+        {
+          "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+          "title": "Episode 011"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+          "title": "Episode 035"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-040-with-david-choe-and-asa-akira",
+          "title": "Episode 040"
+        },
+        {
+          "id": "saga1-episode-041-with-david-choe-and-asa-akira",
+          "title": "Episode 041"
+        },
+        {
+          "id": "saga1-episode-043-with-david-choe-and-asa-akira",
+          "title": "Episode 043"
+        },
+        {
+          "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+          "title": "Episode 119 — The Ranch Solo Series Part II"
+        },
+        {
+          "id": "saga1-episode-127-with-david-choe-and-asa-akira",
+          "title": "Episode 127"
+        },
+        {
+          "id": "saga1-episode-131-dave-in-love-part-one",
+          "title": "Episode 131 — Dave in Love Part I"
+        },
+        {
+          "id": "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
+          "title": "Nov 2nd 2 3 Slink Endo Spiegler Alina Li Chloe the Virgin"
+        },
+        {
+          "id": "vimeo-dirty-hands-laff",
+          "title": "Dirty Hands: The Art and Crimes of David Choe"
+        },
+        {
+          "id": "525yfSuD3TI",
+          "title": "Spraycans to riches: David Choe"
+        },
+        {
+          "id": "AGbJmM2wWjg",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 3]"
+        },
+        {
+          "id": "AYAAfmzspis",
+          "title": "Dirty Hands The Art & Crimes of David Choe"
+        },
+        {
+          "id": "CvHFWwVZKoI",
+          "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+        },
+        {
+          "id": "FbJRcXuqpqs",
+          "title": "Dirty Hands In SF - Documentary about David Choe"
+        },
+        {
+          "id": "HQ7GRWWgOGM",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 1/5)"
+        },
+        {
+          "id": "IA-7LDa5VXY",
+          "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+        },
+        {
+          "id": "JZ6wY3dgxdg",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)"
+        },
+        {
+          "id": "QO3-AAVTeDA",
+          "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+        },
+        {
+          "id": "StlQDvxDtq0",
+          "title": "David Choe Explains BTS 4X to Munkos"
+        },
+        {
+          "id": "T5Bc_q5FHCQ",
+          "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
+        },
+        {
+          "id": "U5CaU1n-_Lk",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 3/4)"
+        },
+        {
+          "id": "UZ7-frVitVc",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 2/4)"
+        },
+        {
+          "id": "XS6awjpIimw",
+          "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+        },
+        {
+          "id": "Xo6Hj9hw96I",
+          "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "Yknrg-63674",
+          "title": "Hitchhiking Across America with David Choe (Full Documentary)"
+        },
+        {
+          "id": "h12NAoaCY5k",
+          "title": "DVDASA Episode 041 with David Choe and Asa Akira"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "jWMi6WOa56k",
+          "title": "The Last Dinosaur of the Congo with David Choe"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        },
+        {
+          "id": "oFliGQNTC1c",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 3/5)"
+        },
+        {
+          "id": "tP5OmbOXWBc",
+          "title": "DAVID CHOE Visits Cartoonist Kayfabe to Break Open KEVIN EASTMAN's Classic RAPHAEL Comic."
+        },
+        {
+          "id": "wC3vettgNB0",
+          "title": "DVDASA Episode 043 with David Choe and Asa Akira"
+        },
+        {
+          "id": "wcMNw16dQKo",
+          "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
+        },
+        {
+          "id": "xS7wfeeeM8I",
+          "title": "David Choe"
+        },
+        {
+          "id": "yMw73rpJPRA",
+          "title": "Whales and Orgies | David Choe, Early Years"
+        }
+      ]
+    },
+    {
+      "name": "Bobby Lee",
+      "route_count": 38,
+      "role": "comedian, friend, recurring guest, and family bridge through Steve Lee",
+      "note": "His appearances connect comedy, shame, sex, family, career insecurity, and long-running friendship.",
+      "routes": [
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-038-with-david-choe-and-asa-akira",
+          "title": "Episode 038"
+        },
+        {
+          "id": "saga1-episode-069-bobby-lee-and-the-pooner",
+          "title": "Episode 069 — Bobby Lee and the Pooner"
+        },
+        {
+          "id": "saga1-episode-071-the-conclusion-of-the-armenian-virgin-trilogy-ft-bobby-lee",
+          "title": "Episode 071 — The Conclusion of the Armenian Virgin Trilogy Ft Bobby Lee"
+        },
+        {
+          "id": "saga1-episode-072-bobby-lee-valentin-s-birthday",
+          "title": "Episode 072 — Bobby Lee Valentin S Birthday"
+        },
+        {
+          "id": "saga1-episode-073-am-i-gonna-get-that-ring-ft-bobby-lee-poon-phoebe",
+          "title": "Episode 073 — Am I Gonna Get That Ring Ft Bobby Lee Poon Phoebe"
+        },
+        {
+          "id": "saga1-episode-074-ruining-lives-ft-bobby-lee-the-pooner",
+          "title": "Episode 074 — Ruining Lives Ft Bobby Lee the Pooner"
+        },
+        {
+          "id": "saga1-episode-075-vip-no-problem-ft-dr-nima-bobby-lee",
+          "title": "Episode 075 — VIP No Problem Ft Dr Nima Bobby Lee"
+        },
+        {
+          "id": "saga1-episode-081-asians-are-future-people",
+          "title": "Episode 081 — Asians Are Future People"
+        },
+        {
+          "id": "saga1-episode-083-elmer-s-glue-bobby-lee-channels-david-s-mom",
+          "title": "Episode 083 — Elmer S Glue Bobby Lee Channels David S Mom"
+        },
+        {
+          "id": "saga1-episode-089-fear-blood",
+          "title": "Episode 089 — Fear Blood"
+        },
+        {
+          "id": "saga1-episode-100-things-korean-people-like",
+          "title": "Episode 100 — Things Korean People Like"
+        },
+        {
+          "id": "saga1-episode-102-bobby-lee-s-girlfriend-khalyla",
+          "title": "Episode 102 — Bobby Lee S Girlfriend Khalyla"
+        },
+        {
+          "id": "saga1-episode-109-humane-trafficking",
+          "title": "Episode 109 — Humane Trafficking"
+        },
+        {
+          "id": "saga1-episode-114-vegas-part-02",
+          "title": "Episode 114 — Vegas Part 02"
+        },
+        {
+          "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+          "title": "Episode 119 — The Ranch Solo Series Part II"
+        },
+        {
+          "id": "saga1-episode-129-four-caballeros",
+          "title": "Episode 129 — Four Caballeros"
+        },
+        {
+          "id": "saga1-episode-134-don-t-touch-me-there",
+          "title": "Episode 134 — Don T Touch Me There"
+        },
+        {
+          "id": "saga1-episode-135-eleven-seconds",
+          "title": "Episode 135 — Eleven Seconds"
+        },
+        {
+          "id": "saga1-episode-136-irresistible",
+          "title": "Episode 136 — Irresistible"
+        },
+        {
+          "id": "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin",
+          "title": "Nov 2nd 3 3 Bobby Lee Chloe the Virgin"
+        },
+        {
+          "id": "saga2-november-2nd-the-longest-day",
+          "title": "November 2nd the Longest Day"
+        },
+        {
+          "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+          "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-009-torlando",
+          "title": "Chapter 009 — Torlando"
+        },
+        {
+          "id": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
+          "title": "Chapter 014 — The Redzone Wrestle Trial of Steve Lee"
+        },
+        {
+          "id": "saga2-saga-02-chapter-022-a-scrotum-fire-a-bobby-birthday-the-unnuttable",
+          "title": "Chapter 022 — A Scrotum Fire a Bobby Birthday the Unnuttable"
+        },
+        {
+          "id": "1YUK34XsNiY",
+          "title": "Bobby Lee | Steven Yeun | David Choe | TigerBelly Podcast | Comedy Clips | Asian American Actors"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "6IeVPOLdIEs",
+          "title": "Mangchi"
+        },
+        {
+          "id": "D-oSpkzPIoQ",
+          "title": "David Choe Lost in the Philippines (Thumbs Up Season 5)"
+        },
+        {
+          "id": "O3e1iZowlv8",
+          "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+        },
+        {
+          "id": "YOiHuk2iUpA",
+          "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever"
+        },
+        {
+          "id": "_UXD0KqyBko",
+          "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
+        },
+        {
+          "id": "amjgbcrHUG0",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "uJXhtxBl3OM",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+        },
+        {
+          "id": "yWAYOdJVY_o",
+          "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
+        }
+      ]
+    },
+    {
+      "name": "Yoshi Obayashi",
+      "route_count": 37,
+      "role": "friend, employee, performer, and host of Yoshi Didn’t",
+      "note": "His conflicts make apology, cultural memory, friendship, ownership, and employer power unusually concrete.",
+      "routes": [
+        {
+          "id": "saga1-episode-001-with-david-choe-and-asa-akira",
+          "title": "Episode 001"
+        },
+        {
+          "id": "saga1-episode-002-with-david-choe-and-asa-akira",
+          "title": "Episode 002"
+        },
+        {
+          "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+          "title": "Episode 003"
+        },
+        {
+          "id": "saga1-episode-004-with-david-choe-and-asa-akira",
+          "title": "Episode 004"
+        },
+        {
+          "id": "saga1-episode-005-with-david-choe-and-asa-akira",
+          "title": "Episode 005"
+        },
+        {
+          "id": "saga1-episode-006-with-david-choe-and-asa-akira",
+          "title": "Episode 006"
+        },
+        {
+          "id": "saga1-episode-007-with-david-choe-and-asa-akira",
+          "title": "Episode 007"
+        },
+        {
+          "id": "saga1-episode-008-with-david-choe-and-asa-akira",
+          "title": "Episode 008"
+        },
+        {
+          "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+          "title": "Episode 009"
+        },
+        {
+          "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+          "title": "Episode 010"
+        },
+        {
+          "id": "saga1-episode-011-with-david-choe-and-asa-akira",
+          "title": "Episode 011"
+        },
+        {
+          "id": "saga1-episode-012-with-david-choe-and-asa-akira",
+          "title": "Episode 012"
+        },
+        {
+          "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+          "title": "Episode 013"
+        },
+        {
+          "id": "saga1-episode-014-with-david-choe-and-asa-akira",
+          "title": "Episode 014"
+        },
+        {
+          "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+          "title": "Episode 015"
+        },
+        {
+          "id": "saga1-episode-016-with-david-choe-and-asa-akira",
+          "title": "Episode 016"
+        },
+        {
+          "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+          "title": "Episode 017"
+        },
+        {
+          "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+          "title": "Episode 018"
+        },
+        {
+          "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+          "title": "Episode 019"
+        },
+        {
+          "id": "saga1-episode-020-with-david-choe-and-asa-akira",
+          "title": "Episode 020"
+        },
+        {
+          "id": "saga1-episode-021-with-david-choe-and-asa-akira",
+          "title": "Episode 021"
+        },
+        {
+          "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+          "title": "Episode 022"
+        },
+        {
+          "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+          "title": "Episode 023"
+        },
+        {
+          "id": "saga1-episode-024-with-david-choe-and-asa-akira",
+          "title": "Episode 024"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+          "title": "Episode 027"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "6sdmY8WvNlw",
+          "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+        },
+        {
+          "id": "IA-7LDa5VXY",
+          "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+        },
+        {
+          "id": "XS6awjpIimw",
+          "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+        },
+        {
+          "id": "YeJxJKG3DY8",
+          "title": "David Choe Might Have Put The Channel In Major Jeopardy!"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        }
+      ]
+    },
+    {
+      "name": "Joe Rogan",
+      "route_count": 33,
+      "role": "recurring long-form interviewer and public-story counterparty",
+      "note": "The Rogan appearances preserve several major versions of the money, speech, art, controversy, and later-life stories.",
+      "routes": [
+        {
+          "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+          "title": "Episode 017"
+        },
+        {
+          "id": "saga1-episode-019-with-david-choe-and-asa-akira",
+          "title": "Episode 019"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-030-with-david-choe-and-asa-akira",
+          "title": "Episode 030"
+        },
+        {
+          "id": "saga1-episode-078-s-l-a-p-something-like-a-pimp-ft-slink-endo-heather-hot-dog-bobby-le",
+          "title": "Episode 078 — S L a P Something Like a Pimp Ft Slink Endo Heather Hot Dog Bobby Le"
+        },
+        {
+          "id": "saga2-saga-02-chapter-025-american-whoreror-story",
+          "title": "Chapter 025 — American Whoreror Story"
+        },
+        {
+          "id": "-I9ut9uikjY",
+          "title": "Inside the Mind of David Choe"
+        },
+        {
+          "id": "0cp3orVR5lg",
+          "title": "Psychedelic Aliens Contacted David Choe | Joe Rogan | JRE 1965"
+        },
+        {
+          "id": "1DQLpKe3p-E",
+          "title": "Was David Choe In Star Wars: The Mandalorian? | Joe Rogan | JRE 1965"
+        },
+        {
+          "id": "1cEPqYMBlXA",
+          "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "6sdmY8WvNlw",
+          "title": "DVDASA Episode 019 with David Choe and Asa Akira"
+        },
+        {
+          "id": "8JmtlRXz7V0",
+          "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+        },
+        {
+          "id": "FA3orUaXhD4",
+          "title": "Massage Parlors with David Choe (from Joe Rogan Experience #392)"
+        },
+        {
+          "id": "FRrbjiOs4no",
+          "title": "David Choe Went Baboon Hunting with the Hadza People of Tanzania"
+        },
+        {
+          "id": "HrBhuzHHlhQ",
+          "title": "David Choe's Strange Encounter While Hitchhiking"
+        },
+        {
+          "id": "JNXjG8n4pzE",
+          "title": "David Choe On Baboon Hunting With The Hadza Tribe | Joe Rogan Experience"
+        },
+        {
+          "id": "KOfsocdybBw",
+          "title": "David Choe's  Personal Trainer HITS Him | Joe Rogan Experience"
+        },
+        {
+          "id": "M_jPqv3NvUI",
+          "title": "David Choe Got Lost Looking for a Dinosaur in the Congo"
+        },
+        {
+          "id": "MzfWgBgqBPs",
+          "title": "David Choe Tells Joe Rogan About His Crazy Experience On Psychedelics | Joe Rogan Experience"
+        },
+        {
+          "id": "O3e1iZowlv8",
+          "title": "David Choe Fought Bobby Lee's Funny Brother | Joe Rogan Classic | JRE 563"
+        },
+        {
+          "id": "V_v5tS3WRQ8",
+          "title": "Why David Choe Stopped Playing Life Like a Video Game"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "_IW6hQQdNys",
+          "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience"
+        },
+        {
+          "id": "bRnQXElR0xE",
+          "title": "\"What Is Unique In Your Head?\" with David Choe (from Joe Rogan Experience #563)"
+        },
+        {
+          "id": "cGENqgCM_hI",
+          "title": "David Choe’s Hilarious Story About Shoplifting an Adult Movie"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "kdIZ-X0dbM4",
+          "title": "God, Religion, Love & War | Joe Rogan & David Choe | JRE 1965"
+        },
+        {
+          "id": "mOj5JGBZ4dM",
+          "title": "David Choe's crazy massage story (JRE #392)"
+        },
+        {
+          "id": "qVPlWFKUBCI",
+          "title": "David Choe Remembers the Death of Anthony Bourdain"
+        },
+        {
+          "id": "rN5_qjTyu8M",
+          "title": "Artist David Choe Was Hooked on \"Warcraft 2\""
+        },
+        {
+          "id": "tk923yF0TXA",
+          "title": "David Choe Returns to Cartoonist Kayfabe!"
+        },
+        {
+          "id": "yFFUaDk29pA",
+          "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+        }
+      ]
+    },
+    {
+      "name": "Anthony Bourdain",
+      "route_count": 30,
+      "role": "friend, travel-television influence, collaborator, and moral reference point",
+      "note": "He represents a model of curiosity and access while later grief gives the relationship a different weight.",
+      "routes": [
+        {
+          "id": "saga1-episode-003-with-david-choe-and-asa-akira",
+          "title": "Episode 003"
+        },
+        {
+          "id": "saga1-episode-009-with-david-choe-and-asa-akira",
+          "title": "Episode 009"
+        },
+        {
+          "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+          "title": "Episode 015"
+        },
+        {
+          "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+          "title": "Episode 017"
+        },
+        {
+          "id": "saga1-episode-018-with-david-choe-and-asa-akira",
+          "title": "Episode 018"
+        },
+        {
+          "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+          "title": "Episode 023"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+          "title": "Episode 028"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-043-with-david-choe-and-asa-akira",
+          "title": "Episode 043"
+        },
+        {
+          "id": "saga1-episode-050-with-david-choe-and-asa-akira",
+          "title": "Episode 050"
+        },
+        {
+          "id": "saga1-episode-087-buyer-s-remorse-from-hawaii",
+          "title": "Episode 087 — Buyer S Remorse from Hawaii"
+        },
+        {
+          "id": "saga2-saga-02-chapter-005-rude-jude-angelini-jessica-cribbon-and-vivian-kindle",
+          "title": "Chapter 005 — Rude Jude Angelini Jessica Cribbon and Vivian Kindle"
+        },
+        {
+          "id": "saga2-saga-02-chapter-013-the-perfect-woman-a-proposition",
+          "title": "Chapter 013 — The Perfect Woman a Proposition"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "CvHFWwVZKoI",
+          "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+        },
+        {
+          "id": "U9RG_RBqyOM",
+          "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "i8cDwucTSbo",
+          "title": "Joe Rogan Experience #392 - David Choe"
+        },
+        {
+          "id": "j7T6__UbhBI",
+          "title": "Joe Rogan Experience #1518 - David Choe"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        },
+        {
+          "id": "qVPlWFKUBCI",
+          "title": "David Choe Remembers the Death of Anthony Bourdain"
+        },
+        {
+          "id": "tk923yF0TXA",
+          "title": "David Choe Returns to Cartoonist Kayfabe!"
+        },
+        {
+          "id": "uOf3CdFjXg4",
+          "title": "Bunny Ears Podcast Episode 24 - David Choe"
+        },
+        {
+          "id": "wC3vettgNB0",
+          "title": "DVDASA Episode 043 with David Choe and Asa Akira"
+        },
+        {
+          "id": "zHyvVajsqMw",
+          "title": "Transform Pain & Trauma Into Creative Expression | David Choe"
+        }
+      ]
+    },
+    {
+      "name": "David Chang",
+      "route_count": 25,
+      "role": "chef, friend, fellow compulsive creator, and recurring mirror",
+      "note": "Their conversations compare restaurant and art careers, immigrant family pressure, depression, rage, labor, and success.",
+      "routes": [
+        {
+          "id": "saga1-episode-015-with-david-choe-and-asa-akira",
+          "title": "Episode 015"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-050-with-david-choe-and-asa-akira",
+          "title": "Episode 050"
+        },
+        {
+          "id": "saga1-episode-077-locker-room-talk",
+          "title": "Episode 077 — Locker Room Talk"
+        },
+        {
+          "id": "saga1-episode-088-david-chang",
+          "title": "Episode 088 — David Chang"
+        },
+        {
+          "id": "saga1-episode-118-2-depressed-artists",
+          "title": "Episode 118 — 2 Depressed Artists"
+        },
+        {
+          "id": "saga1-episode-120-bro-show",
+          "title": "Episode 120 — Bro Show"
+        },
+        {
+          "id": "saga1-episode-121-a-day-in-the-life-of-steve-lee",
+          "title": "Episode 121 — A Day in the Life of Steve Lee"
+        },
+        {
+          "id": "saga1-episode-122-time-travel",
+          "title": "Episode 122 — Time Travel"
+        },
+        {
+          "id": "saga1-episode-127-with-david-choe-and-asa-akira",
+          "title": "Episode 127"
+        },
+        {
+          "id": "saga2-book-02-chapter-001",
+          "title": "Chapter 001 — The Ranch Solo Series Part IV"
+        },
+        {
+          "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+          "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+        },
+        {
+          "id": "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern",
+          "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "CvHFWwVZKoI",
+          "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+        },
+        {
+          "id": "Ga9f_4K-j8c",
+          "title": "David Choe painting at David Chang's Momofuku Ko restaurant"
+        },
+        {
+          "id": "_UXD0KqyBko",
+          "title": "An Honest Conversation with Bobby Lee & Oliver Tree"
+        },
+        {
+          "id": "hicb0ZqmzzM",
+          "title": "David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!"
+        },
+        {
+          "id": "i8cDwucTSbo",
+          "title": "Joe Rogan Experience #392 - David Choe"
+        },
+        {
+          "id": "j7T6__UbhBI",
+          "title": "Joe Rogan Experience #1518 - David Choe"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        },
+        {
+          "id": "uJXhtxBl3OM",
+          "title": "David Choe on The Steebee Weebee Show [Ep 30, part 2]"
+        },
+        {
+          "id": "uOf3CdFjXg4",
+          "title": "Bunny Ears Podcast Episode 24 - David Choe"
+        },
+        {
+          "id": "vEL0l0Nlmh8",
+          "title": "David Choe: It All Adds Up"
+        }
+      ]
+    },
+    {
+      "name": "Howard Stern",
+      "route_count": 25,
+      "role": "formative interviewer and model for expansive, direct broadcasting",
+      "note": "Choe repeatedly cites the Stern appearance when explaining what edited profiles could not hold.",
+      "routes": [
+        {
+          "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+          "title": "Episode 013"
+        },
+        {
+          "id": "saga1-episode-025-with-david-choe-and-asa-akira",
+          "title": "Episode 025"
+        },
+        {
+          "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+          "title": "Episode 026"
+        },
+        {
+          "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+          "title": "Episode 029"
+        },
+        {
+          "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+          "title": "Episode 031"
+        },
+        {
+          "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+          "title": "Episode 035"
+        },
+        {
+          "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+          "title": "Episode 037"
+        },
+        {
+          "id": "saga1-episode-039-with-david-choe-and-asa-akira",
+          "title": "Episode 039"
+        },
+        {
+          "id": "saga1-episode-041-with-david-choe-and-asa-akira",
+          "title": "Episode 041"
+        },
+        {
+          "id": "saga1-episode-057-never-been-dumped-n-b-d",
+          "title": "Episode 057 — Never Been Dumped N B D"
+        },
+        {
+          "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+          "title": "Episode 101 — The Ranch Solo Series Part I"
+        },
+        {
+          "id": "saga2-saga-02-chapter-009-torlando",
+          "title": "Chapter 009 — Torlando"
+        },
+        {
+          "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+          "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        },
+        {
+          "id": "8JmtlRXz7V0",
+          "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life"
+        },
+        {
+          "id": "H58tyi47qDQ",
+          "title": "Peter LAIRD & David CHOE! Teenage Mutant Ninja Turtles Issue 12! Xeric Award! SLOW JAMZ!"
+        },
+        {
+          "id": "XS6awjpIimw",
+          "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+        },
+        {
+          "id": "YgilTWmHJBg",
+          "title": "DVDASA Episode 026 with David Choe and Asa Akira"
+        },
+        {
+          "id": "h12NAoaCY5k",
+          "title": "DVDASA Episode 041 with David Choe and Asa Akira"
+        },
+        {
+          "id": "i8cDwucTSbo",
+          "title": "Joe Rogan Experience #392 - David Choe"
+        },
+        {
+          "id": "k-wWvZu9xaA",
+          "title": "DVDASA Episode 029 with David Choe and Asa Akira"
+        },
+        {
+          "id": "mxfBPoDUJ80",
+          "title": "DVDASA Episode 039 with David Choe and Asa Akira"
+        },
+        {
+          "id": "nSWSXRUm3l8",
+          "title": "David Choe's Gambling Strategy"
+        },
+        {
+          "id": "reW-p9ds4g4",
+          "title": "David Choe - Steve-O's Wild Ride! Ep #80"
+        },
+        {
+          "id": "tk923yF0TXA",
+          "title": "David Choe Returns to Cartoonist Kayfabe!"
+        }
+      ]
+    },
+    {
+      "name": "Bill Poon",
+      "route_count": 23,
+      "role": "friend, driver, production participant, and recurring Saga 2 subject",
+      "note": "Negotiations around labor, sex, filming, compensation, and consent concentrate around his role.",
+      "routes": [
+        {
+          "id": "saga1-episode-069-bobby-lee-and-the-pooner",
+          "title": "Episode 069 — Bobby Lee and the Pooner"
+        },
+        {
+          "id": "saga1-episode-073-am-i-gonna-get-that-ring-ft-bobby-lee-poon-phoebe",
+          "title": "Episode 073 — Am I Gonna Get That Ring Ft Bobby Lee Poon Phoebe"
+        },
+        {
+          "id": "saga1-episode-074-ruining-lives-ft-bobby-lee-the-pooner",
+          "title": "Episode 074 — Ruining Lives Ft Bobby Lee the Pooner"
+        },
+        {
+          "id": "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb",
+          "title": "Episode 079 — Bitch You Re Being Worked on Ft Erik Griffin Slink Endo Heather Bobb"
+        },
+        {
+          "id": "saga1-episode-099-pack-hunting",
+          "title": "Episode 099 — Pack Hunting"
+        },
+        {
+          "id": "saga1-episode-114-vegas-part-02",
+          "title": "Episode 114 — Vegas Part 02"
+        },
+        {
+          "id": "saga1-episode-122-time-travel",
+          "title": "Episode 122 — Time Travel"
+        },
+        {
+          "id": "saga1-episode-129-four-caballeros",
+          "title": "Episode 129 — Four Caballeros"
+        },
+        {
+          "id": "saga1-episode-130-beyond-your-five-senses",
+          "title": "Episode 130 — Beyond Your Five Senses"
+        },
+        {
+          "id": "saga1-episode-132-dave-in-love-part-two",
+          "title": "Episode 132 — Dave in Love Part II"
+        },
+        {
+          "id": "saga1-episode-133-horny-in-your-heart",
+          "title": "Episode 133 — Horny in Your Heart"
+        },
+        {
+          "id": "saga1-episode-136-irresistible",
+          "title": "Episode 136 — Irresistible"
+        },
+        {
+          "id": "saga1-episode-140-spooning",
+          "title": "Episode 140 — Spooning"
+        },
+        {
+          "id": "saga1-episode-142-fastball",
+          "title": "Episode 142 — Fastball"
+        },
+        {
+          "id": "saga1-nov-2nd-1-3-slink-johnson-cousin-endo",
+          "title": "Nov 2nd 1 3 Slink Johnson Cousin Endo"
+        },
+        {
+          "id": "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth",
+          "title": "November 2nd a Naked Starfish and the Most Dangerous Show on Earth"
+        },
+        {
+          "id": "saga2-saga-02-chapter-002-sardines",
+          "title": "Chapter 002 — Sardines"
+        },
+        {
+          "id": "saga2-saga-02-chapter-003-the-window",
+          "title": "Chapter 003 — The Window"
+        },
+        {
+          "id": "saga2-saga-02-chapter-004-cock-blocked",
+          "title": "Chapter 004 — Cock Blocked"
+        },
+        {
+          "id": "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution",
+          "title": "Chapter 015 — Redzone All the Time the Choe Chang Method Men Evolution"
+        },
+        {
+          "id": "saga2-saga-02-chapter-020-the-negotiation",
+          "title": "Chapter 020 — The Negotiation"
+        },
+        {
+          "id": "saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode",
+          "title": "Chapter 021 — The Ranch Solo Series #3 — The Lost Episode"
+        },
+        {
+          "id": "2Xw5EgZdNvQ",
+          "title": "Joe Rogan Experience #563 - David Choe"
+        }
+      ]
+    },
+    {
+      "name": "Sean Parker",
+      "route_count": 9,
+      "role": "early patron, technology-world connection, and counterweight to the “random Facebook luck” story",
+      "note": "Choe frames the relationship as years of attention and patronage preceding the famous equity decision.",
+      "routes": [
+        {
+          "id": "saga1-episode-038-with-david-choe-and-asa-akira",
+          "title": "Episode 038"
+        },
+        {
+          "id": "vimeo-dirty-hands-laff",
+          "title": "Dirty Hands: The Art and Crimes of David Choe"
+        },
+        {
+          "id": "CvHFWwVZKoI",
+          "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast"
+        },
+        {
+          "id": "IA-7LDa5VXY",
+          "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav"
+        },
+        {
+          "id": "XS6awjpIimw",
+          "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA"
+        },
+        {
+          "id": "i8cDwucTSbo",
+          "title": "Joe Rogan Experience #392 - David Choe"
+        },
+        {
+          "id": "reW-p9ds4g4",
+          "title": "David Choe - Steve-O's Wild Ride! Ep #80"
+        },
+        {
+          "id": "uOf3CdFjXg4",
+          "title": "Bunny Ears Podcast Episode 24 - David Choe"
+        },
+        {
+          "id": "vTaS3XK3rgI",
+          "title": "The Degenerate Mind of David Choe | Mini Documentary"
+        }
+      ]
+    },
+    {
+      "name": "Jane Choe",
+      "route_count": 3,
+      "role": "mother, artist, family witness, and Happiness Symposium participant",
+      "note": "She provides a family perspective that cannot be replaced by Choe narrating the family alone.",
+      "routes": [
+        {
+          "id": "saga1-episode-033-with-david-choe-and-asa-akira",
+          "title": "Episode 033"
+        },
+        {
+          "id": "saga1-episode-094-steve-s-future",
+          "title": "Episode 094 — Steve S Future"
+        },
+        {
+          "id": "saga1-episode-128-hawaii-happiness-symposium-part-2-with-jane-choe",
+          "title": "Episode 128 — Hawaii Happiness Symposium Part II with Jane Choe"
+        }
+      ]
+    }
+  ],
+  "screenplay_notes": {
+    "status": "Development notes derived from the corpus, not a factual screenplay, chronology, or endorsement of every narrated claim.",
+    "logline": "A Korean American artist turns movement, risk, and radical self-exposure into a life without ordinary limits; after a legendary windfall makes that life public, he has to decide whether the same appetites that made the work can be transformed before they consume every relationship around it.",
+    "central_question": "Can he keep the creative force without continuing to require danger, secrecy, humiliation, or self-destruction to activate it?",
+    "structure": [
+      {
+        "heading": "Act I — Build an exit from the ordinary life",
+        "purpose": "Establish family survival, the Los Angeles riots, drawing and graffiti, self-publication, early patrons, restless travel, gambling, and Japan. The dramatic engine is not “talent discovered”; it is a person repeatedly making an exit before any institution grants permission.",
+        "evidence": [
+          {
+            "id": "vimeo-dirty-hands-laff",
+            "title": "Dirty Hands: The Art and Crimes of David Choe",
+            "note": "The strongest visual spine for the early life, travel, detention, art, and family testimony."
+          },
+          {
+            "id": "zHyvVajsqMw",
+            "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+            "note": "Later first-person reconstruction with explicit uncertainty and family context."
+          },
+          {
+            "id": "saga1-episode-119-the-ranch-solo-series-part-two",
+            "title": "Episode 119 — The Ranch Solo Series Part II",
+            "note": "The artist’s own blueprint for risk, self-publishing, patrons, pricing, and failure."
+          }
+        ]
+      },
+      {
+        "heading": "Act II — The break becomes the identity",
+        "purpose": "Sean Parker, the Facebook murals, shares instead of cash, and sudden public wealth should arrive as both victory and narrative theft. Everybody now believes they know the story; the protagonist begins defending the invisible work before the lucky break while money removes external limits.",
+        "evidence": [
+          {
+            "id": "i8cDwucTSbo",
+            "title": "Joe Rogan Experience #392 - David Choe",
+            "note": "The famous decision told in a compact public-interview form."
+          },
+          {
+            "id": "saga1-episode-101-the-ranch-solo-series-part-one",
+            "title": "Episode 101 — The Ranch Solo Series Part I",
+            "note": "The counter-story about Parker, prior work, and why “lucky” feels incomplete."
+          },
+          {
+            "id": "saga1-episode-068-david-s-announcement",
+            "title": "Episode 068 — David S Announcement",
+            "note": "The cost: money and Facebook proceeds magnify an existing spiral."
+          }
+        ]
+      },
+      {
+        "heading": "Act III — Build a room with no edits",
+        "purpose": "DVDASA begins as the answer to being flattened by profiles. The warehouse initially feels like total authorship: friends, sex, art, music, guests, trivia, and any subject without broadcast restraint. Gradually the same room reveals the problem—people are simultaneously friends, employees, material, and audience.",
+        "evidence": [
+          {
+            "id": "saga1-episode-057-never-been-dumped-n-b-d",
+            "title": "Episode 057 — Never Been Dumped N B D",
+            "note": "The clearest internal account of why the show exists."
+          },
+          {
+            "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+            "title": "Episode 010",
+            "note": "A small object opens the show’s deepest friendship/employment fault line."
+          },
+          {
+            "id": "saga1-episode-058-the-reporter",
+            "title": "Episode 058 — The Reporter",
+            "note": "Press control, fame, labor, humiliation, and consent converge."
+          }
+        ]
+      },
+      {
+        "heading": "Act IV — Refuse the clean redemption ending",
+        "purpose": "Retreat, recovery, service, The Choe Show, Beef, renewed interviews, and friendship do not erase prior harm or compulsion. The ending should show practice rather than cure: saying no, tolerating stillness, helping someone without turning them into material, and making work without requiring catastrophe.",
+        "evidence": [
+          {
+            "id": "CvHFWwVZKoI",
+            "title": "Does Great Art Require Suffering? David Choe on The Rich Roll Podcast",
+            "note": "Recovery, relapse, workaholism, and rejection of the destructive-bottom myth."
+          },
+          {
+            "id": "zHyvVajsqMw",
+            "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+            "note": "A late sustained reinterpretation of running, shame, Facebook, family, and creative expression."
+          },
+          {
+            "id": "BBArizQhDgk",
+            "title": "Joe Rogan Experience #1965 - David Choe",
+            "note": "What remains after winning the games of money, sex, power, television, and public success."
+          }
+        ]
+      }
+    ],
+    "recurring_images": [
+      {
+        "image": "Walls",
+        "use": "Graffiti surface, Facebook office, prison boundary, gallery object, and the literal thing that can be painted over."
+      },
+      {
+        "image": "Roads and rides",
+        "use": "Hitchhiking and freight travel make freedom social: survival depends on asking strangers and accepting uncertainty."
+      },
+      {
+        "image": "Cards, chips, and bets",
+        "use": "A visual grammar for the way money, danger, sex, career, and disclosure repeatedly become wagers."
+      },
+      {
+        "image": "The warehouse table and microphones",
+        "use": "A stage that looks democratic while employment, ownership, editing control, and exposure remain unequal."
+      },
+      {
+        "image": "Food",
+        "use": "Family care, hospitality, compulsion, restaurant labor, bodily shame, gifts, and conflict repeatedly become visible through eating."
+      },
+      {
+        "image": "Hands",
+        "use": "Drawing, painting, gambling, fighting, touching, making, and helping all pass through the same instrument."
+      }
+    ],
+    "character_function": [
+      {
+        "name": "Family",
+        "function": "The survival history and emotional stakes; they complicate every “self-made” version."
+      },
+      {
+        "name": "Harry Kim",
+        "function": "The witness with a camera; friendship and documentation cannot be cleanly separated."
+      },
+      {
+        "name": "Sean Parker",
+        "function": "The patron who turns years of attention into the break the public later treats as random."
+      },
+      {
+        "name": "Asa Akira",
+        "function": "The co-author and countervoice inside the unedited experiment, frequently making distinctions the room wants to collapse."
+      },
+      {
+        "name": "Critter, Bobby Namba, Yoshi, Money Mark, Steve Lee, and Bill Poon",
+        "function": "The ensemble through which chosen family, loyalty, labor, humiliation, and creative community acquire consequences."
+      },
+      {
+        "name": "Bobby Lee, David Chang, Anthony Bourdain, Joe Rogan, and Howard Stern",
+        "function": "Different mirrors: comedy and shame, work and depression, curiosity and grief, long-form challenge, and the fantasy of being heard without compression."
+      }
+    ],
+    "cautions": [
+      "Do not make Facebook the inciting incident; it arrives after a substantial art, publishing, travel, relationship, and gambling life.",
+      "Do not let a recovery structure imply adjudication, absolution, diagnosis, or a final cured state.",
+      "Do not combine separate people into composites when their distinct consent, labor, or relationship position changes the meaning of a scene.",
+      "Treat repeated anecdotes as performed memory. A scene needs source attribution and independent verification before being presented as settled fact.",
+      "The screenplay should not recreate private sexual, medical, family, or workplace detail merely because an unedited podcast exposed it.",
+      "Keep comedy and charisma, but never use them to make a direct refusal or power imbalance disappear from the scene."
+    ]
+  }
+}

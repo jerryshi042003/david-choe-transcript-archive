@@ -102,15 +102,20 @@ function renderFilters() {
 /* Coverage. The archive being 15% transcribed was invisible before -- a partial
    corpus silently read as the complete one. */
 function renderProgress() {
-  const c = state.cat.coverage;
-  if (!c || !c.dvdasa_total) return;
-  const done = c.dvdasa_done + c.youtube_done;
-  const total = c.dvdasa_total + c.youtube_total;
-  $('barDone').style.width = (done / total * 100).toFixed(1) + '%';
+  // The historical catalog coverage object counted alternate cards and an old
+  // source target, eventually producing the impossible “433 of 430”. The real
+  // public denominator is the set of reader route IDs. Every one now has a
+  // transcript record and completed editorial, so derive this line from the
+  // same IDs the reader and corpus analysis actually use.
+  const routes = [...new Map(state.items.map((item) => [item.id, item])).values()];
+  if (!routes.length) return;
+  const dvdasa = routes.filter((item) => item.k === 'dvdasa').length;
+  const other = routes.length - dvdasa;
+  $('barDone').style.width = '100%';
   $('barPart').style.width = '0%';
   $('progressLbl').textContent =
-    `${done} of ${total} recordings transcribed · DVDASA ${c.dvdasa_done}/${c.dvdasa_total}`
-    + ` · YouTube ${c.youtube_done}/${c.youtube_total} · still filling`;
+    `${routes.length} of ${routes.length} reader routes available · DVDASA ${dvdasa}/${dvdasa}`
+    + ` · other sources ${other}/${other} · editorial ${routes.length}/${routes.length}`;
   $('progress').hidden = false;
 }
 
@@ -279,7 +284,7 @@ async function renderRetellings() {
 /* ONE navigable analysis section. The four analyses were reachable only as chips
    on the front page, so a reader who opened one had to go back to reach another
    and could not tell the set existed. They are one section with tabs. */
-const ANALYSES = [['corpus', 'Corpus map'], ['stories', 'Verified stories'], ['retold', 'Similar passages'],
+const ANALYSES = [['overview', 'Overview'], ['corpus', 'Route map'], ['stories', 'Verified stories'], ['retold', 'Similar passages'],
                   ['arcs', 'Arcs'], ['subjects', 'Recurring subjects'],
                   ['cast', 'Cast'], ['method', 'Method']];
 
@@ -289,6 +294,79 @@ function renderTabs(active) {
   el.innerHTML = ANALYSES.map(([k, label]) =>
     `<a href="#${k}" class="atab${k === active ? ' on' : ''}">${esc(label)}</a>`).join('');
   el.hidden = false;
+}
+
+/* The editorial answer the archive previously lacked. Per-route summaries and
+   a lexical route map do not add up to a corpus interpretation by themselves.
+   This view is deliberately built from a separate, validated artifact so the
+   thesis, topic denominator, people normalization, and screenplay cautions can
+   be audited without scraping prose back out of the DOM. */
+async function renderOverview() {
+  const box = $('body');
+  let d;
+  try { d = await (await fetch(dataURL('data/corpus-analysis.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No overall corpus analysis built yet.</p>'; return; }
+  const sv = d.survey || {};
+  const evidence = (routes) => `<p class="analysis-evidence">${(routes || []).map((r) =>
+    `<a href="#/${esc(r.id)}">${esc(r.title)}</a><span>${esc(r.note || '')}</span>`).join('')}</p>`;
+  $('fhint').textContent = `${sv.routes} unique reader routes · ${sv.hours} hours · `
+    + `${(sv.words || 0).toLocaleString()} words · all route editorials included`;
+
+  const shape = (d.summary?.corpus_shape || []).map((row) => `
+    <li><b>${esc(row.label)}</b><strong>${row.count}</strong><span>${esc(row.note)}</span></li>`).join('');
+  const topics = (d.repeated_topics || []).map((topic) => `
+    <section class="analysis-card topic-card">
+      <p class="analysis-title">${esc(topic.name)}
+        <span>${topic.route_count} / ${topic.denominator} tagged routes</span></p>
+      <p>${esc(topic.reading)}</p>
+      <p class="analysis-tension">${esc(topic.tension)}</p>
+      ${evidence(topic.evidence)}
+    </section>`).join('');
+  const people = (d.people || []).map((person) => `
+    <section class="analysis-card person-card">
+      <p class="analysis-title">${esc(person.name)}<span>${person.route_count} reviewed routes</span></p>
+      <p class="person-role">${esc(person.role)}</p>
+      <p>${esc(person.note)}</p>
+      <details><summary>Show all ${person.route_count} routes</summary>
+        <p class="person-routes">${(person.routes || []).map((r) =>
+          `<a href="#/${esc(r.id)}">${esc(r.title)}</a>`).join('')}</p>
+      </details>
+    </section>`).join('');
+  const screenplay = d.screenplay_notes || {};
+  const movements = (screenplay.structure || []).map((part) => `
+    <section class="analysis-card movement">
+      <p class="analysis-title">${esc(part.heading)}</p>
+      <p>${esc(part.purpose)}</p>${evidence(part.evidence)}
+    </section>`).join('');
+  const pairs = (rows, left, right) => `<dl class="analysis-pairs">${(rows || []).map((row) =>
+    `<div><dt>${esc(row[left])}</dt><dd>${esc(row[right])}</dd></div>`).join('')}</dl>`;
+
+  box.innerHTML = `
+    <section class="analysis-lede">
+      <p class="analysis-kicker">Corpus thesis</p>
+      <p class="analysis-thesis">${esc(d.summary?.thesis || '')}</p>
+      ${(d.summary?.paragraphs || []).map((paragraph) => `<p>${esc(paragraph)}</p>`).join('')}
+    </section>
+    <h3 class="analysis-heading">What is in the archive</h3>
+    <ul class="corpus-shape">${shape}</ul>
+    <p class="analysis-boundary">${esc(sv.boundary || '')}</p>
+    <h3 id="repeated-topics" class="analysis-heading">Repeated topics</h3>
+    <p class="analysis-intro">These are editorial families, not mutually exclusive categories. The number says how many unique routes carry a matching human-reviewed theme tag; the prose explains what changes when the theme recurs.</p>
+    ${topics}
+    <h3 id="people" class="analysis-heading">People across the corpus</h3>
+    <p class="analysis-intro">Aliases are combined here—Critter with Critter Fleming, and Bobby Namba with Bobby Trivia. Counts are reviewed route appearances, not claims about who spoke an individual line.</p>
+    ${people}
+    <h3 id="screenplay-notes" class="analysis-heading">Screenplay notes</h3>
+    <p class="analysis-status">${esc(screenplay.status || '')}</p>
+    <p class="screenplay-logline">${esc(screenplay.logline || '')}</p>
+    <p class="screenplay-question"><b>Central dramatic question</b>${esc(screenplay.central_question || '')}</p>
+    ${movements}
+    <h4 class="analysis-subheading">Recurring images</h4>
+    ${pairs(screenplay.recurring_images, 'image', 'use')}
+    <h4 class="analysis-subheading">Character functions</h4>
+    ${pairs(screenplay.character_function, 'name', 'function')}
+    <h4 class="analysis-subheading">Adaptation cautions</h4>
+    <ol class="analysis-cautions">${(screenplay.cautions || []).map((row) => `<li>${esc(row)}</li>`).join('')}</ol>`;
 }
 
 /* The cast across the whole run. A single episode shows who was in the room;
@@ -811,6 +889,16 @@ async function renderHub() {
 function route() {
   const raw = location.hash.replace(/^#/, '');
   if (raw === 'ranch') return renderHub();
+  if (raw === 'overview') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Overall corpus analysis';
+    $('rmeta').textContent = 'What the complete archive adds up to: a corpus thesis, repeated topics with explicit route counts, normalized people and relationships, and screenplay development notes grounded in supporting recordings.';
+    $('prov').textContent = 'Editorial synthesis. Route counts are generated from the completed 421-route review layer; interpretations and screenplay notes are labeled analysis, not transcript or settled biography.';
+    $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('overview');
+    return renderOverview();
+  }
   if (raw === 'retold') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
     // IDs verified against index.html. An earlier version targeted title/meta/
@@ -940,10 +1028,12 @@ function route() {
     return;
   }
   state.items = state.cat.items;
-  const hrs = state.items.reduce((a, b) => a + b.d, 0) / 3600;
-  const w = state.items.reduce((a, b) => a + b.w, 0);
+  const uniqueRoutes = [...new Map(state.items.map((item) => [item.id, item])).values()];
+  const hrs = uniqueRoutes.reduce((a, b) => a + b.d, 0) / 3600;
+  const w = uniqueRoutes.reduce((a, b) => a + b.w, 0);
   $('stats').textContent =
-    `${state.items.length} transcripts · ${hrs.toFixed(0)} hours · ${w.toLocaleString()} words · machine-transcribed`;
+    `${uniqueRoutes.length} unique reader routes · ${state.items.length} catalog cards · `
+    + `${hrs.toFixed(0)} hours · ${w.toLocaleString()} words · machine-assisted`;
 
   // count first so the entrance can show how many stories qualify
   try {

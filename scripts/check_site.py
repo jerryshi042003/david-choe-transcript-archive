@@ -121,6 +121,28 @@ def main() -> int:
         for item in corpus.get("documents", []):
             if not isinstance(item.get("anchors"), list) or not isinstance(item.get("related"), list) or not item.get("segments"):
                 errors.append(f"corpus map entry incomplete: {item.get('id')}")
+
+        analysis = json.loads((ROOT / "data/corpus-analysis.json").read_text(encoding="utf-8"))
+        survey = analysis.get("survey", {})
+        if survey.get("routes") != len(routes) or survey.get("catalog_cards") != len(catalog["items"]):
+            errors.append("corpus analysis denominator does not match the catalog")
+        if len(analysis.get("summary", {}).get("paragraphs", [])) < 4:
+            errors.append("corpus analysis lacks the complete overall summary")
+        if len(analysis.get("repeated_topics", [])) < 8:
+            errors.append("corpus analysis lacks repeated-topic synthesis")
+        if len(analysis.get("people", [])) < 12:
+            errors.append("corpus analysis lacks the normalized people guide")
+        screenplay = analysis.get("screenplay_notes", {})
+        if len(screenplay.get("structure", [])) < 4 or len(screenplay.get("cautions", [])) < 5:
+            errors.append("corpus analysis lacks screenplay structure or adaptation cautions")
+        refs = []
+        for topic in analysis.get("repeated_topics", []):
+            refs.extend(topic.get("evidence", []))
+        for movement in screenplay.get("structure", []):
+            refs.extend(movement.get("evidence", []))
+        missing_refs = [ref.get("id") for ref in refs if ref.get("id") not in routes]
+        if missing_refs:
+            errors.append(f"corpus analysis points to missing routes: {missing_refs[:5]}")
     except (OSError, ValueError, KeyError) as exc:
         errors.append(f"invalid corpus map: {exc}")
 

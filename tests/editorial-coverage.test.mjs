@@ -19,6 +19,8 @@ for (const script of [
   'review_editorial_entities.mjs',
   'embed_editorial.mjs',
   'build_trivia_coverage.mjs',
+  'build_corpus_analysis.mjs',
+  'refresh_method_counts.mjs',
 ]) {
   const result = run(script);
   assert.equal(result.status, 0, `${script} failed:\n${result.stdout}\n${result.stderr}`);
@@ -62,6 +64,26 @@ assert.equal(trivia.routes.filter((route) => route.status === 'reviewed-format-e
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'data/catalog.json'), 'utf8'));
 const ids = [...new Set(catalog.items.map((item) => item.id))];
 assert.equal(ids.length, 421);
+
+const analysis = JSON.parse(fs.readFileSync(path.join(root, 'data/corpus-analysis.json'), 'utf8'));
+assert.equal(analysis.schema, 'choe-corpus/corpus-analysis@1');
+assert.equal(analysis.survey.routes, 421);
+assert.equal(analysis.survey.catalog_cards, 434);
+assert.equal(analysis.summary.paragraphs.length, 4);
+assert.equal(analysis.repeated_topics.length, 10);
+assert.ok(analysis.repeated_topics.every((topic) => topic.route_count >= 3 && topic.denominator === 421));
+assert.ok(analysis.people.some((person) => person.name === 'Bobby Namba (Bobby Trivia)' && person.route_count > 40));
+assert.ok(analysis.people.some((person) => person.name === 'Critter Fleming' && person.route_count > 60));
+assert.equal(analysis.screenplay_notes.structure.length, 4);
+assert.ok(analysis.screenplay_notes.cautions.length >= 6);
+const analysisRefs = [
+  ...analysis.repeated_topics.flatMap((topic) => topic.evidence),
+  ...analysis.screenplay_notes.structure.flatMap((movement) => movement.evidence),
+];
+assert.ok(analysisRefs.every((ref) => ids.includes(ref.id)), 'corpus analysis evidence must resolve to reader routes');
+assert.ok(app.includes('data/corpus-analysis.json'));
+assert.ok(app.includes("raw === 'overview'"));
+
 for (const id of ids) {
   const source = JSON.parse(fs.readFileSync(path.join(root, 'editorial', `${id}.json`), 'utf8'));
   assert.ok(source.summary?.trim(), `${id}: summary missing`);
