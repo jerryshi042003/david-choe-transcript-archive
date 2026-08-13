@@ -6,16 +6,16 @@
   "unique_reader_routes": 421
  },
  "coverage": {
-  "editorial": 349,
-  "context": 349,
-  "summary": 349,
-  "description": 349,
-  "chapters": 349,
-  "people": 208,
+  "editorial": 359,
+  "context": 359,
+  "summary": 359,
+  "description": 359,
+  "chapters": 359,
+  "people": 218,
   "places": 167,
-  "works": 197,
-  "themes": 208,
-  "connections": 349
+  "works": 201,
+  "themes": 218,
+  "connections": 359
  },
  "known_signal_checks": {
   "exact_word_trivia": {
@@ -34,7 +34,7 @@
   {
    "group": "David Choe",
    "routes": 82,
-   "editorial": 59
+   "editorial": 69
   },
   {
    "group": "Saga 2",
@@ -2159,7 +2159,7 @@
    "title": "How to Stay Optimistic in a Chaotic World",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2239,7 +2239,8 @@
    "title": "Remembering Anthony Bourdain",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2255,7 +2256,8 @@
    "title": "The Problem is You Suck",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2321,7 +2323,7 @@
    "title": "After 1000 Rejections, I Learned This...",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2478,7 +2480,7 @@
    "title": "How Can You Be Creative If You Don't Know Who You Are?",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2526,7 +2528,8 @@
    "title": "How to Draw an Awesome Cityscape: Art Tutorial",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2558,7 +2561,7 @@
    "title": "David Choe Explores the Imperfect Perfection of Michael Mann’s Heat",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2582,7 +2585,8 @@
    "title": "A Guide to Painting Through Pain",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2686,7 +2690,8 @@
    "title": "How to Make the Best Underpainting of a Canvas | Art Tutorial",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2766,7 +2771,8 @@
    "title": "Turn Your Feelings into Art | Art Tutorial",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {

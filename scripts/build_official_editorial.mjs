@@ -84,6 +84,56 @@ const videos = {
     focus: "To answer creative block, Choe accepts random color constraints, starts with a bowl-cut character, adapts composition to a cramped page and demonstrates hair and clothing while allowing the improvised figure to become a companion.",
     works: [], themes: ['creative block', 'constraints', 'character drawing', 'improvisation', 'composition'], warnings: ['explicit language'],
     beats: [[2, 'Nothing in the big dumb brain'], [161, 'Random color constraints'], [333, 'Working with too little headroom'], [520, 'Drawing hair step by step'], [700, 'The improvised best friend']]
+  },
+  'Kom2FTRT8_Y': {
+    focus: "Choe uses a drawing requested by his daughter to ask how optimism survives chaos, drawing on *Forrest Gump*, improvisation, Larry David and a deliberately opinionated Star Wars viewing order before placing his own screen history in context.",
+    works: ['Forrest Gump', 'Curb Your Enthusiasm', 'Star Wars', 'The Mandalorian'], themes: ['optimism', 'chaos', 'improvisation', 'family', 'film history'], warnings: ['explicit language'],
+    beats: [[1, "His daughter's hair and drawing request"], [118, 'Forrest keeps running'], [259, 'What script?'], [371, 'A personal Star Wars viewing order'], [462, 'Two decades of public work']]
+  },
+  'QpCd4BetnoQ': {
+    focus: "Choe remembers Anthony Bourdain through a birthday gathering, visits to his mother's home with Korean pears and a reluctant painting session, then explains why a family photograph in front of that painting became a private memorial.",
+    works: [], themes: ['Anthony Bourdain', 'friendship', 'family hospitality', 'painting', 'memorial'], warnings: ['suicide and bereavement', 'intense grief'],
+    beats: [[0, 'A shared birthday and family arrival'], [65, "Bourdain visits Choe's mother"], [129, 'Painting can save a life'], [181, 'His parents in front of the painting'], [222, 'The memorial post he nearly published']]
+  },
+  'T-632m9gwso': {
+    focus: "A deliberately abrasive lesson argues that improvement requires admitting ignorance, practicing everywhere like Keith Haring, approaching galleries before permission feels earned and valuing the learner who researches gaps over the person who pretends expertise.",
+    works: [], themes: ['practice', 'ignorance', 'Keith Haring', 'galleries', 'learning'], warnings: ['harsh insulting and explicit language'],
+    beats: [[0, 'The promise to teach the best'], [68, 'Admit that the current work is weak'], [156, 'Keith Haring drew everywhere'], [233, 'Acting as if you belong'], [303, 'Prefer the learner to the know-it-all']]
+  },
+  'W-I6eXxXfIE': {
+    focus: "Choe credits his immigrant mother's door-to-door persistence with teaching him that rejection is temporary, connecting childhood muteness and compulsive rituals to repeated applications, changing taste and the patient work needed while an opportunity remains unavailable.",
+    works: ['Ray Gun'], themes: ['rejection', 'immigrant family', 'childhood anxiety', 'persistence', 'changing taste'], warnings: ['self-reported childhood OCD-like behavior', 'harsh language'],
+    beats: [[6, 'Fear of failure and his mother'], [57, 'A nearly mute and anxious child'], [115, 'Watching door-to-door work'], [176, 'No means no for today'], [224, 'Kimchi, persistence and changing taste']]
+  },
+  'd5qA2KUiSws': {
+    focus: "Choe asks viewers to state who they are, traces adult hardness back to events that closed childhood openness, challenges swings between grandiosity and worthlessness, and uses a stripped-down painting phase to imagine beginning again.",
+    works: ['The Terminator'], themes: ['identity', 'childhood openness', 'self-worth', 'direct confrontation', 'renewal'], warnings: ['trauma references', 'self-loathing'],
+    beats: [[0, 'Who are you?'], [111, 'The day something hardened'], [239, 'Grandiosity and worthlessness'], [340, 'Entering a naked new phase'], [461, 'A new day without perfect resolution']]
+  },
+  'iwWlZJ_EsvE': {
+    focus: "A cityscape tutorial starts by bringing imagined nature into an office-bound city, tears through a fence, builds dense Hong Kong–New York–San Francisco–Los Angeles geometry, adds a nighttime doorway and ends by questioning how long a painting really took.",
+    works: [], themes: ['cityscape', 'urban nature', 'composition', 'architecture', 'process time'], warnings: ['explicit language'],
+    beats: [[2, 'Nature inside a city'], [187, 'Opening a hole in the fence'], [348, 'Dense global-city geometry'], [497, 'A nighttime back door'], [672, 'The last mark and the time question']]
+  },
+  'lcbK5KRKDrs': {
+    focus: "Choe analyzes Michael Mann's *Heat* through remembered lines, casting and production details, Black Flag's visible tattoo, the diner conversation between Neil and Hanna and the emotional cost of a life spent running.",
+    works: ['Heat', 'Black Flag'], themes: ['film analysis', 'Michael Mann', 'imperfection', 'character motivation', 'fear'], warnings: ['film violence', 'explicit language'],
+    beats: [[0, 'Fact-checking a remembered Heat line'], [114, 'The getaway crew'], [255, 'A visible Black Flag tattoo'], [381, 'The diner conversation problem'], [489, 'A lifetime of running']]
+  },
+  'mGo88FJE4q0': {
+    focus: "Choe presents painting through pain as a sequence of tangents, naming deception, returning to the site of a wound, asking what protection was needed then and finally revealing the art show as a self-help exercise interrupted by his mother.",
+    works: [], themes: ['pain', 'catfishing', 'questions', 'protection', 'self-help'], warnings: ['trauma and violence references', 'explicit language'],
+    beats: [[0, 'Tangents and today as a gift'], [85, 'Defining catfishing'], [198, 'Questions replace answers'], [307, 'What protection was needed?'], [390, 'The art show reveals its self-help frame']]
+  },
+  'vDo1yCwzzxg': {
+    focus: "An extended underpainting tutorial contrasts making a living with making an image, hides garish early colors beneath later work, questions the performance of mature gallery art and uses stopping movement to reconsider an old survival strategy.",
+    works: [], themes: ['underpainting', 'professional art', 'hidden color', 'gallery expectations', 'stopping'], warnings: ['death anxiety', 'explicit language'],
+    beats: [[3, 'What does it mean to make it?'], [188, 'Garish colors no one may see'], [352, 'Mature work and gallery performance'], [563, 'Stopping without dying'], [832, 'An old strategy no longer works']]
+  },
+  'yz_qrtjMONo': {
+    focus: "Choe begins unprepared with a bag of materials and translates changing feelings into mixed-media forest colors, emphasizes voluntary participation, paints impossible blue dead leaves and finally introduces spray paint that overwhelms the cameraman.",
+    works: [], themes: ['feelings', 'mixed media', 'choice', 'forest imagery', 'spray paint'], warnings: ['spray-paint fumes', 'explicit language'],
+    beats: [[1, 'An unprepared bag of materials'], [147, 'Choosing colors from the day'], [296, 'No one has to participate'], [468, 'Blue leaves and the dead tree'], [600, 'Spray paint enters the quiet forest']]
   }
 };
 

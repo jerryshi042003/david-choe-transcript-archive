@@ -2,9 +2,9 @@
  "schema": "choe-corpus/subjects@2",
  "survey": {
   "items_in_archive": 421,
-  "items_with_entities": 208,
+  "items_with_entities": 218,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 208 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item and currently exist for 218 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
@@ -6000,6 +6000,10 @@
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 1/5)"
      },
      {
+      "id": "QpCd4BetnoQ",
+      "title": "Remembering Anthony Bourdain"
+     },
+     {
       "id": "T5Bc_q5FHCQ",
       "title": "Thumbs up season 4 (David choe snapchat compiled) Read desc"
      },
@@ -6048,7 +6052,7 @@
       "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby"
      }
     ],
-    "count": 22
+    "count": 23
    },
    {
     "name": "privacy",
@@ -6595,6 +6599,36 @@
     "count": 6
    },
    {
+    "name": "fear",
+    "episodes": [
+     {
+      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
+      "title": "Episode 017"
+     },
+     {
+      "id": "CF0o5-EOWb4",
+      "title": "The Unofficial Choe Show Trailer on Hulu"
+     },
+     {
+      "id": "QO3-AAVTeDA",
+      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
+     },
+     {
+      "id": "Z1fihPegvyk",
+      "title": "Leaning Into Discomfort to Unlock True Artistic Expression-David Choe"
+     },
+     {
+      "id": "cifhF0mCouA",
+      "title": "Make Art Out of Curiosity not Fear | Art Tutorial"
+     },
+     {
+      "id": "lcbK5KRKDrs",
+      "title": "David Choe Explores the Imperfect Perfection of Michael Mann’s Heat"
+     }
+    ],
+    "count": 6
+   },
+   {
     "name": "hospitality",
     "episodes": [
      {
@@ -6620,6 +6654,36 @@
      {
       "id": "wcMNw16dQKo",
       "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)"
+     }
+    ],
+    "count": 6
+   },
+   {
+    "name": "improvisation",
+    "episodes": [
+     {
+      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
+      "title": "Episode 028"
+     },
+     {
+      "id": "Kom2FTRT8_Y",
+      "title": "How to Stay Optimistic in a Chaotic World"
+     },
+     {
+      "id": "U9RG_RBqyOM",
+      "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
+     },
+     {
+      "id": "Wm3yHxczebw",
+      "title": "Fine Art is Overrated: Art Tutorial"
+     },
+     {
+      "id": "cq3QBKbHUro",
+      "title": "How to Overcome Creative Blocks and Fuel Inspiration"
+     },
+     {
+      "id": "ve6W8gFmNQQ",
+      "title": "The Cooking Choe Starring David Choe and Harry Kim Aka Guam Cruise"
      }
     ],
     "count": 6
@@ -6793,32 +6857,6 @@
     "count": 5
    },
    {
-    "name": "fear",
-    "episodes": [
-     {
-      "id": "saga1-episode-017-with-david-choe-and-asa-akira",
-      "title": "Episode 017"
-     },
-     {
-      "id": "CF0o5-EOWb4",
-      "title": "The Unofficial Choe Show Trailer on Hulu"
-     },
-     {
-      "id": "QO3-AAVTeDA",
-      "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)"
-     },
-     {
-      "id": "Z1fihPegvyk",
-      "title": "Leaning Into Discomfort to Unlock True Artistic Expression-David Choe"
-     },
-     {
-      "id": "cifhF0mCouA",
-      "title": "Make Art Out of Curiosity not Fear | Art Tutorial"
-     }
-    ],
-    "count": 5
-   },
-   {
     "name": "gratitude",
     "episodes": [
      {
@@ -6866,32 +6904,6 @@
      {
       "id": "bxqo4zQWNA0",
       "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial"
-     }
-    ],
-    "count": 5
-   },
-   {
-    "name": "improvisation",
-    "episodes": [
-     {
-      "id": "saga1-episode-028-with-david-choe-and-asa-akira",
-      "title": "Episode 028"
-     },
-     {
-      "id": "U9RG_RBqyOM",
-      "title": "Exploring LA Thrift Stores with David Choe: A Quest for Inspiration"
-     },
-     {
-      "id": "Wm3yHxczebw",
-      "title": "Fine Art is Overrated: Art Tutorial"
-     },
-     {
-      "id": "cq3QBKbHUro",
-      "title": "How to Overcome Creative Blocks and Fuel Inspiration"
-     },
-     {
-      "id": "ve6W8gFmNQQ",
-      "title": "The Cooking Choe Starring David Choe and Harry Kim Aka Guam Cruise"
      }
     ],
     "count": 5
@@ -7158,6 +7170,28 @@
      {
       "id": "spAebvaG-VE",
       "title": "Watch RZA and David Choe Collide in This Unexpected Jam Session!"
+     }
+    ],
+    "count": 4
+   },
+   {
+    "name": "composition",
+    "episodes": [
+     {
+      "id": "cifhF0mCouA",
+      "title": "Make Art Out of Curiosity not Fear | Art Tutorial"
+     },
+     {
+      "id": "cq3QBKbHUro",
+      "title": "How to Overcome Creative Blocks and Fuel Inspiration"
+     },
+     {
+      "id": "iwWlZJ_EsvE",
+      "title": "How to Draw an Awesome Cityscape: Art Tutorial"
+     },
+     {
+      "id": "wK3xCI1VF-g",
+      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
      }
     ],
     "count": 4
@@ -7531,24 +7565,6 @@
     "count": 3
    },
    {
-    "name": "composition",
-    "episodes": [
-     {
-      "id": "cifhF0mCouA",
-      "title": "Make Art Out of Curiosity not Fear | Art Tutorial"
-     },
-     {
-      "id": "cq3QBKbHUro",
-      "title": "How to Overcome Creative Blocks and Fuel Inspiration"
-     },
-     {
-      "id": "wK3xCI1VF-g",
-      "title": "ORIGINAL ART SHOW AND TELL with David Choe"
-     }
-    ],
-    "count": 3
-   },
-   {
     "name": "concussion",
     "episodes": [
      {
@@ -7724,6 +7740,24 @@
      {
       "id": "j7T6__UbhBI",
       "title": "Joe Rogan Experience #1518 - David Choe"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "identity",
+    "episodes": [
+     {
+      "id": "2Xw5EgZdNvQ",
+      "title": "Joe Rogan Experience #563 - David Choe"
+     },
+     {
+      "id": "V_v5tS3WRQ8",
+      "title": "Why David Choe Stopped Playing Life Like a Video Game"
+     },
+     {
+      "id": "d5qA2KUiSws",
+      "title": "How Can You Be Creative If You Don't Know Who You Are?"
      }
     ],
     "count": 3
@@ -7922,6 +7956,24 @@
      {
       "id": "yFFUaDk29pA",
       "title": "David Choe & Joe Rogan On Why They Left LA | Joe Rogan Experience"
+     }
+    ],
+    "count": 3
+   },
+   {
+    "name": "painting",
+    "episodes": [
+     {
+      "id": "saga1-episode-029-with-david-choe-and-asa-akira",
+      "title": "Episode 029"
+     },
+     {
+      "id": "QpCd4BetnoQ",
+      "title": "Remembering Anthony Bourdain"
+     },
+     {
+      "id": "k-wWvZu9xaA",
+      "title": "DVDASA Episode 029 with David Choe and Asa Akira"
      }
     ],
     "count": 3
