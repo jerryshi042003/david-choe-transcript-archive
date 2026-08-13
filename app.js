@@ -284,7 +284,7 @@ async function renderRetellings() {
 /* ONE navigable analysis section. The four analyses were reachable only as chips
    on the front page, so a reader who opened one had to go back to reach another
    and could not tell the set existed. They are one section with tabs. */
-const ANALYSES = [['overview', 'Overview'], ['corpus', 'Route map'], ['stories', 'Verified stories'], ['retold', 'Similar passages'],
+const ANALYSES = [['overview', 'Overview'], ['recent', 'Current YouTube'], ['corpus', 'Route map'], ['stories', 'Verified stories'], ['retold', 'Similar passages'],
                   ['arcs', 'Arcs'], ['subjects', 'Recurring subjects'],
                   ['cast', 'Cast'], ['method', 'Method']];
 
@@ -367,6 +367,84 @@ async function renderOverview() {
     ${pairs(screenplay.character_function, 'name', 'function')}
     <h4 class="analysis-subheading">Adaptation cautions</h4>
     <ol class="analysis-cautions">${(screenplay.cautions || []).map((row) => `<li>${esc(row)}</li>`).join('')}</ol>`;
+}
+
+/* The transcript archive previously treated a video as if its words were the
+   whole work. This current-era view keeps three evidence layers separate:
+   official metadata, derived picture/sound measurements, and editorial
+   interpretation. No copied media, captions or source descriptions ship. */
+async function renderRecentChannel() {
+  const box = $('body');
+  let d;
+  try { d = await (await fetch(dataURL('data/recent-channel.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No current-channel analysis built yet.</p>'; return; }
+  const sv = d.survey || {};
+  $('fhint').textContent = `${sv.videos} official uploads · ${sv.hours} hours · `
+    + `${sv.edit_measurements} picture measurements · ${sv.sound_measurements} sound measurements`;
+  const date = (value) => value ? `${value.slice(0, 4)}-${value.slice(4, 6)}-${value.slice(6, 8)}` : '—';
+  const metric = (video) => video.edit_metrics
+    ? `<b>${video.edit_metrics.cuts_per_minute.toFixed(1)}</b><span>cuts/min</span>`
+    : `<b>—</b><span>visual gap</span>`;
+  const phaseCards = (d.phases || []).slice().reverse().map((phase) => `
+    <section class="phase-card">
+      <p class="phase-dates">${date(phase.from_date)} → ${date(phase.to_date)}</p>
+      <h3>${esc(phase.label)}</h3>
+      <p>${esc(phase.description)}</p>
+      <p class="phase-metric"><b>${phase.videos}</b> videos · median <b>${phase.median_cuts_per_minute}</b> cuts/min
+        · ${phase.measured_edits}/${phase.videos} picture-measured</p>
+    </section>`).join('');
+  const grammar = (d.editing_grammar || []).map((item) => `
+    <section class="grammar-item"><h3>${esc(item.name)}</h3><p>${esc(item.reading)}</p></section>`).join('');
+  const rows = (d.videos || []).map((video) => `
+    <article class="recent-video" data-phase="${esc(video.phase)}" data-mode="${esc(video.mode)}">
+      <div class="recent-rate">${metric(video)}</div>
+      <div>
+        <p class="recent-title"><a href="${esc(video.url)}" target="_blank" rel="noopener noreferrer">${esc(video.title)}</a></p>
+        <p class="recent-meta">${date(video.upload_date)} · ${hms(video.duration_seconds)} · ${esc(video.mode)}</p>
+        <p class="recent-summary">${esc(video.summary)}</p>
+        <details><summary>Editing and sound evidence</summary>
+          <p><b>Picture:</b> ${esc(video.edit_read)}</p>
+          <p><b>Sound:</b> ${esc(video.sound_read)}</p>
+          <p class="recent-status">${esc(video.review_status)}</p>
+        </details>
+      </div>
+    </article>`).join('');
+  box.innerHTML = `
+    <section class="analysis-lede recent-lede">
+      <p class="analysis-kicker">Working name</p>
+      <p class="analysis-thesis">${esc(d.thesis.name)}</p>
+      <p>${esc(d.thesis.shorthand)}</p>
+      <p>${esc(d.thesis.reading)}</p>
+      <p><b>Talking:</b> ${esc(d.thesis.speaking)}</p>
+      <p><b>Sound:</b> ${esc(d.thesis.sound)}</p>
+    </section>
+    <p class="analysis-boundary"><b>Scope:</b> ${esc(sv.boundary)} ${esc(sv.rights)}</p>
+    <h3 class="analysis-heading">The editing grammar</h3>
+    <div class="grammar-grid">${grammar}</div>
+    <h3 class="analysis-heading">How the form changes</h3>
+    <div class="phase-grid">${phaseCards}</div>
+    <h3 class="analysis-heading">Every video in the era</h3>
+    <p class="analysis-intro">The short summary is original metadata-based orientation. Picture and sound claims come only from the measured source stream. Open any row for its evidence; explicit gaps remain gaps.</p>
+    <div class="recent-controls" role="group" aria-label="Filter current YouTube videos">
+      <button type="button" data-recent-filter="all" aria-pressed="true">All ${sv.videos}</button>
+      ${(d.phases || []).map((phase) => `<button type="button" data-recent-filter="${esc(phase.id)}" aria-pressed="false">${esc(phase.label)} ${phase.videos}</button>`).join('')}
+    </div>
+    <p id="recentCount" class="count">${sv.videos} videos</p>
+    <div id="recentRows" class="recent-rows">${rows}</div>
+    <p class="analysis-boundary"><b>Measurement boundary:</b> ${esc(sv.method)} Picture gaps: ${sv.explicit_edit_gaps}; sound gaps: ${sv.explicit_sound_gaps}.</p>`;
+  box.querySelectorAll('[data-recent-filter]').forEach((button) => {
+    button.onclick = () => {
+      const filter = button.dataset.recentFilter;
+      box.querySelectorAll('[data-recent-filter]').forEach((peer) =>
+        peer.setAttribute('aria-pressed', String(peer === button)));
+      let shown = 0;
+      box.querySelectorAll('.recent-video').forEach((row) => {
+        const visible = filter === 'all' || row.dataset.phase === filter;
+        row.hidden = !visible; if (visible) shown++;
+      });
+      $('recentCount').textContent = `${shown} video${shown === 1 ? '' : 's'}`;
+    };
+  });
 }
 
 /* The cast across the whole run. A single episode shows who was in the room;
@@ -898,6 +976,17 @@ function route() {
     $('editorial').innerHTML = '';
     renderTabs('overview');
     return renderOverview();
+  }
+  if (raw === 'recent') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'Current YouTube era — audiovisual analysis';
+    $('rmeta').textContent = 'Every official-channel upload in the continuous November 2022–August 2026 run, read as edited video: picture rhythm, sound density, visible art process, and the move from confessional rant collage toward focused studio essays.';
+    $('prov').textContent = 'Official metadata plus derived scene-change, silence and loudness measurements. Full video, audio, captions, transcripts, source descriptions and contact sheets are not published.';
+    $('rlink').href = 'https://www.youtube.com/@davidchoe/videos';
+    $('rlink').textContent = 'Open the official channel ↗'; $('rlink').hidden = false;
+    $('modes').hidden = true; $('fq').hidden = true; $('editorial').innerHTML = '';
+    renderTabs('recent');
+    return renderRecentChannel();
   }
   if (raw === 'retold') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;

@@ -3,6 +3,7 @@
 Public David Choe / DVDASA source archive, transcript reader, and Jerry / Tom tennis-culture working record.
 
 - Archive: https://jerryshi042003.github.io/david-choe-transcript-archive/
+- Current YouTube era: https://jerryshi042003.github.io/david-choe-transcript-archive/#recent
 - Verified web sources: https://jerryshi042003.github.io/david-choe-transcript-archive/sources/
 - Jerry / Tom record: https://jerryshi042003.github.io/david-choe-transcript-archive/tennis-culture/
 
@@ -95,6 +96,28 @@ coverage manifest must have zero incomplete routes, the DVDASA trivia ledger
 must remain 177/177 reviewed with 167 passages present, and the overall corpus
 analysis must cover all 421 unique reader routes with summary, repeated topics,
 normalized people, and screenplay development notes.
+
+## Current official-channel era
+
+`data/recent-channel.json` separately covers all 119 official `@davidchoe`
+uploads in the continuous November 5, 2022–August 7, 2026 run. This is an
+audiovisual layer, not a transcript proxy: it records official metadata,
+original orientation summaries, phase/mode classification, derived scene-change
+rhythm, and measured silence/loudness. Full media, captions, transcripts,
+uploader descriptions, and contact sheets are excluded. Five picture streams
+and ten sound streams remain explicit measurement gaps rather than receiving
+borrowed values from neighboring videos.
+
+Rebuild from rights-cleared local metadata and ephemeral source-stream
+measurements:
+
+```bash
+node scripts/build_recent_channel_analysis.mjs \
+  --metadata /path/to/local/metadata \
+  --metrics /path/to/derived-measurements.json \
+  --output data/recent-channel.json
+node tests/recent-channel.test.mjs
+```
 
 ## Repository boundary
 
