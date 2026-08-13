@@ -6,16 +6,16 @@
   "unique_reader_routes": 421
  },
  "coverage": {
-  "editorial": 334,
-  "context": 334,
-  "summary": 334,
-  "description": 334,
-  "chapters": 334,
-  "people": 193,
+  "editorial": 349,
+  "context": 349,
+  "summary": 349,
+  "description": 349,
+  "chapters": 349,
+  "people": 208,
   "places": 167,
-  "works": 192,
-  "themes": 193,
-  "connections": 334
+  "works": 197,
+  "themes": 208,
+  "connections": 349
  },
  "known_signal_checks": {
   "exact_word_trivia": {
@@ -34,7 +34,7 @@
   {
    "group": "David Choe",
    "routes": 82,
-   "editorial": 44
+   "editorial": 59
   },
   {
    "group": "Saga 2",
@@ -1900,7 +1900,8 @@
    "title": "Your Strength is in Your Weakness | Art Inspiration",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -1972,7 +1973,7 @@
    "title": "Embrace the Chaos of Your life | Art Tutorial",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -1980,7 +1981,8 @@
    "title": "Tell Me The Truth : Art Tutorial",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2020,7 +2022,7 @@
    "title": "Scrape the Poopie Out of Your Soul | Art Technique",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2092,7 +2094,7 @@
    "title": "Draw Your Soul in Your Underpaintings",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2108,7 +2110,7 @@
    "title": "What Lies Beneath Our Masks? | David Choe",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2124,7 +2126,8 @@
    "title": "Comfort is the Killer of Creativity",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2140,7 +2143,7 @@
    "title": "Paint Honestly to Improve Your Art",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places"
    ]
   },
   {
@@ -2260,7 +2263,8 @@
    "title": "Why Artists Don’t Grow, And How to Let Go",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2268,7 +2272,8 @@
    "title": "How I Use My Deepest Wounds to Fuel My Art",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2356,7 +2361,8 @@
    "title": "Leaning Into Discomfort to Unlock True Artistic Expression-David Choe",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2412,7 +2418,8 @@
    "title": "Don't Ruin Your Life, Just for Today",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2436,7 +2443,8 @@
    "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2452,7 +2460,8 @@
    "title": "Make Art Out of Curiosity not Fear | Art Tutorial",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {
@@ -2460,7 +2469,8 @@
    "title": "How to Overcome Creative Blocks and Fuel Inspiration",
    "group": "David Choe",
    "missing": [
-    "editorial"
+    "places",
+    "works"
    ]
   },
   {

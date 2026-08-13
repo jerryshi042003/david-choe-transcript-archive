@@ -48,6 +48,7 @@ node tests/web-sources.test.mjs
 node tests/editorial-coverage.test.mjs
 node scripts/build_reupload_editorial.mjs
 node scripts/build_excerpt_editorial.mjs
+node scripts/build_official_editorial.mjs
 node scripts/embed_editorial.mjs
 node scripts/build_trivia_coverage.mjs
 node scripts/audit_editorial_coverage.mjs
@@ -72,6 +73,10 @@ each YouTube route while linking it to the canonical human-reviewed episode.
 review map for excerpt uploads. Each excerpt has its own focus summary and
 timeline; transcript overlap links it to a full source without pretending the
 clip is an independent interview.
+`node scripts/build_official_editorial.mjs --write` rebuilds the explicit
+route-by-route review map for David Choe's official creative lessons. It keeps
+art metaphors separate from medical advice and flags technique that still
+depends on the source video.
 
 ## Repository boundary
 
