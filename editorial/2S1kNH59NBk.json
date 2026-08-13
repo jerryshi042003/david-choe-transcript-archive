@@ -24,111 +24,447 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 0, "title": "Cold open: paint, trade and creativity"},
-    {"t": 10, "title": "Thumbs Up America in Los Angeles"},
-    {"t": 20, "title": "A private Taiwan encounter remembered"},
-    {"t": 36, "title": "Tinder, IRL and changing tactics"},
-    {"t": 44, "title": "Forty-eight in his mother's Lexus"},
-    {"t": 51, "title": "Pathetic or cool: choosing the frame"},
-    {"t": 70, "title": "Twenty years after filming Thumbs Up"},
-    {"t": 83, "title": "Back on the bicycle without Critter or Harry"},
-    {"t": 109, "title": "Tenzin recognizes David"},
-    {"t": 118, "title": "Tibet, Philadelphia and a road trip"},
-    {"t": 129, "title": "Hollywood Boulevard disappointment"},
-    {"t": 141, "title": "Appreciate everything"},
-    {"t": 175, "title": "Costumed characters ahead"},
-    {"t": 188, "title": "Knife, machete and fake-badge questions"},
-    {"t": 205, "title": "Armor-rating sales talk"},
-    {"t": 221, "title": "Wig shopping and an unidentified refrain"},
-    {"t": 249, "title": "Back at the Hollywood Sign"},
-    {"t": 257, "title": "Park life as a new canvas"},
-    {"t": 276, "title": "Fruit cup and multilingual exchange"},
-    {"t": 290, "title": "The first painting fails"},
-    {"t": 297, "title": "Change the crop and angle"},
-    {"t": 314, "title": "Paint what you see"},
-    {"t": 323, "title": "Black paint, pineapple and signing early"},
-    {"t": 347, "title": "Annie and the fruit stand"},
-    {"t": 370, "title": "Examining the painting"},
-    {"t": 391, "title": "Painting traded for coconut juice"},
-    {"t": 436, "title": "Javier joins the drawing"},
-    {"t": 448, "title": "Eyes first and talent from God"},
-    {"t": 480, "title": "Kindred spirits and an unplanned collaboration"},
-    {"t": 509, "title": "Coconut juice as comic paint medium"},
-    {"t": 572, "title": "Original cartoons and an art trade"},
-    {"t": 630, "title": "Parenting question, perspective and the new Thumbs Up"}
+    {
+      "t": 0,
+      "title": "Cold open: paint, trade and creativity"
+    },
+    {
+      "t": 10,
+      "title": "Thumbs Up America in Los Angeles"
+    },
+    {
+      "t": 20,
+      "title": "A private Taiwan encounter remembered"
+    },
+    {
+      "t": 36,
+      "title": "Tinder, IRL and changing tactics"
+    },
+    {
+      "t": 44,
+      "title": "Forty-eight in his mother's Lexus"
+    },
+    {
+      "t": 51,
+      "title": "Pathetic or cool: choosing the frame"
+    },
+    {
+      "t": 70,
+      "title": "Twenty years after filming Thumbs Up"
+    },
+    {
+      "t": 83,
+      "title": "Back on the bicycle without Critter or Harry"
+    },
+    {
+      "t": 109,
+      "title": "Tenzin recognizes David"
+    },
+    {
+      "t": 118,
+      "title": "Tibet, Philadelphia and a road trip"
+    },
+    {
+      "t": 129,
+      "title": "Hollywood Boulevard disappointment"
+    },
+    {
+      "t": 141,
+      "title": "Appreciate everything"
+    },
+    {
+      "t": 175,
+      "title": "Costumed characters ahead"
+    },
+    {
+      "t": 188,
+      "title": "Knife, machete and fake-badge questions"
+    },
+    {
+      "t": 205,
+      "title": "Armor-rating sales talk"
+    },
+    {
+      "t": 221,
+      "title": "Wig shopping and an unidentified refrain"
+    },
+    {
+      "t": 249,
+      "title": "Back at the Hollywood Sign"
+    },
+    {
+      "t": 257,
+      "title": "Park life as a new canvas"
+    },
+    {
+      "t": 276,
+      "title": "Fruit cup and multilingual exchange"
+    },
+    {
+      "t": 290,
+      "title": "The first painting fails"
+    },
+    {
+      "t": 297,
+      "title": "Change the crop and angle"
+    },
+    {
+      "t": 314,
+      "title": "Paint what you see"
+    },
+    {
+      "t": 323,
+      "title": "Black paint, pineapple and signing early"
+    },
+    {
+      "t": 347,
+      "title": "Annie and the fruit stand"
+    },
+    {
+      "t": 370,
+      "title": "Examining the painting"
+    },
+    {
+      "t": 391,
+      "title": "Painting traded for coconut juice"
+    },
+    {
+      "t": 436,
+      "title": "Javier joins the drawing"
+    },
+    {
+      "t": 448,
+      "title": "Eyes first and talent from God"
+    },
+    {
+      "t": 480,
+      "title": "Kindred spirits and an unplanned collaboration"
+    },
+    {
+      "t": 509,
+      "title": "Coconut juice as comic paint medium"
+    },
+    {
+      "t": 572,
+      "title": "Original cartoons and an art trade"
+    },
+    {
+      "t": 630,
+      "title": "Parenting question, perspective and the new Thumbs Up"
+    }
   ],
-  "people": ["David Choe", "Critter [absent recurring cast reference]", "Harry Kim [absent recurring cast reference]", "Tenzin [private participant first name]", "Annie [private vendor first name]", "Javier [private participant first name]", "private shop workers, visitors, park users and costumed performers"],
-  "places": ["Los Angeles", "Hollywood Boulevard", "Hollywood Sign area", "Philadelphia [participant statement]", "Tibet [participant statement]", "Taiwan [David's description of earlier participant]", "unidentified stores, park, fruit stand and roads"],
-  "works": ["Thumbs Up!", "David's Hollywood Sign/Annie painting", "Javier's drawing", "David and Javier's collaborative drawing", "Iron Man [costume reference]", "Star Wars [costume reference]"],
-  "themes": ["return", "aging", "reframing", "hitchhiking versus driving", "getting outside", "private street encounters", "creative process", "failed painting", "perspective", "art exchange", "collaboration", "self-care", "privacy", "speaker ambiguity"],
+  "people": [
+    "David Choe",
+    "Critter [absent recurring cast reference]",
+    "Harry Kim [absent recurring cast reference]",
+    "Tenzin [private participant first name]",
+    "Annie [private vendor first name]",
+    "Javier [private participant first name]",
+    "private shop workers, visitors, park users and costumed performers"
+  ],
+  "places": [
+    "Los Angeles",
+    "Hollywood Boulevard",
+    "Hollywood Sign area",
+    "Philadelphia [participant statement]",
+    "Tibet [participant statement]",
+    "Taiwan [David's description of earlier participant]",
+    "unidentified stores, park, fruit stand and roads"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "David's Hollywood Sign/Annie painting",
+    "Javier's drawing",
+    "David and Javier's collaborative drawing",
+    "Iron Man [costume reference]",
+    "Star Wars [costume reference]"
+  ],
+  "themes": [
+    "return",
+    "aging",
+    "reframing",
+    "hitchhiking versus driving",
+    "getting outside",
+    "private street encounters",
+    "creative process",
+    "failed painting",
+    "perspective",
+    "art exchange",
+    "collaboration",
+    "self-care",
+    "privacy",
+    "speaker ambiguity"
+  ],
   "connections": [
-    {"t": 10, "to": "thumbs-up-format-revival", "why": "David explicitly restarts the format in Los Angeles rather than merely describing the old series."},
-    {"t": 44, "to": "age-and-creative-continuity", "why": "The mother's-Lexus line stages aging and dependence as either shame or continued play."},
-    {"t": 51, "to": "positive-reframing", "why": "David speaks both pathetic and cool versions, then consciously chooses the latter."},
-    {"t": 70, "to": "thumbs-up-chronology", "why": "He contrasts filming at twenty-eight with the present return twenty years later."},
-    {"t": 83, "to": "recurring-cast-absence", "why": "Critter and Harry are named as absent because they have other lives, not silently erased."},
-    {"t": 109, "to": "recognition-and-attitude", "why": "A private visitor recognizes David, but the useful takeaway becomes the visitor's appreciation rather than fandom."},
-    {"t": 141, "to": "appreciate-everything", "why": "The visitor's phrase becomes David's behavioral prompt for the rest of the episode."},
-    {"t": 188, "to": "shopping-as-performance", "why": "Weapons, badge, armor and wigs become a comic montage without proving purchases or legality."},
-    {"t": 249, "to": "return-to-unsolved-work", "why": "David repeatedly returns to the Hollywood Sign after disliking his first composition."},
-    {"t": 290, "to": "failure-as-input", "why": "Dissatisfaction is retained as the cause of a compositional change, not edited away."},
-    {"t": 297, "to": "perspective-as-method", "why": "Crop and angle are observable painting decisions before they become a life metaphor."},
-    {"t": 338, "to": "insecurity-in-process", "why": "Signing early is explicitly attributed to insecurity rather than packaged as mystique."},
-    {"t": 347, "to": "human-over-landmark", "why": "The fruit vendor replaces the Hollywood Sign as the painting's subject."},
-    {"t": 391, "to": "art-for-hospitality", "why": "A painting is exchanged for coconut juice, echoing earlier Thumbs Up exchanges without implying a market valuation."},
-    {"t": 436, "to": "unplanned-collaboration", "why": "David breaks his own anti-collaboration advice after Javier begins drawing."},
-    {"t": 509, "to": "joke-versus-material-technique", "why": "Coconut juice is used or discussed as paint medium, but the archive must not turn the joke into conservation advice."},
-    {"t": 630, "to": "private-history-boundary", "why": "A provocative parenting question does not establish Javier's family or abuse history."},
-    {"t": 720, "to": "thumbs-up-redefined", "why": "David says the format is about leaving the house and connecting, not only hitchhiking."}
+    {
+      "t": 10,
+      "to": "thumbs-up-format-revival",
+      "why": "David explicitly restarts the format in Los Angeles rather than merely describing the old series."
+    },
+    {
+      "t": 44,
+      "to": "age-and-creative-continuity",
+      "why": "The mother's-Lexus line stages aging and dependence as either shame or continued play."
+    },
+    {
+      "t": 51,
+      "to": "positive-reframing",
+      "why": "David speaks both pathetic and cool versions, then consciously chooses the latter."
+    },
+    {
+      "t": 70,
+      "to": "thumbs-up-chronology",
+      "why": "He contrasts filming at twenty-eight with the present return twenty years later."
+    },
+    {
+      "t": 83,
+      "to": "recurring-cast-absence",
+      "why": "Critter and Harry are named as absent because they have other lives, not silently erased."
+    },
+    {
+      "t": 109,
+      "to": "recognition-and-attitude",
+      "why": "A private visitor recognizes David, but the useful takeaway becomes the visitor's appreciation rather than fandom."
+    },
+    {
+      "t": 141,
+      "to": "appreciate-everything",
+      "why": "The visitor's phrase becomes David's behavioral prompt for the rest of the episode."
+    },
+    {
+      "t": 188,
+      "to": "shopping-as-performance",
+      "why": "Weapons, badge, armor and wigs become a comic montage without proving purchases or legality."
+    },
+    {
+      "t": 249,
+      "to": "return-to-unsolved-work",
+      "why": "David repeatedly returns to the Hollywood Sign after disliking his first composition."
+    },
+    {
+      "t": 290,
+      "to": "failure-as-input",
+      "why": "Dissatisfaction is retained as the cause of a compositional change, not edited away."
+    },
+    {
+      "t": 297,
+      "to": "perspective-as-method",
+      "why": "Crop and angle are observable painting decisions before they become a life metaphor."
+    },
+    {
+      "t": 338,
+      "to": "insecurity-in-process",
+      "why": "Signing early is explicitly attributed to insecurity rather than packaged as mystique."
+    },
+    {
+      "t": 347,
+      "to": "human-over-landmark",
+      "why": "The fruit vendor replaces the Hollywood Sign as the painting's subject."
+    },
+    {
+      "t": 391,
+      "to": "art-for-hospitality",
+      "why": "A painting is exchanged for coconut juice, echoing earlier Thumbs Up exchanges without implying a market valuation."
+    },
+    {
+      "t": 436,
+      "to": "unplanned-collaboration",
+      "why": "David breaks his own anti-collaboration advice after Javier begins drawing."
+    },
+    {
+      "t": 509,
+      "to": "joke-versus-material-technique",
+      "why": "Coconut juice is used or discussed as paint medium, but the archive must not turn the joke into conservation advice."
+    },
+    {
+      "t": 630,
+      "to": "private-history-boundary",
+      "why": "A provocative parenting question does not establish Javier's family or abuse history."
+    },
+    {
+      "t": 720,
+      "to": "thumbs-up-redefined",
+      "why": "David says the format is about leaving the house and connecting, not only hitchhiking."
+    }
   ],
   "source_notes": [
-    {"t": 0, "claim": "The auto transcript proves named dialogue.", "assessment": "No segment contains a publisher-name prefix. First-name introductions and direct addresses identify participants in a scene but do not acoustically label surrounding turns.", "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"},
-    {"t": 70, "claim": "David was twenty-eight when filming all of Thumbs Up.", "assessment": "This is his retrospective shorthand. Preserve it as self-report until production dates and referenced installment are reconciled.", "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"},
-    {"t": 200, "claim": "The shop exchange establishes California machete or badge law.", "assessment": "It does not. A salesperson's answer and David's questions are not legal guidance, and the episode does not establish purchase, carry context or conduct.", "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"},
-    {"t": 509, "claim": "Coconut juice is a suitable archival painting medium.", "assessment": "The scene is comic experimentation. Do not publish it as materials or conservation guidance.", "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"}
+    {
+      "t": 0,
+      "claim": "The auto transcript proves named dialogue.",
+      "assessment": "No segment contains a publisher-name prefix. First-name introductions and direct addresses identify participants in a scene but do not acoustically label surrounding turns.",
+      "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"
+    },
+    {
+      "t": 70,
+      "claim": "David was twenty-eight when filming all of Thumbs Up.",
+      "assessment": "This is his retrospective shorthand. Preserve it as self-report until production dates and referenced installment are reconciled.",
+      "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"
+    },
+    {
+      "t": 200,
+      "claim": "The shop exchange establishes California machete or badge law.",
+      "assessment": "It does not. A salesperson's answer and David's questions are not legal guidance, and the episode does not establish purchase, carry context or conduct.",
+      "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"
+    },
+    {
+      "t": 509,
+      "claim": "Coconut juice is a suitable archival painting medium.",
+      "assessment": "The scene is comic experimentation. Do not publish it as materials or conservation guidance.",
+      "source": "https://www.youtube.com/watch?v=2S1kNH59NBk"
+    }
   ],
   "speaker_policy": {
     "status": "all turns unresolved; named turns withheld",
     "reason": "The source is auto-captioned with no publisher labels. Tenzin, Annie and Javier are scene-level first names, not voice enrollments. Direct address, adjacency, visual presence and conversational logic cannot label turns. David may be tested only through the held-out recurring-cast acoustic pipeline; all private participants remain excluded."
   },
   "content_warnings": [
-    {"t": 20, "warning": "nationality/age framing of private participant"},
-    {"t": 22, "warning": "masked profanity"},
-    {"t": 87, "warning": "masked sexual/physical joke"},
-    {"t": 129, "warning": "derogatory location description"},
-    {"t": 188, "warning": "knife/machete shopping"},
-    {"t": 195, "warning": "fake badge and police-impersonation joke"},
-    {"t": 200, "warning": "unresolved weapons/legal question"},
-    {"t": 205, "warning": "body-armor sales claim"},
-    {"t": 257, "warning": "private children and park users in footage"},
-    {"t": 347, "warning": "private vendor filmed and interpreted"},
-    {"t": 349, "warning": "urine comparison"},
-    {"t": 391, "warning": "exchange does not establish image/publication consent"},
-    {"t": 496, "warning": "beauty/objectification comment about private subject"},
-    {"t": 630, "warning": "child hitting/spanking question"},
-    {"t": 640, "warning": "possible family/abuse disclosure ambiguity"},
-    {"t": 743, "warning": "possible residential-address exposure"}
+    {
+      "t": 20,
+      "warning": "nationality/age framing of private participant"
+    },
+    {
+      "t": 22,
+      "warning": "masked profanity"
+    },
+    {
+      "t": 87,
+      "warning": "masked sexual/physical joke"
+    },
+    {
+      "t": 129,
+      "warning": "derogatory location description"
+    },
+    {
+      "t": 188,
+      "warning": "knife/machete shopping"
+    },
+    {
+      "t": 195,
+      "warning": "fake badge and police-impersonation joke"
+    },
+    {
+      "t": 200,
+      "warning": "unresolved weapons/legal question"
+    },
+    {
+      "t": 205,
+      "warning": "body-armor sales claim"
+    },
+    {
+      "t": 257,
+      "warning": "private children and park users in footage"
+    },
+    {
+      "t": 347,
+      "warning": "private vendor filmed and interpreted"
+    },
+    {
+      "t": 349,
+      "warning": "urine comparison"
+    },
+    {
+      "t": 391,
+      "warning": "exchange does not establish image/publication consent"
+    },
+    {
+      "t": 496,
+      "warning": "beauty/objectification comment about private subject"
+    },
+    {
+      "t": 630,
+      "warning": "child hitting/spanking question"
+    },
+    {
+      "t": 640,
+      "warning": "possible family/abuse disclosure ambiguity"
+    },
+    {
+      "t": 743,
+      "warning": "possible residential-address exposure"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every source idea and literal wording; corrections and context remain separate."},
-    {"t": 0.1, "rule": "Do not publish named turns from this auto-caption source."},
-    {"t": 0.2, "rule": "Do not identity-resolve, face-search, voice-enroll or expose contact details for private participants."},
-    {"t": 20, "rule": "Do not infer age, citizenship, ethnicity or identity from David's description of a private participant."},
-    {"t": 44, "rule": "Do not extract vehicle identifiers, family address or ownership records."},
-    {"t": 70, "rule": "Keep age/series chronology as David's self-report until reconciled with production records."},
-    {"t": 112, "rule": "Tenzin remains a first-name scene participant; no residence, travel or social-profile search."},
-    {"t": 180, "rule": "Do not identify private costumed performers."},
-    {"t": 188, "rule": "Do not turn the shopping montage into weapons, armor, badge or impersonation instructions."},
-    {"t": 200, "rule": "Do not publish store dialogue as legal or safety advice."},
-    {"t": 233, "rule": "Do not expand or identify the sung refrain without rights/source verification."},
-    {"t": 249, "rule": "Do not precise-geolocate private participants or infer filming/painting permission."},
-    {"t": 257, "rule": "No faces, identities, family relations or movement trails for park users and children."},
-    {"t": 347, "rule": "Annie's presence and exchange do not establish broader publicity or endorsement rights."},
-    {"t": 391, "rule": "Describe only the depicted object exchange; do not infer market value, copyright transfer or blanket consent."},
-    {"t": 436, "rule": "Javier remains a private first-name participant and co-creator; retain authorship without identity expansion."},
-    {"t": 509, "rule": "Do not publish coconut juice as conservation or painting-material guidance."},
-    {"t": 630, "rule": "Do not infer childhood abuse or profile Javier's parents from ambiguous answers to pressured questions."},
-    {"t": 731, "rule": "David's claim that others were happy is his interpretation, not direct participant testimony."},
-    {"t": 743, "rule": "Never extract, transcribe, map, screenshot or amplify a possible home address visible in the background."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every source idea and literal wording; corrections and context remain separate."
+    },
+    {
+      "t": 0.1,
+      "rule": "Do not publish named turns from this auto-caption source."
+    },
+    {
+      "t": 0.2,
+      "rule": "Do not identity-resolve, face-search, voice-enroll or expose contact details for private participants."
+    },
+    {
+      "t": 20,
+      "rule": "Do not infer age, citizenship, ethnicity or identity from David's description of a private participant."
+    },
+    {
+      "t": 44,
+      "rule": "Do not extract vehicle identifiers, family address or ownership records."
+    },
+    {
+      "t": 70,
+      "rule": "Keep age/series chronology as David's self-report until reconciled with production records."
+    },
+    {
+      "t": 112,
+      "rule": "Tenzin remains a first-name scene participant; no residence, travel or social-profile search."
+    },
+    {
+      "t": 180,
+      "rule": "Do not identify private costumed performers."
+    },
+    {
+      "t": 188,
+      "rule": "Do not turn the shopping montage into weapons, armor, badge or impersonation instructions."
+    },
+    {
+      "t": 200,
+      "rule": "Do not publish store dialogue as legal or safety advice."
+    },
+    {
+      "t": 233,
+      "rule": "Do not expand or identify the sung refrain without rights/source verification."
+    },
+    {
+      "t": 249,
+      "rule": "Do not precise-geolocate private participants or infer filming/painting permission."
+    },
+    {
+      "t": 257,
+      "rule": "No faces, identities, family relations or movement trails for park users and children."
+    },
+    {
+      "t": 347,
+      "rule": "Annie's presence and exchange do not establish broader publicity or endorsement rights."
+    },
+    {
+      "t": 391,
+      "rule": "Describe only the depicted object exchange; do not infer market value, copyright transfer or blanket consent."
+    },
+    {
+      "t": 436,
+      "rule": "Javier remains a private first-name participant and co-creator; retain authorship without identity expansion."
+    },
+    {
+      "t": 509,
+      "rule": "Do not publish coconut juice as conservation or painting-material guidance."
+    },
+    {
+      "t": 630,
+      "rule": "Do not infer childhood abuse or profile Javier's parents from ambiguous answers to pressured questions."
+    },
+    {
+      "t": 731,
+      "rule": "David's claim that others were happy is his interpretation, not direct participant testimony."
+    },
+    {
+      "t": 743,
+      "rule": "Never extract, transcribe, map, screenshot or amplify a possible home address visible in the background."
+    }
+  ],
+  "description": "At forty-eight, David revives Thumbs Up in Los Angeles without Critter or Harry and deliberately reframes driving his mother's Lexus from pathetic to cool.",
+  "description_source": "Opening of the human-reviewed summary."
 }

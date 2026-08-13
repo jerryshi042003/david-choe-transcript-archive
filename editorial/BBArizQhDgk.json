@@ -24,204 +24,891 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 0, "title": "Reunion, handmade gift and costume entrance"},
-    {"t": 63, "title": "Austin food, bicycles and first impressions"},
-    {"t": 270, "title": "Joe as an audio portrait artist"},
-    {"t": 420, "title": "Leaving Los Angeles during COVID"},
-    {"t": 529, "title": "Listener messages, suicide references and Hadza donations"},
-    {"t": 655, "title": "We Are Hadza, Africa and art without ownership"},
-    {"t": 808, "title": "Congo memory and religion as a game"},
-    {"t": 1129, "title": "The Korean Forrest Gump and finishing money"},
-    {"t": 1350, "title": "Steve Lazarides, Banksy and wealth stories"},
-    {"t": 1740, "title": "Ending commercial art sales"},
-    {"t": 1870, "title": "Sex as another completed game"},
-    {"t": 1931, "title": "Spiritual quest and Everything Everywhere All at Once"},
-    {"t": 1955, "title": "The Choe Show, Ramy and working backward"},
-    {"t": 2140, "title": "Hannah Sparkman and the Hadza film"},
-    {"t": 2200, "title": "Graphic baboon hunt and Steven Rinella"},
-    {"t": 2448, "title": "Issei Sagawa, Renée Hartevelt and cannibalism"},
-    {"t": 2520, "title": "Placenta story and unsupported health claims"},
-    {"t": 2627, "title": "Meleka Foundation, language and land"},
-    {"t": 2859, "title": "Petri dishes, neti pots and unsafe water"},
-    {"t": 2993, "title": "Joel Salatin, farms and trough water"},
-    {"t": 3138, "title": "Erewhon, supplements and raw-egg routines"},
-    {"t": 3260, "title": "Withheld location and a violent trainer"},
-    {"t": 3419, "title": "Empire of the Summer Moon and Lars Andersen"},
-    {"t": 3600, "title": "Austin, Comanche history and political opinion"},
-    {"t": 3908, "title": "Acting roles and Asian representation"},
-    {"t": 4210, "title": "Ugly Delicious, Jon Favreau and Tacos 1986"},
-    {"t": 4520, "title": "Jawas, Huttese and a Mandalorian cameo"},
-    {"t": 4800, "title": "Dave Filoni, Steven Yeun and Beef"},
-    {"t": 5110, "title": "Beyond the Edge, Steve-O and survival television"},
-    {"t": 5400, "title": "Jiu-jitsu, no-gi and Saenchai"},
-    {"t": 5660, "title": "Royler Gracie, Jean Jacques Machado and ADCC"},
-    {"t": 5800, "title": "10th Planet, Sitchin and The 12th Planet"},
-    {"t": 5927, "title": "Comedy craft, Shane Gillis and starting late"},
-    {"t": 6120, "title": "Chris Rock, the Wayans and performance scale"},
-    {"t": 6320, "title": "Alien vision, psychedelics and offensive jokes"},
-    {"t": 6550, "title": "Birthmark folklore and Genghis Khan"},
-    {"t": 6780, "title": "Sitchin, spirituality and belief"},
-    {"t": 7040, "title": "Ukraine, certainty and political argument"},
-    {"t": 7270, "title": "Creativity as prayer and dangerous rhetoric"},
-    {"t": 7500, "title": "Religion, abuse and 12-step community"},
-    {"t": 7690, "title": "Third places, recovery and belonging"},
-    {"t": 7820, "title": "Korean revenge stereotype and acting"},
-    {"t": 7960, "title": "Superheroes, Blade and Traci Lords"},
-    {"t": 8090, "title": "Beef, gambling and Hollywood production"},
-    {"t": 8210, "title": "Method acting, hospital memories and identity"},
-    {"t": 8370, "title": "Hadza, pandemic and apocalypse"},
-    {"t": 8500, "title": "Napster, Metallica and ChatGPT"},
-    {"t": 8632, "title": "Ray Kurzweil, AI and universal income"},
-    {"t": 8840, "title": "Dissolving Illusions and medical skepticism"},
-    {"t": 9020, "title": "Deepfakes, Lego and Amaury Guichon"},
-    {"t": 9136, "title": "Handmade work versus 3D printing"},
-    {"t": 9263, "title": "Zildjian cymbals and craft provenance"},
-    {"t": 9369, "title": "Artisanal pool cues and maker identity"},
-    {"t": 9514, "title": "AI benefit and extinction scenarios"},
-    {"t": 9701, "title": "Psychedelics, Rick Doblin and MAPS"},
-    {"t": 9782, "title": "Touch, consent and Huttese"},
-    {"t": 9939, "title": "Marshall McLuhan and technological environments"},
-    {"t": 10179, "title": "Altered states, telepathy and near-death ideas"},
-    {"t": 10322, "title": "Stand-up and the Comedy Mothership"},
-    {"t": 10463, "title": "MMA, B.J. Penn and the Marinoviches"},
-    {"t": 10705, "title": "Iboga, ayahuasca and hospitalization"},
-    {"t": 10935, "title": "TRE and trauma-release claims"},
-    {"t": 11025, "title": "Immersive art, padded bodies and bats"},
-    {"t": 11270, "title": "Free versus paid commitment and the closing lesson"}
+    {
+      "t": 0,
+      "title": "Reunion, handmade gift and costume entrance"
+    },
+    {
+      "t": 63,
+      "title": "Austin food, bicycles and first impressions"
+    },
+    {
+      "t": 270,
+      "title": "Joe as an audio portrait artist"
+    },
+    {
+      "t": 420,
+      "title": "Leaving Los Angeles during COVID"
+    },
+    {
+      "t": 529,
+      "title": "Listener messages, suicide references and Hadza donations"
+    },
+    {
+      "t": 655,
+      "title": "We Are Hadza, Africa and art without ownership"
+    },
+    {
+      "t": 808,
+      "title": "Congo memory and religion as a game"
+    },
+    {
+      "t": 1129,
+      "title": "The Korean Forrest Gump and finishing money"
+    },
+    {
+      "t": 1350,
+      "title": "Steve Lazarides, Banksy and wealth stories"
+    },
+    {
+      "t": 1740,
+      "title": "Ending commercial art sales"
+    },
+    {
+      "t": 1870,
+      "title": "Sex as another completed game"
+    },
+    {
+      "t": 1931,
+      "title": "Spiritual quest and Everything Everywhere All at Once"
+    },
+    {
+      "t": 1955,
+      "title": "The Choe Show, Ramy and working backward"
+    },
+    {
+      "t": 2140,
+      "title": "Hannah Sparkman and the Hadza film"
+    },
+    {
+      "t": 2200,
+      "title": "Graphic baboon hunt and Steven Rinella"
+    },
+    {
+      "t": 2448,
+      "title": "Issei Sagawa, Renée Hartevelt and cannibalism"
+    },
+    {
+      "t": 2520,
+      "title": "Placenta story and unsupported health claims"
+    },
+    {
+      "t": 2627,
+      "title": "Meleka Foundation, language and land"
+    },
+    {
+      "t": 2859,
+      "title": "Petri dishes, neti pots and unsafe water"
+    },
+    {
+      "t": 2993,
+      "title": "Joel Salatin, farms and trough water"
+    },
+    {
+      "t": 3138,
+      "title": "Erewhon, supplements and raw-egg routines"
+    },
+    {
+      "t": 3260,
+      "title": "Withheld location and a violent trainer"
+    },
+    {
+      "t": 3419,
+      "title": "Empire of the Summer Moon and Lars Andersen"
+    },
+    {
+      "t": 3600,
+      "title": "Austin, Comanche history and political opinion"
+    },
+    {
+      "t": 3908,
+      "title": "Acting roles and Asian representation"
+    },
+    {
+      "t": 4210,
+      "title": "Ugly Delicious, Jon Favreau and Tacos 1986"
+    },
+    {
+      "t": 4520,
+      "title": "Jawas, Huttese and a Mandalorian cameo"
+    },
+    {
+      "t": 4800,
+      "title": "Dave Filoni, Steven Yeun and Beef"
+    },
+    {
+      "t": 5110,
+      "title": "Beyond the Edge, Steve-O and survival television"
+    },
+    {
+      "t": 5400,
+      "title": "Jiu-jitsu, no-gi and Saenchai"
+    },
+    {
+      "t": 5660,
+      "title": "Royler Gracie, Jean Jacques Machado and ADCC"
+    },
+    {
+      "t": 5800,
+      "title": "10th Planet, Sitchin and The 12th Planet"
+    },
+    {
+      "t": 5927,
+      "title": "Comedy craft, Shane Gillis and starting late"
+    },
+    {
+      "t": 6120,
+      "title": "Chris Rock, the Wayans and performance scale"
+    },
+    {
+      "t": 6320,
+      "title": "Alien vision, psychedelics and offensive jokes"
+    },
+    {
+      "t": 6550,
+      "title": "Birthmark folklore and Genghis Khan"
+    },
+    {
+      "t": 6780,
+      "title": "Sitchin, spirituality and belief"
+    },
+    {
+      "t": 7040,
+      "title": "Ukraine, certainty and political argument"
+    },
+    {
+      "t": 7270,
+      "title": "Creativity as prayer and dangerous rhetoric"
+    },
+    {
+      "t": 7500,
+      "title": "Religion, abuse and 12-step community"
+    },
+    {
+      "t": 7690,
+      "title": "Third places, recovery and belonging"
+    },
+    {
+      "t": 7820,
+      "title": "Korean revenge stereotype and acting"
+    },
+    {
+      "t": 7960,
+      "title": "Superheroes, Blade and Traci Lords"
+    },
+    {
+      "t": 8090,
+      "title": "Beef, gambling and Hollywood production"
+    },
+    {
+      "t": 8210,
+      "title": "Method acting, hospital memories and identity"
+    },
+    {
+      "t": 8370,
+      "title": "Hadza, pandemic and apocalypse"
+    },
+    {
+      "t": 8500,
+      "title": "Napster, Metallica and ChatGPT"
+    },
+    {
+      "t": 8632,
+      "title": "Ray Kurzweil, AI and universal income"
+    },
+    {
+      "t": 8840,
+      "title": "Dissolving Illusions and medical skepticism"
+    },
+    {
+      "t": 9020,
+      "title": "Deepfakes, Lego and Amaury Guichon"
+    },
+    {
+      "t": 9136,
+      "title": "Handmade work versus 3D printing"
+    },
+    {
+      "t": 9263,
+      "title": "Zildjian cymbals and craft provenance"
+    },
+    {
+      "t": 9369,
+      "title": "Artisanal pool cues and maker identity"
+    },
+    {
+      "t": 9514,
+      "title": "AI benefit and extinction scenarios"
+    },
+    {
+      "t": 9701,
+      "title": "Psychedelics, Rick Doblin and MAPS"
+    },
+    {
+      "t": 9782,
+      "title": "Touch, consent and Huttese"
+    },
+    {
+      "t": 9939,
+      "title": "Marshall McLuhan and technological environments"
+    },
+    {
+      "t": 10179,
+      "title": "Altered states, telepathy and near-death ideas"
+    },
+    {
+      "t": 10322,
+      "title": "Stand-up and the Comedy Mothership"
+    },
+    {
+      "t": 10463,
+      "title": "MMA, B.J. Penn and the Marinoviches"
+    },
+    {
+      "t": 10705,
+      "title": "Iboga, ayahuasca and hospitalization"
+    },
+    {
+      "t": 10935,
+      "title": "TRE and trauma-release claims"
+    },
+    {
+      "t": 11025,
+      "title": "Immersive art, padded bodies and bats"
+    },
+    {
+      "t": 11270,
+      "title": "Free versus paid commitment and the closing lesson"
+    }
   ],
-  "people": ["David Choe", "Joe Rogan [episode context; turns unresolved]", "Jamie Vernon [episode context; turns unresolved]", "Hannah Sparkman", "Steven Rinella", "Issei Sagawa", "Renée Hartevelt", "Joel Salatin", "Lars Andersen", "Jon Favreau", "Dave Filoni", "Steven Yeun", "Steve-O", "Saenchai", "Royler Gracie", "Jean Jacques Machado", "Zecharia Sitchin", "Shane Gillis", "Chris Rock", "the Wayans family", "Traci Lords", "Pedro Pascal", "Ray Kurzweil", "Suzanne Humphries", "Roman Bystrianyk", "Amaury Guichon", "Rick Doblin", "Marshall McLuhan", "B.J. Penn", "Sean Sherk", "Anderson Silva", "Chris Weidman", "Alex Pereira", "Damien Hirst", "private family, partners, listeners, trainers, artists, patients and Indigenous/community participants"],
-  "places": ["Austin", "Los Angeles", "Tanzania", "Hadza homeland/community areas [no precise geolocation]", "Republic of Congo", "South Korea", "Ukraine", "Israel", "Jerusalem [analogy]", "unnamed farms, gyms, homes, hospitals, ceremony sites and recovery facilities"],
-  "works": ["Joe Rogan Experience #1965", "We Are Hadza", "The Choe Show", "Everything Everywhere All at Once", "Ramy", "Empire of the Summer Moon", "Ugly Delicious", "The Mandalorian", "Beef", "Beyond the Edge", "Survivor", "The 12th Planet", "Blade", "Revelation", "Dissolving Illusions", "unreleased immersive-art and recovery projects"],
-  "themes": ["achievement after wealth", "spiritual quest", "art without ownership", "Hadza community dignity", "fundraising and impact claims", "graphic hunting", "cannibalism and victim dignity", "health misinformation", "acting and representation", "survival television", "martial arts", "religion", "stereotypes and offensive comedy", "recovery community", "AI and labor", "handmade provenance", "psychedelics", "consent", "immersive art", "family and future work", "speaker provenance"],
+  "people": [
+    "David Choe",
+    "Joe Rogan [episode context; turns unresolved]",
+    "Jamie Vernon [episode context; turns unresolved]",
+    "Hannah Sparkman",
+    "Steven Rinella",
+    "Issei Sagawa",
+    "Renée Hartevelt",
+    "Joel Salatin",
+    "Lars Andersen",
+    "Jon Favreau",
+    "Dave Filoni",
+    "Steven Yeun",
+    "Steve-O",
+    "Saenchai",
+    "Royler Gracie",
+    "Jean Jacques Machado",
+    "Zecharia Sitchin",
+    "Shane Gillis",
+    "Chris Rock",
+    "the Wayans family",
+    "Traci Lords",
+    "Pedro Pascal",
+    "Ray Kurzweil",
+    "Suzanne Humphries",
+    "Roman Bystrianyk",
+    "Amaury Guichon",
+    "Rick Doblin",
+    "Marshall McLuhan",
+    "B.J. Penn",
+    "Sean Sherk",
+    "Anderson Silva",
+    "Chris Weidman",
+    "Alex Pereira",
+    "Damien Hirst",
+    "private family, partners, listeners, trainers, artists, patients and Indigenous/community participants"
+  ],
+  "places": [
+    "Austin",
+    "Los Angeles",
+    "Tanzania",
+    "Hadza homeland/community areas [no precise geolocation]",
+    "Republic of Congo",
+    "South Korea",
+    "Ukraine",
+    "Israel",
+    "Jerusalem [analogy]",
+    "unnamed farms, gyms, homes, hospitals, ceremony sites and recovery facilities"
+  ],
+  "works": [
+    "Joe Rogan Experience #1965",
+    "We Are Hadza",
+    "The Choe Show",
+    "Everything Everywhere All at Once",
+    "Ramy",
+    "Empire of the Summer Moon",
+    "Ugly Delicious",
+    "The Mandalorian",
+    "Beef",
+    "Beyond the Edge",
+    "Survivor",
+    "The 12th Planet",
+    "Blade",
+    "Revelation",
+    "Dissolving Illusions",
+    "unreleased immersive-art and recovery projects"
+  ],
+  "themes": [
+    "achievement after wealth",
+    "spiritual quest",
+    "art without ownership",
+    "Hadza community dignity",
+    "fundraising and impact claims",
+    "graphic hunting",
+    "cannibalism and victim dignity",
+    "health misinformation",
+    "acting and representation",
+    "survival television",
+    "martial arts",
+    "religion",
+    "stereotypes and offensive comedy",
+    "recovery community",
+    "AI and labor",
+    "handmade provenance",
+    "psychedelics",
+    "consent",
+    "immersive art",
+    "family and future work",
+    "speaker provenance"
+  ],
   "connections": [
-    {"t": 270, "to": "audio-as-portraiture", "why": "The podcast is framed as a long-form portrait, a useful model for the archive's source-first reader."},
-    {"t": 529, "to": "reach-versus-clinical-impact", "why": "Listener messages and fundraising claims show why audience impact must remain separate from verified outcomes."},
-    {"t": 655, "to": "creation-without-ownership", "why": "The Hadza art discussion returns to JRE #1518's discarded children's art and experience over possession."},
-    {"t": 970, "to": "life-as-quests", "why": "Religion becomes the episode's organizing game metaphor rather than a settled theology."},
-    {"t": 1129, "to": "public-myth-versus-lived-chronology", "why": "The Korean Forrest Gump story compresses travel, art, prison, fame and recovery into a persona David both uses and resists."},
-    {"t": 1460, "to": "facebook-luck-story", "why": "Wealth is discussed as access and burden, extending the Huberman and JRE #1518 objections to the simplified Facebook legend."},
-    {"t": 1740, "to": "ending-the-art-market-game", "why": "Stopping commercial sales is presented as a personal decision, not a complete catalogue chronology."},
-    {"t": 1931, "to": "unfinished-spiritual-quest", "why": "After money and sex, love, acceptance and spirituality become the stated remaining work."},
-    {"t": 1955, "to": "persona-versus-self", "why": "The Choe Show and acting passages test whether mediated selves can be honest rather than merely performed."},
-    {"t": 2200, "to": "observer-versus-participant", "why": "The Hadza hunt repeats the archive-wide tension between witnessing, joining and endorsing."},
-    {"t": 2448, "to": "victim-before-spectacle", "why": "Renée Hartevelt must remain named as the victim rather than disappearing behind cannibal celebrity mythology."},
-    {"t": 2627, "to": "community-benefit-and-provenance", "why": "Meleka Foundation and We Are Hadza belong in an organization/source map, not just a travel anecdote."},
-    {"t": 2859, "to": "experience-is-not-health-guidance", "why": "Neti-pot and contaminated-water banter requires an explicit evidence layer."},
-    {"t": 3260, "to": "privacy-by-speaker-choice", "why": "David withholds a location on air; the archive must preserve that boundary rather than infer it."},
-    {"t": 3908, "to": "representation-through-work", "why": "Limited roles, acting anxiety and Asian representation connect directly to Beef and earlier Parasite discussion."},
-    {"t": 4520, "to": "small-part-in-large-world", "why": "The Star Wars cameo becomes a collaboration and craft story rather than a celebrity credit list."},
-    {"t": 4800, "to": "beef-as-transformative-work", "why": "Beef carries the episode's questions about Korean representation, persona and working inside an ensemble."},
-    {"t": 5400, "to": "beginner-mind-through-combat", "why": "Jiu-jitsu and Muay Thai are valued as practices that restore humility after mastery elsewhere."},
-    {"t": 5800, "to": "belief-without-evidence", "why": "Sitchin and lunar speculation illustrate the archive's need to preserve curiosity while labeling pseudoscience."},
-    {"t": 6320, "to": "comedy-as-risk-and-defense", "why": "Alien imagery and offensive jokes show humor operating as expression, provocation and avoidance."},
-    {"t": 7270, "to": "creativity-as-prayer", "why": "Making becomes spiritual practice, but surrounding racist and abusive rhetoric cannot be polished away."},
-    {"t": 7500, "to": "community-over-private-insight", "why": "Twelve-step and third-place discussion makes repeated contact, not solitary revelation, the practical recovery mechanism."},
-    {"t": 8090, "to": "gambling-identity-and-acting", "why": "Beef production is narrated through gambling history and method acting, joining personal compulsion to fictional work."},
-    {"t": 8500, "to": "abundance-versus-creative-labor", "why": "Napster and AI lead into the central product question: easy access should not erase authorship or work."},
-    {"t": 9136, "to": "handmade-provenance", "why": "Human irregularity in cakes, cymbals and pool cues suggests a works interface centered on maker, process and source."},
-    {"t": 9514, "to": "speculation-versus-current-capability", "why": "AI utopia and extinction scenarios remain predictions rather than product facts."},
-    {"t": 9701, "to": "psychedelic-infrastructure", "why": "Rick Doblin and MAPS connect personal accounts to institutions, research and consent questions."},
-    {"t": 9939, "to": "medium-shapes-environment", "why": "McLuhan offers a direct design principle: search and transcript interfaces change what readers notice."},
-    {"t": 10705, "to": "transformation-with-medical-risk", "why": "The iboga account describes value and a four-day adverse state; neither can be omitted."},
-    {"t": 11025, "to": "consent-does-not-remove-risk", "why": "The bat-based immersive work makes consent, injury, liability and artistic intention simultaneous rather than mutually exclusive."}
+    {
+      "t": 270,
+      "to": "audio-as-portraiture",
+      "why": "The podcast is framed as a long-form portrait, a useful model for the archive's source-first reader."
+    },
+    {
+      "t": 529,
+      "to": "reach-versus-clinical-impact",
+      "why": "Listener messages and fundraising claims show why audience impact must remain separate from verified outcomes."
+    },
+    {
+      "t": 655,
+      "to": "creation-without-ownership",
+      "why": "The Hadza art discussion returns to JRE #1518's discarded children's art and experience over possession."
+    },
+    {
+      "t": 970,
+      "to": "life-as-quests",
+      "why": "Religion becomes the episode's organizing game metaphor rather than a settled theology."
+    },
+    {
+      "t": 1129,
+      "to": "public-myth-versus-lived-chronology",
+      "why": "The Korean Forrest Gump story compresses travel, art, prison, fame and recovery into a persona David both uses and resists."
+    },
+    {
+      "t": 1460,
+      "to": "facebook-luck-story",
+      "why": "Wealth is discussed as access and burden, extending the Huberman and JRE #1518 objections to the simplified Facebook legend."
+    },
+    {
+      "t": 1740,
+      "to": "ending-the-art-market-game",
+      "why": "Stopping commercial sales is presented as a personal decision, not a complete catalogue chronology."
+    },
+    {
+      "t": 1931,
+      "to": "unfinished-spiritual-quest",
+      "why": "After money and sex, love, acceptance and spirituality become the stated remaining work."
+    },
+    {
+      "t": 1955,
+      "to": "persona-versus-self",
+      "why": "The Choe Show and acting passages test whether mediated selves can be honest rather than merely performed."
+    },
+    {
+      "t": 2200,
+      "to": "observer-versus-participant",
+      "why": "The Hadza hunt repeats the archive-wide tension between witnessing, joining and endorsing."
+    },
+    {
+      "t": 2448,
+      "to": "victim-before-spectacle",
+      "why": "Renée Hartevelt must remain named as the victim rather than disappearing behind cannibal celebrity mythology."
+    },
+    {
+      "t": 2627,
+      "to": "community-benefit-and-provenance",
+      "why": "Meleka Foundation and We Are Hadza belong in an organization/source map, not just a travel anecdote."
+    },
+    {
+      "t": 2859,
+      "to": "experience-is-not-health-guidance",
+      "why": "Neti-pot and contaminated-water banter requires an explicit evidence layer."
+    },
+    {
+      "t": 3260,
+      "to": "privacy-by-speaker-choice",
+      "why": "David withholds a location on air; the archive must preserve that boundary rather than infer it."
+    },
+    {
+      "t": 3908,
+      "to": "representation-through-work",
+      "why": "Limited roles, acting anxiety and Asian representation connect directly to Beef and earlier Parasite discussion."
+    },
+    {
+      "t": 4520,
+      "to": "small-part-in-large-world",
+      "why": "The Star Wars cameo becomes a collaboration and craft story rather than a celebrity credit list."
+    },
+    {
+      "t": 4800,
+      "to": "beef-as-transformative-work",
+      "why": "Beef carries the episode's questions about Korean representation, persona and working inside an ensemble."
+    },
+    {
+      "t": 5400,
+      "to": "beginner-mind-through-combat",
+      "why": "Jiu-jitsu and Muay Thai are valued as practices that restore humility after mastery elsewhere."
+    },
+    {
+      "t": 5800,
+      "to": "belief-without-evidence",
+      "why": "Sitchin and lunar speculation illustrate the archive's need to preserve curiosity while labeling pseudoscience."
+    },
+    {
+      "t": 6320,
+      "to": "comedy-as-risk-and-defense",
+      "why": "Alien imagery and offensive jokes show humor operating as expression, provocation and avoidance."
+    },
+    {
+      "t": 7270,
+      "to": "creativity-as-prayer",
+      "why": "Making becomes spiritual practice, but surrounding racist and abusive rhetoric cannot be polished away."
+    },
+    {
+      "t": 7500,
+      "to": "community-over-private-insight",
+      "why": "Twelve-step and third-place discussion makes repeated contact, not solitary revelation, the practical recovery mechanism."
+    },
+    {
+      "t": 8090,
+      "to": "gambling-identity-and-acting",
+      "why": "Beef production is narrated through gambling history and method acting, joining personal compulsion to fictional work."
+    },
+    {
+      "t": 8500,
+      "to": "abundance-versus-creative-labor",
+      "why": "Napster and AI lead into the central product question: easy access should not erase authorship or work."
+    },
+    {
+      "t": 9136,
+      "to": "handmade-provenance",
+      "why": "Human irregularity in cakes, cymbals and pool cues suggests a works interface centered on maker, process and source."
+    },
+    {
+      "t": 9514,
+      "to": "speculation-versus-current-capability",
+      "why": "AI utopia and extinction scenarios remain predictions rather than product facts."
+    },
+    {
+      "t": 9701,
+      "to": "psychedelic-infrastructure",
+      "why": "Rick Doblin and MAPS connect personal accounts to institutions, research and consent questions."
+    },
+    {
+      "t": 9939,
+      "to": "medium-shapes-environment",
+      "why": "McLuhan offers a direct design principle: search and transcript interfaces change what readers notice."
+    },
+    {
+      "t": 10705,
+      "to": "transformation-with-medical-risk",
+      "why": "The iboga account describes value and a four-day adverse state; neither can be omitted."
+    },
+    {
+      "t": 11025,
+      "to": "consent-does-not-remove-risk",
+      "why": "The bat-based immersive work makes consent, injury, liability and artistic intention simultaneous rather than mutually exclusive."
+    }
   ],
   "source_notes": [
-    {"t": 589, "claim": "Meleka Foundation and We Are Hadza are the intended project/organization references.", "assessment": "The official foundation presents Hadza-led land, conservation and cultural-survival work. Use the official entity spelling, but keep the episode's money and outcome claims attributed until independently documented.", "source": "https://meleka.org/"},
-    {"t": 2448, "claim": "Issei Sagawa was a Japanese serial killer.", "assessment": "The episode refers to Sagawa's killing and cannibalization of Renée Hartevelt. Do not add 'serial killer' without evidence of multiple killings, and do not let spectacle erase the victim.", "source": "https://www.britannica.com/biography/Issei-Sagawa"},
-    {"t": 2920, "claim": "Natural, tap or ocean water can be used for nasal rinsing.", "assessment": "CDC guidance says nasal rinsing should use distilled or sterile water, or tap water that has been boiled and cooled. Rare infections with Naegleria fowleri or Acanthamoeba can be fatal.", "source": "https://www.cdc.gov/naegleria/prevention/sinus-rinsing.html"},
-    {"t": 6550, "claim": "A blue birthmark is genetic evidence of descent from Genghis Khan.", "assessment": "The described mark likely refers to congenital dermal melanocytosis. The Genghis Khan explanation is folklore, not ancestry proof; avoid the outdated diagnostic name except in quoted historical context.", "source": "https://www.ncbi.nlm.nih.gov/books/NBK557408/"},
-    {"t": 5800, "claim": "Zecharia Sitchin's ancient-alien readings and lunar claims are history or astronomy.", "assessment": "Treat this passage as belief and pseudoscientific speculation, not as archaeological or astronomical evidence.", "source": "https://science.nasa.gov/moon/moon-facts/"},
-    {"t": 5800.1, "claim": "The Moon's same visible face indicates artificial placement or rotation failure.", "assessment": "NASA explains that the Moon rotates once per orbit, producing synchronous rotation and keeping nearly the same face toward Earth.", "source": "https://moon.nasa.gov/resources/429/the-moons-orbit-and-rotation/"},
-    {"t": 8920, "claim": "Dissolving Illusions is an authoritative account of vaccination and disease decline.", "assessment": "The book is vaccine-skeptical advocacy and should not substitute for public-health or systematic evidence.", "source": "https://www.who.int/health-topics/vaccines-and-immunization"},
-    {"t": 9701, "claim": "Psychedelics are harmless or established treatments in every described setting.", "assessment": "Preserve the subjective account, but treatment evidence, legal status, screening, dose, supervision and adverse effects vary by substance and setting.", "source": "https://nida.nih.gov/research-topics/psychedelic-dissociative-drugs"},
-    {"t": 10705, "claim": "Iboga or ibogaine can be treated as a repeatable recovery protocol.", "assessment": "Published reviews report clinically important QT prolongation, arrhythmias, respiratory complications and deaths. The episode's hospitalization and prolonged adverse state are safety context, not incidental detail.", "source": "https://pubmed.ncbi.nlm.nih.gov/23123541/"},
-    {"t": 0, "claim": "The transcript supplies Joe, David or Jamie turn labels.", "assessment": "It does not. There are zero publisher prefixes across 5,316 auto-caption segments; conversational logic, topic ownership and name address cannot substitute for held-out acoustic/video evidence.", "source": "https://www.youtube.com/watch?v=BBArizQhDgk"}
+    {
+      "t": 589,
+      "claim": "Meleka Foundation and We Are Hadza are the intended project/organization references.",
+      "assessment": "The official foundation presents Hadza-led land, conservation and cultural-survival work. Use the official entity spelling, but keep the episode's money and outcome claims attributed until independently documented.",
+      "source": "https://meleka.org/"
+    },
+    {
+      "t": 2448,
+      "claim": "Issei Sagawa was a Japanese serial killer.",
+      "assessment": "The episode refers to Sagawa's killing and cannibalization of Renée Hartevelt. Do not add 'serial killer' without evidence of multiple killings, and do not let spectacle erase the victim.",
+      "source": "https://www.britannica.com/biography/Issei-Sagawa"
+    },
+    {
+      "t": 2920,
+      "claim": "Natural, tap or ocean water can be used for nasal rinsing.",
+      "assessment": "CDC guidance says nasal rinsing should use distilled or sterile water, or tap water that has been boiled and cooled. Rare infections with Naegleria fowleri or Acanthamoeba can be fatal.",
+      "source": "https://www.cdc.gov/naegleria/prevention/sinus-rinsing.html"
+    },
+    {
+      "t": 6550,
+      "claim": "A blue birthmark is genetic evidence of descent from Genghis Khan.",
+      "assessment": "The described mark likely refers to congenital dermal melanocytosis. The Genghis Khan explanation is folklore, not ancestry proof; avoid the outdated diagnostic name except in quoted historical context.",
+      "source": "https://www.ncbi.nlm.nih.gov/books/NBK557408/"
+    },
+    {
+      "t": 5800,
+      "claim": "Zecharia Sitchin's ancient-alien readings and lunar claims are history or astronomy.",
+      "assessment": "Treat this passage as belief and pseudoscientific speculation, not as archaeological or astronomical evidence.",
+      "source": "https://science.nasa.gov/moon/moon-facts/"
+    },
+    {
+      "t": 5800.1,
+      "claim": "The Moon's same visible face indicates artificial placement or rotation failure.",
+      "assessment": "NASA explains that the Moon rotates once per orbit, producing synchronous rotation and keeping nearly the same face toward Earth.",
+      "source": "https://moon.nasa.gov/resources/429/the-moons-orbit-and-rotation/"
+    },
+    {
+      "t": 8920,
+      "claim": "Dissolving Illusions is an authoritative account of vaccination and disease decline.",
+      "assessment": "The book is vaccine-skeptical advocacy and should not substitute for public-health or systematic evidence.",
+      "source": "https://www.who.int/health-topics/vaccines-and-immunization"
+    },
+    {
+      "t": 9701,
+      "claim": "Psychedelics are harmless or established treatments in every described setting.",
+      "assessment": "Preserve the subjective account, but treatment evidence, legal status, screening, dose, supervision and adverse effects vary by substance and setting.",
+      "source": "https://nida.nih.gov/research-topics/psychedelic-dissociative-drugs"
+    },
+    {
+      "t": 10705,
+      "claim": "Iboga or ibogaine can be treated as a repeatable recovery protocol.",
+      "assessment": "Published reviews report clinically important QT prolongation, arrhythmias, respiratory complications and deaths. The episode's hospitalization and prolonged adverse state are safety context, not incidental detail.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23123541/"
+    },
+    {
+      "t": 0,
+      "claim": "The transcript supplies Joe, David or Jamie turn labels.",
+      "assessment": "It does not. There are zero publisher prefixes across 5,316 auto-caption segments; conversational logic, topic ownership and name address cannot substitute for held-out acoustic/video evidence.",
+      "source": "https://www.youtube.com/watch?v=BBArizQhDgk"
+    }
   ],
   "speaker_policy": {
     "status": "all turns unresolved; named turns withheld",
     "reason": "The title and visible podcast context identify public participants at episode level, but the 5,316 auto-caption segments contain zero explicit speaker prefixes and include overlap, laughter, music and possible played media. Joe Rogan, David Choe and Jamie Vernon may enter a held-out acoustic evaluation only through independently listening-verified clean windows; no name propagates by conversational adjacency. Every private voice remains excluded."
   },
   "content_warnings": [
-    {"t": 488, "warning": "COVID and political claims"},
-    {"t": 529, "warning": "suicide and private listener messages"},
-    {"t": 549, "warning": "Indigenous-community description and fundraising claims"},
-    {"t": 700, "warning": "unverified life-saving impact claim"},
-    {"t": 1150, "warning": "explicit sexual history and objectification"},
-    {"t": 1460, "warning": "private wealth and billionaire anecdotes"},
-    {"t": 1870, "warning": "sexual identity, partners and transphobic language"},
-    {"t": 2200, "warning": "graphic animal killing, blood and organs"},
-    {"t": 2448, "warning": "murder, cannibalism and victim details"},
-    {"t": 2520, "warning": "placenta consumption and unsupported health benefit"},
-    {"t": 2627, "warning": "Indigenous land, language and extinction claims"},
-    {"t": 2859, "warning": "microbes, contaminated water and unsafe nasal-rinse discussion"},
-    {"t": 2993, "warning": "farm-health claims and animal-water consumption"},
-    {"t": 3138, "warning": "supplements, raw eggs and nutrition claims"},
-    {"t": 3260, "warning": "withheld location and violent training"},
-    {"t": 3419, "warning": "Indigenous history filtered through a popular secondary work"},
-    {"t": 3600, "warning": "political and racial generalizations"},
-    {"t": 3908, "warning": "racial stereotypes and representation"},
-    {"t": 5110, "warning": "survival risk and public-figure claims"},
-    {"t": 5800, "warning": "ancient-alien pseudoscience"},
-    {"t": 6320, "warning": "psychedelics and offensive identity jokes"},
-    {"t": 7040, "warning": "war and geopolitical opinion"},
-    {"t": 7270, "warning": "racist, anti-gay, transphobic and religious-abuse rhetoric"},
-    {"t": 7820, "warning": "Korean revenge stereotype"},
-    {"t": 8090, "warning": "gambling and sensitive medical self-report"},
-    {"t": 8370, "warning": "pandemic, apocalypse and family material"},
-    {"t": 8500, "warning": "legal and economic claims about AI"},
-    {"t": 8840, "warning": "vaccine-skeptical medical claims"},
-    {"t": 9514, "warning": "AI extinction speculation"},
-    {"t": 9701, "warning": "psychedelic use and treatment claims"},
-    {"t": 10705, "warning": "iboga, ayahuasca, hospitalization and prolonged adverse state"},
-    {"t": 10935, "warning": "unsupported trauma-release mechanism and efficacy claims"},
-    {"t": 11025, "warning": "consented beating, injury and liability"},
-    {"t": 11642, "warning": "anonymous rehab patient and sensitive family/medical details"}
+    {
+      "t": 488,
+      "warning": "COVID and political claims"
+    },
+    {
+      "t": 529,
+      "warning": "suicide and private listener messages"
+    },
+    {
+      "t": 549,
+      "warning": "Indigenous-community description and fundraising claims"
+    },
+    {
+      "t": 700,
+      "warning": "unverified life-saving impact claim"
+    },
+    {
+      "t": 1150,
+      "warning": "explicit sexual history and objectification"
+    },
+    {
+      "t": 1460,
+      "warning": "private wealth and billionaire anecdotes"
+    },
+    {
+      "t": 1870,
+      "warning": "sexual identity, partners and transphobic language"
+    },
+    {
+      "t": 2200,
+      "warning": "graphic animal killing, blood and organs"
+    },
+    {
+      "t": 2448,
+      "warning": "murder, cannibalism and victim details"
+    },
+    {
+      "t": 2520,
+      "warning": "placenta consumption and unsupported health benefit"
+    },
+    {
+      "t": 2627,
+      "warning": "Indigenous land, language and extinction claims"
+    },
+    {
+      "t": 2859,
+      "warning": "microbes, contaminated water and unsafe nasal-rinse discussion"
+    },
+    {
+      "t": 2993,
+      "warning": "farm-health claims and animal-water consumption"
+    },
+    {
+      "t": 3138,
+      "warning": "supplements, raw eggs and nutrition claims"
+    },
+    {
+      "t": 3260,
+      "warning": "withheld location and violent training"
+    },
+    {
+      "t": 3419,
+      "warning": "Indigenous history filtered through a popular secondary work"
+    },
+    {
+      "t": 3600,
+      "warning": "political and racial generalizations"
+    },
+    {
+      "t": 3908,
+      "warning": "racial stereotypes and representation"
+    },
+    {
+      "t": 5110,
+      "warning": "survival risk and public-figure claims"
+    },
+    {
+      "t": 5800,
+      "warning": "ancient-alien pseudoscience"
+    },
+    {
+      "t": 6320,
+      "warning": "psychedelics and offensive identity jokes"
+    },
+    {
+      "t": 7040,
+      "warning": "war and geopolitical opinion"
+    },
+    {
+      "t": 7270,
+      "warning": "racist, anti-gay, transphobic and religious-abuse rhetoric"
+    },
+    {
+      "t": 7820,
+      "warning": "Korean revenge stereotype"
+    },
+    {
+      "t": 8090,
+      "warning": "gambling and sensitive medical self-report"
+    },
+    {
+      "t": 8370,
+      "warning": "pandemic, apocalypse and family material"
+    },
+    {
+      "t": 8500,
+      "warning": "legal and economic claims about AI"
+    },
+    {
+      "t": 8840,
+      "warning": "vaccine-skeptical medical claims"
+    },
+    {
+      "t": 9514,
+      "warning": "AI extinction speculation"
+    },
+    {
+      "t": 9701,
+      "warning": "psychedelic use and treatment claims"
+    },
+    {
+      "t": 10705,
+      "warning": "iboga, ayahuasca, hospitalization and prolonged adverse state"
+    },
+    {
+      "t": 10935,
+      "warning": "unsupported trauma-release mechanism and efficacy claims"
+    },
+    {
+      "t": 11025,
+      "warning": "consented beating, injury and liability"
+    },
+    {
+      "t": 11642,
+      "warning": "anonymous rehab patient and sensitive family/medical details"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every idea and raw word; corrections, context and reader summaries remain separate."},
-    {"t": 0.1, "rule": "Do not reconstruct source masking or obscured profanity, slurs or explicit wording."},
-    {"t": 0.2, "rule": "Do not publish named turns from auto captions, topic ownership or adjacency."},
-    {"t": 34, "rule": "Unclear shirt, object and artwork text requires visual verification; never invent it."},
-    {"t": 488, "rule": "Political, pandemic and city-quality remarks remain attributed opinions unless sourced."},
-    {"t": 529, "rule": "Do not identify private message writers or imply clinical suicide prevention from audience reach."},
-    {"t": 549, "rule": "Use Hadza-preferred or official entity names; avoid exoticizing, genetic-superiority or tourist-authority framing."},
-    {"t": 637, "rule": "Do not resolve uncertain private or community names from sound, face, location or project clues."},
-    {"t": 700, "rule": "Verify donation amounts, use and outcomes before publishing a lives-saved claim."},
-    {"t": 1150, "rule": "Do not extract sexual history, orientation, transphobic language or private partners as promotional material."},
-    {"t": 1350, "rule": "Banksy, Lazarides and art-market stories remain attributed until supported by source records."},
-    {"t": 1460, "rule": "Do not identity-resolve private wealthy people or treat personal access stories as financial records."},
-    {"t": 1740, "rule": "Do not infer a complete commercial exhibition or sales chronology from self-report."},
-    {"t": 1931, "rule": "Spiritual quest language is David's evolving model, not archive doctrine."},
-    {"t": 1955, "rule": "Verify titles, roles, dates and collaborators before adding work metadata."},
-    {"t": 2140, "rule": "No faces, precise locations, private identities or unlicensed community imagery for Hadza participants."},
-    {"t": 2200, "rule": "No autoplay, thumbnail, best-moment or lightweight excerpt from graphic hunting and consumption."},
-    {"t": 2448, "rule": "Keep Renée Hartevelt's victim identity and dignity; do not sensationalize Sagawa or mislabel him a serial killer."},
-    {"t": 2520, "rule": "Do not publish placenta or raw-food anecdotes as medical or nutrition advice."},
-    {"t": 2627, "rule": "Land, population, language and extinction claims require current Hadza-led or specialist sources."},
-    {"t": 2859, "rule": "Never recommend tap, ocean, trough or untreated water for nasal rinsing."},
-    {"t": 2993, "rule": "Farm, microbiome and wellness anecdotes remain personal experience rather than treatment guidance."},
-    {"t": 3138, "rule": "No implied endorsement for Erewhon products, supplements, raw eggs or eggshell consumption."},
-    {"t": 3260, "rule": "Honor the explicit location withholding; do not infer residence, gym, trainer or route."},
-    {"t": 3300, "rule": "Do not promote striking, coercion or injury as a fitness method because the anecdote frames it positively."},
-    {"t": 3419, "rule": "Do not treat Empire of the Summer Moon or archery demonstrations as uncontested Indigenous history."},
-    {"t": 3908, "rule": "Representation discussion must retain both structural limits and the episode's stereotypes."},
-    {"t": 4210, "rule": "Restaurant, television and collaborator claims require credits or primary sources before canonical reuse."},
-    {"t": 4520, "rule": "Star Wars language, species and cameo details require title/credit verification; do not infer private production information."},
-    {"t": 5110, "rule": "Survival-show and public-figure anecdotes remain attributed and are not safety guidance."},
-    {"t": 5400, "rule": "Martial-arts stories are not training, injury or medical instructions."},
-    {"t": 5800, "rule": "Sitchin, Nibiru and artificial-Moon ideas remain labeled pseudoscience/speculation."},
-    {"t": 6320, "rule": "Offensive jokes remain in context but never become neutral tags, thumbnails or identity summaries."},
-    {"t": 7040, "rule": "Ukraine, Israel and other geopolitical remarks remain speaker opinions unless independently sourced."},
-    {"t": 8090, "rule": "Beef percentages, method acting and hospital stories are self-report, not production or medical fact."},
-    {"t": 8500, "rule": "Do not present ChatGPT as a lawyer or AI/UBI predictions as current certainty."},
-    {"t": 8840, "rule": "Do not surface Dissolving Illusions as authoritative vaccine or public-health evidence."},
-    {"t": 9136, "rule": "Maker handles, craft brands and provenance require identity and spelling verification before linking."},
-    {"t": 9701, "rule": "Psychedelic benefit claims require substance, dose, setting, screening, legal and adverse-effect context."},
-    {"t": 9782, "rule": "Mutual touch in one story never generalizes consent to another person or setting."},
-    {"t": 10179, "rule": "Telepathy, dimensions and near-death interpretations remain subjective metaphysical claims."},
-    {"t": 10705, "rule": "Do not extract iboga or ayahuasca dosing, sourcing or ceremony details as a how-to; keep hospitalization and cardiac risk visible."},
-    {"t": 10935, "rule": "TRE and body-stored-trauma claims require evidence and must not replace professional care."},
-    {"t": 11025, "rule": "Consent does not certify physical safety; no replication instructions, liability assurance or decontextualized violent clip."},
-    {"t": 11642, "rule": "Never identify the anonymous rehab patient from wealth, behavior, family, facility, program or dates."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every idea and raw word; corrections, context and reader summaries remain separate."
+    },
+    {
+      "t": 0.1,
+      "rule": "Do not reconstruct source masking or obscured profanity, slurs or explicit wording."
+    },
+    {
+      "t": 0.2,
+      "rule": "Do not publish named turns from auto captions, topic ownership or adjacency."
+    },
+    {
+      "t": 34,
+      "rule": "Unclear shirt, object and artwork text requires visual verification; never invent it."
+    },
+    {
+      "t": 488,
+      "rule": "Political, pandemic and city-quality remarks remain attributed opinions unless sourced."
+    },
+    {
+      "t": 529,
+      "rule": "Do not identify private message writers or imply clinical suicide prevention from audience reach."
+    },
+    {
+      "t": 549,
+      "rule": "Use Hadza-preferred or official entity names; avoid exoticizing, genetic-superiority or tourist-authority framing."
+    },
+    {
+      "t": 637,
+      "rule": "Do not resolve uncertain private or community names from sound, face, location or project clues."
+    },
+    {
+      "t": 700,
+      "rule": "Verify donation amounts, use and outcomes before publishing a lives-saved claim."
+    },
+    {
+      "t": 1150,
+      "rule": "Do not extract sexual history, orientation, transphobic language or private partners as promotional material."
+    },
+    {
+      "t": 1350,
+      "rule": "Banksy, Lazarides and art-market stories remain attributed until supported by source records."
+    },
+    {
+      "t": 1460,
+      "rule": "Do not identity-resolve private wealthy people or treat personal access stories as financial records."
+    },
+    {
+      "t": 1740,
+      "rule": "Do not infer a complete commercial exhibition or sales chronology from self-report."
+    },
+    {
+      "t": 1931,
+      "rule": "Spiritual quest language is David's evolving model, not archive doctrine."
+    },
+    {
+      "t": 1955,
+      "rule": "Verify titles, roles, dates and collaborators before adding work metadata."
+    },
+    {
+      "t": 2140,
+      "rule": "No faces, precise locations, private identities or unlicensed community imagery for Hadza participants."
+    },
+    {
+      "t": 2200,
+      "rule": "No autoplay, thumbnail, best-moment or lightweight excerpt from graphic hunting and consumption."
+    },
+    {
+      "t": 2448,
+      "rule": "Keep Renée Hartevelt's victim identity and dignity; do not sensationalize Sagawa or mislabel him a serial killer."
+    },
+    {
+      "t": 2520,
+      "rule": "Do not publish placenta or raw-food anecdotes as medical or nutrition advice."
+    },
+    {
+      "t": 2627,
+      "rule": "Land, population, language and extinction claims require current Hadza-led or specialist sources."
+    },
+    {
+      "t": 2859,
+      "rule": "Never recommend tap, ocean, trough or untreated water for nasal rinsing."
+    },
+    {
+      "t": 2993,
+      "rule": "Farm, microbiome and wellness anecdotes remain personal experience rather than treatment guidance."
+    },
+    {
+      "t": 3138,
+      "rule": "No implied endorsement for Erewhon products, supplements, raw eggs or eggshell consumption."
+    },
+    {
+      "t": 3260,
+      "rule": "Honor the explicit location withholding; do not infer residence, gym, trainer or route."
+    },
+    {
+      "t": 3300,
+      "rule": "Do not promote striking, coercion or injury as a fitness method because the anecdote frames it positively."
+    },
+    {
+      "t": 3419,
+      "rule": "Do not treat Empire of the Summer Moon or archery demonstrations as uncontested Indigenous history."
+    },
+    {
+      "t": 3908,
+      "rule": "Representation discussion must retain both structural limits and the episode's stereotypes."
+    },
+    {
+      "t": 4210,
+      "rule": "Restaurant, television and collaborator claims require credits or primary sources before canonical reuse."
+    },
+    {
+      "t": 4520,
+      "rule": "Star Wars language, species and cameo details require title/credit verification; do not infer private production information."
+    },
+    {
+      "t": 5110,
+      "rule": "Survival-show and public-figure anecdotes remain attributed and are not safety guidance."
+    },
+    {
+      "t": 5400,
+      "rule": "Martial-arts stories are not training, injury or medical instructions."
+    },
+    {
+      "t": 5800,
+      "rule": "Sitchin, Nibiru and artificial-Moon ideas remain labeled pseudoscience/speculation."
+    },
+    {
+      "t": 6320,
+      "rule": "Offensive jokes remain in context but never become neutral tags, thumbnails or identity summaries."
+    },
+    {
+      "t": 7040,
+      "rule": "Ukraine, Israel and other geopolitical remarks remain speaker opinions unless independently sourced."
+    },
+    {
+      "t": 8090,
+      "rule": "Beef percentages, method acting and hospital stories are self-report, not production or medical fact."
+    },
+    {
+      "t": 8500,
+      "rule": "Do not present ChatGPT as a lawyer or AI/UBI predictions as current certainty."
+    },
+    {
+      "t": 8840,
+      "rule": "Do not surface Dissolving Illusions as authoritative vaccine or public-health evidence."
+    },
+    {
+      "t": 9136,
+      "rule": "Maker handles, craft brands and provenance require identity and spelling verification before linking."
+    },
+    {
+      "t": 9701,
+      "rule": "Psychedelic benefit claims require substance, dose, setting, screening, legal and adverse-effect context."
+    },
+    {
+      "t": 9782,
+      "rule": "Mutual touch in one story never generalizes consent to another person or setting."
+    },
+    {
+      "t": 10179,
+      "rule": "Telepathy, dimensions and near-death interpretations remain subjective metaphysical claims."
+    },
+    {
+      "t": 10705,
+      "rule": "Do not extract iboga or ayahuasca dosing, sourcing or ceremony details as a how-to; keep hospitalization and cardiac risk visible."
+    },
+    {
+      "t": 10935,
+      "rule": "TRE and body-stored-trauma claims require evidence and must not replace professional care."
+    },
+    {
+      "t": 11025,
+      "rule": "Consent does not certify physical safety; no replication instructions, liability assurance or decontextualized violent clip."
+    },
+    {
+      "t": 11642,
+      "rule": "Never identify the anonymous rehab patient from wealth, behavior, family, facility, program or dates."
+    }
+  ],
+  "description": "Across more than three hours, David Choe describes leaving Los Angeles, renewed Hadza travel and fundraising, finishing the games of money and sex, seeking spirituality, making The Choe Show and Beef, entering Star Wars and survival television, training martial arts, thinking through AI and handmade work, and experimenting with psychedelics, performance and recovery.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -1,24 +1,78 @@
 {
   "summary": "Episode Five expands the early DVDASA room around guests Mister Cartoon and Estevan Oriol, with David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba. It begins with David's complaint about lazy profile writing and a game built from Yoshi's unexpected search history, then develops into the richest art-and-work conversation in the first five episodes: Cartoon's animation idea and Lost Angel character, David's Slow Jams experience, SA Studios, apprenticeship, sobriety and resumed marijuana use, belief and self-affirmation, tattooing, photography, drawing from memory, race and masculinity in Los Angeles, fatherhood, relationships, violence, and revenge. The final movement returns to the podcast itself—its public consequences, first improvised advertisement, Bobby and Carol's marriage conversation, Mister Cartoon drawing the first trivia prize, and Batman/Simpsons/music/hockey questions.",
   "chapters": [
-    {"t": 18, "title": "Bad profiles, Manti Te'o, and the value of research"},
-    {"t": 94, "title": "Mister Cartoon and Estevan Oriol enter the room"},
-    {"t": 250, "title": "Yoshi's search history: Mount Everest and infinity"},
-    {"t": 800, "title": "Lost Angel, animation, and David's Slow Jams comparison"},
-    {"t": 920, "title": "Koreans Gone Bad, SA Studios, and apprenticeship"},
-    {"t": 1120, "title": "Thirteen years sober and the unspiritual awakening"},
-    {"t": 1400, "title": "Meth, paranoia, and stories from active addiction"},
-    {"t": 1780, "title": "Religion, affirmation, success, and self-belief"},
-    {"t": 2200, "title": "Tattooing, photography, reference, and drawing from memory"},
-    {"t": 2600, "title": "Race, masculinity, style, and Los Angeles"},
-    {"t": 3100, "title": "Relationships, children, money, and responsibility"},
-    {"t": 4000, "title": "Fatherhood, bullying, and the limits of provocation"},
-    {"t": 4400, "title": "Violence remembered and revenge performed"},
-    {"t": 5150, "title": "The proposed women-centered brothel and public timing"},
-    {"t": 5450, "title": "Bobby and Carol discuss marriage through the show"},
-    {"t": 5713, "title": "The first improvised sponsor read and podcast consequences"},
-    {"t": 6060, "title": "Mister Cartoon's drawing becomes the first trivia prize"},
-    {"t": 6140, "title": "Batman, Simpsons, Candlebox, hockey, and closing credits"}
+    {
+      "t": 18,
+      "title": "Bad profiles, Manti Te'o, and the value of research"
+    },
+    {
+      "t": 94,
+      "title": "Mister Cartoon and Estevan Oriol enter the room"
+    },
+    {
+      "t": 250,
+      "title": "Yoshi's search history: Mount Everest and infinity"
+    },
+    {
+      "t": 800,
+      "title": "Lost Angel, animation, and David's Slow Jams comparison"
+    },
+    {
+      "t": 920,
+      "title": "Koreans Gone Bad, SA Studios, and apprenticeship"
+    },
+    {
+      "t": 1120,
+      "title": "Thirteen years sober and the unspiritual awakening"
+    },
+    {
+      "t": 1400,
+      "title": "Meth, paranoia, and stories from active addiction"
+    },
+    {
+      "t": 1780,
+      "title": "Religion, affirmation, success, and self-belief"
+    },
+    {
+      "t": 2200,
+      "title": "Tattooing, photography, reference, and drawing from memory"
+    },
+    {
+      "t": 2600,
+      "title": "Race, masculinity, style, and Los Angeles"
+    },
+    {
+      "t": 3100,
+      "title": "Relationships, children, money, and responsibility"
+    },
+    {
+      "t": 4000,
+      "title": "Fatherhood, bullying, and the limits of provocation"
+    },
+    {
+      "t": 4400,
+      "title": "Violence remembered and revenge performed"
+    },
+    {
+      "t": 5150,
+      "title": "The proposed women-centered brothel and public timing"
+    },
+    {
+      "t": 5450,
+      "title": "Bobby and Carol discuss marriage through the show"
+    },
+    {
+      "t": 5713,
+      "title": "The first improvised sponsor read and podcast consequences"
+    },
+    {
+      "t": 6060,
+      "title": "Mister Cartoon's drawing becomes the first trivia prize"
+    },
+    {
+      "t": 6140,
+      "title": "Batman, Simpsons, Candlebox, hockey, and closing credits"
+    }
   ],
   "people": [
     "David Choe",
@@ -113,5 +167,7 @@
     "correction_fixture": "episode-005-correction-fixture.json",
     "content_note": "The episode contains explicit sexual and transphobic language, drug use and addiction, offensive racial and disability language, violence, bullying, revenge, and commercial sex. Editorial summaries preserve disagreements and consequences without endorsing the language or conduct."
   },
-  "note": "Chapter titles and connections are editorial. The transcript is statistically strong and the cleaner deletes no speech; the guest-heavy proper-noun layer requires the logged repairs, while exact quotation and speaker labels still require audio validation."
+  "note": "Chapter titles and connections are editorial. The transcript is statistically strong and the cleaner deletes no speech; the guest-heavy proper-noun layer requires the logged repairs, while exact quotation and speaker labels still require audio validation.",
+  "description": "Episode Five expands the early DVDASA room around guests Mister Cartoon and Estevan Oriol, with David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba.",
+  "description_source": "Opening of the human-reviewed summary."
 }

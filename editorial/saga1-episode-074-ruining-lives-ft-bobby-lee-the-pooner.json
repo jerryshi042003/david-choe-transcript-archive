@@ -18,153 +18,609 @@
   "sensitivity": "Young-adult identification and removal request; sexual assault, harassment and exposed-genital contact after refusal; private partners and absent-friend disclosure; HIV/STI and A1C discussion; adult-worker privacy; racial, national, gender, orientation and disability slurs; colonial Korea, forced labor and atomic-bomb victims; substance use; explicit sexual content and imagery; workplace power; publication threats; Typhoon Haiyan deaths; fan and creator power.",
   "speaker_policy": "Named dialogue remains withheld. Episode 74 has zero diarized turns and five coarse window embeddings for a large ensemble. Public participants are contextually known, but no independently held-out multispeaker validation has passed.",
   "source_notes": [
-    {"claim": "Journalistic ethics call for minimizing harm, heightened sensitivity with inexperienced subjects, and privacy intrusion only for overriding public need", "source": "https://www.spj.org/spj-code-of-ethics/", "use": "grounds the distinction between a release and the editorial duty to respond to reported identification and harm"},
-    {"claim": "Dart Center guidance emphasizes informed consent, explaining interview parameters, and avoiding further trauma to young subjects", "source": "https://dartcenter.org/sites/default/files/covering_children_and_trauma_0.pdf", "use": "supports treating the young guest's removal request as a substantive safety event rather than a failed entertainment bargain"},
-    {"claim": "CDC A1C ranges classify 5.7–6.4% as prediabetes and 6.5% or above as diabetes-range", "source": "https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html", "use": "corrects the one-cookie diagnostic framing"},
-    {"claim": "No HIV test detects infection immediately and window periods vary by test type", "source": "https://www.cdc.gov/hiv/testing/index.html", "use": "keeps the speaker's negative result from becoming timeless certainty"},
-    {"claim": "Hiroshima's official memorial account recognizes Korean victims and wartime forced service or conscription", "source": "https://www.pcf.city.hiroshima.jp/virtual/map-e/irei/tour_11_e.html", "use": "corrects the episode's compressed account of why Koreans were in atomic-bombed cities"},
-    {"claim": "The official Philippine recorded death toll for Typhoon Yolanda/Haiyan is 6,300", "source": "https://psa.gov.ph/statistics/environment/peenra/node/168270", "use": "corrects the episode-era 10,000 claim while acknowledging early estimates varied"},
-    {"claim": "WHO reports 6,300 deaths, more than 28,000 injuries and 16 million people affected by Haiyan", "source": "https://www.who.int/westernpacific/emergencies/typhoon-haiyan-%28yolanda%29", "use": "independent public-health corroboration of the disaster correction"}
+    {
+      "claim": "Journalistic ethics call for minimizing harm, heightened sensitivity with inexperienced subjects, and privacy intrusion only for overriding public need",
+      "source": "https://www.spj.org/spj-code-of-ethics/",
+      "use": "grounds the distinction between a release and the editorial duty to respond to reported identification and harm"
+    },
+    {
+      "claim": "Dart Center guidance emphasizes informed consent, explaining interview parameters, and avoiding further trauma to young subjects",
+      "source": "https://dartcenter.org/sites/default/files/covering_children_and_trauma_0.pdf",
+      "use": "supports treating the young guest's removal request as a substantive safety event rather than a failed entertainment bargain"
+    },
+    {
+      "claim": "CDC A1C ranges classify 5.7–6.4% as prediabetes and 6.5% or above as diabetes-range",
+      "source": "https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html",
+      "use": "corrects the one-cookie diagnostic framing"
+    },
+    {
+      "claim": "No HIV test detects infection immediately and window periods vary by test type",
+      "source": "https://www.cdc.gov/hiv/testing/index.html",
+      "use": "keeps the speaker's negative result from becoming timeless certainty"
+    },
+    {
+      "claim": "Hiroshima's official memorial account recognizes Korean victims and wartime forced service or conscription",
+      "source": "https://www.pcf.city.hiroshima.jp/virtual/map-e/irei/tour_11_e.html",
+      "use": "corrects the episode's compressed account of why Koreans were in atomic-bombed cities"
+    },
+    {
+      "claim": "The official Philippine recorded death toll for Typhoon Yolanda/Haiyan is 6,300",
+      "source": "https://psa.gov.ph/statistics/environment/peenra/node/168270",
+      "use": "corrects the episode-era 10,000 claim while acknowledging early estimates varied"
+    },
+    {
+      "claim": "WHO reports 6,300 deaths, more than 28,000 injuries and 16 million people affected by Haiyan",
+      "source": "https://www.who.int/westernpacific/emergencies/typhoon-haiyan-%28yolanda%29",
+      "use": "independent public-health corroboration of the disaster correction"
+    }
   ],
   "chapters": [
-    {"t": 0.0, "title": "Theme song and cold open"},
-    {"t": 63.0, "title": "DVDASA begins"},
-    {"t": 95.0, "title": "Two Bobbies and nickname confusion"},
-    {"t": 164.0, "title": "Episode 73 catfishing aftermath"},
-    {"t": 192.0, "title": "Isolation was part of the deception"},
-    {"t": 274.0, "title": "Private partner and family withheld"},
-    {"t": 323.0, "title": "The Fellowship of the Ring dream"},
-    {"t": 410.0, "title": "Cheech Marin comparison"},
-    {"t": 491.0, "title": "Separating sex from friendship"},
-    {"t": 527.0, "title": "Absent partner's private life surfaces"},
-    {"t": 553.0, "title": "She may hear the podcast"},
-    {"t": 558.0, "title": "No name does not mean anonymous"},
-    {"t": 613.0, "title": "First immediate deletion request"},
-    {"t": 624.0, "title": "The room recognizes her privacy"},
-    {"t": 664.0, "title": "No person is compensation"},
-    {"t": 725.0, "title": "Do not listen is not repair"},
-    {"t": 778.0, "title": "Thelma & Louise fantasy"},
-    {"t": 952.0, "title": "A courtesy rule for serious stories"},
-    {"t": 1300.0, "title": "The promise that honesty only helps"},
-    {"t": 1744.0, "title": "Slink Johnson's reported opportunity"},
-    {"t": 1774.0, "title": "Andy Milonakis seeks contact"},
-    {"t": 1819.0, "title": "Creative life-partner language"},
-    {"t": 1943.0, "title": "The young guest texts during the show"},
-    {"t": 1949.0, "title": "A waiver is invoked"},
-    {"t": 1956.0, "title": "Remove both YouTube episodes"},
-    {"t": 1961.0, "title": "Contextual anonymity failed"},
-    {"t": 1972.0, "title": "Starting to ruin her life"},
-    {"t": 1977.0, "title": "She knew coming in is not enough"},
-    {"t": 1983.0, "title": "This can destroy her life"},
-    {"t": 1990.0, "title": "Audio can identify too"},
-    {"t": 1998.0, "title": "A pseudonym did not protect her"},
-    {"t": 2017.0, "title": "Sexual callback rejected"},
-    {"t": 2050.0, "title": "Private symptoms withheld"},
-    {"t": 2061.0, "title": "A1C corrected"},
-    {"t": 2081.0, "title": "Mercury units unresolved"},
-    {"t": 2103.0, "title": "HIV test, not AIDS test"},
-    {"t": 2124.0, "title": "Hepatitis A, B and C differ"},
-    {"t": 2193.0, "title": "Phone-result rule is not universal"},
-    {"t": 2258.0, "title": "Public performer matchmaking"},
-    {"t": 2331.0, "title": "Private manager call withheld"},
-    {"t": 2487.0, "title": "A staged sex-position demonstration"},
-    {"t": 2517.0, "title": "Initial participation is specific"},
-    {"t": 2596.0, "title": "A reciprocal demonstration is requested"},
-    {"t": 2598.0, "title": "The answer is no"},
-    {"t": 2639.0, "title": "Restraint language"},
-    {"t": 2707.0, "title": "The cast calls it workplace harassment"},
-    {"t": 2711.0, "title": "Straight-up molestation"},
-    {"t": 2717.0, "title": "You asked for it is rejected"},
-    {"t": 2785.0, "title": "Exposed-genital contact"},
-    {"t": 2801.0, "title": "No, force, clothing removal and contact"},
-    {"t": 2813.0, "title": "Regret and denial alternate"},
-    {"t": 2818.0, "title": "Later reaction does not rewrite consent"},
-    {"t": 2835.0, "title": "A laugh does not justify harassment"},
-    {"t": 2862.0, "title": "Adult work is not blanket consent"},
-    {"t": 2885.0, "title": "Arousal state is irrelevant"},
-    {"t": 2905.0, "title": "Sean Saves the World"},
-    {"t": 2990.0, "title": "The third participant matters"},
-    {"t": 3044.0, "title": "Hand sanitizer does not prevent STIs"},
-    {"t": 3116.0, "title": "Unpaid can still be a workplace"},
-    {"t": 3187.0, "title": "The sequence is reconstructed"},
-    {"t": 3232.0, "title": "Assault does not require extra violence"},
-    {"t": 3241.0, "title": "Lack of resistance is not consent"},
-    {"t": 3278.0, "title": "Team-building dispute"},
-    {"t": 3434.0, "title": "Prior Christmas party"},
-    {"t": 3440.0, "title": "Die Antwoord and Sasha Grey"},
-    {"t": 3478.0, "title": "A new DVDASA party"},
-    {"t": 3499.0, "title": "Substances and impaired-consent risk"},
-    {"t": 3618.0, "title": "Guest-list name repairs"},
-    {"t": 3670.0, "title": "Fantasy invitation list"},
-    {"t": 3764.0, "title": "Recording changes the party"},
-    {"t": 3902.0, "title": "Jerry Maguire and the attempted takeover"},
-    {"t": 3914.0, "title": "BOBASA proposed"},
-    {"t": 3995.0, "title": "DVDASA name explained"},
-    {"t": 4072.0, "title": "Comedy roast network"},
-    {"t": 4095.0, "title": "Anthony Jeselnik"},
-    {"t": 4230.0, "title": "Chris D'Elia"},
-    {"t": 4266.0, "title": "A private outside conversation requested"},
-    {"t": 4314.0, "title": "Marriage plan without private logistics"},
-    {"t": 4437.0, "title": "An absent friend is exposed"},
-    {"t": 4487.0, "title": "Remove or bleep the segment"},
-    {"t": 4500.0, "title": "Seventeen-year career fear"},
-    {"t": 4591.0, "title": "Two removal requests collide"},
-    {"t": 4603.0, "title": "Does editing defeat the show?"},
-    {"t": 4648.0, "title": "Ruining their lives"},
-    {"t": 4750.0, "title": "A name-only bleep is insufficient"},
-    {"t": 4777.0, "title": "The one-pass rule"},
-    {"t": 4818.0, "title": "Contextual clues must also go"},
-    {"t": 5049.0, "title": "The forever waiver claim"},
-    {"t": 5096.0, "title": "Publish anyway and sue me"},
-    {"t": 5284.0, "title": "Private HIV disclosure hypothetical"},
-    {"t": 5404.0, "title": "Nobody else owns HIV disclosure"},
-    {"t": 5600.0, "title": "Every episode creates deletion regret"},
-    {"t": 5637.0, "title": "Bobby discovers Choe through Vice"},
-    {"t": 5707.0, "title": "Do not touch me"},
-    {"t": 5719.0, "title": "A dangerous workplace"},
-    {"t": 5771.0, "title": "Slur repetition and regret"},
-    {"t": 5888.0, "title": "Slur etymology remains disputed"},
-    {"t": 5948.0, "title": "Colonial Korea corrected"},
-    {"t": 5960.0, "title": "Korean atomic-bomb victims"},
-    {"t": 5999.0, "title": "12 Years a Slave"},
-    {"t": 6021.0, "title": "Equal-opportunity slurs still harm"},
-    {"t": 6240.0, "title": "Looper and Bruce Willis"},
-    {"t": 6258.0, "title": "Kitty Pryde and Elliot Page"},
-    {"t": 6271.0, "title": "Judge Dredd and Karl Urban"},
-    {"t": 6290.0, "title": "Adult-worker transport privacy"},
-    {"t": 6505.0, "title": "The Four Agreements is not immunity"},
-    {"t": 6563.0, "title": "Tomorrowland trivia"},
-    {"t": 6900.0, "title": "Fans are not sexual rewards"},
-    {"t": 7023.0, "title": "Explicit images require recipient consent"},
-    {"t": 7173.0, "title": "Performer fear is a stop signal"},
-    {"t": 7286.0, "title": "A second removal request"},
-    {"t": 7500.0, "title": "Honesty does not own other people's secrets"},
-    {"t": 7679.0, "title": "Typhoon Haiyan death toll"},
-    {"t": 7750.0, "title": "Filipino dehumanization rejected"},
-    {"t": 7814.0, "title": "The pass system summarized"},
-    {"t": 7847.0, "title": "Episode-era release schedule"}
+    {
+      "t": 0,
+      "title": "Theme song and cold open"
+    },
+    {
+      "t": 63,
+      "title": "DVDASA begins"
+    },
+    {
+      "t": 95,
+      "title": "Two Bobbies and nickname confusion"
+    },
+    {
+      "t": 164,
+      "title": "Episode 73 catfishing aftermath"
+    },
+    {
+      "t": 192,
+      "title": "Isolation was part of the deception"
+    },
+    {
+      "t": 274,
+      "title": "Private partner and family withheld"
+    },
+    {
+      "t": 323,
+      "title": "The Fellowship of the Ring dream"
+    },
+    {
+      "t": 410,
+      "title": "Cheech Marin comparison"
+    },
+    {
+      "t": 491,
+      "title": "Separating sex from friendship"
+    },
+    {
+      "t": 527,
+      "title": "Absent partner's private life surfaces"
+    },
+    {
+      "t": 553,
+      "title": "She may hear the podcast"
+    },
+    {
+      "t": 558,
+      "title": "No name does not mean anonymous"
+    },
+    {
+      "t": 613,
+      "title": "First immediate deletion request"
+    },
+    {
+      "t": 624,
+      "title": "The room recognizes her privacy"
+    },
+    {
+      "t": 664,
+      "title": "No person is compensation"
+    },
+    {
+      "t": 725,
+      "title": "Do not listen is not repair"
+    },
+    {
+      "t": 778,
+      "title": "Thelma & Louise fantasy"
+    },
+    {
+      "t": 952,
+      "title": "A courtesy rule for serious stories"
+    },
+    {
+      "t": 1300,
+      "title": "The promise that honesty only helps"
+    },
+    {
+      "t": 1744,
+      "title": "Slink Johnson's reported opportunity"
+    },
+    {
+      "t": 1774,
+      "title": "Andy Milonakis seeks contact"
+    },
+    {
+      "t": 1819,
+      "title": "Creative life-partner language"
+    },
+    {
+      "t": 1943,
+      "title": "The young guest texts during the show"
+    },
+    {
+      "t": 1949,
+      "title": "A waiver is invoked"
+    },
+    {
+      "t": 1956,
+      "title": "Remove both YouTube episodes"
+    },
+    {
+      "t": 1961,
+      "title": "Contextual anonymity failed"
+    },
+    {
+      "t": 1972,
+      "title": "Starting to ruin her life"
+    },
+    {
+      "t": 1977,
+      "title": "She knew coming in is not enough"
+    },
+    {
+      "t": 1983,
+      "title": "This can destroy her life"
+    },
+    {
+      "t": 1990,
+      "title": "Audio can identify too"
+    },
+    {
+      "t": 1998,
+      "title": "A pseudonym did not protect her"
+    },
+    {
+      "t": 2017,
+      "title": "Sexual callback rejected"
+    },
+    {
+      "t": 2050,
+      "title": "Private symptoms withheld"
+    },
+    {
+      "t": 2061,
+      "title": "A1C corrected"
+    },
+    {
+      "t": 2081,
+      "title": "Mercury units unresolved"
+    },
+    {
+      "t": 2103,
+      "title": "HIV test, not AIDS test"
+    },
+    {
+      "t": 2124,
+      "title": "Hepatitis A, B and C differ"
+    },
+    {
+      "t": 2193,
+      "title": "Phone-result rule is not universal"
+    },
+    {
+      "t": 2258,
+      "title": "Public performer matchmaking"
+    },
+    {
+      "t": 2331,
+      "title": "Private manager call withheld"
+    },
+    {
+      "t": 2487,
+      "title": "A staged sex-position demonstration"
+    },
+    {
+      "t": 2517,
+      "title": "Initial participation is specific"
+    },
+    {
+      "t": 2596,
+      "title": "A reciprocal demonstration is requested"
+    },
+    {
+      "t": 2598,
+      "title": "The answer is no"
+    },
+    {
+      "t": 2639,
+      "title": "Restraint language"
+    },
+    {
+      "t": 2707,
+      "title": "The cast calls it workplace harassment"
+    },
+    {
+      "t": 2711,
+      "title": "Straight-up molestation"
+    },
+    {
+      "t": 2717,
+      "title": "You asked for it is rejected"
+    },
+    {
+      "t": 2785,
+      "title": "Exposed-genital contact"
+    },
+    {
+      "t": 2801,
+      "title": "No, force, clothing removal and contact"
+    },
+    {
+      "t": 2813,
+      "title": "Regret and denial alternate"
+    },
+    {
+      "t": 2818,
+      "title": "Later reaction does not rewrite consent"
+    },
+    {
+      "t": 2835,
+      "title": "A laugh does not justify harassment"
+    },
+    {
+      "t": 2862,
+      "title": "Adult work is not blanket consent"
+    },
+    {
+      "t": 2885,
+      "title": "Arousal state is irrelevant"
+    },
+    {
+      "t": 2905,
+      "title": "Sean Saves the World"
+    },
+    {
+      "t": 2990,
+      "title": "The third participant matters"
+    },
+    {
+      "t": 3044,
+      "title": "Hand sanitizer does not prevent STIs"
+    },
+    {
+      "t": 3116,
+      "title": "Unpaid can still be a workplace"
+    },
+    {
+      "t": 3187,
+      "title": "The sequence is reconstructed"
+    },
+    {
+      "t": 3232,
+      "title": "Assault does not require extra violence"
+    },
+    {
+      "t": 3241,
+      "title": "Lack of resistance is not consent"
+    },
+    {
+      "t": 3278,
+      "title": "Team-building dispute"
+    },
+    {
+      "t": 3434,
+      "title": "Prior Christmas party"
+    },
+    {
+      "t": 3440,
+      "title": "Die Antwoord and Sasha Grey"
+    },
+    {
+      "t": 3478,
+      "title": "A new DVDASA party"
+    },
+    {
+      "t": 3499,
+      "title": "Substances and impaired-consent risk"
+    },
+    {
+      "t": 3618,
+      "title": "Guest-list name repairs"
+    },
+    {
+      "t": 3670,
+      "title": "Fantasy invitation list"
+    },
+    {
+      "t": 3764,
+      "title": "Recording changes the party"
+    },
+    {
+      "t": 3902,
+      "title": "Jerry Maguire and the attempted takeover"
+    },
+    {
+      "t": 3914,
+      "title": "BOBASA proposed"
+    },
+    {
+      "t": 3995,
+      "title": "DVDASA name explained"
+    },
+    {
+      "t": 4072,
+      "title": "Comedy roast network"
+    },
+    {
+      "t": 4095,
+      "title": "Anthony Jeselnik"
+    },
+    {
+      "t": 4230,
+      "title": "Chris D'Elia"
+    },
+    {
+      "t": 4266,
+      "title": "A private outside conversation requested"
+    },
+    {
+      "t": 4314,
+      "title": "Marriage plan without private logistics"
+    },
+    {
+      "t": 4437,
+      "title": "An absent friend is exposed"
+    },
+    {
+      "t": 4487,
+      "title": "Remove or bleep the segment"
+    },
+    {
+      "t": 4500,
+      "title": "Seventeen-year career fear"
+    },
+    {
+      "t": 4591,
+      "title": "Two removal requests collide"
+    },
+    {
+      "t": 4603,
+      "title": "Does editing defeat the show?"
+    },
+    {
+      "t": 4648,
+      "title": "Ruining their lives"
+    },
+    {
+      "t": 4750,
+      "title": "A name-only bleep is insufficient"
+    },
+    {
+      "t": 4777,
+      "title": "The one-pass rule"
+    },
+    {
+      "t": 4818,
+      "title": "Contextual clues must also go"
+    },
+    {
+      "t": 5049,
+      "title": "The forever waiver claim"
+    },
+    {
+      "t": 5096,
+      "title": "Publish anyway and sue me"
+    },
+    {
+      "t": 5284,
+      "title": "Private HIV disclosure hypothetical"
+    },
+    {
+      "t": 5404,
+      "title": "Nobody else owns HIV disclosure"
+    },
+    {
+      "t": 5600,
+      "title": "Every episode creates deletion regret"
+    },
+    {
+      "t": 5637,
+      "title": "Bobby discovers Choe through Vice"
+    },
+    {
+      "t": 5707,
+      "title": "Do not touch me"
+    },
+    {
+      "t": 5719,
+      "title": "A dangerous workplace"
+    },
+    {
+      "t": 5771,
+      "title": "Slur repetition and regret"
+    },
+    {
+      "t": 5888,
+      "title": "Slur etymology remains disputed"
+    },
+    {
+      "t": 5948,
+      "title": "Colonial Korea corrected"
+    },
+    {
+      "t": 5960,
+      "title": "Korean atomic-bomb victims"
+    },
+    {
+      "t": 5999,
+      "title": "12 Years a Slave"
+    },
+    {
+      "t": 6021,
+      "title": "Equal-opportunity slurs still harm"
+    },
+    {
+      "t": 6240,
+      "title": "Looper and Bruce Willis"
+    },
+    {
+      "t": 6258,
+      "title": "Kitty Pryde and Elliot Page"
+    },
+    {
+      "t": 6271,
+      "title": "Judge Dredd and Karl Urban"
+    },
+    {
+      "t": 6290,
+      "title": "Adult-worker transport privacy"
+    },
+    {
+      "t": 6505,
+      "title": "The Four Agreements is not immunity"
+    },
+    {
+      "t": 6563,
+      "title": "Tomorrowland trivia"
+    },
+    {
+      "t": 6900,
+      "title": "Fans are not sexual rewards"
+    },
+    {
+      "t": 7023,
+      "title": "Explicit images require recipient consent"
+    },
+    {
+      "t": 7173,
+      "title": "Performer fear is a stop signal"
+    },
+    {
+      "t": 7286,
+      "title": "A second removal request"
+    },
+    {
+      "t": 7500,
+      "title": "Honesty does not own other people's secrets"
+    },
+    {
+      "t": 7679,
+      "title": "Typhoon Haiyan death toll"
+    },
+    {
+      "t": 7750,
+      "title": "Filipino dehumanization rejected"
+    },
+    {
+      "t": 7814,
+      "title": "The pass system summarized"
+    },
+    {
+      "t": 7847,
+      "title": "Episode-era release schedule"
+    }
   ],
   "connections": [
-    {"from": 558, "to": "contextual-identification ledger", "relationship": "An absent partner is identifiable through repeated clues even though her name is never spoken"},
-    {"from": 1300, "to": "radical-honesty ledger", "relationship": "The show claims honesty produces only good outcomes before receiving contrary evidence"},
-    {"from": 1744, "to": "Slink Johnson career timeline", "relationship": "The host attributes a television opportunity to Slink's DVDASA appearance"},
-    {"from": 1956, "to": "Episodes 70–71 publication-consent record", "relationship": "The young guest asks for both identifying YouTube episodes removed"},
-    {"from": 1961, "to": "pseudonym failure ledger", "relationship": "Her face and contextual details allowed recognition despite withholding a legal name"},
-    {"from": 1972, "to": "harm and removal ledger", "relationship": "The show describes exposure as starting to ruin her life"},
-    {"from": 1990, "to": "edition-risk ledger", "relationship": "Removing video while retaining audio is proposed even though voice and context may still identify"},
-    {"from": 2598, "to": "workplace-consent ledger", "relationship": "An audible no precedes forced exposed-genital contact during a demonstration"},
-    {"from": 2707, "to": "self-correction ledger", "relationship": "Participants explicitly call the event workplace sexual harassment and molestation"},
-    {"from": 3241, "to": "consent-misinformation ledger", "relationship": "The room incorrectly treats lack of physical resistance as evidence against assault"},
-    {"from": 3764, "to": "recording-effects ledger", "relationship": "The cast recognizes that live recording changes attendance and behavior at a private party"},
-    {"from": 3914, "to": "DVDASA show-development timeline", "relationship": "BOBASA is proposed as an alternate name during cast expansion"},
-    {"from": 4437, "to": "third-party disclosure ledger", "relationship": "An absent friend's potentially damaging information is spoken after a public name is introduced"},
-    {"from": 4591, "to": "publication-governance timeline", "relationship": "The young guest's request and the absent friend's redaction become one explicit editorial debate"},
-    {"from": 4777, "to": "DVDASA rules timeline", "relationship": "The cast invents a one-pass redaction policy rather than a subject- and harm-based process"},
-    {"from": 5049, "to": "release-versus-ethics ledger", "relationship": "A purported forever waiver is treated as the end of editorial responsibility"},
-    {"from": 5600, "to": "recurring-regret ledger", "relationship": "The host says nearly every show contains something he wishes he could remove"},
-    {"from": 5637, "to": "David Choe–Bobby Lee relationship timeline", "relationship": "Bobby traces his fandom to a Vice DVD and a signed Choe plush before meeting him"},
-    {"from": 5960, "to": "Korea–Japan history ledger", "relationship": "The episode reaches Korean forced migration and atomic-bomb victims through a racially hostile argument"},
-    {"from": 7500, "to": "Episode 74 central thesis correction", "relationship": "The host elevates honesty while the episode proves that self-disclosure and exposing others are different acts"}
+    {
+      "from": 558,
+      "to": "contextual-identification ledger",
+      "relationship": "An absent partner is identifiable through repeated clues even though her name is never spoken"
+    },
+    {
+      "from": 1300,
+      "to": "radical-honesty ledger",
+      "relationship": "The show claims honesty produces only good outcomes before receiving contrary evidence"
+    },
+    {
+      "from": 1744,
+      "to": "Slink Johnson career timeline",
+      "relationship": "The host attributes a television opportunity to Slink's DVDASA appearance"
+    },
+    {
+      "from": 1956,
+      "to": "Episodes 70–71 publication-consent record",
+      "relationship": "The young guest asks for both identifying YouTube episodes removed"
+    },
+    {
+      "from": 1961,
+      "to": "pseudonym failure ledger",
+      "relationship": "Her face and contextual details allowed recognition despite withholding a legal name"
+    },
+    {
+      "from": 1972,
+      "to": "harm and removal ledger",
+      "relationship": "The show describes exposure as starting to ruin her life"
+    },
+    {
+      "from": 1990,
+      "to": "edition-risk ledger",
+      "relationship": "Removing video while retaining audio is proposed even though voice and context may still identify"
+    },
+    {
+      "from": 2598,
+      "to": "workplace-consent ledger",
+      "relationship": "An audible no precedes forced exposed-genital contact during a demonstration"
+    },
+    {
+      "from": 2707,
+      "to": "self-correction ledger",
+      "relationship": "Participants explicitly call the event workplace sexual harassment and molestation"
+    },
+    {
+      "from": 3241,
+      "to": "consent-misinformation ledger",
+      "relationship": "The room incorrectly treats lack of physical resistance as evidence against assault"
+    },
+    {
+      "from": 3764,
+      "to": "recording-effects ledger",
+      "relationship": "The cast recognizes that live recording changes attendance and behavior at a private party"
+    },
+    {
+      "from": 3914,
+      "to": "DVDASA show-development timeline",
+      "relationship": "BOBASA is proposed as an alternate name during cast expansion"
+    },
+    {
+      "from": 4437,
+      "to": "third-party disclosure ledger",
+      "relationship": "An absent friend's potentially damaging information is spoken after a public name is introduced"
+    },
+    {
+      "from": 4591,
+      "to": "publication-governance timeline",
+      "relationship": "The young guest's request and the absent friend's redaction become one explicit editorial debate"
+    },
+    {
+      "from": 4777,
+      "to": "DVDASA rules timeline",
+      "relationship": "The cast invents a one-pass redaction policy rather than a subject- and harm-based process"
+    },
+    {
+      "from": 5049,
+      "to": "release-versus-ethics ledger",
+      "relationship": "A purported forever waiver is treated as the end of editorial responsibility"
+    },
+    {
+      "from": 5600,
+      "to": "recurring-regret ledger",
+      "relationship": "The host says nearly every show contains something he wishes he could remove"
+    },
+    {
+      "from": 5637,
+      "to": "David Choe–Bobby Lee relationship timeline",
+      "relationship": "Bobby traces his fandom to a Vice DVD and a signed Choe plush before meeting him"
+    },
+    {
+      "from": 5960,
+      "to": "Korea–Japan history ledger",
+      "relationship": "The episode reaches Korean forced migration and atomic-bomb victims through a racially hostile argument"
+    },
+    {
+      "from": 7500,
+      "to": "Episode 74 central thesis correction",
+      "relationship": "The host elevates honesty while the episode proves that self-disclosure and exposing others are different acts"
+    }
   ],
   "content_warnings": [
     "young-adult identification and removal request",
@@ -187,5 +643,26 @@
     "workplace power and unpaid labor",
     "fan and celebrity power",
     "private schedules and locations"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Bill Poon",
+    "Bobby Lee"
+  ],
+  "places": [
+    "party"
+  ],
+  "works": [
+    "YouTube",
+    "DVDASA",
+    "Vice",
+    "VICE",
+    "NON"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 74 is the clearest early DVDASA record of a production recognizing that contextual anonymity failed.",
+  "description_source": "Opening of the human-reviewed summary."
 }

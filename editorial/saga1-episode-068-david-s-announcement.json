@@ -18,371 +18,1480 @@
     "named_turns": 0
   },
   "chapters": [
-    {"t": 0.0, "title": "Episode 67 dating-fatigue carryover"},
-    {"t": 39.28, "title": "DVDASA opening from downtown Los Angeles"},
-    {"t": 75.38, "title": "A truncated cast"},
-    {"t": 85.88, "title": "Bobby and a private partner are absent"},
-    {"t": 98.18, "title": "Money Mark remains in New York"},
-    {"t": 109.0, "title": "Val joins the small room"},
-    {"t": 111.82, "title": "Japanese guests from Episode 67"},
-    {"t": 127.7, "title": "Val corrects an ethnicity mistake"},
-    {"t": 142.44, "title": "Asa Akira and Critter introduced"},
-    {"t": 151.06, "title": "Trauma inferred from adult work"},
-    {"t": 157.64, "title": "Race-car drivers are diagnosed from risk"},
-    {"t": 188.0, "title": "Danger and skydiving"},
-    {"t": 230.16, "title": "Has the show caused negative consequences"},
-    {"t": 245.22, "title": "Adult-industry HIV risk"},
-    {"t": 253.54, "title": "Testing is treated as complete safety"},
-    {"t": 278.7, "title": "Infection risk conflated with assault"},
-    {"t": 286.64, "title": "A private performer no-list"},
-    {"t": 314.66, "title": "Coworker conduct and discomfort"},
-    {"t": 333.68, "title": "Identifying anatomy is exposed"},
-    {"t": 362.48, "title": "Misogyny generalized across performers"},
-    {"t": 383.7, "title": "Unverified criminal histories"},
-    {"t": 407.32, "title": "Unsupported early-death claim"},
-    {"t": 431.48, "title": "Damaged people stereotype"},
-    {"t": 456.66, "title": "Stalkers and public recognition"},
-    {"t": 477.22, "title": "Roofied and assaulted as status markers"},
-    {"t": 491.64, "title": "Everyone has been roofied claim"},
-    {"t": 501.94, "title": "Controlled GHB experiment proposed"},
-    {"t": 515.26, "title": "Producer asked to obtain drugs"},
-    {"t": 519.64, "title": "Rohypnol versus GHB confusion"},
-    {"t": 530.04, "title": "GHB misuse and bodybuilding claim"},
-    {"t": 548.08, "title": "Group GHB and Viagra party"},
-    {"t": 566.08, "title": "Incapacitation is sexualized"},
-    {"t": 582.08, "title": "Viagra and consent confusion"},
-    {"t": 590.64, "title": "Fear that one participant stays sober"},
-    {"t": 600.12, "title": "Nonconsensual guest hypothetical"},
-    {"t": 607.36, "title": "Security offers to remain sober"},
-    {"t": 620.28, "title": "Reported airport touching"},
-    {"t": 632.88, "title": "Former client heard an earlier story"},
-    {"t": 650.16, "title": "The show starts again"},
-    {"t": 678.7, "title": "Persistent phlegm and self-diagnosis"},
-    {"t": 693.1, "title": "Announcement setup begins"},
-    {"t": 723.56, "title": "Raw-show consequences"},
-    {"t": 738.5, "title": "Val's prior public-recognition incident"},
-    {"t": 745.86, "title": "Thanks before the bad news"},
-    {"t": 761.86, "title": "Bad things are starting to happen"},
-    {"t": 769.3, "title": "Weak anonymization of former partners"},
-    {"t": 783.5, "title": "Angry private messages"},
-    {"t": 796.82, "title": "Unblackmailable meets real consequences"},
-    {"t": 808.34, "title": "The show hurts people"},
-    {"t": 817.12, "title": "Hostile mail escalates"},
-    {"t": 841.64, "title": "AIDS used as fake announcement"},
-    {"t": 858.38, "title": "Death threats and bodily-harm threats"},
-    {"t": 879.88, "title": "Guests ask for edits after recording"},
-    {"t": 902.08, "title": "Delete requests are automatically refused"},
-    {"t": 918.98, "title": "What is the point of continuing"},
-    {"t": 927.22, "title": "Bridges burn and walls close in"},
-    {"t": 948.14, "title": "Should the show end"},
-    {"t": 953.14, "title": "David's announcement"},
-    {"t": 955.92, "title": "The show will continue forever"},
-    {"t": 962.18, "title": "Violent defiance of critics"},
-    {"t": 990.9, "title": "The room calls it an emotional roller coaster"},
-    {"t": 995.28, "title": "Private doubt in bed"},
-    {"t": 1010.7, "title": "Threat texts and mistaken identities"},
-    {"t": 1041.06, "title": "Sexual bridges close"},
-    {"t": 1046.34, "title": "Former partners hear stories through friends"},
-    {"t": 1054.28, "title": "Friends who warn women are attacked"},
-    {"t": 1080.16, "title": "Asa defends telling a friend"},
-    {"t": 1093.3, "title": "Jokes can still reach family"},
-    {"t": 1118.88, "title": "Decision to cancel in private"},
-    {"t": 1139.3, "title": "Legal and safety concerns"},
-    {"t": 1158.92, "title": "Guests are described as tricked"},
-    {"t": 1179.32, "title": "The critics almost won"},
-    {"t": 1195.02, "title": "Refusal to let the terrorists win"},
-    {"t": 1209.3, "title": "Long Beach day with Critter"},
-    {"t": 1216.72, "title": "Erotic-art exhibition"},
-    {"t": 1241.46, "title": "A sexually explicit painting"},
-    {"t": 1252.62, "title": "Linsanity premiere reminder"},
-    {"t": 1272.42, "title": "Unsafe record-time drive"},
-    {"t": 1286.8, "title": "Arriving underdressed"},
-    {"t": 1308.22, "title": "Jeremy Lin and Linsanity"},
-    {"t": 1318.9, "title": "Cross in the title interpretation"},
-    {"t": 1341.08, "title": "First red-carpet anxiety"},
-    {"t": 1347.92, "title": "Sasha Grey and Machete callback"},
-    {"t": 1399.36, "title": "Cameras and awkward posing"},
-    {"t": 1435.64, "title": "Asa shares red-carpet nerves"},
-    {"t": 1456.24, "title": "Skin and appearance anxiety"},
-    {"t": 1473.72, "title": "Lisa Ling reunites on the carpet"},
-    {"t": 1506.12, "title": "The documentary begins"},
-    {"t": 1515.74, "title": "Planning an early exit"},
-    {"t": 1540.14, "title": "Resistance to religious framing"},
-    {"t": 1547.08, "title": "The film wins the room over"},
-    {"t": 1583.38, "title": "Anti-Asian barriers described with a slur"},
-    {"t": 1590.4, "title": "First NBA team guessed incorrectly"},
-    {"t": 1622.66, "title": "Addiction and higher-power overclaim"},
-    {"t": 1651.18, "title": "Personal belief beyond organized religion"},
-    {"t": 1684.86, "title": "The universe and moral energy"},
-    {"t": 1714.5, "title": "Atheism, agnosticism, and afterlife"},
-    {"t": 1810.42, "title": "Recovery reduced to one pathway"},
-    {"t": 1845.52, "title": "Jeremy Lin's portrayed discipline"},
-    {"t": 1886.12, "title": "Baseless allegation immediately rejected"},
-    {"t": 1898.08, "title": "Faith and surrender in the documentary"},
-    {"t": 1911.28, "title": "Religious certainty as easier life"},
-    {"t": 1958.38, "title": "Mother's faith"},
-    {"t": 1974.94, "title": "Grandmother's hardship and belief"},
-    {"t": 2002.94, "title": "Lin family compared to Choe family"},
-    {"t": 2032.64, "title": "Jeremy Lin sexualized through race"},
-    {"t": 2076.4, "title": "Matt Saracen comparison"},
-    {"t": 2091.8, "title": "Three sons and immigrant-parent hopes"},
-    {"t": 2121.6, "title": "Father's poverty and drive"},
-    {"t": 2159.12, "title": "Father's basketball skill"},
-    {"t": 2170.2, "title": "Weekend sack of sports equipment"},
-    {"t": 2197.54, "title": "Three sons reject sports"},
-    {"t": 2229.02, "title": "Race and size anxiety on the court"},
-    {"t": 2241.64, "title": "Father demonstrates long shots"},
-    {"t": 2274.52, "title": "Podcast enthusiasm compared to sports"},
-    {"t": 2317.88, "title": "Father still watches every sport"},
-    {"t": 2342.54, "title": "Jim Lee and children who ignore comics"},
-    {"t": 2366.6, "title": "Attempting football"},
-    {"t": 2410.84, "title": "Touchdown and ankle injury"},
-    {"t": 2461.36, "title": "Marching band for Paradise City"},
-    {"t": 2481.22, "title": "Football and band at once"},
-    {"t": 2502.72, "title": "Linsanity recommendation"},
-    {"t": 2531.7, "title": "Roosevelt Hotel after-party"},
-    {"t": 2554.72, "title": "The beginning of dating fatigue"},
-    {"t": 2595.48, "title": "Mitsuru and Yao Ming confusion"},
-    {"t": 2612.74, "title": "Harvard and the NBA path"},
-    {"t": 2621.8, "title": "Critter surrounded by Asians"},
-    {"t": 2662.56, "title": "Jeremy Lin's identity guessed three ways"},
-    {"t": 2712.72, "title": "The premiere's social pressure"},
-    {"t": 2732.94, "title": "Recognition and sexual opportunity"},
-    {"t": 2769.48, "title": "The show is draining"},
-    {"t": 2784.66, "title": "Private home and wealth exposed"},
-    {"t": 2793.9, "title": "Scrooge McDuck pool fantasy"},
-    {"t": 2848.54, "title": "Breaking Bad finale section"},
-    {"t": 2884.06, "title": "Seeing without paying attention"},
-    {"t": 2914.62, "title": "Did you see that frustration"},
-    {"t": 2990.6, "title": "The monologue is really about the host"},
-    {"t": 3020.78, "title": "Spoiler warning"},
-    {"t": 3054.94, "title": "When television should end"},
-    {"t": 3073.2, "title": "The Shield as finale benchmark"},
-    {"t": 3093.16, "title": "Walter and Jesse summary"},
-    {"t": 3115.58, "title": "Harry becomes the Jesse analogy"},
-    {"t": 3135.52, "title": "Gambling partnership begins"},
-    {"t": 3152.74, "title": "Robin Hood and Batman rationalizations"},
-    {"t": 3187.18, "title": "Legal fast money sought"},
-    {"t": 3207.38, "title": "Ten years and millions"},
-    {"t": 3232.26, "title": "Cash thrown away in Breaking Bad"},
-    {"t": 3243.18, "title": "Harry repeatedly asks to stop"},
-    {"t": 3253.4, "title": "Targets keep increasing"},
-    {"t": 3267.66, "title": "It is never enough"},
-    {"t": 3277.06, "title": "Dollar-sign cash sack"},
-    {"t": 3295.24, "title": "The host says he had lost his mind"},
-    {"t": 3333.16, "title": "Wealth changes perception"},
-    {"t": 3367.72, "title": "Money opens ordinary doors"},
-    {"t": 3387.1, "title": "Indecent Proposal comparison"},
-    {"t": 3400.28, "title": "Sex and money generalized"},
-    {"t": 3424.56, "title": "Harry says it is no longer about money"},
-    {"t": 3431.24, "title": "Money used to silence objections"},
-    {"t": 3462.06, "title": "Facebook proceeds magnify the spiral"},
-    {"t": 3477.24, "title": "The Robin Hood story returns"},
-    {"t": 3500.94, "title": "Retail theft rationalized by target size"},
-    {"t": 3551.9, "title": "Former thieves retain vigilance"},
-    {"t": 3573.8, "title": "Every store is still cased"},
-    {"t": 3592.64, "title": "Anything for family"},
-    {"t": 3610.2, "title": "Theft framed as caretaking"},
-    {"t": 3637.96, "title": "Groceries for nine art students"},
-    {"t": 3654.2, "title": "Stealing for challenge, then giving away"},
-    {"t": 3667.08, "title": "Friends and partners join stealing sprees"},
-    {"t": 3684.4, "title": "Stereotypes used as theft cover"},
-    {"t": 3713.98, "title": "Stolen objects lose value"},
-    {"t": 3730.86, "title": "Robin Hood self-image"},
-    {"t": 3751.8, "title": "Being bad feels good"},
-    {"t": 3772.06, "title": "Walter tells Skyler he did it for himself"},
-    {"t": 3801.22, "title": "The host applies the admission inward"},
-    {"t": 3814.76, "title": "Family rationale falls away"},
-    {"t": 3820.84, "title": "He enjoyed being bad"},
-    {"t": 3837.06, "title": "Arrest, prison, and the expected ending"},
-    {"t": 3879.56, "title": "The room feels depressed"},
-    {"t": 3883.9, "title": "Risk and romantic avoidance"},
-    {"t": 3900.46, "title": "Jesse Pinkman's partners"},
-    {"t": 3924.64, "title": "Podcast risk versus family harm"},
-    {"t": 3945.26, "title": "Japan prison and a former partner"},
-    {"t": 3977.02, "title": "Risk categories merge"},
-    {"t": 4001.2, "title": "Extreme risk and wealth"},
-    {"t": 4023.9, "title": "Police-partner stereotype"},
-    {"t": 4047.18, "title": "Fear of hurting a future family"},
-    {"t": 4054.42, "title": "Racist travel and disease joke"},
-    {"t": 4064.94, "title": "Gambling-relapse fear"},
-    {"t": 4075.46, "title": "Heat becomes the next analogy"},
-    {"t": 4103.3, "title": "Walk away in seconds"},
-    {"t": 4131.86, "title": "Always ready to leave"},
-    {"t": 4140.4, "title": "Will he choose a relationship"},
-    {"t": 4150.04, "title": "The room calls the thinking unhealthy"},
-    {"t": 4174.0, "title": "Breaking Bad laser-pointer threat"},
-    {"t": 4191.36, "title": "Real intimidation history"},
-    {"t": 4224.3, "title": "Claimed access to killers"},
-    {"t": 4245.86, "title": "Wealth opens stranger services"},
-    {"t": 4301.6, "title": "Murder-for-hire prices and race"},
-    {"t": 4326.4, "title": "The room questions the topic"},
-    {"t": 4341.8, "title": "Low-cost murder scenario"},
-    {"t": 4357.54, "title": "Affordability becomes the joke"},
-    {"t": 4376.88, "title": "Do not shop in your range"},
-    {"t": 4393.44, "title": "Professional assassin comparison"},
-    {"t": 4409.64, "title": "Do not kill someone"},
-    {"t": 4414.1, "title": "Boob-job pricing analogy"},
-    {"t": 4433.68, "title": "Fans who cannot afford the art"},
-    {"t": 4441.68, "title": "Giveaways and exceptional gestures"},
-    {"t": 4459.98, "title": "Most people cannot afford it"},
-    {"t": 4469.38, "title": "Buy work from emerging artists"},
-    {"t": 4492.16, "title": "Affordable prints, books, and free work"},
-    {"t": 4508.84, "title": "Performer and artist rates"},
-    {"t": 4536.26, "title": "Explicit labor scope"},
-    {"t": 4560.2, "title": "When money is insufficient"},
-    {"t": 4566.42, "title": "Personal-slavery offer rejected"},
-    {"t": 4618.3, "title": "Find a mutually wanted trade"},
-    {"t": 4623.18, "title": "Travis Barker album-art request"},
-    {"t": 4634.64, "title": "Mr. Brainwash opinion"},
-    {"t": 4660.26, "title": "Association and creative standards"},
-    {"t": 4687.78, "title": "Custom drum-set trade"},
-    {"t": 4701.0, "title": "Bad art is not equal barter"},
-    {"t": 4710.46, "title": "Try harder or do not try"},
-    {"t": 4736.58, "title": "Hiking with Critter"},
-    {"t": 4745.2, "title": "Parallel childhood trouble"},
-    {"t": 4781.32, "title": "Power check defined"},
-    {"t": 4787.44, "title": "Private family story begins"},
-    {"t": 4808.9, "title": "New boyfriend and household authority"},
-    {"t": 4843.88, "title": "Ambush outside the house"},
-    {"t": 4874.1, "title": "Throat restraint disclosed"},
-    {"t": 4878.8, "title": "Threat of harm stated plainly"},
-    {"t": 4893.14, "title": "Later friendliness is called proof"},
-    {"t": 4914.54, "title": "Parents dating after divorce"},
-    {"t": 4945.1, "title": "Physical intimidation as power"},
-    {"t": 4977.14, "title": "First marriage and a child"},
-    {"t": 4998.28, "title": "A five-year-old hears sexual activity"},
-    {"t": 5023.92, "title": "Violent joke about a child"},
-    {"t": 5033.3, "title": "Disneyland conflict"},
-    {"t": 5059.5, "title": "Child described as a mistake"},
-    {"t": 5075.92, "title": "Nineteen and unwilling to parent"},
-    {"t": 5081.88, "title": "No future partners with children"},
-    {"t": 5102.62, "title": "Jealousy of enduring family ties"},
-    {"t": 5118.46, "title": "Parents who regret children"},
-    {"t": 5145.02, "title": "Retrospective accountability"},
-    {"t": 5157.0, "title": "Father forced into loyalty conflicts"},
-    {"t": 5171.94, "title": "The speaker says she feels bad"},
-    {"t": 5187.4, "title": "Fear of future mistakes"},
-    {"t": 5214.28, "title": "Single-parent child stereotype"},
-    {"t": 5241.5, "title": "Only-child pressure"},
-    {"t": 5254.9, "title": "Val's child is pulled into dating"},
-    {"t": 5275.26, "title": "Custody schedule exposed"},
-    {"t": 5291.7, "title": "Three-way relationship callback"},
-    {"t": 5400.0, "title": "Childhood counseling and court history"},
-    {"t": 5560.2, "title": "Ages thirteen through twenty-three"},
-    {"t": 5579.54, "title": "Oakland and family location privacy"},
-    {"t": 5609.08, "title": "Art-student house and stolen supplies"},
-    {"t": 5622.64, "title": "Private accomplices withheld"},
-    {"t": 5626.1, "title": "Fraternity burglary method"},
-    {"t": 5644.3, "title": "Groceries stolen for two years"},
-    {"t": 5663.8, "title": "Fraternity target rationalization"},
-    {"t": 5712.36, "title": "Retail theft escalates"},
-    {"t": 5723.16, "title": "Walkie-talkie coordination"},
-    {"t": 5740.34, "title": "Berkland escape boundary"},
-    {"t": 5765.74, "title": "Returning for a second load"},
-    {"t": 5818.68, "title": "Police arrive"},
-    {"t": 5841.72, "title": "The ham is dropped"},
-    {"t": 5852.52, "title": "Berkeley jail begins"},
-    {"t": 5877.44, "title": "Choosing a shared cell"},
-    {"t": 5902.14, "title": "Scratching a name into metal"},
-    {"t": 5924.2, "title": "Private detainees whisper about counsel"},
-    {"t": 5939.36, "title": "A father promises his son will bail him out"},
-    {"t": 5959.52, "title": "Milk and the gas-cloud story"},
-    {"t": 6004.74, "title": "Not eating in custody"},
-    {"t": 6019.58, "title": "Vegan meals in jail"},
-    {"t": 6046.14, "title": "Prison pornography and rape myth"},
-    {"t": 6060.56, "title": "Arousal used to explain assault"},
-    {"t": 6068.92, "title": "Sports television in custody"},
-    {"t": 6087.52, "title": "UPN racialized as a channel"},
-    {"t": 6109.08, "title": "Private detained woman and magazine claim"},
-    {"t": 6118.5, "title": "Uncertain late-teen booking age"},
-    {"t": 6148.38, "title": "Walking past crowded men's cells"},
-    {"t": 6193.2, "title": "Women's cell remembered as safer"},
-    {"t": 6208.72, "title": "Prior interventions and arrests"},
-    {"t": 6226.7, "title": "Frat-prank defense fails"},
-    {"t": 6242.58, "title": "Court delayed another day"},
-    {"t": 6297.36, "title": "Prisoners chained to court"},
-    {"t": 6306.5, "title": "The promised son is arrested"},
-    {"t": 6324.6, "title": "Large courthouse holding cell"},
-    {"t": 6345.84, "title": "Public toilet crisis"},
-    {"t": 6371.08, "title": "Friends do not help"},
-    {"t": 6398.12, "title": "Attempted confident walk"},
-    {"t": 6413.66, "title": "Racist harassment begins"},
-    {"t": 6440.52, "title": "Toilet etiquette before court"},
-    {"t": 6455.52, "title": "Slurs and objects continue"},
-    {"t": 6479.02, "title": "Courtesy flushing learned late"},
-    {"t": 6504.68, "title": "Codefendant names called"},
-    {"t": 6511.24, "title": "Stereotype performed for the judge"},
-    {"t": 6538.94, "title": "Community service and probation"},
-    {"t": 6549.1, "title": "Promise never to return"},
-    {"t": 6591.02, "title": "The promise is later broken"},
-    {"t": 6599.88, "title": "Cannot trust himself"},
-    {"t": 6612.78, "title": "Longest stretch out of jail"},
-    {"t": 6625.0, "title": "Rehab joke retracted"},
-    {"t": 6635.16, "title": "A wake-up call"},
-    {"t": 6663.62, "title": "Charity and giving stolen property away"},
-    {"t": 6680.02, "title": "Hitchhiking with less property"},
-    {"t": 6690.82, "title": "Val discloses jail time"},
-    {"t": 6694.86, "title": "He withholds the charge"},
-    {"t": 6704.62, "title": "Three months in custody"},
-    {"t": 6722.96, "title": "Private family consequence"},
-    {"t": 6737.76, "title": "LA County jail"},
-    {"t": 6753.68, "title": "Racial jail grouping"},
-    {"t": 6783.82, "title": "Fight over the phone"},
-    {"t": 6813.82, "title": "Asian jail-alliance generalization"},
-    {"t": 6830.8, "title": "Indian detainee classification claim"},
-    {"t": 6843.18, "title": "Other housing group"},
-    {"t": 6872.24, "title": "False rape-attempt answer retracted"},
-    {"t": 6891.84, "title": "Reported harassment in custody"},
-    {"t": 6909.96, "title": "Violent survival advice"},
-    {"t": 6921.74, "title": "Japanese jail comparison"},
-    {"t": 6941.42, "title": "Family jail-tour story"},
-    {"t": 6962.78, "title": "Japanese prison architecture"},
-    {"t": 6986.42, "title": "Direct rape question answered no"},
-    {"t": 7002.3, "title": "Three months acknowledged as long"},
-    {"t": 7011.18, "title": "Val moved away from gangs"},
-    {"t": 7016.96, "title": "Hope no one returns to jail"},
-    {"t": 7043.8, "title": "Private charge deferred until after recording"},
-    {"t": 7047.14, "title": "The room calls the episode depressing"},
-    {"t": 7053.78, "title": "The show will continue"},
-    {"t": 7071.5, "title": "Critter's fake cliffhanger"},
-    {"t": 7095.62, "title": "Fun talk and real talk"},
-    {"t": 7111.18, "title": "Defiance returns to threats"},
-    {"t": 7133.26, "title": "Nearly one year of DVDASA"},
-    {"t": 7148.8, "title": "Ending on gratitude"},
-    {"t": 7151.26, "title": "Supportive listeners thanked"},
-    {"t": 7186.2, "title": "The show began as an experiment"},
-    {"t": 7191.74, "title": "Audience growth keeps it going"},
-    {"t": 7226.8, "title": "Val thanked for sharing"},
-    {"t": 7236.82, "title": "Public product and account plugs"},
-    {"t": 7258.08, "title": "DVDASA merchandise teased"},
-    {"t": 7286.3, "title": "Comment section described as venomous"},
-    {"t": 7311.46, "title": "Zero-percent cancellation chance"},
-    {"t": 7316.9, "title": "Oakland Athletics sign-off"},
-    {"t": 7333.48, "title": "Extended recorded outro"},
-    {"t": 7394.68, "title": "Post-outro microphone check"}
+    {
+      "t": 0,
+      "title": "Episode 67 dating-fatigue carryover"
+    },
+    {
+      "t": 39.28,
+      "title": "DVDASA opening from downtown Los Angeles"
+    },
+    {
+      "t": 75.38,
+      "title": "A truncated cast"
+    },
+    {
+      "t": 85.88,
+      "title": "Bobby and a private partner are absent"
+    },
+    {
+      "t": 98.18,
+      "title": "Money Mark remains in New York"
+    },
+    {
+      "t": 109,
+      "title": "Val joins the small room"
+    },
+    {
+      "t": 111.82,
+      "title": "Japanese guests from Episode 67"
+    },
+    {
+      "t": 127.7,
+      "title": "Val corrects an ethnicity mistake"
+    },
+    {
+      "t": 142.44,
+      "title": "Asa Akira and Critter introduced"
+    },
+    {
+      "t": 151.06,
+      "title": "Trauma inferred from adult work"
+    },
+    {
+      "t": 157.64,
+      "title": "Race-car drivers are diagnosed from risk"
+    },
+    {
+      "t": 188,
+      "title": "Danger and skydiving"
+    },
+    {
+      "t": 230.16,
+      "title": "Has the show caused negative consequences"
+    },
+    {
+      "t": 245.22,
+      "title": "Adult-industry HIV risk"
+    },
+    {
+      "t": 253.54,
+      "title": "Testing is treated as complete safety"
+    },
+    {
+      "t": 278.7,
+      "title": "Infection risk conflated with assault"
+    },
+    {
+      "t": 286.64,
+      "title": "A private performer no-list"
+    },
+    {
+      "t": 314.66,
+      "title": "Coworker conduct and discomfort"
+    },
+    {
+      "t": 333.68,
+      "title": "Identifying anatomy is exposed"
+    },
+    {
+      "t": 362.48,
+      "title": "Misogyny generalized across performers"
+    },
+    {
+      "t": 383.7,
+      "title": "Unverified criminal histories"
+    },
+    {
+      "t": 407.32,
+      "title": "Unsupported early-death claim"
+    },
+    {
+      "t": 431.48,
+      "title": "Damaged people stereotype"
+    },
+    {
+      "t": 456.66,
+      "title": "Stalkers and public recognition"
+    },
+    {
+      "t": 477.22,
+      "title": "Roofied and assaulted as status markers"
+    },
+    {
+      "t": 491.64,
+      "title": "Everyone has been roofied claim"
+    },
+    {
+      "t": 501.94,
+      "title": "Controlled GHB experiment proposed"
+    },
+    {
+      "t": 515.26,
+      "title": "Producer asked to obtain drugs"
+    },
+    {
+      "t": 519.64,
+      "title": "Rohypnol versus GHB confusion"
+    },
+    {
+      "t": 530.04,
+      "title": "GHB misuse and bodybuilding claim"
+    },
+    {
+      "t": 548.08,
+      "title": "Group GHB and Viagra party"
+    },
+    {
+      "t": 566.08,
+      "title": "Incapacitation is sexualized"
+    },
+    {
+      "t": 582.08,
+      "title": "Viagra and consent confusion"
+    },
+    {
+      "t": 590.64,
+      "title": "Fear that one participant stays sober"
+    },
+    {
+      "t": 600.12,
+      "title": "Nonconsensual guest hypothetical"
+    },
+    {
+      "t": 607.36,
+      "title": "Security offers to remain sober"
+    },
+    {
+      "t": 620.28,
+      "title": "Reported airport touching"
+    },
+    {
+      "t": 632.88,
+      "title": "Former client heard an earlier story"
+    },
+    {
+      "t": 650.16,
+      "title": "The show starts again"
+    },
+    {
+      "t": 678.7,
+      "title": "Persistent phlegm and self-diagnosis"
+    },
+    {
+      "t": 693.1,
+      "title": "Announcement setup begins"
+    },
+    {
+      "t": 723.56,
+      "title": "Raw-show consequences"
+    },
+    {
+      "t": 738.5,
+      "title": "Val's prior public-recognition incident"
+    },
+    {
+      "t": 745.86,
+      "title": "Thanks before the bad news"
+    },
+    {
+      "t": 761.86,
+      "title": "Bad things are starting to happen"
+    },
+    {
+      "t": 769.3,
+      "title": "Weak anonymization of former partners"
+    },
+    {
+      "t": 783.5,
+      "title": "Angry private messages"
+    },
+    {
+      "t": 796.82,
+      "title": "Unblackmailable meets real consequences"
+    },
+    {
+      "t": 808.34,
+      "title": "The show hurts people"
+    },
+    {
+      "t": 817.12,
+      "title": "Hostile mail escalates"
+    },
+    {
+      "t": 841.64,
+      "title": "AIDS used as fake announcement"
+    },
+    {
+      "t": 858.38,
+      "title": "Death threats and bodily-harm threats"
+    },
+    {
+      "t": 879.88,
+      "title": "Guests ask for edits after recording"
+    },
+    {
+      "t": 902.08,
+      "title": "Delete requests are automatically refused"
+    },
+    {
+      "t": 918.98,
+      "title": "What is the point of continuing"
+    },
+    {
+      "t": 927.22,
+      "title": "Bridges burn and walls close in"
+    },
+    {
+      "t": 948.14,
+      "title": "Should the show end"
+    },
+    {
+      "t": 953.14,
+      "title": "David's announcement"
+    },
+    {
+      "t": 955.92,
+      "title": "The show will continue forever"
+    },
+    {
+      "t": 962.18,
+      "title": "Violent defiance of critics"
+    },
+    {
+      "t": 990.9,
+      "title": "The room calls it an emotional roller coaster"
+    },
+    {
+      "t": 995.28,
+      "title": "Private doubt in bed"
+    },
+    {
+      "t": 1010.7,
+      "title": "Threat texts and mistaken identities"
+    },
+    {
+      "t": 1041.06,
+      "title": "Sexual bridges close"
+    },
+    {
+      "t": 1046.34,
+      "title": "Former partners hear stories through friends"
+    },
+    {
+      "t": 1054.28,
+      "title": "Friends who warn women are attacked"
+    },
+    {
+      "t": 1080.16,
+      "title": "Asa defends telling a friend"
+    },
+    {
+      "t": 1093.3,
+      "title": "Jokes can still reach family"
+    },
+    {
+      "t": 1118.88,
+      "title": "Decision to cancel in private"
+    },
+    {
+      "t": 1139.3,
+      "title": "Legal and safety concerns"
+    },
+    {
+      "t": 1158.92,
+      "title": "Guests are described as tricked"
+    },
+    {
+      "t": 1179.32,
+      "title": "The critics almost won"
+    },
+    {
+      "t": 1195.02,
+      "title": "Refusal to let the terrorists win"
+    },
+    {
+      "t": 1209.3,
+      "title": "Long Beach day with Critter"
+    },
+    {
+      "t": 1216.72,
+      "title": "Erotic-art exhibition"
+    },
+    {
+      "t": 1241.46,
+      "title": "A sexually explicit painting"
+    },
+    {
+      "t": 1252.62,
+      "title": "Linsanity premiere reminder"
+    },
+    {
+      "t": 1272.42,
+      "title": "Unsafe record-time drive"
+    },
+    {
+      "t": 1286.8,
+      "title": "Arriving underdressed"
+    },
+    {
+      "t": 1308.22,
+      "title": "Jeremy Lin and Linsanity"
+    },
+    {
+      "t": 1318.9,
+      "title": "Cross in the title interpretation"
+    },
+    {
+      "t": 1341.08,
+      "title": "First red-carpet anxiety"
+    },
+    {
+      "t": 1347.92,
+      "title": "Sasha Grey and Machete callback"
+    },
+    {
+      "t": 1399.36,
+      "title": "Cameras and awkward posing"
+    },
+    {
+      "t": 1435.64,
+      "title": "Asa shares red-carpet nerves"
+    },
+    {
+      "t": 1456.24,
+      "title": "Skin and appearance anxiety"
+    },
+    {
+      "t": 1473.72,
+      "title": "Lisa Ling reunites on the carpet"
+    },
+    {
+      "t": 1506.12,
+      "title": "The documentary begins"
+    },
+    {
+      "t": 1515.74,
+      "title": "Planning an early exit"
+    },
+    {
+      "t": 1540.14,
+      "title": "Resistance to religious framing"
+    },
+    {
+      "t": 1547.08,
+      "title": "The film wins the room over"
+    },
+    {
+      "t": 1583.38,
+      "title": "Anti-Asian barriers described with a slur"
+    },
+    {
+      "t": 1590.4,
+      "title": "First NBA team guessed incorrectly"
+    },
+    {
+      "t": 1622.66,
+      "title": "Addiction and higher-power overclaim"
+    },
+    {
+      "t": 1651.18,
+      "title": "Personal belief beyond organized religion"
+    },
+    {
+      "t": 1684.86,
+      "title": "The universe and moral energy"
+    },
+    {
+      "t": 1714.5,
+      "title": "Atheism, agnosticism, and afterlife"
+    },
+    {
+      "t": 1810.42,
+      "title": "Recovery reduced to one pathway"
+    },
+    {
+      "t": 1845.52,
+      "title": "Jeremy Lin's portrayed discipline"
+    },
+    {
+      "t": 1886.12,
+      "title": "Baseless allegation immediately rejected"
+    },
+    {
+      "t": 1898.08,
+      "title": "Faith and surrender in the documentary"
+    },
+    {
+      "t": 1911.28,
+      "title": "Religious certainty as easier life"
+    },
+    {
+      "t": 1958.38,
+      "title": "Mother's faith"
+    },
+    {
+      "t": 1974.94,
+      "title": "Grandmother's hardship and belief"
+    },
+    {
+      "t": 2002.94,
+      "title": "Lin family compared to Choe family"
+    },
+    {
+      "t": 2032.64,
+      "title": "Jeremy Lin sexualized through race"
+    },
+    {
+      "t": 2076.4,
+      "title": "Matt Saracen comparison"
+    },
+    {
+      "t": 2091.8,
+      "title": "Three sons and immigrant-parent hopes"
+    },
+    {
+      "t": 2121.6,
+      "title": "Father's poverty and drive"
+    },
+    {
+      "t": 2159.12,
+      "title": "Father's basketball skill"
+    },
+    {
+      "t": 2170.2,
+      "title": "Weekend sack of sports equipment"
+    },
+    {
+      "t": 2197.54,
+      "title": "Three sons reject sports"
+    },
+    {
+      "t": 2229.02,
+      "title": "Race and size anxiety on the court"
+    },
+    {
+      "t": 2241.64,
+      "title": "Father demonstrates long shots"
+    },
+    {
+      "t": 2274.52,
+      "title": "Podcast enthusiasm compared to sports"
+    },
+    {
+      "t": 2317.88,
+      "title": "Father still watches every sport"
+    },
+    {
+      "t": 2342.54,
+      "title": "Jim Lee and children who ignore comics"
+    },
+    {
+      "t": 2366.6,
+      "title": "Attempting football"
+    },
+    {
+      "t": 2410.84,
+      "title": "Touchdown and ankle injury"
+    },
+    {
+      "t": 2461.36,
+      "title": "Marching band for Paradise City"
+    },
+    {
+      "t": 2481.22,
+      "title": "Football and band at once"
+    },
+    {
+      "t": 2502.72,
+      "title": "Linsanity recommendation"
+    },
+    {
+      "t": 2531.7,
+      "title": "Roosevelt Hotel after-party"
+    },
+    {
+      "t": 2554.72,
+      "title": "The beginning of dating fatigue"
+    },
+    {
+      "t": 2595.48,
+      "title": "Mitsuru and Yao Ming confusion"
+    },
+    {
+      "t": 2612.74,
+      "title": "Harvard and the NBA path"
+    },
+    {
+      "t": 2621.8,
+      "title": "Critter surrounded by Asians"
+    },
+    {
+      "t": 2662.56,
+      "title": "Jeremy Lin's identity guessed three ways"
+    },
+    {
+      "t": 2712.72,
+      "title": "The premiere's social pressure"
+    },
+    {
+      "t": 2732.94,
+      "title": "Recognition and sexual opportunity"
+    },
+    {
+      "t": 2769.48,
+      "title": "The show is draining"
+    },
+    {
+      "t": 2784.66,
+      "title": "Private home and wealth exposed"
+    },
+    {
+      "t": 2793.9,
+      "title": "Scrooge McDuck pool fantasy"
+    },
+    {
+      "t": 2848.54,
+      "title": "Breaking Bad finale section"
+    },
+    {
+      "t": 2884.06,
+      "title": "Seeing without paying attention"
+    },
+    {
+      "t": 2914.62,
+      "title": "Did you see that frustration"
+    },
+    {
+      "t": 2990.6,
+      "title": "The monologue is really about the host"
+    },
+    {
+      "t": 3020.78,
+      "title": "Spoiler warning"
+    },
+    {
+      "t": 3054.94,
+      "title": "When television should end"
+    },
+    {
+      "t": 3073.2,
+      "title": "The Shield as finale benchmark"
+    },
+    {
+      "t": 3093.16,
+      "title": "Walter and Jesse summary"
+    },
+    {
+      "t": 3115.58,
+      "title": "Harry becomes the Jesse analogy"
+    },
+    {
+      "t": 3135.52,
+      "title": "Gambling partnership begins"
+    },
+    {
+      "t": 3152.74,
+      "title": "Robin Hood and Batman rationalizations"
+    },
+    {
+      "t": 3187.18,
+      "title": "Legal fast money sought"
+    },
+    {
+      "t": 3207.38,
+      "title": "Ten years and millions"
+    },
+    {
+      "t": 3232.26,
+      "title": "Cash thrown away in Breaking Bad"
+    },
+    {
+      "t": 3243.18,
+      "title": "Harry repeatedly asks to stop"
+    },
+    {
+      "t": 3253.4,
+      "title": "Targets keep increasing"
+    },
+    {
+      "t": 3267.66,
+      "title": "It is never enough"
+    },
+    {
+      "t": 3277.06,
+      "title": "Dollar-sign cash sack"
+    },
+    {
+      "t": 3295.24,
+      "title": "The host says he had lost his mind"
+    },
+    {
+      "t": 3333.16,
+      "title": "Wealth changes perception"
+    },
+    {
+      "t": 3367.72,
+      "title": "Money opens ordinary doors"
+    },
+    {
+      "t": 3387.1,
+      "title": "Indecent Proposal comparison"
+    },
+    {
+      "t": 3400.28,
+      "title": "Sex and money generalized"
+    },
+    {
+      "t": 3424.56,
+      "title": "Harry says it is no longer about money"
+    },
+    {
+      "t": 3431.24,
+      "title": "Money used to silence objections"
+    },
+    {
+      "t": 3462.06,
+      "title": "Facebook proceeds magnify the spiral"
+    },
+    {
+      "t": 3477.24,
+      "title": "The Robin Hood story returns"
+    },
+    {
+      "t": 3500.94,
+      "title": "Retail theft rationalized by target size"
+    },
+    {
+      "t": 3551.9,
+      "title": "Former thieves retain vigilance"
+    },
+    {
+      "t": 3573.8,
+      "title": "Every store is still cased"
+    },
+    {
+      "t": 3592.64,
+      "title": "Anything for family"
+    },
+    {
+      "t": 3610.2,
+      "title": "Theft framed as caretaking"
+    },
+    {
+      "t": 3637.96,
+      "title": "Groceries for nine art students"
+    },
+    {
+      "t": 3654.2,
+      "title": "Stealing for challenge, then giving away"
+    },
+    {
+      "t": 3667.08,
+      "title": "Friends and partners join stealing sprees"
+    },
+    {
+      "t": 3684.4,
+      "title": "Stereotypes used as theft cover"
+    },
+    {
+      "t": 3713.98,
+      "title": "Stolen objects lose value"
+    },
+    {
+      "t": 3730.86,
+      "title": "Robin Hood self-image"
+    },
+    {
+      "t": 3751.8,
+      "title": "Being bad feels good"
+    },
+    {
+      "t": 3772.06,
+      "title": "Walter tells Skyler he did it for himself"
+    },
+    {
+      "t": 3801.22,
+      "title": "The host applies the admission inward"
+    },
+    {
+      "t": 3814.76,
+      "title": "Family rationale falls away"
+    },
+    {
+      "t": 3820.84,
+      "title": "He enjoyed being bad"
+    },
+    {
+      "t": 3837.06,
+      "title": "Arrest, prison, and the expected ending"
+    },
+    {
+      "t": 3879.56,
+      "title": "The room feels depressed"
+    },
+    {
+      "t": 3883.9,
+      "title": "Risk and romantic avoidance"
+    },
+    {
+      "t": 3900.46,
+      "title": "Jesse Pinkman's partners"
+    },
+    {
+      "t": 3924.64,
+      "title": "Podcast risk versus family harm"
+    },
+    {
+      "t": 3945.26,
+      "title": "Japan prison and a former partner"
+    },
+    {
+      "t": 3977.02,
+      "title": "Risk categories merge"
+    },
+    {
+      "t": 4001.2,
+      "title": "Extreme risk and wealth"
+    },
+    {
+      "t": 4023.9,
+      "title": "Police-partner stereotype"
+    },
+    {
+      "t": 4047.18,
+      "title": "Fear of hurting a future family"
+    },
+    {
+      "t": 4054.42,
+      "title": "Racist travel and disease joke"
+    },
+    {
+      "t": 4064.94,
+      "title": "Gambling-relapse fear"
+    },
+    {
+      "t": 4075.46,
+      "title": "Heat becomes the next analogy"
+    },
+    {
+      "t": 4103.3,
+      "title": "Walk away in seconds"
+    },
+    {
+      "t": 4131.86,
+      "title": "Always ready to leave"
+    },
+    {
+      "t": 4140.4,
+      "title": "Will he choose a relationship"
+    },
+    {
+      "t": 4150.04,
+      "title": "The room calls the thinking unhealthy"
+    },
+    {
+      "t": 4174,
+      "title": "Breaking Bad laser-pointer threat"
+    },
+    {
+      "t": 4191.36,
+      "title": "Real intimidation history"
+    },
+    {
+      "t": 4224.3,
+      "title": "Claimed access to killers"
+    },
+    {
+      "t": 4245.86,
+      "title": "Wealth opens stranger services"
+    },
+    {
+      "t": 4301.6,
+      "title": "Murder-for-hire prices and race"
+    },
+    {
+      "t": 4326.4,
+      "title": "The room questions the topic"
+    },
+    {
+      "t": 4341.8,
+      "title": "Low-cost murder scenario"
+    },
+    {
+      "t": 4357.54,
+      "title": "Affordability becomes the joke"
+    },
+    {
+      "t": 4376.88,
+      "title": "Do not shop in your range"
+    },
+    {
+      "t": 4393.44,
+      "title": "Professional assassin comparison"
+    },
+    {
+      "t": 4409.64,
+      "title": "Do not kill someone"
+    },
+    {
+      "t": 4414.1,
+      "title": "Boob-job pricing analogy"
+    },
+    {
+      "t": 4433.68,
+      "title": "Fans who cannot afford the art"
+    },
+    {
+      "t": 4441.68,
+      "title": "Giveaways and exceptional gestures"
+    },
+    {
+      "t": 4459.98,
+      "title": "Most people cannot afford it"
+    },
+    {
+      "t": 4469.38,
+      "title": "Buy work from emerging artists"
+    },
+    {
+      "t": 4492.16,
+      "title": "Affordable prints, books, and free work"
+    },
+    {
+      "t": 4508.84,
+      "title": "Performer and artist rates"
+    },
+    {
+      "t": 4536.26,
+      "title": "Explicit labor scope"
+    },
+    {
+      "t": 4560.2,
+      "title": "When money is insufficient"
+    },
+    {
+      "t": 4566.42,
+      "title": "Personal-slavery offer rejected"
+    },
+    {
+      "t": 4618.3,
+      "title": "Find a mutually wanted trade"
+    },
+    {
+      "t": 4623.18,
+      "title": "Travis Barker album-art request"
+    },
+    {
+      "t": 4634.64,
+      "title": "Mr. Brainwash opinion"
+    },
+    {
+      "t": 4660.26,
+      "title": "Association and creative standards"
+    },
+    {
+      "t": 4687.78,
+      "title": "Custom drum-set trade"
+    },
+    {
+      "t": 4701,
+      "title": "Bad art is not equal barter"
+    },
+    {
+      "t": 4710.46,
+      "title": "Try harder or do not try"
+    },
+    {
+      "t": 4736.58,
+      "title": "Hiking with Critter"
+    },
+    {
+      "t": 4745.2,
+      "title": "Parallel childhood trouble"
+    },
+    {
+      "t": 4781.32,
+      "title": "Power check defined"
+    },
+    {
+      "t": 4787.44,
+      "title": "Private family story begins"
+    },
+    {
+      "t": 4808.9,
+      "title": "New boyfriend and household authority"
+    },
+    {
+      "t": 4843.88,
+      "title": "Ambush outside the house"
+    },
+    {
+      "t": 4874.1,
+      "title": "Throat restraint disclosed"
+    },
+    {
+      "t": 4878.8,
+      "title": "Threat of harm stated plainly"
+    },
+    {
+      "t": 4893.14,
+      "title": "Later friendliness is called proof"
+    },
+    {
+      "t": 4914.54,
+      "title": "Parents dating after divorce"
+    },
+    {
+      "t": 4945.1,
+      "title": "Physical intimidation as power"
+    },
+    {
+      "t": 4977.14,
+      "title": "First marriage and a child"
+    },
+    {
+      "t": 4998.28,
+      "title": "A five-year-old hears sexual activity"
+    },
+    {
+      "t": 5023.92,
+      "title": "Violent joke about a child"
+    },
+    {
+      "t": 5033.3,
+      "title": "Disneyland conflict"
+    },
+    {
+      "t": 5059.5,
+      "title": "Child described as a mistake"
+    },
+    {
+      "t": 5075.92,
+      "title": "Nineteen and unwilling to parent"
+    },
+    {
+      "t": 5081.88,
+      "title": "No future partners with children"
+    },
+    {
+      "t": 5102.62,
+      "title": "Jealousy of enduring family ties"
+    },
+    {
+      "t": 5118.46,
+      "title": "Parents who regret children"
+    },
+    {
+      "t": 5145.02,
+      "title": "Retrospective accountability"
+    },
+    {
+      "t": 5157,
+      "title": "Father forced into loyalty conflicts"
+    },
+    {
+      "t": 5171.94,
+      "title": "The speaker says she feels bad"
+    },
+    {
+      "t": 5187.4,
+      "title": "Fear of future mistakes"
+    },
+    {
+      "t": 5214.28,
+      "title": "Single-parent child stereotype"
+    },
+    {
+      "t": 5241.5,
+      "title": "Only-child pressure"
+    },
+    {
+      "t": 5254.9,
+      "title": "Val's child is pulled into dating"
+    },
+    {
+      "t": 5275.26,
+      "title": "Custody schedule exposed"
+    },
+    {
+      "t": 5291.7,
+      "title": "Three-way relationship callback"
+    },
+    {
+      "t": 5400,
+      "title": "Childhood counseling and court history"
+    },
+    {
+      "t": 5560.2,
+      "title": "Ages thirteen through twenty-three"
+    },
+    {
+      "t": 5579.54,
+      "title": "Oakland and family location privacy"
+    },
+    {
+      "t": 5609.08,
+      "title": "Art-student house and stolen supplies"
+    },
+    {
+      "t": 5622.64,
+      "title": "Private accomplices withheld"
+    },
+    {
+      "t": 5626.1,
+      "title": "Fraternity burglary method"
+    },
+    {
+      "t": 5644.3,
+      "title": "Groceries stolen for two years"
+    },
+    {
+      "t": 5663.8,
+      "title": "Fraternity target rationalization"
+    },
+    {
+      "t": 5712.36,
+      "title": "Retail theft escalates"
+    },
+    {
+      "t": 5723.16,
+      "title": "Walkie-talkie coordination"
+    },
+    {
+      "t": 5740.34,
+      "title": "Berkland escape boundary"
+    },
+    {
+      "t": 5765.74,
+      "title": "Returning for a second load"
+    },
+    {
+      "t": 5818.68,
+      "title": "Police arrive"
+    },
+    {
+      "t": 5841.72,
+      "title": "The ham is dropped"
+    },
+    {
+      "t": 5852.52,
+      "title": "Berkeley jail begins"
+    },
+    {
+      "t": 5877.44,
+      "title": "Choosing a shared cell"
+    },
+    {
+      "t": 5902.14,
+      "title": "Scratching a name into metal"
+    },
+    {
+      "t": 5924.2,
+      "title": "Private detainees whisper about counsel"
+    },
+    {
+      "t": 5939.36,
+      "title": "A father promises his son will bail him out"
+    },
+    {
+      "t": 5959.52,
+      "title": "Milk and the gas-cloud story"
+    },
+    {
+      "t": 6004.74,
+      "title": "Not eating in custody"
+    },
+    {
+      "t": 6019.58,
+      "title": "Vegan meals in jail"
+    },
+    {
+      "t": 6046.14,
+      "title": "Prison pornography and rape myth"
+    },
+    {
+      "t": 6060.56,
+      "title": "Arousal used to explain assault"
+    },
+    {
+      "t": 6068.92,
+      "title": "Sports television in custody"
+    },
+    {
+      "t": 6087.52,
+      "title": "UPN racialized as a channel"
+    },
+    {
+      "t": 6109.08,
+      "title": "Private detained woman and magazine claim"
+    },
+    {
+      "t": 6118.5,
+      "title": "Uncertain late-teen booking age"
+    },
+    {
+      "t": 6148.38,
+      "title": "Walking past crowded men's cells"
+    },
+    {
+      "t": 6193.2,
+      "title": "Women's cell remembered as safer"
+    },
+    {
+      "t": 6208.72,
+      "title": "Prior interventions and arrests"
+    },
+    {
+      "t": 6226.7,
+      "title": "Frat-prank defense fails"
+    },
+    {
+      "t": 6242.58,
+      "title": "Court delayed another day"
+    },
+    {
+      "t": 6297.36,
+      "title": "Prisoners chained to court"
+    },
+    {
+      "t": 6306.5,
+      "title": "The promised son is arrested"
+    },
+    {
+      "t": 6324.6,
+      "title": "Large courthouse holding cell"
+    },
+    {
+      "t": 6345.84,
+      "title": "Public toilet crisis"
+    },
+    {
+      "t": 6371.08,
+      "title": "Friends do not help"
+    },
+    {
+      "t": 6398.12,
+      "title": "Attempted confident walk"
+    },
+    {
+      "t": 6413.66,
+      "title": "Racist harassment begins"
+    },
+    {
+      "t": 6440.52,
+      "title": "Toilet etiquette before court"
+    },
+    {
+      "t": 6455.52,
+      "title": "Slurs and objects continue"
+    },
+    {
+      "t": 6479.02,
+      "title": "Courtesy flushing learned late"
+    },
+    {
+      "t": 6504.68,
+      "title": "Codefendant names called"
+    },
+    {
+      "t": 6511.24,
+      "title": "Stereotype performed for the judge"
+    },
+    {
+      "t": 6538.94,
+      "title": "Community service and probation"
+    },
+    {
+      "t": 6549.1,
+      "title": "Promise never to return"
+    },
+    {
+      "t": 6591.02,
+      "title": "The promise is later broken"
+    },
+    {
+      "t": 6599.88,
+      "title": "Cannot trust himself"
+    },
+    {
+      "t": 6612.78,
+      "title": "Longest stretch out of jail"
+    },
+    {
+      "t": 6625,
+      "title": "Rehab joke retracted"
+    },
+    {
+      "t": 6635.16,
+      "title": "A wake-up call"
+    },
+    {
+      "t": 6663.62,
+      "title": "Charity and giving stolen property away"
+    },
+    {
+      "t": 6680.02,
+      "title": "Hitchhiking with less property"
+    },
+    {
+      "t": 6690.82,
+      "title": "Val discloses jail time"
+    },
+    {
+      "t": 6694.86,
+      "title": "He withholds the charge"
+    },
+    {
+      "t": 6704.62,
+      "title": "Three months in custody"
+    },
+    {
+      "t": 6722.96,
+      "title": "Private family consequence"
+    },
+    {
+      "t": 6737.76,
+      "title": "LA County jail"
+    },
+    {
+      "t": 6753.68,
+      "title": "Racial jail grouping"
+    },
+    {
+      "t": 6783.82,
+      "title": "Fight over the phone"
+    },
+    {
+      "t": 6813.82,
+      "title": "Asian jail-alliance generalization"
+    },
+    {
+      "t": 6830.8,
+      "title": "Indian detainee classification claim"
+    },
+    {
+      "t": 6843.18,
+      "title": "Other housing group"
+    },
+    {
+      "t": 6872.24,
+      "title": "False rape-attempt answer retracted"
+    },
+    {
+      "t": 6891.84,
+      "title": "Reported harassment in custody"
+    },
+    {
+      "t": 6909.96,
+      "title": "Violent survival advice"
+    },
+    {
+      "t": 6921.74,
+      "title": "Japanese jail comparison"
+    },
+    {
+      "t": 6941.42,
+      "title": "Family jail-tour story"
+    },
+    {
+      "t": 6962.78,
+      "title": "Japanese prison architecture"
+    },
+    {
+      "t": 6986.42,
+      "title": "Direct rape question answered no"
+    },
+    {
+      "t": 7002.3,
+      "title": "Three months acknowledged as long"
+    },
+    {
+      "t": 7011.18,
+      "title": "Val moved away from gangs"
+    },
+    {
+      "t": 7016.96,
+      "title": "Hope no one returns to jail"
+    },
+    {
+      "t": 7043.8,
+      "title": "Private charge deferred until after recording"
+    },
+    {
+      "t": 7047.14,
+      "title": "The room calls the episode depressing"
+    },
+    {
+      "t": 7053.78,
+      "title": "The show will continue"
+    },
+    {
+      "t": 7071.5,
+      "title": "Critter's fake cliffhanger"
+    },
+    {
+      "t": 7095.62,
+      "title": "Fun talk and real talk"
+    },
+    {
+      "t": 7111.18,
+      "title": "Defiance returns to threats"
+    },
+    {
+      "t": 7133.26,
+      "title": "Nearly one year of DVDASA"
+    },
+    {
+      "t": 7148.8,
+      "title": "Ending on gratitude"
+    },
+    {
+      "t": 7151.26,
+      "title": "Supportive listeners thanked"
+    },
+    {
+      "t": 7186.2,
+      "title": "The show began as an experiment"
+    },
+    {
+      "t": 7191.74,
+      "title": "Audience growth keeps it going"
+    },
+    {
+      "t": 7226.8,
+      "title": "Val thanked for sharing"
+    },
+    {
+      "t": 7236.82,
+      "title": "Public product and account plugs"
+    },
+    {
+      "t": 7258.08,
+      "title": "DVDASA merchandise teased"
+    },
+    {
+      "t": 7286.3,
+      "title": "Comment section described as venomous"
+    },
+    {
+      "t": 7311.46,
+      "title": "Zero-percent cancellation chance"
+    },
+    {
+      "t": 7316.9,
+      "title": "Oakland Athletics sign-off"
+    },
+    {
+      "t": 7333.48,
+      "title": "Extended recorded outro"
+    },
+    {
+      "t": 7394.68,
+      "title": "Post-outro microphone check"
+    }
   ],
   "connections": [
-    {"from": 769, "to": "nonparticipant privacy ledger", "relationship": "The host admits that altered names did not prevent women from recognizing themselves or being alerted"},
-    {"from": 879, "to": "guest publication-consent ledger", "relationship": "More than half of guests are said to understand the recording is delayed and some ask for edits afterward"},
-    {"from": 953, "to": "DVDASA continuation timeline", "relationship": "The episode's announcement is a staged cancellation followed by an explicit commitment to continue"},
-    {"from": 501, "to": "drug-facilitated assault ledger", "relationship": "A proposed GHB/Viagra experiment combines overdose, incapacitation, and sexual-assault risk"},
-    {"from": 1308, "to": "Linsanity documentary", "relationship": "The premiere becomes the episode's route into faith, family, race, sports, and the host's father"},
-    {"from": 1473, "to": "Episode 009 Lisa Ling", "relationship": "The host reconnects with a prior guest on the Linsanity red carpet"},
-    {"from": 1622, "to": "recovery-pathways correction ledger", "relationship": "Faith is one pathway among clinical, medication, peer, secular, family, and self-care approaches"},
-    {"from": 2170, "to": "Choe family and sports timeline", "relationship": "The Lin family documentary triggers a detailed account of the father's unsuccessful effort to share sports"},
-    {"from": 2848, "to": "Breaking Bad finale chronology", "relationship": "The September 2013 finale supplies the episode's organizing moral analogy"},
-    {"from": 3135, "to": "David Choe and Harry Kim gambling chronology", "relationship": "The Walter/Jesse comparison reframes repeated target increases and a partner's requests to stop"},
-    {"from": 3424, "to": "wealth and coercion ledger", "relationship": "Money is recognized as a tool used to silence objections rather than solve them"},
-    {"from": 3477, "to": "theft rationalization ledger", "relationship": "The Robin Hood story is preserved alongside the later admission that theft was pleasurable"},
-    {"from": 3772, "to": "self-correction ledger", "relationship": "Walter White's final admission prompts the host to withdraw his own family-protection alibi"},
-    {"from": 4191, "to": "violent intimidation ledger", "relationship": "Fictional threats give way to claims of real intimidation and criminal access"},
-    {"from": 4433, "to": "art-market accessibility ledger", "relationship": "The useful conclusion is to support affordable emerging artists rather than demand elite work at an impossible price"},
-    {"from": 4514, "to": "adult-work labor ledger", "relationship": "A performer's rate and scope are treated as labor boundaries rather than invitations to pressure"},
-    {"from": 4781, "to": "power-check arc", "relationship": "The episode title's mechanism is physical or psychological coercion used to establish hierarchy"},
-    {"from": 4982, "to": "child-protection ledger", "relationship": "A participant acknowledges that resentment and adult loyalty conflicts likely harmed a private child"},
-    {"from": 5626, "to": "crime and jail chronology", "relationship": "Adolescent theft escalates into the Berkeley custody story and a failed promise never to return"},
-    {"from": 6690, "to": "Val privacy ledger", "relationship": "Val discloses jail time but explicitly withholds the charge; the archive honors that boundary"}
+    {
+      "from": 769,
+      "to": "nonparticipant privacy ledger",
+      "relationship": "The host admits that altered names did not prevent women from recognizing themselves or being alerted"
+    },
+    {
+      "from": 879,
+      "to": "guest publication-consent ledger",
+      "relationship": "More than half of guests are said to understand the recording is delayed and some ask for edits afterward"
+    },
+    {
+      "from": 953,
+      "to": "DVDASA continuation timeline",
+      "relationship": "The episode's announcement is a staged cancellation followed by an explicit commitment to continue"
+    },
+    {
+      "from": 501,
+      "to": "drug-facilitated assault ledger",
+      "relationship": "A proposed GHB/Viagra experiment combines overdose, incapacitation, and sexual-assault risk"
+    },
+    {
+      "from": 1308,
+      "to": "Linsanity documentary",
+      "relationship": "The premiere becomes the episode's route into faith, family, race, sports, and the host's father"
+    },
+    {
+      "from": 1473,
+      "to": "Episode 009 Lisa Ling",
+      "relationship": "The host reconnects with a prior guest on the Linsanity red carpet"
+    },
+    {
+      "from": 1622,
+      "to": "recovery-pathways correction ledger",
+      "relationship": "Faith is one pathway among clinical, medication, peer, secular, family, and self-care approaches"
+    },
+    {
+      "from": 2170,
+      "to": "Choe family and sports timeline",
+      "relationship": "The Lin family documentary triggers a detailed account of the father's unsuccessful effort to share sports"
+    },
+    {
+      "from": 2848,
+      "to": "Breaking Bad finale chronology",
+      "relationship": "The September 2013 finale supplies the episode's organizing moral analogy"
+    },
+    {
+      "from": 3135,
+      "to": "David Choe and Harry Kim gambling chronology",
+      "relationship": "The Walter/Jesse comparison reframes repeated target increases and a partner's requests to stop"
+    },
+    {
+      "from": 3424,
+      "to": "wealth and coercion ledger",
+      "relationship": "Money is recognized as a tool used to silence objections rather than solve them"
+    },
+    {
+      "from": 3477,
+      "to": "theft rationalization ledger",
+      "relationship": "The Robin Hood story is preserved alongside the later admission that theft was pleasurable"
+    },
+    {
+      "from": 3772,
+      "to": "self-correction ledger",
+      "relationship": "Walter White's final admission prompts the host to withdraw his own family-protection alibi"
+    },
+    {
+      "from": 4191,
+      "to": "violent intimidation ledger",
+      "relationship": "Fictional threats give way to claims of real intimidation and criminal access"
+    },
+    {
+      "from": 4433,
+      "to": "art-market accessibility ledger",
+      "relationship": "The useful conclusion is to support affordable emerging artists rather than demand elite work at an impossible price"
+    },
+    {
+      "from": 4514,
+      "to": "adult-work labor ledger",
+      "relationship": "A performer's rate and scope are treated as labor boundaries rather than invitations to pressure"
+    },
+    {
+      "from": 4781,
+      "to": "power-check arc",
+      "relationship": "The episode title's mechanism is physical or psychological coercion used to establish hierarchy"
+    },
+    {
+      "from": 4982,
+      "to": "child-protection ledger",
+      "relationship": "A participant acknowledges that resentment and adult loyalty conflicts likely harmed a private child"
+    },
+    {
+      "from": 5626,
+      "to": "crime and jail chronology",
+      "relationship": "Adolescent theft escalates into the Berkeley custody story and a failed promise never to return"
+    },
+    {
+      "from": 6690,
+      "to": "Val privacy ledger",
+      "relationship": "Val discloses jail time but explicitly withholds the charge; the archive honors that boundary"
+    }
   ],
   "content_warnings": [
     "drug-facilitated sexual-assault jokes",
@@ -435,5 +1544,19 @@
       "source": "https://rainn.org/5-rules-for-getting-consent/",
       "use": "corrects the GHB, Viagra, assault, and custody-rape passages"
     }
-  ]
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [],
+  "works": [
+    "Breaking Bad",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A truncated cast begins with adult-industry risk and a proposed GHB/Viagra experiment, then the host stages an announcement that DVDASA might end because of death threats, former partners' anger, guests' edit requests, and the cumulative harm of an unfiltered show.",
+  "description_source": "Opening of the human-reviewed summary."
 }

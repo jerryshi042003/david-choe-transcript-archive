@@ -1,0 +1,57 @@
+{
+  "episode_id": "zSuvEkr6TY0",
+  "title": "Art lessons with David Choe",
+  "reviewed_on": "2026-08-13",
+  "description": "A short art lesson shows Choe using an architecture presentation board for an underpainting, accepting bleeding material, misting color across it and ending by pointing to the best result.",
+  "summary": "A short art lesson shows Choe using an architecture presentation board for an underpainting, accepting bleeding material, misting color across it and ending by pointing to the best result. The chapter map follows the recoverable route timeline; lyrics and visually dependent action remain limited where the automatic transcript is damaged.",
+  "chapters": [
+    {
+      "t": 8,
+      "title": "Painting on an architecture board"
+    },
+    {
+      "t": 91,
+      "title": "Misting color over the surface"
+    },
+    {
+      "t": 162,
+      "title": "The best thing he made"
+    }
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [],
+  "works": [],
+  "themes": [
+    "underpainting",
+    "architecture board",
+    "spray mist",
+    "material experimentation"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 9,
+    "duration_seconds": 161.6,
+    "chapters": 3,
+    "named_turns": 0,
+    "transcript_limited": false
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

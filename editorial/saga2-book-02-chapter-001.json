@@ -1,17 +1,50 @@
 {
   "summary": "David Choe returns alone to the Ranch for the fourth blueprint installment, moving from hurt, commitment, and choosing risk into applied science fiction, creative discipline, criticism, scale, public judgment, and service. The recurring practical thread is to play consequences forward, show up reliably, learn even with imperfect tools, master the medium before demanding attention, and make work useful to someone beyond yourself.",
   "chapters": [
-    {"t": 24, "title": "A chorus of hellos; identifying Ranch Part Four"},
-    {"t": 300, "title": "Relationships, betrayal, and what hurt reveals"},
-    {"t": 900, "title": "Take the risk, then play the tape forward"},
-    {"t": 1500, "title": "Applied science fiction: Tony Stark and Bruce Banner"},
-    {"t": 1874, "title": "David Chang, expertise, and building the impossible"},
-    {"t": 2400, "title": "Bad drums, bad tools, and learning anyway"},
-    {"t": 2920, "title": "Commit, be on time, and keep showing up"},
-    {"t": 3040, "title": "Coffee, naps, and protecting creative energy"},
-    {"t": 3500, "title": "Everything sucks: criticism as pressure to improve"},
-    {"t": 4100, "title": "Master the medium, go big, and face public judgment"},
-    {"t": 4700, "title": "Purpose as service; DVDASA sign-off"}
+    {
+      "t": 24,
+      "title": "A chorus of hellos; identifying Ranch Part Four"
+    },
+    {
+      "t": 300,
+      "title": "Relationships, betrayal, and what hurt reveals"
+    },
+    {
+      "t": 900,
+      "title": "Take the risk, then play the tape forward"
+    },
+    {
+      "t": 1500,
+      "title": "Applied science fiction: Tony Stark and Bruce Banner"
+    },
+    {
+      "t": 1874,
+      "title": "David Chang, expertise, and building the impossible"
+    },
+    {
+      "t": 2400,
+      "title": "Bad drums, bad tools, and learning anyway"
+    },
+    {
+      "t": 2920,
+      "title": "Commit, be on time, and keep showing up"
+    },
+    {
+      "t": 3040,
+      "title": "Coffee, naps, and protecting creative energy"
+    },
+    {
+      "t": 3500,
+      "title": "Everything sucks: criticism as pressure to improve"
+    },
+    {
+      "t": 4100,
+      "title": "Master the medium, go big, and face public judgment"
+    },
+    {
+      "t": 4700,
+      "title": "Purpose as service; DVDASA sign-off"
+    }
   ],
   "people": [
     "David Choe",
@@ -22,8 +55,14 @@
     "Woody Allen",
     "Jim Lee"
   ],
-  "places": ["the Ranch"],
-  "works": ["DVDASA", "Iron Man", "The Incredible Hulk"],
+  "places": [
+    "the Ranch"
+  ],
+  "works": [
+    "DVDASA",
+    "Iron Man",
+    "The Incredible Hulk"
+  ],
   "themes": [
     "risk",
     "relationships",
@@ -60,5 +99,7 @@
     "correction_fixture": "ranch-part-four-correction-fixture.json",
     "content_note": "Editorial labels summarize long passages and do not convert provocative language into recommendations."
   },
-  "note": "Chapter labels, summary, themes, and connections are editorial commentary. Five low-confidence greetings at the opening are true members of a longer intentional greeting sequence and must be restored. Exact quotations require checking the recording."
+  "note": "Chapter labels, summary, themes, and connections are editorial commentary. Five low-confidence greetings at the opening are true members of a longer intentional greeting sequence and must be restored. Exact quotations require checking the recording.",
+  "description": "David Choe returns alone to the Ranch for the fourth blueprint installment, moving from hurt, commitment, and choosing risk into applied science fiction, creative discipline, criticism, scale, public judgment, and service.",
+  "description_source": "Opening of the human-reviewed summary."
 }

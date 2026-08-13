@@ -3,37 +3,1182 @@
   "title": "Hitchhiking Across America with David Choe (Full Documentary)",
   "reviewed_on": "2026-07-31",
   "summary": "David Choe and Harry Kim cross the United States without paying for rides, moving by freight train, hitchhiking, casino hospitality, an inflatable river tube, private vehicles and a farm-worker bus. The film documents generosity, precarity, addiction, danger, post-Katrina testimony, racial and sexual stereotyping, exploitation of incidental participants and Choe's simultaneous attraction to and revulsion toward America. Every idea remains; observation, narration, interview testimony, joke, stereotype, uncertain edit and independently verifiable fact stay distinct.",
-  "quality": {"source_segments":1888,"source_words":13479,"duration_seconds":5379,"human_read":true,"correction_decisions":217,"named_turns":0,"clean_word_delta":0,"assessment":"Complete chronological human read and full-source correction/context pass. The automatic captions are useful but heavily damage places, names, songs and closing lyrics. A matching VICE manual-caption source now overrides the opening 1,192.29 seconds at the text-evidence layer and supplies publisher labels; those labels are not claimed as acoustic-model output."},
+  "quality": {
+    "source_segments": 1888,
+    "source_words": 13479,
+    "duration_seconds": 5379,
+    "human_read": true,
+    "correction_decisions": 217,
+    "named_turns": 0,
+    "clean_word_delta": 0,
+    "assessment": "Complete chronological human read and full-source correction/context pass. The automatic captions are useful but heavily damage places, names, songs and closing lyrics. A matching VICE manual-caption source now overrides the opening 1,192.29 seconds at the text-evidence layer and supplies publisher labels; those labels are not claimed as acoustic-model output."
+  },
   "speaker_policy": "David Choe and Harry Kim are public principals and some incidental people introduce themselves on camera, but visual presence does not prove every line. Publish no line-level names until held-out acoustic/video validation; do not identity-resolve incidental participants from travel, family, legal or location clues.",
-  "people": ["David Choe","Harry Kim","Jerry Garcia","Jewel"],
-  "places": ["Los Angeles","Yermo","Kelso","Las Vegas","Flagstaff","Moriarty","Tucumcari","Amarillo","Tunica","Mississippi River","Lake Providence","New Orleans","Ninth Ward","Third Ward","Theodore","Miami","Atlantic Ocean"],
-  "works": ["Thumbs Up!","Star Trek","Mr. Brownstone","Every Breath You Take","Pac-Man","The Simpsons"],
-  "themes": ["openness to strangers","travel and precarity","gambling addiction","freedom and homelessness","race and stereotyping","documentary ethics","unsafe conduct","religious searching","post-Katrina testimony","love and disgust toward America"],
+  "people": [
+    "David Choe",
+    "Harry Kim",
+    "Jerry Garcia",
+    "Jewel"
+  ],
+  "places": [
+    "Los Angeles",
+    "Yermo",
+    "Kelso",
+    "Las Vegas",
+    "Flagstaff",
+    "Moriarty",
+    "Tucumcari",
+    "Amarillo",
+    "Tunica",
+    "Mississippi River",
+    "Lake Providence",
+    "New Orleans",
+    "Ninth Ward",
+    "Third Ward",
+    "Theodore",
+    "Miami",
+    "Atlantic Ocean"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "Star Trek",
+    "Mr. Brownstone",
+    "Every Breath You Take",
+    "Pac-Man",
+    "The Simpsons"
+  ],
+  "themes": [
+    "openness to strangers",
+    "travel and precarity",
+    "gambling addiction",
+    "freedom and homelessness",
+    "race and stereotyping",
+    "documentary ethics",
+    "unsafe conduct",
+    "religious searching",
+    "post-Katrina testimony",
+    "love and disgust toward America"
+  ],
   "chapters": [
-    {"t":0,"title":"Music and no-free-rides slogan"},{"t":13,"title":"Choe and Harry introduce the cross-country premise"},{"t":29,"title":"Prior assault and survivor-weight generalization"},{"t":60,"title":"Los Angeles rail-yard search"},{"t":86,"title":"Scatological rail archaeology"},{"t":126,"title":"Difficulty finding an eastbound train"},{"t":132,"title":"Chicago describes enforcement and Star Trek"},{"t":198,"title":"Small-town danger warning"},{"t":230,"title":"Freight ride reaches Yermo"},{"t":239,"title":"Diner warnings about snakes and deaths"},{"t":280,"title":"Shelter in an apparently vacant renovation site"},{"t":304,"title":"Highway-patrol removal and Calico area"},{"t":324,"title":"Property damage before another train"},{"t":361,"title":"Heat and freight slack action"},{"t":393,"title":"Stealing, conversion and gambling replacement"},{"t":440,"title":"UFC delivery and unresolved death recollection"},{"t":457,"title":"Reported forty-thousand-dollar Venetian win"},{"t":474,"title":"Calling a private casino contact"},{"t":490,"title":"Casino room and fear of losing the trip budget"},{"t":511,"title":"Illness and dehydration in the desert"},{"t":529,"title":"Switching freight cars"},{"t":549,"title":"Kelso and the history of railroad towns"},{"t":590,"title":"The last American frontier framing"},{"t":626,"title":"Arrival in Las Vegas"},{"t":650,"title":"The Venetian and comp justification"},{"t":721,"title":"Gambling loss and credit-card cash advance"},{"t":765,"title":"Second-room comp fails"},{"t":774,"title":"Private friend at a lower-end casino"},{"t":797,"title":"Lee's hotel work and karaoke performance"},{"t":824,"title":"Navy family history and music claims"},{"t":850,"title":"Why karaoke is more reliable than a band"},{"t":901,"title":"Sleeping by the pool"},{"t":937,"title":"Day four and leaving Las Vegas"},{"t":962,"title":"Hitchhiking sign and refusal"},{"t":993,"title":"Choe's smiling tactic"},{"t":1010,"title":"First ride from an unidentified woman"},{"t":1043,"title":"Resentment gives way to self-recognition"},{"t":1106,"title":"Windowless van and racialized fear"},{"t":1170,"title":"Last-person clothes joke and farewell messages"},{"t":1209,"title":"Van recap, camera threat and parole detail"},{"t":1288,"title":"Pontiac ride into Flagstaff"},{"t":1321,"title":"Day four and homophobic sign gag"},{"t":1397,"title":"Canadian travelers and road angels"},{"t":1490,"title":"Older unhoused traveler waiting for El Paso"},{"t":1568,"title":"Yielding the prime hitchhiking spot"},{"t":1615,"title":"A driver picks up the whole group"},{"t":1671,"title":"Media fear and hitchhiking risk debate"},{"t":1723,"title":"Donald on homelessness, hardship and freedom"},{"t":1749,"title":"The Dolphin as mobile home"},{"t":1762,"title":"Choe romanticizes leaving office life"},{"t":1812,"title":"A ride that could cross the country"},{"t":1872,"title":"Calling all lost souls"},{"t":1892,"title":"Cannabis, family disputes and traveler narration"},{"t":1933,"title":"Four states in four days"},{"t":1980,"title":"Day five and the temporary convoy recap"},{"t":2008,"title":"Explicit talk about love, sex and denial"},{"t":2044,"title":"Moriarty family introductions"},{"t":2066,"title":"Drinking and small-town claims"},{"t":2112,"title":"Family migration, pregnancy and alcohol"},{"t":2154,"title":"Pumpkin's violent improvised rap"},{"t":2201,"title":"Daytime drinking and misdemeanor self-report"},{"t":2238,"title":"Underpass hate-symbol inventory"},{"t":2277,"title":"Choe imagines the graffiti makers"},{"t":2307,"title":"Racial caricature and crossed-out slur"},{"t":2361,"title":"Music used to seek a ride"},{"t":2415,"title":"New Mexico road refrain"},{"t":2430,"title":"Chasing livestock"},{"t":2463,"title":"Tucumcari reflections on the Moriarty family"},{"t":2554,"title":"Asking musicians for a ride to Texas"},{"t":2615,"title":"Arrival in Amarillo"},{"t":2627,"title":"Off-camera waitress racism reported by Choe"},{"t":2690,"title":"Overnight superstore as drifter shelter"},{"t":2729,"title":"Sleeping inside store merchandise"},{"t":2760,"title":"Jewel poster and Tunica casino"},{"t":2777,"title":"Gambling a cash advance for boat money"},{"t":2794,"title":"Blackjack win"},{"t":2829,"title":"Benny reports a terrorism complaint"},{"t":2855,"title":"Mississippi tube plan meets local warnings"},{"t":2914,"title":"Benny refuses a ride"},{"t":2972,"title":"Lenny's limousine ride"},{"t":3034,"title":"Complaint retold and driver questioned"},{"t":3083,"title":"Unauthorized golf-course shelter advice"},{"t":3123,"title":"Day twelve and failed raft search"},{"t":3155,"title":"Warnings about current and river deaths"},{"t":3192,"title":"Launching the inflatable tube"},{"t":3231,"title":"Cameraman declines the river trip"},{"t":3247,"title":"Industrial discharge and itching feet"},{"t":3262,"title":"Umbrella sail"},{"t":3283,"title":"Delinquent credit and elation"},{"t":3313,"title":"Explicit partner fantasy"},{"t":3363,"title":"Docking on a swamp island"},{"t":3408,"title":"Continuing after dark"},{"t":3433,"title":"Boaters offer a lift"},{"t":3483,"title":"Garbled violent-crime recollection"},{"t":3507,"title":"Arkansas boaters provide beer and transport"},{"t":3570,"title":"Darkness makes the river dangerous"},{"t":3592,"title":"Two in the morning among barges"},{"t":3631,"title":"Docking and starting fires"},{"t":3663,"title":"Nature, church and God"},{"t":3692,"title":"Day thirteen exposure and joy"},{"t":3770,"title":"Arkansas-Louisiana geography guess"},{"t":3787,"title":"Landing at a private hunting club"},{"t":3830,"title":"Cotton field, perceived noose and Klan fear"},{"t":3882,"title":"Driver on aging and hitchhiker fear"},{"t":3944,"title":"Private-property rescue recap"},{"t":4013,"title":"Day fourteen in New Orleans"},{"t":4047,"title":"Ninth Ward safety testimony"},{"t":4112,"title":"Levee-breach site as identified by Choe"},{"t":4143,"title":"Post-Katrina grief and outsider narration"},{"t":4184,"title":"Resident describes return after family deaths"},{"t":4235,"title":"Habitability, roots and lack of neighbors"},{"t":4275,"title":"Third Ward gathering"},{"t":4303,"title":"The General feeds the group"},{"t":4331,"title":"Resident's anti-racist family lesson"},{"t":4396,"title":"Choe feels most at home in New Orleans"},{"t":4426,"title":"Food, hospitality and the final eastern leg"},{"t":4487,"title":"Camera permission and a ride"},{"t":4514,"title":"Alcohol, work and the American-way refrain"},{"t":4577,"title":"Soft-porn and soft-drug advice"},{"t":4591,"title":"Sharing barbecue"},{"t":4647,"title":"Theodore, Alabama work-release encounter"},{"t":4683,"title":"Work-release labor and deductions"},{"t":4703,"title":"Repeat-DUI sentence self-report"},{"t":4761,"title":"Alcohol offer refused"},{"t":4777,"title":"Choe urges escape and Jerry refuses"},{"t":4800,"title":"Dog-race gambling"},{"t":4832,"title":"Day fifteen in the Florida panhandle"},{"t":4840,"title":"Older traveler's freight oral history"},{"t":4856,"title":"Explicit train-sex recollection"},{"t":4895,"title":"Freight sanitation discussion"},{"t":4950,"title":"A lonely Florida road"},{"t":5003,"title":"Mike gives the travelers shirts"},{"t":5105,"title":"Farm-worker bus ride"},{"t":5151,"title":"Tomato labor proposed for transport"},{"t":5177,"title":"Arrival in Miami"},{"t":5220,"title":"Day sixteen at the Atlantic Ocean"},{"t":5240,"title":"America addressed through violent sexual metaphors"},{"t":5277,"title":"Love, hate and tears"},{"t":5283,"title":"Unpredictability and diversity as the journey's value"},{"t":5300,"title":"Sixteen-day route contrasted with a five-hour flight"},{"t":5311,"title":"Dread of predictable routine"},{"t":5319,"title":"Dave and Harry closing refrain"},{"t":5334,"title":"Forgiveness and love"},{"t":5357,"title":"Corrupted closing-song captions"}
+    {
+      "t": 0,
+      "title": "Music and no-free-rides slogan"
+    },
+    {
+      "t": 13,
+      "title": "Choe and Harry introduce the cross-country premise"
+    },
+    {
+      "t": 29,
+      "title": "Prior assault and survivor-weight generalization"
+    },
+    {
+      "t": 60,
+      "title": "Los Angeles rail-yard search"
+    },
+    {
+      "t": 86,
+      "title": "Scatological rail archaeology"
+    },
+    {
+      "t": 126,
+      "title": "Difficulty finding an eastbound train"
+    },
+    {
+      "t": 132,
+      "title": "Chicago describes enforcement and Star Trek"
+    },
+    {
+      "t": 198,
+      "title": "Small-town danger warning"
+    },
+    {
+      "t": 230,
+      "title": "Freight ride reaches Yermo"
+    },
+    {
+      "t": 239,
+      "title": "Diner warnings about snakes and deaths"
+    },
+    {
+      "t": 280,
+      "title": "Shelter in an apparently vacant renovation site"
+    },
+    {
+      "t": 304,
+      "title": "Highway-patrol removal and Calico area"
+    },
+    {
+      "t": 324,
+      "title": "Property damage before another train"
+    },
+    {
+      "t": 361,
+      "title": "Heat and freight slack action"
+    },
+    {
+      "t": 393,
+      "title": "Stealing, conversion and gambling replacement"
+    },
+    {
+      "t": 440,
+      "title": "UFC delivery and unresolved death recollection"
+    },
+    {
+      "t": 457,
+      "title": "Reported forty-thousand-dollar Venetian win"
+    },
+    {
+      "t": 474,
+      "title": "Calling a private casino contact"
+    },
+    {
+      "t": 490,
+      "title": "Casino room and fear of losing the trip budget"
+    },
+    {
+      "t": 511,
+      "title": "Illness and dehydration in the desert"
+    },
+    {
+      "t": 529,
+      "title": "Switching freight cars"
+    },
+    {
+      "t": 549,
+      "title": "Kelso and the history of railroad towns"
+    },
+    {
+      "t": 590,
+      "title": "The last American frontier framing"
+    },
+    {
+      "t": 626,
+      "title": "Arrival in Las Vegas"
+    },
+    {
+      "t": 650,
+      "title": "The Venetian and comp justification"
+    },
+    {
+      "t": 721,
+      "title": "Gambling loss and credit-card cash advance"
+    },
+    {
+      "t": 765,
+      "title": "Second-room comp fails"
+    },
+    {
+      "t": 774,
+      "title": "Private friend at a lower-end casino"
+    },
+    {
+      "t": 797,
+      "title": "Lee's hotel work and karaoke performance"
+    },
+    {
+      "t": 824,
+      "title": "Navy family history and music claims"
+    },
+    {
+      "t": 850,
+      "title": "Why karaoke is more reliable than a band"
+    },
+    {
+      "t": 901,
+      "title": "Sleeping by the pool"
+    },
+    {
+      "t": 937,
+      "title": "Day four and leaving Las Vegas"
+    },
+    {
+      "t": 962,
+      "title": "Hitchhiking sign and refusal"
+    },
+    {
+      "t": 993,
+      "title": "Choe's smiling tactic"
+    },
+    {
+      "t": 1010,
+      "title": "First ride from an unidentified woman"
+    },
+    {
+      "t": 1043,
+      "title": "Resentment gives way to self-recognition"
+    },
+    {
+      "t": 1106,
+      "title": "Windowless van and racialized fear"
+    },
+    {
+      "t": 1170,
+      "title": "Last-person clothes joke and farewell messages"
+    },
+    {
+      "t": 1209,
+      "title": "Van recap, camera threat and parole detail"
+    },
+    {
+      "t": 1288,
+      "title": "Pontiac ride into Flagstaff"
+    },
+    {
+      "t": 1321,
+      "title": "Day four and homophobic sign gag"
+    },
+    {
+      "t": 1397,
+      "title": "Canadian travelers and road angels"
+    },
+    {
+      "t": 1490,
+      "title": "Older unhoused traveler waiting for El Paso"
+    },
+    {
+      "t": 1568,
+      "title": "Yielding the prime hitchhiking spot"
+    },
+    {
+      "t": 1615,
+      "title": "A driver picks up the whole group"
+    },
+    {
+      "t": 1671,
+      "title": "Media fear and hitchhiking risk debate"
+    },
+    {
+      "t": 1723,
+      "title": "Donald on homelessness, hardship and freedom"
+    },
+    {
+      "t": 1749,
+      "title": "The Dolphin as mobile home"
+    },
+    {
+      "t": 1762,
+      "title": "Choe romanticizes leaving office life"
+    },
+    {
+      "t": 1812,
+      "title": "A ride that could cross the country"
+    },
+    {
+      "t": 1872,
+      "title": "Calling all lost souls"
+    },
+    {
+      "t": 1892,
+      "title": "Cannabis, family disputes and traveler narration"
+    },
+    {
+      "t": 1933,
+      "title": "Four states in four days"
+    },
+    {
+      "t": 1980,
+      "title": "Day five and the temporary convoy recap"
+    },
+    {
+      "t": 2008,
+      "title": "Explicit talk about love, sex and denial"
+    },
+    {
+      "t": 2044,
+      "title": "Moriarty family introductions"
+    },
+    {
+      "t": 2066,
+      "title": "Drinking and small-town claims"
+    },
+    {
+      "t": 2112,
+      "title": "Family migration, pregnancy and alcohol"
+    },
+    {
+      "t": 2154,
+      "title": "Pumpkin's violent improvised rap"
+    },
+    {
+      "t": 2201,
+      "title": "Daytime drinking and misdemeanor self-report"
+    },
+    {
+      "t": 2238,
+      "title": "Underpass hate-symbol inventory"
+    },
+    {
+      "t": 2277,
+      "title": "Choe imagines the graffiti makers"
+    },
+    {
+      "t": 2307,
+      "title": "Racial caricature and crossed-out slur"
+    },
+    {
+      "t": 2361,
+      "title": "Music used to seek a ride"
+    },
+    {
+      "t": 2415,
+      "title": "New Mexico road refrain"
+    },
+    {
+      "t": 2430,
+      "title": "Chasing livestock"
+    },
+    {
+      "t": 2463,
+      "title": "Tucumcari reflections on the Moriarty family"
+    },
+    {
+      "t": 2554,
+      "title": "Asking musicians for a ride to Texas"
+    },
+    {
+      "t": 2615,
+      "title": "Arrival in Amarillo"
+    },
+    {
+      "t": 2627,
+      "title": "Off-camera waitress racism reported by Choe"
+    },
+    {
+      "t": 2690,
+      "title": "Overnight superstore as drifter shelter"
+    },
+    {
+      "t": 2729,
+      "title": "Sleeping inside store merchandise"
+    },
+    {
+      "t": 2760,
+      "title": "Jewel poster and Tunica casino"
+    },
+    {
+      "t": 2777,
+      "title": "Gambling a cash advance for boat money"
+    },
+    {
+      "t": 2794,
+      "title": "Blackjack win"
+    },
+    {
+      "t": 2829,
+      "title": "Benny reports a terrorism complaint"
+    },
+    {
+      "t": 2855,
+      "title": "Mississippi tube plan meets local warnings"
+    },
+    {
+      "t": 2914,
+      "title": "Benny refuses a ride"
+    },
+    {
+      "t": 2972,
+      "title": "Lenny's limousine ride"
+    },
+    {
+      "t": 3034,
+      "title": "Complaint retold and driver questioned"
+    },
+    {
+      "t": 3083,
+      "title": "Unauthorized golf-course shelter advice"
+    },
+    {
+      "t": 3123,
+      "title": "Day twelve and failed raft search"
+    },
+    {
+      "t": 3155,
+      "title": "Warnings about current and river deaths"
+    },
+    {
+      "t": 3192,
+      "title": "Launching the inflatable tube"
+    },
+    {
+      "t": 3231,
+      "title": "Cameraman declines the river trip"
+    },
+    {
+      "t": 3247,
+      "title": "Industrial discharge and itching feet"
+    },
+    {
+      "t": 3262,
+      "title": "Umbrella sail"
+    },
+    {
+      "t": 3283,
+      "title": "Delinquent credit and elation"
+    },
+    {
+      "t": 3313,
+      "title": "Explicit partner fantasy"
+    },
+    {
+      "t": 3363,
+      "title": "Docking on a swamp island"
+    },
+    {
+      "t": 3408,
+      "title": "Continuing after dark"
+    },
+    {
+      "t": 3433,
+      "title": "Boaters offer a lift"
+    },
+    {
+      "t": 3483,
+      "title": "Garbled violent-crime recollection"
+    },
+    {
+      "t": 3507,
+      "title": "Arkansas boaters provide beer and transport"
+    },
+    {
+      "t": 3570,
+      "title": "Darkness makes the river dangerous"
+    },
+    {
+      "t": 3592,
+      "title": "Two in the morning among barges"
+    },
+    {
+      "t": 3631,
+      "title": "Docking and starting fires"
+    },
+    {
+      "t": 3663,
+      "title": "Nature, church and God"
+    },
+    {
+      "t": 3692,
+      "title": "Day thirteen exposure and joy"
+    },
+    {
+      "t": 3770,
+      "title": "Arkansas-Louisiana geography guess"
+    },
+    {
+      "t": 3787,
+      "title": "Landing at a private hunting club"
+    },
+    {
+      "t": 3830,
+      "title": "Cotton field, perceived noose and Klan fear"
+    },
+    {
+      "t": 3882,
+      "title": "Driver on aging and hitchhiker fear"
+    },
+    {
+      "t": 3944,
+      "title": "Private-property rescue recap"
+    },
+    {
+      "t": 4013,
+      "title": "Day fourteen in New Orleans"
+    },
+    {
+      "t": 4047,
+      "title": "Ninth Ward safety testimony"
+    },
+    {
+      "t": 4112,
+      "title": "Levee-breach site as identified by Choe"
+    },
+    {
+      "t": 4143,
+      "title": "Post-Katrina grief and outsider narration"
+    },
+    {
+      "t": 4184,
+      "title": "Resident describes return after family deaths"
+    },
+    {
+      "t": 4235,
+      "title": "Habitability, roots and lack of neighbors"
+    },
+    {
+      "t": 4275,
+      "title": "Third Ward gathering"
+    },
+    {
+      "t": 4303,
+      "title": "The General feeds the group"
+    },
+    {
+      "t": 4331,
+      "title": "Resident's anti-racist family lesson"
+    },
+    {
+      "t": 4396,
+      "title": "Choe feels most at home in New Orleans"
+    },
+    {
+      "t": 4426,
+      "title": "Food, hospitality and the final eastern leg"
+    },
+    {
+      "t": 4487,
+      "title": "Camera permission and a ride"
+    },
+    {
+      "t": 4514,
+      "title": "Alcohol, work and the American-way refrain"
+    },
+    {
+      "t": 4577,
+      "title": "Soft-porn and soft-drug advice"
+    },
+    {
+      "t": 4591,
+      "title": "Sharing barbecue"
+    },
+    {
+      "t": 4647,
+      "title": "Theodore, Alabama work-release encounter"
+    },
+    {
+      "t": 4683,
+      "title": "Work-release labor and deductions"
+    },
+    {
+      "t": 4703,
+      "title": "Repeat-DUI sentence self-report"
+    },
+    {
+      "t": 4761,
+      "title": "Alcohol offer refused"
+    },
+    {
+      "t": 4777,
+      "title": "Choe urges escape and Jerry refuses"
+    },
+    {
+      "t": 4800,
+      "title": "Dog-race gambling"
+    },
+    {
+      "t": 4832,
+      "title": "Day fifteen in the Florida panhandle"
+    },
+    {
+      "t": 4840,
+      "title": "Older traveler's freight oral history"
+    },
+    {
+      "t": 4856,
+      "title": "Explicit train-sex recollection"
+    },
+    {
+      "t": 4895,
+      "title": "Freight sanitation discussion"
+    },
+    {
+      "t": 4950,
+      "title": "A lonely Florida road"
+    },
+    {
+      "t": 5003,
+      "title": "Mike gives the travelers shirts"
+    },
+    {
+      "t": 5105,
+      "title": "Farm-worker bus ride"
+    },
+    {
+      "t": 5151,
+      "title": "Tomato labor proposed for transport"
+    },
+    {
+      "t": 5177,
+      "title": "Arrival in Miami"
+    },
+    {
+      "t": 5220,
+      "title": "Day sixteen at the Atlantic Ocean"
+    },
+    {
+      "t": 5240,
+      "title": "America addressed through violent sexual metaphors"
+    },
+    {
+      "t": 5277,
+      "title": "Love, hate and tears"
+    },
+    {
+      "t": 5283,
+      "title": "Unpredictability and diversity as the journey's value"
+    },
+    {
+      "t": 5300,
+      "title": "Sixteen-day route contrasted with a five-hour flight"
+    },
+    {
+      "t": 5311,
+      "title": "Dread of predictable routine"
+    },
+    {
+      "t": 5319,
+      "title": "Dave and Harry closing refrain"
+    },
+    {
+      "t": 5334,
+      "title": "Forgiveness and love"
+    },
+    {
+      "t": 5357,
+      "title": "Corrupted closing-song captions"
+    }
   ],
   "connections": [
-    {"t":13,"to":"Thumbs Up!","relationship":"The no-paid-rides rule turns travel dependence into the documentary's social engine."},{"t":33,"to":"trauma narration","relationship":"Choe opens danger as comedy while also disclosing prior assault and a contested survivor theory."},{"t":393,"to":"compulsion substitution","relationship":"Theft, Christian conversion and gambling appear as successive ways of organizing desire."},{"t":721,"to":"gambling addiction","relationship":"Casino hospitality and credit create movement while repeatedly threatening the journey itself."},{"t":1043,"to":"fear and reciprocity","relationship":"Anger at drivers' evasions ends in Choe recognizing that he would share their reluctance."},{"t":1397,"to":"road angels","relationship":"Travelers describe strangers' generosity as the infrastructure of low-money movement."},{"t":1533,"to":"seasonal homelessness","relationship":"A traveler's route follows survivable weather rather than romantic adventure."},{"t":1740,"to":"freedom versus precarity","relationship":"Mobile freedom is voiced beside survival, waiting, poverty and dependence."},{"t":1872,"to":"temporary community","relationship":"The vehicle becomes a short-lived shelter for people, dogs and conflicting life stories."},{"t":2238,"to":"graffiti and projection","relationship":"Visible hate symbols prompt Choe to invent creators and gender dynamics that the wall cannot prove."},{"t":2627,"to":"reported racism","relationship":"Off-camera prejudice is preserved as Choe's report rather than generalized to a restaurant or city."},{"t":2777,"to":"risk financed by risk","relationship":"A credit advance and blackjack win bankroll an unsafe river plan."},{"t":3192,"to":"warning refusal","relationship":"Repeated local cautions become part of the film's drama rather than changing the conduct."},{"t":3247,"to":"industrial landscape","relationship":"Bodily exposure and visible discharge complicate the romantic river image."},{"t":3408,"to":"ecstasy and danger","relationship":"The choice to continue after dark pairs Choe's strongest joy with escalating physical risk."},{"t":3787,"to":"private land","relationship":"A romantic river arrival becomes dependence on armed private-property owners."},{"t":3830,"to":"racial history and perception","relationship":"A perceived noose beside cotton produces historically grounded fear but still requires visual verification."},{"t":4013,"to":"Hurricane Katrina","relationship":"The travelogue shifts from adventure to visible devastation and resident testimony."},{"t":4184,"to":"home after displacement","relationship":"A resident returns despite death, isolation and poor habitability because home and family remain there."},{"t":4331,"to":"anti-racist upbringing","relationship":"A host resident answers the film's racial anxiety with a concrete family rule about conduct rather than color."},{"t":4647,"to":"mobility and confinement","relationship":"The travelers' chosen drift meets a participant whose movement and wages are controlled by work release."},{"t":4777,"to":"refusal","relationship":"The incarcerated participant rejects Choe's escape fantasy; that refusal is the authoritative event."},{"t":5151,"to":"labor for movement","relationship":"A possible ride-for-work exchange raises translation, wage and documentary-power questions."},{"t":5240,"to":"America as intimate object","relationship":"Choe's final love letter uses graphic incest, violence and rape metaphors before arriving at affection and forgiveness."}
+    {
+      "t": 13,
+      "to": "Thumbs Up!",
+      "relationship": "The no-paid-rides rule turns travel dependence into the documentary's social engine."
+    },
+    {
+      "t": 33,
+      "to": "trauma narration",
+      "relationship": "Choe opens danger as comedy while also disclosing prior assault and a contested survivor theory."
+    },
+    {
+      "t": 393,
+      "to": "compulsion substitution",
+      "relationship": "Theft, Christian conversion and gambling appear as successive ways of organizing desire."
+    },
+    {
+      "t": 721,
+      "to": "gambling addiction",
+      "relationship": "Casino hospitality and credit create movement while repeatedly threatening the journey itself."
+    },
+    {
+      "t": 1043,
+      "to": "fear and reciprocity",
+      "relationship": "Anger at drivers' evasions ends in Choe recognizing that he would share their reluctance."
+    },
+    {
+      "t": 1397,
+      "to": "road angels",
+      "relationship": "Travelers describe strangers' generosity as the infrastructure of low-money movement."
+    },
+    {
+      "t": 1533,
+      "to": "seasonal homelessness",
+      "relationship": "A traveler's route follows survivable weather rather than romantic adventure."
+    },
+    {
+      "t": 1740,
+      "to": "freedom versus precarity",
+      "relationship": "Mobile freedom is voiced beside survival, waiting, poverty and dependence."
+    },
+    {
+      "t": 1872,
+      "to": "temporary community",
+      "relationship": "The vehicle becomes a short-lived shelter for people, dogs and conflicting life stories."
+    },
+    {
+      "t": 2238,
+      "to": "graffiti and projection",
+      "relationship": "Visible hate symbols prompt Choe to invent creators and gender dynamics that the wall cannot prove."
+    },
+    {
+      "t": 2627,
+      "to": "reported racism",
+      "relationship": "Off-camera prejudice is preserved as Choe's report rather than generalized to a restaurant or city."
+    },
+    {
+      "t": 2777,
+      "to": "risk financed by risk",
+      "relationship": "A credit advance and blackjack win bankroll an unsafe river plan."
+    },
+    {
+      "t": 3192,
+      "to": "warning refusal",
+      "relationship": "Repeated local cautions become part of the film's drama rather than changing the conduct."
+    },
+    {
+      "t": 3247,
+      "to": "industrial landscape",
+      "relationship": "Bodily exposure and visible discharge complicate the romantic river image."
+    },
+    {
+      "t": 3408,
+      "to": "ecstasy and danger",
+      "relationship": "The choice to continue after dark pairs Choe's strongest joy with escalating physical risk."
+    },
+    {
+      "t": 3787,
+      "to": "private land",
+      "relationship": "A romantic river arrival becomes dependence on armed private-property owners."
+    },
+    {
+      "t": 3830,
+      "to": "racial history and perception",
+      "relationship": "A perceived noose beside cotton produces historically grounded fear but still requires visual verification."
+    },
+    {
+      "t": 4013,
+      "to": "Hurricane Katrina",
+      "relationship": "The travelogue shifts from adventure to visible devastation and resident testimony."
+    },
+    {
+      "t": 4184,
+      "to": "home after displacement",
+      "relationship": "A resident returns despite death, isolation and poor habitability because home and family remain there."
+    },
+    {
+      "t": 4331,
+      "to": "anti-racist upbringing",
+      "relationship": "A host resident answers the film's racial anxiety with a concrete family rule about conduct rather than color."
+    },
+    {
+      "t": 4647,
+      "to": "mobility and confinement",
+      "relationship": "The travelers' chosen drift meets a participant whose movement and wages are controlled by work release."
+    },
+    {
+      "t": 4777,
+      "to": "refusal",
+      "relationship": "The incarcerated participant rejects Choe's escape fantasy; that refusal is the authoritative event."
+    },
+    {
+      "t": 5151,
+      "to": "labor for movement",
+      "relationship": "A possible ride-for-work exchange raises translation, wage and documentary-power questions."
+    },
+    {
+      "t": 5240,
+      "to": "America as intimate object",
+      "relationship": "Choe's final love letter uses graphic incest, violence and rape metaphors before arriving at affection and forgiveness."
+    }
   ],
   "source_notes": [
-    {"t":1,"claim":"The full documentary's automatic captions are the best available text for its opening.","assessment":"VICE manual-caption source QO3-AAVTeDA matches the complete opening sequence through 1192.29 seconds and is the accepted text overlay there. It materially repairs slurs, names, places and claim meaning while preserving [INAUDIBLE].","source":"https://www.youtube.com/watch?v=QO3-AAVTeDA"},
-    {"t":148,"claim":"The quoted rail-yard fines and jail rule are current law.","assessment":"They are an incidental speaker's historical account; verify railroad, jurisdiction and date, and never use them for evasion guidance.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":393,"claim":"Choe's theft, conversion and gambling chronology is independently proven.","assessment":"The film provides first-person narration edited for a travel documentary; preserve it as self-report.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":561,"claim":"The film's sentence fully describes Chinese and Black railroad labor.","assessment":"It points toward real labor history but needs railroad-specific primary history, dates, regions and distinct worker experiences.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":845,"claim":"The incidental musician took two lessons from Jerry Garcia.","assessment":"This is first-person oral history and needs corroboration before entering a public-figure timeline.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":2077,"claim":"Children in Moriarty begin drinking at six.","assessment":"A local participant's likely hyperbole is not town-level public-health evidence.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":2627,"claim":"An Amarillo restaurant or its workers hold the reported anti-Black view.","assessment":"Choe recounts off-camera comments by unidentified waitresses after they declined filming; do not attribute the claim to a venue, city or workforce.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":2882,"claim":"The Mississippi contains the exact hazards described as sinkholes.","assessment":"Local speakers repeatedly warn of current, barges and deaths, but terminology and comparative-danger claims need authoritative river-safety sources.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":3140,"claim":"Everyone locals knew who swam in the Mississippi died.","assessment":"This is Choe's compressed/exaggerated summary, not mortality data.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":3418,"claim":"The tube traveled the stated miles and could reach the stated destination on schedule.","assessment":"Distances, speed, current and route are narration estimates, not navigational records.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":3841,"claim":"The visible object was a racist noose placed to threaten travelers.","assessment":"Choe perceives a noose near a cotton field and reacts with historically grounded fear; inspect the frame and provenance before assigning intent.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":4028,"claim":"The New Orleans scenes occurred exactly one year after Katrina.","assessment":"Verify filming dates, exact levee-breach site and recovery chronology against primary records.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":4210,"claim":"The named family deaths and Houston circumstances are fully established.","assessment":"They are a resident's direct account but remain sensitive; public-record verification needs a real editorial purpose before indexing names.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":4703,"claim":"Four DUIs automatically produce the stated felony and sentence.","assessment":"The participant describes his own case conversationally; verify offense dates, Alabama law, sentence and program separately.","source":"https://www.youtube.com/watch?v=Yknrg-63674"},
-    {"t":5151,"claim":"The workers' employer, immigration status and free-labor terms are known.","assessment":"The edited scene and translated exchange do not establish any of those facts; verify credits and consent before further identification.","source":"https://www.youtube.com/watch?v=Yknrg-63674"}
+    {
+      "t": 1,
+      "claim": "The full documentary's automatic captions are the best available text for its opening.",
+      "assessment": "VICE manual-caption source QO3-AAVTeDA matches the complete opening sequence through 1192.29 seconds and is the accepted text overlay there. It materially repairs slurs, names, places and claim meaning while preserving [INAUDIBLE].",
+      "source": "https://www.youtube.com/watch?v=QO3-AAVTeDA"
+    },
+    {
+      "t": 148,
+      "claim": "The quoted rail-yard fines and jail rule are current law.",
+      "assessment": "They are an incidental speaker's historical account; verify railroad, jurisdiction and date, and never use them for evasion guidance.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 393,
+      "claim": "Choe's theft, conversion and gambling chronology is independently proven.",
+      "assessment": "The film provides first-person narration edited for a travel documentary; preserve it as self-report.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 561,
+      "claim": "The film's sentence fully describes Chinese and Black railroad labor.",
+      "assessment": "It points toward real labor history but needs railroad-specific primary history, dates, regions and distinct worker experiences.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 845,
+      "claim": "The incidental musician took two lessons from Jerry Garcia.",
+      "assessment": "This is first-person oral history and needs corroboration before entering a public-figure timeline.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 2077,
+      "claim": "Children in Moriarty begin drinking at six.",
+      "assessment": "A local participant's likely hyperbole is not town-level public-health evidence.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 2627,
+      "claim": "An Amarillo restaurant or its workers hold the reported anti-Black view.",
+      "assessment": "Choe recounts off-camera comments by unidentified waitresses after they declined filming; do not attribute the claim to a venue, city or workforce.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 2882,
+      "claim": "The Mississippi contains the exact hazards described as sinkholes.",
+      "assessment": "Local speakers repeatedly warn of current, barges and deaths, but terminology and comparative-danger claims need authoritative river-safety sources.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 3140,
+      "claim": "Everyone locals knew who swam in the Mississippi died.",
+      "assessment": "This is Choe's compressed/exaggerated summary, not mortality data.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 3418,
+      "claim": "The tube traveled the stated miles and could reach the stated destination on schedule.",
+      "assessment": "Distances, speed, current and route are narration estimates, not navigational records.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 3841,
+      "claim": "The visible object was a racist noose placed to threaten travelers.",
+      "assessment": "Choe perceives a noose near a cotton field and reacts with historically grounded fear; inspect the frame and provenance before assigning intent.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 4028,
+      "claim": "The New Orleans scenes occurred exactly one year after Katrina.",
+      "assessment": "Verify filming dates, exact levee-breach site and recovery chronology against primary records.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 4210,
+      "claim": "The named family deaths and Houston circumstances are fully established.",
+      "assessment": "They are a resident's direct account but remain sensitive; public-record verification needs a real editorial purpose before indexing names.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 4703,
+      "claim": "Four DUIs automatically produce the stated felony and sentence.",
+      "assessment": "The participant describes his own case conversationally; verify offense dates, Alabama law, sentence and program separately.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    },
+    {
+      "t": 5151,
+      "claim": "The workers' employer, immigration status and free-labor terms are known.",
+      "assessment": "The edited scene and translated exchange do not establish any of those facts; verify credits and consent before further identification.",
+      "source": "https://www.youtube.com/watch?v=Yknrg-63674"
+    }
   ],
-  "content_warnings": ["sexual-assault disclosure","graphic rape metaphors","incest metaphors","partner-violence metaphors","explicit sexual speech","racial slurs and caricature","anti-Black stereotyping","anti-Asian stereotyping","homophobic jokes","religious conflict and imagery","hate symbols and white-power graffiti","theft and property damage","trespass and freight hopping","extreme heat and dehydration","unsafe river travel","open fire and environmental risk","gambling addiction and debt","alcohol and possible impaired driving","drug references","criminal-history disclosure","prison and escape pressure","sensitive death and shooting accounts","homelessness and poverty","pregnancy and minor-age claims","post-disaster devastation","possible labor exploitation","private family and partner details","off-camera consent and documentary-power concerns"],
+  "content_warnings": [
+    "sexual-assault disclosure",
+    "graphic rape metaphors",
+    "incest metaphors",
+    "partner-violence metaphors",
+    "explicit sexual speech",
+    "racial slurs and caricature",
+    "anti-Black stereotyping",
+    "anti-Asian stereotyping",
+    "homophobic jokes",
+    "religious conflict and imagery",
+    "hate symbols and white-power graffiti",
+    "theft and property damage",
+    "trespass and freight hopping",
+    "extreme heat and dehydration",
+    "unsafe river travel",
+    "open fire and environmental risk",
+    "gambling addiction and debt",
+    "alcohol and possible impaired driving",
+    "drug references",
+    "criminal-history disclosure",
+    "prison and escape pressure",
+    "sensitive death and shooting accounts",
+    "homelessness and poverty",
+    "pregnancy and minor-age claims",
+    "post-disaster devastation",
+    "possible labor exploitation",
+    "private family and partner details",
+    "off-camera consent and documentary-power concerns"
+  ],
   "publication_restrictions": [
-    {"t":0,"rule":"publish no named line-level turns before held-out acoustic/video validation"},{"t":33,"rule":"do not convert Choe's survivor-weight theory into medical or universal trauma guidance"},{"t":60,"rule":"do not excerpt rail-yard access, direction, boarding or enforcement details as instructions"},{"t":132,"rule":"do not identity-resolve incidental travelers from nicknames, family, convention or location clues"},{"t":230,"rule":"do not present freight riding as a travel recommendation"},{"t":280,"rule":"do not expose or normalize unauthorized shelter/property entry"},{"t":324,"rule":"preserve vandalism admission but suppress actionable property-damage fragments from snippets"},{"t":393,"rule":"treat criminal and addiction history as Choe's self-report"},{"t":440,"rule":"do not identity-resolve the fighter, deceased person or hotel location"},{"t":457,"rule":"do not treat reported winnings as audited finance or gambling promotion"},{"t":474,"rule":"withhold private casino contacts and live comp-access information"},{"t":511,"rule":"do not excerpt urine, heat or dehydration jokes as survival advice"},{"t":549,"rule":"minimize precise unsafe rail route and access details"},{"t":561,"rule":"verify racial labor history from primary scholarship before canonical summary"},{"t":650,"rule":"label all casino prices, services and comp practices as historical/source-specific"},{"t":721,"rule":"do not surface credit-card cash advances as gambling tactics"},{"t":774,"rule":"protect private friends, workplace access and hotel security details"},{"t":824,"rule":"exclude incidental worker's child, military and employment data from person discovery"},{"t":901,"rule":"do not expose private pool access, security practices or sex-worker accusations"},{"t":993,"rule":"do not turn hitchhiking tactics into safety guidance"},{"t":1106,"rule":"preserve racialized fear jokes without assigning ideology or ethnicity as fact"},{"t":1170,"rule":"protect private parents and partner named in farewell speech"},{"t":1209,"rule":"withhold passenger parole, family and camera-threat clues from discovery"},{"t":1321,"rule":"preserve homophobic sign gag without inferring anyone's orientation"},{"t":1397,"rule":"do not identity-resolve private international travelers"},{"t":1533,"rule":"do not reduce a traveler's first-person life to a homelessness label"},{"t":1571,"rule":"do not use Choe's age nickname as public identity"},{"t":1688,"rule":"do not publish media/crime guesses as hitchhiking safety statistics"},{"t":1892,"rule":"protect private travelers' drugs, housing, sex, family and work details"},{"t":2008,"rule":"keep explicit private remarks in scene context, not person summaries"},{"t":2054,"rule":"do not graph incidental family names, pregnancy, criminal history or relationships"},{"t":2154,"rule":"treat violent freestyle as performed speech, not a literal-threat finding"},{"t":2238,"rule":"verify graffiti visually; do not infer creators' race, gender or relationship"},{"t":2307,"rule":"do not reconstruct masked slurs without audio evidence"},{"t":2361,"rule":"verify crew credits and music titles; do not guess damaged lyrics"},{"t":2502,"rule":"do not index the private participant's possible minor age or pregnancy"},{"t":2627,"rule":"do not attribute Choe's off-camera racism account to a named venue, city or workforce"},{"t":2690,"rule":"do not recommend stores or merchandise as unauthorized shelter"},{"t":2777,"rule":"keep casino-credit sequence in addiction context and out of commerce promotion"},{"t":2829,"rule":"do not confuse Benny with politician Bennie Thompson or identity-resolve him"},{"t":2855,"rule":"do not convert the Mississippi tube sequence into a route or boating guide"},{"t":2972,"rule":"protect private drivers and vehicle details beyond justified film credits"},{"t":3083,"rule":"do not excerpt golf-course trespass, sex, firework or shelter suggestions as tips"},{"t":3192,"rule":"pair the river conduct with repeated warnings and outcomes; never frame it as safe"},{"t":3231,"rule":"preserve the cameraman's refusal and do not infer crew consent to later footage"},{"t":3247,"rule":"do not diagnose exposure or accuse a facility from appearance alone"},{"t":3262,"rule":"suppress improvised-sail mechanics from recommendation snippets"},{"t":3283,"rule":"treat delinquent balances as self-reported sensitive finance"},{"t":3313,"rule":"protect private partner identity and keep fantasy out of biography snippets"},{"t":3371,"rule":"do not publish an exact unsafe campsite/route"},{"t":3408,"rule":"do not romanticize night river travel without the danger record"},{"t":3483,"rule":"leave the garbled violent-crime account unresolved"},{"t":3631,"rule":"do not surface open-fire or campsite conduct as guidance"},{"t":3787,"rule":"protect private hunting property, residents, access and weapons"},{"t":3830,"rule":"verify the perceived noose before asserting object, placement or intent"},{"t":3963,"rule":"preserve Choe's anti-Chinese slur without using it as identity metadata"},{"t":4013,"rule":"do not treat outsider narration as a complete Katrina history"},{"t":4047,"rule":"protect residents and avoid turning scarcity testimony into neighborhood crime ratings"},{"t":4112,"rule":"verify the exact levee site and date from authoritative Katrina records"},{"t":4184,"rule":"do not index sensitive victim/family names without verification and editorial purpose"},{"t":4275,"rule":"avoid precise household/location exposure for Third Ward participants"},{"t":4487,"rule":"do not assume camera permission beyond the scope visibly granted"},{"t":4514,"rule":"do not recommend or glamorize possible impaired driving"},{"t":4647,"rule":"withhold work-release facility, schedule, sentence identity and route details"},{"t":4703,"rule":"do not generalize legal rules or wage deductions from one participant's arithmetic"},{"t":4761,"rule":"preserve the participant's alcohol refusal as authoritative"},{"t":4777,"rule":"do not excerpt escape pressure operationally; the participant's refusal controls"},{"t":4840,"rule":"do not turn freight sexual/sanitation oral history into rail guidance"},{"t":5003,"rule":"do not identity-resolve helpful private drivers/shopkeepers"},{"t":5105,"rule":"do not infer farm workers' employer, immigration status or consent from the montage"},{"t":5151,"rule":"verify translation, labor terms and credit before characterizing the ride-for-work exchange"},{"t":5240,"rule":"preserve graphic final metaphors but never use them as celebratory travel copy or literal intent"},{"t":5334,"rule":"do not let the forgiveness refrain erase documented harms or uncertainty"},{"t":5357,"rule":"do not reconstruct corrupted closing-song lyrics without audio and rights evidence"}
-  ]
+    {
+      "t": 0,
+      "rule": "publish no named line-level turns before held-out acoustic/video validation"
+    },
+    {
+      "t": 33,
+      "rule": "do not convert Choe's survivor-weight theory into medical or universal trauma guidance"
+    },
+    {
+      "t": 60,
+      "rule": "do not excerpt rail-yard access, direction, boarding or enforcement details as instructions"
+    },
+    {
+      "t": 132,
+      "rule": "do not identity-resolve incidental travelers from nicknames, family, convention or location clues"
+    },
+    {
+      "t": 230,
+      "rule": "do not present freight riding as a travel recommendation"
+    },
+    {
+      "t": 280,
+      "rule": "do not expose or normalize unauthorized shelter/property entry"
+    },
+    {
+      "t": 324,
+      "rule": "preserve vandalism admission but suppress actionable property-damage fragments from snippets"
+    },
+    {
+      "t": 393,
+      "rule": "treat criminal and addiction history as Choe's self-report"
+    },
+    {
+      "t": 440,
+      "rule": "do not identity-resolve the fighter, deceased person or hotel location"
+    },
+    {
+      "t": 457,
+      "rule": "do not treat reported winnings as audited finance or gambling promotion"
+    },
+    {
+      "t": 474,
+      "rule": "withhold private casino contacts and live comp-access information"
+    },
+    {
+      "t": 511,
+      "rule": "do not excerpt urine, heat or dehydration jokes as survival advice"
+    },
+    {
+      "t": 549,
+      "rule": "minimize precise unsafe rail route and access details"
+    },
+    {
+      "t": 561,
+      "rule": "verify racial labor history from primary scholarship before canonical summary"
+    },
+    {
+      "t": 650,
+      "rule": "label all casino prices, services and comp practices as historical/source-specific"
+    },
+    {
+      "t": 721,
+      "rule": "do not surface credit-card cash advances as gambling tactics"
+    },
+    {
+      "t": 774,
+      "rule": "protect private friends, workplace access and hotel security details"
+    },
+    {
+      "t": 824,
+      "rule": "exclude incidental worker's child, military and employment data from person discovery"
+    },
+    {
+      "t": 901,
+      "rule": "do not expose private pool access, security practices or sex-worker accusations"
+    },
+    {
+      "t": 993,
+      "rule": "do not turn hitchhiking tactics into safety guidance"
+    },
+    {
+      "t": 1106,
+      "rule": "preserve racialized fear jokes without assigning ideology or ethnicity as fact"
+    },
+    {
+      "t": 1170,
+      "rule": "protect private parents and partner named in farewell speech"
+    },
+    {
+      "t": 1209,
+      "rule": "withhold passenger parole, family and camera-threat clues from discovery"
+    },
+    {
+      "t": 1321,
+      "rule": "preserve homophobic sign gag without inferring anyone's orientation"
+    },
+    {
+      "t": 1397,
+      "rule": "do not identity-resolve private international travelers"
+    },
+    {
+      "t": 1533,
+      "rule": "do not reduce a traveler's first-person life to a homelessness label"
+    },
+    {
+      "t": 1571,
+      "rule": "do not use Choe's age nickname as public identity"
+    },
+    {
+      "t": 1688,
+      "rule": "do not publish media/crime guesses as hitchhiking safety statistics"
+    },
+    {
+      "t": 1892,
+      "rule": "protect private travelers' drugs, housing, sex, family and work details"
+    },
+    {
+      "t": 2008,
+      "rule": "keep explicit private remarks in scene context, not person summaries"
+    },
+    {
+      "t": 2054,
+      "rule": "do not graph incidental family names, pregnancy, criminal history or relationships"
+    },
+    {
+      "t": 2154,
+      "rule": "treat violent freestyle as performed speech, not a literal-threat finding"
+    },
+    {
+      "t": 2238,
+      "rule": "verify graffiti visually; do not infer creators' race, gender or relationship"
+    },
+    {
+      "t": 2307,
+      "rule": "do not reconstruct masked slurs without audio evidence"
+    },
+    {
+      "t": 2361,
+      "rule": "verify crew credits and music titles; do not guess damaged lyrics"
+    },
+    {
+      "t": 2502,
+      "rule": "do not index the private participant's possible minor age or pregnancy"
+    },
+    {
+      "t": 2627,
+      "rule": "do not attribute Choe's off-camera racism account to a named venue, city or workforce"
+    },
+    {
+      "t": 2690,
+      "rule": "do not recommend stores or merchandise as unauthorized shelter"
+    },
+    {
+      "t": 2777,
+      "rule": "keep casino-credit sequence in addiction context and out of commerce promotion"
+    },
+    {
+      "t": 2829,
+      "rule": "do not confuse Benny with politician Bennie Thompson or identity-resolve him"
+    },
+    {
+      "t": 2855,
+      "rule": "do not convert the Mississippi tube sequence into a route or boating guide"
+    },
+    {
+      "t": 2972,
+      "rule": "protect private drivers and vehicle details beyond justified film credits"
+    },
+    {
+      "t": 3083,
+      "rule": "do not excerpt golf-course trespass, sex, firework or shelter suggestions as tips"
+    },
+    {
+      "t": 3192,
+      "rule": "pair the river conduct with repeated warnings and outcomes; never frame it as safe"
+    },
+    {
+      "t": 3231,
+      "rule": "preserve the cameraman's refusal and do not infer crew consent to later footage"
+    },
+    {
+      "t": 3247,
+      "rule": "do not diagnose exposure or accuse a facility from appearance alone"
+    },
+    {
+      "t": 3262,
+      "rule": "suppress improvised-sail mechanics from recommendation snippets"
+    },
+    {
+      "t": 3283,
+      "rule": "treat delinquent balances as self-reported sensitive finance"
+    },
+    {
+      "t": 3313,
+      "rule": "protect private partner identity and keep fantasy out of biography snippets"
+    },
+    {
+      "t": 3371,
+      "rule": "do not publish an exact unsafe campsite/route"
+    },
+    {
+      "t": 3408,
+      "rule": "do not romanticize night river travel without the danger record"
+    },
+    {
+      "t": 3483,
+      "rule": "leave the garbled violent-crime account unresolved"
+    },
+    {
+      "t": 3631,
+      "rule": "do not surface open-fire or campsite conduct as guidance"
+    },
+    {
+      "t": 3787,
+      "rule": "protect private hunting property, residents, access and weapons"
+    },
+    {
+      "t": 3830,
+      "rule": "verify the perceived noose before asserting object, placement or intent"
+    },
+    {
+      "t": 3963,
+      "rule": "preserve Choe's anti-Chinese slur without using it as identity metadata"
+    },
+    {
+      "t": 4013,
+      "rule": "do not treat outsider narration as a complete Katrina history"
+    },
+    {
+      "t": 4047,
+      "rule": "protect residents and avoid turning scarcity testimony into neighborhood crime ratings"
+    },
+    {
+      "t": 4112,
+      "rule": "verify the exact levee site and date from authoritative Katrina records"
+    },
+    {
+      "t": 4184,
+      "rule": "do not index sensitive victim/family names without verification and editorial purpose"
+    },
+    {
+      "t": 4275,
+      "rule": "avoid precise household/location exposure for Third Ward participants"
+    },
+    {
+      "t": 4487,
+      "rule": "do not assume camera permission beyond the scope visibly granted"
+    },
+    {
+      "t": 4514,
+      "rule": "do not recommend or glamorize possible impaired driving"
+    },
+    {
+      "t": 4647,
+      "rule": "withhold work-release facility, schedule, sentence identity and route details"
+    },
+    {
+      "t": 4703,
+      "rule": "do not generalize legal rules or wage deductions from one participant's arithmetic"
+    },
+    {
+      "t": 4761,
+      "rule": "preserve the participant's alcohol refusal as authoritative"
+    },
+    {
+      "t": 4777,
+      "rule": "do not excerpt escape pressure operationally; the participant's refusal controls"
+    },
+    {
+      "t": 4840,
+      "rule": "do not turn freight sexual/sanitation oral history into rail guidance"
+    },
+    {
+      "t": 5003,
+      "rule": "do not identity-resolve helpful private drivers/shopkeepers"
+    },
+    {
+      "t": 5105,
+      "rule": "do not infer farm workers' employer, immigration status or consent from the montage"
+    },
+    {
+      "t": 5151,
+      "rule": "verify translation, labor terms and credit before characterizing the ride-for-work exchange"
+    },
+    {
+      "t": 5240,
+      "rule": "preserve graphic final metaphors but never use them as celebratory travel copy or literal intent"
+    },
+    {
+      "t": 5334,
+      "rule": "do not let the forgiveness refrain erase documented harms or uncertainty"
+    },
+    {
+      "t": 5357,
+      "rule": "do not reconstruct corrupted closing-song lyrics without audio and rights evidence"
+    }
+  ],
+  "description": "David Choe and Harry Kim cross the United States without paying for rides, moving by freight train, hitchhiking, casino hospitality, an inflatable river tube, private vehicles and a farm-worker bus.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -1,0 +1,51 @@
+{
+  "episode_id": "mUsyh416654",
+  "title": "Mangchi Video featuring Steve Lee",
+  "reviewed_on": "2026-08-13",
+  "description": "A Mangchi video featuring Steve Lee has only a repeated decoder fragment; it is retained as band-video evidence with no invented lyrics or action.",
+  "summary": "A Mangchi video featuring Steve Lee has only a repeated decoder fragment; it is retained as band-video evidence with no invented lyrics or action. Because the available transcript is sparse or corrupted, the archive deliberately limits the claim to title/provenance and recoverable words rather than inventing visual detail.",
+  "chapters": [
+    {
+      "t": 27,
+      "title": "Mangchi video footage"
+    }
+  ],
+  "people": [
+    "Steve Lee",
+    "David Choe"
+  ],
+  "places": [],
+  "works": [
+    "Mangchi"
+  ],
+  "themes": [
+    "music video",
+    "Steve Lee",
+    "decoder failure"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 1,
+    "duration_seconds": 26.5,
+    "chapters": 1,
+    "named_turns": 0,
+    "transcript_limited": true
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

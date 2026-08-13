@@ -24,133 +24,539 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 11, "title": "Changing landscapes and unequal labor"},
-    {"t": 34, "title": "Art-market privilege as self-critique"},
-    {"t": 56, "title": "Road expression and unlikely revolution"},
-    {"t": 71, "title": "A bus outside Xi'an"},
-    {"t": 93, "title": "No money and the religion of the road"},
-    {"t": 119, "title": "Fare inventory and leaving the bus"},
-    {"t": 145, "title": "A ten-cent ride refused"},
-    {"t": 160, "title": "Immediately boarding another vehicle"},
-    {"t": 175, "title": "Meeting Jiang Ho"},
-    {"t": 185, "title": "Street Fighter and Chun-Li"},
-    {"t": 210, "title": "Squat toilets and body generalizations"},
-    {"t": 250, "title": "Flattering another driver"},
-    {"t": 274, "title": "A proposed kiss becomes a joke"},
-    {"t": 300, "title": "Arrival in Xi'an and illness"},
-    {"t": 312, "title": "Meeting Echo Rush"},
-    {"t": 325, "title": "Massages, party plans and punk performance"},
-    {"t": 397, "title": "Mustache generalization and love interrogation"},
-    {"t": 426, "title": "Sexual pressure on the lead singer"},
-    {"t": 457, "title": "An unidentified liquid"},
-    {"t": 462, "title": "Xi'an, Terracotta Warriors and haircut plan"},
-    {"t": 499, "title": "Sausage-party recap and KGB history"},
-    {"t": 513, "title": "A racialized song fragment"},
-    {"t": 518, "title": "Anger at Harry and attachment"},
-    {"t": 527, "title": "A spa-day haircut gift"},
-    {"t": 548, "title": "A private child's hairstyle as reference"},
-    {"t": 559, "title": "Unverified stylist credentials"},
-    {"t": 576, "title": "Reading a private worker's shirt"},
-    {"t": 610, "title": "Haircut as sexual promise"},
-    {"t": 656, "title": "Translated rejection and David's explicit response"},
-    {"t": 678, "title": "Repeated taunt and apology to Harry"},
-    {"t": 718, "title": "Echo Rush hospitality and driver Jacob"},
-    {"t": 756, "title": "Touring questions and road relationships"},
-    {"t": 829, "title": "Separation after five years"},
-    {"t": 836, "title": "Love or the road"},
-    {"t": 906, "title": "The longest ride and roadside psychiatrist"},
-    {"t": 934, "title": "Sleeping passengers and driver stamina"},
-    {"t": 959, "title": "Translated advice and farewell"},
-    {"t": 1008, "title": "Possible Yellow River and wrong dolphin link"},
-    {"t": 1049, "title": "Unidentified game or physical contest"},
-    {"t": 1101, "title": "Unnamed riders and a crowded ride"},
-    {"t": 1199, "title": "Small birds, sugar-coated vegetables and changing names"}
+    {
+      "t": 11,
+      "title": "Changing landscapes and unequal labor"
+    },
+    {
+      "t": 34,
+      "title": "Art-market privilege as self-critique"
+    },
+    {
+      "t": 56,
+      "title": "Road expression and unlikely revolution"
+    },
+    {
+      "t": 71,
+      "title": "A bus outside Xi'an"
+    },
+    {
+      "t": 93,
+      "title": "No money and the religion of the road"
+    },
+    {
+      "t": 119,
+      "title": "Fare inventory and leaving the bus"
+    },
+    {
+      "t": 145,
+      "title": "A ten-cent ride refused"
+    },
+    {
+      "t": 160,
+      "title": "Immediately boarding another vehicle"
+    },
+    {
+      "t": 175,
+      "title": "Meeting Jiang Ho"
+    },
+    {
+      "t": 185,
+      "title": "Street Fighter and Chun-Li"
+    },
+    {
+      "t": 210,
+      "title": "Squat toilets and body generalizations"
+    },
+    {
+      "t": 250,
+      "title": "Flattering another driver"
+    },
+    {
+      "t": 274,
+      "title": "A proposed kiss becomes a joke"
+    },
+    {
+      "t": 300,
+      "title": "Arrival in Xi'an and illness"
+    },
+    {
+      "t": 312,
+      "title": "Meeting Echo Rush"
+    },
+    {
+      "t": 325,
+      "title": "Massages, party plans and punk performance"
+    },
+    {
+      "t": 397,
+      "title": "Mustache generalization and love interrogation"
+    },
+    {
+      "t": 426,
+      "title": "Sexual pressure on the lead singer"
+    },
+    {
+      "t": 457,
+      "title": "An unidentified liquid"
+    },
+    {
+      "t": 462,
+      "title": "Xi'an, Terracotta Warriors and haircut plan"
+    },
+    {
+      "t": 499,
+      "title": "Sausage-party recap and KGB history"
+    },
+    {
+      "t": 513,
+      "title": "A racialized song fragment"
+    },
+    {
+      "t": 518,
+      "title": "Anger at Harry and attachment"
+    },
+    {
+      "t": 527,
+      "title": "A spa-day haircut gift"
+    },
+    {
+      "t": 548,
+      "title": "A private child's hairstyle as reference"
+    },
+    {
+      "t": 559,
+      "title": "Unverified stylist credentials"
+    },
+    {
+      "t": 576,
+      "title": "Reading a private worker's shirt"
+    },
+    {
+      "t": 610,
+      "title": "Haircut as sexual promise"
+    },
+    {
+      "t": 656,
+      "title": "Translated rejection and David's explicit response"
+    },
+    {
+      "t": 678,
+      "title": "Repeated taunt and apology to Harry"
+    },
+    {
+      "t": 718,
+      "title": "Echo Rush hospitality and driver Jacob"
+    },
+    {
+      "t": 756,
+      "title": "Touring questions and road relationships"
+    },
+    {
+      "t": 829,
+      "title": "Separation after five years"
+    },
+    {
+      "t": 836,
+      "title": "Love or the road"
+    },
+    {
+      "t": 906,
+      "title": "The longest ride and roadside psychiatrist"
+    },
+    {
+      "t": 934,
+      "title": "Sleeping passengers and driver stamina"
+    },
+    {
+      "t": 959,
+      "title": "Translated advice and farewell"
+    },
+    {
+      "t": 1008,
+      "title": "Possible Yellow River and wrong dolphin link"
+    },
+    {
+      "t": 1049,
+      "title": "Unidentified game or physical contest"
+    },
+    {
+      "t": 1101,
+      "title": "Unnamed riders and a crowded ride"
+    },
+    {
+      "t": 1199,
+      "title": "Small birds, sugar-coated vegetables and changing names"
+    }
   ],
-  "people": ["David Choe", "Harry Kim", "Jacob / Hong? [private; alias uncertain]", "Jiang Ho [private; romanization unverified]", "unidentified female translator/participant", "unidentified male band participant", "Echo Rush members [episode-identified/private]", "unidentified salon workers, riders, vendors and food recipients"],
-  "places": ["China", "Xi'an", "Terracotta Army area", "Yellow River [David's uncertain guess]", "Yangtze River [baiji correction only]", "unidentified bus, homes, salon, roads, river crossing, vendor and stops"],
-  "works": ["Thumbs Up!", "Street Fighter", "Chun-Li", "Echo Rush [band; spelling/member review pending]", "KGB / Koreans Gone Bad [David's claimed band]", "Iggy Pop — Candy", "the B-52s", "Roscoe's House of Chicken 'N Waffles"],
-  "themes": ["labor and privilege", "art-market self-critique", "hitchhiking", "fare refusal", "hospitality", "punk performance", "friendship", "sexual pressure", "racialized body speech", "haircut and worker privacy", "translation", "love versus travel", "driver fatigue", "geographic uncertainty", "food contradictions", "speaker-label provenance"],
+  "people": [
+    "David Choe",
+    "Harry Kim",
+    "Jacob / Hong? [private; alias uncertain]",
+    "Jiang Ho [private; romanization unverified]",
+    "unidentified female translator/participant",
+    "unidentified male band participant",
+    "Echo Rush members [episode-identified/private]",
+    "unidentified salon workers, riders, vendors and food recipients"
+  ],
+  "places": [
+    "China",
+    "Xi'an",
+    "Terracotta Army area",
+    "Yellow River [David's uncertain guess]",
+    "Yangtze River [baiji correction only]",
+    "unidentified bus, homes, salon, roads, river crossing, vendor and stops"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "Street Fighter",
+    "Chun-Li",
+    "Echo Rush [band; spelling/member review pending]",
+    "KGB / Koreans Gone Bad [David's claimed band]",
+    "Iggy Pop — Candy",
+    "the B-52s",
+    "Roscoe's House of Chicken 'N Waffles"
+  ],
+  "themes": [
+    "labor and privilege",
+    "art-market self-critique",
+    "hitchhiking",
+    "fare refusal",
+    "hospitality",
+    "punk performance",
+    "friendship",
+    "sexual pressure",
+    "racialized body speech",
+    "haircut and worker privacy",
+    "translation",
+    "love versus travel",
+    "driver fatigue",
+    "geographic uncertainty",
+    "food contradictions",
+    "speaker-label provenance"
+  ],
   "connections": [
-    {"t": 27, "to": "art-and-labor", "why": "David contrasts construction labor he imagines as precarious with accidental marks sold as expensive art."},
-    {"t": 56, "to": "travel-as-performance", "why": "Music, dance and hitchhiking are proposed as expression before David immediately doubts their revolutionary effect."},
-    {"t": 93, "to": "road-code-versus-host-boundary", "why": "The show's no-payment code does not establish a driver's duty to provide transport."},
-    {"t": 160, "to": "taking-rides-without-asking", "why": "Part Two's unauthorized-entry theory becomes another immediate boarding sequence."},
-    {"t": 185, "to": "comics-and-games-as-social-language", "why": "Street Fighter joins the X-Men references used to initiate contact and characterize bodies."},
-    {"t": 210, "to": "travel-observation-to-body-theory", "why": "A toilet observation becomes a universal explanation of women's bodies and Chun-Li's design."},
-    {"t": 312, "to": "music-for-community", "why": "Echo Rush extends the series' exchange of performance, food, shelter and rides."},
-    {"t": 397, "to": "hospitality-to-sexual-debt", "why": "Band hospitality is followed by David pressuring a private musician toward sex."},
-    {"t": 518, "to": "harry-conflict-and-attachment", "why": "David explicitly places yelling at Harry beside the deeper fear of not having him present."},
-    {"t": 527, "to": "gift-versus-control", "why": "A haircut framed as care becomes surveillance of worker credentials, body and sexual preferences."},
-    {"t": 548, "to": "private-child-image-boundary", "why": "An earlier village child becomes a hairstyle reference without licensing identity or image reuse."},
-    {"t": 656, "to": "rejection-versus-entitlement", "why": "A translated preference is answered with an explicit claim about pleasure the worker will supposedly miss."},
-    {"t": 718, "to": "hospitality-chain", "why": "A grandmother's home, touring network and driver extend care beyond the performance night."},
-    {"t": 829, "to": "translation-is-not-omniscience", "why": "Jacob's private relationship story reaches the transcript only through an unnamed speaker's paraphrase."},
-    {"t": 836, "to": "love-or-road-doctrine", "why": "David turns one private separation into a binary philosophy, while the archive preserves it as his frame."},
-    {"t": 906, "to": "drivers-as-confessors", "why": "The travel series' private encounters are described as storytelling or confession rather than simple transport."},
-    {"t": 934, "to": "hospitality-versus-fatigue", "why": "Passenger sleep and stimulant offers do not prove the driver was safely rested or alert."},
-    {"t": 1008, "to": "yellow-yangtze-conflation", "why": "David's uncertain route and the baiji's actual river association must appear as separate layers."},
-    {"t": 1049, "to": "video-required-action", "why": "Violence, wagering, participants and even species cannot be inferred from excited captions alone."},
-    {"t": 1199, "to": "contradiction-preserving-cleanup", "why": "Bird and vegetable names change repeatedly, demonstrating why a cleaner must not invent one canonical food."}
+    {
+      "t": 27,
+      "to": "art-and-labor",
+      "why": "David contrasts construction labor he imagines as precarious with accidental marks sold as expensive art."
+    },
+    {
+      "t": 56,
+      "to": "travel-as-performance",
+      "why": "Music, dance and hitchhiking are proposed as expression before David immediately doubts their revolutionary effect."
+    },
+    {
+      "t": 93,
+      "to": "road-code-versus-host-boundary",
+      "why": "The show's no-payment code does not establish a driver's duty to provide transport."
+    },
+    {
+      "t": 160,
+      "to": "taking-rides-without-asking",
+      "why": "Part Two's unauthorized-entry theory becomes another immediate boarding sequence."
+    },
+    {
+      "t": 185,
+      "to": "comics-and-games-as-social-language",
+      "why": "Street Fighter joins the X-Men references used to initiate contact and characterize bodies."
+    },
+    {
+      "t": 210,
+      "to": "travel-observation-to-body-theory",
+      "why": "A toilet observation becomes a universal explanation of women's bodies and Chun-Li's design."
+    },
+    {
+      "t": 312,
+      "to": "music-for-community",
+      "why": "Echo Rush extends the series' exchange of performance, food, shelter and rides."
+    },
+    {
+      "t": 397,
+      "to": "hospitality-to-sexual-debt",
+      "why": "Band hospitality is followed by David pressuring a private musician toward sex."
+    },
+    {
+      "t": 518,
+      "to": "harry-conflict-and-attachment",
+      "why": "David explicitly places yelling at Harry beside the deeper fear of not having him present."
+    },
+    {
+      "t": 527,
+      "to": "gift-versus-control",
+      "why": "A haircut framed as care becomes surveillance of worker credentials, body and sexual preferences."
+    },
+    {
+      "t": 548,
+      "to": "private-child-image-boundary",
+      "why": "An earlier village child becomes a hairstyle reference without licensing identity or image reuse."
+    },
+    {
+      "t": 656,
+      "to": "rejection-versus-entitlement",
+      "why": "A translated preference is answered with an explicit claim about pleasure the worker will supposedly miss."
+    },
+    {
+      "t": 718,
+      "to": "hospitality-chain",
+      "why": "A grandmother's home, touring network and driver extend care beyond the performance night."
+    },
+    {
+      "t": 829,
+      "to": "translation-is-not-omniscience",
+      "why": "Jacob's private relationship story reaches the transcript only through an unnamed speaker's paraphrase."
+    },
+    {
+      "t": 836,
+      "to": "love-or-road-doctrine",
+      "why": "David turns one private separation into a binary philosophy, while the archive preserves it as his frame."
+    },
+    {
+      "t": 906,
+      "to": "drivers-as-confessors",
+      "why": "The travel series' private encounters are described as storytelling or confession rather than simple transport."
+    },
+    {
+      "t": 934,
+      "to": "hospitality-versus-fatigue",
+      "why": "Passenger sleep and stimulant offers do not prove the driver was safely rested or alert."
+    },
+    {
+      "t": 1008,
+      "to": "yellow-yangtze-conflation",
+      "why": "David's uncertain route and the baiji's actual river association must appear as separate layers."
+    },
+    {
+      "t": 1049,
+      "to": "video-required-action",
+      "why": "Violence, wagering, participants and even species cannot be inferred from excited captions alone."
+    },
+    {
+      "t": 1199,
+      "to": "contradiction-preserving-cleanup",
+      "why": "Bird and vegetable names change repeatedly, demonstrating why a cleaner must not invent one canonical food."
+    }
   ],
   "source_notes": [
-    {"t": 464, "claim": "Xi'an is associated with the Terracotta Warriors.", "assessment": "UNESCO identifies the terracotta warriors as part of the Mausoleum of the First Qin Emperor complex. Preserve David's brief wording without inflating it into route proof.", "source": "https://whc.unesco.org/en/list/441/"},
-    {"t": 1012, "claim": "A rare dolphin went extinct in the river David thinks is the Yellow River.", "assessment": "The likely reference is the baiji or Yangtze River dolphin, whose historical range was the Yangtze/Changjiang drainage; IUCN reports no evidence from the comprehensive 2006 survey. The episode's river location remains uncertain, so this is a probable conflation rather than a silent transcript replacement.", "source": "https://iucn-csg.org/baiji/"},
-    {"t": 0, "claim": "Five speaker categories are named in the manual captions.", "assessment": "VICE supplies exact prefixes for David Choe, Harry Kim, Jacob, generic female speaker and generic male speaker. The female speaker is not automatically Stephanie, and none is acoustic-model output.", "source": "https://www.youtube.com/watch?v=oFliGQNTC1c"}
+    {
+      "t": 464,
+      "claim": "Xi'an is associated with the Terracotta Warriors.",
+      "assessment": "UNESCO identifies the terracotta warriors as part of the Mausoleum of the First Qin Emperor complex. Preserve David's brief wording without inflating it into route proof.",
+      "source": "https://whc.unesco.org/en/list/441/"
+    },
+    {
+      "t": 1012,
+      "claim": "A rare dolphin went extinct in the river David thinks is the Yellow River.",
+      "assessment": "The likely reference is the baiji or Yangtze River dolphin, whose historical range was the Yangtze/Changjiang drainage; IUCN reports no evidence from the comprehensive 2006 survey. The episode's river location remains uncertain, so this is a probable conflation rather than a silent transcript replacement.",
+      "source": "https://iucn-csg.org/baiji/"
+    },
+    {
+      "t": 0,
+      "claim": "Five speaker categories are named in the manual captions.",
+      "assessment": "VICE supplies exact prefixes for David Choe, Harry Kim, Jacob, generic female speaker and generic male speaker. The female speaker is not automatically Stephanie, and none is acoustic-model output.",
+      "source": "https://www.youtube.com/watch?v=oFliGQNTC1c"
+    }
   ],
   "speaker_policy": {
     "status": "publisher labels retained; model-generated named turns withheld",
     "reason": "Manual prefixes identify exact spans for David Choe, Harry Kim, Jacob and generic female/male speakers. Hyphen dialogue, Chinese speech, translation, action cues and adjacency remain unlabeled. Do not infer that the female translator is Stephanie. Only David and Harry are recurring-cast model candidates; Jacob, Jiang Ho, Echo Rush members, workers, riders and vendors remain private scene-only labels or negative controls."
   },
   "content_warnings": [
-    {"t": 27, "warning": "hostile class/labor/place generalizations"},
-    {"t": 93, "warning": "fare refusal and boarding/permission ambiguity"},
-    {"t": 119, "warning": "graphic sexual bodily language"},
-    {"t": 160, "warning": "immediate private-vehicle boarding"},
-    {"t": 210, "warning": "gender/body generalization"},
-    {"t": 278, "warning": "kiss suggestion/consent ambiguity"},
-    {"t": 303, "warning": "acute diarrhea and clothing accident"},
-    {"t": 325, "warning": "massage/contact context"},
-    {"t": 397, "warning": "racialized/sexualized body speech"},
-    {"t": 426, "warning": "explicit sexual pressure and gendered slur"},
-    {"t": 445, "warning": "racial and sexual slur-filled boast"},
-    {"t": 513, "warning": "racialized song fragment"},
-    {"t": 548, "warning": "private child used as visual reference"},
-    {"t": 559, "warning": "unsupported claims about private worker credentials"},
-    {"t": 610, "warning": "graphic sexual framing of private worker and Harry"},
-    {"t": 792, "warning": "private relationship and sexual-life questions"},
-    {"t": 872, "warning": "sexual-orientation joke"},
-    {"t": 940, "warning": "driver fatigue/stimulant context"},
-    {"t": 959, "warning": "translated gendered slur"},
-    {"t": 1020, "warning": "skin-tone/beauty generalization"},
-    {"t": 1049, "warning": "unidentified possible violent/animal/game activity"},
-    {"t": 1165, "warning": "explicit bodily-contact joke and unverified food safety"}
+    {
+      "t": 27,
+      "warning": "hostile class/labor/place generalizations"
+    },
+    {
+      "t": 93,
+      "warning": "fare refusal and boarding/permission ambiguity"
+    },
+    {
+      "t": 119,
+      "warning": "graphic sexual bodily language"
+    },
+    {
+      "t": 160,
+      "warning": "immediate private-vehicle boarding"
+    },
+    {
+      "t": 210,
+      "warning": "gender/body generalization"
+    },
+    {
+      "t": 278,
+      "warning": "kiss suggestion/consent ambiguity"
+    },
+    {
+      "t": 303,
+      "warning": "acute diarrhea and clothing accident"
+    },
+    {
+      "t": 325,
+      "warning": "massage/contact context"
+    },
+    {
+      "t": 397,
+      "warning": "racialized/sexualized body speech"
+    },
+    {
+      "t": 426,
+      "warning": "explicit sexual pressure and gendered slur"
+    },
+    {
+      "t": 445,
+      "warning": "racial and sexual slur-filled boast"
+    },
+    {
+      "t": 513,
+      "warning": "racialized song fragment"
+    },
+    {
+      "t": 548,
+      "warning": "private child used as visual reference"
+    },
+    {
+      "t": 559,
+      "warning": "unsupported claims about private worker credentials"
+    },
+    {
+      "t": 610,
+      "warning": "graphic sexual framing of private worker and Harry"
+    },
+    {
+      "t": 792,
+      "warning": "private relationship and sexual-life questions"
+    },
+    {
+      "t": 872,
+      "warning": "sexual-orientation joke"
+    },
+    {
+      "t": 940,
+      "warning": "driver fatigue/stimulant context"
+    },
+    {
+      "t": 959,
+      "warning": "translated gendered slur"
+    },
+    {
+      "t": 1020,
+      "warning": "skin-tone/beauty generalization"
+    },
+    {
+      "t": 1049,
+      "warning": "unidentified possible violent/animal/game activity"
+    },
+    {
+      "t": 1165,
+      "warning": "explicit bodily-contact joke and unverified food safety"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every idea and literal source word; corrections and context remain separate."},
-    {"t": 0.1, "rule": "Publisher labels are exact-span evidence only with acoustic_verified=false."},
-    {"t": 0.2, "rule": "Do not invent Chinese translations or identify the generic female translator as Stephanie."},
-    {"t": 27, "rule": "Do not turn David's worker/wage/town speculation into labor or place facts."},
-    {"t": 71, "rule": "Verify route and Xi'an timing from title cards/maps before canonical chronology."},
-    {"t": 93, "rule": "Do not present fare refusal or boarding private vehicles as entitlement, legality or travel instruction."},
-    {"t": 160, "rule": "No driver, passenger, child, vehicle, plate or route identification from private rides."},
-    {"t": 175, "rule": "Jiang Ho remains a private episode-given name; no surname or identity resolution."},
-    {"t": 278, "rule": "A kiss proposal/joke is not consent or proof of contact."},
-    {"t": 303, "rule": "Do not diagnose David or create a searchable health profile from acute illness."},
-    {"t": 312, "rule": "Verify Echo Rush spelling, members and tracks before entity linking; no private-person dossiers."},
-    {"t": 325, "rule": "No massage/contact inference or standalone body imagery without video and rights review."},
-    {"t": 397, "rule": "Keep racialized and sexualized speech attributed to David and out of archive voice, thumbnails and SEO."},
-    {"t": 457, "rule": "Do not identify an unclear liquid/substance from caption text."},
-    {"t": 513, "rule": "Do not expand, promote or reuse the racialized lyric fragment as a song asset."},
-    {"t": 548, "rule": "No child image extraction, identity or village linkage from the haircut reference."},
-    {"t": 559, "rule": "Never index unverified credential/receptionist claims as a worker's employment record."},
-    {"t": 576, "rule": "Do not sexualize, identify or extract imagery of salon workers or their clothing."},
-    {"t": 656, "rule": "A translated dating preference does not license sexual claims, orientation metadata or consent inference."},
-    {"t": 718, "rule": "Keep grandmother's home and all band/driver hospitality private; no address or family trail."},
-    {"t": 733, "rule": "Jacob/Hong remains a private uncertain name/alias; no surname, partner or employment search."},
-    {"t": 829, "rule": "Translated separation and sexual-life claims stay inside episode dialogue, not summaries or discovery metadata."},
-    {"t": 934, "rule": "Do not present cigarettes, energy drinks or coffee as driver-fatigue safety advice."},
-    {"t": 1008, "rule": "Do not map the river from David's guess; show the baiji correction outside the verbatim transcript."},
-    {"t": 1049, "rule": "Do not label violence, gambling, animals or participants until the video is reviewed."},
-    {"t": 1101, "rule": "No gang/organization claim, rider identity, route or legality inference; food claims are entertainment, not safety, species, nutrition or tradition guidance."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every idea and literal source word; corrections and context remain separate."
+    },
+    {
+      "t": 0.1,
+      "rule": "Publisher labels are exact-span evidence only with acoustic_verified=false."
+    },
+    {
+      "t": 0.2,
+      "rule": "Do not invent Chinese translations or identify the generic female translator as Stephanie."
+    },
+    {
+      "t": 27,
+      "rule": "Do not turn David's worker/wage/town speculation into labor or place facts."
+    },
+    {
+      "t": 71,
+      "rule": "Verify route and Xi'an timing from title cards/maps before canonical chronology."
+    },
+    {
+      "t": 93,
+      "rule": "Do not present fare refusal or boarding private vehicles as entitlement, legality or travel instruction."
+    },
+    {
+      "t": 160,
+      "rule": "No driver, passenger, child, vehicle, plate or route identification from private rides."
+    },
+    {
+      "t": 175,
+      "rule": "Jiang Ho remains a private episode-given name; no surname or identity resolution."
+    },
+    {
+      "t": 278,
+      "rule": "A kiss proposal/joke is not consent or proof of contact."
+    },
+    {
+      "t": 303,
+      "rule": "Do not diagnose David or create a searchable health profile from acute illness."
+    },
+    {
+      "t": 312,
+      "rule": "Verify Echo Rush spelling, members and tracks before entity linking; no private-person dossiers."
+    },
+    {
+      "t": 325,
+      "rule": "No massage/contact inference or standalone body imagery without video and rights review."
+    },
+    {
+      "t": 397,
+      "rule": "Keep racialized and sexualized speech attributed to David and out of archive voice, thumbnails and SEO."
+    },
+    {
+      "t": 457,
+      "rule": "Do not identify an unclear liquid/substance from caption text."
+    },
+    {
+      "t": 513,
+      "rule": "Do not expand, promote or reuse the racialized lyric fragment as a song asset."
+    },
+    {
+      "t": 548,
+      "rule": "No child image extraction, identity or village linkage from the haircut reference."
+    },
+    {
+      "t": 559,
+      "rule": "Never index unverified credential/receptionist claims as a worker's employment record."
+    },
+    {
+      "t": 576,
+      "rule": "Do not sexualize, identify or extract imagery of salon workers or their clothing."
+    },
+    {
+      "t": 656,
+      "rule": "A translated dating preference does not license sexual claims, orientation metadata or consent inference."
+    },
+    {
+      "t": 718,
+      "rule": "Keep grandmother's home and all band/driver hospitality private; no address or family trail."
+    },
+    {
+      "t": 733,
+      "rule": "Jacob/Hong remains a private uncertain name/alias; no surname, partner or employment search."
+    },
+    {
+      "t": 829,
+      "rule": "Translated separation and sexual-life claims stay inside episode dialogue, not summaries or discovery metadata."
+    },
+    {
+      "t": 934,
+      "rule": "Do not present cigarettes, energy drinks or coffee as driver-fatigue safety advice."
+    },
+    {
+      "t": 1008,
+      "rule": "Do not map the river from David's guess; show the baiji correction outside the verbatim transcript."
+    },
+    {
+      "t": 1049,
+      "rule": "Do not label violence, gambling, animals or participants until the video is reviewed."
+    },
+    {
+      "t": 1101,
+      "rule": "No gang/organization claim, rider identity, route or legality inference; food claims are entertainment, not safety, species, nutrition or tradition guidance."
+    }
+  ],
+  "description": "Part Three moves through Xi'an, private rides, a night with the episode-identified punk band Echo Rush, Harry's haircut, a long ride with the private driver Jacob, an unidentified roadside game, crowded local transport and an improvised food sequence.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -27,150 +27,669 @@
     "reason": "Participants and guests are often explicit in context, but this artifact has no validated named turns or held-out identity windows. Non-native-English grammar and overlapping studio speech make acoustic validation essential before line-level publication."
   },
   "chapters": [
-    {"t": 2, "title": "Mangchi/comedy stepdad song"},
-    {"t": 152, "title": "Headset and microphone setup"},
-    {"t": 198, "title": "First show of 2015"},
-    {"t": 282, "title": "David calls prior Saga 2 audio unlistenable"},
-    {"t": 413, "title": "Headphones expose overlap and dead space"},
-    {"t": 491, "title": "Asa's structure and production critique"},
-    {"t": 542, "title": "Rotating-producer experiment proposed"},
-    {"t": 650, "title": "Vacation, anniversary and birthday"},
-    {"t": 803, "title": "Separate-bedroom explanation"},
-    {"t": 936, "title": "Social-media honeymoon versus lived vacation"},
-    {"t": 1069, "title": "Porn-culture causal theory"},
-    {"t": 1141, "title": "Two-man-threesome discussion"},
-    {"t": 1243, "title": "Reported propositions involving Critter"},
-    {"t": 1331, "title": "Assault and predator generalizations"},
-    {"t": 1461, "title": "Asa distinguishes work and off-camera consent"},
-    {"t": 1563, "title": "Personal sexual recommendation"},
-    {"t": 1651, "title": "Nikki tweet and private-message recollection"},
-    {"t": 1700, "title": "Kamui and Hikaru arrive"},
-    {"t": 1801, "title": "Solicitation thought experiment"},
-    {"t": 1939, "title": "Anonymous former-guest party rumor"},
-    {"t": 2064, "title": "Furry speculation"},
-    {"t": 2133, "title": "Hikaru and Tijuana callback"},
-    {"t": 2200, "title": "Critter's Japan recap"},
-    {"t": 2253, "title": "David's return-to-Japan account"},
-    {"t": 2450, "title": "Soapland question and bipolar self-label"},
-    {"t": 2583, "title": "Reunion with Naoki"},
-    {"t": 2629, "title": "Picasso soapland setup"},
-    {"t": 2733, "title": "Foreign-customer refusal context"},
-    {"t": 2910, "title": "Convoy and disputed observer story"},
-    {"t": 3133, "title": "Venue and room description"},
-    {"t": 3273, "title": "Anonymous worker enters"},
-    {"t": 3434, "title": "Explicit first service account"},
-    {"t": 3553, "title": "Condom, bath and Nuru sequence"},
-    {"t": 3912, "title": "Slip hazard and reenacted positions"},
-    {"t": 4142, "title": "Dinner with Sasha Grey and Kamui"},
-    {"t": 4537, "title": "Nonsexual ear-cleaning salon"},
-    {"t": 4722, "title": "Fitness-model escort and girlfriend experience"},
-    {"t": 4849, "title": "Final outcall, drug speculation and Nuru hazard"},
-    {"t": 5176, "title": "Recorded sexual audio played in studio"},
-    {"t": 5304, "title": "Return visit and continuing Facebook contact"},
-    {"t": 5385, "title": "Drug speculation and refused service requests"},
-    {"t": 5510, "title": "Mangchi retreat, sobriety boundary and Vegas detour"},
-    {"t": 5595, "title": "Kamui and Hikaru reunion"},
-    {"t": 5654, "title": "Kamui's karting and Toyota biography"},
-    {"t": 5911, "title": "Youth, racing risk and Formula One"},
-    {"t": 6243, "title": "Attempted close and recap trivia"},
-    {"t": 6402, "title": "Participation pressure and Val update"},
-    {"t": 6545, "title": "Relationship warmth without reunion claim"},
-    {"t": 6610, "title": "Sedona miracle-spray interpretation"},
-    {"t": 6698, "title": "Audio QA, outfit and sexualized visual"},
-    {"t": 6778, "title": "Repeated smelling request and scene assent"},
-    {"t": 6849, "title": "Sparse bumper/outro"},
-    {"t": 7011, "title": "Mangchi anti-bullying outro"}
+    {
+      "t": 2,
+      "title": "Mangchi/comedy stepdad song"
+    },
+    {
+      "t": 152,
+      "title": "Headset and microphone setup"
+    },
+    {
+      "t": 198,
+      "title": "First show of 2015"
+    },
+    {
+      "t": 282,
+      "title": "David calls prior Saga 2 audio unlistenable"
+    },
+    {
+      "t": 413,
+      "title": "Headphones expose overlap and dead space"
+    },
+    {
+      "t": 491,
+      "title": "Asa's structure and production critique"
+    },
+    {
+      "t": 542,
+      "title": "Rotating-producer experiment proposed"
+    },
+    {
+      "t": 650,
+      "title": "Vacation, anniversary and birthday"
+    },
+    {
+      "t": 803,
+      "title": "Separate-bedroom explanation"
+    },
+    {
+      "t": 936,
+      "title": "Social-media honeymoon versus lived vacation"
+    },
+    {
+      "t": 1069,
+      "title": "Porn-culture causal theory"
+    },
+    {
+      "t": 1141,
+      "title": "Two-man-threesome discussion"
+    },
+    {
+      "t": 1243,
+      "title": "Reported propositions involving Critter"
+    },
+    {
+      "t": 1331,
+      "title": "Assault and predator generalizations"
+    },
+    {
+      "t": 1461,
+      "title": "Asa distinguishes work and off-camera consent"
+    },
+    {
+      "t": 1563,
+      "title": "Personal sexual recommendation"
+    },
+    {
+      "t": 1651,
+      "title": "Nikki tweet and private-message recollection"
+    },
+    {
+      "t": 1700,
+      "title": "Kamui and Hikaru arrive"
+    },
+    {
+      "t": 1801,
+      "title": "Solicitation thought experiment"
+    },
+    {
+      "t": 1939,
+      "title": "Anonymous former-guest party rumor"
+    },
+    {
+      "t": 2064,
+      "title": "Furry speculation"
+    },
+    {
+      "t": 2133,
+      "title": "Hikaru and Tijuana callback"
+    },
+    {
+      "t": 2200,
+      "title": "Critter's Japan recap"
+    },
+    {
+      "t": 2253,
+      "title": "David's return-to-Japan account"
+    },
+    {
+      "t": 2450,
+      "title": "Soapland question and bipolar self-label"
+    },
+    {
+      "t": 2583,
+      "title": "Reunion with Naoki"
+    },
+    {
+      "t": 2629,
+      "title": "Picasso soapland setup"
+    },
+    {
+      "t": 2733,
+      "title": "Foreign-customer refusal context"
+    },
+    {
+      "t": 2910,
+      "title": "Convoy and disputed observer story"
+    },
+    {
+      "t": 3133,
+      "title": "Venue and room description"
+    },
+    {
+      "t": 3273,
+      "title": "Anonymous worker enters"
+    },
+    {
+      "t": 3434,
+      "title": "Explicit first service account"
+    },
+    {
+      "t": 3553,
+      "title": "Condom, bath and Nuru sequence"
+    },
+    {
+      "t": 3912,
+      "title": "Slip hazard and reenacted positions"
+    },
+    {
+      "t": 4142,
+      "title": "Dinner with Sasha Grey and Kamui"
+    },
+    {
+      "t": 4537,
+      "title": "Nonsexual ear-cleaning salon"
+    },
+    {
+      "t": 4722,
+      "title": "Fitness-model escort and girlfriend experience"
+    },
+    {
+      "t": 4849,
+      "title": "Final outcall, drug speculation and Nuru hazard"
+    },
+    {
+      "t": 5176,
+      "title": "Recorded sexual audio played in studio"
+    },
+    {
+      "t": 5304,
+      "title": "Return visit and continuing Facebook contact"
+    },
+    {
+      "t": 5385,
+      "title": "Drug speculation and refused service requests"
+    },
+    {
+      "t": 5510,
+      "title": "Mangchi retreat, sobriety boundary and Vegas detour"
+    },
+    {
+      "t": 5595,
+      "title": "Kamui and Hikaru reunion"
+    },
+    {
+      "t": 5654,
+      "title": "Kamui's karting and Toyota biography"
+    },
+    {
+      "t": 5911,
+      "title": "Youth, racing risk and Formula One"
+    },
+    {
+      "t": 6243,
+      "title": "Attempted close and recap trivia"
+    },
+    {
+      "t": 6402,
+      "title": "Participation pressure and Val update"
+    },
+    {
+      "t": 6545,
+      "title": "Relationship warmth without reunion claim"
+    },
+    {
+      "t": 6610,
+      "title": "Sedona miracle-spray interpretation"
+    },
+    {
+      "t": 6698,
+      "title": "Audio QA, outfit and sexualized visual"
+    },
+    {
+      "t": 6778,
+      "title": "Repeated smelling request and scene assent"
+    },
+    {
+      "t": 6849,
+      "title": "Sparse bumper/outro"
+    },
+    {
+      "t": 7011,
+      "title": "Mangchi anti-bullying outro"
+    }
   ],
   "connections": [
-    {"t": 282, "to": "dvdasa-audio-redesign", "why": "First direct cast review of prior Saga 2 sound and headset/mic intervention."},
-    {"t": 327, "to": "this-american-life-howard-stern", "why": "Clear professional audio attracts listening even without topic interest."},
-    {"t": 491, "to": "dvdasa-product-brief", "why": "Asa names missing structure, producing and listenability while retaining joy in participation."},
-    {"t": 626, "to": "recording-release-delay", "why": "New Year recording is expected to publish around March."},
-    {"t": 936, "to": "public-artifact-first-person-correction", "why": "Instagram honeymoon appearance is revised by direct participant testimony."},
-    {"t": 1069, "to": "porn-media-influence", "why": "Repeats Chapter 27's causal theory but remains anecdotal."},
-    {"t": 1153, "to": "private-message-dossiers", "why": "Continues the corpus-wide boundary around social and explicit messages."},
-    {"t": 1461, "to": "asa-akira-work-identity", "why": "Separates performed work consent from private relationship choices."},
-    {"t": 1939, "to": "anonymous-guest-rumor", "why": "Shows why social clues cannot be reassembled into identity."},
-    {"t": 2253, "to": "japan-return-timeline", "why": "Direct continuation of Chapter 27's immigration and publication account."},
-    {"t": 2583, "to": "naoki-reunion", "why": "Named reunion with explicit refusal to disclose criminal details."},
-    {"t": 3041, "to": "contested-memory-ui", "why": "Bobby and David dispute who initiated observation, requiring per-speaker claim states."},
-    {"t": 3434, "to": "japan-commercial-sex-account", "why": "First-person travel recollection with absent anonymous workers."},
-    {"t": 3733, "to": "nuru-health-claims", "why": "Product safety, barrier compatibility and slip risk require factual separation."},
-    {"t": 4142, "to": "sasha-grey", "why": "Links later-porn-career testimony and Japan travel context."},
-    {"t": 5176, "to": "media-within-media", "why": "Recorded sexual audio requires a distinct playback/rights/consent layer."},
-    {"t": 5510, "to": "mangchi-retreat", "why": "Sedona retreat connects music, mushrooms, sobriety and later creative work."},
-    {"t": 5654, "to": "kamui-kobayashi", "why": "Guest's first-person racing biography belongs in person/work records."},
-    {"t": 6511, "to": "parasocial-reach-and-refusal", "why": "Val speaks less after strangers and friends discover the show."},
-    {"t": 6698, "to": "audio-experiment-result", "why": "Closing handling-noise complaints provide live QA evidence for the new setup."}
+    {
+      "t": 282,
+      "to": "dvdasa-audio-redesign",
+      "why": "First direct cast review of prior Saga 2 sound and headset/mic intervention."
+    },
+    {
+      "t": 327,
+      "to": "this-american-life-howard-stern",
+      "why": "Clear professional audio attracts listening even without topic interest."
+    },
+    {
+      "t": 491,
+      "to": "dvdasa-product-brief",
+      "why": "Asa names missing structure, producing and listenability while retaining joy in participation."
+    },
+    {
+      "t": 626,
+      "to": "recording-release-delay",
+      "why": "New Year recording is expected to publish around March."
+    },
+    {
+      "t": 936,
+      "to": "public-artifact-first-person-correction",
+      "why": "Instagram honeymoon appearance is revised by direct participant testimony."
+    },
+    {
+      "t": 1069,
+      "to": "porn-media-influence",
+      "why": "Repeats Chapter 27's causal theory but remains anecdotal."
+    },
+    {
+      "t": 1153,
+      "to": "private-message-dossiers",
+      "why": "Continues the corpus-wide boundary around social and explicit messages."
+    },
+    {
+      "t": 1461,
+      "to": "asa-akira-work-identity",
+      "why": "Separates performed work consent from private relationship choices."
+    },
+    {
+      "t": 1939,
+      "to": "anonymous-guest-rumor",
+      "why": "Shows why social clues cannot be reassembled into identity."
+    },
+    {
+      "t": 2253,
+      "to": "japan-return-timeline",
+      "why": "Direct continuation of Chapter 27's immigration and publication account."
+    },
+    {
+      "t": 2583,
+      "to": "naoki-reunion",
+      "why": "Named reunion with explicit refusal to disclose criminal details."
+    },
+    {
+      "t": 3041,
+      "to": "contested-memory-ui",
+      "why": "Bobby and David dispute who initiated observation, requiring per-speaker claim states."
+    },
+    {
+      "t": 3434,
+      "to": "japan-commercial-sex-account",
+      "why": "First-person travel recollection with absent anonymous workers."
+    },
+    {
+      "t": 3733,
+      "to": "nuru-health-claims",
+      "why": "Product safety, barrier compatibility and slip risk require factual separation."
+    },
+    {
+      "t": 4142,
+      "to": "sasha-grey",
+      "why": "Links later-porn-career testimony and Japan travel context."
+    },
+    {
+      "t": 5176,
+      "to": "media-within-media",
+      "why": "Recorded sexual audio requires a distinct playback/rights/consent layer."
+    },
+    {
+      "t": 5510,
+      "to": "mangchi-retreat",
+      "why": "Sedona retreat connects music, mushrooms, sobriety and later creative work."
+    },
+    {
+      "t": 5654,
+      "to": "kamui-kobayashi",
+      "why": "Guest's first-person racing biography belongs in person/work records."
+    },
+    {
+      "t": 6511,
+      "to": "parasocial-reach-and-refusal",
+      "why": "Val speaks less after strangers and friends discover the show."
+    },
+    {
+      "t": 6698,
+      "to": "audio-experiment-result",
+      "why": "Closing handling-noise complaints provide live QA evidence for the new setup."
+    }
   ],
   "content_warnings": [
-    {"t": 2, "warning": "explicit comedy song"}, {"t": 650, "warning": "intimate marriage discussion"},
-    {"t": 1069, "warning": "minor sexual behavior and pornography causal claims"}, {"t": 1153, "warning": "private sexual messages"},
-    {"t": 1331, "warning": "sexual assault and predator generalizations"}, {"t": 1461, "warning": "explicit paid-work and relationship discussion"},
-    {"t": 1651, "warning": "private-message and relationship hearsay"}, {"t": 1939, "warning": "anonymous sexual rumor"},
-    {"t": 2064, "warning": "bestiality speculation"}, {"t": 2253, "warning": "incarceration and immigration"},
-    {"t": 2473, "warning": "mental-health self-label"}, {"t": 2583, "warning": "reported criminal and violent history"},
-    {"t": 2678, "warning": "commercial sex and racial/national stereotypes"}, {"t": 3041, "warning": "disputed pressure to observe sex"},
-    {"t": 3434, "warning": "extremely explicit anonymous-worker account"}, {"t": 3519, "warning": "fecal exposure and infection joke"},
-    {"t": 3733, "warning": "unsafe Nuru health claims"}, {"t": 3912, "warning": "slip and fall hazard"},
-    {"t": 4251, "warning": "group-sex safety discussion"}, {"t": 4331, "warning": "private paid partners"},
-    {"t": 4942, "warning": "drug-use speculation about anonymous worker"}, {"t": 5113, "warning": "bathroom slip hazard"},
-    {"t": 5176, "warning": "recorded sexual audio with absent worker"}, {"t": 5394, "warning": "drug speculation about porn performer"},
-    {"t": 5550, "warning": "mushrooms and sobriety"}, {"t": 5911, "warning": "adolescent brain and military generalization"},
-    {"t": 6763, "warning": "underwear screenshot/enhancement request"}, {"t": 6778, "warning": "repeated bodily-smelling request"}
+    {
+      "t": 2,
+      "warning": "explicit comedy song"
+    },
+    {
+      "t": 650,
+      "warning": "intimate marriage discussion"
+    },
+    {
+      "t": 1069,
+      "warning": "minor sexual behavior and pornography causal claims"
+    },
+    {
+      "t": 1153,
+      "warning": "private sexual messages"
+    },
+    {
+      "t": 1331,
+      "warning": "sexual assault and predator generalizations"
+    },
+    {
+      "t": 1461,
+      "warning": "explicit paid-work and relationship discussion"
+    },
+    {
+      "t": 1651,
+      "warning": "private-message and relationship hearsay"
+    },
+    {
+      "t": 1939,
+      "warning": "anonymous sexual rumor"
+    },
+    {
+      "t": 2064,
+      "warning": "bestiality speculation"
+    },
+    {
+      "t": 2253,
+      "warning": "incarceration and immigration"
+    },
+    {
+      "t": 2473,
+      "warning": "mental-health self-label"
+    },
+    {
+      "t": 2583,
+      "warning": "reported criminal and violent history"
+    },
+    {
+      "t": 2678,
+      "warning": "commercial sex and racial/national stereotypes"
+    },
+    {
+      "t": 3041,
+      "warning": "disputed pressure to observe sex"
+    },
+    {
+      "t": 3434,
+      "warning": "extremely explicit anonymous-worker account"
+    },
+    {
+      "t": 3519,
+      "warning": "fecal exposure and infection joke"
+    },
+    {
+      "t": 3733,
+      "warning": "unsafe Nuru health claims"
+    },
+    {
+      "t": 3912,
+      "warning": "slip and fall hazard"
+    },
+    {
+      "t": 4251,
+      "warning": "group-sex safety discussion"
+    },
+    {
+      "t": 4331,
+      "warning": "private paid partners"
+    },
+    {
+      "t": 4942,
+      "warning": "drug-use speculation about anonymous worker"
+    },
+    {
+      "t": 5113,
+      "warning": "bathroom slip hazard"
+    },
+    {
+      "t": 5176,
+      "warning": "recorded sexual audio with absent worker"
+    },
+    {
+      "t": 5394,
+      "warning": "drug speculation about porn performer"
+    },
+    {
+      "t": 5550,
+      "warning": "mushrooms and sobriety"
+    },
+    {
+      "t": 5911,
+      "warning": "adolescent brain and military generalization"
+    },
+    {
+      "t": 6763,
+      "warning": "underwear screenshot/enhancement request"
+    },
+    {
+      "t": 6778,
+      "warning": "repeated bodily-smelling request"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve all source ideas and language; corrections, context and access controls remain separate."},
-    {"t": 0, "rule": "Withhold named line-level dialogue pending acoustic validation."},
-    {"t": 650, "rule": "Treat marriage and sleeping arrangements as current-at-recording participant testimony."},
-    {"t": 972, "rule": "Do not use old social handles to expose unrelated accounts or contact paths."},
-    {"t": 1108, "rule": "Never normalize or identify minors through pornography comparisons."},
-    {"t": 1153, "rule": "Never reproduce private direct messages or infer sender identities."},
-    {"t": 1243, "rule": "Reported propositions do not establish Critter's consent; retain his reluctance."},
-    {"t": 1461, "rule": "Paid-scene participation is not standing off-camera consent."},
-    {"t": 1651, "rule": "Do not publish or reconstruct Nikki's private messages."},
-    {"t": 1939, "rule": "Keep anonymous former guest and party attendees unlinked and unsearchable by clues."},
-    {"t": 2253, "rule": "Do not present incomplete immigration recollection as legal record."},
-    {"t": 2473, "rule": "Do not infer a bipolar diagnosis from a disputed self-label."},
-    {"t": 2583, "rule": "Honor David's refusal to disclose Naoki's criminal details."},
-    {"t": 2678, "rule": "Anonymous workers remain anonymous; suppress body, venue, timing and intermediary clues from snippets."},
-    {"t": 2733, "rule": "Do not present individual refusals as a universal Japanese policy."},
-    {"t": 2910, "rule": "Do not expose routes, room, venue or intermediaries."},
-    {"t": 3041, "rule": "Show the observer story as contested memory, not a resolved fact."},
-    {"t": 3273, "rule": "Worker absence prevents identity, consent and service claims from becoming narrator fact."},
-    {"t": 3434, "rule": "Gate explicit account with descriptors and exact source return; no isolated explicit snippets."},
-    {"t": 3553, "rule": "Payment does not authorize recording, identification or unspecified acts."},
-    {"t": 3733, "rule": "Do not render Nuru composition/safety claims as health guidance."},
-    {"t": 3912, "rule": "Do not convert slippery reenactment into instructions."},
-    {"t": 4026, "rule": "Keep unclear worker refusal language unresolved until audio review."},
-    {"t": 4109, "rule": "Do not infer consent to an extra act from payment or narrator framing."},
-    {"t": 4159, "rule": "Do not expose hotel room or stay logistics."},
-    {"t": 4251, "rule": "Do not convert risky group-sex discussion into recruitment or instructions."},
-    {"t": 4331, "rule": "Do not identify private women from occupation, phones, modeling, appearance or social graph."},
-    {"t": 4455, "rule": "Label worker terms and rankings as intermediary claims."},
-    {"t": 4820, "rule": "Narrator interpretation does not prove worker preference or relationship."},
-    {"t": 4942, "rule": "Never label an anonymous worker as using drugs or mentally ill based on behavior."},
-    {"t": 5040, "rule": "Do not present lay squirting/urine observation as medical fact."},
-    {"t": 5176, "rule": "Do not reproduce, link or make searchable the recorded worker voice/sexual chant without rights and consent review."},
-    {"t": 5304, "rule": "Continuing Facebook contact does not authorize identity discovery or future-use assumptions."},
-    {"t": 5394, "rule": "Anonymous performer remains undiagnosed and unlinked."},
-    {"t": 5462, "rule": "Keep married traveler and spouse anonymous; preserve his direct refusal."},
-    {"t": 5550, "rule": "Retain sobriety boundary without inferring a diagnosis or treatment history."},
-    {"t": 5654, "rule": "Preserve Kamui's non-native-English testimony verbatim; reader clarification must be optional and marked."},
-    {"t": 5983, "rule": "Guest correction overrides host's Formula One groupie assumption."},
-    {"t": 6511, "rule": "Val's refusal controls indexing of partners and sexual history."},
-    {"t": 6588, "rule": "Do not label relationship reconciled when participant explicitly declines that inference."},
-    {"t": 6763, "rule": "Never publish, enhance or OCR underwear/body screenshots without explicit reuse permission."},
-    {"t": 6778, "rule": "Scene assent is specific; preserve the repeated-request chronology and do not generalize."},
-    {"t": 7011, "rule": "Treat outro as Mangchi song with uncertain lyrics, not ordinary dialogue."}
+    {
+      "t": 0,
+      "rule": "Preserve all source ideas and language; corrections, context and access controls remain separate."
+    },
+    {
+      "t": 0,
+      "rule": "Withhold named line-level dialogue pending acoustic validation."
+    },
+    {
+      "t": 650,
+      "rule": "Treat marriage and sleeping arrangements as current-at-recording participant testimony."
+    },
+    {
+      "t": 972,
+      "rule": "Do not use old social handles to expose unrelated accounts or contact paths."
+    },
+    {
+      "t": 1108,
+      "rule": "Never normalize or identify minors through pornography comparisons."
+    },
+    {
+      "t": 1153,
+      "rule": "Never reproduce private direct messages or infer sender identities."
+    },
+    {
+      "t": 1243,
+      "rule": "Reported propositions do not establish Critter's consent; retain his reluctance."
+    },
+    {
+      "t": 1461,
+      "rule": "Paid-scene participation is not standing off-camera consent."
+    },
+    {
+      "t": 1651,
+      "rule": "Do not publish or reconstruct Nikki's private messages."
+    },
+    {
+      "t": 1939,
+      "rule": "Keep anonymous former guest and party attendees unlinked and unsearchable by clues."
+    },
+    {
+      "t": 2253,
+      "rule": "Do not present incomplete immigration recollection as legal record."
+    },
+    {
+      "t": 2473,
+      "rule": "Do not infer a bipolar diagnosis from a disputed self-label."
+    },
+    {
+      "t": 2583,
+      "rule": "Honor David's refusal to disclose Naoki's criminal details."
+    },
+    {
+      "t": 2678,
+      "rule": "Anonymous workers remain anonymous; suppress body, venue, timing and intermediary clues from snippets."
+    },
+    {
+      "t": 2733,
+      "rule": "Do not present individual refusals as a universal Japanese policy."
+    },
+    {
+      "t": 2910,
+      "rule": "Do not expose routes, room, venue or intermediaries."
+    },
+    {
+      "t": 3041,
+      "rule": "Show the observer story as contested memory, not a resolved fact."
+    },
+    {
+      "t": 3273,
+      "rule": "Worker absence prevents identity, consent and service claims from becoming narrator fact."
+    },
+    {
+      "t": 3434,
+      "rule": "Gate explicit account with descriptors and exact source return; no isolated explicit snippets."
+    },
+    {
+      "t": 3553,
+      "rule": "Payment does not authorize recording, identification or unspecified acts."
+    },
+    {
+      "t": 3733,
+      "rule": "Do not render Nuru composition/safety claims as health guidance."
+    },
+    {
+      "t": 3912,
+      "rule": "Do not convert slippery reenactment into instructions."
+    },
+    {
+      "t": 4026,
+      "rule": "Keep unclear worker refusal language unresolved until audio review."
+    },
+    {
+      "t": 4109,
+      "rule": "Do not infer consent to an extra act from payment or narrator framing."
+    },
+    {
+      "t": 4159,
+      "rule": "Do not expose hotel room or stay logistics."
+    },
+    {
+      "t": 4251,
+      "rule": "Do not convert risky group-sex discussion into recruitment or instructions."
+    },
+    {
+      "t": 4331,
+      "rule": "Do not identify private women from occupation, phones, modeling, appearance or social graph."
+    },
+    {
+      "t": 4455,
+      "rule": "Label worker terms and rankings as intermediary claims."
+    },
+    {
+      "t": 4820,
+      "rule": "Narrator interpretation does not prove worker preference or relationship."
+    },
+    {
+      "t": 4942,
+      "rule": "Never label an anonymous worker as using drugs or mentally ill based on behavior."
+    },
+    {
+      "t": 5040,
+      "rule": "Do not present lay squirting/urine observation as medical fact."
+    },
+    {
+      "t": 5176,
+      "rule": "Do not reproduce, link or make searchable the recorded worker voice/sexual chant without rights and consent review."
+    },
+    {
+      "t": 5304,
+      "rule": "Continuing Facebook contact does not authorize identity discovery or future-use assumptions."
+    },
+    {
+      "t": 5394,
+      "rule": "Anonymous performer remains undiagnosed and unlinked."
+    },
+    {
+      "t": 5462,
+      "rule": "Keep married traveler and spouse anonymous; preserve his direct refusal."
+    },
+    {
+      "t": 5550,
+      "rule": "Retain sobriety boundary without inferring a diagnosis or treatment history."
+    },
+    {
+      "t": 5654,
+      "rule": "Preserve Kamui's non-native-English testimony verbatim; reader clarification must be optional and marked."
+    },
+    {
+      "t": 5983,
+      "rule": "Guest correction overrides host's Formula One groupie assumption."
+    },
+    {
+      "t": 6511,
+      "rule": "Val's refusal controls indexing of partners and sexual history."
+    },
+    {
+      "t": 6588,
+      "rule": "Do not label relationship reconciled when participant explicitly declines that inference."
+    },
+    {
+      "t": 6763,
+      "rule": "Never publish, enhance or OCR underwear/body screenshots without explicit reuse permission."
+    },
+    {
+      "t": 6778,
+      "rule": "Scene assent is specific; preserve the repeated-request chronology and do not generalize."
+    },
+    {
+      "t": 7011,
+      "rule": "Treat outro as Mangchi song with uncertain lyrics, not ordinary dialogue."
+    }
   ],
   "source_notes": [
-    {"t": 1108, "claim": "Pornography explains sexual conduct among children and teacher/student cases.", "assessment": "The episode offers anecdotes, not causal evidence. Sexual activity involving children may constitute abuse and cannot be normalized as a pornography scenario.", "source": "https://www.cdc.gov/child-abuse-neglect/about/about-child-sexual-abuse.html"},
-    {"t": 1331, "claim": "Men are inherently predators and any man will have sex with any woman.", "assessment": "These are broad speaker generalizations, not evidence-based universal facts and never a substitute for individual consent.", "source": "https://www.cdc.gov/sexual-violence/about/index.html"},
-    {"t": 2473, "claim": "David is bipolar.", "assessment": "This is a self-label immediately disputed by another participant. The recording is not diagnostic evidence.", "source": "https://www.nimh.nih.gov/health/topics/bipolar-disorder"},
-    {"t": 3519, "claim": "Ass-to-mouth contact is only a pink-eye joke.", "assessment": "Fecal-oral and mucous-membrane exposure can transmit infection; hygiene and barrier practices matter.", "source": "https://www.cdc.gov/healthy-swimming/about/about-cryptosporidium.html"},
-    {"t": 3733, "claim": "Nuru gel is universally natural, good for the body and safe vaginally, anally and orally.", "assessment": "Composition varies by product. Follow label directions, check condom compatibility and allergies, and treat the extremely slippery surface as a fall hazard.", "source": "https://www.fda.gov/consumers/consumer-updates/avoid-injuries-intimate-care-products"},
-    {"t": 5911, "claim": "Teenagers are sent to armies because their brains are undeveloped and they believe they are indestructible.", "assessment": "Adolescent brain development continues into young adulthood, but the military explanation is an unsupported simplification.", "source": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"},
-    {"t": 5654, "claim": "Kamui's karting, Toyota and Formula One chronology.", "assessment": "The guest provides direct biography; exact dates and results should link to official FIA/Formula One records before publication as reference fact.", "source": "https://www.formula1.com/en/information/drivers-hall-of-fame-kamui-kobayashi.3NRLJYBjuaOgNHGe73RNB6"}
-  ]
+    {
+      "t": 1108,
+      "claim": "Pornography explains sexual conduct among children and teacher/student cases.",
+      "assessment": "The episode offers anecdotes, not causal evidence. Sexual activity involving children may constitute abuse and cannot be normalized as a pornography scenario.",
+      "source": "https://www.cdc.gov/child-abuse-neglect/about/about-child-sexual-abuse.html"
+    },
+    {
+      "t": 1331,
+      "claim": "Men are inherently predators and any man will have sex with any woman.",
+      "assessment": "These are broad speaker generalizations, not evidence-based universal facts and never a substitute for individual consent.",
+      "source": "https://www.cdc.gov/sexual-violence/about/index.html"
+    },
+    {
+      "t": 2473,
+      "claim": "David is bipolar.",
+      "assessment": "This is a self-label immediately disputed by another participant. The recording is not diagnostic evidence.",
+      "source": "https://www.nimh.nih.gov/health/topics/bipolar-disorder"
+    },
+    {
+      "t": 3519,
+      "claim": "Ass-to-mouth contact is only a pink-eye joke.",
+      "assessment": "Fecal-oral and mucous-membrane exposure can transmit infection; hygiene and barrier practices matter.",
+      "source": "https://www.cdc.gov/healthy-swimming/about/about-cryptosporidium.html"
+    },
+    {
+      "t": 3733,
+      "claim": "Nuru gel is universally natural, good for the body and safe vaginally, anally and orally.",
+      "assessment": "Composition varies by product. Follow label directions, check condom compatibility and allergies, and treat the extremely slippery surface as a fall hazard.",
+      "source": "https://www.fda.gov/consumers/consumer-updates/avoid-injuries-intimate-care-products"
+    },
+    {
+      "t": 5911,
+      "claim": "Teenagers are sent to armies because their brains are undeveloped and they believe they are indestructible.",
+      "assessment": "Adolescent brain development continues into young adulthood, but the military explanation is an unsupported simplification.",
+      "source": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+    },
+    {
+      "t": 5654,
+      "claim": "Kamui's karting, Toyota and Formula One chronology.",
+      "assessment": "The guest provides direct biography; exact dates and results should link to official FIA/Formula One records before publication as reference fact.",
+      "source": "https://www.formula1.com/en/information/drivers-hall-of-fame-kamui-kobayashi.3NRLJYBjuaOgNHGe73RNB6"
+    }
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [
+    "studio",
+    "Japan"
+  ],
+  "works": [
+    "Mangchi",
+    "Saga",
+    "NON"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "The first 2015 recording combines the show's most explicit internal product review with a long Japan/soapland account and a late Kamui Kobayashi interview.",
+  "description_source": "Opening of the human-reviewed summary."
 }

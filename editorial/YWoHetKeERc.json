@@ -117,5 +117,7 @@
       "t": 5,
       "rule": "retain raw token/fragment and require audiovisual or native-language review; do not infer meaning"
     }
-  ]
+  ],
+  "description": "A ten-second official-channel animation sketch whose two automatic-caption records contain eleven romanized-looking tokens that are not reliable English and cannot support a responsible translation.",
+  "description_source": "Opening of the human-reviewed summary."
 }

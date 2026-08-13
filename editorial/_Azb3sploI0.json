@@ -1,0 +1,58 @@
+{
+  "episode_id": "_Azb3sploI0",
+  "title": "MANGCHI - I love you",
+  "reviewed_on": "2026-08-13",
+  "description": "Mangchi’s I Love You compresses longing, hurt, hatred and forgiveness into a thirty-second song fragment that ends with enduring love and thanks.",
+  "summary": "Mangchi’s I Love You compresses longing, hurt, hatred and forgiveness into a thirty-second song fragment that ends with enduring love and thanks. Because the available transcript is sparse or corrupted, the archive deliberately limits the claim to title/provenance and recoverable words rather than inventing visual detail.",
+  "chapters": [
+    {
+      "t": 13,
+      "title": "Longing and hurt"
+    },
+    {
+      "t": 29,
+      "title": "Hatred turns toward forgiveness"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Steve Lee"
+  ],
+  "places": [],
+  "works": [
+    "Mangchi",
+    "I Love You"
+  ],
+  "themes": [
+    "love song",
+    "hurt",
+    "forgiveness"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [
+    "death wish in lyrics"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 2,
+    "duration_seconds": 29,
+    "chapters": 2,
+    "named_turns": 0,
+    "transcript_limited": true
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

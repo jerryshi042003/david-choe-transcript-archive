@@ -18,129 +18,514 @@
   "sensitivity": "Gambling disorder and relapse-adjacent wagering; private recovery groups and therapy; explicit sexual content; young-adult callback; private partners and dating images; HIV and bleach misinformation; suicide joke; body, race, religion and gender stereotypes; hot-yoga heat risk; spectator sexualization; childhood sexual-abuse callback; disability and racial slurs; animal cruelty; account credential sharing; workplace and audience boundaries.",
   "speaker_policy": "Named dialogue remains withheld. Episode 72 has zero diarized turns and five coarse window embeddings for a large ensemble. Public guests and cast are contextually known, but no independently held-out multispeaker validation has passed.",
   "source_notes": [
-    {"claim": "Gamblers Anonymous exists to support people with gambling problems; willpower alone is often insufficient and meetings are available in person, virtually and by phone", "source": "https://gamblersanonymous.org/", "use": "grounds the recovery framing without exposing any meeting or member"},
-    {"claim": "Mutual-support groups can reinforce recovery but are generally not clinician-led; some issues require trained professional care", "source": "https://alcoholtreatment.niaaa.nih.gov/support-through-the-process/long-term-recovery-support", "use": "corrects the claim that the podcast replaces therapy"},
-    {"claim": "People with HIV who receive treatment can live long healthy lives, but HIV remains lifelong and requires care", "source": "https://www.cdc.gov/hiv/living-with/index.html", "use": "corrects both fatalism and the claim that wealth makes infection inconsequential"},
-    {"claim": "Effective ART reduces illness and can prevent sexual transmission when viral suppression is maintained", "source": "https://www.cdc.gov/std/treatment-guidelines/hiv.htm", "use": "provides accurate context without treating HIV as harmless"},
-    {"claim": "Hot yoga can improve some functional measures but heat illness, dizziness, nausea and dehydration are documented risks; hydration and symptom recognition matter", "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12488547/", "use": "corrects the absolute pro- and anti-yoga claims"},
-    {"claim": "Hydration before and during hot yoga is associated with fewer dehydration-related outcomes", "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5433110/", "use": "supports leaving the room and hydrating rather than enduring symptoms for a class goal"},
-    {"claim": "Condoms reduce HIV and STI risk when used correctly and consistently", "source": "https://www.cdc.gov/condom-use/index.html", "use": "corrects condomless sex framed as acceptable gambling"},
-    {"claim": "Mutual-support groups differ, and people may need to try multiple groups or combine them with professional treatment", "source": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/recommend-evidence-based-treatment-know-options", "use": "prevents one frightening meeting from becoming a universal claim"}
+    {
+      "claim": "Gamblers Anonymous exists to support people with gambling problems; willpower alone is often insufficient and meetings are available in person, virtually and by phone",
+      "source": "https://gamblersanonymous.org/",
+      "use": "grounds the recovery framing without exposing any meeting or member"
+    },
+    {
+      "claim": "Mutual-support groups can reinforce recovery but are generally not clinician-led; some issues require trained professional care",
+      "source": "https://alcoholtreatment.niaaa.nih.gov/support-through-the-process/long-term-recovery-support",
+      "use": "corrects the claim that the podcast replaces therapy"
+    },
+    {
+      "claim": "People with HIV who receive treatment can live long healthy lives, but HIV remains lifelong and requires care",
+      "source": "https://www.cdc.gov/hiv/living-with/index.html",
+      "use": "corrects both fatalism and the claim that wealth makes infection inconsequential"
+    },
+    {
+      "claim": "Effective ART reduces illness and can prevent sexual transmission when viral suppression is maintained",
+      "source": "https://www.cdc.gov/std/treatment-guidelines/hiv.htm",
+      "use": "provides accurate context without treating HIV as harmless"
+    },
+    {
+      "claim": "Hot yoga can improve some functional measures but heat illness, dizziness, nausea and dehydration are documented risks; hydration and symptom recognition matter",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12488547/",
+      "use": "corrects the absolute pro- and anti-yoga claims"
+    },
+    {
+      "claim": "Hydration before and during hot yoga is associated with fewer dehydration-related outcomes",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5433110/",
+      "use": "supports leaving the room and hydrating rather than enduring symptoms for a class goal"
+    },
+    {
+      "claim": "Condoms reduce HIV and STI risk when used correctly and consistently",
+      "source": "https://www.cdc.gov/condom-use/index.html",
+      "use": "corrects condomless sex framed as acceptable gambling"
+    },
+    {
+      "claim": "Mutual-support groups differ, and people may need to try multiple groups or combine them with professional treatment",
+      "source": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/recommend-evidence-based-treatment-know-options",
+      "use": "prevents one frightening meeting from becoming a universal claim"
+    }
   ],
   "chapters": [
-    {"t": 0.0, "title": "Team building before the opening"},
-    {"t": 31.0, "title": "DVDASA begins"},
-    {"t": 39.0, "title": "Scientology speculation"},
-    {"t": 66.0, "title": "Critter Fleming introduced under an ASR error"},
-    {"t": 120.0, "title": "Fat Thor body banter"},
-    {"t": 182.0, "title": "David Choe and Asa arrive"},
-    {"t": 202.0, "title": "Valentin's birthday"},
-    {"t": 410.0, "title": "Freshman fifteen and body changes"},
-    {"t": 493.0, "title": "Private massage worker withheld"},
-    {"t": 518.0, "title": "Ordering what childhood lacked"},
-    {"t": 533.0, "title": "Parking tickets as wealth performance"},
-    {"t": 566.0, "title": "Private accountant and stereotypes"},
-    {"t": 643.0, "title": "Race does not determine body fat"},
-    {"t": 684.0, "title": "Data and Short Round comparisons"},
-    {"t": 773.0, "title": "Three-hour podcast fatigue"},
-    {"t": 813.0, "title": "Comedy Store invitation"},
-    {"t": 900.0, "title": "Yoshi and heckling"},
-    {"t": 1050.0, "title": "Return-guest callback minimized"},
-    {"t": 1200.0, "title": "Private Tinder matches withheld"},
-    {"t": 1500.0, "title": "Race and ejaculation claims"},
-    {"t": 1700.0, "title": "Abstinence folklore"},
-    {"t": 1742.0, "title": "A no-masturbation contest begins"},
-    {"t": 1748.0, "title": "Money stake proposed"},
-    {"t": 1800.0, "title": "A person in recovery reframes the wager"},
-    {"t": 1832.0, "title": "October 29 contest timestamp"},
-    {"t": 1919.0, "title": "No required semen release"},
-    {"t": 1990.0, "title": "Pillow compression is not anatomy"},
-    {"t": 2017.0, "title": "Hotel routines and private texts"},
-    {"t": 2065.0, "title": "Credential sharing withheld"},
-    {"t": 2160.0, "title": "We're the Millers"},
-    {"t": 2230.0, "title": "Travel crews and hotel isolation"},
-    {"t": 2300.0, "title": "AA meetings while traveling"},
-    {"t": 2314.0, "title": "Michelle Yeoh production"},
-    {"t": 2353.0, "title": "Podcasting does not replace therapy"},
-    {"t": 2368.0, "title": "The therapist removes the decision coin"},
-    {"t": 2383.0, "title": "Decision deference and the return guest"},
-    {"t": 2431.0, "title": "AA, NA and GA"},
-    {"t": 2450.0, "title": "Crimes projected onto anonymous members"},
-    {"t": 2493.0, "title": "The A means anonymous"},
-    {"t": 2520.0, "title": "Recovery meetings are not dating markets"},
-    {"t": 2597.0, "title": "Calling a wager a contest"},
-    {"t": 2606.0, "title": "No OCD diagnosis from coin flipping"},
-    {"t": 2628.0, "title": "The ranch story begins"},
-    {"t": 2671.0, "title": "Critter's stated ranch dream"},
-    {"t": 2724.0, "title": "Breaking Bad and the family alibi"},
-    {"t": 2774.0, "title": "Private commitment candidates withheld"},
-    {"t": 2836.0, "title": "A Hawaii ranch offered immediately"},
-    {"t": 2853.0, "title": "Call the former partner now"},
-    {"t": 2862.0, "title": "Two relationships placed inside the wager"},
-    {"t": 2909.0, "title": "Not every woman wants the fantasy"},
-    {"t": 2940.0, "title": "Critter did not ask to share the ranch"},
-    {"t": 2996.0, "title": "Everything from Vegas came back"},
-    {"t": 3000.0, "title": "Sweating and racing heart"},
-    {"t": 3150.0, "title": "Commitment imagined through a bet"},
-    {"t": 3197.0, "title": "Private real-estate professional withheld"},
-    {"t": 3222.0, "title": "Closest to gambling in two years"},
-    {"t": 3236.0, "title": "I did gamble"},
-    {"t": 3296.0, "title": "The Dark Knight Rises café fantasy"},
-    {"t": 3355.0, "title": "Workaholism as recovery structure"},
-    {"t": 3367.0, "title": "No casino does not mean no gambling"},
-    {"t": 3379.0, "title": "Condomless sex is not a substitute wager"},
-    {"t": 3398.0, "title": "Bleach is not an HIV cure"},
-    {"t": 3421.0, "title": "Wealth does not make HIV harmless"},
-    {"t": 3560.0, "title": "Lottery near-miss thinking"},
-    {"t": 3599.0, "title": "Fifty scratchers guarantee nothing"},
-    {"t": 3615.0, "title": "The ranch wager purchased a fantasy"},
-    {"t": 3713.0, "title": "Meeting at the 101 Coffee Shop"},
-    {"t": 3753.0, "title": "Bobby asks to join the podcast"},
-    {"t": 3813.0, "title": "Travel-security role"},
-    {"t": 3895.0, "title": "The hot-yoga argument"},
-    {"t": 3930.0, "title": "Exercise classmates are not sexual scenery"},
-    {"t": 4010.0, "title": "Hot-yoga benefits and heat risks"},
-    {"t": 4092.0, "title": "Yoga added to the abstinence wager"},
-    {"t": 4122.0, "title": "Do not endure heat-illness symptoms"},
-    {"t": 4225.0, "title": "Nocturnal-emission correction"},
-    {"t": 4290.0, "title": "Yoga in Grand Theft Auto V"},
-    {"t": 4355.0, "title": "Yoshi conflict"},
-    {"t": 4473.0, "title": "Korean names and nickname confusion"},
-    {"t": 4487.0, "title": "Eight years on MADtv"},
-    {"t": 4513.0, "title": "Parks and Recreation audition"},
-    {"t": 4577.0, "title": "YouTube extends MADtv's audience"},
-    {"t": 4590.0, "title": "Suicide joke and Hollywood rejection"},
-    {"t": 4624.0, "title": "Russell Simmons event plan withheld"},
-    {"t": 4660.0, "title": "Wicked and Elphaba"},
-    {"t": 4695.0, "title": "Private Broadway performer withheld"},
-    {"t": 4802.0, "title": "Yoga wardrobe and body details minimized"},
-    {"t": 4912.0, "title": "Disability and trauma callback"},
-    {"t": 4936.0, "title": "Audience members are not groupies by default"},
-    {"t": 4950.0, "title": "Bobby declines matchmaking"},
-    {"t": 4990.0, "title": "Truncated-show sign-off"},
-    {"t": 5032.0, "title": "Episode-era Comedy Store plan"}
+    {
+      "t": 0,
+      "title": "Team building before the opening"
+    },
+    {
+      "t": 31,
+      "title": "DVDASA begins"
+    },
+    {
+      "t": 39,
+      "title": "Scientology speculation"
+    },
+    {
+      "t": 66,
+      "title": "Critter Fleming introduced under an ASR error"
+    },
+    {
+      "t": 120,
+      "title": "Fat Thor body banter"
+    },
+    {
+      "t": 182,
+      "title": "David Choe and Asa arrive"
+    },
+    {
+      "t": 202,
+      "title": "Valentin's birthday"
+    },
+    {
+      "t": 410,
+      "title": "Freshman fifteen and body changes"
+    },
+    {
+      "t": 493,
+      "title": "Private massage worker withheld"
+    },
+    {
+      "t": 518,
+      "title": "Ordering what childhood lacked"
+    },
+    {
+      "t": 533,
+      "title": "Parking tickets as wealth performance"
+    },
+    {
+      "t": 566,
+      "title": "Private accountant and stereotypes"
+    },
+    {
+      "t": 643,
+      "title": "Race does not determine body fat"
+    },
+    {
+      "t": 684,
+      "title": "Data and Short Round comparisons"
+    },
+    {
+      "t": 773,
+      "title": "Three-hour podcast fatigue"
+    },
+    {
+      "t": 813,
+      "title": "Comedy Store invitation"
+    },
+    {
+      "t": 900,
+      "title": "Yoshi and heckling"
+    },
+    {
+      "t": 1050,
+      "title": "Return-guest callback minimized"
+    },
+    {
+      "t": 1200,
+      "title": "Private Tinder matches withheld"
+    },
+    {
+      "t": 1500,
+      "title": "Race and ejaculation claims"
+    },
+    {
+      "t": 1700,
+      "title": "Abstinence folklore"
+    },
+    {
+      "t": 1742,
+      "title": "A no-masturbation contest begins"
+    },
+    {
+      "t": 1748,
+      "title": "Money stake proposed"
+    },
+    {
+      "t": 1800,
+      "title": "A person in recovery reframes the wager"
+    },
+    {
+      "t": 1832,
+      "title": "October 29 contest timestamp"
+    },
+    {
+      "t": 1919,
+      "title": "No required semen release"
+    },
+    {
+      "t": 1990,
+      "title": "Pillow compression is not anatomy"
+    },
+    {
+      "t": 2017,
+      "title": "Hotel routines and private texts"
+    },
+    {
+      "t": 2065,
+      "title": "Credential sharing withheld"
+    },
+    {
+      "t": 2160,
+      "title": "We're the Millers"
+    },
+    {
+      "t": 2230,
+      "title": "Travel crews and hotel isolation"
+    },
+    {
+      "t": 2300,
+      "title": "AA meetings while traveling"
+    },
+    {
+      "t": 2314,
+      "title": "Michelle Yeoh production"
+    },
+    {
+      "t": 2353,
+      "title": "Podcasting does not replace therapy"
+    },
+    {
+      "t": 2368,
+      "title": "The therapist removes the decision coin"
+    },
+    {
+      "t": 2383,
+      "title": "Decision deference and the return guest"
+    },
+    {
+      "t": 2431,
+      "title": "AA, NA and GA"
+    },
+    {
+      "t": 2450,
+      "title": "Crimes projected onto anonymous members"
+    },
+    {
+      "t": 2493,
+      "title": "The A means anonymous"
+    },
+    {
+      "t": 2520,
+      "title": "Recovery meetings are not dating markets"
+    },
+    {
+      "t": 2597,
+      "title": "Calling a wager a contest"
+    },
+    {
+      "t": 2606,
+      "title": "No OCD diagnosis from coin flipping"
+    },
+    {
+      "t": 2628,
+      "title": "The ranch story begins"
+    },
+    {
+      "t": 2671,
+      "title": "Critter's stated ranch dream"
+    },
+    {
+      "t": 2724,
+      "title": "Breaking Bad and the family alibi"
+    },
+    {
+      "t": 2774,
+      "title": "Private commitment candidates withheld"
+    },
+    {
+      "t": 2836,
+      "title": "A Hawaii ranch offered immediately"
+    },
+    {
+      "t": 2853,
+      "title": "Call the former partner now"
+    },
+    {
+      "t": 2862,
+      "title": "Two relationships placed inside the wager"
+    },
+    {
+      "t": 2909,
+      "title": "Not every woman wants the fantasy"
+    },
+    {
+      "t": 2940,
+      "title": "Critter did not ask to share the ranch"
+    },
+    {
+      "t": 2996,
+      "title": "Everything from Vegas came back"
+    },
+    {
+      "t": 3000,
+      "title": "Sweating and racing heart"
+    },
+    {
+      "t": 3150,
+      "title": "Commitment imagined through a bet"
+    },
+    {
+      "t": 3197,
+      "title": "Private real-estate professional withheld"
+    },
+    {
+      "t": 3222,
+      "title": "Closest to gambling in two years"
+    },
+    {
+      "t": 3236,
+      "title": "I did gamble"
+    },
+    {
+      "t": 3296,
+      "title": "The Dark Knight Rises café fantasy"
+    },
+    {
+      "t": 3355,
+      "title": "Workaholism as recovery structure"
+    },
+    {
+      "t": 3367,
+      "title": "No casino does not mean no gambling"
+    },
+    {
+      "t": 3379,
+      "title": "Condomless sex is not a substitute wager"
+    },
+    {
+      "t": 3398,
+      "title": "Bleach is not an HIV cure"
+    },
+    {
+      "t": 3421,
+      "title": "Wealth does not make HIV harmless"
+    },
+    {
+      "t": 3560,
+      "title": "Lottery near-miss thinking"
+    },
+    {
+      "t": 3599,
+      "title": "Fifty scratchers guarantee nothing"
+    },
+    {
+      "t": 3615,
+      "title": "The ranch wager purchased a fantasy"
+    },
+    {
+      "t": 3713,
+      "title": "Meeting at the 101 Coffee Shop"
+    },
+    {
+      "t": 3753,
+      "title": "Bobby asks to join the podcast"
+    },
+    {
+      "t": 3813,
+      "title": "Travel-security role"
+    },
+    {
+      "t": 3895,
+      "title": "The hot-yoga argument"
+    },
+    {
+      "t": 3930,
+      "title": "Exercise classmates are not sexual scenery"
+    },
+    {
+      "t": 4010,
+      "title": "Hot-yoga benefits and heat risks"
+    },
+    {
+      "t": 4092,
+      "title": "Yoga added to the abstinence wager"
+    },
+    {
+      "t": 4122,
+      "title": "Do not endure heat-illness symptoms"
+    },
+    {
+      "t": 4225,
+      "title": "Nocturnal-emission correction"
+    },
+    {
+      "t": 4290,
+      "title": "Yoga in Grand Theft Auto V"
+    },
+    {
+      "t": 4355,
+      "title": "Yoshi conflict"
+    },
+    {
+      "t": 4473,
+      "title": "Korean names and nickname confusion"
+    },
+    {
+      "t": 4487,
+      "title": "Eight years on MADtv"
+    },
+    {
+      "t": 4513,
+      "title": "Parks and Recreation audition"
+    },
+    {
+      "t": 4577,
+      "title": "YouTube extends MADtv's audience"
+    },
+    {
+      "t": 4590,
+      "title": "Suicide joke and Hollywood rejection"
+    },
+    {
+      "t": 4624,
+      "title": "Russell Simmons event plan withheld"
+    },
+    {
+      "t": 4660,
+      "title": "Wicked and Elphaba"
+    },
+    {
+      "t": 4695,
+      "title": "Private Broadway performer withheld"
+    },
+    {
+      "t": 4802,
+      "title": "Yoga wardrobe and body details minimized"
+    },
+    {
+      "t": 4912,
+      "title": "Disability and trauma callback"
+    },
+    {
+      "t": 4936,
+      "title": "Audience members are not groupies by default"
+    },
+    {
+      "t": 4950,
+      "title": "Bobby declines matchmaking"
+    },
+    {
+      "t": 4990,
+      "title": "Truncated-show sign-off"
+    },
+    {
+      "t": 5032,
+      "title": "Episode-era Comedy Store plan"
+    }
   ],
   "connections": [
-    {"from": 1742, "to": "gambling-recovery ledger", "relationship": "A masturbation contest begins with a cash stake despite the host's stated no-gambling rule"},
-    {"from": 1800, "to": "semantic-reframing ledger", "relationship": "The group renames the wager as pride, dinner and a contest without resolving its triggering structure"},
-    {"from": 2353, "to": "mental-health support ledger", "relationship": "The host says the podcast replaced therapy, requiring a peer-support versus clinical-care distinction"},
-    {"from": 2368, "to": "decision-making timeline", "relationship": "A therapist stopped the host's coin-flip system because chance had taken over major life choices"},
-    {"from": 2431, "to": "recovery timeline", "relationship": "The host reports hundreds of AA and NA meetings and later GA attendance"},
-    {"from": 2493, "to": "privacy ledger", "relationship": "The cast explicitly recognizes that the A means anonymous"},
-    {"from": 2628, "to": "Ranch source continuity", "relationship": "The ranch idea becomes a high-stakes relationship and property wager rather than the later filmed ranch journey"},
-    {"from": 2724, "to": "Episode 68 Breaking Bad correction", "relationship": "The host again uses Walter White's family justification to question his own future-facing alibis"},
-    {"from": 2853, "to": "relationship-agency ledger", "relationship": "Two absent women are placed inside an immediate wager without their participation"},
-    {"from": 2996, "to": "gambling-trigger ledger", "relationship": "The host says Vegas returned, with sweating and a racing heart"},
-    {"from": 3222, "to": "recovery timeline", "relationship": "He calls the ranch offer the closest he had come to gambling in two years"},
-    {"from": 3236, "to": "self-correction ledger", "relationship": "The host ultimately states that he did gamble"},
-    {"from": 3355, "to": "workaholism ledger", "relationship": "Constant work is described as protection from gambling while also preventing sustainable recovery balance"},
-    {"from": 3379, "to": "sexual-health misinformation ledger", "relationship": "Condomless sex is framed as the remaining form of gambling"},
-    {"from": 3398, "to": "dangerous-medical-misinformation ledger", "relationship": "A bleach joke is formatted as an AIDS cure and requires an explicit poison warning"},
-    {"from": 3713, "to": "David Choe–Bobby Lee relationship timeline", "relationship": "Bobby describes meeting Choe at the 101 Coffee Shop and asking to join the podcast"},
-    {"from": 3930, "to": "spectator-consent ledger", "relationship": "Women exercising nearby are repeatedly described as a sexual benefit of class attendance"},
-    {"from": 4487, "to": "Bobby Lee career timeline", "relationship": "He discusses eight years on MADtv and its lower status beside Saturday Night Live"},
-    {"from": 4513, "to": "Parks and Recreation connection", "relationship": "He says he auditioned for the role later played by Aziz Ansari"},
-    {"from": 4577, "to": "YouTube source strategy", "relationship": "Bobby directly credits YouTube clips with extending MADtv recognition to younger viewers"}
+    {
+      "from": 1742,
+      "to": "gambling-recovery ledger",
+      "relationship": "A masturbation contest begins with a cash stake despite the host's stated no-gambling rule"
+    },
+    {
+      "from": 1800,
+      "to": "semantic-reframing ledger",
+      "relationship": "The group renames the wager as pride, dinner and a contest without resolving its triggering structure"
+    },
+    {
+      "from": 2353,
+      "to": "mental-health support ledger",
+      "relationship": "The host says the podcast replaced therapy, requiring a peer-support versus clinical-care distinction"
+    },
+    {
+      "from": 2368,
+      "to": "decision-making timeline",
+      "relationship": "A therapist stopped the host's coin-flip system because chance had taken over major life choices"
+    },
+    {
+      "from": 2431,
+      "to": "recovery timeline",
+      "relationship": "The host reports hundreds of AA and NA meetings and later GA attendance"
+    },
+    {
+      "from": 2493,
+      "to": "privacy ledger",
+      "relationship": "The cast explicitly recognizes that the A means anonymous"
+    },
+    {
+      "from": 2628,
+      "to": "Ranch source continuity",
+      "relationship": "The ranch idea becomes a high-stakes relationship and property wager rather than the later filmed ranch journey"
+    },
+    {
+      "from": 2724,
+      "to": "Episode 68 Breaking Bad correction",
+      "relationship": "The host again uses Walter White's family justification to question his own future-facing alibis"
+    },
+    {
+      "from": 2853,
+      "to": "relationship-agency ledger",
+      "relationship": "Two absent women are placed inside an immediate wager without their participation"
+    },
+    {
+      "from": 2996,
+      "to": "gambling-trigger ledger",
+      "relationship": "The host says Vegas returned, with sweating and a racing heart"
+    },
+    {
+      "from": 3222,
+      "to": "recovery timeline",
+      "relationship": "He calls the ranch offer the closest he had come to gambling in two years"
+    },
+    {
+      "from": 3236,
+      "to": "self-correction ledger",
+      "relationship": "The host ultimately states that he did gamble"
+    },
+    {
+      "from": 3355,
+      "to": "workaholism ledger",
+      "relationship": "Constant work is described as protection from gambling while also preventing sustainable recovery balance"
+    },
+    {
+      "from": 3379,
+      "to": "sexual-health misinformation ledger",
+      "relationship": "Condomless sex is framed as the remaining form of gambling"
+    },
+    {
+      "from": 3398,
+      "to": "dangerous-medical-misinformation ledger",
+      "relationship": "A bleach joke is formatted as an AIDS cure and requires an explicit poison warning"
+    },
+    {
+      "from": 3713,
+      "to": "David Choe–Bobby Lee relationship timeline",
+      "relationship": "Bobby describes meeting Choe at the 101 Coffee Shop and asking to join the podcast"
+    },
+    {
+      "from": 3930,
+      "to": "spectator-consent ledger",
+      "relationship": "Women exercising nearby are repeatedly described as a sexual benefit of class attendance"
+    },
+    {
+      "from": 4487,
+      "to": "Bobby Lee career timeline",
+      "relationship": "He discusses eight years on MADtv and its lower status beside Saturday Night Live"
+    },
+    {
+      "from": 4513,
+      "to": "Parks and Recreation connection",
+      "relationship": "He says he auditioned for the role later played by Aziz Ansari"
+    },
+    {
+      "from": 4577,
+      "to": "YouTube source strategy",
+      "relationship": "Bobby directly credits YouTube clips with extending MADtv recognition to younger viewers"
+    }
   ],
   "content_warnings": [
     "gambling disorder and relapse-adjacent wagering",
@@ -161,5 +546,23 @@
     "workplace and audience boundaries",
     "lottery and scratch-ticket cognition",
     "private travel, financial and professional details"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Critter"
+  ],
+  "places": [
+    "Hawaii"
+  ],
+  "works": [
+    "Breaking Bad",
+    "Heat"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A shorter birthday episode becomes a useful recovery document.",
+  "description_source": "Opening of the human-reviewed summary."
 }

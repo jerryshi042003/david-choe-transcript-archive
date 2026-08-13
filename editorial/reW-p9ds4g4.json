@@ -1,222 +1,990 @@
 {
-  "episode_id":"reW-p9ds4g4",
-  "title":"Steve-O's Wild Ride! #80 — David Choe",
-  "reviewed_on":"2026-07-31",
-  "summary":"Steve-O, David Choe and the Wild Ride crew move from prison, bowel anxiety and Korean identity into recovery, shame, wealth, medical shortcuts, service work and the difficulty of saying no. Three sponsor blocks are structurally separate. Choe and Steve-O describe Japanese custody, drug conditioning, BioXcellerator treatment in Colombia, propofol, pain and John Sarno, but repeatedly mix first-person testimony with unsupported medical and political generalizations. Choe rejects a proposed biohacking package, challenges the richest-artist headline, explains how visible recklessness hides years of practice, and recounts anonymous equine-ranch labor and portraits for women he characterizes as trafficking/abuse survivors. The latter becomes a self-indictment about paid sex and turning addiction into content, not a rescue story. The second half connects The Choe Show, pulled episodes and guest refusal with shame, teenage self-harm/graffiti rituals, wealth anxiety and an unmade survival-reality proposal that Choe ultimately declines. The close separates Choe's projection that Steve-O likes being hated from Steve-O's direct disagreement, then returns to fighting, legacy and DVDASA runtimes. Every idea remains; private women, children, recovery participants, residences, treatment claims, rapid weight loss, self-harm and dangerous conduct are controlled through narrow contextual restrictions rather than deletion. Zero publisher speaker prefixes exist, so named line-level turns remain withheld.",
-  "quality":{"raw_segments":2653,"clean_segments":2651,"raw_words_approx":17341,"clean_words_approx":17331,"duration_seconds":5443.0,"accepted_context_decisions":304,"chapters":125,"connections":22,"content_warnings":22,"identity_windows":0,"named_turns":0,"publisher_labeled_speakers":0,"cleaning_edits":2,"cleaning_net_word_delta":-10,"public_restriction_spans":44},
-  "chapters":[
-    {"t":3,"title":"cold open and richest-painter claim"},
-    {"t":42,"title":"Athletic Greens advertisement"},
-    {"t":151,"title":"sponsor block ends"},
-    {"t":174,"title":"David Choe introduction"},
-    {"t":181,"title":"Wild Ride crew introductions"},
-    {"t":187,"title":"private RV filming location"},
-    {"t":255,"title":"dairy, ancestry and bowel frequency"},
-    {"t":335,"title":"IBS and trauma self-theory"},
-    {"t":376,"title":"Rich Roll and podcast stress"},
-    {"t":390,"title":"competition and compulsive behavior"},
-    {"t":421,"title":"cocaine anticipation and bodily response"},
-    {"t":496,"title":"Korean-name jokes"},
-    {"t":536,"title":"North and South Korea"},
-    {"t":609,"title":"communism and genetic essentialism"},
-    {"t":657,"title":"communism versus dictatorship"},
-    {"t":711,"title":"prison-equality analogy"},
-    {"t":720,"title":"Steve-O's custody jurisdictions"},
-    {"t":738,"title":"Liquid Death advertisement"},
-    {"t":843,"title":"Japanese custody resumes"},
-    {"t":902,"title":"reported sentence and early release"},
-    {"t":920,"title":"nattō and prison food"},
-    {"t":963,"title":"one-thousand-push-up claim"},
-    {"t":1011,"title":"Rich Roll and changing personas"},
-    {"t":1073,"title":"fitness shame and recovery comparison"},
-    {"t":1121,"title":"Jeff Bezos chef story"},
-    {"t":1152,"title":"Beverly Hills biohacking consult"},
-    {"t":1177,"title":"BioXcellerator in Colombia"},
-    {"t":1191,"title":"regulation and Big Pharma speculation"},
-    {"t":1234,"title":"free treatment for social posts"},
-    {"t":1275,"title":"treatment giveaway and travel"},
-    {"t":1323,"title":"degenerative-disc treatment rationale"},
-    {"t":1346,"title":"spinal, IV and facial injections"},
-    {"t":1384,"title":"stress and self-loathing claims"},
-    {"t":1427,"title":"spine surgeon and moving-pain claim"},
-    {"t":1473,"title":"The Choe Show and anesthetic stunt"},
-    {"t":1506,"title":"propofol and ketamine abuse claims"},
-    {"t":1553,"title":"animals and trauma theory"},
-    {"t":1627,"title":"John Sarno and Healing Back Pain"},
-    {"t":1693,"title":"selective reading admitted"},
-    {"t":1727,"title":"talking to pain and rapid relief"},
-    {"t":1770,"title":"difficulty saying no"},
-    {"t":1806,"title":"medical shortcut feels addictive"},
-    {"t":1851,"title":"biohacking package declined"},
-    {"t":1911,"title":"wealthiest-painter question"},
-    {"t":1929,"title":"ShipStation advertisement"},
-    {"t":2073,"title":"money discussion resumes"},
-    {"t":2137,"title":"travel and art before wealth"},
-    {"t":2147,"title":"theft and shoplifting admissions"},
-    {"t":2165,"title":"cars, minimalism and service"},
-    {"t":2184,"title":"richest-artist headline rejected"},
-    {"t":2190,"title":"Zuckerberg, Parker and Facebook"},
-    {"t":2199,"title":"team-operated social presence"},
-    {"t":2227,"title":"life as gambling metaphor"},
-    {"t":2268,"title":"danger of copying Choe's advice"},
-    {"t":2293,"title":"hidden years of practice"},
-    {"t":2328,"title":"The Social Network challenged"},
-    {"t":2408,"title":"Khabib, McGregor and money"},
-    {"t":2519,"title":"Spider-Man responsibility metaphor"},
-    {"t":2547,"title":"service work beyond writing checks"},
-    {"t":2568,"title":"equine-therapy interpretation"},
-    {"t":2621,"title":"anonymous Arizona ranch labor"},
-    {"t":2677,"title":"volunteering as Johnny"},
-    {"t":2721,"title":"portrait event for abuse survivors"},
-    {"t":2771,"title":"paid-sex history and shame"},
-    {"t":2806,"title":"first private participant portrait"},
-    {"t":2855,"title":"extended portrait line"},
-    {"t":2916,"title":"stopping art sales and free access claim"},
-    {"t":2947,"title":"broken and healed"},
-    {"t":2971,"title":"process-addiction self-definition"},
-    {"t":3007,"title":"Steve-O's pornography skydiving stunt"},
-    {"t":3033,"title":"the for-work loophole"},
-    {"t":3073,"title":"addiction turned into future content"},
-    {"t":3110,"title":"paid sex and ignored exploitation"},
-    {"t":3154,"title":"private women's-shelter amends"},
-    {"t":3202,"title":"food and work remain"},
-    {"t":3261,"title":"Rich Roll and fitness change"},
-    {"t":3290,"title":"unidentified reality-show motivation"},
-    {"t":3321,"title":"shame as addiction"},
-    {"t":3434,"title":"trauma and codependence theory"},
-    {"t":3466,"title":"million-dollar win and loss example"},
-    {"t":3499,"title":"The Choe Show reception"},
-    {"t":3524,"title":"unnamed celebrity callers"},
-    {"t":3605,"title":"private monitored minor"},
-    {"t":3648,"title":"network feedback and missing promotion"},
-    {"t":3672,"title":"episodes pulled at guest request"},
-    {"t":3739,"title":"billionaire sickness generalization"},
-    {"t":3802,"title":"Korn, shame and adolescent music"},
-    {"t":3855,"title":"unsupported universal trauma claim"},
-    {"t":3874,"title":"Pump Up the Volume and first cock ring"},
-    {"t":3897,"title":"juvenile arrest and work service"},
-    {"t":4015,"title":"father's only sex talk"},
-    {"t":4052,"title":"teenage graffiti ritual"},
-    {"t":4070,"title":"self-punching and shame escalation"},
-    {"t":4120,"title":"David Choe tag and whale"},
-    {"t":4177,"title":"poor man's next meal aphorism"},
-    {"t":4221,"title":"FX, editing and institutional rules"},
-    {"t":4293,"title":"therapist challenges service shame"},
-    {"t":4348,"title":"survival-reality proposal"},
-    {"t":4374,"title":"late replacement and competitive offer"},
-    {"t":4416,"title":"reported charity component"},
-    {"t":4452,"title":"Conor McGregor fight"},
-    {"t":4477,"title":"Sia and celebrity seating"},
-    {"t":4505,"title":"Mel Gibson encounters"},
-    {"t":4534,"title":"middle-finger video and regret"},
-    {"t":4616,"title":"violent fight enjoyment"},
-    {"t":4652,"title":"hypothetical Bieber fight"},
-    {"t":4679,"title":"Donald Trump gesture"},
-    {"t":4710,"title":"Nelk Boys and generational celebrity"},
-    {"t":4727,"title":"legacy discussion"},
-    {"t":4784,"title":"reductive reality-cast plan"},
-    {"t":4818,"title":"planned cast manipulation"},
-    {"t":4842,"title":"recovery group and therapist object"},
-    {"t":4875,"title":"rapid weight loss and four-hour workouts"},
-    {"t":4896,"title":"reality show declined"},
-    {"t":5016,"title":"another removed episode"},
-    {"t":5038,"title":"Steve-O rejects Choe's projection"},
-    {"t":5087,"title":"audience praise versus non-promotion"},
-    {"t":5174,"title":"private dinner at Sia's home"},
-    {"t":5224,"title":"Neale Donald Walsch and UFC"},
-    {"t":5270,"title":"DVDASA runtime comparison"},
-    {"t":5314,"title":"host confirms unusually long episode"},
-    {"t":5342,"title":"extended Steve-O impression"},
-    {"t":5394,"title":"formal thanks"},
-    {"t":5398,"title":"post-interview wrap"},
-    {"t":5424,"title":"closing music"}
+  "episode_id": "reW-p9ds4g4",
+  "title": "Steve-O's Wild Ride! #80 — David Choe",
+  "reviewed_on": "2026-07-31",
+  "summary": "Steve-O, David Choe and the Wild Ride crew move from prison, bowel anxiety and Korean identity into recovery, shame, wealth, medical shortcuts, service work and the difficulty of saying no. Three sponsor blocks are structurally separate. Choe and Steve-O describe Japanese custody, drug conditioning, BioXcellerator treatment in Colombia, propofol, pain and John Sarno, but repeatedly mix first-person testimony with unsupported medical and political generalizations. Choe rejects a proposed biohacking package, challenges the richest-artist headline, explains how visible recklessness hides years of practice, and recounts anonymous equine-ranch labor and portraits for women he characterizes as trafficking/abuse survivors. The latter becomes a self-indictment about paid sex and turning addiction into content, not a rescue story. The second half connects The Choe Show, pulled episodes and guest refusal with shame, teenage self-harm/graffiti rituals, wealth anxiety and an unmade survival-reality proposal that Choe ultimately declines. The close separates Choe's projection that Steve-O likes being hated from Steve-O's direct disagreement, then returns to fighting, legacy and DVDASA runtimes. Every idea remains; private women, children, recovery participants, residences, treatment claims, rapid weight loss, self-harm and dangerous conduct are controlled through narrow contextual restrictions rather than deletion. Zero publisher speaker prefixes exist, so named line-level turns remain withheld.",
+  "quality": {
+    "raw_segments": 2653,
+    "clean_segments": 2651,
+    "raw_words_approx": 17341,
+    "clean_words_approx": 17331,
+    "duration_seconds": 5443,
+    "accepted_context_decisions": 304,
+    "chapters": 125,
+    "connections": 22,
+    "content_warnings": 22,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 2,
+    "cleaning_net_word_delta": -10,
+    "public_restriction_spans": 44
+  },
+  "chapters": [
+    {
+      "t": 3,
+      "title": "cold open and richest-painter claim"
+    },
+    {
+      "t": 42,
+      "title": "Athletic Greens advertisement"
+    },
+    {
+      "t": 151,
+      "title": "sponsor block ends"
+    },
+    {
+      "t": 174,
+      "title": "David Choe introduction"
+    },
+    {
+      "t": 181,
+      "title": "Wild Ride crew introductions"
+    },
+    {
+      "t": 187,
+      "title": "private RV filming location"
+    },
+    {
+      "t": 255,
+      "title": "dairy, ancestry and bowel frequency"
+    },
+    {
+      "t": 335,
+      "title": "IBS and trauma self-theory"
+    },
+    {
+      "t": 376,
+      "title": "Rich Roll and podcast stress"
+    },
+    {
+      "t": 390,
+      "title": "competition and compulsive behavior"
+    },
+    {
+      "t": 421,
+      "title": "cocaine anticipation and bodily response"
+    },
+    {
+      "t": 496,
+      "title": "Korean-name jokes"
+    },
+    {
+      "t": 536,
+      "title": "North and South Korea"
+    },
+    {
+      "t": 609,
+      "title": "communism and genetic essentialism"
+    },
+    {
+      "t": 657,
+      "title": "communism versus dictatorship"
+    },
+    {
+      "t": 711,
+      "title": "prison-equality analogy"
+    },
+    {
+      "t": 720,
+      "title": "Steve-O's custody jurisdictions"
+    },
+    {
+      "t": 738,
+      "title": "Liquid Death advertisement"
+    },
+    {
+      "t": 843,
+      "title": "Japanese custody resumes"
+    },
+    {
+      "t": 902,
+      "title": "reported sentence and early release"
+    },
+    {
+      "t": 920,
+      "title": "nattō and prison food"
+    },
+    {
+      "t": 963,
+      "title": "one-thousand-push-up claim"
+    },
+    {
+      "t": 1011,
+      "title": "Rich Roll and changing personas"
+    },
+    {
+      "t": 1073,
+      "title": "fitness shame and recovery comparison"
+    },
+    {
+      "t": 1121,
+      "title": "Jeff Bezos chef story"
+    },
+    {
+      "t": 1152,
+      "title": "Beverly Hills biohacking consult"
+    },
+    {
+      "t": 1177,
+      "title": "BioXcellerator in Colombia"
+    },
+    {
+      "t": 1191,
+      "title": "regulation and Big Pharma speculation"
+    },
+    {
+      "t": 1234,
+      "title": "free treatment for social posts"
+    },
+    {
+      "t": 1275,
+      "title": "treatment giveaway and travel"
+    },
+    {
+      "t": 1323,
+      "title": "degenerative-disc treatment rationale"
+    },
+    {
+      "t": 1346,
+      "title": "spinal, IV and facial injections"
+    },
+    {
+      "t": 1384,
+      "title": "stress and self-loathing claims"
+    },
+    {
+      "t": 1427,
+      "title": "spine surgeon and moving-pain claim"
+    },
+    {
+      "t": 1473,
+      "title": "The Choe Show and anesthetic stunt"
+    },
+    {
+      "t": 1506,
+      "title": "propofol and ketamine abuse claims"
+    },
+    {
+      "t": 1553,
+      "title": "animals and trauma theory"
+    },
+    {
+      "t": 1627,
+      "title": "John Sarno and Healing Back Pain"
+    },
+    {
+      "t": 1693,
+      "title": "selective reading admitted"
+    },
+    {
+      "t": 1727,
+      "title": "talking to pain and rapid relief"
+    },
+    {
+      "t": 1770,
+      "title": "difficulty saying no"
+    },
+    {
+      "t": 1806,
+      "title": "medical shortcut feels addictive"
+    },
+    {
+      "t": 1851,
+      "title": "biohacking package declined"
+    },
+    {
+      "t": 1911,
+      "title": "wealthiest-painter question"
+    },
+    {
+      "t": 1929,
+      "title": "ShipStation advertisement"
+    },
+    {
+      "t": 2073,
+      "title": "money discussion resumes"
+    },
+    {
+      "t": 2137,
+      "title": "travel and art before wealth"
+    },
+    {
+      "t": 2147,
+      "title": "theft and shoplifting admissions"
+    },
+    {
+      "t": 2165,
+      "title": "cars, minimalism and service"
+    },
+    {
+      "t": 2184,
+      "title": "richest-artist headline rejected"
+    },
+    {
+      "t": 2190,
+      "title": "Zuckerberg, Parker and Facebook"
+    },
+    {
+      "t": 2199,
+      "title": "team-operated social presence"
+    },
+    {
+      "t": 2227,
+      "title": "life as gambling metaphor"
+    },
+    {
+      "t": 2268,
+      "title": "danger of copying Choe's advice"
+    },
+    {
+      "t": 2293,
+      "title": "hidden years of practice"
+    },
+    {
+      "t": 2328,
+      "title": "The Social Network challenged"
+    },
+    {
+      "t": 2408,
+      "title": "Khabib, McGregor and money"
+    },
+    {
+      "t": 2519,
+      "title": "Spider-Man responsibility metaphor"
+    },
+    {
+      "t": 2547,
+      "title": "service work beyond writing checks"
+    },
+    {
+      "t": 2568,
+      "title": "equine-therapy interpretation"
+    },
+    {
+      "t": 2621,
+      "title": "anonymous Arizona ranch labor"
+    },
+    {
+      "t": 2677,
+      "title": "volunteering as Johnny"
+    },
+    {
+      "t": 2721,
+      "title": "portrait event for abuse survivors"
+    },
+    {
+      "t": 2771,
+      "title": "paid-sex history and shame"
+    },
+    {
+      "t": 2806,
+      "title": "first private participant portrait"
+    },
+    {
+      "t": 2855,
+      "title": "extended portrait line"
+    },
+    {
+      "t": 2916,
+      "title": "stopping art sales and free access claim"
+    },
+    {
+      "t": 2947,
+      "title": "broken and healed"
+    },
+    {
+      "t": 2971,
+      "title": "process-addiction self-definition"
+    },
+    {
+      "t": 3007,
+      "title": "Steve-O's pornography skydiving stunt"
+    },
+    {
+      "t": 3033,
+      "title": "the for-work loophole"
+    },
+    {
+      "t": 3073,
+      "title": "addiction turned into future content"
+    },
+    {
+      "t": 3110,
+      "title": "paid sex and ignored exploitation"
+    },
+    {
+      "t": 3154,
+      "title": "private women's-shelter amends"
+    },
+    {
+      "t": 3202,
+      "title": "food and work remain"
+    },
+    {
+      "t": 3261,
+      "title": "Rich Roll and fitness change"
+    },
+    {
+      "t": 3290,
+      "title": "unidentified reality-show motivation"
+    },
+    {
+      "t": 3321,
+      "title": "shame as addiction"
+    },
+    {
+      "t": 3434,
+      "title": "trauma and codependence theory"
+    },
+    {
+      "t": 3466,
+      "title": "million-dollar win and loss example"
+    },
+    {
+      "t": 3499,
+      "title": "The Choe Show reception"
+    },
+    {
+      "t": 3524,
+      "title": "unnamed celebrity callers"
+    },
+    {
+      "t": 3605,
+      "title": "private monitored minor"
+    },
+    {
+      "t": 3648,
+      "title": "network feedback and missing promotion"
+    },
+    {
+      "t": 3672,
+      "title": "episodes pulled at guest request"
+    },
+    {
+      "t": 3739,
+      "title": "billionaire sickness generalization"
+    },
+    {
+      "t": 3802,
+      "title": "Korn, shame and adolescent music"
+    },
+    {
+      "t": 3855,
+      "title": "unsupported universal trauma claim"
+    },
+    {
+      "t": 3874,
+      "title": "Pump Up the Volume and first cock ring"
+    },
+    {
+      "t": 3897,
+      "title": "juvenile arrest and work service"
+    },
+    {
+      "t": 4015,
+      "title": "father's only sex talk"
+    },
+    {
+      "t": 4052,
+      "title": "teenage graffiti ritual"
+    },
+    {
+      "t": 4070,
+      "title": "self-punching and shame escalation"
+    },
+    {
+      "t": 4120,
+      "title": "David Choe tag and whale"
+    },
+    {
+      "t": 4177,
+      "title": "poor man's next meal aphorism"
+    },
+    {
+      "t": 4221,
+      "title": "FX, editing and institutional rules"
+    },
+    {
+      "t": 4293,
+      "title": "therapist challenges service shame"
+    },
+    {
+      "t": 4348,
+      "title": "survival-reality proposal"
+    },
+    {
+      "t": 4374,
+      "title": "late replacement and competitive offer"
+    },
+    {
+      "t": 4416,
+      "title": "reported charity component"
+    },
+    {
+      "t": 4452,
+      "title": "Conor McGregor fight"
+    },
+    {
+      "t": 4477,
+      "title": "Sia and celebrity seating"
+    },
+    {
+      "t": 4505,
+      "title": "Mel Gibson encounters"
+    },
+    {
+      "t": 4534,
+      "title": "middle-finger video and regret"
+    },
+    {
+      "t": 4616,
+      "title": "violent fight enjoyment"
+    },
+    {
+      "t": 4652,
+      "title": "hypothetical Bieber fight"
+    },
+    {
+      "t": 4679,
+      "title": "Donald Trump gesture"
+    },
+    {
+      "t": 4710,
+      "title": "Nelk Boys and generational celebrity"
+    },
+    {
+      "t": 4727,
+      "title": "legacy discussion"
+    },
+    {
+      "t": 4784,
+      "title": "reductive reality-cast plan"
+    },
+    {
+      "t": 4818,
+      "title": "planned cast manipulation"
+    },
+    {
+      "t": 4842,
+      "title": "recovery group and therapist object"
+    },
+    {
+      "t": 4875,
+      "title": "rapid weight loss and four-hour workouts"
+    },
+    {
+      "t": 4896,
+      "title": "reality show declined"
+    },
+    {
+      "t": 5016,
+      "title": "another removed episode"
+    },
+    {
+      "t": 5038,
+      "title": "Steve-O rejects Choe's projection"
+    },
+    {
+      "t": 5087,
+      "title": "audience praise versus non-promotion"
+    },
+    {
+      "t": 5174,
+      "title": "private dinner at Sia's home"
+    },
+    {
+      "t": 5224,
+      "title": "Neale Donald Walsch and UFC"
+    },
+    {
+      "t": 5270,
+      "title": "DVDASA runtime comparison"
+    },
+    {
+      "t": 5314,
+      "title": "host confirms unusually long episode"
+    },
+    {
+      "t": 5342,
+      "title": "extended Steve-O impression"
+    },
+    {
+      "t": 5394,
+      "title": "formal thanks"
+    },
+    {
+      "t": 5398,
+      "title": "post-interview wrap"
+    },
+    {
+      "t": 5424,
+      "title": "closing music"
+    }
   ],
-  "connections":[
-    {"t":335,"to":"IBS and trauma","relationship":"The source repeats Choe's bodily-stress theory but also exposes its self-research basis and uncertainty."},
-    {"t":376,"to":"Rich Roll","relationship":"The prior interview becomes a fitness, shame and recovery comparison."},
-    {"t":843,"to":"XS6awjpIimw","relationship":"Japanese custody and prison art overlap the Howard Stern appearance under a different recovery frame."},
-    {"t":1177,"to":"BioXcellerator","relationship":"Steve-O discloses compensated treatment in Colombia; testimony and marketing require separation."},
-    {"t":1506,"to":"propofol","relationship":"A dangerous work-stunt discussion expands into broad second-hand addiction claims."},
-    {"t":1627,"to":"Healing Back Pain","relationship":"Choe adopts parts of John Sarno's model while admitting he did not finish the book."},
-    {"t":1929,"to":"sponsor architecture","relationship":"The third ad demonstrates why commerce must be structurally distinct from episode ideas."},
-    {"t":2184,"to":"Facebook wealth narrative","relationship":"Choe directly rejects richest-artist framing and describes his social presence as delegated."},
-    {"t":2268,"to":"visible recklessness versus practice","relationship":"Choe warns that audiences copy spectacle without seeing years of discipline."},
-    {"t":2328,"to":"The Social Network","relationship":"The film remains a dramatic counter-narrative to Choe's memory, not documentary proof."},
-    {"t":2547,"to":"service work","relationship":"Anonymous labor is presented as a corrective to check-writing and ego."},
-    {"t":2721,"to":"portraiture and consent","relationship":"Private portraits become a reckoning with demand, exploitation and art's relational use."},
-    {"t":3033,"to":"work as rationalization","relationship":"Both performers describe using production as a loophole for addictive conduct."},
-    {"t":3154,"to":"amends and privacy","relationship":"Recovery service includes private women and children who cannot become archive subjects."},
-    {"t":3321,"to":"shame addiction","relationship":"The episode's central theory joins food, gambling, sex, work, praise and audience hostility."},
-    {"t":3672,"to":"The Choe Show edition history","relationship":"Guest requests reportedly caused removals; exact episodes remain unresolved."},
-    {"t":3802,"to":"Korn and Soundgarden","relationship":"Music is used as adolescent shame and self-harm scaffolding, not merely influence metadata."},
-    {"t":4052,"to":"graffiti autobiography","relationship":"The ritual connects theft, self-injury, sexuality, music and tagging."},
-    {"t":4221,"to":"FX and creative control","relationship":"Institutional editing turns wealth into anxiety rather than freedom."},
-    {"t":4348,"to":"unmade reality television","relationship":"Choe's elaborate plan and rapid preparation end in a refusal, not a production credit."},
-    {"t":4727,"to":"legacy","relationship":"Generational celebrity turnover challenges permanence as a creative goal."},
-    {"t":5270,"to":"DVDASA","relationship":"Choe recalls four-to-six-hour episodes when interpreting the host's closing cue as rejection."}
+  "connections": [
+    {
+      "t": 335,
+      "to": "IBS and trauma",
+      "relationship": "The source repeats Choe's bodily-stress theory but also exposes its self-research basis and uncertainty."
+    },
+    {
+      "t": 376,
+      "to": "Rich Roll",
+      "relationship": "The prior interview becomes a fitness, shame and recovery comparison."
+    },
+    {
+      "t": 843,
+      "to": "XS6awjpIimw",
+      "relationship": "Japanese custody and prison art overlap the Howard Stern appearance under a different recovery frame."
+    },
+    {
+      "t": 1177,
+      "to": "BioXcellerator",
+      "relationship": "Steve-O discloses compensated treatment in Colombia; testimony and marketing require separation."
+    },
+    {
+      "t": 1506,
+      "to": "propofol",
+      "relationship": "A dangerous work-stunt discussion expands into broad second-hand addiction claims."
+    },
+    {
+      "t": 1627,
+      "to": "Healing Back Pain",
+      "relationship": "Choe adopts parts of John Sarno's model while admitting he did not finish the book."
+    },
+    {
+      "t": 1929,
+      "to": "sponsor architecture",
+      "relationship": "The third ad demonstrates why commerce must be structurally distinct from episode ideas."
+    },
+    {
+      "t": 2184,
+      "to": "Facebook wealth narrative",
+      "relationship": "Choe directly rejects richest-artist framing and describes his social presence as delegated."
+    },
+    {
+      "t": 2268,
+      "to": "visible recklessness versus practice",
+      "relationship": "Choe warns that audiences copy spectacle without seeing years of discipline."
+    },
+    {
+      "t": 2328,
+      "to": "The Social Network",
+      "relationship": "The film remains a dramatic counter-narrative to Choe's memory, not documentary proof."
+    },
+    {
+      "t": 2547,
+      "to": "service work",
+      "relationship": "Anonymous labor is presented as a corrective to check-writing and ego."
+    },
+    {
+      "t": 2721,
+      "to": "portraiture and consent",
+      "relationship": "Private portraits become a reckoning with demand, exploitation and art's relational use."
+    },
+    {
+      "t": 3033,
+      "to": "work as rationalization",
+      "relationship": "Both performers describe using production as a loophole for addictive conduct."
+    },
+    {
+      "t": 3154,
+      "to": "amends and privacy",
+      "relationship": "Recovery service includes private women and children who cannot become archive subjects."
+    },
+    {
+      "t": 3321,
+      "to": "shame addiction",
+      "relationship": "The episode's central theory joins food, gambling, sex, work, praise and audience hostility."
+    },
+    {
+      "t": 3672,
+      "to": "The Choe Show edition history",
+      "relationship": "Guest requests reportedly caused removals; exact episodes remain unresolved."
+    },
+    {
+      "t": 3802,
+      "to": "Korn and Soundgarden",
+      "relationship": "Music is used as adolescent shame and self-harm scaffolding, not merely influence metadata."
+    },
+    {
+      "t": 4052,
+      "to": "graffiti autobiography",
+      "relationship": "The ritual connects theft, self-injury, sexuality, music and tagging."
+    },
+    {
+      "t": 4221,
+      "to": "FX and creative control",
+      "relationship": "Institutional editing turns wealth into anxiety rather than freedom."
+    },
+    {
+      "t": 4348,
+      "to": "unmade reality television",
+      "relationship": "Choe's elaborate plan and rapid preparation end in a refusal, not a production credit."
+    },
+    {
+      "t": 4727,
+      "to": "legacy",
+      "relationship": "Generational celebrity turnover challenges permanence as a creative goal."
+    },
+    {
+      "t": 5270,
+      "to": "DVDASA",
+      "relationship": "Choe recalls four-to-six-hour episodes when interpreting the host's closing cue as rejection."
+    }
   ],
-  "people":["David Choe","Steve-O","Scott Randolph [credit verify]","Paul Brisske [spelling/credit verify]","Rich Roll","Jeff Bezos","Mark Zuckerberg","Sean Parker","John E. Sarno","Howard Stern","Khabib Nurmagomedov","Conor McGregor","Jonathan Davis","Chris Cornell","Christian Slater","Sia","Mel Gibson","Donald Trump","Jared Leto","Sean O'Malley","Dana White","Justin Bieber","Neale Donald Walsch","private treatment participants","private women and children","unnamed reality-show producers and cast"],
-  "places":["Japan","South Korea","North Korea","California","Florida","Louisiana","London","Stockholm","Beverly Hills","Colombia","Arizona [private ranch withheld]","Koreatown [private residence withheld]","private shelter [withheld]","Sia's residence [withheld]"],
-  "themes":["shame","recovery","process addiction","wealth and responsibility","medical uncertainty","sponsor provenance","prison","Korean identity","genetic essentialism","service labor","portraiture","consent and deletion","work as rationalization","hidden practice","self-harm","graffiti","creative control","unmade television","legacy","source reliability"],
-  "works":["The Choe Show","The Social Network","Healing Back Pain","Korn","Faget","Daddy","Slaves & Bulldozers","Pump Up the Volume","The Shield","Sons of Anarchy","Survivor","Naked and Afraid","The Amazing Race","Conversations with God","DVDASA"],
-  "source_notes":[
-    {"t":19,"claim":"Choe is the richest painter on Earth.","assessment":"This is host promotion, not an audited ranking; Choe later rejects the headline.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":94,"claim":"Known participants make every line safely nameable.","assessment":"They do not. All 2,653 caption segments contain zero publisher speaker prefixes and include ads, quotations, crew talk, performance and a post-interview wrap.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":1177,"claim":"The Colombia procedures are illegal in the U.S. because they threaten pharmaceutical profits.","assessment":"The causal explanation is speculation. FDA guidance says only limited blood-forming cord-blood stem-cell products are approved in the U.S.; the broad spinal, concussion, facial and whole-body uses described here are not established by this testimony.","source":"https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/important-patient-and-consumer-information-about-regenerative-medicine-therapies"},
-    {"t":1234,"claim":"Steve-O's experience is independent medical evidence.","assessment":"He explicitly says treatment was free in exchange for posts, a material compensation relationship that must remain visible.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":1439,"claim":"Pain returns elsewhere after surgery in 100% of cases.","assessment":"This is an unnamed person's reported claim, not cited outcome evidence.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":1693,"claim":"Choe faithfully summarizes Sarno's book.","assessment":"He says he did not finish it and selected portions, so the episode records his interpretation only.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":2184,"claim":"Wealth headlines prove present holdings or net worth.","assessment":"They do not; Choe rejects the framing and provides no audited current position.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":3672,"claim":"Every filmed Choe Show episode remains publicly available.","assessment":"Choe says multiple episodes were pulled after guests objected; exact identities and editions remain unresolved.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":3739,"claim":"Every billionaire is mentally sick.","assessment":"This is Choe's unsupported generalization, not diagnosis or population evidence.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"},
-    {"t":4348,"claim":"Choe joined a survival reality program.","assessment":"He describes a proposal, preparation and then declining; it remains unmade and unidentified.","source":"https://www.youtube.com/watch?v=reW-p9ds4g4"}
+  "people": [
+    "David Choe",
+    "Steve-O",
+    "Scott Randolph [credit verify]",
+    "Paul Brisske [spelling/credit verify]",
+    "Rich Roll",
+    "Jeff Bezos",
+    "Mark Zuckerberg",
+    "Sean Parker",
+    "John E. Sarno",
+    "Howard Stern",
+    "Khabib Nurmagomedov",
+    "Conor McGregor",
+    "Jonathan Davis",
+    "Chris Cornell",
+    "Christian Slater",
+    "Sia",
+    "Mel Gibson",
+    "Donald Trump",
+    "Jared Leto",
+    "Sean O'Malley",
+    "Dana White",
+    "Justin Bieber",
+    "Neale Donald Walsch",
+    "private treatment participants",
+    "private women and children",
+    "unnamed reality-show producers and cast"
   ],
-  "content_warnings":["explicit sexual speech","pornography and masturbation","private minor sexual-monitoring account","paid-sex and trafficking discussion","self-harm and facial injury","suicide and overdose references","drug use and conditioned craving","unsafe anesthetic stunt","unapproved/experimental medical-treatment claims","invasive spinal and facial injections","rapid weight loss and overtraining","gambling addiction and large-loss claims","racist and homophobic slur context","genetic essentialism","juvenile crime and vandalism","graphic fighting and injury","coercion and exploitation","private shelter and abuse-survivor stories","food and body shame","mental-health generalizations","guest removal and consent","explicit genital detail"],
-  "publication_restrictions":[
-    {"t":0,"rule":"publish no named line-level turns without independently held-out acoustic/video validation"},
-    {"t":19,"rule":"do not use richest-painter language as ranking, net-worth fact or headline"},
-    {"t":42,"rule":"keep all three sponsor blocks structurally separate and do not refresh historic offers"},
-    {"t":187,"rule":"withhold residence, address and filming-route details"},
-    {"t":255,"rule":"do not turn Korean/Asian ancestry into lactose, IBS or bowel diagnosis"},
-    {"t":335,"rule":"do not present trauma as the universal cause of IBS or chronic pain"},
-    {"t":421,"rule":"do not reformat cocaine discussion as acquisition or use guidance"},
-    {"t":609,"rule":"exclude genetic-essentialist and population claims from neutral metadata"},
-    {"t":720,"rule":"do not assemble a complete criminal profile from custody self-reports"},
-    {"t":963,"rule":"do not publish the push-up claim as exercise programming"},
-    {"t":1152,"rule":"do not identify or endorse private clinicians from clues"},
-    {"t":1177,"rule":"keep compensated BioXcellerator testimony beside FDA regulatory context"},
-    {"t":1234,"rule":"never omit the free-treatment-for-posts disclosure"},
-    {"t":1346,"rule":"do not excerpt invasive injections as treatment guidance"},
-    {"t":1384,"rule":"do not treat broad stress, surgery or pain claims as medical facts"},
-    {"t":1495,"rule":"do not operationalize the anesthetic bicycle stunt"},
-    {"t":1553,"rule":"do not present animal-trauma analogies as veterinary consensus"},
-    {"t":1627,"rule":"distinguish Choe's selective Sarno interpretation from the book itself"},
-    {"t":1727,"rule":"do not imply talking to pain safely replaces medical evaluation"},
-    {"t":1911,"rule":"do not calculate present wealth, holdings or asset inventory"},
-    {"t":2147,"rule":"retain theft admissions without converting them to practical guidance"},
-    {"t":2268,"rule":"preserve the episode's own warning against copying visible recklessness"},
-    {"t":2621,"rule":"withhold private ranch, staff, participants, children and exact location"},
-    {"t":2721,"rule":"do not identify private women, reproduce portraits or impose legal/clinical labels"},
-    {"t":2771,"rule":"do not create sexual profiles of private workers or collapse all sex work into trafficking"},
-    {"t":3007,"rule":"exclude pornography-and-skydiving material from youth-facing snippets"},
-    {"t":3073,"rule":"preserve work-as-rationalization self-critique; do not glamorize conduct as content strategy"},
-    {"t":3154,"rule":"withhold shelter, residents, children, staff and recovery-group identities"},
-    {"t":3321,"rule":"label shame/trauma/codependence as speaker theory, not universal addiction diagnosis"},
-    {"t":3466,"rule":"do not excerpt large gambling wins/losses as a system or verified accounting"},
-    {"t":3524,"rule":"do not identify unnamed celebrity callers from examples or fame level"},
-    {"t":3605,"rule":"exclude the private minor's sexual behavior and monitoring from search metadata"},
-    {"t":3672,"rule":"honor reported guest removal requests; do not reconstruct removed episodes or identities"},
-    {"t":3739,"rule":"do not reuse billionaire mental-health generalization as diagnosis"},
-    {"t":3802,"rule":"keep slur-titled music in historical/trauma context, not neutral promotion"},
-    {"t":3855,"rule":"do not assign sexual-abuse histories to musicians or athletes without direct evidence"},
-    {"t":3878,"rule":"exclude teenage pornography/genital detail from youth-facing snippets"},
-    {"t":4070,"rule":"do not sensationalize or operationalize the self-harm/graffiti ritual"},
-    {"t":4348,"rule":"do not identify the proposed show/cast or upgrade it to a production credit"},
-    {"t":4505,"rule":"keep public-figure encounter interpretations attributed; do not infer motives"},
-    {"t":4616,"rule":"do not present dissociation as a fighting superpower or diagnosis"},
-    {"t":4818,"rule":"do not publish planned manipulation as social strategy"},
-    {"t":4875,"rule":"do not publish rapid weight loss and four-hour workouts as health guidance"},
-    {"t":5174,"rule":"withhold private residence and gathering details"}
+  "places": [
+    "Japan",
+    "South Korea",
+    "North Korea",
+    "California",
+    "Florida",
+    "Louisiana",
+    "London",
+    "Stockholm",
+    "Beverly Hills",
+    "Colombia",
+    "Arizona [private ranch withheld]",
+    "Koreatown [private residence withheld]",
+    "private shelter [withheld]",
+    "Sia's residence [withheld]"
   ],
-  "speaker_policy":{"status":"all line-level turns unresolved; named turns withheld","reason":"The visible program establishes David Choe, Steve-O and Wild Ride crew context, but the extracted captions contain zero publisher speaker prefixes across 2,653 segments. The source includes three advertisements, quotation, retrospective paraphrase, crew interjections, a comic impression, overlap, music and a post-interview wrap. Topic ownership, grammar, visual familiarity and adjacency cannot prove every line. Named turns require independently held-out, non-overlapping acoustic/video validation."}
+  "themes": [
+    "shame",
+    "recovery",
+    "process addiction",
+    "wealth and responsibility",
+    "medical uncertainty",
+    "sponsor provenance",
+    "prison",
+    "Korean identity",
+    "genetic essentialism",
+    "service labor",
+    "portraiture",
+    "consent and deletion",
+    "work as rationalization",
+    "hidden practice",
+    "self-harm",
+    "graffiti",
+    "creative control",
+    "unmade television",
+    "legacy",
+    "source reliability"
+  ],
+  "works": [
+    "The Choe Show",
+    "The Social Network",
+    "Healing Back Pain",
+    "Korn",
+    "Faget",
+    "Daddy",
+    "Slaves & Bulldozers",
+    "Pump Up the Volume",
+    "The Shield",
+    "Sons of Anarchy",
+    "Survivor",
+    "Naked and Afraid",
+    "The Amazing Race",
+    "Conversations with God",
+    "DVDASA"
+  ],
+  "source_notes": [
+    {
+      "t": 19,
+      "claim": "Choe is the richest painter on Earth.",
+      "assessment": "This is host promotion, not an audited ranking; Choe later rejects the headline.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 94,
+      "claim": "Known participants make every line safely nameable.",
+      "assessment": "They do not. All 2,653 caption segments contain zero publisher speaker prefixes and include ads, quotations, crew talk, performance and a post-interview wrap.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 1177,
+      "claim": "The Colombia procedures are illegal in the U.S. because they threaten pharmaceutical profits.",
+      "assessment": "The causal explanation is speculation. FDA guidance says only limited blood-forming cord-blood stem-cell products are approved in the U.S.; the broad spinal, concussion, facial and whole-body uses described here are not established by this testimony.",
+      "source": "https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/important-patient-and-consumer-information-about-regenerative-medicine-therapies"
+    },
+    {
+      "t": 1234,
+      "claim": "Steve-O's experience is independent medical evidence.",
+      "assessment": "He explicitly says treatment was free in exchange for posts, a material compensation relationship that must remain visible.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 1439,
+      "claim": "Pain returns elsewhere after surgery in 100% of cases.",
+      "assessment": "This is an unnamed person's reported claim, not cited outcome evidence.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 1693,
+      "claim": "Choe faithfully summarizes Sarno's book.",
+      "assessment": "He says he did not finish it and selected portions, so the episode records his interpretation only.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 2184,
+      "claim": "Wealth headlines prove present holdings or net worth.",
+      "assessment": "They do not; Choe rejects the framing and provides no audited current position.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 3672,
+      "claim": "Every filmed Choe Show episode remains publicly available.",
+      "assessment": "Choe says multiple episodes were pulled after guests objected; exact identities and editions remain unresolved.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 3739,
+      "claim": "Every billionaire is mentally sick.",
+      "assessment": "This is Choe's unsupported generalization, not diagnosis or population evidence.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    },
+    {
+      "t": 4348,
+      "claim": "Choe joined a survival reality program.",
+      "assessment": "He describes a proposal, preparation and then declining; it remains unmade and unidentified.",
+      "source": "https://www.youtube.com/watch?v=reW-p9ds4g4"
+    }
+  ],
+  "content_warnings": [
+    "explicit sexual speech",
+    "pornography and masturbation",
+    "private minor sexual-monitoring account",
+    "paid-sex and trafficking discussion",
+    "self-harm and facial injury",
+    "suicide and overdose references",
+    "drug use and conditioned craving",
+    "unsafe anesthetic stunt",
+    "unapproved/experimental medical-treatment claims",
+    "invasive spinal and facial injections",
+    "rapid weight loss and overtraining",
+    "gambling addiction and large-loss claims",
+    "racist and homophobic slur context",
+    "genetic essentialism",
+    "juvenile crime and vandalism",
+    "graphic fighting and injury",
+    "coercion and exploitation",
+    "private shelter and abuse-survivor stories",
+    "food and body shame",
+    "mental-health generalizations",
+    "guest removal and consent",
+    "explicit genital detail"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "publish no named line-level turns without independently held-out acoustic/video validation"
+    },
+    {
+      "t": 19,
+      "rule": "do not use richest-painter language as ranking, net-worth fact or headline"
+    },
+    {
+      "t": 42,
+      "rule": "keep all three sponsor blocks structurally separate and do not refresh historic offers"
+    },
+    {
+      "t": 187,
+      "rule": "withhold residence, address and filming-route details"
+    },
+    {
+      "t": 255,
+      "rule": "do not turn Korean/Asian ancestry into lactose, IBS or bowel diagnosis"
+    },
+    {
+      "t": 335,
+      "rule": "do not present trauma as the universal cause of IBS or chronic pain"
+    },
+    {
+      "t": 421,
+      "rule": "do not reformat cocaine discussion as acquisition or use guidance"
+    },
+    {
+      "t": 609,
+      "rule": "exclude genetic-essentialist and population claims from neutral metadata"
+    },
+    {
+      "t": 720,
+      "rule": "do not assemble a complete criminal profile from custody self-reports"
+    },
+    {
+      "t": 963,
+      "rule": "do not publish the push-up claim as exercise programming"
+    },
+    {
+      "t": 1152,
+      "rule": "do not identify or endorse private clinicians from clues"
+    },
+    {
+      "t": 1177,
+      "rule": "keep compensated BioXcellerator testimony beside FDA regulatory context"
+    },
+    {
+      "t": 1234,
+      "rule": "never omit the free-treatment-for-posts disclosure"
+    },
+    {
+      "t": 1346,
+      "rule": "do not excerpt invasive injections as treatment guidance"
+    },
+    {
+      "t": 1384,
+      "rule": "do not treat broad stress, surgery or pain claims as medical facts"
+    },
+    {
+      "t": 1495,
+      "rule": "do not operationalize the anesthetic bicycle stunt"
+    },
+    {
+      "t": 1553,
+      "rule": "do not present animal-trauma analogies as veterinary consensus"
+    },
+    {
+      "t": 1627,
+      "rule": "distinguish Choe's selective Sarno interpretation from the book itself"
+    },
+    {
+      "t": 1727,
+      "rule": "do not imply talking to pain safely replaces medical evaluation"
+    },
+    {
+      "t": 1911,
+      "rule": "do not calculate present wealth, holdings or asset inventory"
+    },
+    {
+      "t": 2147,
+      "rule": "retain theft admissions without converting them to practical guidance"
+    },
+    {
+      "t": 2268,
+      "rule": "preserve the episode's own warning against copying visible recklessness"
+    },
+    {
+      "t": 2621,
+      "rule": "withhold private ranch, staff, participants, children and exact location"
+    },
+    {
+      "t": 2721,
+      "rule": "do not identify private women, reproduce portraits or impose legal/clinical labels"
+    },
+    {
+      "t": 2771,
+      "rule": "do not create sexual profiles of private workers or collapse all sex work into trafficking"
+    },
+    {
+      "t": 3007,
+      "rule": "exclude pornography-and-skydiving material from youth-facing snippets"
+    },
+    {
+      "t": 3073,
+      "rule": "preserve work-as-rationalization self-critique; do not glamorize conduct as content strategy"
+    },
+    {
+      "t": 3154,
+      "rule": "withhold shelter, residents, children, staff and recovery-group identities"
+    },
+    {
+      "t": 3321,
+      "rule": "label shame/trauma/codependence as speaker theory, not universal addiction diagnosis"
+    },
+    {
+      "t": 3466,
+      "rule": "do not excerpt large gambling wins/losses as a system or verified accounting"
+    },
+    {
+      "t": 3524,
+      "rule": "do not identify unnamed celebrity callers from examples or fame level"
+    },
+    {
+      "t": 3605,
+      "rule": "exclude the private minor's sexual behavior and monitoring from search metadata"
+    },
+    {
+      "t": 3672,
+      "rule": "honor reported guest removal requests; do not reconstruct removed episodes or identities"
+    },
+    {
+      "t": 3739,
+      "rule": "do not reuse billionaire mental-health generalization as diagnosis"
+    },
+    {
+      "t": 3802,
+      "rule": "keep slur-titled music in historical/trauma context, not neutral promotion"
+    },
+    {
+      "t": 3855,
+      "rule": "do not assign sexual-abuse histories to musicians or athletes without direct evidence"
+    },
+    {
+      "t": 3878,
+      "rule": "exclude teenage pornography/genital detail from youth-facing snippets"
+    },
+    {
+      "t": 4070,
+      "rule": "do not sensationalize or operationalize the self-harm/graffiti ritual"
+    },
+    {
+      "t": 4348,
+      "rule": "do not identify the proposed show/cast or upgrade it to a production credit"
+    },
+    {
+      "t": 4505,
+      "rule": "keep public-figure encounter interpretations attributed; do not infer motives"
+    },
+    {
+      "t": 4616,
+      "rule": "do not present dissociation as a fighting superpower or diagnosis"
+    },
+    {
+      "t": 4818,
+      "rule": "do not publish planned manipulation as social strategy"
+    },
+    {
+      "t": 4875,
+      "rule": "do not publish rapid weight loss and four-hour workouts as health guidance"
+    },
+    {
+      "t": 5174,
+      "rule": "withhold private residence and gathering details"
+    }
+  ],
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "The visible program establishes David Choe, Steve-O and Wild Ride crew context, but the extracted captions contain zero publisher speaker prefixes across 2,653 segments. The source includes three advertisements, quotation, retrospective paraphrase, crew interjections, a comic impression, overlap, music and a post-interview wrap. Topic ownership, grammar, visual familiarity and adjacency cannot prove every line. Named turns require independently held-out, non-overlapping acoustic/video validation."
+  },
+  "description": "Steve-O, David Choe and the Wild Ride crew move from prison, bowel anxiety and Korean identity into recovery, shame, wealth, medical shortcuts, service work and the difficulty of saying no.",
+  "description_source": "Opening of the human-reviewed summary."
 }

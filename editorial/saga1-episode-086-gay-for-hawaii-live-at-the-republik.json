@@ -34,105 +34,428 @@
     "UNODC's consent issue paper supports keeping consensual adult sex work analytically distinct from trafficking while recognizing that coercion or abuse can make apparent consent irrelevant: https://www.unodc.org/documents/human-trafficking/2014/UNODC_2014_Issue_Paper_Consent.pdf"
   ],
   "chapters": [
-    {"t": 0, "title": "Live cold open and private family story"},
-    {"t": 80, "title": "Stage music becomes untranscribable"},
-    {"t": 170, "title": "Audience response and live production"},
-    {"t": 295, "title": "Musical bridge held for listening"},
-    {"t": 361, "title": "Downtown studio to Oahu"},
-    {"t": 428, "title": "Attendance anxiety and room arrival"},
-    {"t": 465, "title": "Hawaii rehab and dolphin claim"},
-    {"t": 525, "title": "Roy's dinner and body commentary"},
-    {"t": 638, "title": "Airport harassment history"},
-    {"t": 650, "title": "Private airline passenger account"},
-    {"t": 734, "title": "Porn viewed beside sleeping performer"},
-    {"t": 804, "title": "Host invents covert-photo scenario"},
-    {"t": 866, "title": "Friendship, objectification and privacy"},
-    {"t": 930, "title": "Pretending to sleep and escalation"},
-    {"t": 962, "title": "Trans women and sex work dehumanized"},
-    {"t": 997, "title": "Bachelor-party consent inversion"},
-    {"t": 1027, "title": "Audience Q&A opens"},
-    {"t": 1073, "title": "Breast augmentation terminology"},
-    {"t": 1166, "title": "Children, privacy and future identity"},
-    {"t": 1201, "title": "Breastfeeding and implant anecdotes"},
-    {"t": 1273, "title": "Cast game and attendee gift"},
-    {"t": 1348, "title": "Attendee family disclosures"},
-    {"t": 1472, "title": "Porn recognition and personhood"},
-    {"t": 1592, "title": "Club 939 announcement"},
-    {"t": 1609, "title": "Touring and strip-club boundaries"},
-    {"t": 1676, "title": "Second-best artist question"},
-    {"t": 1712, "title": "Mother's confidence ritual"},
-    {"t": 1792, "title": "Mother begins painting daily"},
-    {"t": 1877, "title": "Persistence under family criticism"},
-    {"t": 1904, "title": "Fan food and contamination jokes"},
-    {"t": 1994, "title": "Female fandom and private partner"},
-    {"t": 2132, "title": "Objectification versus knowing a person"},
-    {"t": 2187, "title": "Korean Oahu food and venue tips"},
-    {"t": 2242, "title": "How the cast met"},
-    {"t": 2386, "title": "Korea, rejection and belated recognition"},
-    {"t": 2503, "title": "Steroid-smell anecdote"},
-    {"t": 2555, "title": "Twins, island rumor and art gift"},
-    {"t": 2686, "title": "Unsafe immune-system joke"},
-    {"t": 2983, "title": "Marriage, directing and work boundaries"},
-    {"t": 3025, "title": "Podcast as diary and partner boundary"},
-    {"t": 3100, "title": "Best-man choice and bachelor party"},
-    {"t": 3195, "title": "Violent fantasies and art outlet"},
-    {"t": 3332, "title": "Val's absence and private life"},
-    {"t": 3450, "title": "Power Check and Seattle fan history"},
-    {"t": 3556, "title": "Reddit, YouTube and KGB participation"},
-    {"t": 3693, "title": "Violence against sex workers question"},
-    {"t": 3804, "title": "Sex work versus trafficking"},
-    {"t": 3863, "title": "Wolverine gift and Critter beer"},
-    {"t": 3979, "title": "Attendee and fiancée sexual disclosure"},
-    {"t": 4054, "title": "Art materials and jail work"},
-    {"t": 4144, "title": "Attention fragmentation"},
-    {"t": 4171, "title": "Jail as productive constraint"},
-    {"t": 4184, "title": "Artificial-prison art-school proposal"},
-    {"t": 4250, "title": "Banksy and Akira name origin"},
-    {"t": 4310, "title": "Porn-star approach etiquette"},
-    {"t": 4435, "title": "Audience intoxication and sexual questions"},
-    {"t": 4504, "title": "Private attendee sexual histories"},
-    {"t": 4735, "title": "Stage visibility and table complaint"},
-    {"t": 4814, "title": "Unexpected-orgasm question"},
-    {"t": 4937, "title": "Private friends and recorded greeting"},
-    {"t": 5028, "title": "Porn scripting and production packets"},
-    {"t": 5140, "title": "Relationship joke and closing setup"},
-    {"t": 5197, "title": "Off the Sidelines live trivia"},
-    {"t": 5353, "title": "Poster signing and outro"},
-    {"t": 5392, "title": "Outro music held for listening"}
+    {
+      "t": 0,
+      "title": "Live cold open and private family story"
+    },
+    {
+      "t": 80,
+      "title": "Stage music becomes untranscribable"
+    },
+    {
+      "t": 170,
+      "title": "Audience response and live production"
+    },
+    {
+      "t": 295,
+      "title": "Musical bridge held for listening"
+    },
+    {
+      "t": 361,
+      "title": "Downtown studio to Oahu"
+    },
+    {
+      "t": 428,
+      "title": "Attendance anxiety and room arrival"
+    },
+    {
+      "t": 465,
+      "title": "Hawaii rehab and dolphin claim"
+    },
+    {
+      "t": 525,
+      "title": "Roy's dinner and body commentary"
+    },
+    {
+      "t": 638,
+      "title": "Airport harassment history"
+    },
+    {
+      "t": 650,
+      "title": "Private airline passenger account"
+    },
+    {
+      "t": 734,
+      "title": "Porn viewed beside sleeping performer"
+    },
+    {
+      "t": 804,
+      "title": "Host invents covert-photo scenario"
+    },
+    {
+      "t": 866,
+      "title": "Friendship, objectification and privacy"
+    },
+    {
+      "t": 930,
+      "title": "Pretending to sleep and escalation"
+    },
+    {
+      "t": 962,
+      "title": "Trans women and sex work dehumanized"
+    },
+    {
+      "t": 997,
+      "title": "Bachelor-party consent inversion"
+    },
+    {
+      "t": 1027,
+      "title": "Audience Q&A opens"
+    },
+    {
+      "t": 1073,
+      "title": "Breast augmentation terminology"
+    },
+    {
+      "t": 1166,
+      "title": "Children, privacy and future identity"
+    },
+    {
+      "t": 1201,
+      "title": "Breastfeeding and implant anecdotes"
+    },
+    {
+      "t": 1273,
+      "title": "Cast game and attendee gift"
+    },
+    {
+      "t": 1348,
+      "title": "Attendee family disclosures"
+    },
+    {
+      "t": 1472,
+      "title": "Porn recognition and personhood"
+    },
+    {
+      "t": 1592,
+      "title": "Club 939 announcement"
+    },
+    {
+      "t": 1609,
+      "title": "Touring and strip-club boundaries"
+    },
+    {
+      "t": 1676,
+      "title": "Second-best artist question"
+    },
+    {
+      "t": 1712,
+      "title": "Mother's confidence ritual"
+    },
+    {
+      "t": 1792,
+      "title": "Mother begins painting daily"
+    },
+    {
+      "t": 1877,
+      "title": "Persistence under family criticism"
+    },
+    {
+      "t": 1904,
+      "title": "Fan food and contamination jokes"
+    },
+    {
+      "t": 1994,
+      "title": "Female fandom and private partner"
+    },
+    {
+      "t": 2132,
+      "title": "Objectification versus knowing a person"
+    },
+    {
+      "t": 2187,
+      "title": "Korean Oahu food and venue tips"
+    },
+    {
+      "t": 2242,
+      "title": "How the cast met"
+    },
+    {
+      "t": 2386,
+      "title": "Korea, rejection and belated recognition"
+    },
+    {
+      "t": 2503,
+      "title": "Steroid-smell anecdote"
+    },
+    {
+      "t": 2555,
+      "title": "Twins, island rumor and art gift"
+    },
+    {
+      "t": 2686,
+      "title": "Unsafe immune-system joke"
+    },
+    {
+      "t": 2983,
+      "title": "Marriage, directing and work boundaries"
+    },
+    {
+      "t": 3025,
+      "title": "Podcast as diary and partner boundary"
+    },
+    {
+      "t": 3100,
+      "title": "Best-man choice and bachelor party"
+    },
+    {
+      "t": 3195,
+      "title": "Violent fantasies and art outlet"
+    },
+    {
+      "t": 3332,
+      "title": "Val's absence and private life"
+    },
+    {
+      "t": 3450,
+      "title": "Power Check and Seattle fan history"
+    },
+    {
+      "t": 3556,
+      "title": "Reddit, YouTube and KGB participation"
+    },
+    {
+      "t": 3693,
+      "title": "Violence against sex workers question"
+    },
+    {
+      "t": 3804,
+      "title": "Sex work versus trafficking"
+    },
+    {
+      "t": 3863,
+      "title": "Wolverine gift and Critter beer"
+    },
+    {
+      "t": 3979,
+      "title": "Attendee and fiancée sexual disclosure"
+    },
+    {
+      "t": 4054,
+      "title": "Art materials and jail work"
+    },
+    {
+      "t": 4144,
+      "title": "Attention fragmentation"
+    },
+    {
+      "t": 4171,
+      "title": "Jail as productive constraint"
+    },
+    {
+      "t": 4184,
+      "title": "Artificial-prison art-school proposal"
+    },
+    {
+      "t": 4250,
+      "title": "Banksy and Akira name origin"
+    },
+    {
+      "t": 4310,
+      "title": "Porn-star approach etiquette"
+    },
+    {
+      "t": 4435,
+      "title": "Audience intoxication and sexual questions"
+    },
+    {
+      "t": 4504,
+      "title": "Private attendee sexual histories"
+    },
+    {
+      "t": 4735,
+      "title": "Stage visibility and table complaint"
+    },
+    {
+      "t": 4814,
+      "title": "Unexpected-orgasm question"
+    },
+    {
+      "t": 4937,
+      "title": "Private friends and recorded greeting"
+    },
+    {
+      "t": 5028,
+      "title": "Porn scripting and production packets"
+    },
+    {
+      "t": 5140,
+      "title": "Relationship joke and closing setup"
+    },
+    {
+      "t": 5197,
+      "title": "Off the Sidelines live trivia"
+    },
+    {
+      "t": 5353,
+      "title": "Poster signing and outro"
+    },
+    {
+      "t": 5392,
+      "title": "Outro music held for listening"
+    }
   ],
   "connections": [
-    {"from": 361, "to": "DVDASA downtown studio", "relationship": "origin point before first Oahu live show"},
-    {"from": 465, "to": "The Republik, Honolulu", "relationship": "live venue and room context"},
-    {"from": 478, "to": "Kona rehabilitation account", "relationship": "first-person Hawaii recovery chronology"},
-    {"from": 496, "to": "dolphin-assisted therapy evidence", "relationship": "extraordinary health claim requiring correction"},
-    {"from": 525, "to": "Roy's Hawaii", "relationship": "pre-show dinner"},
-    {"from": 638, "to": "airport harassment account", "relationship": "recurring consent and fame boundary"},
-    {"from": 1088, "to": "breast augmentation and lactation", "relationship": "health-evidence correction"},
-    {"from": 1504, "to": "Club 939", "relationship": "prospective Asa Akira appearance"},
-    {"from": 1699, "to": "Choe family art practice", "relationship": "mother as second-best-artist answer"},
-    {"from": 1792, "to": "daily self-portrait practice", "relationship": "late-starting repetition and improvement"},
-    {"from": 2242, "to": "Bobby Hundreds", "relationship": "cast-origin story"},
-    {"from": 2260, "to": "Critter", "relationship": "Colombia security/travel origin"},
-    {"from": 2270, "to": "Kid Koala", "relationship": "connection to Money Mark"},
-    {"from": 2276, "to": "Asa Akira", "relationship": "all-Asian-American production-set origin"},
-    {"from": 2386, "to": "Korean art institutions", "relationship": "rejection and belated recognition account"},
-    {"from": 2431, "to": "Tokyo, London and France exhibitions", "relationship": "international-career chronology lead"},
-    {"from": 3025, "to": "public-performance / private-diary boundary", "relationship": "marriage and podcasting tension"},
-    {"from": 3203, "to": "art as violence outlet", "relationship": "first-person creative survival account"},
-    {"from": 3450, "to": "Power Check", "relationship": "recurring DVDASA segment"},
-    {"from": 3556, "to": "Reddit response video", "relationship": "missing YouTube/fan-source lead"},
-    {"from": 3556, "to": "KGB", "relationship": "fan participation and in-group label"},
-    {"from": 3708, "to": "International Day to End Violence Against Sex Workers", "relationship": "audience human-rights question"},
-    {"from": 3816, "to": "sex work / trafficking distinction", "relationship": "important conceptual correction"},
-    {"from": 3872, "to": "Wolverine claws", "relationship": "fan gift and live-show material culture"},
-    {"from": 4069, "to": "jail-era bodily-material art", "relationship": "art-process provenance"},
-    {"from": 4144, "to": "Episode 085 attention limits", "relationship": "social media and unfinished-work recurrence"},
-    {"from": 4184, "to": "The Ranch", "relationship": "early voluntary isolation/art-residency concept"},
-    {"from": 4256, "to": "Banksy", "relationship": "audience art-ranking question"},
-    {"from": 4291, "to": "Akira", "relationship": "Asa Akira name-origin account"},
-    {"from": 4329, "to": "Tiana Kai", "relationship": "fan-recognition etiquette example"},
-    {"from": 5028, "to": "adult-film production workflow", "relationship": "scripts, wardrobe and makeup packets"},
-    {"from": 5197, "to": "Off the Sidelines and Into the Limelight", "relationship": "recurring live trivia segment"}
+    {
+      "from": 361,
+      "to": "DVDASA downtown studio",
+      "relationship": "origin point before first Oahu live show"
+    },
+    {
+      "from": 465,
+      "to": "The Republik, Honolulu",
+      "relationship": "live venue and room context"
+    },
+    {
+      "from": 478,
+      "to": "Kona rehabilitation account",
+      "relationship": "first-person Hawaii recovery chronology"
+    },
+    {
+      "from": 496,
+      "to": "dolphin-assisted therapy evidence",
+      "relationship": "extraordinary health claim requiring correction"
+    },
+    {
+      "from": 525,
+      "to": "Roy's Hawaii",
+      "relationship": "pre-show dinner"
+    },
+    {
+      "from": 638,
+      "to": "airport harassment account",
+      "relationship": "recurring consent and fame boundary"
+    },
+    {
+      "from": 1088,
+      "to": "breast augmentation and lactation",
+      "relationship": "health-evidence correction"
+    },
+    {
+      "from": 1504,
+      "to": "Club 939",
+      "relationship": "prospective Asa Akira appearance"
+    },
+    {
+      "from": 1699,
+      "to": "Choe family art practice",
+      "relationship": "mother as second-best-artist answer"
+    },
+    {
+      "from": 1792,
+      "to": "daily self-portrait practice",
+      "relationship": "late-starting repetition and improvement"
+    },
+    {
+      "from": 2242,
+      "to": "Bobby Hundreds",
+      "relationship": "cast-origin story"
+    },
+    {
+      "from": 2260,
+      "to": "Critter",
+      "relationship": "Colombia security/travel origin"
+    },
+    {
+      "from": 2270,
+      "to": "Kid Koala",
+      "relationship": "connection to Money Mark"
+    },
+    {
+      "from": 2276,
+      "to": "Asa Akira",
+      "relationship": "all-Asian-American production-set origin"
+    },
+    {
+      "from": 2386,
+      "to": "Korean art institutions",
+      "relationship": "rejection and belated recognition account"
+    },
+    {
+      "from": 2431,
+      "to": "Tokyo, London and France exhibitions",
+      "relationship": "international-career chronology lead"
+    },
+    {
+      "from": 3025,
+      "to": "public-performance / private-diary boundary",
+      "relationship": "marriage and podcasting tension"
+    },
+    {
+      "from": 3203,
+      "to": "art as violence outlet",
+      "relationship": "first-person creative survival account"
+    },
+    {
+      "from": 3450,
+      "to": "Power Check",
+      "relationship": "recurring DVDASA segment"
+    },
+    {
+      "from": 3556,
+      "to": "Reddit response video",
+      "relationship": "missing YouTube/fan-source lead"
+    },
+    {
+      "from": 3556,
+      "to": "KGB",
+      "relationship": "fan participation and in-group label"
+    },
+    {
+      "from": 3708,
+      "to": "International Day to End Violence Against Sex Workers",
+      "relationship": "audience human-rights question"
+    },
+    {
+      "from": 3816,
+      "to": "sex work / trafficking distinction",
+      "relationship": "important conceptual correction"
+    },
+    {
+      "from": 3872,
+      "to": "Wolverine claws",
+      "relationship": "fan gift and live-show material culture"
+    },
+    {
+      "from": 4069,
+      "to": "jail-era bodily-material art",
+      "relationship": "art-process provenance"
+    },
+    {
+      "from": 4144,
+      "to": "Episode 085 attention limits",
+      "relationship": "social media and unfinished-work recurrence"
+    },
+    {
+      "from": 4184,
+      "to": "The Ranch",
+      "relationship": "early voluntary isolation/art-residency concept"
+    },
+    {
+      "from": 4256,
+      "to": "Banksy",
+      "relationship": "audience art-ranking question"
+    },
+    {
+      "from": 4291,
+      "to": "Akira",
+      "relationship": "Asa Akira name-origin account"
+    },
+    {
+      "from": 4329,
+      "to": "Tiana Kai",
+      "relationship": "fan-recognition etiquette example"
+    },
+    {
+      "from": 5028,
+      "to": "adult-film production workflow",
+      "relationship": "scripts, wardrobe and makeup packets"
+    },
+    {
+      "from": 5197,
+      "to": "Off the Sidelines and Into the Limelight",
+      "relationship": "recurring live trivia segment"
+    }
   ],
   "content_warnings": [
     "minor nudity and sexualized family story",
@@ -160,5 +483,21 @@
     "private relationship disclosures",
     "Holocaust/concentration-camp analogy",
     "age-based sexualization"
-  ]
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [
+    "Hawaii",
+    "studio"
+  ],
+  "works": [
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A live Oahu episode documenting DVDASA's move from a downtown studio to a ticketed room, its cast-origin story, David Choe's Hawaii rehab claim, his mother's late-starting daily painting practice, his rejection by Korean galleries, and his proposal for a voluntary distraction-free art residency modeled on the productive constraint he experienced in jail.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -1,197 +1,887 @@
 {
-  "episode_id":"i06A3F4XkEc",
-  "title":"Eastman and Laird Commentary on TMNT #8 — David Choe cohosts",
-  "reviewed_on":"2026-07-31",
-  "summary":"Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim. The episode is unusually strong on physical comics production: treatments, collaborative layouts, dialogue polish, photocopy preservation, mailed pages, Sim's redrawing/inking/lettering, Duoshade, Zip-A-Tone, airbrush, frisket, balloon planning and original-page division. Eastman and Laird distinguish their creator-owned black-and-white comic from the child-facing animated adaptation, describing both retained approval and flexibility. Choe's central reading is that friendship, brotherhood, visible fun and serious commitment to a ridiculous premise made the work resonate; he explicitly labels imagined parts of that collaboration as fantasy, and the creators partly confirm the chemistry while acknowledging later difficult periods. The panel traces Richard Corben, Barry Windsor-Smith, Jack Kirby, George Romero, Tom Savini, Time Bandits and other influences; examines the black-and-white boom, parody books and fan letters; and closes with current creator promotion plus a long Cartoonist Kayfabe house ad. Sales, royalty, ownership, credit, contract and market-collapse numbers remain attributed memories pending primary records. Choe's speculation, sexualized Renet commentary and mental-illness metaphor remain uncensored but are not upgraded into biography, diagnosis or neutral metadata. Five public participants are known at episode level, but automatic captions contain zero publisher speaker prefixes, so named line-level turns remain withheld.",
-  "quality":{"raw_segments":2265,"clean_segments":2265,"raw_words_approx":16744,"clean_words_approx":16744,"duration_seconds":5346.159,"accepted_context_decisions":156,"chapters":110,"connections":20,"content_warnings":18,"identity_windows":0,"named_turns":0,"publisher_labeled_speakers":0,"cleaning_edits":0,"cleaning_net_word_delta":0,"public_restriction_spans":36},
-  "chapters":[
-    {"t":0,"title":"TMNT #8 creator commentary cold open"},
-    {"t":27,"title":"Piskor and Rugg introduce the five-person panel"},
-    {"t":81,"title":"wrestling, aikido and Steven Seagal joke"},
-    {"t":96,"title":"Choe's earlier Raphael review"},
-    {"t":101,"title":"Joe Manganiello and original RPG art"},
-    {"t":127,"title":"religious childhood and D&D restriction"},
-    {"t":169,"title":"TMNT role-playing game"},
-    {"t":279,"title":"early Eastman and Laird artwork"},
-    {"t":305,"title":"Richard Corben and airbrush influence"},
-    {"t":356,"title":"high-school van and airbrush failures"},
-    {"t":388,"title":"frisket, bubbles and snow"},
-    {"t":399,"title":"Steve Lavigne and blue-line color"},
-    {"t":442,"title":"Duoshade chemical tone"},
-    {"t":477,"title":"Zip-A-Tone comparison"},
-    {"t":500,"title":"Dave Sim and Gerhard technique attribution"},
-    {"t":576,"title":"Renet costume and character design"},
-    {"t":594,"title":"private former girlfriend as partial inspiration"},
-    {"t":686,"title":"how the Cerebus crossover began"},
-    {"t":724,"title":"Elfquest and self-publishing influence"},
-    {"t":759,"title":"Barry Windsor-Smith and Conan"},
-    {"t":800,"title":"Choe's limited Cerebus reading"},
-    {"t":828,"title":"Eastman contacts Dave Sim"},
-    {"t":898,"title":"touring and creator-owned comics"},
-    {"t":935,"title":"print-run and royalty memories"},
-    {"t":953,"title":"Comic Book Legal Defense Fund donation claim"},
-    {"t":1004,"title":"Creator's Bill of Rights context"},
-    {"t":1024,"title":"story-first collaboration"},
-    {"t":1086,"title":"treatments, layouts and dialogue polish"},
-    {"t":1117,"title":"photocopying before Duoshade"},
-    {"t":1163,"title":"mailing selected pages to Sim"},
-    {"t":1241,"title":"Sim's lettering and awards claim"},
-    {"t":1285,"title":"Cerebus group redraw"},
-    {"t":1321,"title":"issue length self-correction"},
-    {"t":1328,"title":"Mike Dooney and studio help"},
-    {"t":1351,"title":"Gerhard background and tone credit"},
-    {"t":1387,"title":"mid-episode Kayfabe house ad"},
-    {"t":1423,"title":"issue commentary resumes"},
-    {"t":1479,"title":"claimed top-selling Mirage TMNT issue"},
-    {"t":1513,"title":"Choe's sexualized Renet response"},
-    {"t":1559,"title":"music influences and damaged caption"},
-    {"t":1587,"title":"Renet as intentionally strong but clumsy"},
-    {"t":1603,"title":"Savini and Romero become Savanti Romero"},
-    {"t":1623,"title":"Lord Simultaneous and Time Bandits"},
-    {"t":1639,"title":"VHS comfort films"},
-    {"t":1672,"title":"early home-studio chronology"},
-    {"t":1721,"title":"water battle as character action"},
-    {"t":1752,"title":"David Mamet and character through action"},
-    {"t":1770,"title":"Jack Kirby influence"},
-    {"t":1858,"title":"Lord Simultaneous name joke"},
-    {"t":1933,"title":"Stephen Hawking and string-theory joke"},
-    {"t":1944,"title":"where the original pages went"},
-    {"t":1981,"title":"coin flip and alternating page picks"},
-    {"t":2038,"title":"art reused for Hip Hop Family Tree"},
-    {"t":2063,"title":"selling versus retaining originals"},
-    {"t":2125,"title":"Kirby Boom Tube and time travel"},
-    {"t":2192,"title":"chemical tone and lettering styles"},
-    {"t":2253,"title":"Steve Lavigne learns lettering"},
-    {"t":2297,"title":"planning panels around balloons"},
-    {"t":2332,"title":"one-pass mail workflow question"},
-    {"t":2388,"title":"Sim's fourth-wall Cerebus asides"},
-    {"t":2440,"title":"nudity and torture imagery question"},
-    {"t":2483,"title":"reference for Renet and April"},
-    {"t":2514,"title":"recurring Chad gag"},
-    {"t":2545,"title":"Kirby-style establishing spreads"},
-    {"t":2641,"title":"Eastman and Laird styles blend"},
-    {"t":2711,"title":"Barry Windsor-Smith foliage influence"},
-    {"t":2790,"title":"Fugitoid cover"},
-    {"t":2811,"title":"rejected Weird Science hypothesis"},
-    {"t":2940,"title":"creator control and pop-culture homage"},
-    {"t":2992,"title":"franchise renews across generations"},
-    {"t":3030,"title":"time travel and Turtles in Time"},
-    {"t":3104,"title":"black-and-white TMNT as Choe's core version"},
-    {"t":3150,"title":"cartoon adaptation and studio notes"},
-    {"t":3191,"title":"Laird recalls anger then separation of versions"},
-    {"t":3276,"title":"distinct bandana colors"},
-    {"t":3324,"title":"April adapted as a reporter"},
-    {"t":3363,"title":"cartooning remained the original dream"},
-    {"t":3443,"title":"schoolyard mythology of violent originals"},
-    {"t":3499,"title":"Choe's flexibility lesson"},
-    {"t":3568,"title":"control made adaptation easier"},
-    {"t":3601,"title":"Mark Freedman and creator approval"},
-    {"t":3644,"title":"Renet expands the story universe"},
-    {"t":3690,"title":"Zen as attempted second franchise"},
-    {"t":3776,"title":"TMNT imitators and parody titles"},
-    {"t":3830,"title":"fans determine what survives"},
-    {"t":3880,"title":"Choe's friendship and brotherhood reading"},
-    {"t":4027,"title":"Choe labels imagined collaboration as fantasy"},
-    {"t":4072,"title":"Eastman remembers creative chemistry"},
-    {"t":4163,"title":"later relationship difficulties"},
-    {"t":4219,"title":"mental-illness metaphor and commitment"},
-    {"t":4277,"title":"Citizen Kane joke and 40-page issues"},
-    {"t":4362,"title":"story length versus profit motive"},
-    {"t":4382,"title":"black-and-white bubble warning"},
-    {"t":4422,"title":"letters-page criticism"},
-    {"t":4500,"title":"balanced praise and criticism"},
-    {"t":4573,"title":"computerized TMNT short"},
-    {"t":4624,"title":"Atari ST and Coleco Adam correction"},
-    {"t":4678,"title":"computer rendering, print and paste"},
-    {"t":4714,"title":"issue discussion wraps"},
-    {"t":4725,"title":"Killer Kiwis parody ad"},
-    {"t":4764,"title":"black-and-white boom and bust"},
-    {"t":4822,"title":"Mirage expanded publishing and preorder memories"},
-    {"t":4866,"title":"Choe's Xeric Grant and wall-price story"},
-    {"t":4883,"title":"1986 parody-title list"},
-    {"t":4936,"title":"40th-anniversary appearances"},
-    {"t":4992,"title":"Eastman and Laird collaborate again"},
-    {"t":5063,"title":"Choe urges Piskor and Rugg to make a comic"},
-    {"t":5133,"title":"guest conversation ends"},
-    {"t":5135,"title":"full Cartoonist Kayfabe closing house ad"},
-    {"t":5341,"title":"read more comics"}
+  "episode_id": "i06A3F4XkEc",
+  "title": "Eastman and Laird Commentary on TMNT #8 — David Choe cohosts",
+  "reviewed_on": "2026-07-31",
+  "summary": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim. The episode is unusually strong on physical comics production: treatments, collaborative layouts, dialogue polish, photocopy preservation, mailed pages, Sim's redrawing/inking/lettering, Duoshade, Zip-A-Tone, airbrush, frisket, balloon planning and original-page division. Eastman and Laird distinguish their creator-owned black-and-white comic from the child-facing animated adaptation, describing both retained approval and flexibility. Choe's central reading is that friendship, brotherhood, visible fun and serious commitment to a ridiculous premise made the work resonate; he explicitly labels imagined parts of that collaboration as fantasy, and the creators partly confirm the chemistry while acknowledging later difficult periods. The panel traces Richard Corben, Barry Windsor-Smith, Jack Kirby, George Romero, Tom Savini, Time Bandits and other influences; examines the black-and-white boom, parody books and fan letters; and closes with current creator promotion plus a long Cartoonist Kayfabe house ad. Sales, royalty, ownership, credit, contract and market-collapse numbers remain attributed memories pending primary records. Choe's speculation, sexualized Renet commentary and mental-illness metaphor remain uncensored but are not upgraded into biography, diagnosis or neutral metadata. Five public participants are known at episode level, but automatic captions contain zero publisher speaker prefixes, so named line-level turns remain withheld.",
+  "quality": {
+    "raw_segments": 2265,
+    "clean_segments": 2265,
+    "raw_words_approx": 16744,
+    "clean_words_approx": 16744,
+    "duration_seconds": 5346.159,
+    "accepted_context_decisions": 156,
+    "chapters": 110,
+    "connections": 20,
+    "content_warnings": 18,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 36
+  },
+  "chapters": [
+    {
+      "t": 0,
+      "title": "TMNT #8 creator commentary cold open"
+    },
+    {
+      "t": 27,
+      "title": "Piskor and Rugg introduce the five-person panel"
+    },
+    {
+      "t": 81,
+      "title": "wrestling, aikido and Steven Seagal joke"
+    },
+    {
+      "t": 96,
+      "title": "Choe's earlier Raphael review"
+    },
+    {
+      "t": 101,
+      "title": "Joe Manganiello and original RPG art"
+    },
+    {
+      "t": 127,
+      "title": "religious childhood and D&D restriction"
+    },
+    {
+      "t": 169,
+      "title": "TMNT role-playing game"
+    },
+    {
+      "t": 279,
+      "title": "early Eastman and Laird artwork"
+    },
+    {
+      "t": 305,
+      "title": "Richard Corben and airbrush influence"
+    },
+    {
+      "t": 356,
+      "title": "high-school van and airbrush failures"
+    },
+    {
+      "t": 388,
+      "title": "frisket, bubbles and snow"
+    },
+    {
+      "t": 399,
+      "title": "Steve Lavigne and blue-line color"
+    },
+    {
+      "t": 442,
+      "title": "Duoshade chemical tone"
+    },
+    {
+      "t": 477,
+      "title": "Zip-A-Tone comparison"
+    },
+    {
+      "t": 500,
+      "title": "Dave Sim and Gerhard technique attribution"
+    },
+    {
+      "t": 576,
+      "title": "Renet costume and character design"
+    },
+    {
+      "t": 594,
+      "title": "private former girlfriend as partial inspiration"
+    },
+    {
+      "t": 686,
+      "title": "how the Cerebus crossover began"
+    },
+    {
+      "t": 724,
+      "title": "Elfquest and self-publishing influence"
+    },
+    {
+      "t": 759,
+      "title": "Barry Windsor-Smith and Conan"
+    },
+    {
+      "t": 800,
+      "title": "Choe's limited Cerebus reading"
+    },
+    {
+      "t": 828,
+      "title": "Eastman contacts Dave Sim"
+    },
+    {
+      "t": 898,
+      "title": "touring and creator-owned comics"
+    },
+    {
+      "t": 935,
+      "title": "print-run and royalty memories"
+    },
+    {
+      "t": 953,
+      "title": "Comic Book Legal Defense Fund donation claim"
+    },
+    {
+      "t": 1004,
+      "title": "Creator's Bill of Rights context"
+    },
+    {
+      "t": 1024,
+      "title": "story-first collaboration"
+    },
+    {
+      "t": 1086,
+      "title": "treatments, layouts and dialogue polish"
+    },
+    {
+      "t": 1117,
+      "title": "photocopying before Duoshade"
+    },
+    {
+      "t": 1163,
+      "title": "mailing selected pages to Sim"
+    },
+    {
+      "t": 1241,
+      "title": "Sim's lettering and awards claim"
+    },
+    {
+      "t": 1285,
+      "title": "Cerebus group redraw"
+    },
+    {
+      "t": 1321,
+      "title": "issue length self-correction"
+    },
+    {
+      "t": 1328,
+      "title": "Mike Dooney and studio help"
+    },
+    {
+      "t": 1351,
+      "title": "Gerhard background and tone credit"
+    },
+    {
+      "t": 1387,
+      "title": "mid-episode Kayfabe house ad"
+    },
+    {
+      "t": 1423,
+      "title": "issue commentary resumes"
+    },
+    {
+      "t": 1479,
+      "title": "claimed top-selling Mirage TMNT issue"
+    },
+    {
+      "t": 1513,
+      "title": "Choe's sexualized Renet response"
+    },
+    {
+      "t": 1559,
+      "title": "music influences and damaged caption"
+    },
+    {
+      "t": 1587,
+      "title": "Renet as intentionally strong but clumsy"
+    },
+    {
+      "t": 1603,
+      "title": "Savini and Romero become Savanti Romero"
+    },
+    {
+      "t": 1623,
+      "title": "Lord Simultaneous and Time Bandits"
+    },
+    {
+      "t": 1639,
+      "title": "VHS comfort films"
+    },
+    {
+      "t": 1672,
+      "title": "early home-studio chronology"
+    },
+    {
+      "t": 1721,
+      "title": "water battle as character action"
+    },
+    {
+      "t": 1752,
+      "title": "David Mamet and character through action"
+    },
+    {
+      "t": 1770,
+      "title": "Jack Kirby influence"
+    },
+    {
+      "t": 1858,
+      "title": "Lord Simultaneous name joke"
+    },
+    {
+      "t": 1933,
+      "title": "Stephen Hawking and string-theory joke"
+    },
+    {
+      "t": 1944,
+      "title": "where the original pages went"
+    },
+    {
+      "t": 1981,
+      "title": "coin flip and alternating page picks"
+    },
+    {
+      "t": 2038,
+      "title": "art reused for Hip Hop Family Tree"
+    },
+    {
+      "t": 2063,
+      "title": "selling versus retaining originals"
+    },
+    {
+      "t": 2125,
+      "title": "Kirby Boom Tube and time travel"
+    },
+    {
+      "t": 2192,
+      "title": "chemical tone and lettering styles"
+    },
+    {
+      "t": 2253,
+      "title": "Steve Lavigne learns lettering"
+    },
+    {
+      "t": 2297,
+      "title": "planning panels around balloons"
+    },
+    {
+      "t": 2332,
+      "title": "one-pass mail workflow question"
+    },
+    {
+      "t": 2388,
+      "title": "Sim's fourth-wall Cerebus asides"
+    },
+    {
+      "t": 2440,
+      "title": "nudity and torture imagery question"
+    },
+    {
+      "t": 2483,
+      "title": "reference for Renet and April"
+    },
+    {
+      "t": 2514,
+      "title": "recurring Chad gag"
+    },
+    {
+      "t": 2545,
+      "title": "Kirby-style establishing spreads"
+    },
+    {
+      "t": 2641,
+      "title": "Eastman and Laird styles blend"
+    },
+    {
+      "t": 2711,
+      "title": "Barry Windsor-Smith foliage influence"
+    },
+    {
+      "t": 2790,
+      "title": "Fugitoid cover"
+    },
+    {
+      "t": 2811,
+      "title": "rejected Weird Science hypothesis"
+    },
+    {
+      "t": 2940,
+      "title": "creator control and pop-culture homage"
+    },
+    {
+      "t": 2992,
+      "title": "franchise renews across generations"
+    },
+    {
+      "t": 3030,
+      "title": "time travel and Turtles in Time"
+    },
+    {
+      "t": 3104,
+      "title": "black-and-white TMNT as Choe's core version"
+    },
+    {
+      "t": 3150,
+      "title": "cartoon adaptation and studio notes"
+    },
+    {
+      "t": 3191,
+      "title": "Laird recalls anger then separation of versions"
+    },
+    {
+      "t": 3276,
+      "title": "distinct bandana colors"
+    },
+    {
+      "t": 3324,
+      "title": "April adapted as a reporter"
+    },
+    {
+      "t": 3363,
+      "title": "cartooning remained the original dream"
+    },
+    {
+      "t": 3443,
+      "title": "schoolyard mythology of violent originals"
+    },
+    {
+      "t": 3499,
+      "title": "Choe's flexibility lesson"
+    },
+    {
+      "t": 3568,
+      "title": "control made adaptation easier"
+    },
+    {
+      "t": 3601,
+      "title": "Mark Freedman and creator approval"
+    },
+    {
+      "t": 3644,
+      "title": "Renet expands the story universe"
+    },
+    {
+      "t": 3690,
+      "title": "Zen as attempted second franchise"
+    },
+    {
+      "t": 3776,
+      "title": "TMNT imitators and parody titles"
+    },
+    {
+      "t": 3830,
+      "title": "fans determine what survives"
+    },
+    {
+      "t": 3880,
+      "title": "Choe's friendship and brotherhood reading"
+    },
+    {
+      "t": 4027,
+      "title": "Choe labels imagined collaboration as fantasy"
+    },
+    {
+      "t": 4072,
+      "title": "Eastman remembers creative chemistry"
+    },
+    {
+      "t": 4163,
+      "title": "later relationship difficulties"
+    },
+    {
+      "t": 4219,
+      "title": "mental-illness metaphor and commitment"
+    },
+    {
+      "t": 4277,
+      "title": "Citizen Kane joke and 40-page issues"
+    },
+    {
+      "t": 4362,
+      "title": "story length versus profit motive"
+    },
+    {
+      "t": 4382,
+      "title": "black-and-white bubble warning"
+    },
+    {
+      "t": 4422,
+      "title": "letters-page criticism"
+    },
+    {
+      "t": 4500,
+      "title": "balanced praise and criticism"
+    },
+    {
+      "t": 4573,
+      "title": "computerized TMNT short"
+    },
+    {
+      "t": 4624,
+      "title": "Atari ST and Coleco Adam correction"
+    },
+    {
+      "t": 4678,
+      "title": "computer rendering, print and paste"
+    },
+    {
+      "t": 4714,
+      "title": "issue discussion wraps"
+    },
+    {
+      "t": 4725,
+      "title": "Killer Kiwis parody ad"
+    },
+    {
+      "t": 4764,
+      "title": "black-and-white boom and bust"
+    },
+    {
+      "t": 4822,
+      "title": "Mirage expanded publishing and preorder memories"
+    },
+    {
+      "t": 4866,
+      "title": "Choe's Xeric Grant and wall-price story"
+    },
+    {
+      "t": 4883,
+      "title": "1986 parody-title list"
+    },
+    {
+      "t": 4936,
+      "title": "40th-anniversary appearances"
+    },
+    {
+      "t": 4992,
+      "title": "Eastman and Laird collaborate again"
+    },
+    {
+      "t": 5063,
+      "title": "Choe urges Piskor and Rugg to make a comic"
+    },
+    {
+      "t": 5133,
+      "title": "guest conversation ends"
+    },
+    {
+      "t": 5135,
+      "title": "full Cartoonist Kayfabe closing house ad"
+    },
+    {
+      "t": 5341,
+      "title": "read more comics"
+    }
   ],
-  "connections":[
-    {"t":101,"to":"object provenance","relationship":"Original RPG art, documentary access and current ownership are different facts."},
-    {"t":127,"to":"Thumbs Up! autobiography","relationship":"Choe again links religious childhood restrictions with later self-directed exploration."},
-    {"t":442,"to":"craft technique","relationship":"Duoshade, Zip-A-Tone, airbrush and frisket make physical production searchable independently of themes."},
-    {"t":594,"to":"private design sources","relationship":"A private former partner can influence a public character without becoming an archive subject."},
-    {"t":800,"to":"source reliability","relationship":"Choe distinguishes limited reading, speculation and what he is making up from creator recollection."},
-    {"t":935,"to":"creator economics","relationship":"Print runs, royalty checks, donation and later value require separate accounting evidence."},
-    {"t":1086,"to":"collaborative authorship","relationship":"Treatments, layouts, dialogue polish, inking, lettering and backgrounds distribute authorship across steps."},
-    {"t":1387,"to":"edition boundaries","relationship":"House ads remain searchable but do not become episode claims or thematic evidence."},
-    {"t":1513,"to":"uncensored contextualization","relationship":"Sexualized commentary is preserved as Choe's response without becoming neutral character metadata."},
-    {"t":1721,"to":"storytelling through action","relationship":"Water, movement and pranks reveal character without expository dialogue."},
-    {"t":1944,"to":"art-object chain of custody","relationship":"Creation, division, gifting, sale, reuse and current possession are independent provenance events."},
-    {"t":2388,"to":"tone in collaboration","relationship":"Sim's self-aware asides complicate Choe's earlier probe about hostility or jealousy."},
-    {"t":2811,"to":"rejected influence hypothesis","relationship":"A plausible Weird Science/Chet theory is asked and not remembered by the creators."},
-    {"t":3191,"to":"multiple versions","relationship":"The creators separate their original comic from adaptations rather than declaring one replacement canon."},
-    {"t":3499,"to":"creative flexibility","relationship":"Choe extracts a personal success lesson; Eastman and Laird narrow it with ownership and prior self-expression."},
-    {"t":3880,"to":"fandom as criticism","relationship":"Choe's childhood reading becomes an argument about friendship, brotherhood and visible pleasure in work."},
-    {"t":4027,"to":"inference labeling","relationship":"Choe explicitly marks his imagined studio scene as fantasy before creators respond."},
-    {"t":4163,"to":"non-hagiographic history","relationship":"Creative chemistry and later relationship strain remain together rather than one erasing the other."},
-    {"t":4422,"to":"critical reception","relationship":"The creators remember intentionally printing criticism beside praise."},
-    {"t":4764,"to":"market feedback loops","relationship":"TMNT's success inspired sincere work, parody and speculation, followed by discount-bin outcomes."}
+  "connections": [
+    {
+      "t": 101,
+      "to": "object provenance",
+      "relationship": "Original RPG art, documentary access and current ownership are different facts."
+    },
+    {
+      "t": 127,
+      "to": "Thumbs Up! autobiography",
+      "relationship": "Choe again links religious childhood restrictions with later self-directed exploration."
+    },
+    {
+      "t": 442,
+      "to": "craft technique",
+      "relationship": "Duoshade, Zip-A-Tone, airbrush and frisket make physical production searchable independently of themes."
+    },
+    {
+      "t": 594,
+      "to": "private design sources",
+      "relationship": "A private former partner can influence a public character without becoming an archive subject."
+    },
+    {
+      "t": 800,
+      "to": "source reliability",
+      "relationship": "Choe distinguishes limited reading, speculation and what he is making up from creator recollection."
+    },
+    {
+      "t": 935,
+      "to": "creator economics",
+      "relationship": "Print runs, royalty checks, donation and later value require separate accounting evidence."
+    },
+    {
+      "t": 1086,
+      "to": "collaborative authorship",
+      "relationship": "Treatments, layouts, dialogue polish, inking, lettering and backgrounds distribute authorship across steps."
+    },
+    {
+      "t": 1387,
+      "to": "edition boundaries",
+      "relationship": "House ads remain searchable but do not become episode claims or thematic evidence."
+    },
+    {
+      "t": 1513,
+      "to": "uncensored contextualization",
+      "relationship": "Sexualized commentary is preserved as Choe's response without becoming neutral character metadata."
+    },
+    {
+      "t": 1721,
+      "to": "storytelling through action",
+      "relationship": "Water, movement and pranks reveal character without expository dialogue."
+    },
+    {
+      "t": 1944,
+      "to": "art-object chain of custody",
+      "relationship": "Creation, division, gifting, sale, reuse and current possession are independent provenance events."
+    },
+    {
+      "t": 2388,
+      "to": "tone in collaboration",
+      "relationship": "Sim's self-aware asides complicate Choe's earlier probe about hostility or jealousy."
+    },
+    {
+      "t": 2811,
+      "to": "rejected influence hypothesis",
+      "relationship": "A plausible Weird Science/Chet theory is asked and not remembered by the creators."
+    },
+    {
+      "t": 3191,
+      "to": "multiple versions",
+      "relationship": "The creators separate their original comic from adaptations rather than declaring one replacement canon."
+    },
+    {
+      "t": 3499,
+      "to": "creative flexibility",
+      "relationship": "Choe extracts a personal success lesson; Eastman and Laird narrow it with ownership and prior self-expression."
+    },
+    {
+      "t": 3880,
+      "to": "fandom as criticism",
+      "relationship": "Choe's childhood reading becomes an argument about friendship, brotherhood and visible pleasure in work."
+    },
+    {
+      "t": 4027,
+      "to": "inference labeling",
+      "relationship": "Choe explicitly marks his imagined studio scene as fantasy before creators respond."
+    },
+    {
+      "t": 4163,
+      "to": "non-hagiographic history",
+      "relationship": "Creative chemistry and later relationship strain remain together rather than one erasing the other."
+    },
+    {
+      "t": 4422,
+      "to": "critical reception",
+      "relationship": "The creators remember intentionally printing criticism beside praise."
+    },
+    {
+      "t": 4764,
+      "to": "market feedback loops",
+      "relationship": "TMNT's success inspired sincere work, parody and speculation, followed by discount-bin outcomes."
+    }
   ],
-  "people":["David Choe","Kevin Eastman","Peter Laird","Ed Piskor","Jim Rugg","Dave Sim","Gerhard","Steve Lavigne","Joe Manganiello","Richard Corben","Wendy Pini","Richard Pini","Barry Windsor-Smith","Mike Dooney","Tom Savini","George A. Romero","Terry Gilliam","David Mamet","Jack Kirby","Mark Freedman","Bill Paxton","Stan Sakai","Ryan Brown","private former partners and correspondents"],
-  "places":["Portland, Maine","Northampton, Massachusetts [historic studio detail minimized]","New York City [fictional setting]","Manhattan [fictional setting]","Golden Apple Comics [historic retail anecdote]","private residences withheld"],
-  "themes":["collaborative authorship","creator ownership","adaptation","creative flexibility","friendship","brotherhood","visible fun","serious commitment to a joke","storytelling through action","physical comics production","self-publishing","creator economics","art provenance","fan criticism","market booms and imitation","speculation versus memory","privacy","edition boundaries","uncensored contextualization","speaker ambiguity"],
-  "works":["Teenage Mutant Ninja Turtles #8","Cerebus","Teenage Mutant Ninja Turtles & Other Strangeness","Elfquest","Conan","Fugitoid","Time Bandits","Aliens","The Thing","The Untouchables","Weird Science","The Empire Strikes Back","Teenage Mutant Ninja Turtles IV: Turtles in Time","High Fidelity","Zen, Intergalactic Ninja","Adolescent Radioactive Black Belt Hamsters","Biker Mice from Mars","Wild West C.O.W.-Boys of Moo Mesa","Street Sharks","Citizen Kane","Shell Shock","Killer Kiwis","Hip Hop Family Tree","X-Men: Grand Design","Red Room","Street Angel","Switchblade Shorties","Usagi Yojimbo"],
-  "source_notes":[
-    {"t":35,"claim":"The five known participants make every caption line safely nameable.","assessment":"No. The automatic captions provide zero publisher speaker prefixes; quotations, interruptions and host/guest overlap require held-out acoustic/video validation.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":594,"claim":"Renet's design source authorizes identifying Steve Lavigne's former girlfriend.","assessment":"No. Preserve the oral-history influence while withholding private identity and relationship reconstruction.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":800,"claim":"Dave Sim was jealous of TMNT's success.","assessment":"Choe explicitly says he is making that up; Eastman offers a narrower memory about influence and sales resentment. Keep those evidence levels separate.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":935,"claim":"The episode proves exact print runs, royalty checks and donation totals.","assessment":"Numbers conflict or are recalled decades later. Printed statements, contracts or CBLDF records are required for exact accounting.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":1351,"claim":"Gerhard's exact contribution can be inferred from captions.","assessment":"The discussion strongly suggests background and tone work, but exact page/credit scope should follow the printed issue.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":1479,"claim":"TMNT #8 is definitively Mirage's highest-selling issue at 135,000 copies.","assessment":"This is a participant claim with nearby number confusion; verify against Mirage printing/sales records.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":2811,"claim":"The recurring Chad gag comes from Bill Paxton's Chet in Weird Science.","assessment":"The host proposes the influence, but neither creator remembers it; retain as a rejected/unresolved hypothesis.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":3324,"claim":"Every adaptation change was imposed by a studio.","assessment":"Eastman and Laird describe proposing/approving several changes and retaining meaningful approval, while exact legal scope remains a contract question.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":4027,"claim":"Choe witnessed Eastman and Laird laughing and passing pages back and forth.","assessment":"Choe explicitly calls that scene a fantasy he constructed from reading; the creators confirm broader chemistry, not every imagined action.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"},
-    {"t":4832,"claim":"Mirage titles received exact 85,000–100,000 preorders and then all entered discount bins.","assessment":"Treat as Eastman's market recollection until title-level print/order/return records are found.","source":"https://www.youtube.com/watch?v=i06A3F4XkEc"}
+  "people": [
+    "David Choe",
+    "Kevin Eastman",
+    "Peter Laird",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Dave Sim",
+    "Gerhard",
+    "Steve Lavigne",
+    "Joe Manganiello",
+    "Richard Corben",
+    "Wendy Pini",
+    "Richard Pini",
+    "Barry Windsor-Smith",
+    "Mike Dooney",
+    "Tom Savini",
+    "George A. Romero",
+    "Terry Gilliam",
+    "David Mamet",
+    "Jack Kirby",
+    "Mark Freedman",
+    "Bill Paxton",
+    "Stan Sakai",
+    "Ryan Brown",
+    "private former partners and correspondents"
   ],
-  "content_warnings":["explicit sexual commentary","nudity and torture imagery discussion","mental-illness metaphor","religious-childhood restrictions","racialized and offensive jokes","private former partners","private residences","deceased private correspondents","creator jealousy speculation","historic alcohol joke","creator-rights claims","sales and royalty claims","art ownership and price claims","copyright/trademark jokes","market-motive allegations","profanity","house-ad commerce","unresolved speaker identity"],
-  "publication_restrictions":[
-    {"t":0,"rule":"retain immutable captions; apply fixture repairs only in a separate clean layer"},
-    {"t":35,"rule":"publish no named line-level turns before independently held-out acoustic/video validation"},
-    {"t":101,"rule":"separate object creation, ownership, access, documentary use and image rights"},
-    {"t":127,"rule":"keep Choe's religious-childhood account first-person; do not generalize to all families"},
-    {"t":305,"rule":"verify creator/title spellings against primary credits before linking"},
-    {"t":594,"rule":"do not identity-resolve or profile Steve Lavigne's private former girlfriend"},
-    {"t":686,"rule":"do not convert Choe's prompts into creator answers without explicit confirmation"},
-    {"t":800,"rule":"retain Choe's ‘making this up’ disclaimer before narrower Eastman recollection"},
-    {"t":935,"rule":"do not publish exact print, check or donation numbers as audited accounting"},
-    {"t":1086,"rule":"distinguish story, layout, dialogue, pencil, ink, lettering, tone and background credits"},
-    {"t":1163,"rule":"do not infer current page ownership from historic mail workflow"},
-    {"t":1328,"rule":"verify Mike Dooney and studio-assistant page credits from the printed issue"},
-    {"t":1387,"rule":"keep house-ad material searchable but outside episode-derived claims and summary themes"},
-    {"t":1479,"rule":"verify highest-selling-issue and 135,000-copy claims before presenting as fact"},
-    {"t":1513,"rule":"preserve sexualized commentary but exclude it from neutral character metadata"},
-    {"t":1559,"rule":"leave damaged music names unresolved until audio confirms them"},
-    {"t":1672,"rule":"minimize private former residences and studio-location details"},
-    {"t":1752,"rule":"label Mamet wording as a paraphrased craft principle unless exact source text is verified"},
-    {"t":1944,"rule":"do not claim current ownership or location of any original page"},
-    {"t":2063,"rule":"historic page prices are memories, not current valuation guidance"},
-    {"t":2332,"rule":"do not overstate mail passes or collaboration steps beyond remembered workflow"},
-    {"t":2440,"rule":"do not reproduce page imagery without rights and visual-context review"},
-    {"t":2483,"rule":"do not infer private live models or sexual access from a question/joke"},
-    {"t":2811,"rule":"preserve Weird Science/Chet as an unconfirmed hypothesis rejected by memory"},
-    {"t":2940,"rule":"do not treat homage jokes as legal clearance or infringement findings"},
-    {"t":3191,"rule":"do not collapse original comic and animated adaptation into one creative intent"},
-    {"t":3324,"rule":"creator recollection of approval is not a substitute for contract evidence"},
-    {"t":3499,"rule":"label Choe's flexibility/commercial-success lesson as his interpretation"},
-    {"t":3617,"rule":"verify Jack Kirby rights comparison from reliable history before making legal claims"},
-    {"t":4027,"rule":"label Choe's imagined studio scene as fantasy, not eyewitness testimony"},
-    {"t":4163,"rule":"retain later relationship difficulty beside the creative-chemistry account"},
-    {"t":4219,"rule":"do not use ‘mental illness’ joke as diagnosis or health metadata"},
-    {"t":4422,"rule":"do not identity-profile private letter writers or amplify death lookups"},
-    {"t":4604,"rule":"verify computerized-story publication history from a bibliography"},
-    {"t":4832,"rule":"do not publish preorder/discount-bin memories as audited market data"},
-    {"t":5135,"rule":"keep closing Patreon/book/merchandise speech as edition/commerce material"}
+  "places": [
+    "Portland, Maine",
+    "Northampton, Massachusetts [historic studio detail minimized]",
+    "New York City [fictional setting]",
+    "Manhattan [fictional setting]",
+    "Golden Apple Comics [historic retail anecdote]",
+    "private residences withheld"
   ],
-  "speaker_policy":{"status":"all line-level turns unresolved; named turns withheld","reason":"The episode visibly and verbally establishes Ed Piskor, Jim Rugg, Kevin Eastman, Peter Laird and David Choe as public participants. But all 2,265 automatic-caption segments lack publisher speaker prefixes, and the recording includes rapid host questions, guest confirmations, quotations, jokes, interruptions, page-reading and house ads. Topic ownership, adjacency, grammar and visual familiarity cannot prove every turn. Named turns require independently held-out, non-overlapping acoustic/video validation."}
+  "themes": [
+    "collaborative authorship",
+    "creator ownership",
+    "adaptation",
+    "creative flexibility",
+    "friendship",
+    "brotherhood",
+    "visible fun",
+    "serious commitment to a joke",
+    "storytelling through action",
+    "physical comics production",
+    "self-publishing",
+    "creator economics",
+    "art provenance",
+    "fan criticism",
+    "market booms and imitation",
+    "speculation versus memory",
+    "privacy",
+    "edition boundaries",
+    "uncensored contextualization",
+    "speaker ambiguity"
+  ],
+  "works": [
+    "Teenage Mutant Ninja Turtles #8",
+    "Cerebus",
+    "Teenage Mutant Ninja Turtles & Other Strangeness",
+    "Elfquest",
+    "Conan",
+    "Fugitoid",
+    "Time Bandits",
+    "Aliens",
+    "The Thing",
+    "The Untouchables",
+    "Weird Science",
+    "The Empire Strikes Back",
+    "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+    "High Fidelity",
+    "Zen, Intergalactic Ninja",
+    "Adolescent Radioactive Black Belt Hamsters",
+    "Biker Mice from Mars",
+    "Wild West C.O.W.-Boys of Moo Mesa",
+    "Street Sharks",
+    "Citizen Kane",
+    "Shell Shock",
+    "Killer Kiwis",
+    "Hip Hop Family Tree",
+    "X-Men: Grand Design",
+    "Red Room",
+    "Street Angel",
+    "Switchblade Shorties",
+    "Usagi Yojimbo"
+  ],
+  "source_notes": [
+    {
+      "t": 35,
+      "claim": "The five known participants make every caption line safely nameable.",
+      "assessment": "No. The automatic captions provide zero publisher speaker prefixes; quotations, interruptions and host/guest overlap require held-out acoustic/video validation.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 594,
+      "claim": "Renet's design source authorizes identifying Steve Lavigne's former girlfriend.",
+      "assessment": "No. Preserve the oral-history influence while withholding private identity and relationship reconstruction.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 800,
+      "claim": "Dave Sim was jealous of TMNT's success.",
+      "assessment": "Choe explicitly says he is making that up; Eastman offers a narrower memory about influence and sales resentment. Keep those evidence levels separate.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 935,
+      "claim": "The episode proves exact print runs, royalty checks and donation totals.",
+      "assessment": "Numbers conflict or are recalled decades later. Printed statements, contracts or CBLDF records are required for exact accounting.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 1351,
+      "claim": "Gerhard's exact contribution can be inferred from captions.",
+      "assessment": "The discussion strongly suggests background and tone work, but exact page/credit scope should follow the printed issue.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 1479,
+      "claim": "TMNT #8 is definitively Mirage's highest-selling issue at 135,000 copies.",
+      "assessment": "This is a participant claim with nearby number confusion; verify against Mirage printing/sales records.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 2811,
+      "claim": "The recurring Chad gag comes from Bill Paxton's Chet in Weird Science.",
+      "assessment": "The host proposes the influence, but neither creator remembers it; retain as a rejected/unresolved hypothesis.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 3324,
+      "claim": "Every adaptation change was imposed by a studio.",
+      "assessment": "Eastman and Laird describe proposing/approving several changes and retaining meaningful approval, while exact legal scope remains a contract question.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 4027,
+      "claim": "Choe witnessed Eastman and Laird laughing and passing pages back and forth.",
+      "assessment": "Choe explicitly calls that scene a fantasy he constructed from reading; the creators confirm broader chemistry, not every imagined action.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    },
+    {
+      "t": 4832,
+      "claim": "Mirage titles received exact 85,000–100,000 preorders and then all entered discount bins.",
+      "assessment": "Treat as Eastman's market recollection until title-level print/order/return records are found.",
+      "source": "https://www.youtube.com/watch?v=i06A3F4XkEc"
+    }
+  ],
+  "content_warnings": [
+    "explicit sexual commentary",
+    "nudity and torture imagery discussion",
+    "mental-illness metaphor",
+    "religious-childhood restrictions",
+    "racialized and offensive jokes",
+    "private former partners",
+    "private residences",
+    "deceased private correspondents",
+    "creator jealousy speculation",
+    "historic alcohol joke",
+    "creator-rights claims",
+    "sales and royalty claims",
+    "art ownership and price claims",
+    "copyright/trademark jokes",
+    "market-motive allegations",
+    "profanity",
+    "house-ad commerce",
+    "unresolved speaker identity"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "retain immutable captions; apply fixture repairs only in a separate clean layer"
+    },
+    {
+      "t": 35,
+      "rule": "publish no named line-level turns before independently held-out acoustic/video validation"
+    },
+    {
+      "t": 101,
+      "rule": "separate object creation, ownership, access, documentary use and image rights"
+    },
+    {
+      "t": 127,
+      "rule": "keep Choe's religious-childhood account first-person; do not generalize to all families"
+    },
+    {
+      "t": 305,
+      "rule": "verify creator/title spellings against primary credits before linking"
+    },
+    {
+      "t": 594,
+      "rule": "do not identity-resolve or profile Steve Lavigne's private former girlfriend"
+    },
+    {
+      "t": 686,
+      "rule": "do not convert Choe's prompts into creator answers without explicit confirmation"
+    },
+    {
+      "t": 800,
+      "rule": "retain Choe's ‘making this up’ disclaimer before narrower Eastman recollection"
+    },
+    {
+      "t": 935,
+      "rule": "do not publish exact print, check or donation numbers as audited accounting"
+    },
+    {
+      "t": 1086,
+      "rule": "distinguish story, layout, dialogue, pencil, ink, lettering, tone and background credits"
+    },
+    {
+      "t": 1163,
+      "rule": "do not infer current page ownership from historic mail workflow"
+    },
+    {
+      "t": 1328,
+      "rule": "verify Mike Dooney and studio-assistant page credits from the printed issue"
+    },
+    {
+      "t": 1387,
+      "rule": "keep house-ad material searchable but outside episode-derived claims and summary themes"
+    },
+    {
+      "t": 1479,
+      "rule": "verify highest-selling-issue and 135,000-copy claims before presenting as fact"
+    },
+    {
+      "t": 1513,
+      "rule": "preserve sexualized commentary but exclude it from neutral character metadata"
+    },
+    {
+      "t": 1559,
+      "rule": "leave damaged music names unresolved until audio confirms them"
+    },
+    {
+      "t": 1672,
+      "rule": "minimize private former residences and studio-location details"
+    },
+    {
+      "t": 1752,
+      "rule": "label Mamet wording as a paraphrased craft principle unless exact source text is verified"
+    },
+    {
+      "t": 1944,
+      "rule": "do not claim current ownership or location of any original page"
+    },
+    {
+      "t": 2063,
+      "rule": "historic page prices are memories, not current valuation guidance"
+    },
+    {
+      "t": 2332,
+      "rule": "do not overstate mail passes or collaboration steps beyond remembered workflow"
+    },
+    {
+      "t": 2440,
+      "rule": "do not reproduce page imagery without rights and visual-context review"
+    },
+    {
+      "t": 2483,
+      "rule": "do not infer private live models or sexual access from a question/joke"
+    },
+    {
+      "t": 2811,
+      "rule": "preserve Weird Science/Chet as an unconfirmed hypothesis rejected by memory"
+    },
+    {
+      "t": 2940,
+      "rule": "do not treat homage jokes as legal clearance or infringement findings"
+    },
+    {
+      "t": 3191,
+      "rule": "do not collapse original comic and animated adaptation into one creative intent"
+    },
+    {
+      "t": 3324,
+      "rule": "creator recollection of approval is not a substitute for contract evidence"
+    },
+    {
+      "t": 3499,
+      "rule": "label Choe's flexibility/commercial-success lesson as his interpretation"
+    },
+    {
+      "t": 3617,
+      "rule": "verify Jack Kirby rights comparison from reliable history before making legal claims"
+    },
+    {
+      "t": 4027,
+      "rule": "label Choe's imagined studio scene as fantasy, not eyewitness testimony"
+    },
+    {
+      "t": 4163,
+      "rule": "retain later relationship difficulty beside the creative-chemistry account"
+    },
+    {
+      "t": 4219,
+      "rule": "do not use ‘mental illness’ joke as diagnosis or health metadata"
+    },
+    {
+      "t": 4422,
+      "rule": "do not identity-profile private letter writers or amplify death lookups"
+    },
+    {
+      "t": 4604,
+      "rule": "verify computerized-story publication history from a bibliography"
+    },
+    {
+      "t": 4832,
+      "rule": "do not publish preorder/discount-bin memories as audited market data"
+    },
+    {
+      "t": 5135,
+      "rule": "keep closing Patreon/book/merchandise speech as edition/commerce material"
+    }
+  ],
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "The episode visibly and verbally establishes Ed Piskor, Jim Rugg, Kevin Eastman, Peter Laird and David Choe as public participants. But all 2,265 automatic-caption segments lack publisher speaker prefixes, and the recording includes rapid host questions, guest confirmations, quotations, jokes, interruptions, page-reading and house ads. Topic ownership, adjacency, grammar and visual familiarity cannot prove every turn. Named turns require independently held-out, non-overlapping acoustic/video validation."
+  },
+  "description": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim.",
+  "description_source": "Opening of the human-reviewed summary."
 }

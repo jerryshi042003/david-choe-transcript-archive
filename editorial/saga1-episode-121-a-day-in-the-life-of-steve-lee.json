@@ -40,61 +40,520 @@
   ],
   "speaker_policy": "The diarization file contains zero turns and five fixed-window embeddings. Neither supports named turn publication; named dialogue remains withheld pending independently held-out multispeaker validation.",
   "chapters": [
-    {"t": 0, "title": "cold open"}, {"t": 45, "title": "arm-drag demonstration"}, {"t": 193, "title": "Aaron Pico"}, {"t": 263, "title": "self-defense and retaliation"},
-    {"t": 334, "title": "Rogan and BJJ"}, {"t": 401, "title": "Asian martial-arts riff"}, {"t": 462, "title": "brother and relationship questions"}, {"t": 478, "title": "preference for solitude"},
-    {"t": 524, "title": "relationship slurs and compromise"}, {"t": 563, "title": "Steve's current life"}, {"t": 589, "title": "wake time"}, {"t": 616, "title": "Red Bull and games"},
-    {"t": 693, "title": "Clash of Clans addiction language"}, {"t": 727, "title": "coffee and people watching"}, {"t": 741, "title": "open mics and skating"}, {"t": 842, "title": "refuses brother-name leverage"},
-    {"t": 886, "title": "writing while waiting"}, {"t": 910, "title": "microwave meals"}, {"t": 958, "title": "In-N-Out order"}, {"t": 1008, "title": "soap-shopping ritual"},
-    {"t": 1031, "title": "Coast and Zest"}, {"t": 1144, "title": "comics-store parallel"}, {"t": 1226, "title": "late-night games"}, {"t": 1298, "title": "solitary games as escape"},
-    {"t": 1362, "title": "masturbation ritual begins"}, {"t": 1434, "title": "toy cleaning"}, {"t": 1500, "title": "oil and material compatibility"}, {"t": 1538, "title": "portable-heater risk"},
-    {"t": 1620, "title": "Viagra suggestion"}, {"t": 1671, "title": "three-hour session"}, {"t": 1680, "title": "urine theory"}, {"t": 1728, "title": "frequent urination"},
-    {"t": 1811, "title": "pornography search preferences"}, {"t": 1937, "title": "addiction self-description"}, {"t": 1995, "title": "ritual versus work discipline"}, {"t": 2043, "title": "groupie offers and desensitization"},
-    {"t": 2108, "title": "refusal to condone"}, {"t": 2203, "title": "napkin theft"}, {"t": 2248, "title": "Nick Diaz factual conflation"}, {"t": 2288, "title": "pressure to watch brother's films"},
-    {"t": 2348, "title": "YouTube and sleep aids"}, {"t": 2408, "title": "82.3 percent satisfied"}, {"t": 2441, "title": "work raises satisfaction"}, {"t": 2501, "title": "desired low-commitment relationship"},
-    {"t": 2584, "title": "room satisfaction ratings"}, {"t": 2637, "title": "volunteering suggestion"}, {"t": 2721, "title": "never too late"}, {"t": 2753, "title": "sobriety and flashback claims"},
-    {"t": 2792, "title": "Quiet C boundary"}, {"t": 2885, "title": "solitude called selfish"}, {"t": 2984, "title": "fear of rejection"}, {"t": 3008, "title": "online dating"},
-    {"t": 3036, "title": "fans proposed as dates"}, {"t": 3068, "title": "fans visit workplace"}, {"t": 3108, "title": "workplace advancement"}, {"t": 3136, "title": "forced discomfort and adaptation"},
-    {"t": 3156, "title": "CNBC anxiety"}, {"t": 3221, "title": "compulsive work guilt"}, {"t": 3395, "title": "state-tournament failure"}, {"t": 3421, "title": "failure as gift"},
-    {"t": 3485, "title": "abstinence experiment"}, {"t": 3550, "title": "contested FaceTime claim"}, {"t": 3676, "title": "terminal-illness hypothetical"}, {"t": 3719, "title": "World Cup aspiration"},
-    {"t": 3801, "title": "Afghan soccer-team claim"}, {"t": 3868, "title": "historical comedy schedule"}, {"t": 3924, "title": "ordinary self as stand-up form"}, {"t": 3960, "title": "imitation versus original style"},
-    {"t": 3984, "title": "Tegan enters"}, {"t": 4110, "title": "Gigit explained"}, {"t": 4288, "title": "valuation claim"}, {"t": 4781, "title": "corporate exit and family cost"},
-    {"t": 4869, "title": "Steve album collaborators"}, {"t": 4910, "title": "We Go Big concept"}, {"t": 4952, "title": "artist-booking substitution"}, {"t": 5024, "title": "brand data pitch"},
-    {"t": 5228, "title": "fundraising and access"}, {"t": 5320, "title": "art making versus collecting payment"}, {"t": 5491, "title": "vibrator refusal"}, {"t": 5680, "title": "Trivia with Bobby"},
-    {"t": 6242, "title": "pre-diabetes closing claim"}
+    {
+      "t": 0,
+      "title": "cold open"
+    },
+    {
+      "t": 45,
+      "title": "arm-drag demonstration"
+    },
+    {
+      "t": 193,
+      "title": "Aaron Pico"
+    },
+    {
+      "t": 263,
+      "title": "self-defense and retaliation"
+    },
+    {
+      "t": 334,
+      "title": "Rogan and BJJ"
+    },
+    {
+      "t": 401,
+      "title": "Asian martial-arts riff"
+    },
+    {
+      "t": 462,
+      "title": "brother and relationship questions"
+    },
+    {
+      "t": 478,
+      "title": "preference for solitude"
+    },
+    {
+      "t": 524,
+      "title": "relationship slurs and compromise"
+    },
+    {
+      "t": 563,
+      "title": "Steve's current life"
+    },
+    {
+      "t": 589,
+      "title": "wake time"
+    },
+    {
+      "t": 616,
+      "title": "Red Bull and games"
+    },
+    {
+      "t": 693,
+      "title": "Clash of Clans addiction language"
+    },
+    {
+      "t": 727,
+      "title": "coffee and people watching"
+    },
+    {
+      "t": 741,
+      "title": "open mics and skating"
+    },
+    {
+      "t": 842,
+      "title": "refuses brother-name leverage"
+    },
+    {
+      "t": 886,
+      "title": "writing while waiting"
+    },
+    {
+      "t": 910,
+      "title": "microwave meals"
+    },
+    {
+      "t": 958,
+      "title": "In-N-Out order"
+    },
+    {
+      "t": 1008,
+      "title": "soap-shopping ritual"
+    },
+    {
+      "t": 1031,
+      "title": "Coast and Zest"
+    },
+    {
+      "t": 1144,
+      "title": "comics-store parallel"
+    },
+    {
+      "t": 1226,
+      "title": "late-night games"
+    },
+    {
+      "t": 1298,
+      "title": "solitary games as escape"
+    },
+    {
+      "t": 1362,
+      "title": "masturbation ritual begins"
+    },
+    {
+      "t": 1434,
+      "title": "toy cleaning"
+    },
+    {
+      "t": 1500,
+      "title": "oil and material compatibility"
+    },
+    {
+      "t": 1538,
+      "title": "portable-heater risk"
+    },
+    {
+      "t": 1620,
+      "title": "Viagra suggestion"
+    },
+    {
+      "t": 1671,
+      "title": "three-hour session"
+    },
+    {
+      "t": 1680,
+      "title": "urine theory"
+    },
+    {
+      "t": 1728,
+      "title": "frequent urination"
+    },
+    {
+      "t": 1811,
+      "title": "pornography search preferences"
+    },
+    {
+      "t": 1937,
+      "title": "addiction self-description"
+    },
+    {
+      "t": 1995,
+      "title": "ritual versus work discipline"
+    },
+    {
+      "t": 2043,
+      "title": "groupie offers and desensitization"
+    },
+    {
+      "t": 2108,
+      "title": "refusal to condone"
+    },
+    {
+      "t": 2203,
+      "title": "napkin theft"
+    },
+    {
+      "t": 2248,
+      "title": "Nick Diaz factual conflation"
+    },
+    {
+      "t": 2288,
+      "title": "pressure to watch brother's films"
+    },
+    {
+      "t": 2348,
+      "title": "YouTube and sleep aids"
+    },
+    {
+      "t": 2408,
+      "title": "82.3 percent satisfied"
+    },
+    {
+      "t": 2441,
+      "title": "work raises satisfaction"
+    },
+    {
+      "t": 2501,
+      "title": "desired low-commitment relationship"
+    },
+    {
+      "t": 2584,
+      "title": "room satisfaction ratings"
+    },
+    {
+      "t": 2637,
+      "title": "volunteering suggestion"
+    },
+    {
+      "t": 2721,
+      "title": "never too late"
+    },
+    {
+      "t": 2753,
+      "title": "sobriety and flashback claims"
+    },
+    {
+      "t": 2792,
+      "title": "Quiet C boundary"
+    },
+    {
+      "t": 2885,
+      "title": "solitude called selfish"
+    },
+    {
+      "t": 2984,
+      "title": "fear of rejection"
+    },
+    {
+      "t": 3008,
+      "title": "online dating"
+    },
+    {
+      "t": 3036,
+      "title": "fans proposed as dates"
+    },
+    {
+      "t": 3068,
+      "title": "fans visit workplace"
+    },
+    {
+      "t": 3108,
+      "title": "workplace advancement"
+    },
+    {
+      "t": 3136,
+      "title": "forced discomfort and adaptation"
+    },
+    {
+      "t": 3156,
+      "title": "CNBC anxiety"
+    },
+    {
+      "t": 3221,
+      "title": "compulsive work guilt"
+    },
+    {
+      "t": 3395,
+      "title": "state-tournament failure"
+    },
+    {
+      "t": 3421,
+      "title": "failure as gift"
+    },
+    {
+      "t": 3485,
+      "title": "abstinence experiment"
+    },
+    {
+      "t": 3550,
+      "title": "contested FaceTime claim"
+    },
+    {
+      "t": 3676,
+      "title": "terminal-illness hypothetical"
+    },
+    {
+      "t": 3719,
+      "title": "World Cup aspiration"
+    },
+    {
+      "t": 3801,
+      "title": "Afghan soccer-team claim"
+    },
+    {
+      "t": 3868,
+      "title": "historical comedy schedule"
+    },
+    {
+      "t": 3924,
+      "title": "ordinary self as stand-up form"
+    },
+    {
+      "t": 3960,
+      "title": "imitation versus original style"
+    },
+    {
+      "t": 3984,
+      "title": "Tegan enters"
+    },
+    {
+      "t": 4110,
+      "title": "Gigit explained"
+    },
+    {
+      "t": 4288,
+      "title": "valuation claim"
+    },
+    {
+      "t": 4781,
+      "title": "corporate exit and family cost"
+    },
+    {
+      "t": 4869,
+      "title": "Steve album collaborators"
+    },
+    {
+      "t": 4910,
+      "title": "We Go Big concept"
+    },
+    {
+      "t": 4952,
+      "title": "artist-booking substitution"
+    },
+    {
+      "t": 5024,
+      "title": "brand data pitch"
+    },
+    {
+      "t": 5228,
+      "title": "fundraising and access"
+    },
+    {
+      "t": 5320,
+      "title": "art making versus collecting payment"
+    },
+    {
+      "t": 5491,
+      "title": "vibrator refusal"
+    },
+    {
+      "t": 5680,
+      "title": "Trivia with Bobby"
+    },
+    {
+      "t": 6242,
+      "title": "pre-diabetes closing claim"
+    }
   ],
   "connections": [
-    {"t": 45, "to": "Corpus violence and workplace-boundary ledger", "why": "A grappling lesson is explicitly requested for use when another person hits him."},
-    {"t": 193, "to": "Aaron Pico public sports timeline", "why": "The episode captures contemporary enthusiasm during Pico's exceptional freshman wrestling run."},
-    {"t": 478, "to": "Solitude versus relationship theme", "why": "Steve repeatedly prefers autonomy, gaming, skating and limited romantic obligation."},
-    {"t": 563, "to": "Episode-title daily-life map", "why": "Work, music, comedy, gaming and masturbation become the organizing structure."},
-    {"t": 741, "to": "Stand-up practice ledger", "why": "Open-mic waiting time is used to write, rehearse and observe."},
-    {"t": 1008, "to": "Ritual and collection theme", "why": "Soap browsing mirrors repeated comics-store visits and later highly ordered private rituals."},
-    {"t": 1298, "to": "Solitary media as controlled world", "why": "Offline games provide escape without the demands of other players."},
-    {"t": 1362, "to": "Compulsion and process theme", "why": "The ritual is described with more procedural detail and certainty than most paid work."},
-    {"t": 1728, "to": "Episode 120 diabetes arc", "why": "David immediately interprets frequent urination through his own newly reported diagnosis."},
-    {"t": 1995, "to": "Passion versus labor", "why": "The room asks whether the concentration applied to pleasure could be transferred to creative work."},
-    {"t": 2063, "to": "David Choe anhedonia/novelty thread", "why": "David contrasts constant sexual access with an assertion that nothing excites him."},
-    {"t": 2248, "to": "Sports-memory correction ledger", "why": "Nick Diaz's real championships and marijuana sanctions are collapsed into an incorrect UFC-belt story."},
-    {"t": 2408, "to": "Self-rated happiness map", "why": "Steve's 82.3 percent becomes the benchmark against which the entire room compares itself."},
-    {"t": 2441, "to": "Service work as mental structure", "why": "Showing up to a job is specifically credited with improving satisfaction."},
-    {"t": 2637, "to": "Prosocial action versus isolation", "why": "Volunteering is proposed as perspective and social contact, though not as a guaranteed cure."},
-    {"t": 2721, "to": "Creative repetition over inspiration", "why": "Comedy and music already provide repeated practice, countering the claim that it is too late to learn."},
-    {"t": 2753, "to": "Recovery-history ledger", "why": "Sobriety is preserved while the spinal-cord mechanism is rejected."},
-    {"t": 3036, "to": "Parasocial dating boundary", "why": "The show proposes converting listeners who know the persona into romantic prospects."},
-    {"t": 3068, "to": "Publicity at a service workplace", "why": "Fans recognize Steve while he is working, creating opportunity and loss of ordinary-worker anonymity."},
-    {"t": 3136, "to": "Choe deliberate-discomfort philosophy", "why": "David describes forcing himself into unwanted situations to adapt and grow."},
-    {"t": 3221, "to": "Chang burnout and Choe work guilt", "why": "Achievement is explicitly disconnected from happiness and rest remains guilt-producing."},
-    {"t": 3395, "to": "Failure and return theme", "why": "A wrestling loss becomes the retrospective model for returning after a bad stand-up set."},
-    {"t": 3924, "to": "Original voice versus imitation", "why": "The room argues that Steve's unperformed ordinary self may be funnier than conventional bits."},
-    {"t": 4110, "to": "Artist-business infrastructure", "why": "Gigit is framed as a mechanism for turning venues, audiences and artist discovery into bookable work."},
-    {"t": 4781, "to": "Entrepreneurship cost ledger", "why": "The success story includes corporate exit, financial collapse, family cost and a two-year rebuild."},
-    {"t": 4869, "to": "Money Mark collaboration ledger", "why": "The planned Steve album adds David's cover art and possible production collaborators."},
-    {"t": 5024, "to": "Creative work as data product", "why": "Brand sponsorship is pitched through measurable audience data rather than ephemeral events."},
-    {"t": 5228, "to": "Access, fundraising and belief", "why": "Brief high-value checks are presented as evidence that an idea plus credible founder can unlock capital."},
-    {"t": 5320, "to": "Invisible labor of art careers", "why": "David says painting occupied a minority of his time while collecting payment and administration dominated."},
-    {"t": 5491, "to": "Corpus explicit-no ledger", "why": "The guest refuses device use repeatedly; group pleading supplies no consent."}
+    {
+      "t": 45,
+      "to": "Corpus violence and workplace-boundary ledger",
+      "why": "A grappling lesson is explicitly requested for use when another person hits him."
+    },
+    {
+      "t": 193,
+      "to": "Aaron Pico public sports timeline",
+      "why": "The episode captures contemporary enthusiasm during Pico's exceptional freshman wrestling run."
+    },
+    {
+      "t": 478,
+      "to": "Solitude versus relationship theme",
+      "why": "Steve repeatedly prefers autonomy, gaming, skating and limited romantic obligation."
+    },
+    {
+      "t": 563,
+      "to": "Episode-title daily-life map",
+      "why": "Work, music, comedy, gaming and masturbation become the organizing structure."
+    },
+    {
+      "t": 741,
+      "to": "Stand-up practice ledger",
+      "why": "Open-mic waiting time is used to write, rehearse and observe."
+    },
+    {
+      "t": 1008,
+      "to": "Ritual and collection theme",
+      "why": "Soap browsing mirrors repeated comics-store visits and later highly ordered private rituals."
+    },
+    {
+      "t": 1298,
+      "to": "Solitary media as controlled world",
+      "why": "Offline games provide escape without the demands of other players."
+    },
+    {
+      "t": 1362,
+      "to": "Compulsion and process theme",
+      "why": "The ritual is described with more procedural detail and certainty than most paid work."
+    },
+    {
+      "t": 1728,
+      "to": "Episode 120 diabetes arc",
+      "why": "David immediately interprets frequent urination through his own newly reported diagnosis."
+    },
+    {
+      "t": 1995,
+      "to": "Passion versus labor",
+      "why": "The room asks whether the concentration applied to pleasure could be transferred to creative work."
+    },
+    {
+      "t": 2063,
+      "to": "David Choe anhedonia/novelty thread",
+      "why": "David contrasts constant sexual access with an assertion that nothing excites him."
+    },
+    {
+      "t": 2248,
+      "to": "Sports-memory correction ledger",
+      "why": "Nick Diaz's real championships and marijuana sanctions are collapsed into an incorrect UFC-belt story."
+    },
+    {
+      "t": 2408,
+      "to": "Self-rated happiness map",
+      "why": "Steve's 82.3 percent becomes the benchmark against which the entire room compares itself."
+    },
+    {
+      "t": 2441,
+      "to": "Service work as mental structure",
+      "why": "Showing up to a job is specifically credited with improving satisfaction."
+    },
+    {
+      "t": 2637,
+      "to": "Prosocial action versus isolation",
+      "why": "Volunteering is proposed as perspective and social contact, though not as a guaranteed cure."
+    },
+    {
+      "t": 2721,
+      "to": "Creative repetition over inspiration",
+      "why": "Comedy and music already provide repeated practice, countering the claim that it is too late to learn."
+    },
+    {
+      "t": 2753,
+      "to": "Recovery-history ledger",
+      "why": "Sobriety is preserved while the spinal-cord mechanism is rejected."
+    },
+    {
+      "t": 3036,
+      "to": "Parasocial dating boundary",
+      "why": "The show proposes converting listeners who know the persona into romantic prospects."
+    },
+    {
+      "t": 3068,
+      "to": "Publicity at a service workplace",
+      "why": "Fans recognize Steve while he is working, creating opportunity and loss of ordinary-worker anonymity."
+    },
+    {
+      "t": 3136,
+      "to": "Choe deliberate-discomfort philosophy",
+      "why": "David describes forcing himself into unwanted situations to adapt and grow."
+    },
+    {
+      "t": 3221,
+      "to": "Chang burnout and Choe work guilt",
+      "why": "Achievement is explicitly disconnected from happiness and rest remains guilt-producing."
+    },
+    {
+      "t": 3395,
+      "to": "Failure and return theme",
+      "why": "A wrestling loss becomes the retrospective model for returning after a bad stand-up set."
+    },
+    {
+      "t": 3924,
+      "to": "Original voice versus imitation",
+      "why": "The room argues that Steve's unperformed ordinary self may be funnier than conventional bits."
+    },
+    {
+      "t": 4110,
+      "to": "Artist-business infrastructure",
+      "why": "Gigit is framed as a mechanism for turning venues, audiences and artist discovery into bookable work."
+    },
+    {
+      "t": 4781,
+      "to": "Entrepreneurship cost ledger",
+      "why": "The success story includes corporate exit, financial collapse, family cost and a two-year rebuild."
+    },
+    {
+      "t": 4869,
+      "to": "Money Mark collaboration ledger",
+      "why": "The planned Steve album adds David's cover art and possible production collaborators."
+    },
+    {
+      "t": 5024,
+      "to": "Creative work as data product",
+      "why": "Brand sponsorship is pitched through measurable audience data rather than ephemeral events."
+    },
+    {
+      "t": 5228,
+      "to": "Access, fundraising and belief",
+      "why": "Brief high-value checks are presented as evidence that an idea plus credible founder can unlock capital."
+    },
+    {
+      "t": 5320,
+      "to": "Invisible labor of art careers",
+      "why": "David says painting occupied a minority of his time while collecting payment and administration dominated."
+    },
+    {
+      "t": 5491,
+      "to": "Corpus explicit-no ledger",
+      "why": "The guest refuses device use repeatedly; group pleading supplies no consent."
+    }
   ],
   "content_warnings": [
-    "explicit sexual descriptions", "pornography and masturbation", "incest-themed pornography and jokes", "homophobic and racial slurs", "sexual pressure after explicit refusal", "bodily-fluid hygiene", "unsafe sex-toy cleaning, lubrication and heating", "prescription-drug suggestion", "frequent urination and diabetes speculation", "sleep-aid use", "medical misinformation about drug storage", "violence and grappling", "firearm-adjacent bodyguard rhetoric", "workplace and fan boundaries", "parasocial dating pressure", "private relationship and sexual details", "family financial distress", "sobriety and drug history", "stereotyping", "contested sexual claims", "compulsive behavior", "anhedonia-like statements", "terminal-illness hypothetical", "degrading trivia punishment"
-  ]
+    "explicit sexual descriptions",
+    "pornography and masturbation",
+    "incest-themed pornography and jokes",
+    "homophobic and racial slurs",
+    "sexual pressure after explicit refusal",
+    "bodily-fluid hygiene",
+    "unsafe sex-toy cleaning, lubrication and heating",
+    "prescription-drug suggestion",
+    "frequent urination and diabetes speculation",
+    "sleep-aid use",
+    "medical misinformation about drug storage",
+    "violence and grappling",
+    "firearm-adjacent bodyguard rhetoric",
+    "workplace and fan boundaries",
+    "parasocial dating pressure",
+    "private relationship and sexual details",
+    "family financial distress",
+    "sobriety and drug history",
+    "stereotyping",
+    "contested sexual claims",
+    "compulsive behavior",
+    "anhedonia-like statements",
+    "terminal-illness hypothetical",
+    "degrading trivia punishment"
+  ],
+  "people": [
+    "David Choe",
+    "David Chang",
+    "Steve Lee"
+  ],
+  "places": [],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 121 builds a detailed oral profile of Steve Lee through wrestling demonstrations, solitude, work, comedy, gaming, food, soap collecting, pornography and a highly organized masturbation ritual.",
+  "description_source": "Opening of the human-reviewed summary."
 }

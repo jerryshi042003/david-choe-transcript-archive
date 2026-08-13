@@ -1,0 +1,49 @@
+{
+  "episode_id": "u2V3qYnhf3U",
+  "title": "The Choe Show Trailer",
+  "reviewed_on": "2026-08-13",
+  "description": "A five-second Choe Show trailer has an unusable non-English decoder loop; it is preserved as visual promotional evidence only.",
+  "summary": "A five-second Choe Show trailer has an unusable non-English decoder loop; it is preserved as visual promotional evidence only. Because the available transcript is sparse or corrupted, the archive deliberately limits the claim to title/provenance and recoverable words rather than inventing visual detail.",
+  "chapters": [
+    {
+      "t": 5,
+      "title": "The Choe Show trailer montage"
+    }
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [],
+  "works": [
+    "The Choe Show"
+  ],
+  "themes": [
+    "television trailer",
+    "decoder failure"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 1,
+    "duration_seconds": 4.7,
+    "chapters": 1,
+    "named_turns": 0,
+    "transcript_limited": true
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

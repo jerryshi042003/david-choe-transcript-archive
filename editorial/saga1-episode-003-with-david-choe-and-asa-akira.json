@@ -1,20 +1,62 @@
 {
   "summary": "The third DVDASA episode consolidates the early four-person ensemble: David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba. It opens with the group's fantasy guest list and David's unfinished Quentin Tarantino encounter, then turns toward Yoshi's new podcast, his janitorial job in David's warehouse, comedy as vocation, medical-study income, sex work, intimacy, pessimism, family violence, and the value of solitude. The second half makes the show's unstable mixture especially visible: a serious attempt to understand Yoshi's emotional life repeatedly gives way to explicit teasing, Bobby's relationship, and a closing trivia game.",
   "chapters": [
-    {"t": 9, "title": "Episode Three: the four-person ensemble returns"},
-    {"t": 56, "title": "The warehouse studio and a fantasy guest list"},
-    {"t": 250, "title": "David's unfinished Quentin Tarantino encounter"},
-    {"t": 600, "title": "SMAP, Japanese television, and questions for guests"},
-    {"t": 890, "title": "Yoshi Didn't, janitorial work, and the comedy problem"},
-    {"t": 1450, "title": "Medical studies, unemployment, and survival income"},
-    {"t": 1700, "title": "Sex work, Afghanistan, dating, and emotional distance"},
-    {"t": 2360, "title": "Yoshi's considerate messages and harsh comic criticism"},
-    {"t": 2870, "title": "Painful media, pessimism, karma, and a philosophy of life"},
-    {"t": 3500, "title": "Family violence, fear of intimacy, and the price of silence"},
-    {"t": 4090, "title": "Painting alone and negotiating the warehouse"},
-    {"t": 4230, "title": "Bobby's relationship and the group's normality contest"},
-    {"t": 4767, "title": "Trivia With Bobby: stories, Game of Thrones, and numbers"},
-    {"t": 5386, "title": "The punishment ends the show"}
+    {
+      "t": 9,
+      "title": "Episode Three: the four-person ensemble returns"
+    },
+    {
+      "t": 56,
+      "title": "The warehouse studio and a fantasy guest list"
+    },
+    {
+      "t": 250,
+      "title": "David's unfinished Quentin Tarantino encounter"
+    },
+    {
+      "t": 600,
+      "title": "SMAP, Japanese television, and questions for guests"
+    },
+    {
+      "t": 890,
+      "title": "Yoshi Didn't, janitorial work, and the comedy problem"
+    },
+    {
+      "t": 1450,
+      "title": "Medical studies, unemployment, and survival income"
+    },
+    {
+      "t": 1700,
+      "title": "Sex work, Afghanistan, dating, and emotional distance"
+    },
+    {
+      "t": 2360,
+      "title": "Yoshi's considerate messages and harsh comic criticism"
+    },
+    {
+      "t": 2870,
+      "title": "Painful media, pessimism, karma, and a philosophy of life"
+    },
+    {
+      "t": 3500,
+      "title": "Family violence, fear of intimacy, and the price of silence"
+    },
+    {
+      "t": 4090,
+      "title": "Painting alone and negotiating the warehouse"
+    },
+    {
+      "t": 4230,
+      "title": "Bobby's relationship and the group's normality contest"
+    },
+    {
+      "t": 4767,
+      "title": "Trivia With Bobby: stories, Game of Thrones, and numbers"
+    },
+    {
+      "t": 5386,
+      "title": "The punishment ends the show"
+    }
   ],
   "people": [
     "David Choe",
@@ -93,5 +135,7 @@
     "correction_fixture": "episode-003-correction-fixture.json",
     "content_note": "The episode contains explicit sexual material, offensive racial and disability language, discussion of childhood/family violence, and graphic stories. Editorial labels preserve the subject matter without endorsing it."
   },
-  "note": "Chapter titles and connections are editorial. The ASR is statistically strong and the cleaner removes no speech, but proper nouns require the logged faithful-layer repairs and exact quotation still requires checking the recording."
+  "note": "Chapter titles and connections are editorial. The ASR is statistically strong and the cleaner removes no speech, but proper nouns require the logged faithful-layer repairs and exact quotation still requires checking the recording.",
+  "description": "The third DVDASA episode consolidates the early four-person ensemble: David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -1,0 +1,53 @@
+{
+  "episode_id": "CnFR15MWKXE",
+  "title": "Get Ready: Thumbs UP Season 4 Trailer",
+  "reviewed_on": "2026-08-13",
+  "description": "A transcript-sparse Thumbs Up Season 4 trailer preserves the call to “hit the road” and the Thumbs Up America identity; itinerary and scenes must be read from the trailer images.",
+  "summary": "A transcript-sparse Thumbs Up Season 4 trailer preserves the call to “hit the road” and the Thumbs Up America identity; itinerary and scenes must be read from the trailer images. Because the available transcript is sparse or corrupted, the archive deliberately limits the claim to title/provenance and recoverable words rather than inventing visual detail.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Hit the road: Thumbs Up America"
+    }
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [],
+  "works": [
+    "Thumbs Up Season 4",
+    "Thumbs Up America"
+  ],
+  "themes": [
+    "travel trailer",
+    "road documentary",
+    "visual record"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [
+    "explicit language"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 1,
+    "duration_seconds": 0,
+    "chapters": 1,
+    "named_turns": 0,
+    "transcript_limited": true
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

@@ -32,121 +32,488 @@
   ],
   "speaker_policy": "David Choe, Jane Choe and Critter Fleming are explicitly introduced public participants. Their presence may label the episode and contextual map, but zero turns/windows means no line-level named dialogue is published.",
   "chapters": [
-    {"t":0,"title":"indistinct musical opening"},
-    {"t":60,"title":"Island of Love and Trust"},
-    {"t":120,"title":"Jane Choe introduced"},
-    {"t":180,"title":"Korean-English family voice"},
-    {"t":240,"title":"happiness symposium resumes"},
-    {"t":300,"title":"I Am Happy in four languages"},
-    {"t":360,"title":"Japanese colonial family history"},
-    {"t":420,"title":"welcome without inherited blame"},
-    {"t":480,"title":"Jane and Critter art show"},
-    {"t":540,"title":"father, television and painting"},
-    {"t":600,"title":"Warhol research"},
-    {"t":660,"title":"Leonardo trivia"},
-    {"t":720,"title":"paint clothes"},
-    {"t":780,"title":"I could paint that"},
-    {"t":840,"title":"speed versus preparation"},
-    {"t":900,"title":"art on everything"},
-    {"t":960,"title":"marriage-for-paintings bet"},
-    {"t":1020,"title":"take away the television"},
-    {"t":1080,"title":"bodyguard art show"},
-    {"t":1140,"title":"art as the only gift"},
-    {"t":1200,"title":"raw passion and training"},
-    {"t":1260,"title":"originals and copies"},
-    {"t":1320,"title":"no-nose movement"},
-    {"t":1380,"title":"Bill Poon airport pickup"},
-    {"t":1440,"title":"Herbalife cab story"},
-    {"t":1500,"title":"father's cooking help"},
-    {"t":1560,"title":"Kona retreat and kimchi"},
-    {"t":1620,"title":"diabetes and forbidden rice"},
-    {"t":1680,"title":"gochujang and Machu Picchu"},
-    {"t":1740,"title":"falls, memory and healing"},
-    {"t":1800,"title":"Pololū Valley plan"},
-    {"t":1860,"title":"father's limited energy"},
-    {"t":1920,"title":"snorkeling without dad"},
-    {"t":1980,"title":"red hair dye"},
-    {"t":2040,"title":"needle fish laughter"},
-    {"t":2100,"title":"turtle distance"},
-    {"t":2160,"title":"coral and turtle contact"},
-    {"t":2220,"title":"the turtle said yes"},
-    {"t":2280,"title":"elevator laughter"},
-    {"t":2340,"title":"night singing"},
-    {"t":2400,"title":"Solomon and abundance"},
-    {"t":2460,"title":"marriage doctrine and jokes"},
-    {"t":2520,"title":"unhappy high-school Jane"},
-    {"t":2580,"title":"conversion and surrender"},
-    {"t":2640,"title":"prayer as practice"},
-    {"t":2700,"title":"apology when harm is reported"},
-    {"t":2760,"title":"mocking a stranger's body"},
-    {"t":2820,"title":"sent away at three"},
-    {"t":2880,"title":"LA riots and impermanence"},
-    {"t":2940,"title":"return from Korea"},
-    {"t":3000,"title":"birthday recreation"},
-    {"t":3060,"title":"blank-computer parenting metaphor"},
-    {"t":3120,"title":"abandonment and talk"},
-    {"t":3180,"title":"one more story"},
-    {"t":3240,"title":"Satan hears speech"},
-    {"t":3300,"title":"silence and dark thoughts"},
-    {"t":3360,"title":"Satan as powerless image"},
-    {"t":3420,"title":"quiet time"},
-    {"t":3480,"title":"the punk punishment"},
-    {"t":3540,"title":"scared-straight childhood"},
-    {"t":3600,"title":"chaos feels safe"},
-    {"t":3660,"title":"EMDR and spiritual counsel"},
-    {"t":3720,"title":"forgive antagonists"},
-    {"t":3780,"title":"self-protection versus destruction"},
-    {"t":3840,"title":"ocean mind"},
-    {"t":3900,"title":"masterpiece and angels"},
-    {"t":4020,"title":"heaven open and brain claims"},
-    {"t":4080,"title":"Jesus, Others, Yourself"},
-    {"t":4140,"title":"immigrant family pressure"},
-    {"t":4200,"title":"punished for being good"},
-    {"t":4260,"title":"badness as protection"},
-    {"t":4320,"title":"sibling abuse and mixed messages"},
-    {"t":4380,"title":"cornfield story"},
-    {"t":4500,"title":"memory disagreement"},
-    {"t":4560,"title":"master painter and ATM"},
-    {"t":4620,"title":"punishment story retold"},
-    {"t":4680,"title":"fake prison trip"},
-    {"t":4800,"title":"life is worth it"},
-    {"t":4860,"title":"art and conversion"},
-    {"t":4920,"title":"rehab drawings"},
-    {"t":4980,"title":"family prayer"},
-    {"t":5040,"title":"enemies as free teachers"},
-    {"t":5100,"title":"temporary pain prayer"},
-    {"t":5220,"title":"thanks and invitation"},
-    {"t":5280,"title":"musical coda"}
+    {
+      "t": 0,
+      "title": "indistinct musical opening"
+    },
+    {
+      "t": 60,
+      "title": "Island of Love and Trust"
+    },
+    {
+      "t": 120,
+      "title": "Jane Choe introduced"
+    },
+    {
+      "t": 180,
+      "title": "Korean-English family voice"
+    },
+    {
+      "t": 240,
+      "title": "happiness symposium resumes"
+    },
+    {
+      "t": 300,
+      "title": "I Am Happy in four languages"
+    },
+    {
+      "t": 360,
+      "title": "Japanese colonial family history"
+    },
+    {
+      "t": 420,
+      "title": "welcome without inherited blame"
+    },
+    {
+      "t": 480,
+      "title": "Jane and Critter art show"
+    },
+    {
+      "t": 540,
+      "title": "father, television and painting"
+    },
+    {
+      "t": 600,
+      "title": "Warhol research"
+    },
+    {
+      "t": 660,
+      "title": "Leonardo trivia"
+    },
+    {
+      "t": 720,
+      "title": "paint clothes"
+    },
+    {
+      "t": 780,
+      "title": "I could paint that"
+    },
+    {
+      "t": 840,
+      "title": "speed versus preparation"
+    },
+    {
+      "t": 900,
+      "title": "art on everything"
+    },
+    {
+      "t": 960,
+      "title": "marriage-for-paintings bet"
+    },
+    {
+      "t": 1020,
+      "title": "take away the television"
+    },
+    {
+      "t": 1080,
+      "title": "bodyguard art show"
+    },
+    {
+      "t": 1140,
+      "title": "art as the only gift"
+    },
+    {
+      "t": 1200,
+      "title": "raw passion and training"
+    },
+    {
+      "t": 1260,
+      "title": "originals and copies"
+    },
+    {
+      "t": 1320,
+      "title": "no-nose movement"
+    },
+    {
+      "t": 1380,
+      "title": "Bill Poon airport pickup"
+    },
+    {
+      "t": 1440,
+      "title": "Herbalife cab story"
+    },
+    {
+      "t": 1500,
+      "title": "father's cooking help"
+    },
+    {
+      "t": 1560,
+      "title": "Kona retreat and kimchi"
+    },
+    {
+      "t": 1620,
+      "title": "diabetes and forbidden rice"
+    },
+    {
+      "t": 1680,
+      "title": "gochujang and Machu Picchu"
+    },
+    {
+      "t": 1740,
+      "title": "falls, memory and healing"
+    },
+    {
+      "t": 1800,
+      "title": "Pololū Valley plan"
+    },
+    {
+      "t": 1860,
+      "title": "father's limited energy"
+    },
+    {
+      "t": 1920,
+      "title": "snorkeling without dad"
+    },
+    {
+      "t": 1980,
+      "title": "red hair dye"
+    },
+    {
+      "t": 2040,
+      "title": "needle fish laughter"
+    },
+    {
+      "t": 2100,
+      "title": "turtle distance"
+    },
+    {
+      "t": 2160,
+      "title": "coral and turtle contact"
+    },
+    {
+      "t": 2220,
+      "title": "the turtle said yes"
+    },
+    {
+      "t": 2280,
+      "title": "elevator laughter"
+    },
+    {
+      "t": 2340,
+      "title": "night singing"
+    },
+    {
+      "t": 2400,
+      "title": "Solomon and abundance"
+    },
+    {
+      "t": 2460,
+      "title": "marriage doctrine and jokes"
+    },
+    {
+      "t": 2520,
+      "title": "unhappy high-school Jane"
+    },
+    {
+      "t": 2580,
+      "title": "conversion and surrender"
+    },
+    {
+      "t": 2640,
+      "title": "prayer as practice"
+    },
+    {
+      "t": 2700,
+      "title": "apology when harm is reported"
+    },
+    {
+      "t": 2760,
+      "title": "mocking a stranger's body"
+    },
+    {
+      "t": 2820,
+      "title": "sent away at three"
+    },
+    {
+      "t": 2880,
+      "title": "LA riots and impermanence"
+    },
+    {
+      "t": 2940,
+      "title": "return from Korea"
+    },
+    {
+      "t": 3000,
+      "title": "birthday recreation"
+    },
+    {
+      "t": 3060,
+      "title": "blank-computer parenting metaphor"
+    },
+    {
+      "t": 3120,
+      "title": "abandonment and talk"
+    },
+    {
+      "t": 3180,
+      "title": "one more story"
+    },
+    {
+      "t": 3240,
+      "title": "Satan hears speech"
+    },
+    {
+      "t": 3300,
+      "title": "silence and dark thoughts"
+    },
+    {
+      "t": 3360,
+      "title": "Satan as powerless image"
+    },
+    {
+      "t": 3420,
+      "title": "quiet time"
+    },
+    {
+      "t": 3480,
+      "title": "the punk punishment"
+    },
+    {
+      "t": 3540,
+      "title": "scared-straight childhood"
+    },
+    {
+      "t": 3600,
+      "title": "chaos feels safe"
+    },
+    {
+      "t": 3660,
+      "title": "EMDR and spiritual counsel"
+    },
+    {
+      "t": 3720,
+      "title": "forgive antagonists"
+    },
+    {
+      "t": 3780,
+      "title": "self-protection versus destruction"
+    },
+    {
+      "t": 3840,
+      "title": "ocean mind"
+    },
+    {
+      "t": 3900,
+      "title": "masterpiece and angels"
+    },
+    {
+      "t": 4020,
+      "title": "heaven open and brain claims"
+    },
+    {
+      "t": 4080,
+      "title": "Jesus, Others, Yourself"
+    },
+    {
+      "t": 4140,
+      "title": "immigrant family pressure"
+    },
+    {
+      "t": 4200,
+      "title": "punished for being good"
+    },
+    {
+      "t": 4260,
+      "title": "badness as protection"
+    },
+    {
+      "t": 4320,
+      "title": "sibling abuse and mixed messages"
+    },
+    {
+      "t": 4380,
+      "title": "cornfield story"
+    },
+    {
+      "t": 4500,
+      "title": "memory disagreement"
+    },
+    {
+      "t": 4560,
+      "title": "master painter and ATM"
+    },
+    {
+      "t": 4620,
+      "title": "punishment story retold"
+    },
+    {
+      "t": 4680,
+      "title": "fake prison trip"
+    },
+    {
+      "t": 4800,
+      "title": "life is worth it"
+    },
+    {
+      "t": 4860,
+      "title": "art and conversion"
+    },
+    {
+      "t": 4920,
+      "title": "rehab drawings"
+    },
+    {
+      "t": 4980,
+      "title": "family prayer"
+    },
+    {
+      "t": 5040,
+      "title": "enemies as free teachers"
+    },
+    {
+      "t": 5100,
+      "title": "temporary pain prayer"
+    },
+    {
+      "t": 5220,
+      "title": "thanks and invitation"
+    },
+    {
+      "t": 5280,
+      "title": "musical coda"
+    }
   ],
   "connections": [
-    {"t":240,"to":"Episode 127 happiness symposium","why":"The same Hawaii stay moves from Harry and Critter's temperament to Jane's Christian practice."},
-    {"t":300,"to":"multilingual family transmission","why":"A happiness song carries Japanese, Chinese, English and Korean family memory."},
-    {"t":360,"to":"colonial history and inherited blame","why":"Forced Japanese names coexist with hospitality toward later Japanese-American children."},
-    {"t":480,"to":"late-life creative practice","why":"Retirement, museums and a family exhibition make art a lived activity rather than credential."},
-    {"t":840,"to":"plural making styles","why":"Jane's volume and Critter's preparation are treated as different valid methods."},
-    {"t":1080,"to":"creation before confidence","why":"The show is proof that fear and lack of training need not precede every artwork."},
-    {"t":1140,"to":"gift value","why":"Handmade art matters more than purchasable objects to someone with material abundance."},
-    {"t":1200,"to":"David Chang hiring doctrine","why":"Raw passion is linked to the chef's stated preference for uncredentialed initiative."},
-    {"t":1320,"to":"constraint as style","why":"Difficulty painting noses becomes an identifiable formal choice rather than paralysis."},
-    {"t":1560,"to":"Kona recovery geography","why":"The island joins rehab memory, quiet, family travel and wildlife encounter."},
-    {"t":1620,"to":"diabetes truth layer","why":"Family food planning mixes valid concern with an overly broad rice prohibition."},
-    {"t":1800,"to":"Machu Picchu versus Pololū","why":"A smaller hike substitutes for a strenuous bucket-list journey amid falls and diabetes."},
-    {"t":2160,"to":"wildlife consent","why":"The joke about eyes saying yes repeats the archive's larger problem of inferring permission."},
-    {"t":2280,"to":"private emotional release","why":"Elevator laughter offers a contained alternative to suppressing joy or forcing an audience."},
-    {"t":2400,"to":"abundance versus happiness","why":"Solomon's wives become a religious warning that more does not yield peace."},
-    {"t":2520,"to":"conversion as identity order","why":"Jane dates her move from complaint toward peace to becoming Christian in 1977."},
-    {"t":2700,"to":"impact over intent","why":"Jane says reported hurt can warrant apology even when she did not understand causing it."},
-    {"t":2820,"to":"attachment and abandonment","why":"Being sent away at three organizes later fear of preciousness, safety and loss."},
-    {"t":2880,"to":"LA riots and impermanence","why":"Family separation and public destruction become a shared theory that everything can vanish."},
-    {"t":3060,"to":"early-childhood determinism","why":"The blank-computer metaphor captures felt importance but overstates developmental certainty."},
-    {"t":3240,"to":"speech, silence and temptation","why":"Jane's theology turns verbal restraint into spiritual boundary-setting."},
-    {"t":3300,"to":"disclosure versus silence","why":"The religious warning not to voice darkness must not suppress crisis or clinical help-seeking."},
-    {"t":3480,"to":"punishment and punk identity","why":"Hair-pulling called `the punk` ironically precedes the sons' attraction to punk music."},
-    {"t":3600,"to":"chaos as familiarity","why":"A therapist's formulation joins childhood instability to adult comfort with destruction."},
-    {"t":3660,"to":"EMDR","why":"A named structured trauma therapy appears beside prayer rather than being replaced by it."},
-    {"t":3900,"to":"self as artwork","why":"`You are the masterpiece` answers the fear that external work and status can be destroyed."},
-    {"t":4380,"to":"contested autobiographical memory","why":"Day/night, permission/theft and lesson/adventure remain different family versions."},
-    {"t":5040,"to":"adversity as material","why":"Enemies and failure are reframed as free teachers without making harm necessary or welcome."}
+    {
+      "t": 240,
+      "to": "Episode 127 happiness symposium",
+      "why": "The same Hawaii stay moves from Harry and Critter's temperament to Jane's Christian practice."
+    },
+    {
+      "t": 300,
+      "to": "multilingual family transmission",
+      "why": "A happiness song carries Japanese, Chinese, English and Korean family memory."
+    },
+    {
+      "t": 360,
+      "to": "colonial history and inherited blame",
+      "why": "Forced Japanese names coexist with hospitality toward later Japanese-American children."
+    },
+    {
+      "t": 480,
+      "to": "late-life creative practice",
+      "why": "Retirement, museums and a family exhibition make art a lived activity rather than credential."
+    },
+    {
+      "t": 840,
+      "to": "plural making styles",
+      "why": "Jane's volume and Critter's preparation are treated as different valid methods."
+    },
+    {
+      "t": 1080,
+      "to": "creation before confidence",
+      "why": "The show is proof that fear and lack of training need not precede every artwork."
+    },
+    {
+      "t": 1140,
+      "to": "gift value",
+      "why": "Handmade art matters more than purchasable objects to someone with material abundance."
+    },
+    {
+      "t": 1200,
+      "to": "David Chang hiring doctrine",
+      "why": "Raw passion is linked to the chef's stated preference for uncredentialed initiative."
+    },
+    {
+      "t": 1320,
+      "to": "constraint as style",
+      "why": "Difficulty painting noses becomes an identifiable formal choice rather than paralysis."
+    },
+    {
+      "t": 1560,
+      "to": "Kona recovery geography",
+      "why": "The island joins rehab memory, quiet, family travel and wildlife encounter."
+    },
+    {
+      "t": 1620,
+      "to": "diabetes truth layer",
+      "why": "Family food planning mixes valid concern with an overly broad rice prohibition."
+    },
+    {
+      "t": 1800,
+      "to": "Machu Picchu versus Pololū",
+      "why": "A smaller hike substitutes for a strenuous bucket-list journey amid falls and diabetes."
+    },
+    {
+      "t": 2160,
+      "to": "wildlife consent",
+      "why": "The joke about eyes saying yes repeats the archive's larger problem of inferring permission."
+    },
+    {
+      "t": 2280,
+      "to": "private emotional release",
+      "why": "Elevator laughter offers a contained alternative to suppressing joy or forcing an audience."
+    },
+    {
+      "t": 2400,
+      "to": "abundance versus happiness",
+      "why": "Solomon's wives become a religious warning that more does not yield peace."
+    },
+    {
+      "t": 2520,
+      "to": "conversion as identity order",
+      "why": "Jane dates her move from complaint toward peace to becoming Christian in 1977."
+    },
+    {
+      "t": 2700,
+      "to": "impact over intent",
+      "why": "Jane says reported hurt can warrant apology even when she did not understand causing it."
+    },
+    {
+      "t": 2820,
+      "to": "attachment and abandonment",
+      "why": "Being sent away at three organizes later fear of preciousness, safety and loss."
+    },
+    {
+      "t": 2880,
+      "to": "LA riots and impermanence",
+      "why": "Family separation and public destruction become a shared theory that everything can vanish."
+    },
+    {
+      "t": 3060,
+      "to": "early-childhood determinism",
+      "why": "The blank-computer metaphor captures felt importance but overstates developmental certainty."
+    },
+    {
+      "t": 3240,
+      "to": "speech, silence and temptation",
+      "why": "Jane's theology turns verbal restraint into spiritual boundary-setting."
+    },
+    {
+      "t": 3300,
+      "to": "disclosure versus silence",
+      "why": "The religious warning not to voice darkness must not suppress crisis or clinical help-seeking."
+    },
+    {
+      "t": 3480,
+      "to": "punishment and punk identity",
+      "why": "Hair-pulling called `the punk` ironically precedes the sons' attraction to punk music."
+    },
+    {
+      "t": 3600,
+      "to": "chaos as familiarity",
+      "why": "A therapist's formulation joins childhood instability to adult comfort with destruction."
+    },
+    {
+      "t": 3660,
+      "to": "EMDR",
+      "why": "A named structured trauma therapy appears beside prayer rather than being replaced by it."
+    },
+    {
+      "t": 3900,
+      "to": "self as artwork",
+      "why": "`You are the masterpiece` answers the fear that external work and status can be destroyed."
+    },
+    {
+      "t": 4380,
+      "to": "contested autobiographical memory",
+      "why": "Day/night, permission/theft and lesson/adventure remain different family versions."
+    },
+    {
+      "t": 5040,
+      "to": "adversity as material",
+      "why": "Enemies and failure are reframed as free teachers without making harm necessary or welcome."
+    }
   ],
   "content_warnings": [
     "suicidal thoughts and past self-destructive behavior",
@@ -177,35 +544,170 @@
     "copyrighted songs and media references"
   ],
   "publication_restrictions": [
-    {"from":0,"to":60,"rule":"Keep the six-second decoder failure as an uncertainty marker; do not publish the repeated `school` loop or invent lyrics."},
-    {"from":180,"to":240,"rule":"Do not treat accented or code-switched speech as error merely because syntax differs from edited English."},
-    {"from":300,"to":420,"rule":"Do not identify private grandmother/aunts or reconstruct family records from colonial-name clues."},
-    {"from":480,"to":600,"rule":"Public art context may name Jane and Critter; private residence/retirement details stay out of search facets."},
-    {"from":960,"to":1020,"rule":"Do not represent the marriage-for-paintings joke as a contract, engagement or partner identity."},
-    {"from":1260,"to":1320,"rule":"Withhold uncertain proper noun rather than creating a searchable person or artwork."},
-    {"from":1380,"to":1560,"rule":"Do not expose airport times, addresses, vehicle/contact data or current family care logistics."},
-    {"from":1500,"to":1560,"rule":"Family cooking/health support is not a referral request for public readers."},
-    {"from":1560,"to":1800,"rule":"Do not infer a current Kona lodging site, medical itinerary or family travel plan."},
-    {"from":1620,"to":1800,"rule":"Keep diabetes/falls/memory claims attributed and out of person-profile health facets."},
-    {"from":2040,"to":2280,"rule":"Do not map the turtle encounter as a wildlife-touching location or present eye contact as permission."},
-    {"from":2280,"to":2400,"rule":"Private laughter/singing are portraits, not psychiatric symptoms or exact residence-location clues."},
-    {"from":2460,"to":2520,"rule":"Do not turn one participant's Christian marriage doctrine into archive policy or identity exclusion."},
-    {"from":2520,"to":2700,"rule":"Religious coping remains belief, not individualized medical or crisis guidance."},
-    {"from":2760,"to":2820,"rule":"Do not identify or visually target the mocked stranger; exclude body description from snippets."},
-    {"from":2820,"to":3060,"rule":"Childhood abandonment and family violence remain contextual; do not expose private relatives or institutions."},
-    {"from":3060,"to":3180,"rule":"Do not publish deterministic parenting rules as clinical guidance."},
-    {"from":3120,"to":3180,"rule":"References to Asa provide context only and do not establish line-level voice identity."},
-    {"from":3240,"to":3420,"rule":"Do not surface `stay silent` around suicide as crisis advice; retain spiritual context and clinical boundary together."},
-    {"from":3480,"to":3600,"rule":"Do not identify schools, police, Skid Row sites or private punishment participants."},
-    {"from":3600,"to":3780,"rule":"EMDR and therapist formulations stay attributed; no diagnosis or treatment recommendation is inferred."},
-    {"from":3900,"to":4080,"rule":"Angel counts and left/right-brain claims remain belief/popular metaphor, not factual metadata."},
-    {"from":4140,"to":4320,"rule":"Do not expose family finances, private siblings' health or legal identities beyond public context."},
-    {"from":4320,"to":4380,"rule":"Keep graphic sibling abuse out of general-audience snippets and do not invent the uncertain name-like phrase."},
-    {"from":4380,"to":4560,"rule":"Do not identify the private pastor's wife, farm owner, police or location from the contested corn story."},
-    {"from":4620,"to":4800,"rule":"Do not identify the ticket attendant, facility or officers involved in the staged prison threat."},
-    {"from":4860,"to":4980,"rule":"Rehab correspondence may be summarized as support; private facility/address records remain excluded."},
-    {"from":4980,"to":5220,"rule":"Prayer is preserved as expression and must not be indexed as clinical treatment or consent to harm."},
-    {"from":5280,"to":5534.38,"rule":"The improvised song may be summarized but not republished as a standalone lyric transcript."},
-    {"from":0,"to":5534.38,"rule":"Apply restrictions to transcript text, snippets, search, embeddings, previews and quotations; do not delete the underlying ideas."}
-  ]
+    {
+      "from": 0,
+      "to": 60,
+      "rule": "Keep the six-second decoder failure as an uncertainty marker; do not publish the repeated `school` loop or invent lyrics."
+    },
+    {
+      "from": 180,
+      "to": 240,
+      "rule": "Do not treat accented or code-switched speech as error merely because syntax differs from edited English."
+    },
+    {
+      "from": 300,
+      "to": 420,
+      "rule": "Do not identify private grandmother/aunts or reconstruct family records from colonial-name clues."
+    },
+    {
+      "from": 480,
+      "to": 600,
+      "rule": "Public art context may name Jane and Critter; private residence/retirement details stay out of search facets."
+    },
+    {
+      "from": 960,
+      "to": 1020,
+      "rule": "Do not represent the marriage-for-paintings joke as a contract, engagement or partner identity."
+    },
+    {
+      "from": 1260,
+      "to": 1320,
+      "rule": "Withhold uncertain proper noun rather than creating a searchable person or artwork."
+    },
+    {
+      "from": 1380,
+      "to": 1560,
+      "rule": "Do not expose airport times, addresses, vehicle/contact data or current family care logistics."
+    },
+    {
+      "from": 1500,
+      "to": 1560,
+      "rule": "Family cooking/health support is not a referral request for public readers."
+    },
+    {
+      "from": 1560,
+      "to": 1800,
+      "rule": "Do not infer a current Kona lodging site, medical itinerary or family travel plan."
+    },
+    {
+      "from": 1620,
+      "to": 1800,
+      "rule": "Keep diabetes/falls/memory claims attributed and out of person-profile health facets."
+    },
+    {
+      "from": 2040,
+      "to": 2280,
+      "rule": "Do not map the turtle encounter as a wildlife-touching location or present eye contact as permission."
+    },
+    {
+      "from": 2280,
+      "to": 2400,
+      "rule": "Private laughter/singing are portraits, not psychiatric symptoms or exact residence-location clues."
+    },
+    {
+      "from": 2460,
+      "to": 2520,
+      "rule": "Do not turn one participant's Christian marriage doctrine into archive policy or identity exclusion."
+    },
+    {
+      "from": 2520,
+      "to": 2700,
+      "rule": "Religious coping remains belief, not individualized medical or crisis guidance."
+    },
+    {
+      "from": 2760,
+      "to": 2820,
+      "rule": "Do not identify or visually target the mocked stranger; exclude body description from snippets."
+    },
+    {
+      "from": 2820,
+      "to": 3060,
+      "rule": "Childhood abandonment and family violence remain contextual; do not expose private relatives or institutions."
+    },
+    {
+      "from": 3060,
+      "to": 3180,
+      "rule": "Do not publish deterministic parenting rules as clinical guidance."
+    },
+    {
+      "from": 3120,
+      "to": 3180,
+      "rule": "References to Asa provide context only and do not establish line-level voice identity."
+    },
+    {
+      "from": 3240,
+      "to": 3420,
+      "rule": "Do not surface `stay silent` around suicide as crisis advice; retain spiritual context and clinical boundary together."
+    },
+    {
+      "from": 3480,
+      "to": 3600,
+      "rule": "Do not identify schools, police, Skid Row sites or private punishment participants."
+    },
+    {
+      "from": 3600,
+      "to": 3780,
+      "rule": "EMDR and therapist formulations stay attributed; no diagnosis or treatment recommendation is inferred."
+    },
+    {
+      "from": 3900,
+      "to": 4080,
+      "rule": "Angel counts and left/right-brain claims remain belief/popular metaphor, not factual metadata."
+    },
+    {
+      "from": 4140,
+      "to": 4320,
+      "rule": "Do not expose family finances, private siblings' health or legal identities beyond public context."
+    },
+    {
+      "from": 4320,
+      "to": 4380,
+      "rule": "Keep graphic sibling abuse out of general-audience snippets and do not invent the uncertain name-like phrase."
+    },
+    {
+      "from": 4380,
+      "to": 4560,
+      "rule": "Do not identify the private pastor's wife, farm owner, police or location from the contested corn story."
+    },
+    {
+      "from": 4620,
+      "to": 4800,
+      "rule": "Do not identify the ticket attendant, facility or officers involved in the staged prison threat."
+    },
+    {
+      "from": 4860,
+      "to": 4980,
+      "rule": "Rehab correspondence may be summarized as support; private facility/address records remain excluded."
+    },
+    {
+      "from": 4980,
+      "to": 5220,
+      "rule": "Prayer is preserved as expression and must not be indexed as clinical treatment or consent to harm."
+    },
+    {
+      "from": 5280,
+      "to": 5534.38,
+      "rule": "The improvised song may be summarized but not republished as a standalone lyric transcript."
+    },
+    {
+      "from": 0,
+      "to": 5534.38,
+      "rule": "Apply restrictions to transcript text, snippets, search, embeddings, previews and quotations; do not delete the underlying ideas."
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Critter"
+  ],
+  "places": [
+    "Hawaii"
+  ],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "The Hawaii happiness inquiry continues with David Choe's mother, Jane Choe, and Critter Fleming.",
+  "description_source": "Opening of the human-reviewed summary."
 }

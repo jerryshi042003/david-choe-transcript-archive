@@ -1,130 +1,516 @@
 {
   "summary": "Episode 041 opens with Asa Akira describing a conflict with Toni Ribas through data from a shared Jawbone UP activity tracker. The transcript repairs the device names Jawbone UP and Nike+ FuelBand while treating movement data as indirect evidence rather than proof of a sexual act. Asa's account of rejection, attention seeking, and throwing objects remains first-person testimony, not a universal claim about gender or consent. She connects the conflict to the timing of an injectable contraceptive and Mercury retrograde; both remain personal interpretations rather than medical or causal findings. Harry Kim returns ill, wearing a Tupac Shakur “Last Ride” shirt associated with the prior Maximum Hedrum episode. The room repeatedly pressures him to vomit or defecate on camera. This is retained as evidence of the show's production culture, not endorsed. A long Sam's Hofbrau discussion covers strip-club etiquette, body judgments, private friend Mike, Larry Flynt's Hustler Club, Dames N' Games, and Olympic Garden. My Girl, Macaulay Culkin, Anna Chlumsky, Uncle Buck, and Field of Dreams are repaired. Harry then describes a private coworker as a “work wife.” Touching, food poisoning, attraction, and relationship motives remain attributed speculation; neither the coworker nor Harry's private contacts are indexed. David describes sending explicit, threatening sexual messages to newly met women and says the approach never works. The record categorizes this as harassment and failure, not dating advice. In a useful production-history section, David explains that Dirty Hands was edited to music by Depeche Mode, Fugazi, Descendents, and Sepultura before clearance was sought. Eddie Huang, Suroosh Alvi, Shane Smith, and Vice on HBO are repaired. Thumbs Up! discussion includes Hinder playing during an intoxicated-driver incident, the false comparison of NyQuil with sizzurp, higher Season 4 production support, and Harry leaving after five days. The most sensitive section begins at Temple Square in Salt Lake City. An anonymous young former church member discloses suicidal intent. The cast responds with mocking, method-specific advice involving waiting, a gun, and destroying the temple. David says he walked the person home and talked with him, but the outcome is unknown. The record explicitly rejects the advice and does not turn this into an unsupported rescue narrative. The person's identity and possible social handle remain unindexed. The cast's racial-theology explanation is not current church doctrine; the Church of Jesus Christ of Latter-day Saints now disavows theories that Black skin is a divine curse or sign of inferiority. Further method talk and an unsourced Golden Gate Bridge statistic remain attributed. Later sections include racialized sexual stories involving Harry, young Congolese sex workers described as seventeen or eighteen, a private translator, and a Reno production story. Age, consent, payment, and power remain unresolved; no private worker is identified. Harry's historical public Instagram alias is recorded only as spoken and not adopted editorially. Episode 038's intimate-partner violence story is repeated approvingly, making the cross-episode normalization itself important evidence. The final third moves through Herbalife, Six Flags Magic Mountain, business school, Back to School, Rodney Dangerfield, Kurt Vonnegut, Old School, Pechanga, road-movie references, private former partners, and DVDASA's imagined Howard Stern-like future. Bobby describes escalating fan contact after the show solicited an assistant. David, Harry, Asa, and Bobby discuss the unstable boundary between replying to listeners and inviting intimacy. San Diego Comic-Con, Koreans Gone Bad, and Joey's conflict between a public archive and conventional employment close the episode. A childhood sexual story involving private children remains unindexed. All 3,119 spoken segments survive cleaning; three empty zero-duration artifacts are removed. Fifty-eight contextual decisions and 2,166 fixed-window identity embeddings are available. Named dialogue remains withheld pending independent held-out validation.",
   "chapters": [
-    {"t": 7, "title": "DVDASA opens under Mercury retrograde"},
-    {"t": 53, "title": "Jawbone UP and Nike+ FuelBand"},
-    {"t": 90, "title": "Movement data becomes sexual inference"},
-    {"t": 110, "title": "Gender claims collide with consent"},
-    {"t": 170, "title": "Asa recounts rejection and conflict"},
-    {"t": 240, "title": "Attention seeking and thrown objects"},
-    {"t": 360, "title": "Injectable contraception and mood"},
-    {"t": 410, "title": "Astrology remains personal belief"},
-    {"t": 470, "title": "Harry Kim returns"},
-    {"t": 500, "title": "Koreans Gone Bad and Ichiban"},
-    {"t": 540, "title": "The Last Ride shirt recalls Maximum Hedrum"},
-    {"t": 610, "title": "Harry reports gastrointestinal illness"},
-    {"t": 680, "title": "Sam's Hofbrau enters the conversation"},
-    {"t": 730, "title": "The room pressures Harry to perform illness"},
-    {"t": 780, "title": "Strip-club etiquette and body judgment"},
-    {"t": 820, "title": "Private friend Mike remains unindexed"},
-    {"t": 900, "title": "Attention, rejection, and customer behavior"},
-    {"t": 1030, "title": "Larry Flynt's Hustler Club"},
-    {"t": 1100, "title": "Dames N' Games and Nolan Ryan"},
-    {"t": 1200, "title": "Olympic Garden"},
-    {"t": 1280, "title": "Strip-club geography becomes status"},
-    {"t": 1350, "title": "My Girl and Macaulay Culkin"},
-    {"t": 1400, "title": "Anna Chlumsky"},
-    {"t": 1440, "title": "Uncle Buck and Field of Dreams"},
-    {"t": 1500, "title": "Harry introduces a private work wife"},
-    {"t": 1580, "title": "Coworker intimacy becomes group speculation"},
-    {"t": 1650, "title": "Touching and an accidental-contact claim"},
-    {"t": 1730, "title": "Workplace boundaries remain unresolved"},
-    {"t": 1800, "title": "Food poisoning is attributed to a meal"},
-    {"t": 1880, "title": "Possible blood raises the medical stakes"},
-    {"t": 1950, "title": "David describes explicit opening messages"},
-    {"t": 2020, "title": "Threats are presented as failed courtship"},
-    {"t": 2100, "title": "Tom Cruise speculation remains unverified"},
-    {"t": 2180, "title": "Harassment is not dating advice"},
-    {"t": 2240, "title": "The room interprets a private coworker"},
-    {"t": 2320, "title": "Attraction is inferred without evidence"},
-    {"t": 2400, "title": "Manipulative illness performance is proposed"},
-    {"t": 2480, "title": "Private relationships remain private"},
-    {"t": 2550, "title": "Dirty Hands music-clearance history"},
-    {"t": 2590, "title": "Depeche Mode and Fugazi"},
-    {"t": 2630, "title": "Descendents and Sepultura"},
-    {"t": 2660, "title": "Eddie Huang and Vice on HBO"},
-    {"t": 2700, "title": "Illness pressure continues on air"},
-    {"t": 2780, "title": "The bucket becomes a production demand"},
-    {"t": 2860, "title": "Thumbs Up! risk returns"},
-    {"t": 2920, "title": "Hinder plays during an intoxicated drive"},
-    {"t": 2940, "title": "NyQuil is falsely compared with sizzurp"},
-    {"t": 3000, "title": "Season 4 gains professional support"},
-    {"t": 3060, "title": "Harry leaves after five days"},
-    {"t": 3150, "title": "Salt Lake City and Temple Square"},
-    {"t": 3180, "title": "Missionaries are sexualized"},
-    {"t": 3250, "title": "The cast confuses racial theology"},
-    {"t": 3300, "title": "Harry reports pain"},
-    {"t": 3380, "title": "Bobby gives Harry a massage"},
-    {"t": 3450, "title": "A young former member discloses suicidality"},
-    {"t": 3520, "title": "The anonymous person remains protected"},
-    {"t": 3550, "title": "The cast gives dangerous method advice"},
-    {"t": 3600, "title": "David walks the person home"},
-    {"t": 3680, "title": "Conversation outcome remains unknown"},
-    {"t": 3750, "title": "Method talk continues"},
-    {"t": 3820, "title": "Golden Gate statistics remain unsourced"},
-    {"t": 3900, "title": "Racialized sexual anecdotes about Harry"},
-    {"t": 3980, "title": "Private adult workers remain unidentified"},
-    {"t": 4020, "title": "Young Congolese sex workers are interviewed"},
-    {"t": 4080, "title": "Age, consent, and payment remain unresolved"},
-    {"t": 4140, "title": "A private translator remains unindexed"},
-    {"t": 4160, "title": "A Reno production story"},
-    {"t": 4240, "title": "Hotel damage and production behavior"},
-    {"t": 4350, "title": "Harry's historical Instagram alias"},
-    {"t": 4410, "title": "Japadog and Yacuzzi Boy"},
-    {"t": 4500, "title": "Episode 038 violence is repeated approvingly"},
-    {"t": 4560, "title": "Normalization becomes cross-episode evidence"},
-    {"t": 4620, "title": "Herbalife and Facebook"},
-    {"t": 4700, "title": "Six Flags Magic Mountain"},
-    {"t": 4800, "title": "Business school and Back to School"},
-    {"t": 4860, "title": "Rodney Dangerfield and Kurt Vonnegut"},
-    {"t": 4920, "title": "Old School"},
-    {"t": 4960, "title": "Pechanga Resort Casino"},
-    {"t": 5040, "title": "Gambling trips and road-dog identity"},
-    {"t": 5100, "title": "Cheech & Chong"},
-    {"t": 5150, "title": "Jay and Silent Bob"},
-    {"t": 5200, "title": "Smokey and the Bandit"},
-    {"t": 5270, "title": "A private former-partner story"},
-    {"t": 5350, "title": "Intimate second-hand testimony stays attributed"},
-    {"t": 5420, "title": "The Howard Stern Show as ambition"},
-    {"t": 5480, "title": "Travel, murals, and production backlog"},
-    {"t": 5540, "title": "A daily or live DVDASA is imagined"},
-    {"t": 5580, "title": "An assistant request escalates fan contact"},
-    {"t": 5680, "title": "Sci-Fi Reuben"},
-    {"t": 5740, "title": "Parasocial access becomes the problem"},
-    {"t": 5790, "title": "An intimate conversation in a family home"},
-    {"t": 5880, "title": "Private household members remain unindexed"},
-    {"t": 5960, "title": "Tantric language and personal boundaries"},
-    {"t": 6030, "title": "The cast debates replying to fans"},
-    {"t": 6120, "title": "A response can imply more access"},
-    {"t": 6180, "title": "Bobby describes an unstable boundary"},
-    {"t": 6240, "title": "San Diego Comic-Con"},
-    {"t": 6300, "title": "Koreans Gone Bad archives"},
-    {"t": 6360, "title": "Joey's public history and conventional work"},
-    {"t": 6400, "title": "A childhood story involving private children"},
-    {"t": 6420, "title": "Private identities remain withheld"},
-    {"t": 6460, "title": "David Choe and DVDASA close"}
+    {
+      "t": 7,
+      "title": "DVDASA opens under Mercury retrograde"
+    },
+    {
+      "t": 53,
+      "title": "Jawbone UP and Nike+ FuelBand"
+    },
+    {
+      "t": 90,
+      "title": "Movement data becomes sexual inference"
+    },
+    {
+      "t": 110,
+      "title": "Gender claims collide with consent"
+    },
+    {
+      "t": 170,
+      "title": "Asa recounts rejection and conflict"
+    },
+    {
+      "t": 240,
+      "title": "Attention seeking and thrown objects"
+    },
+    {
+      "t": 360,
+      "title": "Injectable contraception and mood"
+    },
+    {
+      "t": 410,
+      "title": "Astrology remains personal belief"
+    },
+    {
+      "t": 470,
+      "title": "Harry Kim returns"
+    },
+    {
+      "t": 500,
+      "title": "Koreans Gone Bad and Ichiban"
+    },
+    {
+      "t": 540,
+      "title": "The Last Ride shirt recalls Maximum Hedrum"
+    },
+    {
+      "t": 610,
+      "title": "Harry reports gastrointestinal illness"
+    },
+    {
+      "t": 680,
+      "title": "Sam's Hofbrau enters the conversation"
+    },
+    {
+      "t": 730,
+      "title": "The room pressures Harry to perform illness"
+    },
+    {
+      "t": 780,
+      "title": "Strip-club etiquette and body judgment"
+    },
+    {
+      "t": 820,
+      "title": "Private friend Mike remains unindexed"
+    },
+    {
+      "t": 900,
+      "title": "Attention, rejection, and customer behavior"
+    },
+    {
+      "t": 1030,
+      "title": "Larry Flynt's Hustler Club"
+    },
+    {
+      "t": 1100,
+      "title": "Dames N' Games and Nolan Ryan"
+    },
+    {
+      "t": 1200,
+      "title": "Olympic Garden"
+    },
+    {
+      "t": 1280,
+      "title": "Strip-club geography becomes status"
+    },
+    {
+      "t": 1350,
+      "title": "My Girl and Macaulay Culkin"
+    },
+    {
+      "t": 1400,
+      "title": "Anna Chlumsky"
+    },
+    {
+      "t": 1440,
+      "title": "Uncle Buck and Field of Dreams"
+    },
+    {
+      "t": 1500,
+      "title": "Harry introduces a private work wife"
+    },
+    {
+      "t": 1580,
+      "title": "Coworker intimacy becomes group speculation"
+    },
+    {
+      "t": 1650,
+      "title": "Touching and an accidental-contact claim"
+    },
+    {
+      "t": 1730,
+      "title": "Workplace boundaries remain unresolved"
+    },
+    {
+      "t": 1800,
+      "title": "Food poisoning is attributed to a meal"
+    },
+    {
+      "t": 1880,
+      "title": "Possible blood raises the medical stakes"
+    },
+    {
+      "t": 1950,
+      "title": "David describes explicit opening messages"
+    },
+    {
+      "t": 2020,
+      "title": "Threats are presented as failed courtship"
+    },
+    {
+      "t": 2100,
+      "title": "Tom Cruise speculation remains unverified"
+    },
+    {
+      "t": 2180,
+      "title": "Harassment is not dating advice"
+    },
+    {
+      "t": 2240,
+      "title": "The room interprets a private coworker"
+    },
+    {
+      "t": 2320,
+      "title": "Attraction is inferred without evidence"
+    },
+    {
+      "t": 2400,
+      "title": "Manipulative illness performance is proposed"
+    },
+    {
+      "t": 2480,
+      "title": "Private relationships remain private"
+    },
+    {
+      "t": 2550,
+      "title": "Dirty Hands music-clearance history"
+    },
+    {
+      "t": 2590,
+      "title": "Depeche Mode and Fugazi"
+    },
+    {
+      "t": 2630,
+      "title": "Descendents and Sepultura"
+    },
+    {
+      "t": 2660,
+      "title": "Eddie Huang and Vice on HBO"
+    },
+    {
+      "t": 2700,
+      "title": "Illness pressure continues on air"
+    },
+    {
+      "t": 2780,
+      "title": "The bucket becomes a production demand"
+    },
+    {
+      "t": 2860,
+      "title": "Thumbs Up! risk returns"
+    },
+    {
+      "t": 2920,
+      "title": "Hinder plays during an intoxicated drive"
+    },
+    {
+      "t": 2940,
+      "title": "NyQuil is falsely compared with sizzurp"
+    },
+    {
+      "t": 3000,
+      "title": "Season 4 gains professional support"
+    },
+    {
+      "t": 3060,
+      "title": "Harry leaves after five days"
+    },
+    {
+      "t": 3150,
+      "title": "Salt Lake City and Temple Square"
+    },
+    {
+      "t": 3180,
+      "title": "Missionaries are sexualized"
+    },
+    {
+      "t": 3250,
+      "title": "The cast confuses racial theology"
+    },
+    {
+      "t": 3300,
+      "title": "Harry reports pain"
+    },
+    {
+      "t": 3380,
+      "title": "Bobby gives Harry a massage"
+    },
+    {
+      "t": 3450,
+      "title": "A young former member discloses suicidality"
+    },
+    {
+      "t": 3520,
+      "title": "The anonymous person remains protected"
+    },
+    {
+      "t": 3550,
+      "title": "The cast gives dangerous method advice"
+    },
+    {
+      "t": 3600,
+      "title": "David walks the person home"
+    },
+    {
+      "t": 3680,
+      "title": "Conversation outcome remains unknown"
+    },
+    {
+      "t": 3750,
+      "title": "Method talk continues"
+    },
+    {
+      "t": 3820,
+      "title": "Golden Gate statistics remain unsourced"
+    },
+    {
+      "t": 3900,
+      "title": "Racialized sexual anecdotes about Harry"
+    },
+    {
+      "t": 3980,
+      "title": "Private adult workers remain unidentified"
+    },
+    {
+      "t": 4020,
+      "title": "Young Congolese sex workers are interviewed"
+    },
+    {
+      "t": 4080,
+      "title": "Age, consent, and payment remain unresolved"
+    },
+    {
+      "t": 4140,
+      "title": "A private translator remains unindexed"
+    },
+    {
+      "t": 4160,
+      "title": "A Reno production story"
+    },
+    {
+      "t": 4240,
+      "title": "Hotel damage and production behavior"
+    },
+    {
+      "t": 4350,
+      "title": "Harry's historical Instagram alias"
+    },
+    {
+      "t": 4410,
+      "title": "Japadog and Yacuzzi Boy"
+    },
+    {
+      "t": 4500,
+      "title": "Episode 038 violence is repeated approvingly"
+    },
+    {
+      "t": 4560,
+      "title": "Normalization becomes cross-episode evidence"
+    },
+    {
+      "t": 4620,
+      "title": "Herbalife and Facebook"
+    },
+    {
+      "t": 4700,
+      "title": "Six Flags Magic Mountain"
+    },
+    {
+      "t": 4800,
+      "title": "Business school and Back to School"
+    },
+    {
+      "t": 4860,
+      "title": "Rodney Dangerfield and Kurt Vonnegut"
+    },
+    {
+      "t": 4920,
+      "title": "Old School"
+    },
+    {
+      "t": 4960,
+      "title": "Pechanga Resort Casino"
+    },
+    {
+      "t": 5040,
+      "title": "Gambling trips and road-dog identity"
+    },
+    {
+      "t": 5100,
+      "title": "Cheech & Chong"
+    },
+    {
+      "t": 5150,
+      "title": "Jay and Silent Bob"
+    },
+    {
+      "t": 5200,
+      "title": "Smokey and the Bandit"
+    },
+    {
+      "t": 5270,
+      "title": "A private former-partner story"
+    },
+    {
+      "t": 5350,
+      "title": "Intimate second-hand testimony stays attributed"
+    },
+    {
+      "t": 5420,
+      "title": "The Howard Stern Show as ambition"
+    },
+    {
+      "t": 5480,
+      "title": "Travel, murals, and production backlog"
+    },
+    {
+      "t": 5540,
+      "title": "A daily or live DVDASA is imagined"
+    },
+    {
+      "t": 5580,
+      "title": "An assistant request escalates fan contact"
+    },
+    {
+      "t": 5680,
+      "title": "Sci-Fi Reuben"
+    },
+    {
+      "t": 5740,
+      "title": "Parasocial access becomes the problem"
+    },
+    {
+      "t": 5790,
+      "title": "An intimate conversation in a family home"
+    },
+    {
+      "t": 5880,
+      "title": "Private household members remain unindexed"
+    },
+    {
+      "t": 5960,
+      "title": "Tantric language and personal boundaries"
+    },
+    {
+      "t": 6030,
+      "title": "The cast debates replying to fans"
+    },
+    {
+      "t": 6120,
+      "title": "A response can imply more access"
+    },
+    {
+      "t": 6180,
+      "title": "Bobby describes an unstable boundary"
+    },
+    {
+      "t": 6240,
+      "title": "San Diego Comic-Con"
+    },
+    {
+      "t": 6300,
+      "title": "Koreans Gone Bad archives"
+    },
+    {
+      "t": 6360,
+      "title": "Joey's public history and conventional work"
+    },
+    {
+      "t": 6400,
+      "title": "A childhood story involving private children"
+    },
+    {
+      "t": 6420,
+      "title": "Private identities remain withheld"
+    },
+    {
+      "t": 6460,
+      "title": "David Choe and DVDASA close"
+    }
   ],
   "connections": [
-    {"from_t": 90, "to_t": 2240, "label": "The episode repeatedly treats indirect clues as certainty, first with tracker data and later with a private coworker's feelings."},
-    {"from_t": 110, "to_t": 1950, "label": "Early gender generalizations create the same consent blind spot visible in David's later threatening messages."},
-    {"from_t": 170, "to_t": 4500, "label": "Thrown objects and a repeated violence story show how destructive conduct is narrated as relationship comedy."},
-    {"from_t": 360, "to_t": 2940, "label": "Mercury retrograde and the NyQuil comparison both turn weak causal explanations into confident talk."},
-    {"from_t": 610, "to_t": 2780, "label": "Harry's illness runs beneath the entertainment, while the room converts care into pressure for spectacle."},
-    {"from_t": 780, "to_t": 3900, "label": "Body judgment in strip-club talk expands into racialized sexual mythology later in the episode."},
-    {"from_t": 1500, "to_t": 2400, "label": "The work-wife discussion shifts from uncertain workplace contact to proposals for deliberate emotional manipulation."},
-    {"from_t": 1950, "to_t": 2180, "label": "David's claimed zero-success rate undermines the room's attempt to frame threatening messages as courtship technique."},
-    {"from_t": 2550, "to_t": 3000, "label": "Dirty Hands clearance problems and Thumbs Up! production support expose two different stages of professionalizing improvised work."},
-    {"from_t": 2860, "to_t": 3060, "label": "The mythology of production risk is tested by Harry leaving a professionally supported season after five days."},
-    {"from_t": 3150, "to_t": 3450, "label": "The cast's confused account of church history precedes a former member's urgent personal disclosure."},
-    {"from_t": 3450, "to_t": 3680, "label": "A suicidal disclosure receives dangerous group advice, while David's later private conversation has no documented outcome."},
-    {"from_t": 3550, "to_t": 3750, "label": "Method-specific advice does not end when the immediate story ends; it spills into broader suicide talk."},
-    {"from_t": 3900, "to_t": 4080, "label": "Racialized stories about Harry lead into a Congo account where age, economic power, and consent are unresolved."},
-    {"from_t": 4160, "to_t": 4500, "label": "Production damage and repeated partner violence reveal how harm can be repackaged as tour-story entertainment."},
-    {"from_t": 4800, "to_t": 5250, "label": "School and road-movie references make gambling trips part of a romanticized education outside institutions."},
-    {"from_t": 5420, "to_t": 5580, "label": "The fantasy of a daily Howard Stern-like show conflicts with a real backlog created by travel and murals."},
-    {"from_t": 5580, "to_t": 6030, "label": "Soliciting an assistant and sharing intimacy in private spaces both blur the line between audience participation and personal access."},
-    {"from_t": 6030, "to_t": 6360, "label": "Fan-contact boundaries echo Joey's problem: a public archive can have consequences in ordinary private life."},
-    {"from_t": 470, "to_t": 6460, "label": "Koreans Gone Bad appears at Harry's entrance and near the close, positioning DVDASA as both successor and potentially permanent archive."}
+    {
+      "from_t": 90,
+      "to_t": 2240,
+      "label": "The episode repeatedly treats indirect clues as certainty, first with tracker data and later with a private coworker's feelings."
+    },
+    {
+      "from_t": 110,
+      "to_t": 1950,
+      "label": "Early gender generalizations create the same consent blind spot visible in David's later threatening messages."
+    },
+    {
+      "from_t": 170,
+      "to_t": 4500,
+      "label": "Thrown objects and a repeated violence story show how destructive conduct is narrated as relationship comedy."
+    },
+    {
+      "from_t": 360,
+      "to_t": 2940,
+      "label": "Mercury retrograde and the NyQuil comparison both turn weak causal explanations into confident talk."
+    },
+    {
+      "from_t": 610,
+      "to_t": 2780,
+      "label": "Harry's illness runs beneath the entertainment, while the room converts care into pressure for spectacle."
+    },
+    {
+      "from_t": 780,
+      "to_t": 3900,
+      "label": "Body judgment in strip-club talk expands into racialized sexual mythology later in the episode."
+    },
+    {
+      "from_t": 1500,
+      "to_t": 2400,
+      "label": "The work-wife discussion shifts from uncertain workplace contact to proposals for deliberate emotional manipulation."
+    },
+    {
+      "from_t": 1950,
+      "to_t": 2180,
+      "label": "David's claimed zero-success rate undermines the room's attempt to frame threatening messages as courtship technique."
+    },
+    {
+      "from_t": 2550,
+      "to_t": 3000,
+      "label": "Dirty Hands clearance problems and Thumbs Up! production support expose two different stages of professionalizing improvised work."
+    },
+    {
+      "from_t": 2860,
+      "to_t": 3060,
+      "label": "The mythology of production risk is tested by Harry leaving a professionally supported season after five days."
+    },
+    {
+      "from_t": 3150,
+      "to_t": 3450,
+      "label": "The cast's confused account of church history precedes a former member's urgent personal disclosure."
+    },
+    {
+      "from_t": 3450,
+      "to_t": 3680,
+      "label": "A suicidal disclosure receives dangerous group advice, while David's later private conversation has no documented outcome."
+    },
+    {
+      "from_t": 3550,
+      "to_t": 3750,
+      "label": "Method-specific advice does not end when the immediate story ends; it spills into broader suicide talk."
+    },
+    {
+      "from_t": 3900,
+      "to_t": 4080,
+      "label": "Racialized stories about Harry lead into a Congo account where age, economic power, and consent are unresolved."
+    },
+    {
+      "from_t": 4160,
+      "to_t": 4500,
+      "label": "Production damage and repeated partner violence reveal how harm can be repackaged as tour-story entertainment."
+    },
+    {
+      "from_t": 4800,
+      "to_t": 5250,
+      "label": "School and road-movie references make gambling trips part of a romanticized education outside institutions."
+    },
+    {
+      "from_t": 5420,
+      "to_t": 5580,
+      "label": "The fantasy of a daily Howard Stern-like show conflicts with a real backlog created by travel and murals."
+    },
+    {
+      "from_t": 5580,
+      "to_t": 6030,
+      "label": "Soliciting an assistant and sharing intimacy in private spaces both blur the line between audience participation and personal access."
+    },
+    {
+      "from_t": 6030,
+      "to_t": 6360,
+      "label": "Fan-contact boundaries echo Joey's problem: a public archive can have consequences in ordinary private life."
+    },
+    {
+      "from_t": 470,
+      "to_t": 6460,
+      "label": "Koreans Gone Bad appears at Harry's entrance and near the close, positioning DVDASA as both successor and potentially permanent archive."
+    }
   ],
   "quality": {
     "text": "strong after complete human contextual audit",
@@ -143,5 +529,42 @@
     "religion_and_race": "The cast's Mormon racial-theology account and racialized sexual claims are not treated as categorical truth; current LDS teaching disavows curse and inferiority theories.",
     "violence": "Threats, thrown objects, intoxicated driving, hotel damage, and intimate-partner violence remain attributed and are not normalized as instruction."
   },
-  "speaker_policy": "Participants include David Choe, Asa Akira, Harry Kim, Johnny Bravo, Money Mark, Valentin, Bobby Namba, and private friend Mike. This record does not assign individual transcript turns. Turn segmentation was deliberately disabled; the 2,166 fixed-window embeddings remain available, but named publication waits for independent held-out multi-speaker validation."
+  "speaker_policy": "Participants include David Choe, Asa Akira, Harry Kim, Johnny Bravo, Money Mark, Valentin, Bobby Namba, and private friend Mike. This record does not assign individual transcript turns. Turn segmentation was deliberately disabled; the 2,166 fixed-window embeddings remain available, but named publication waits for independent held-out multi-speaker validation.",
+  "people": [
+    "David Choe",
+    "Macaulay Culkin",
+    "Howard Stern",
+    "Eddie Huang",
+    "Larry Flynt",
+    "Shane Smith",
+    "Toni Ribas",
+    "Asa Akira",
+    "Harry Kim"
+  ],
+  "places": [
+    "San Diego Comic-Con",
+    "Golden Gate Bridge",
+    "Olympic Garden",
+    "Salt Lake City",
+    "San Diego",
+    "Reno"
+  ],
+  "works": [
+    "Koreans Gone Bad",
+    "Dirty Hands",
+    "Vice on HBO",
+    "VICE on HBO",
+    "Thumbs Up!",
+    "Thumbs Up",
+    "Hustler",
+    "DVDASA",
+    "Vice",
+    "VICE"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 041 opens with Asa Akira describing a conflict with Toni Ribas through data from a shared Jawbone UP activity tracker.",
+  "description_source": "Opening of the human-reviewed summary."
 }

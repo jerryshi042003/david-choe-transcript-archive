@@ -1,45 +1,428 @@
 {
-  "episode_id":"uVgbqMzYRIg",
-  "title":"Mangchi @ San Jose 5-26-2015 - David Choe, Dylan, DJ Cutso - Drum Scratch Jam Intro",
-  "reviewed_on":"2026-08-01",
-  "summary":"An 8:38 live Mangchi performance artifact whose 35 automatic-caption records are an event timeline rather than a dialogue transcript: 19 music regions, five applause regions, five thank-you/reaction phrases, one come on, one oh my God and six generic foreign markers. The six foreign tokens are replaced editorially with vocal/music event—language and words unclear; they are not accepted as the English word, a language identification or lyrics. The publisher title supplies Mangchi, San Jose, May 26, 2015, David Choe, Dylan, DJ Cutso and drum/scratch jam context, but does not prove line-level speakers, exact stage roles, song titles or set order. No clean lyrics, set list, voice identity or enrollment is fabricated. Future visual/stage annotation must remain a separate observed layer.",
-  "quality":{"raw_segments":35,"clean_segments":35,"duration_seconds":518,"accepted_context_decisions":35,"chapters":27,"connections":22,"content_warnings":14,"identity_windows":0,"named_turns":0,"publisher_labeled_speakers":0,"cleaning_edits":6,"cleaning_net_word_delta":0,"public_restriction_spans":27},
-  "speaker_policy":{"status":"live music/performance with sparse anonymous phrases; all voices withheld","reason":"Publisher title names likely participants, but captions do not prefix voices and stage role/title order cannot establish who says or performs each event."},
-  "people":["David Choe (publisher-title participant; role/voice unverified)","Dylan (publisher-title participant; identity/role unexpanded)","DJ Cutso (publisher-title participant; exact role not inferred beyond title wording)","unidentified performers","unidentified audience members"],
-  "places":["San Jose, California (publisher-title place; venue absent)"],
-  "works":["Mangchi live performance","drum/scratch jam intro (publisher-title description)","unidentified music/performance material"],
-  "dates":["2015-05-26 (publisher-title date; not independently verified in captions)"],
-  "themes":["live performance","music","applause","audience reaction","sparse speech","drum/scratch jam","generic language markers","lyric uncertainty","performance provenance","stage-role uncertainty","event transcript","visual annotation boundary"],
-  "chapters":[
-    {"t":18.9,"title":"music begins"},{"t":35.01,"title":"first applause"},{"t":38.04,"title":"music resumes"},{"t":40.47,"title":"second applause"},{"t":46.36,"title":"extended music"},{"t":74.04,"title":"unclear vocal/music event 1"},{"t":80.56,"title":"music"},{"t":131.36,"title":"thank you 1"},{"t":132.57,"title":"music"},{"t":155.04,"title":"unclear vocal/music event 2"},{"t":159.8,"title":"music"},{"t":193.26,"title":"unclear vocal/music event 3"},{"t":229.26,"title":"unclear vocal/music event 4"},{"t":272.479,"title":"come on"},{"t":274.67,"title":"music"},{"t":300.419,"title":"unclear vocal/music event 5"},{"t":327.78,"title":"thank you 2"},{"t":362.18,"title":"thank you 3"},{"t":386.12,"title":"thank you 4"},{"t":404.4,"title":"applause/music/applause"},{"t":411.44,"title":"music"},{"t":416.6,"title":"thank you 5"},{"t":421.06,"title":"closing music section"},{"t":450.419,"title":"unclear vocal/music event 6"},{"t":452.53,"title":"final extended music"},{"t":512.279,"title":"oh my God"},{"t":513.97,"title":"closing applause"}
+  "episode_id": "uVgbqMzYRIg",
+  "title": "Mangchi @ San Jose 5-26-2015 - David Choe, Dylan, DJ Cutso - Drum Scratch Jam Intro",
+  "reviewed_on": "2026-08-01",
+  "summary": "An 8:38 live Mangchi performance artifact whose 35 automatic-caption records are an event timeline rather than a dialogue transcript: 19 music regions, five applause regions, five thank-you/reaction phrases, one come on, one oh my God and six generic foreign markers. The six foreign tokens are replaced editorially with vocal/music event—language and words unclear; they are not accepted as the English word, a language identification or lyrics. The publisher title supplies Mangchi, San Jose, May 26, 2015, David Choe, Dylan, DJ Cutso and drum/scratch jam context, but does not prove line-level speakers, exact stage roles, song titles or set order. No clean lyrics, set list, voice identity or enrollment is fabricated. Future visual/stage annotation must remain a separate observed layer.",
+  "quality": {
+    "raw_segments": 35,
+    "clean_segments": 35,
+    "duration_seconds": 518,
+    "accepted_context_decisions": 35,
+    "chapters": 27,
+    "connections": 22,
+    "content_warnings": 14,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 6,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 27
+  },
+  "speaker_policy": {
+    "status": "live music/performance with sparse anonymous phrases; all voices withheld",
+    "reason": "Publisher title names likely participants, but captions do not prefix voices and stage role/title order cannot establish who says or performs each event."
+  },
+  "people": [
+    "David Choe (publisher-title participant; role/voice unverified)",
+    "Dylan (publisher-title participant; identity/role unexpanded)",
+    "DJ Cutso (publisher-title participant; exact role not inferred beyond title wording)",
+    "unidentified performers",
+    "unidentified audience members"
   ],
-  "connections":[
-    {"t":0.0,"to":"Mangchi","relationship":"Publisher title identifies the performance context, not every performer action."},
-    {"t":0.0,"to":"San Jose","relationship":"City comes from publisher metadata; venue is absent."},
-    {"t":0.0,"to":"2015-05-26","relationship":"Date comes from publisher title rather than spoken captions."},
-    {"t":0.0,"to":"David Choe / Dylan / DJ Cutso","relationship":"Participant list cannot assign stage roles or voices by title order."},
-    {"t":18.9,"to":"performance timeline","relationship":"Music labels are evidence events rather than missing prose."},
-    {"t":35.01,"to":"audience response","relationship":"Applause marks live reception without identifying performers."},
-    {"t":74.04,"to":"ASR language marker","relationship":"Foreign is a generic automatic token, not verified speech."},
-    {"t":131.36,"to":"anonymous voice","relationship":"Thank you remains audible but unnamed."},
-    {"t":155.04,"to":"lyric uncertainty","relationship":"No words or language are promoted from the generic marker."},
-    {"t":193.26,"to":"lyric uncertainty","relationship":"The repeated marker does not prove a repeated lyric."},
-    {"t":229.26,"to":"lyric uncertainty","relationship":"The event remains non-lexical until listening verifies it."},
-    {"t":272.479,"to":"anonymous encouragement","relationship":"Come on may be performer or audience speech."},
-    {"t":300.419,"to":"lyric uncertainty","relationship":"The generic marker remains an unclear vocal/music event."},
-    {"t":327.78,"to":"performance acknowledgment","relationship":"Thank you is not assigned to a title participant."},
-    {"t":362.18,"to":"performance acknowledgment","relationship":"Repeated thanks remain separate audible events."},
-    {"t":386.12,"to":"performance acknowledgment","relationship":"Repeated thanks do not prove the same voice."},
-    {"t":404.4,"to":"live transition","relationship":"Applause brackets a short music event."},
-    {"t":416.6,"to":"performance acknowledgment","relationship":"Final thank you remains anonymous."},
-    {"t":450.419,"to":"lyric uncertainty","relationship":"Sixth marker supplies no language or words."},
-    {"t":512.279,"to":"audience/performer reaction","relationship":"Oh my God remains an anonymous reaction."},
-    {"t":513.97,"to":"performance close","relationship":"Applause closes the captured artifact."},
-    {"t":517.82,"to":"visual/stage layer","relationship":"Instruments and stage actions require separate frame observation."}
+  "places": [
+    "San Jose, California (publisher-title place; venue absent)"
   ],
-  "source_notes":["Thirty-five automatic caption/event records span about 8:38.","The artifact is predominantly music, not dialogue.","Nineteen source rows are music labels.","Five source rows are applause labels.","Six source rows are generic foreign markers.","Five thank-you/reaction utterances plus come on and oh my God are sparse audible phrases.","Generic foreign markers are not accepted as the English word.","Generic foreign markers do not identify a language.","Generic foreign markers do not establish lyrics.","Long gaps in caption coverage do not prove silence.","Publisher title identifies Mangchi, San Jose and date context.","Publisher title names David Choe, Dylan and DJ Cutso.","Title order does not define stage position or voice.","Drum/scratch jam intro is a publisher description.","No venue is supplied.","No song title or set list is supplied.","No performer voice is accepted.","Future instrument/stage annotations require frame-level evidence.","Raw captions remain immutable."],
-  "content_warnings":["live-performance volume","music/lyrics copyright boundary","language-identification uncertainty","fake-lyric risk","performer-role inference risk","speaker-attribution risk","title-only participant metadata","venue ambiguity","date-source provenance","long uncaptained intervals","audience/performer conflation","visual-stage dependency","set-list fabrication risk","voice-enrollment contamination risk"],
-  "publication_restrictions":[
-    {"t":-0.12,"rule":"publish zero named voices or enrollment windows"},{"t":-0.11,"rule":"render as event timeline, not prose transcript"},{"t":-0.10,"rule":"preserve every music/applause event and short phrase"},{"t":-0.09,"rule":"do not publish clean lyrics or language labels"},{"t":-0.08,"rule":"do not infer songs or set list"},{"t":-0.07,"rule":"do not assign stage roles from title order"},{"t":-0.06,"rule":"do not identify venue beyond San Jose"},{"t":-0.05,"rule":"attribute date/place/participants to publisher title"},{"t":-0.04,"rule":"do not treat uncaptained gaps as silence"},{"t":-0.03,"rule":"keep visual/stage annotations separate from text"},{"t":-0.02,"rule":"do not use this source for voice enrollment without verified windows"},{"t":-0.01,"rule":"raw captions remain immutable"},{"t":74.04,"rule":"render foreign token as unclear vocal/music event"},{"t":131.36,"rule":"thank you remains unnamed"},{"t":155.04,"rule":"render foreign token as unclear vocal/music event"},{"t":193.26,"rule":"render foreign token as unclear vocal/music event"},{"t":229.26,"rule":"render foreign token as unclear vocal/music event"},{"t":272.479,"rule":"come on remains unnamed"},{"t":300.419,"rule":"render foreign token as unclear vocal/music event"},{"t":327.78,"rule":"thank you remains unnamed"},{"t":362.18,"rule":"thank you remains unnamed"},{"t":386.12,"rule":"thank you remains unnamed"},{"t":404.4,"rule":"retain applause/music/applause sequence"},{"t":416.6,"rule":"thank you remains unnamed"},{"t":450.419,"rule":"render foreign token as unclear vocal/music event"},{"t":512.279,"rule":"oh my God remains unnamed"},{"t":513.97,"rule":"retain closing applause"}
-  ]
+  "works": [
+    "Mangchi live performance",
+    "drum/scratch jam intro (publisher-title description)",
+    "unidentified music/performance material"
+  ],
+  "dates": [
+    "2015-05-26 (publisher-title date; not independently verified in captions)"
+  ],
+  "themes": [
+    "live performance",
+    "music",
+    "applause",
+    "audience reaction",
+    "sparse speech",
+    "drum/scratch jam",
+    "generic language markers",
+    "lyric uncertainty",
+    "performance provenance",
+    "stage-role uncertainty",
+    "event transcript",
+    "visual annotation boundary"
+  ],
+  "chapters": [
+    {
+      "t": 18.9,
+      "title": "music begins"
+    },
+    {
+      "t": 35.01,
+      "title": "first applause"
+    },
+    {
+      "t": 38.04,
+      "title": "music resumes"
+    },
+    {
+      "t": 40.47,
+      "title": "second applause"
+    },
+    {
+      "t": 46.36,
+      "title": "extended music"
+    },
+    {
+      "t": 74.04,
+      "title": "unclear vocal/music event 1"
+    },
+    {
+      "t": 80.56,
+      "title": "music"
+    },
+    {
+      "t": 131.36,
+      "title": "thank you 1"
+    },
+    {
+      "t": 132.57,
+      "title": "music"
+    },
+    {
+      "t": 155.04,
+      "title": "unclear vocal/music event 2"
+    },
+    {
+      "t": 159.8,
+      "title": "music"
+    },
+    {
+      "t": 193.26,
+      "title": "unclear vocal/music event 3"
+    },
+    {
+      "t": 229.26,
+      "title": "unclear vocal/music event 4"
+    },
+    {
+      "t": 272.479,
+      "title": "come on"
+    },
+    {
+      "t": 274.67,
+      "title": "music"
+    },
+    {
+      "t": 300.419,
+      "title": "unclear vocal/music event 5"
+    },
+    {
+      "t": 327.78,
+      "title": "thank you 2"
+    },
+    {
+      "t": 362.18,
+      "title": "thank you 3"
+    },
+    {
+      "t": 386.12,
+      "title": "thank you 4"
+    },
+    {
+      "t": 404.4,
+      "title": "applause/music/applause"
+    },
+    {
+      "t": 411.44,
+      "title": "music"
+    },
+    {
+      "t": 416.6,
+      "title": "thank you 5"
+    },
+    {
+      "t": 421.06,
+      "title": "closing music section"
+    },
+    {
+      "t": 450.419,
+      "title": "unclear vocal/music event 6"
+    },
+    {
+      "t": 452.53,
+      "title": "final extended music"
+    },
+    {
+      "t": 512.279,
+      "title": "oh my God"
+    },
+    {
+      "t": 513.97,
+      "title": "closing applause"
+    }
+  ],
+  "connections": [
+    {
+      "t": 0,
+      "to": "Mangchi",
+      "relationship": "Publisher title identifies the performance context, not every performer action."
+    },
+    {
+      "t": 0,
+      "to": "San Jose",
+      "relationship": "City comes from publisher metadata; venue is absent."
+    },
+    {
+      "t": 0,
+      "to": "2015-05-26",
+      "relationship": "Date comes from publisher title rather than spoken captions."
+    },
+    {
+      "t": 0,
+      "to": "David Choe / Dylan / DJ Cutso",
+      "relationship": "Participant list cannot assign stage roles or voices by title order."
+    },
+    {
+      "t": 18.9,
+      "to": "performance timeline",
+      "relationship": "Music labels are evidence events rather than missing prose."
+    },
+    {
+      "t": 35.01,
+      "to": "audience response",
+      "relationship": "Applause marks live reception without identifying performers."
+    },
+    {
+      "t": 74.04,
+      "to": "ASR language marker",
+      "relationship": "Foreign is a generic automatic token, not verified speech."
+    },
+    {
+      "t": 131.36,
+      "to": "anonymous voice",
+      "relationship": "Thank you remains audible but unnamed."
+    },
+    {
+      "t": 155.04,
+      "to": "lyric uncertainty",
+      "relationship": "No words or language are promoted from the generic marker."
+    },
+    {
+      "t": 193.26,
+      "to": "lyric uncertainty",
+      "relationship": "The repeated marker does not prove a repeated lyric."
+    },
+    {
+      "t": 229.26,
+      "to": "lyric uncertainty",
+      "relationship": "The event remains non-lexical until listening verifies it."
+    },
+    {
+      "t": 272.479,
+      "to": "anonymous encouragement",
+      "relationship": "Come on may be performer or audience speech."
+    },
+    {
+      "t": 300.419,
+      "to": "lyric uncertainty",
+      "relationship": "The generic marker remains an unclear vocal/music event."
+    },
+    {
+      "t": 327.78,
+      "to": "performance acknowledgment",
+      "relationship": "Thank you is not assigned to a title participant."
+    },
+    {
+      "t": 362.18,
+      "to": "performance acknowledgment",
+      "relationship": "Repeated thanks remain separate audible events."
+    },
+    {
+      "t": 386.12,
+      "to": "performance acknowledgment",
+      "relationship": "Repeated thanks do not prove the same voice."
+    },
+    {
+      "t": 404.4,
+      "to": "live transition",
+      "relationship": "Applause brackets a short music event."
+    },
+    {
+      "t": 416.6,
+      "to": "performance acknowledgment",
+      "relationship": "Final thank you remains anonymous."
+    },
+    {
+      "t": 450.419,
+      "to": "lyric uncertainty",
+      "relationship": "Sixth marker supplies no language or words."
+    },
+    {
+      "t": 512.279,
+      "to": "audience/performer reaction",
+      "relationship": "Oh my God remains an anonymous reaction."
+    },
+    {
+      "t": 513.97,
+      "to": "performance close",
+      "relationship": "Applause closes the captured artifact."
+    },
+    {
+      "t": 517.82,
+      "to": "visual/stage layer",
+      "relationship": "Instruments and stage actions require separate frame observation."
+    }
+  ],
+  "source_notes": [
+    "Thirty-five automatic caption/event records span about 8:38.",
+    "The artifact is predominantly music, not dialogue.",
+    "Nineteen source rows are music labels.",
+    "Five source rows are applause labels.",
+    "Six source rows are generic foreign markers.",
+    "Five thank-you/reaction utterances plus come on and oh my God are sparse audible phrases.",
+    "Generic foreign markers are not accepted as the English word.",
+    "Generic foreign markers do not identify a language.",
+    "Generic foreign markers do not establish lyrics.",
+    "Long gaps in caption coverage do not prove silence.",
+    "Publisher title identifies Mangchi, San Jose and date context.",
+    "Publisher title names David Choe, Dylan and DJ Cutso.",
+    "Title order does not define stage position or voice.",
+    "Drum/scratch jam intro is a publisher description.",
+    "No venue is supplied.",
+    "No song title or set list is supplied.",
+    "No performer voice is accepted.",
+    "Future instrument/stage annotations require frame-level evidence.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "live-performance volume",
+    "music/lyrics copyright boundary",
+    "language-identification uncertainty",
+    "fake-lyric risk",
+    "performer-role inference risk",
+    "speaker-attribution risk",
+    "title-only participant metadata",
+    "venue ambiguity",
+    "date-source provenance",
+    "long uncaptained intervals",
+    "audience/performer conflation",
+    "visual-stage dependency",
+    "set-list fabrication risk",
+    "voice-enrollment contamination risk"
+  ],
+  "publication_restrictions": [
+    {
+      "t": -0.12,
+      "rule": "publish zero named voices or enrollment windows"
+    },
+    {
+      "t": -0.11,
+      "rule": "render as event timeline, not prose transcript"
+    },
+    {
+      "t": -0.1,
+      "rule": "preserve every music/applause event and short phrase"
+    },
+    {
+      "t": -0.09,
+      "rule": "do not publish clean lyrics or language labels"
+    },
+    {
+      "t": -0.08,
+      "rule": "do not infer songs or set list"
+    },
+    {
+      "t": -0.07,
+      "rule": "do not assign stage roles from title order"
+    },
+    {
+      "t": -0.06,
+      "rule": "do not identify venue beyond San Jose"
+    },
+    {
+      "t": -0.05,
+      "rule": "attribute date/place/participants to publisher title"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not treat uncaptained gaps as silence"
+    },
+    {
+      "t": -0.03,
+      "rule": "keep visual/stage annotations separate from text"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not use this source for voice enrollment without verified windows"
+    },
+    {
+      "t": -0.01,
+      "rule": "raw captions remain immutable"
+    },
+    {
+      "t": 74.04,
+      "rule": "render foreign token as unclear vocal/music event"
+    },
+    {
+      "t": 131.36,
+      "rule": "thank you remains unnamed"
+    },
+    {
+      "t": 155.04,
+      "rule": "render foreign token as unclear vocal/music event"
+    },
+    {
+      "t": 193.26,
+      "rule": "render foreign token as unclear vocal/music event"
+    },
+    {
+      "t": 229.26,
+      "rule": "render foreign token as unclear vocal/music event"
+    },
+    {
+      "t": 272.479,
+      "rule": "come on remains unnamed"
+    },
+    {
+      "t": 300.419,
+      "rule": "render foreign token as unclear vocal/music event"
+    },
+    {
+      "t": 327.78,
+      "rule": "thank you remains unnamed"
+    },
+    {
+      "t": 362.18,
+      "rule": "thank you remains unnamed"
+    },
+    {
+      "t": 386.12,
+      "rule": "thank you remains unnamed"
+    },
+    {
+      "t": 404.4,
+      "rule": "retain applause/music/applause sequence"
+    },
+    {
+      "t": 416.6,
+      "rule": "thank you remains unnamed"
+    },
+    {
+      "t": 450.419,
+      "rule": "render foreign token as unclear vocal/music event"
+    },
+    {
+      "t": 512.279,
+      "rule": "oh my God remains unnamed"
+    },
+    {
+      "t": 513.97,
+      "rule": "retain closing applause"
+    }
+  ],
+  "description": "An 8:38 live Mangchi performance artifact whose 35 automatic-caption records are an event timeline rather than a dialogue transcript: 19 music regions, five applause regions, five thank-you/reaction phrases, one come on, one oh my God and six generic foreign markers.",
+  "description_source": "Opening of the human-reviewed summary."
 }

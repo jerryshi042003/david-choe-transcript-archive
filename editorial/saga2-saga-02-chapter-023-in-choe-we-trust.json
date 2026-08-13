@@ -1427,5 +1427,24 @@
     "review_queue_suggestions": 0,
     "review_queue_suggestions_accepted": 0
   },
-  "speaker_policy": "Episode-level cast/guest identities may be retained when explicitly introduced. Andrew's private family, former partner and account trail; sex workers/models; the unhoused stranger; former partners; image subjects; fans; employees' private duties; and home/location details remain generic or on-air only. Overlap, performance pressure, physical contact and intimate punishment require acoustic/video validation. No line-level named dialogue publishes until held-out voice validation passes."
+  "speaker_policy": "Episode-level cast/guest identities may be retained when explicitly introduced. Andrew's private family, former partner and account trail; sex workers/models; the unhoused stranger; former partners; image subjects; fans; employees' private duties; and home/location details remain generic or on-air only. Overlap, performance pressure, physical contact and intimate punishment require acoustic/video validation. No line-level named dialogue publishes until held-out voice validation passes.",
+  "people": [
+    "David Choe",
+    "Critter"
+  ],
+  "places": [
+    "Salt Lake City",
+    "Detroit",
+    "Miami"
+  ],
+  "works": [
+    "Thumbs Up",
+    "Mangchi"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Chapter 23 begins with badly decoded multilingual/Mangchi audio, then a guest named Andrew recounts meeting David during Thumbs Up filming at an LDS site in Salt Lake City on June 18, 2013.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -3,490 +3,1956 @@
   "sensitivity": "Explicit sexual discussion; incapacitation and assault; employee sexual pressure; HIV and STI misinformation; private health information; body-image and cosmetic surgery; racist, homophobic, and ableist language; relationship privacy; bodily-fluid and skin-lesion exposure.",
   "speaker_policy": "No named dialogue is publishable. The current Episode 59 artifact contains zero turns and zero voice windows, and the independent held-out multi-speaker validation gate has not passed. Names below identify contextual subjects, not acoustically attributed utterances.",
   "chapters": [
-    {"t":3,"title":"DVDASA musical opening"},
-    {"t":54,"title":"Critter becomes guest host"},
-    {"t":75,"title":"A World Cup qualifier is on"},
-    {"t":89,"title":"Bobby's monkey suit"},
-    {"t":118,"title":"Critter is asked about love"},
-    {"t":143,"title":"Five people in one weekend is disputed"},
-    {"t":186,"title":"David is accused of living vicariously"},
-    {"t":203,"title":"Critter told stories before recording"},
-    {"t":224,"title":"Group-sex pressure"},
-    {"t":239,"title":"Would the men share a partner?"},
-    {"t":252,"title":"Quiet C is away"},
-    {"t":266,"title":"A hypothetical shared girlfriend"},
-    {"t":271,"title":"The beanbag dispute begins"},
-    {"t":298,"title":"Bobby wants his own beanbag"},
-    {"t":310,"title":"Professional posture versus comfort"},
-    {"t":341,"title":"Germ concerns in the shared-partner premise"},
-    {"t":359,"title":"Critter says he does not want to be here"},
-    {"t":378,"title":"Everyone on beanbags"},
-    {"t":391,"title":"An embroidered chair for Bobby"},
-    {"t":402,"title":"Partitioning imagined sexual contact"},
-    {"t":424,"title":"Kissing over intercourse"},
-    {"t":462,"title":"A homophobic slur becomes an acronym joke"},
-    {"t":492,"title":"Is Bobby in pain?"},
-    {"t":503,"title":"Last episode's resting-eyes dispute"},
-    {"t":511,"title":"A sore neck"},
-    {"t":540,"title":"The titty hat"},
-    {"t":564,"title":"Why David is angry"},
-    {"t":575,"title":"Sexual frustration is proposed"},
-    {"t":606,"title":"Vegas support work and compensation"},
-    {"t":629,"title":"How to pronounce Montblanc"},
-    {"t":663,"title":"Persephone remains nearby"},
-    {"t":685,"title":"Learning luxury watches in Vegas"},
-    {"t":697,"title":"Patek Philippe prices"},
-    {"t":710,"title":"The phone interrupts the story"},
-    {"t":719,"title":"Alice + Olivia, not Breaking Bad"},
-    {"t":733,"title":"An offered watch"},
-    {"t":756,"title":"A facial bump is diagnosed by the room"},
-    {"t":779,"title":"Montblanc becomes hockey support"},
-    {"t":800,"title":"A repeated story is acknowledged"},
-    {"t":813,"title":"Bobby predicts the ending"},
-    {"t":820,"title":"Home-and-away jerseys"},
-    {"t":839,"title":"The team keeps losing"},
-    {"t":863,"title":"Kevin Smith and repeating stories"},
-    {"t":873,"title":"The Ben Affleck story recurs"},
-    {"t":881,"title":"SModcast and first-time listeners"},
-    {"t":916,"title":"The jerseys did not create wins"},
-    {"t":940,"title":"Conflict inside the hockey team"},
-    {"t":951,"title":"Team sport becomes DVDASA metaphor"},
-    {"t":964,"title":"Andy Milonakis as morale coach"},
-    {"t":977,"title":"Friday Night Lights inspiration"},
-    {"t":982,"title":"Critter books Zach Gilford"},
-    {"t":997,"title":"The phone is confiscated"},
-    {"t":1011,"title":"A note contains good news"},
-    {"t":1054,"title":"Bobby finally has an iPhone"},
-    {"t":1066,"title":"The hockey story resumes"},
-    {"t":1075,"title":"A 5–0 loss"},
-    {"t":1094,"title":"Six-player fatigue"},
-    {"t":1106,"title":"Effort becomes a character judgment"},
-    {"t":1121,"title":"Critter wants a tryout"},
-    {"t":1148,"title":"The watch looks better in hindsight"},
-    {"t":1152,"title":"A listener answers the hockey call"},
-    {"t":1182,"title":"Three possible recruits"},
-    {"t":1189,"title":"A listener-athlete is named on air"},
-    {"t":1204,"title":"The room ranks him best"},
-    {"t":1207,"title":"Why not sponsor him?"},
-    {"t":1228,"title":"What sponsorship would mean"},
-    {"t":1233,"title":"The offer is addressed to the listener"},
-    {"t":1238,"title":"Racial adversity is assumed"},
-    {"t":1244,"title":"Skill depends on self-report"},
-    {"t":1268,"title":"Instagram is treated as evidence"},
-    {"t":1285,"title":"A white man's sport"},
-    {"t":1302,"title":"The sponsorship terms open"},
-    {"t":1310,"title":"Travel and meals"},
-    {"t":1329,"title":"Skates, stick, and puck"},
-    {"t":1359,"title":"A conditional ten-thousand-dollar bonus"},
-    {"t":1371,"title":"Can this be promised on air?"},
-    {"t":1381,"title":"The team is said not to deserve him"},
-    {"t":1400,"title":"A bandage goes through a sock"},
-    {"t":1425,"title":"Foot, hand, and face lesions are linked"},
-    {"t":1447,"title":"The facial bump is disputed"},
-    {"t":1461,"title":"Betting restrictions appear"},
-    {"t":1473,"title":"Who rallies a losing team?"},
-    {"t":1492,"title":"Two wins in twenty games"},
-    {"t":1503,"title":"The new season begins with a loss"},
-    {"t":1510,"title":"The group plans to attend Sunday"},
-    {"t":1527,"title":"The listener call remains open"},
-    {"t":1540,"title":"Conditioning and no practice"},
-    {"t":1556,"title":"Has the show officially started?"},
-    {"t":1571,"title":"A second formal welcome"},
-    {"t":1572,"title":"Trivia is still not ready"},
-    {"t":1582,"title":"Bobby's indifference is criticized"},
-    {"t":1592,"title":"An employee is ordered to prepare trivia"},
-    {"t":1614,"title":"Serenity now"},
-    {"t":1624,"title":"Job loss, hockey, and Quiet C provocation"},
-    {"t":1640,"title":"What does Bobby care about?"},
-    {"t":1655,"title":"Recreational-league context"},
-    {"t":1677,"title":"Panorama City and Toyota Sports Center"},
-    {"t":1683,"title":"Another hockey sponsorship request"},
-    {"t":1706,"title":"No desire to discuss hockey"},
-    {"t":1715,"title":"Is your name not Bobby Trivia?"},
-    {"t":1725,"title":"Critter advises refusal"},
-    {"t":1730,"title":"Why does everyone oppose David?"},
-    {"t":1737,"title":"Microphone handling explains the anger"},
-    {"t":1762,"title":"Three shows about seating and microphones"},
-    {"t":1769,"title":"Hope for the new studio"},
-    {"t":1780,"title":"Critter's positive comments"},
-    {"t":1801,"title":"Bobby reads comments instead of trivia"},
-    {"t":1811,"title":"Favorite listener usernames"},
-    {"t":1842,"title":"Toni Ribas' accent"},
-    {"t":1863,"title":"Mark Spiegler's long acquaintance"},
-    {"t":1871,"title":"A supportive comment is misattributed"},
-    {"t":1891,"title":"Understanding a partner by phone"},
-    {"t":1905,"title":"A private Mexico partner"},
-    {"t":1937,"title":"How serious is a phone call?"},
-    {"t":1958,"title":"Appearance and sexual attention"},
-    {"t":1985,"title":"Occupational beauty pressure"},
-    {"t":2013,"title":"Kevin Smith and Joey Lauren Adams"},
-    {"t":2043,"title":"Health concern versus relationship excuse"},
-    {"t":2048,"title":"Trying to stop Toni Ribas smoking"},
-    {"t":2068,"title":"A relative enters seminary late in life"},
-    {"t":2098,"title":"His spouse did not sign up for it"},
-    {"t":2147,"title":"Marrying a smoker"},
-    {"t":2154,"title":"The fantasy of letting go after marriage"},
-    {"t":2191,"title":"David says he does not care about grooming"},
-    {"t":2222,"title":"A full checkup turns cosmetic"},
-    {"t":2234,"title":"Skin tags removed"},
-    {"t":2263,"title":"Birthmarks offered laser treatment"},
-    {"t":2278,"title":"A clinician also claims dermatology"},
-    {"t":2300,"title":"A live, unedited Gawker interview"},
-    {"t":2313,"title":"Critter photographs David's crown"},
-    {"t":2330,"title":"Family hair-loss history"},
-    {"t":2352,"title":"A mercury-poisoning explanation"},
-    {"t":2374,"title":"David returns the photograph"},
-    {"t":2393,"title":"Thinning, not bald"},
-    {"t":2410,"title":"Would a woman notice immediately?"},
-    {"t":2431,"title":"A possible Scott Rudin television project"},
-    {"t":2438,"title":"The Book of Mormon opening"},
-    {"t":2448,"title":"Jason Alexander's hair"},
-    {"t":2468,"title":"Ted Danson rumor"},
-    {"t":2477,"title":"Known baldness changes the strategy"},
-    {"t":2491,"title":"Intervene before anyone notices?"},
-    {"t":2507,"title":"Picasso and the appeal of not grooming"},
-    {"t":2537,"title":"David's mother takes art seriously"},
-    {"t":2550,"title":"Thousands of paintings"},
-    {"t":2573,"title":"The Shining comparison"},
-    {"t":2589,"title":"Self-portraits and Frida Kahlo"},
-    {"t":2596,"title":"Studying art intensely"},
-    {"t":2605,"title":"At Frida Kahlo's house"},
-    {"t":2612,"title":"Leonardo da Vinci facts"},
-    {"t":2636,"title":"Sexuality is corrected from gay to bisexual"},
-    {"t":2642,"title":"Michelangelo follows"},
-    {"t":2659,"title":"Andy Warhol exercise and candy stories"},
-    {"t":2688,"title":"David's father asks why everyone is gay"},
-    {"t":2700,"title":"A brother's wedding raises another question"},
-    {"t":2703,"title":"David thinks his parents suspect him"},
-    {"t":2713,"title":"Critter's vacation-origin story"},
-    {"t":2721,"title":"Men are always around David"},
-    {"t":2732,"title":"Interpreting the comments as acceptance"},
-    {"t":2750,"title":"Diego Rivera and Frida Kahlo"},
-    {"t":2770,"title":"But not David"},
-    {"t":2780,"title":"Parents do not know the love life"},
-    {"t":2794,"title":"Not caring is not completely honest"},
-    {"t":2835,"title":"A manager wants a more polished image"},
-    {"t":2866,"title":"Rejecting the funny-fat-Asian slot"},
-    {"t":2878,"title":"Does breast augmentation count?"},
-    {"t":2904,"title":"Los Angeles cosmetic-surgery generalization"},
-    {"t":2914,"title":"Critter researches hair restoration"},
-    {"t":2920,"title":"Norway is said to be best"},
-    {"t":2935,"title":"No history of physical self-betterment"},
-    {"t":2951,"title":"Money, television, and thinning hair"},
-    {"t":2963,"title":"The slippery-slope concern"},
-    {"t":2981,"title":"Tattoo avoidance follows the same logic"},
-    {"t":3000,"title":"Why not improve yourself?"},
-    {"t":3017,"title":"Valentin gives the natural answer"},
-    {"t":3033,"title":"The Namba family hair"},
-    {"t":3062,"title":"Bobby refuses a crown inspection"},
-    {"t":3082,"title":"A forest of black hair"},
-    {"t":3095,"title":"David will only do it with Critter"},
-    {"t":3104,"title":"Norway or Los Angeles?"},
-    {"t":3117,"title":"A triple hair-restoration date"},
-    {"t":3130,"title":"Steven Seagal hairline joke"},
-    {"t":3146,"title":"Do women go bald?"},
-    {"t":3162,"title":"Would body modification be filmed?"},
-    {"t":3173,"title":"Wanting to be taller"},
-    {"t":3177,"title":"Limb-lengthening risk"},
-    {"t":3184,"title":"The human-Barbie reference"},
-    {"t":3204,"title":"The right answer versus the right personal answer"},
-    {"t":3220,"title":"Would a television show require hair?"},
-    {"t":3226,"title":"Michael Scott between seasons"},
-    {"t":3237,"title":"The Office is rejected"},
-    {"t":3250,"title":"Family Guy, South Park, and The Simpsons"},
-    {"t":3255,"title":"Eastbound & Down and Louie"},
-    {"t":3266,"title":"Workaholics joins the list"},
-    {"t":3272,"title":"The Office is funniest to Asa"},
-    {"t":3302,"title":"Disliking a show out of spite"},
-    {"t":3307,"title":"Parks and Recreation and Aubrey Plaza"},
-    {"t":3320,"title":"Aubrey Plaza may appear"},
-    {"t":3332,"title":"A Jeremy Lin event comes first"},
-    {"t":3340,"title":"Honorary Filipino fan adoption"},
-    {"t":3350,"title":"DJ Qbert as the comparison"},
-    {"t":3365,"title":"Korean-American representation"},
-    {"t":3376,"title":"Roy Choi, David Chang, and Steven Yeun"},
-    {"t":3384,"title":"Margaret Cho and golfers"},
-    {"t":3394,"title":"Eddie Huang and the missing archetype"},
-    {"t":3406,"title":"David is named the strange Korean figure"},
-    {"t":3420,"title":"Korean-American award events"},
-    {"t":3435,"title":"More representation and industry power"},
-    {"t":3451,"title":"The Korean producer becomes a type"},
-    {"t":3457,"title":"Critter receives entertainment pitches"},
-    {"t":3470,"title":"Scarlett Johansson is promised"},
-    {"t":3483,"title":"An alarm interrupts"},
-    {"t":3499,"title":"SAMCRO and Sons of Anarchy"},
-    {"t":3530,"title":"Critter's experience after moving to LA"},
-    {"t":3540,"title":"What does this have to do with Jeremy Lin?"},
-    {"t":3552,"title":"The Facebook-news month"},
-    {"t":3577,"title":"Paparazzi outside the family home"},
-    {"t":3589,"title":"Linsanity takes over the news cycle"},
-    {"t":3616,"title":"The cameras disappear"},
-    {"t":3632,"title":"A thank-you note for Lin"},
-    {"t":3636,"title":"Promises versus delivered access"},
-    {"t":3660,"title":"Meals, games, and car rides"},
-    {"t":3675,"title":"Why a Lamborghini track day is unappealing"},
-    {"t":3700,"title":"Sports and cars do not motivate David"},
-    {"t":3731,"title":"A Linsanity red-carpet invitation"},
-    {"t":3743,"title":"Filming before the breakthrough"},
-    {"t":3758,"title":"The Dirty Hands parallel"},
-    {"t":3778,"title":"Johnny drives from San Jose"},
-    {"t":3791,"title":"Predicting the biggest artist in the world"},
-    {"t":3800,"title":"Slow Jams and comic artists"},
-    {"t":3815,"title":"The early film changes hands"},
-    {"t":3821,"title":"Can Jeremy Lin come on DVDASA?"},
-    {"t":3832,"title":"California-born and Harvard-educated"},
-    {"t":3864,"title":"Jeremy is an American name"},
-    {"t":3867,"title":"The family saw Lin play the Lakers"},
-    {"t":3872,"title":"The producer rejects the guest idea"},
-    {"t":3887,"title":"Ask Lin on the red carpet"},
-    {"t":3890,"title":"Critter wants signed basketballs"},
-    {"t":3899,"title":"Walking with versus attending"},
-    {"t":3922,"title":"Asa wants to come"},
-    {"t":3966,"title":"Critter repeats the invitation verbatim"},
-    {"t":4000,"title":"Role model before scandal"},
-    {"t":4021,"title":"Seeing Houston play Los Angeles"},
-    {"t":4038,"title":"Lin looks smaller in person"},
-    {"t":4065,"title":"A six-foot-three point guard"},
-    {"t":4070,"title":"Visible bandages"},
-    {"t":4087,"title":"Chinese Olympic height detour"},
-    {"t":4111,"title":"Growth and doping speculation"},
-    {"t":4137,"title":"The game story returns"},
-    {"t":4150,"title":"The crowd is racialized"},
-    {"t":4170,"title":"Older fans watch a hero"},
-    {"t":4187,"title":"Post-Linsanity disappointment"},
-    {"t":4209,"title":"Bobby's eyes are inspected"},
-    {"t":4231,"title":"Jeremy Lin was never booked"},
-    {"t":4256,"title":"Two things David wants to say"},
-    {"t":4268,"title":"Abstinence and sport myth"},
-    {"t":4282,"title":"Sexual access is projected onto Lin"},
-    {"t":4309,"title":"Born-again Christianity is invoked"},
-    {"t":4338,"title":"The opposite of David"},
-    {"t":4344,"title":"Shane is called into the room"},
-    {"t":4356,"title":"Shane is asked about Lin's sex life"},
-    {"t":4376,"title":"A letter from the producer"},
-    {"t":4385,"title":"Permission to read it"},
-    {"t":4404,"title":"Shane accepts a new chapter"},
-    {"t":4413,"title":"Humiliation and embarrassment expected"},
-    {"t":4426,"title":"DVDASA as lifestyle shock"},
-    {"t":4433,"title":"Creative and merchandising opportunities"},
-    {"t":4443,"title":"Shane thanks the whole team"},
-    {"t":4457,"title":"Official welcome"},
-    {"t":4463,"title":"Notice at the prior job"},
-    {"t":4475,"title":"Shane is praised as fearless"},
-    {"t":4494,"title":"Unblackmailable is the wrong frame"},
-    {"t":4503,"title":"Only one appearance has aired"},
-    {"t":4517,"title":"Two friends found it"},
-    {"t":4531,"title":"They were already listeners"},
-    {"t":4568,"title":"Supportive but surprised reactions"},
-    {"t":4589,"title":"Honesty is treated as protection"},
-    {"t":4598,"title":"The 40-Year-Old Virgin plan"},
-    {"t":4622,"title":"The film scene is misremembered"},
-    {"t":4651,"title":"Coworkers try to help"},
-    {"t":4677,"title":"Companionship versus experience"},
-    {"t":4689,"title":"Prospective partners are objectified"},
-    {"t":4711,"title":"Shane describes prior gray areas"},
-    {"t":4723,"title":"A good first experience or practice first?"},
-    {"t":4737,"title":"Shane chooses experience"},
-    {"t":4772,"title":"The room celebrates"},
-    {"t":4781,"title":"No more gray area"},
-    {"t":4803,"title":"A right to decline is stated"},
-    {"t":4812,"title":"Teaching someone not to fall in love"},
-    {"t":4841,"title":"Future introductions are promised"},
-    {"t":4848,"title":"A branding joke"},
-    {"t":4859,"title":"Shane has no tattoos"},
-    {"t":4864,"title":"The acceptance letter is called sweet"},
-    {"t":4872,"title":"Who keeps notes and letters?"},
-    {"t":4892,"title":"A warehouse full of boxes"},
-    {"t":4900,"title":"Birthday-card disposal anxiety"},
-    {"t":4910,"title":"Sentiment versus practicality"},
-    {"t":4925,"title":"Emails are effortless to keep"},
-    {"t":4933,"title":"Flowers and dried keepsakes"},
-    {"t":4993,"title":"Old notes restore forgotten people"},
-    {"t":5005,"title":"Memory as an argument for archives"},
-    {"t":5033,"title":"How soon can a card be discarded?"},
-    {"t":5047,"title":"Hoarder versus normal"},
-    {"t":5053,"title":"Pornography habits change"},
-    {"t":5061,"title":"Stills replace video"},
-    {"t":5081,"title":"Internet aggregation rabbit holes"},
-    {"t":5120,"title":"Imagination fed by saved images"},
-    {"t":5165,"title":"Pamela Adlon and sleep-themed porn"},
-    {"t":5171,"title":"Assault is called realistic and attractive"},
-    {"t":5189,"title":"Shane is pulled back in"},
-    {"t":5196,"title":"Are you a rapist?"},
-    {"t":5209,"title":"Could Shane overpower Asa?"},
-    {"t":5222,"title":"Violence and arousal"},
-    {"t":5244,"title":"The drugging hypothetical"},
-    {"t":5262,"title":"Shock without resistance"},
-    {"t":5273,"title":"Did she say no?"},
-    {"t":5281,"title":"Eyes are invoked again"},
-    {"t":5292,"title":"Ask Asa returns"},
-    {"t":5322,"title":"A new theme song"},
-    {"t":5343,"title":"Ministry and two drummers"},
-    {"t":5355,"title":"The segment is explained to Shane"},
-    {"t":5390,"title":"Booking questions become advice questions"},
-    {"t":5421,"title":"Have you wanted advice from a sex worker?"},
-    {"t":5439,"title":"Critter asks about Toni Ribas"},
-    {"t":5449,"title":"Eighteen years in adult film"},
-    {"t":5465,"title":"Career longevity and financial risk"},
-    {"t":5498,"title":"The anchor role returns"},
-    {"t":5511,"title":"Toni Ribas is identified"},
-    {"t":5547,"title":"A Chicago listener's friendship secret"},
-    {"t":5574,"title":"Friendship before romance"},
-    {"t":5588,"title":"Asa's first marriage"},
-    {"t":5623,"title":"A new emotional friendship"},
-    {"t":5661,"title":"An ultimatum has already lost"},
-    {"t":5671,"title":"The spouse chooses friendship"},
-    {"t":5695,"title":"Emotional jealousy over sexual jealousy"},
-    {"t":5700,"title":"Secrecy is the real problem"},
-    {"t":5728,"title":"Tell the girlfriend directly"},
-    {"t":5764,"title":"The listener values the friend more"},
-    {"t":5794,"title":"David nearly had a girlfriend"},
-    {"t":5805,"title":"Male friendships consume his time"},
-    {"t":5820,"title":"A demand to end KGB"},
-    {"t":5835,"title":"The prospective relationship ends"},
-    {"t":5844,"title":"Dating a public podcast participant"},
-    {"t":5880,"title":"Where is the line at appearances?"},
-    {"t":5906,"title":"Lap-dance pricing"},
-    {"t":5936,"title":"Tip timing"},
-    {"t":5952,"title":"Touching begins with hands off"},
-    {"t":5964,"title":"Waiting may lead to specific permission"},
-    {"t":5976,"title":"Permission has explicit limits"},
-    {"t":5988,"title":"Workers have different rules"},
-    {"t":6021,"title":"Club Mystique in Bridgeport"},
-    {"t":6036,"title":"Clothing advice for the club"},
-    {"t":6050,"title":"Some venues refuse sweatpants"},
-    {"t":6082,"title":"Why some men dislike strip clubs"},
-    {"t":6092,"title":"Sweatpants as attraction"},
-    {"t":6120,"title":"A serious health question"},
-    {"t":6136,"title":"Four positive tests are discussed"},
-    {"t":6155,"title":"A false on-set-transmission claim"},
-    {"t":6164,"title":"Anal ejaculation is wrongly made the only route"},
-    {"t":6174,"title":"A false 1994 cutoff"},
-    {"t":6206,"title":"Rectal tissue vulnerability"},
-    {"t":6218,"title":"Oxygen myth"},
-    {"t":6236,"title":"Testing is treated as complete protection"},
-    {"t":6248,"title":"The first reported couple"},
-    {"t":6255,"title":"A month away from scenes"},
-    {"t":6286,"title":"The boyfriend tests positive"},
-    {"t":6290,"title":"Orientation becomes a false causal shortcut"},
-    {"t":6301,"title":"Condom and testing systems are contrasted"},
-    {"t":6333,"title":"Medical privacy is recognized"},
-    {"t":6348,"title":"The news had circulated for a month"},
-    {"t":6358,"title":"How coverage stigmatizes performers"},
-    {"t":6376,"title":"A production pause"},
-    {"t":6384,"title":"Contact tracing and quarantine lists"},
-    {"t":6401,"title":"A former partner is outed by implication"},
-    {"t":6432,"title":"A drugging hypothetical returns"},
-    {"t":6448,"title":"Penetration after drugging is assault"},
-    {"t":6457,"title":"The reporter joke"},
-    {"t":6462,"title":"The unresolved third case"},
-    {"t":6475,"title":"Disclosure limits"},
-    {"t":6496,"title":"How contacts are notified"},
-    {"t":6501,"title":"Prior production quarantines"},
-    {"t":6516,"title":"The cast interrupts medical uncertainty"},
-    {"t":6523,"title":"The speaker declines to identify people"},
-    {"t":6534,"title":"The craziest month in porn"},
-    {"t":6542,"title":"Directing and editing continue"},
-    {"t":6555,"title":"Post-scene washing"},
-    {"t":6582,"title":"Outdoor sets without showers"},
-    {"t":6617,"title":"Private partner practices"},
-    {"t":6622,"title":"Residue after a scene"},
-    {"t":6641,"title":"Errands after showering"},
-    {"t":6663,"title":"A grocery-store scenario"},
-    {"t":6684,"title":"Another audience question"},
-    {"t":6698,"title":"Mouth and genital anatomy correlation"},
-    {"t":6720,"title":"Anatomy is linked to libido"},
-    {"t":6753,"title":"Experience is acknowledged as anecdote"},
-    {"t":6758,"title":"Headdresses are linked to STIs"},
-    {"t":6768,"title":"Nonprescription glasses join the myth"},
-    {"t":6809,"title":"The invented pattern is celebrated"},
-    {"t":6820,"title":"Large anatomy equals insatiability"},
-    {"t":6832,"title":"Adult performers are generalized"},
-    {"t":6844,"title":"Locker-room comparison"},
-    {"t":6854,"title":"Quiet C's body is discussed"},
-    {"t":6864,"title":"Prove it"},
-    {"t":6868,"title":"A private partner's body story"},
-    {"t":6891,"title":"Shane's comment is challenged"},
-    {"t":6901,"title":"Aesthetic preferences"},
-    {"t":6924,"title":"Small anatomy equals prudishness"},
-    {"t":6942,"title":"Facebook access affects dating"},
-    {"t":6959,"title":"Dr. Choe is proposed as a clean account"},
-    {"t":6963,"title":"Public social handles"},
-    {"t":7001,"title":"One or two more questions"},
-    {"t":7014,"title":"The reporter has no question"},
-    {"t":7029,"title":"Shane is pressured again"},
-    {"t":7057,"title":"How is living in Los Angeles?"},
-    {"t":7068,"title":"A general question is mocked"},
-    {"t":7087,"title":"The reporter asks about performed orgasms"},
-    {"t":7105,"title":"Director-requested endings"},
-    {"t":7114,"title":"Shane's question remains under attack"},
-    {"t":7155,"title":"Homework to ask better questions"},
-    {"t":7163,"title":"Inexperience is treated as obligation"},
-    {"t":7190,"title":"The reporter's question is answered"},
-    {"t":7200,"title":"An orgasm as a scene endpoint"},
-    {"t":7204,"title":"Asa describes her own process"},
-    {"t":7231,"title":"A personal estimate, not an industry statistic"},
-    {"t":7249,"title":"The bodily-fluid joke returns"},
-    {"t":7265,"title":"Trivia begins"},
-    {"t":7286,"title":"The new punishment"},
-    {"t":7294,"title":"Smelling the treated wart"},
-    {"t":7301,"title":"The reporter cannot leave"},
-    {"t":7311,"title":"No truncated trivia"},
-    {"t":7332,"title":"Name the song or artist"},
-    {"t":7343,"title":"A chain of wrong guesses"},
-    {"t":7392,"title":"Saves the Day: At Your Funeral"},
-    {"t":7404,"title":"Shane still owes questions"},
-    {"t":7433,"title":"Car and Los Angeles jokes"},
-    {"t":7450,"title":"A sports-song clue"},
-    {"t":7464,"title":"Modest Mouse"},
-    {"t":7476,"title":"An important final music round"},
-    {"t":7496,"title":"Maroon 5 guess"},
-    {"t":7531,"title":"Green Day: When I Come Around"},
-    {"t":7550,"title":"Hair envy returns"},
-    {"t":7562,"title":"Another long guess sequence"},
-    {"t":7598,"title":"Jack Johnson and sandal rock"},
-    {"t":7610,"title":"Orange Is the New Black"},
-    {"t":7629,"title":"The lead's crime"},
-    {"t":7652,"title":"Red runs the kitchen"},
-    {"t":7659,"title":"A former lover and a dryer"},
-    {"t":7676,"title":"Crazy Eyes"},
-    {"t":7690,"title":"Pornstache"},
-    {"t":7714,"title":"The Office round"},
-    {"t":7718,"title":"Scranton, Pennsylvania"},
-    {"t":7729,"title":"Toby moves to Costa Rica"},
-    {"t":7744,"title":"Creed"},
-    {"t":7750,"title":"Kevin Malone's Police tribute band"},
-    {"t":7769,"title":"Mose Schrute"},
-    {"t":7804,"title":"Critter refuses the wart"},
-    {"t":7813,"title":"Everyone pressures him to smell it"},
-    {"t":7827,"title":"An incidental whiff"},
-    {"t":7832,"title":"Inhale for three seconds"},
-    {"t":7849,"title":"Possible unwanted contact"},
-    {"t":7863,"title":"DVDASA closing"},
-    {"t":7896,"title":"Standard outro"},
-    {"t":7933,"title":"Final thank-you"}
+    {
+      "t": 3,
+      "title": "DVDASA musical opening"
+    },
+    {
+      "t": 54,
+      "title": "Critter becomes guest host"
+    },
+    {
+      "t": 75,
+      "title": "A World Cup qualifier is on"
+    },
+    {
+      "t": 89,
+      "title": "Bobby's monkey suit"
+    },
+    {
+      "t": 118,
+      "title": "Critter is asked about love"
+    },
+    {
+      "t": 143,
+      "title": "Five people in one weekend is disputed"
+    },
+    {
+      "t": 186,
+      "title": "David is accused of living vicariously"
+    },
+    {
+      "t": 203,
+      "title": "Critter told stories before recording"
+    },
+    {
+      "t": 224,
+      "title": "Group-sex pressure"
+    },
+    {
+      "t": 239,
+      "title": "Would the men share a partner?"
+    },
+    {
+      "t": 252,
+      "title": "Quiet C is away"
+    },
+    {
+      "t": 266,
+      "title": "A hypothetical shared girlfriend"
+    },
+    {
+      "t": 271,
+      "title": "The beanbag dispute begins"
+    },
+    {
+      "t": 298,
+      "title": "Bobby wants his own beanbag"
+    },
+    {
+      "t": 310,
+      "title": "Professional posture versus comfort"
+    },
+    {
+      "t": 341,
+      "title": "Germ concerns in the shared-partner premise"
+    },
+    {
+      "t": 359,
+      "title": "Critter says he does not want to be here"
+    },
+    {
+      "t": 378,
+      "title": "Everyone on beanbags"
+    },
+    {
+      "t": 391,
+      "title": "An embroidered chair for Bobby"
+    },
+    {
+      "t": 402,
+      "title": "Partitioning imagined sexual contact"
+    },
+    {
+      "t": 424,
+      "title": "Kissing over intercourse"
+    },
+    {
+      "t": 462,
+      "title": "A homophobic slur becomes an acronym joke"
+    },
+    {
+      "t": 492,
+      "title": "Is Bobby in pain?"
+    },
+    {
+      "t": 503,
+      "title": "Last episode's resting-eyes dispute"
+    },
+    {
+      "t": 511,
+      "title": "A sore neck"
+    },
+    {
+      "t": 540,
+      "title": "The titty hat"
+    },
+    {
+      "t": 564,
+      "title": "Why David is angry"
+    },
+    {
+      "t": 575,
+      "title": "Sexual frustration is proposed"
+    },
+    {
+      "t": 606,
+      "title": "Vegas support work and compensation"
+    },
+    {
+      "t": 629,
+      "title": "How to pronounce Montblanc"
+    },
+    {
+      "t": 663,
+      "title": "Persephone remains nearby"
+    },
+    {
+      "t": 685,
+      "title": "Learning luxury watches in Vegas"
+    },
+    {
+      "t": 697,
+      "title": "Patek Philippe prices"
+    },
+    {
+      "t": 710,
+      "title": "The phone interrupts the story"
+    },
+    {
+      "t": 719,
+      "title": "Alice + Olivia, not Breaking Bad"
+    },
+    {
+      "t": 733,
+      "title": "An offered watch"
+    },
+    {
+      "t": 756,
+      "title": "A facial bump is diagnosed by the room"
+    },
+    {
+      "t": 779,
+      "title": "Montblanc becomes hockey support"
+    },
+    {
+      "t": 800,
+      "title": "A repeated story is acknowledged"
+    },
+    {
+      "t": 813,
+      "title": "Bobby predicts the ending"
+    },
+    {
+      "t": 820,
+      "title": "Home-and-away jerseys"
+    },
+    {
+      "t": 839,
+      "title": "The team keeps losing"
+    },
+    {
+      "t": 863,
+      "title": "Kevin Smith and repeating stories"
+    },
+    {
+      "t": 873,
+      "title": "The Ben Affleck story recurs"
+    },
+    {
+      "t": 881,
+      "title": "SModcast and first-time listeners"
+    },
+    {
+      "t": 916,
+      "title": "The jerseys did not create wins"
+    },
+    {
+      "t": 940,
+      "title": "Conflict inside the hockey team"
+    },
+    {
+      "t": 951,
+      "title": "Team sport becomes DVDASA metaphor"
+    },
+    {
+      "t": 964,
+      "title": "Andy Milonakis as morale coach"
+    },
+    {
+      "t": 977,
+      "title": "Friday Night Lights inspiration"
+    },
+    {
+      "t": 982,
+      "title": "Critter books Zach Gilford"
+    },
+    {
+      "t": 997,
+      "title": "The phone is confiscated"
+    },
+    {
+      "t": 1011,
+      "title": "A note contains good news"
+    },
+    {
+      "t": 1054,
+      "title": "Bobby finally has an iPhone"
+    },
+    {
+      "t": 1066,
+      "title": "The hockey story resumes"
+    },
+    {
+      "t": 1075,
+      "title": "A 5–0 loss"
+    },
+    {
+      "t": 1094,
+      "title": "Six-player fatigue"
+    },
+    {
+      "t": 1106,
+      "title": "Effort becomes a character judgment"
+    },
+    {
+      "t": 1121,
+      "title": "Critter wants a tryout"
+    },
+    {
+      "t": 1148,
+      "title": "The watch looks better in hindsight"
+    },
+    {
+      "t": 1152,
+      "title": "A listener answers the hockey call"
+    },
+    {
+      "t": 1182,
+      "title": "Three possible recruits"
+    },
+    {
+      "t": 1189,
+      "title": "A listener-athlete is named on air"
+    },
+    {
+      "t": 1204,
+      "title": "The room ranks him best"
+    },
+    {
+      "t": 1207,
+      "title": "Why not sponsor him?"
+    },
+    {
+      "t": 1228,
+      "title": "What sponsorship would mean"
+    },
+    {
+      "t": 1233,
+      "title": "The offer is addressed to the listener"
+    },
+    {
+      "t": 1238,
+      "title": "Racial adversity is assumed"
+    },
+    {
+      "t": 1244,
+      "title": "Skill depends on self-report"
+    },
+    {
+      "t": 1268,
+      "title": "Instagram is treated as evidence"
+    },
+    {
+      "t": 1285,
+      "title": "A white man's sport"
+    },
+    {
+      "t": 1302,
+      "title": "The sponsorship terms open"
+    },
+    {
+      "t": 1310,
+      "title": "Travel and meals"
+    },
+    {
+      "t": 1329,
+      "title": "Skates, stick, and puck"
+    },
+    {
+      "t": 1359,
+      "title": "A conditional ten-thousand-dollar bonus"
+    },
+    {
+      "t": 1371,
+      "title": "Can this be promised on air?"
+    },
+    {
+      "t": 1381,
+      "title": "The team is said not to deserve him"
+    },
+    {
+      "t": 1400,
+      "title": "A bandage goes through a sock"
+    },
+    {
+      "t": 1425,
+      "title": "Foot, hand, and face lesions are linked"
+    },
+    {
+      "t": 1447,
+      "title": "The facial bump is disputed"
+    },
+    {
+      "t": 1461,
+      "title": "Betting restrictions appear"
+    },
+    {
+      "t": 1473,
+      "title": "Who rallies a losing team?"
+    },
+    {
+      "t": 1492,
+      "title": "Two wins in twenty games"
+    },
+    {
+      "t": 1503,
+      "title": "The new season begins with a loss"
+    },
+    {
+      "t": 1510,
+      "title": "The group plans to attend Sunday"
+    },
+    {
+      "t": 1527,
+      "title": "The listener call remains open"
+    },
+    {
+      "t": 1540,
+      "title": "Conditioning and no practice"
+    },
+    {
+      "t": 1556,
+      "title": "Has the show officially started?"
+    },
+    {
+      "t": 1571,
+      "title": "A second formal welcome"
+    },
+    {
+      "t": 1572,
+      "title": "Trivia is still not ready"
+    },
+    {
+      "t": 1582,
+      "title": "Bobby's indifference is criticized"
+    },
+    {
+      "t": 1592,
+      "title": "An employee is ordered to prepare trivia"
+    },
+    {
+      "t": 1614,
+      "title": "Serenity now"
+    },
+    {
+      "t": 1624,
+      "title": "Job loss, hockey, and Quiet C provocation"
+    },
+    {
+      "t": 1640,
+      "title": "What does Bobby care about?"
+    },
+    {
+      "t": 1655,
+      "title": "Recreational-league context"
+    },
+    {
+      "t": 1677,
+      "title": "Panorama City and Toyota Sports Center"
+    },
+    {
+      "t": 1683,
+      "title": "Another hockey sponsorship request"
+    },
+    {
+      "t": 1706,
+      "title": "No desire to discuss hockey"
+    },
+    {
+      "t": 1715,
+      "title": "Is your name not Bobby Trivia?"
+    },
+    {
+      "t": 1725,
+      "title": "Critter advises refusal"
+    },
+    {
+      "t": 1730,
+      "title": "Why does everyone oppose David?"
+    },
+    {
+      "t": 1737,
+      "title": "Microphone handling explains the anger"
+    },
+    {
+      "t": 1762,
+      "title": "Three shows about seating and microphones"
+    },
+    {
+      "t": 1769,
+      "title": "Hope for the new studio"
+    },
+    {
+      "t": 1780,
+      "title": "Critter's positive comments"
+    },
+    {
+      "t": 1801,
+      "title": "Bobby reads comments instead of trivia"
+    },
+    {
+      "t": 1811,
+      "title": "Favorite listener usernames"
+    },
+    {
+      "t": 1842,
+      "title": "Toni Ribas' accent"
+    },
+    {
+      "t": 1863,
+      "title": "Mark Spiegler's long acquaintance"
+    },
+    {
+      "t": 1871,
+      "title": "A supportive comment is misattributed"
+    },
+    {
+      "t": 1891,
+      "title": "Understanding a partner by phone"
+    },
+    {
+      "t": 1905,
+      "title": "A private Mexico partner"
+    },
+    {
+      "t": 1937,
+      "title": "How serious is a phone call?"
+    },
+    {
+      "t": 1958,
+      "title": "Appearance and sexual attention"
+    },
+    {
+      "t": 1985,
+      "title": "Occupational beauty pressure"
+    },
+    {
+      "t": 2013,
+      "title": "Kevin Smith and Joey Lauren Adams"
+    },
+    {
+      "t": 2043,
+      "title": "Health concern versus relationship excuse"
+    },
+    {
+      "t": 2048,
+      "title": "Trying to stop Toni Ribas smoking"
+    },
+    {
+      "t": 2068,
+      "title": "A relative enters seminary late in life"
+    },
+    {
+      "t": 2098,
+      "title": "His spouse did not sign up for it"
+    },
+    {
+      "t": 2147,
+      "title": "Marrying a smoker"
+    },
+    {
+      "t": 2154,
+      "title": "The fantasy of letting go after marriage"
+    },
+    {
+      "t": 2191,
+      "title": "David says he does not care about grooming"
+    },
+    {
+      "t": 2222,
+      "title": "A full checkup turns cosmetic"
+    },
+    {
+      "t": 2234,
+      "title": "Skin tags removed"
+    },
+    {
+      "t": 2263,
+      "title": "Birthmarks offered laser treatment"
+    },
+    {
+      "t": 2278,
+      "title": "A clinician also claims dermatology"
+    },
+    {
+      "t": 2300,
+      "title": "A live, unedited Gawker interview"
+    },
+    {
+      "t": 2313,
+      "title": "Critter photographs David's crown"
+    },
+    {
+      "t": 2330,
+      "title": "Family hair-loss history"
+    },
+    {
+      "t": 2352,
+      "title": "A mercury-poisoning explanation"
+    },
+    {
+      "t": 2374,
+      "title": "David returns the photograph"
+    },
+    {
+      "t": 2393,
+      "title": "Thinning, not bald"
+    },
+    {
+      "t": 2410,
+      "title": "Would a woman notice immediately?"
+    },
+    {
+      "t": 2431,
+      "title": "A possible Scott Rudin television project"
+    },
+    {
+      "t": 2438,
+      "title": "The Book of Mormon opening"
+    },
+    {
+      "t": 2448,
+      "title": "Jason Alexander's hair"
+    },
+    {
+      "t": 2468,
+      "title": "Ted Danson rumor"
+    },
+    {
+      "t": 2477,
+      "title": "Known baldness changes the strategy"
+    },
+    {
+      "t": 2491,
+      "title": "Intervene before anyone notices?"
+    },
+    {
+      "t": 2507,
+      "title": "Picasso and the appeal of not grooming"
+    },
+    {
+      "t": 2537,
+      "title": "David's mother takes art seriously"
+    },
+    {
+      "t": 2550,
+      "title": "Thousands of paintings"
+    },
+    {
+      "t": 2573,
+      "title": "The Shining comparison"
+    },
+    {
+      "t": 2589,
+      "title": "Self-portraits and Frida Kahlo"
+    },
+    {
+      "t": 2596,
+      "title": "Studying art intensely"
+    },
+    {
+      "t": 2605,
+      "title": "At Frida Kahlo's house"
+    },
+    {
+      "t": 2612,
+      "title": "Leonardo da Vinci facts"
+    },
+    {
+      "t": 2636,
+      "title": "Sexuality is corrected from gay to bisexual"
+    },
+    {
+      "t": 2642,
+      "title": "Michelangelo follows"
+    },
+    {
+      "t": 2659,
+      "title": "Andy Warhol exercise and candy stories"
+    },
+    {
+      "t": 2688,
+      "title": "David's father asks why everyone is gay"
+    },
+    {
+      "t": 2700,
+      "title": "A brother's wedding raises another question"
+    },
+    {
+      "t": 2703,
+      "title": "David thinks his parents suspect him"
+    },
+    {
+      "t": 2713,
+      "title": "Critter's vacation-origin story"
+    },
+    {
+      "t": 2721,
+      "title": "Men are always around David"
+    },
+    {
+      "t": 2732,
+      "title": "Interpreting the comments as acceptance"
+    },
+    {
+      "t": 2750,
+      "title": "Diego Rivera and Frida Kahlo"
+    },
+    {
+      "t": 2770,
+      "title": "But not David"
+    },
+    {
+      "t": 2780,
+      "title": "Parents do not know the love life"
+    },
+    {
+      "t": 2794,
+      "title": "Not caring is not completely honest"
+    },
+    {
+      "t": 2835,
+      "title": "A manager wants a more polished image"
+    },
+    {
+      "t": 2866,
+      "title": "Rejecting the funny-fat-Asian slot"
+    },
+    {
+      "t": 2878,
+      "title": "Does breast augmentation count?"
+    },
+    {
+      "t": 2904,
+      "title": "Los Angeles cosmetic-surgery generalization"
+    },
+    {
+      "t": 2914,
+      "title": "Critter researches hair restoration"
+    },
+    {
+      "t": 2920,
+      "title": "Norway is said to be best"
+    },
+    {
+      "t": 2935,
+      "title": "No history of physical self-betterment"
+    },
+    {
+      "t": 2951,
+      "title": "Money, television, and thinning hair"
+    },
+    {
+      "t": 2963,
+      "title": "The slippery-slope concern"
+    },
+    {
+      "t": 2981,
+      "title": "Tattoo avoidance follows the same logic"
+    },
+    {
+      "t": 3000,
+      "title": "Why not improve yourself?"
+    },
+    {
+      "t": 3017,
+      "title": "Valentin gives the natural answer"
+    },
+    {
+      "t": 3033,
+      "title": "The Namba family hair"
+    },
+    {
+      "t": 3062,
+      "title": "Bobby refuses a crown inspection"
+    },
+    {
+      "t": 3082,
+      "title": "A forest of black hair"
+    },
+    {
+      "t": 3095,
+      "title": "David will only do it with Critter"
+    },
+    {
+      "t": 3104,
+      "title": "Norway or Los Angeles?"
+    },
+    {
+      "t": 3117,
+      "title": "A triple hair-restoration date"
+    },
+    {
+      "t": 3130,
+      "title": "Steven Seagal hairline joke"
+    },
+    {
+      "t": 3146,
+      "title": "Do women go bald?"
+    },
+    {
+      "t": 3162,
+      "title": "Would body modification be filmed?"
+    },
+    {
+      "t": 3173,
+      "title": "Wanting to be taller"
+    },
+    {
+      "t": 3177,
+      "title": "Limb-lengthening risk"
+    },
+    {
+      "t": 3184,
+      "title": "The human-Barbie reference"
+    },
+    {
+      "t": 3204,
+      "title": "The right answer versus the right personal answer"
+    },
+    {
+      "t": 3220,
+      "title": "Would a television show require hair?"
+    },
+    {
+      "t": 3226,
+      "title": "Michael Scott between seasons"
+    },
+    {
+      "t": 3237,
+      "title": "The Office is rejected"
+    },
+    {
+      "t": 3250,
+      "title": "Family Guy, South Park, and The Simpsons"
+    },
+    {
+      "t": 3255,
+      "title": "Eastbound & Down and Louie"
+    },
+    {
+      "t": 3266,
+      "title": "Workaholics joins the list"
+    },
+    {
+      "t": 3272,
+      "title": "The Office is funniest to Asa"
+    },
+    {
+      "t": 3302,
+      "title": "Disliking a show out of spite"
+    },
+    {
+      "t": 3307,
+      "title": "Parks and Recreation and Aubrey Plaza"
+    },
+    {
+      "t": 3320,
+      "title": "Aubrey Plaza may appear"
+    },
+    {
+      "t": 3332,
+      "title": "A Jeremy Lin event comes first"
+    },
+    {
+      "t": 3340,
+      "title": "Honorary Filipino fan adoption"
+    },
+    {
+      "t": 3350,
+      "title": "DJ Qbert as the comparison"
+    },
+    {
+      "t": 3365,
+      "title": "Korean-American representation"
+    },
+    {
+      "t": 3376,
+      "title": "Roy Choi, David Chang, and Steven Yeun"
+    },
+    {
+      "t": 3384,
+      "title": "Margaret Cho and golfers"
+    },
+    {
+      "t": 3394,
+      "title": "Eddie Huang and the missing archetype"
+    },
+    {
+      "t": 3406,
+      "title": "David is named the strange Korean figure"
+    },
+    {
+      "t": 3420,
+      "title": "Korean-American award events"
+    },
+    {
+      "t": 3435,
+      "title": "More representation and industry power"
+    },
+    {
+      "t": 3451,
+      "title": "The Korean producer becomes a type"
+    },
+    {
+      "t": 3457,
+      "title": "Critter receives entertainment pitches"
+    },
+    {
+      "t": 3470,
+      "title": "Scarlett Johansson is promised"
+    },
+    {
+      "t": 3483,
+      "title": "An alarm interrupts"
+    },
+    {
+      "t": 3499,
+      "title": "SAMCRO and Sons of Anarchy"
+    },
+    {
+      "t": 3530,
+      "title": "Critter's experience after moving to LA"
+    },
+    {
+      "t": 3540,
+      "title": "What does this have to do with Jeremy Lin?"
+    },
+    {
+      "t": 3552,
+      "title": "The Facebook-news month"
+    },
+    {
+      "t": 3577,
+      "title": "Paparazzi outside the family home"
+    },
+    {
+      "t": 3589,
+      "title": "Linsanity takes over the news cycle"
+    },
+    {
+      "t": 3616,
+      "title": "The cameras disappear"
+    },
+    {
+      "t": 3632,
+      "title": "A thank-you note for Lin"
+    },
+    {
+      "t": 3636,
+      "title": "Promises versus delivered access"
+    },
+    {
+      "t": 3660,
+      "title": "Meals, games, and car rides"
+    },
+    {
+      "t": 3675,
+      "title": "Why a Lamborghini track day is unappealing"
+    },
+    {
+      "t": 3700,
+      "title": "Sports and cars do not motivate David"
+    },
+    {
+      "t": 3731,
+      "title": "A Linsanity red-carpet invitation"
+    },
+    {
+      "t": 3743,
+      "title": "Filming before the breakthrough"
+    },
+    {
+      "t": 3758,
+      "title": "The Dirty Hands parallel"
+    },
+    {
+      "t": 3778,
+      "title": "Johnny drives from San Jose"
+    },
+    {
+      "t": 3791,
+      "title": "Predicting the biggest artist in the world"
+    },
+    {
+      "t": 3800,
+      "title": "Slow Jams and comic artists"
+    },
+    {
+      "t": 3815,
+      "title": "The early film changes hands"
+    },
+    {
+      "t": 3821,
+      "title": "Can Jeremy Lin come on DVDASA?"
+    },
+    {
+      "t": 3832,
+      "title": "California-born and Harvard-educated"
+    },
+    {
+      "t": 3864,
+      "title": "Jeremy is an American name"
+    },
+    {
+      "t": 3867,
+      "title": "The family saw Lin play the Lakers"
+    },
+    {
+      "t": 3872,
+      "title": "The producer rejects the guest idea"
+    },
+    {
+      "t": 3887,
+      "title": "Ask Lin on the red carpet"
+    },
+    {
+      "t": 3890,
+      "title": "Critter wants signed basketballs"
+    },
+    {
+      "t": 3899,
+      "title": "Walking with versus attending"
+    },
+    {
+      "t": 3922,
+      "title": "Asa wants to come"
+    },
+    {
+      "t": 3966,
+      "title": "Critter repeats the invitation verbatim"
+    },
+    {
+      "t": 4000,
+      "title": "Role model before scandal"
+    },
+    {
+      "t": 4021,
+      "title": "Seeing Houston play Los Angeles"
+    },
+    {
+      "t": 4038,
+      "title": "Lin looks smaller in person"
+    },
+    {
+      "t": 4065,
+      "title": "A six-foot-three point guard"
+    },
+    {
+      "t": 4070,
+      "title": "Visible bandages"
+    },
+    {
+      "t": 4087,
+      "title": "Chinese Olympic height detour"
+    },
+    {
+      "t": 4111,
+      "title": "Growth and doping speculation"
+    },
+    {
+      "t": 4137,
+      "title": "The game story returns"
+    },
+    {
+      "t": 4150,
+      "title": "The crowd is racialized"
+    },
+    {
+      "t": 4170,
+      "title": "Older fans watch a hero"
+    },
+    {
+      "t": 4187,
+      "title": "Post-Linsanity disappointment"
+    },
+    {
+      "t": 4209,
+      "title": "Bobby's eyes are inspected"
+    },
+    {
+      "t": 4231,
+      "title": "Jeremy Lin was never booked"
+    },
+    {
+      "t": 4256,
+      "title": "Two things David wants to say"
+    },
+    {
+      "t": 4268,
+      "title": "Abstinence and sport myth"
+    },
+    {
+      "t": 4282,
+      "title": "Sexual access is projected onto Lin"
+    },
+    {
+      "t": 4309,
+      "title": "Born-again Christianity is invoked"
+    },
+    {
+      "t": 4338,
+      "title": "The opposite of David"
+    },
+    {
+      "t": 4344,
+      "title": "Shane is called into the room"
+    },
+    {
+      "t": 4356,
+      "title": "Shane is asked about Lin's sex life"
+    },
+    {
+      "t": 4376,
+      "title": "A letter from the producer"
+    },
+    {
+      "t": 4385,
+      "title": "Permission to read it"
+    },
+    {
+      "t": 4404,
+      "title": "Shane accepts a new chapter"
+    },
+    {
+      "t": 4413,
+      "title": "Humiliation and embarrassment expected"
+    },
+    {
+      "t": 4426,
+      "title": "DVDASA as lifestyle shock"
+    },
+    {
+      "t": 4433,
+      "title": "Creative and merchandising opportunities"
+    },
+    {
+      "t": 4443,
+      "title": "Shane thanks the whole team"
+    },
+    {
+      "t": 4457,
+      "title": "Official welcome"
+    },
+    {
+      "t": 4463,
+      "title": "Notice at the prior job"
+    },
+    {
+      "t": 4475,
+      "title": "Shane is praised as fearless"
+    },
+    {
+      "t": 4494,
+      "title": "Unblackmailable is the wrong frame"
+    },
+    {
+      "t": 4503,
+      "title": "Only one appearance has aired"
+    },
+    {
+      "t": 4517,
+      "title": "Two friends found it"
+    },
+    {
+      "t": 4531,
+      "title": "They were already listeners"
+    },
+    {
+      "t": 4568,
+      "title": "Supportive but surprised reactions"
+    },
+    {
+      "t": 4589,
+      "title": "Honesty is treated as protection"
+    },
+    {
+      "t": 4598,
+      "title": "The 40-Year-Old Virgin plan"
+    },
+    {
+      "t": 4622,
+      "title": "The film scene is misremembered"
+    },
+    {
+      "t": 4651,
+      "title": "Coworkers try to help"
+    },
+    {
+      "t": 4677,
+      "title": "Companionship versus experience"
+    },
+    {
+      "t": 4689,
+      "title": "Prospective partners are objectified"
+    },
+    {
+      "t": 4711,
+      "title": "Shane describes prior gray areas"
+    },
+    {
+      "t": 4723,
+      "title": "A good first experience or practice first?"
+    },
+    {
+      "t": 4737,
+      "title": "Shane chooses experience"
+    },
+    {
+      "t": 4772,
+      "title": "The room celebrates"
+    },
+    {
+      "t": 4781,
+      "title": "No more gray area"
+    },
+    {
+      "t": 4803,
+      "title": "A right to decline is stated"
+    },
+    {
+      "t": 4812,
+      "title": "Teaching someone not to fall in love"
+    },
+    {
+      "t": 4841,
+      "title": "Future introductions are promised"
+    },
+    {
+      "t": 4848,
+      "title": "A branding joke"
+    },
+    {
+      "t": 4859,
+      "title": "Shane has no tattoos"
+    },
+    {
+      "t": 4864,
+      "title": "The acceptance letter is called sweet"
+    },
+    {
+      "t": 4872,
+      "title": "Who keeps notes and letters?"
+    },
+    {
+      "t": 4892,
+      "title": "A warehouse full of boxes"
+    },
+    {
+      "t": 4900,
+      "title": "Birthday-card disposal anxiety"
+    },
+    {
+      "t": 4910,
+      "title": "Sentiment versus practicality"
+    },
+    {
+      "t": 4925,
+      "title": "Emails are effortless to keep"
+    },
+    {
+      "t": 4933,
+      "title": "Flowers and dried keepsakes"
+    },
+    {
+      "t": 4993,
+      "title": "Old notes restore forgotten people"
+    },
+    {
+      "t": 5005,
+      "title": "Memory as an argument for archives"
+    },
+    {
+      "t": 5033,
+      "title": "How soon can a card be discarded?"
+    },
+    {
+      "t": 5047,
+      "title": "Hoarder versus normal"
+    },
+    {
+      "t": 5053,
+      "title": "Pornography habits change"
+    },
+    {
+      "t": 5061,
+      "title": "Stills replace video"
+    },
+    {
+      "t": 5081,
+      "title": "Internet aggregation rabbit holes"
+    },
+    {
+      "t": 5120,
+      "title": "Imagination fed by saved images"
+    },
+    {
+      "t": 5165,
+      "title": "Pamela Adlon and sleep-themed porn"
+    },
+    {
+      "t": 5171,
+      "title": "Assault is called realistic and attractive"
+    },
+    {
+      "t": 5189,
+      "title": "Shane is pulled back in"
+    },
+    {
+      "t": 5196,
+      "title": "Are you a rapist?"
+    },
+    {
+      "t": 5209,
+      "title": "Could Shane overpower Asa?"
+    },
+    {
+      "t": 5222,
+      "title": "Violence and arousal"
+    },
+    {
+      "t": 5244,
+      "title": "The drugging hypothetical"
+    },
+    {
+      "t": 5262,
+      "title": "Shock without resistance"
+    },
+    {
+      "t": 5273,
+      "title": "Did she say no?"
+    },
+    {
+      "t": 5281,
+      "title": "Eyes are invoked again"
+    },
+    {
+      "t": 5292,
+      "title": "Ask Asa returns"
+    },
+    {
+      "t": 5322,
+      "title": "A new theme song"
+    },
+    {
+      "t": 5343,
+      "title": "Ministry and two drummers"
+    },
+    {
+      "t": 5355,
+      "title": "The segment is explained to Shane"
+    },
+    {
+      "t": 5390,
+      "title": "Booking questions become advice questions"
+    },
+    {
+      "t": 5421,
+      "title": "Have you wanted advice from a sex worker?"
+    },
+    {
+      "t": 5439,
+      "title": "Critter asks about Toni Ribas"
+    },
+    {
+      "t": 5449,
+      "title": "Eighteen years in adult film"
+    },
+    {
+      "t": 5465,
+      "title": "Career longevity and financial risk"
+    },
+    {
+      "t": 5498,
+      "title": "The anchor role returns"
+    },
+    {
+      "t": 5511,
+      "title": "Toni Ribas is identified"
+    },
+    {
+      "t": 5547,
+      "title": "A Chicago listener's friendship secret"
+    },
+    {
+      "t": 5574,
+      "title": "Friendship before romance"
+    },
+    {
+      "t": 5588,
+      "title": "Asa's first marriage"
+    },
+    {
+      "t": 5623,
+      "title": "A new emotional friendship"
+    },
+    {
+      "t": 5661,
+      "title": "An ultimatum has already lost"
+    },
+    {
+      "t": 5671,
+      "title": "The spouse chooses friendship"
+    },
+    {
+      "t": 5695,
+      "title": "Emotional jealousy over sexual jealousy"
+    },
+    {
+      "t": 5700,
+      "title": "Secrecy is the real problem"
+    },
+    {
+      "t": 5728,
+      "title": "Tell the girlfriend directly"
+    },
+    {
+      "t": 5764,
+      "title": "The listener values the friend more"
+    },
+    {
+      "t": 5794,
+      "title": "David nearly had a girlfriend"
+    },
+    {
+      "t": 5805,
+      "title": "Male friendships consume his time"
+    },
+    {
+      "t": 5820,
+      "title": "A demand to end KGB"
+    },
+    {
+      "t": 5835,
+      "title": "The prospective relationship ends"
+    },
+    {
+      "t": 5844,
+      "title": "Dating a public podcast participant"
+    },
+    {
+      "t": 5880,
+      "title": "Where is the line at appearances?"
+    },
+    {
+      "t": 5906,
+      "title": "Lap-dance pricing"
+    },
+    {
+      "t": 5936,
+      "title": "Tip timing"
+    },
+    {
+      "t": 5952,
+      "title": "Touching begins with hands off"
+    },
+    {
+      "t": 5964,
+      "title": "Waiting may lead to specific permission"
+    },
+    {
+      "t": 5976,
+      "title": "Permission has explicit limits"
+    },
+    {
+      "t": 5988,
+      "title": "Workers have different rules"
+    },
+    {
+      "t": 6021,
+      "title": "Club Mystique in Bridgeport"
+    },
+    {
+      "t": 6036,
+      "title": "Clothing advice for the club"
+    },
+    {
+      "t": 6050,
+      "title": "Some venues refuse sweatpants"
+    },
+    {
+      "t": 6082,
+      "title": "Why some men dislike strip clubs"
+    },
+    {
+      "t": 6092,
+      "title": "Sweatpants as attraction"
+    },
+    {
+      "t": 6120,
+      "title": "A serious health question"
+    },
+    {
+      "t": 6136,
+      "title": "Four positive tests are discussed"
+    },
+    {
+      "t": 6155,
+      "title": "A false on-set-transmission claim"
+    },
+    {
+      "t": 6164,
+      "title": "Anal ejaculation is wrongly made the only route"
+    },
+    {
+      "t": 6174,
+      "title": "A false 1994 cutoff"
+    },
+    {
+      "t": 6206,
+      "title": "Rectal tissue vulnerability"
+    },
+    {
+      "t": 6218,
+      "title": "Oxygen myth"
+    },
+    {
+      "t": 6236,
+      "title": "Testing is treated as complete protection"
+    },
+    {
+      "t": 6248,
+      "title": "The first reported couple"
+    },
+    {
+      "t": 6255,
+      "title": "A month away from scenes"
+    },
+    {
+      "t": 6286,
+      "title": "The boyfriend tests positive"
+    },
+    {
+      "t": 6290,
+      "title": "Orientation becomes a false causal shortcut"
+    },
+    {
+      "t": 6301,
+      "title": "Condom and testing systems are contrasted"
+    },
+    {
+      "t": 6333,
+      "title": "Medical privacy is recognized"
+    },
+    {
+      "t": 6348,
+      "title": "The news had circulated for a month"
+    },
+    {
+      "t": 6358,
+      "title": "How coverage stigmatizes performers"
+    },
+    {
+      "t": 6376,
+      "title": "A production pause"
+    },
+    {
+      "t": 6384,
+      "title": "Contact tracing and quarantine lists"
+    },
+    {
+      "t": 6401,
+      "title": "A former partner is outed by implication"
+    },
+    {
+      "t": 6432,
+      "title": "A drugging hypothetical returns"
+    },
+    {
+      "t": 6448,
+      "title": "Penetration after drugging is assault"
+    },
+    {
+      "t": 6457,
+      "title": "The reporter joke"
+    },
+    {
+      "t": 6462,
+      "title": "The unresolved third case"
+    },
+    {
+      "t": 6475,
+      "title": "Disclosure limits"
+    },
+    {
+      "t": 6496,
+      "title": "How contacts are notified"
+    },
+    {
+      "t": 6501,
+      "title": "Prior production quarantines"
+    },
+    {
+      "t": 6516,
+      "title": "The cast interrupts medical uncertainty"
+    },
+    {
+      "t": 6523,
+      "title": "The speaker declines to identify people"
+    },
+    {
+      "t": 6534,
+      "title": "The craziest month in porn"
+    },
+    {
+      "t": 6542,
+      "title": "Directing and editing continue"
+    },
+    {
+      "t": 6555,
+      "title": "Post-scene washing"
+    },
+    {
+      "t": 6582,
+      "title": "Outdoor sets without showers"
+    },
+    {
+      "t": 6617,
+      "title": "Private partner practices"
+    },
+    {
+      "t": 6622,
+      "title": "Residue after a scene"
+    },
+    {
+      "t": 6641,
+      "title": "Errands after showering"
+    },
+    {
+      "t": 6663,
+      "title": "A grocery-store scenario"
+    },
+    {
+      "t": 6684,
+      "title": "Another audience question"
+    },
+    {
+      "t": 6698,
+      "title": "Mouth and genital anatomy correlation"
+    },
+    {
+      "t": 6720,
+      "title": "Anatomy is linked to libido"
+    },
+    {
+      "t": 6753,
+      "title": "Experience is acknowledged as anecdote"
+    },
+    {
+      "t": 6758,
+      "title": "Headdresses are linked to STIs"
+    },
+    {
+      "t": 6768,
+      "title": "Nonprescription glasses join the myth"
+    },
+    {
+      "t": 6809,
+      "title": "The invented pattern is celebrated"
+    },
+    {
+      "t": 6820,
+      "title": "Large anatomy equals insatiability"
+    },
+    {
+      "t": 6832,
+      "title": "Adult performers are generalized"
+    },
+    {
+      "t": 6844,
+      "title": "Locker-room comparison"
+    },
+    {
+      "t": 6854,
+      "title": "Quiet C's body is discussed"
+    },
+    {
+      "t": 6864,
+      "title": "Prove it"
+    },
+    {
+      "t": 6868,
+      "title": "A private partner's body story"
+    },
+    {
+      "t": 6891,
+      "title": "Shane's comment is challenged"
+    },
+    {
+      "t": 6901,
+      "title": "Aesthetic preferences"
+    },
+    {
+      "t": 6924,
+      "title": "Small anatomy equals prudishness"
+    },
+    {
+      "t": 6942,
+      "title": "Facebook access affects dating"
+    },
+    {
+      "t": 6959,
+      "title": "Dr. Choe is proposed as a clean account"
+    },
+    {
+      "t": 6963,
+      "title": "Public social handles"
+    },
+    {
+      "t": 7001,
+      "title": "One or two more questions"
+    },
+    {
+      "t": 7014,
+      "title": "The reporter has no question"
+    },
+    {
+      "t": 7029,
+      "title": "Shane is pressured again"
+    },
+    {
+      "t": 7057,
+      "title": "How is living in Los Angeles?"
+    },
+    {
+      "t": 7068,
+      "title": "A general question is mocked"
+    },
+    {
+      "t": 7087,
+      "title": "The reporter asks about performed orgasms"
+    },
+    {
+      "t": 7105,
+      "title": "Director-requested endings"
+    },
+    {
+      "t": 7114,
+      "title": "Shane's question remains under attack"
+    },
+    {
+      "t": 7155,
+      "title": "Homework to ask better questions"
+    },
+    {
+      "t": 7163,
+      "title": "Inexperience is treated as obligation"
+    },
+    {
+      "t": 7190,
+      "title": "The reporter's question is answered"
+    },
+    {
+      "t": 7200,
+      "title": "An orgasm as a scene endpoint"
+    },
+    {
+      "t": 7204,
+      "title": "Asa describes her own process"
+    },
+    {
+      "t": 7231,
+      "title": "A personal estimate, not an industry statistic"
+    },
+    {
+      "t": 7249,
+      "title": "The bodily-fluid joke returns"
+    },
+    {
+      "t": 7265,
+      "title": "Trivia begins"
+    },
+    {
+      "t": 7286,
+      "title": "The new punishment"
+    },
+    {
+      "t": 7294,
+      "title": "Smelling the treated wart"
+    },
+    {
+      "t": 7301,
+      "title": "The reporter cannot leave"
+    },
+    {
+      "t": 7311,
+      "title": "No truncated trivia"
+    },
+    {
+      "t": 7332,
+      "title": "Name the song or artist"
+    },
+    {
+      "t": 7343,
+      "title": "A chain of wrong guesses"
+    },
+    {
+      "t": 7392,
+      "title": "Saves the Day: At Your Funeral"
+    },
+    {
+      "t": 7404,
+      "title": "Shane still owes questions"
+    },
+    {
+      "t": 7433,
+      "title": "Car and Los Angeles jokes"
+    },
+    {
+      "t": 7450,
+      "title": "A sports-song clue"
+    },
+    {
+      "t": 7464,
+      "title": "Modest Mouse"
+    },
+    {
+      "t": 7476,
+      "title": "An important final music round"
+    },
+    {
+      "t": 7496,
+      "title": "Maroon 5 guess"
+    },
+    {
+      "t": 7531,
+      "title": "Green Day: When I Come Around"
+    },
+    {
+      "t": 7550,
+      "title": "Hair envy returns"
+    },
+    {
+      "t": 7562,
+      "title": "Another long guess sequence"
+    },
+    {
+      "t": 7598,
+      "title": "Jack Johnson and sandal rock"
+    },
+    {
+      "t": 7610,
+      "title": "Orange Is the New Black"
+    },
+    {
+      "t": 7629,
+      "title": "The lead's crime"
+    },
+    {
+      "t": 7652,
+      "title": "Red runs the kitchen"
+    },
+    {
+      "t": 7659,
+      "title": "A former lover and a dryer"
+    },
+    {
+      "t": 7676,
+      "title": "Crazy Eyes"
+    },
+    {
+      "t": 7690,
+      "title": "Pornstache"
+    },
+    {
+      "t": 7714,
+      "title": "The Office round"
+    },
+    {
+      "t": 7718,
+      "title": "Scranton, Pennsylvania"
+    },
+    {
+      "t": 7729,
+      "title": "Toby moves to Costa Rica"
+    },
+    {
+      "t": 7744,
+      "title": "Creed"
+    },
+    {
+      "t": 7750,
+      "title": "Kevin Malone's Police tribute band"
+    },
+    {
+      "t": 7769,
+      "title": "Mose Schrute"
+    },
+    {
+      "t": 7804,
+      "title": "Critter refuses the wart"
+    },
+    {
+      "t": 7813,
+      "title": "Everyone pressures him to smell it"
+    },
+    {
+      "t": 7827,
+      "title": "An incidental whiff"
+    },
+    {
+      "t": 7832,
+      "title": "Inhale for three seconds"
+    },
+    {
+      "t": 7849,
+      "title": "Possible unwanted contact"
+    },
+    {
+      "t": 7863,
+      "title": "DVDASA closing"
+    },
+    {
+      "t": 7896,
+      "title": "Standard outro"
+    },
+    {
+      "t": 7933,
+      "title": "Final thank-you"
+    }
   ],
   "connections": [
-    {"from":"repeated stories","to":"archive design","note":"Kevin Smith's first-listener rationale supports recurrence linking rather than deleting repeated oral history."},
-    {"from":"beanbag conflict","to":"informal labor consent","note":"Comfort, speaking obligations, and whether someone chose to be on the show remain entangled."},
-    {"from":"hockey sponsorship","to":"audience participation","note":"A fan can become a prospective team member, but the archive must not preserve identifying, racial, financial, and location details as a doxxing bundle."},
-    {"from":"live Gawker condition","to":"Episode 57 interview-origin history","note":"David continues to require minimally edited, inspectable media after earlier profile frustration."},
-    {"from":"mother's art practice","to":"creative-development timeline","note":"The account gives a rare longitudinal view of a late-blooming family art practice becoming serious through volume and study."},
-    {"from":"body modification","to":"money and television","note":"The hair-restoration decision becomes a test of whether wealth and anticipated visibility change self-acceptance."},
-    {"from":"cosmetic slippery slope","to":"tattoo abstention","note":"David applies the same all-or-nothing self-model to hair, surgery, and tattoos."},
-    {"from":"Linsanity","to":"Facebook media cycle","note":"A new Asian-American public story displaced David's sudden-wealth coverage in his own memory."},
-    {"from":"Linsanity documentary","to":"Dirty Hands","note":"Both works began filming before the public breakthrough they later seemed destined to document."},
-    {"from":"Johnny Granado and Slow Jams","to":"Dirty Hands provenance","note":"Granado's San Jose salon career and early filming independently match the episode; Harry Kim later directed the feature and Granado retains cinematography credit."},
-    {"from":"Shane acceptance note","to":"DVDASA production timeline","note":"This is explicit, dated evidence of the engineering job becoming formal."},
-    {"from":"unblackmailable","to":"privacy architecture","note":"Prior disclosure and employment never create permanent consent to expose a worker."},
-    {"from":"sexual-experience plan","to":"workplace power","note":"Even Shane's conditional interest cannot authorize managers to volunteer third parties or make sexual initiation part of belonging."},
-    {"from":"physical keepsakes","to":"digital archive","note":"The debate over letters, emails, memory, and hoarding mirrors the corpus distinction between preserving evidence and surfacing everything."},
-    {"from":"sleep-themed pornography","to":"consent correction","note":"Realism or fantasy appeal does not change the rule that sleeping, drugged, or shocked people cannot consent."},
-    {"from":"Ask Asa appearance rules","to":"specific consent","note":"Hands-off first and worker-specific permission directly contradict the episode's earlier eyes-and-silence consent myths."},
-    {"from":"2013 HIV discussion","to":"2004 CDC workplace cluster","note":"The episode's claim of no post-1994 on-set transmission is contradicted by documented occupational infections."},
-    {"from":"testing confidence","to":"window-period risk","note":"Regular testing can reduce uncertainty but cannot guarantee that a newly infected performer is noninfectious."},
-    {"from":"anatomy folklore","to":"health misinformation taxonomy","note":"Body shape, clothing, or cultural costume cannot diagnose libido or infection."},
-    {"from":"zero voice windows","to":"speaker gate","note":"No contextual certainty can substitute for absent acoustic evidence and held-out validation."}
+    {
+      "from": "repeated stories",
+      "to": "archive design",
+      "note": "Kevin Smith's first-listener rationale supports recurrence linking rather than deleting repeated oral history."
+    },
+    {
+      "from": "beanbag conflict",
+      "to": "informal labor consent",
+      "note": "Comfort, speaking obligations, and whether someone chose to be on the show remain entangled."
+    },
+    {
+      "from": "hockey sponsorship",
+      "to": "audience participation",
+      "note": "A fan can become a prospective team member, but the archive must not preserve identifying, racial, financial, and location details as a doxxing bundle."
+    },
+    {
+      "from": "live Gawker condition",
+      "to": "Episode 57 interview-origin history",
+      "note": "David continues to require minimally edited, inspectable media after earlier profile frustration."
+    },
+    {
+      "from": "mother's art practice",
+      "to": "creative-development timeline",
+      "note": "The account gives a rare longitudinal view of a late-blooming family art practice becoming serious through volume and study."
+    },
+    {
+      "from": "body modification",
+      "to": "money and television",
+      "note": "The hair-restoration decision becomes a test of whether wealth and anticipated visibility change self-acceptance."
+    },
+    {
+      "from": "cosmetic slippery slope",
+      "to": "tattoo abstention",
+      "note": "David applies the same all-or-nothing self-model to hair, surgery, and tattoos."
+    },
+    {
+      "from": "Linsanity",
+      "to": "Facebook media cycle",
+      "note": "A new Asian-American public story displaced David's sudden-wealth coverage in his own memory."
+    },
+    {
+      "from": "Linsanity documentary",
+      "to": "Dirty Hands",
+      "note": "Both works began filming before the public breakthrough they later seemed destined to document."
+    },
+    {
+      "from": "Johnny Granado and Slow Jams",
+      "to": "Dirty Hands provenance",
+      "note": "Granado's San Jose salon career and early filming independently match the episode; Harry Kim later directed the feature and Granado retains cinematography credit."
+    },
+    {
+      "from": "Shane acceptance note",
+      "to": "DVDASA production timeline",
+      "note": "This is explicit, dated evidence of the engineering job becoming formal."
+    },
+    {
+      "from": "unblackmailable",
+      "to": "privacy architecture",
+      "note": "Prior disclosure and employment never create permanent consent to expose a worker."
+    },
+    {
+      "from": "sexual-experience plan",
+      "to": "workplace power",
+      "note": "Even Shane's conditional interest cannot authorize managers to volunteer third parties or make sexual initiation part of belonging."
+    },
+    {
+      "from": "physical keepsakes",
+      "to": "digital archive",
+      "note": "The debate over letters, emails, memory, and hoarding mirrors the corpus distinction between preserving evidence and surfacing everything."
+    },
+    {
+      "from": "sleep-themed pornography",
+      "to": "consent correction",
+      "note": "Realism or fantasy appeal does not change the rule that sleeping, drugged, or shocked people cannot consent."
+    },
+    {
+      "from": "Ask Asa appearance rules",
+      "to": "specific consent",
+      "note": "Hands-off first and worker-specific permission directly contradict the episode's earlier eyes-and-silence consent myths."
+    },
+    {
+      "from": "2013 HIV discussion",
+      "to": "2004 CDC workplace cluster",
+      "note": "The episode's claim of no post-1994 on-set transmission is contradicted by documented occupational infections."
+    },
+    {
+      "from": "testing confidence",
+      "to": "window-period risk",
+      "note": "Regular testing can reduce uncertainty but cannot guarantee that a newly infected performer is noninfectious."
+    },
+    {
+      "from": "anatomy folklore",
+      "to": "health misinformation taxonomy",
+      "note": "Body shape, clothing, or cultural costume cannot diagnose libido or infection."
+    },
+    {
+      "from": "zero voice windows",
+      "to": "speaker gate",
+      "note": "No contextual certainty can substitute for absent acoustic evidence and held-out validation."
+    }
   ],
   "content_warnings": [
     "explicit sexual discussion",
@@ -505,15 +1971,51 @@
     "threats and coercive participation"
   ],
   "source_notes": [
-    {"claim":"CDC documented four work-related adult-film HIV transmissions in Los Angeles in 2004","source":"https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5437a3.htm","use":"directly contradicts the episode's no-on-set-transmission-since-1994 claim"},
-    {"claim":"The 2004 index patient performed unprotected vaginal and anal acts and three of thirteen exposed women acquired HIV","source":"https://stacks.cdc.gov/view/cdc/185749","use":"shows that the episode's anal-ejaculation-only model is false"},
-    {"claim":"HIV can transmit through anal or vaginal sex without effective protection","source":"https://www.cdc.gov/hiv/causes/index.html","use":"current authoritative mechanism correction"},
-    {"claim":"Anal sex carries high HIV risk because infectious fluids can cross rectal lining","source":"https://hivrisk.cdc.gov/can-i-get-or-transmit-hiv-from/?mid=anal-sex-3","use":"correct mechanism without the episode's oxygen myth"},
-    {"claim":"Linsanity is Evan Jackson Leong's documentary about Jeremy Lin, developed before the NBA breakthrough","source":"https://www.sundance.org/blogs/meet-the-artists-12-evan-jackson-leong-linsanity/","use":"independent production-history corroboration"},
-    {"claim":"Jeremy Lin attended Harvard and came from Palo Alto, California","source":"https://gocrimson.com/sports/mens-basketball/roster/jeremy-lin/2942","use":"authoritative college biography correcting the immigrant assumption"},
-    {"claim":"Dirty Hands credits Harry Kim as director and Johnny Granado as cinematographer","source":"https://catalog.afi.com/Film/66887-DIRTY-HANDS--THE-ART--CRIMES-OF-DAVID-CHOE?cxt=filmography","use":"authoritative credit resolution"},
-    {"claim":"Johnny Granado filmed David Choe before fame and worked in a San Jose salon","source":"https://www.metrosiliconvalley.com/david-choe-5-color-cowboy/","use":"contemporary local corroboration resolving the episode's `Johnny`"},
-    {"claim":"The early documentary was a Harry Kim and Johnny Granado collaboration and included Slow Jams-era Choe material","source":"https://www.metroactive.com/papers/metro/02.06.03/choe-0306.html","use":"contemporary provenance corroboration"}
+    {
+      "claim": "CDC documented four work-related adult-film HIV transmissions in Los Angeles in 2004",
+      "source": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5437a3.htm",
+      "use": "directly contradicts the episode's no-on-set-transmission-since-1994 claim"
+    },
+    {
+      "claim": "The 2004 index patient performed unprotected vaginal and anal acts and three of thirteen exposed women acquired HIV",
+      "source": "https://stacks.cdc.gov/view/cdc/185749",
+      "use": "shows that the episode's anal-ejaculation-only model is false"
+    },
+    {
+      "claim": "HIV can transmit through anal or vaginal sex without effective protection",
+      "source": "https://www.cdc.gov/hiv/causes/index.html",
+      "use": "current authoritative mechanism correction"
+    },
+    {
+      "claim": "Anal sex carries high HIV risk because infectious fluids can cross rectal lining",
+      "source": "https://hivrisk.cdc.gov/can-i-get-or-transmit-hiv-from/?mid=anal-sex-3",
+      "use": "correct mechanism without the episode's oxygen myth"
+    },
+    {
+      "claim": "Linsanity is Evan Jackson Leong's documentary about Jeremy Lin, developed before the NBA breakthrough",
+      "source": "https://www.sundance.org/blogs/meet-the-artists-12-evan-jackson-leong-linsanity/",
+      "use": "independent production-history corroboration"
+    },
+    {
+      "claim": "Jeremy Lin attended Harvard and came from Palo Alto, California",
+      "source": "https://gocrimson.com/sports/mens-basketball/roster/jeremy-lin/2942",
+      "use": "authoritative college biography correcting the immigrant assumption"
+    },
+    {
+      "claim": "Dirty Hands credits Harry Kim as director and Johnny Granado as cinematographer",
+      "source": "https://catalog.afi.com/Film/66887-DIRTY-HANDS--THE-ART--CRIMES-OF-DAVID-CHOE?cxt=filmography",
+      "use": "authoritative credit resolution"
+    },
+    {
+      "claim": "Johnny Granado filmed David Choe before fame and worked in a San Jose salon",
+      "source": "https://www.metrosiliconvalley.com/david-choe-5-color-cowboy/",
+      "use": "contemporary local corroboration resolving the episode's `Johnny`"
+    },
+    {
+      "claim": "The early documentary was a Harry Kim and Johnny Granado collaboration and included Slow Jams-era Choe material",
+      "source": "https://www.metroactive.com/papers/metro/02.06.03/choe-0306.html",
+      "use": "contemporary provenance corroboration"
+    }
   ],
   "quality": {
     "raw_segments": 3724,
@@ -526,5 +2028,22 @@
     "content_warnings": 14,
     "identity_windows": 0,
     "named_turns": 0
-  }
+  },
+  "people": [
+    "David Choe",
+    "Critter"
+  ],
+  "places": [
+    "party"
+  ],
+  "works": [
+    "Dirty Hands",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 59 is a production-history episode disguised as sports and body-modification talk.",
+  "description_source": "Opening of the human-reviewed summary."
 }

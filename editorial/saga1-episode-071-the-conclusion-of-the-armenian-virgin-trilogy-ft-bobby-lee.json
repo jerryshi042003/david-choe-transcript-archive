@@ -18,144 +18,576 @@
   "sensitivity": "Explicit sexual content; young-adult fan and celebrity power imbalance; disputed consent and nonverbal stopping signals; private intimate images and identity triangulation; pregnancy, contraception and STI misinformation; bleeding and anatomy misinformation; childhood sexual abuse; disability slurs; possible minor in commercial sex; visible sex-worker distress; attributed sexual violence; trafficking risk; robbery and death threat; drugs and smuggling; racial, ethnic, gender-identity and disability slurs; trauma minimization; private former partners and medical details.",
   "speaker_policy": "Named dialogue remains withheld. Episode 71 has zero diarized turns and five coarse window embeddings for a large ensemble. Public guests and cast are contextually known, but no independently held-out multispeaker validation has passed.",
   "source_notes": [
-    {"claim": "Consent must be clear, voluntary, ongoing and specific; pulling away, freezing, silence, hesitation and other nonverbal signals require stopping and checking in", "source": "https://rainn.org/5-rules-for-getting-consent/", "use": "frames thigh-blocking, pain, nervous laughter, decision deference, the crying worker and the private partner's repeated refusals"},
-    {"claim": "Arousal, lubrication and orgasm are involuntary bodily responses and do not equal consent", "source": "https://rainn.org/5-rules-for-getting-consent/", "use": "corrects repeated reliance on wetness, noise and physical response"},
-    {"claim": "Always use a new condom for the entirety of every act; oil-based products can weaken latex", "source": "https://www.cdc.gov/condom-use/index.html", "use": "corrects condom reuse implications and coconut oil, Crisco and olive-oil advice"},
-    {"claim": "Withdrawal does not protect against STIs; consistent correct condom use reduces STI risk", "source": "https://www.cdc.gov/contraception/hcp/usmec/coitus-interruptus-withdrawal.html", "use": "corrects tantric ejaculation and pull-out claims"},
-    {"claim": "Testing and sharing results reduce uncertainty, but condoms remain a core prevention strategy and many infections can be asymptomatic", "source": "https://www.cdc.gov/sti/prevention/index.html", "use": "corrects 'tested and clean' as zero-risk logic"},
-    {"claim": "Pain or bleeding can happen with first vaginal intercourse but do not happen to everyone; the hymen and bleeding do not prove virginity", "source": "https://www.plannedparenthood.org/learn/teens/sex/virginity/what-happens-first-time-you-have-sex", "use": "corrects bloody-sheet, hymen and permanent-tightness claims"},
-    {"claim": "Commercial sex induced by force, fraud or coercion is trafficking; any commercial sex involving a person under eighteen is trafficking regardless of force", "source": "https://www.justice.gov/humantrafficking/what-is-human-trafficking", "use": "frames the contradictory age account, raid, crying, shaking and payment without making an unsupported legal finding"},
-    {"claim": "Sexual assault is sexual contact without clear, voluntary and informed consent", "source": "https://rainn.org/get-the-facts-about-sexual-assault-rape/", "use": "frames attributed intercourse after visible distress while avoiding adjudication from a transcript"},
-    {"claim": "Consent applies independently to intimate-image sharing and online publication", "source": "https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-intimate-partner-sexual-violence/", "use": "supports withholding young-guest and former-partner images"},
-    {"claim": "Exploitation of a minor in commercial sex is trafficking and online tools can facilitate that exploitation", "source": "https://www.justice.gov/criminal/criminal-ceos/child-sex-trafficking", "use": "supports the stop-and-verify age boundary"}
+    {
+      "claim": "Consent must be clear, voluntary, ongoing and specific; pulling away, freezing, silence, hesitation and other nonverbal signals require stopping and checking in",
+      "source": "https://rainn.org/5-rules-for-getting-consent/",
+      "use": "frames thigh-blocking, pain, nervous laughter, decision deference, the crying worker and the private partner's repeated refusals"
+    },
+    {
+      "claim": "Arousal, lubrication and orgasm are involuntary bodily responses and do not equal consent",
+      "source": "https://rainn.org/5-rules-for-getting-consent/",
+      "use": "corrects repeated reliance on wetness, noise and physical response"
+    },
+    {
+      "claim": "Always use a new condom for the entirety of every act; oil-based products can weaken latex",
+      "source": "https://www.cdc.gov/condom-use/index.html",
+      "use": "corrects condom reuse implications and coconut oil, Crisco and olive-oil advice"
+    },
+    {
+      "claim": "Withdrawal does not protect against STIs; consistent correct condom use reduces STI risk",
+      "source": "https://www.cdc.gov/contraception/hcp/usmec/coitus-interruptus-withdrawal.html",
+      "use": "corrects tantric ejaculation and pull-out claims"
+    },
+    {
+      "claim": "Testing and sharing results reduce uncertainty, but condoms remain a core prevention strategy and many infections can be asymptomatic",
+      "source": "https://www.cdc.gov/sti/prevention/index.html",
+      "use": "corrects 'tested and clean' as zero-risk logic"
+    },
+    {
+      "claim": "Pain or bleeding can happen with first vaginal intercourse but do not happen to everyone; the hymen and bleeding do not prove virginity",
+      "source": "https://www.plannedparenthood.org/learn/teens/sex/virginity/what-happens-first-time-you-have-sex",
+      "use": "corrects bloody-sheet, hymen and permanent-tightness claims"
+    },
+    {
+      "claim": "Commercial sex induced by force, fraud or coercion is trafficking; any commercial sex involving a person under eighteen is trafficking regardless of force",
+      "source": "https://www.justice.gov/humantrafficking/what-is-human-trafficking",
+      "use": "frames the contradictory age account, raid, crying, shaking and payment without making an unsupported legal finding"
+    },
+    {
+      "claim": "Sexual assault is sexual contact without clear, voluntary and informed consent",
+      "source": "https://rainn.org/get-the-facts-about-sexual-assault-rape/",
+      "use": "frames attributed intercourse after visible distress while avoiding adjudication from a transcript"
+    },
+    {
+      "claim": "Consent applies independently to intimate-image sharing and online publication",
+      "source": "https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-intimate-partner-sexual-violence/",
+      "use": "supports withholding young-guest and former-partner images"
+    },
+    {
+      "claim": "Exploitation of a minor in commercial sex is trafficking and online tools can facilitate that exploitation",
+      "source": "https://www.justice.gov/criminal/criminal-ceos/child-sex-trafficking",
+      "use": "supports the stop-and-verify age boundary"
+    }
   ],
   "chapters": [
-    {"t": 0.0, "title": "New studio opening"},
-    {"t": 160.0, "title": "Private residence and ex images withheld"},
-    {"t": 260.0, "title": "Wicked Pictures contract and first production"},
-    {"t": 410.0, "title": "Post-shoot illness reported without diagnosis"},
-    {"t": 520.0, "title": "Condom practice and safe-use correction"},
-    {"t": 771.0, "title": "The young return guest enters"},
-    {"t": 800.0, "title": "Located through Instagram after public disclosure"},
-    {"t": 850.0, "title": "False entertainment-first recap"},
-    {"t": 950.0, "title": "Private negotiation and separate publication consent"},
-    {"t": 1050.0, "title": "Body details withheld"},
-    {"t": 1120.0, "title": "A spouse cannot consent for another participant"},
-    {"t": 1250.0, "title": "Voluntary return does not erase power"},
-    {"t": 1550.0, "title": "Plenty of Fish and Tinder"},
-    {"t": 1650.0, "title": "Racial dating hierarchy rejected"},
-    {"t": 1850.0, "title": "Private date and impact play"},
-    {"t": 2078.0, "title": "A private partner repeatedly says no"},
-    {"t": 2100.0, "title": "The cast tells him to press the issue"},
-    {"t": 2220.0, "title": "Underwear and a hand knocked away"},
-    {"t": 2260.0, "title": "Boundary-crossing penetration claim"},
-    {"t": 2320.0, "title": "Masturbation in another person's presence"},
-    {"t": 2390.0, "title": "The Echo show and parasocial history"},
-    {"t": 2520.0, "title": "City, school and family withheld"},
-    {"t": 2600.0, "title": "Adult age reportedly checked"},
-    {"t": 2700.0, "title": "Whatever you think I should do"},
-    {"t": 2800.0, "title": "Armenian revenge fantasy rejected"},
-    {"t": 3050.0, "title": "Bobby Lee's comedy-club grievance"},
-    {"t": 3200.0, "title": "You are putting words in my mouth"},
-    {"t": 3350.0, "title": "People are not goals or toys"},
-    {"t": 3600.0, "title": "Private hotel setup withheld"},
-    {"t": 3700.0, "title": "Severe nervousness without diagnosis"},
-    {"t": 3900.0, "title": "Kissing boundary and specific check-in"},
-    {"t": 4100.0, "title": "Body exposure withheld"},
-    {"t": 4372.0, "title": "A specific oral-sex permission check"},
-    {"t": 4519.0, "title": "Thigh-blocking is a stop signal"},
-    {"t": 4530.0, "title": "Pain and repeated penetration attempts"},
-    {"t": 4597.0, "title": "Hymen and virginity misinformation"},
-    {"t": 4620.0, "title": "Private intimate image redistributed"},
-    {"t": 4638.0, "title": "Blood-taste claims and exposure risk"},
-    {"t": 4805.0, "title": "Oil-based lubricant correction"},
-    {"t": 4820.0, "title": "Absence of exact stop words is not consent"},
-    {"t": 4852.0, "title": "Bleeding does not prove virginity"},
-    {"t": 4973.0, "title": "Repeated acts still require repeated agreement"},
-    {"t": 5009.0, "title": "Eighteen-year age gap stated"},
-    {"t": 5077.0, "title": "Drugging fear is a safety signal"},
-    {"t": 5122.0, "title": "Bloody-sheet proof myth"},
-    {"t": 5168.0, "title": "Tantric ejaculation is not contraception"},
-    {"t": 5241.0, "title": "Testing does not mean zero risk"},
-    {"t": 5600.0, "title": "Private former partner withheld"},
-    {"t": 5848.0, "title": "Race and skin stereotypes"},
-    {"t": 5860.0, "title": "Appearance and sexual gratitude myth"},
-    {"t": 5984.0, "title": "Private orientation speculation withheld"},
-    {"t": 6054.0, "title": "Rat experiment and monogamy claim"},
-    {"t": 6125.0, "title": "Genetic destiny argument rejected"},
-    {"t": 6148.0, "title": "Industry HIV pause without diagnosis"},
-    {"t": 6173.0, "title": "Coolidge-effect anecdote"},
-    {"t": 6231.0, "title": "Bonobos, chimpanzees and human choice"},
-    {"t": 6412.0, "title": "Asexuality is not nearly nonexistent"},
-    {"t": 6484.0, "title": "Singularity prediction, not deadline"},
-    {"t": 6524.0, "title": "Music and encounter recap"},
-    {"t": 6583.0, "title": "Nervous laughter is not permission to escalate"},
-    {"t": 6699.0, "title": "Ongoing check-ins retained with context"},
-    {"t": 6740.0, "title": "No sex-addiction diagnosis from frequency"},
-    {"t": 6791.0, "title": "What happens next belongs to the guest"},
-    {"t": 6835.0, "title": "No universal post-virginity sequence"},
-    {"t": 6951.0, "title": "Future group-sex proposal"},
-    {"t": 6968.0, "title": "Testing first does not eliminate all risk"},
-    {"t": 7033.0, "title": "Decision reluctance is not blanket delegation"},
-    {"t": 7111.0, "title": "School and fertility details withheld"},
-    {"t": 7131.0, "title": "Anal-sex coaching and specific consent"},
-    {"t": 7173.0, "title": "No stated preference means no added activity"},
-    {"t": 7219.0, "title": "Age-gap power made explicit"},
-    {"t": 7270.0, "title": "Yuk Yuk's and erectile-difficulty discussion"},
-    {"t": 7350.0, "title": "Private images are not publication assets"},
-    {"t": 7425.0, "title": "A worker says stop touching"},
-    {"t": 7800.0, "title": "Bobby Lee childhood-abuse account"},
-    {"t": 8007.0, "title": "Comedy as a self-described defense"},
-    {"t": 8044.0, "title": "Comparative suffering does not erase abuse"},
-    {"t": 8180.0, "title": "Trauma trigger and disability dignity"},
-    {"t": 8204.0, "title": "No single correct survivor response"},
-    {"t": 8344.0, "title": "The Mexican Machete story begins"},
-    {"t": 8351.0, "title": "Brockton Villa and Tijuana trips"},
-    {"t": 8487.0, "title": "Commercial-sex ages unknown"},
-    {"t": 8570.0, "title": "The Professional comparison signals youth"},
-    {"t": 8688.0, "title": "Worker crying and shaking"},
-    {"t": 8700.0, "title": "Intercourse continues after visible distress"},
-    {"t": 8791.0, "title": "Contradictory age claims"},
-    {"t": 8812.0, "title": "Payment does not override distress or age"},
-    {"t": 8850.0, "title": "He returns looking for the worker"},
-    {"t": 8960.0, "title": "Machete robbery and death threat"},
-    {"t": 9002.0, "title": "God's revenge as personal interpretation"},
-    {"t": 9168.0, "title": "U.S. Marines interrupt the threat"},
-    {"t": 9220.0, "title": "Near-death event and stand-up origin"},
-    {"t": 9226.0, "title": "Trauma ranking rejected"},
-    {"t": 9484.0, "title": "Consent contradiction turned into a joke"},
-    {"t": 9510.0, "title": "Remorse does not erase harm"},
-    {"t": 9531.0, "title": "Additional crying-worker account"},
-    {"t": 9562.0, "title": "Distress is not a sexual goal"},
-    {"t": 9700.0, "title": "Private former partners withheld"},
-    {"t": 10020.0, "title": "Speaker objects after a private name is used"},
-    {"t": 10143.0, "title": "Women are not transferred between friends"},
-    {"t": 10306.0, "title": "Trivia begins"},
-    {"t": 10674.0, "title": "Private intimate image used as trivia"},
-    {"t": 10708.0, "title": "Racial slur used as trivia answer"},
-    {"t": 10723.0, "title": "DVDASA sign-off"}
+    {
+      "t": 0,
+      "title": "New studio opening"
+    },
+    {
+      "t": 160,
+      "title": "Private residence and ex images withheld"
+    },
+    {
+      "t": 260,
+      "title": "Wicked Pictures contract and first production"
+    },
+    {
+      "t": 410,
+      "title": "Post-shoot illness reported without diagnosis"
+    },
+    {
+      "t": 520,
+      "title": "Condom practice and safe-use correction"
+    },
+    {
+      "t": 771,
+      "title": "The young return guest enters"
+    },
+    {
+      "t": 800,
+      "title": "Located through Instagram after public disclosure"
+    },
+    {
+      "t": 850,
+      "title": "False entertainment-first recap"
+    },
+    {
+      "t": 950,
+      "title": "Private negotiation and separate publication consent"
+    },
+    {
+      "t": 1050,
+      "title": "Body details withheld"
+    },
+    {
+      "t": 1120,
+      "title": "A spouse cannot consent for another participant"
+    },
+    {
+      "t": 1250,
+      "title": "Voluntary return does not erase power"
+    },
+    {
+      "t": 1550,
+      "title": "Plenty of Fish and Tinder"
+    },
+    {
+      "t": 1650,
+      "title": "Racial dating hierarchy rejected"
+    },
+    {
+      "t": 1850,
+      "title": "Private date and impact play"
+    },
+    {
+      "t": 2078,
+      "title": "A private partner repeatedly says no"
+    },
+    {
+      "t": 2100,
+      "title": "The cast tells him to press the issue"
+    },
+    {
+      "t": 2220,
+      "title": "Underwear and a hand knocked away"
+    },
+    {
+      "t": 2260,
+      "title": "Boundary-crossing penetration claim"
+    },
+    {
+      "t": 2320,
+      "title": "Masturbation in another person's presence"
+    },
+    {
+      "t": 2390,
+      "title": "The Echo show and parasocial history"
+    },
+    {
+      "t": 2520,
+      "title": "City, school and family withheld"
+    },
+    {
+      "t": 2600,
+      "title": "Adult age reportedly checked"
+    },
+    {
+      "t": 2700,
+      "title": "Whatever you think I should do"
+    },
+    {
+      "t": 2800,
+      "title": "Armenian revenge fantasy rejected"
+    },
+    {
+      "t": 3050,
+      "title": "Bobby Lee's comedy-club grievance"
+    },
+    {
+      "t": 3200,
+      "title": "You are putting words in my mouth"
+    },
+    {
+      "t": 3350,
+      "title": "People are not goals or toys"
+    },
+    {
+      "t": 3600,
+      "title": "Private hotel setup withheld"
+    },
+    {
+      "t": 3700,
+      "title": "Severe nervousness without diagnosis"
+    },
+    {
+      "t": 3900,
+      "title": "Kissing boundary and specific check-in"
+    },
+    {
+      "t": 4100,
+      "title": "Body exposure withheld"
+    },
+    {
+      "t": 4372,
+      "title": "A specific oral-sex permission check"
+    },
+    {
+      "t": 4519,
+      "title": "Thigh-blocking is a stop signal"
+    },
+    {
+      "t": 4530,
+      "title": "Pain and repeated penetration attempts"
+    },
+    {
+      "t": 4597,
+      "title": "Hymen and virginity misinformation"
+    },
+    {
+      "t": 4620,
+      "title": "Private intimate image redistributed"
+    },
+    {
+      "t": 4638,
+      "title": "Blood-taste claims and exposure risk"
+    },
+    {
+      "t": 4805,
+      "title": "Oil-based lubricant correction"
+    },
+    {
+      "t": 4820,
+      "title": "Absence of exact stop words is not consent"
+    },
+    {
+      "t": 4852,
+      "title": "Bleeding does not prove virginity"
+    },
+    {
+      "t": 4973,
+      "title": "Repeated acts still require repeated agreement"
+    },
+    {
+      "t": 5009,
+      "title": "Eighteen-year age gap stated"
+    },
+    {
+      "t": 5077,
+      "title": "Drugging fear is a safety signal"
+    },
+    {
+      "t": 5122,
+      "title": "Bloody-sheet proof myth"
+    },
+    {
+      "t": 5168,
+      "title": "Tantric ejaculation is not contraception"
+    },
+    {
+      "t": 5241,
+      "title": "Testing does not mean zero risk"
+    },
+    {
+      "t": 5600,
+      "title": "Private former partner withheld"
+    },
+    {
+      "t": 5848,
+      "title": "Race and skin stereotypes"
+    },
+    {
+      "t": 5860,
+      "title": "Appearance and sexual gratitude myth"
+    },
+    {
+      "t": 5984,
+      "title": "Private orientation speculation withheld"
+    },
+    {
+      "t": 6054,
+      "title": "Rat experiment and monogamy claim"
+    },
+    {
+      "t": 6125,
+      "title": "Genetic destiny argument rejected"
+    },
+    {
+      "t": 6148,
+      "title": "Industry HIV pause without diagnosis"
+    },
+    {
+      "t": 6173,
+      "title": "Coolidge-effect anecdote"
+    },
+    {
+      "t": 6231,
+      "title": "Bonobos, chimpanzees and human choice"
+    },
+    {
+      "t": 6412,
+      "title": "Asexuality is not nearly nonexistent"
+    },
+    {
+      "t": 6484,
+      "title": "Singularity prediction, not deadline"
+    },
+    {
+      "t": 6524,
+      "title": "Music and encounter recap"
+    },
+    {
+      "t": 6583,
+      "title": "Nervous laughter is not permission to escalate"
+    },
+    {
+      "t": 6699,
+      "title": "Ongoing check-ins retained with context"
+    },
+    {
+      "t": 6740,
+      "title": "No sex-addiction diagnosis from frequency"
+    },
+    {
+      "t": 6791,
+      "title": "What happens next belongs to the guest"
+    },
+    {
+      "t": 6835,
+      "title": "No universal post-virginity sequence"
+    },
+    {
+      "t": 6951,
+      "title": "Future group-sex proposal"
+    },
+    {
+      "t": 6968,
+      "title": "Testing first does not eliminate all risk"
+    },
+    {
+      "t": 7033,
+      "title": "Decision reluctance is not blanket delegation"
+    },
+    {
+      "t": 7111,
+      "title": "School and fertility details withheld"
+    },
+    {
+      "t": 7131,
+      "title": "Anal-sex coaching and specific consent"
+    },
+    {
+      "t": 7173,
+      "title": "No stated preference means no added activity"
+    },
+    {
+      "t": 7219,
+      "title": "Age-gap power made explicit"
+    },
+    {
+      "t": 7270,
+      "title": "Yuk Yuk's and erectile-difficulty discussion"
+    },
+    {
+      "t": 7350,
+      "title": "Private images are not publication assets"
+    },
+    {
+      "t": 7425,
+      "title": "A worker says stop touching"
+    },
+    {
+      "t": 7800,
+      "title": "Bobby Lee childhood-abuse account"
+    },
+    {
+      "t": 8007,
+      "title": "Comedy as a self-described defense"
+    },
+    {
+      "t": 8044,
+      "title": "Comparative suffering does not erase abuse"
+    },
+    {
+      "t": 8180,
+      "title": "Trauma trigger and disability dignity"
+    },
+    {
+      "t": 8204,
+      "title": "No single correct survivor response"
+    },
+    {
+      "t": 8344,
+      "title": "The Mexican Machete story begins"
+    },
+    {
+      "t": 8351,
+      "title": "Brockton Villa and Tijuana trips"
+    },
+    {
+      "t": 8487,
+      "title": "Commercial-sex ages unknown"
+    },
+    {
+      "t": 8570,
+      "title": "The Professional comparison signals youth"
+    },
+    {
+      "t": 8688,
+      "title": "Worker crying and shaking"
+    },
+    {
+      "t": 8700,
+      "title": "Intercourse continues after visible distress"
+    },
+    {
+      "t": 8791,
+      "title": "Contradictory age claims"
+    },
+    {
+      "t": 8812,
+      "title": "Payment does not override distress or age"
+    },
+    {
+      "t": 8850,
+      "title": "He returns looking for the worker"
+    },
+    {
+      "t": 8960,
+      "title": "Machete robbery and death threat"
+    },
+    {
+      "t": 9002,
+      "title": "God's revenge as personal interpretation"
+    },
+    {
+      "t": 9168,
+      "title": "U.S. Marines interrupt the threat"
+    },
+    {
+      "t": 9220,
+      "title": "Near-death event and stand-up origin"
+    },
+    {
+      "t": 9226,
+      "title": "Trauma ranking rejected"
+    },
+    {
+      "t": 9484,
+      "title": "Consent contradiction turned into a joke"
+    },
+    {
+      "t": 9510,
+      "title": "Remorse does not erase harm"
+    },
+    {
+      "t": 9531,
+      "title": "Additional crying-worker account"
+    },
+    {
+      "t": 9562,
+      "title": "Distress is not a sexual goal"
+    },
+    {
+      "t": 9700,
+      "title": "Private former partners withheld"
+    },
+    {
+      "t": 10020,
+      "title": "Speaker objects after a private name is used"
+    },
+    {
+      "t": 10143,
+      "title": "Women are not transferred between friends"
+    },
+    {
+      "t": 10306,
+      "title": "Trivia begins"
+    },
+    {
+      "t": 10674,
+      "title": "Private intimate image used as trivia"
+    },
+    {
+      "t": 10708,
+      "title": "Racial slur used as trivia answer"
+    },
+    {
+      "t": 10723,
+      "title": "DVDASA sign-off"
+    }
   ],
   "connections": [
-    {"from": 771, "to": "Episodes 69–70 return-guest trilogy", "relationship": "The live-show participant returns after the show publicly solicited her identity and proposed sexual candidates"},
-    {"from": 850, "to": "entertainment-versus-truth ledger", "relationship": "The host admits choosing the more entertaining false version before correcting it"},
-    {"from": 1000, "to": "publication-consent ledger", "relationship": "Private off-mic negotiation becomes a detailed on-air debrief without separate publication consent established"},
-    {"from": 1250, "to": "fan-celebrity power ledger", "relationship": "A nineteen-year-old long-time fan enters a group and recording environment with a host nearly twice her age"},
-    {"from": 2078, "to": "consent-failure ledger", "relationship": "A separate private partner's repeated no is reinterpreted as encouragement to press"},
-    {"from": 2220, "to": "nonverbal-refusal ledger", "relationship": "Clothing barriers and knocking a hand away establish limits"},
-    {"from": 3200, "to": "proxy-narration reliability ledger", "relationship": "The guest explicitly agrees that the host is putting words in her mouth"},
-    {"from": 4519, "to": "nonverbal-refusal ledger", "relationship": "Thigh-blocking and pain occur before continued penetration attempts"},
-    {"from": 4372, "to": "specific-consent ledger", "relationship": "A direct permission check for one act is a positive moment but cannot authorize later acts"},
-    {"from": 5009, "to": "age-and-power timeline", "relationship": "The host states the eighteen-year age difference and compares the guest to a daughter"},
-    {"from": 5168, "to": "sexual-health misinformation ledger", "relationship": "Ejaculation-control and withdrawal are presented as protection against pregnancy"},
-    {"from": 6583, "to": "impact-play consent ledger", "relationship": "Nervous laughter is interpreted as permission to escalate spanking"},
-    {"from": 6791, "to": "agency ledger", "relationship": "The cast repeatedly offers to choose the guest's next sexual partners and acts"},
-    {"from": 7800, "to": "Episode 69 Bobby Lee trauma continuity", "relationship": "Bobby returns to childhood sexual behavior, abuse, meth treatment and comedy as coping"},
-    {"from": 8044, "to": "comparative-suffering ledger", "relationship": "Global suffering is used to minimize a personal abuse history"},
-    {"from": 8344, "to": "Bobby Lee stand-up origin timeline", "relationship": "The Tijuana robbery is described as the event that pushed him into stand-up"},
-    {"from": 8487, "to": "minor-and-trafficking safety ledger", "relationship": "The speaker repeatedly states he did not know commercial-sex workers' ages"},
-    {"from": 8688, "to": "sex-worker consent ledger", "relationship": "Crying and shaking are observed before the speaker says he continued intercourse"},
-    {"from": 9002, "to": "remorse-and-accountability ledger", "relationship": "The later robbery is interpreted by the speaker as punishment for the earlier encounter"},
-    {"from": 9531, "to": "sex-worker consent ledger", "relationship": "A second speaker attributes additional encounters with crying workers to himself and says they did not stop"}
+    {
+      "from": 771,
+      "to": "Episodes 69–70 return-guest trilogy",
+      "relationship": "The live-show participant returns after the show publicly solicited her identity and proposed sexual candidates"
+    },
+    {
+      "from": 850,
+      "to": "entertainment-versus-truth ledger",
+      "relationship": "The host admits choosing the more entertaining false version before correcting it"
+    },
+    {
+      "from": 1000,
+      "to": "publication-consent ledger",
+      "relationship": "Private off-mic negotiation becomes a detailed on-air debrief without separate publication consent established"
+    },
+    {
+      "from": 1250,
+      "to": "fan-celebrity power ledger",
+      "relationship": "A nineteen-year-old long-time fan enters a group and recording environment with a host nearly twice her age"
+    },
+    {
+      "from": 2078,
+      "to": "consent-failure ledger",
+      "relationship": "A separate private partner's repeated no is reinterpreted as encouragement to press"
+    },
+    {
+      "from": 2220,
+      "to": "nonverbal-refusal ledger",
+      "relationship": "Clothing barriers and knocking a hand away establish limits"
+    },
+    {
+      "from": 3200,
+      "to": "proxy-narration reliability ledger",
+      "relationship": "The guest explicitly agrees that the host is putting words in her mouth"
+    },
+    {
+      "from": 4519,
+      "to": "nonverbal-refusal ledger",
+      "relationship": "Thigh-blocking and pain occur before continued penetration attempts"
+    },
+    {
+      "from": 4372,
+      "to": "specific-consent ledger",
+      "relationship": "A direct permission check for one act is a positive moment but cannot authorize later acts"
+    },
+    {
+      "from": 5009,
+      "to": "age-and-power timeline",
+      "relationship": "The host states the eighteen-year age difference and compares the guest to a daughter"
+    },
+    {
+      "from": 5168,
+      "to": "sexual-health misinformation ledger",
+      "relationship": "Ejaculation-control and withdrawal are presented as protection against pregnancy"
+    },
+    {
+      "from": 6583,
+      "to": "impact-play consent ledger",
+      "relationship": "Nervous laughter is interpreted as permission to escalate spanking"
+    },
+    {
+      "from": 6791,
+      "to": "agency ledger",
+      "relationship": "The cast repeatedly offers to choose the guest's next sexual partners and acts"
+    },
+    {
+      "from": 7800,
+      "to": "Episode 69 Bobby Lee trauma continuity",
+      "relationship": "Bobby returns to childhood sexual behavior, abuse, meth treatment and comedy as coping"
+    },
+    {
+      "from": 8044,
+      "to": "comparative-suffering ledger",
+      "relationship": "Global suffering is used to minimize a personal abuse history"
+    },
+    {
+      "from": 8344,
+      "to": "Bobby Lee stand-up origin timeline",
+      "relationship": "The Tijuana robbery is described as the event that pushed him into stand-up"
+    },
+    {
+      "from": 8487,
+      "to": "minor-and-trafficking safety ledger",
+      "relationship": "The speaker repeatedly states he did not know commercial-sex workers' ages"
+    },
+    {
+      "from": 8688,
+      "to": "sex-worker consent ledger",
+      "relationship": "Crying and shaking are observed before the speaker says he continued intercourse"
+    },
+    {
+      "from": 9002,
+      "to": "remorse-and-accountability ledger",
+      "relationship": "The later robbery is interpreted by the speaker as punishment for the earlier encounter"
+    },
+    {
+      "from": 9531,
+      "to": "sex-worker consent ledger",
+      "relationship": "A second speaker attributes additional encounters with crying workers to himself and says they did not stop"
+    }
   ],
   "content_warnings": [
     "explicit sexual content and bodily-fluid discussion",
@@ -178,5 +610,21 @@
     "sexualization of minors",
     "public-location and brothel-route details",
     "sexual distress framed as entertainment or achievement"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Bobby Lee"
+  ],
+  "places": [
+    "studio"
+  ],
+  "works": [
+    "Machete"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "The episode opens in an unfinished new studio, then devotes most of its running time to an on-air reconstruction of a nineteen-year-old fan's first sexual encounter with the host.",
+  "description_source": "Opening of the human-reviewed summary."
 }

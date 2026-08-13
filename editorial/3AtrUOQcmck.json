@@ -1,107 +1,946 @@
 {
-  "episode_id":"3AtrUOQcmck",
-  "title":"Slow Jams: The Comics of David Choe — Cartoonist Kayfabe",
-  "reviewed_on":"2026-07-31",
-  "summary":"Jim Rugg and Ed Piskor inspect physical copies of SPX 2000, NON and the Xeric edition of Slow Jams, tracing David Choe's short comics path while reading his collage, photocopy, lettering and autobiographical techniques. The page map preserves the bicycle-revenge story, explicit masturbation spread, infatuation and violent fantasy, suicide turn, prison short, sticker-art encouragement and dated scarcity pitch while separating printed-object evidence, criticism, plot, autobiography, literal biography, rights and safety.",
-  "quality":{"source_segments":693,"source_words":5083,"duration_seconds":1550,"human_read":true,"correction_decisions":145,"named_turns":0,"clean_word_delta":0,"assessment":"Complete chronological human read and object-centered correction/context pass. Dense alternative-comics names, titles, grant terms and story-character damage are repaired where defensible. Unclear names and masked words remain unresolved; automatic captions contain no publisher speaker prefixes."},
-  "speaker_policy":"The public hosts are Jim Rugg and Ed Piskor, but participant presence does not identify individual lines. Publish no named turns until held-out acoustic/video validation passes.",
-  "people":["David Choe","Jim Rugg","Ed Piskor","Tom Devlin","Charles Burns","Adrian Tomine","Dean Haspiel","Jordan Crane","Scott McCloud","James Kochalka","Robert Young","Jaime Hernandez","Dave Cooper","Al Columbia","Brendan McCarthy","Carol Swain","Paul Pope","Chester Brown","Eddie Campbell","Daniel Clowes","David Lapham","Piet Mondrian","Norman Rockwell","Tom Scioli","Nick Bertozzi","Leela Corman","Jason Shiga"],
-  "places":["Los Angeles","Oakland","Mann's Chinese Theatre","La Brea Tar Pits","San Diego Comic-Con"],
-  "works":["Slow Jams","SPX 2000","NON #3","NON #4","NON #5","Kramers Ergot","The Comics Journal","Weasel #1","Blab!","The Comics Interpreter","Locas","Yummy Fur","I Never Liked You","Graffiti Kitchen","Stray Bullets","The Myth of 8-Opus","Dirty Hands","Wizard #44","Gen¹³"],
-  "themes":["small-press publication","Xeric Grant","mixed-media comics","photocopy process","autobiographical framing","revenge and anticlimax","infatuation and fantasy","sexual self-portraiture","self-harm in fiction","alternative-comics criticism","physical-book evidence","scarcity and collecting"],
-  "chapters":[
-    {"t":0,"title":"Cartoonist Kayfabe introduction"},{"t":23,"title":"SPX 2000 physical anthology"},{"t":52,"title":"Charles Burns cover and contributor sequence"},{"t":74,"title":"Choe's short SPX story and pasted lettering"},{"t":86,"title":"Photocopy-darkened drawing hypothesis"},{"t":92,"title":"Skateboard confrontation plot"},{"t":122,"title":"Jordan Crane's NON #4"},{"t":128,"title":"Slow Jams across NON #3 and #4"},{"t":136,"title":"Uncertain Choe-Crane meeting history"},{"t":144,"title":"Mini-comic and zine antecedent"},{"t":155,"title":"Late-1990s independent-comics context"},{"t":181,"title":"Promise of a page-by-page Slow Jams reading"},{"t":201,"title":"NON #5 package"},{"t":207,"title":"Silkscreened wraparound cover"},{"t":211,"title":"Xeric-supported books inside"},{"t":224,"title":"Date guess corrected by the printed object"},{"t":245,"title":"NON #5 dated 2001"},{"t":258,"title":"Graffiti and photocopy craft reading"},{"t":271,"title":"Bicycle story begins"},{"t":275,"title":"End-table skateboard in woodshop"},{"t":280,"title":"Purple bicycle from an aunt"},{"t":291,"title":"Painting the bicycle black"},{"t":309,"title":"The bicycle is stolen"},{"t":315,"title":"Photocopier distortion"},{"t":326,"title":"Cut-and-paste versus painted lettering"},{"t":342,"title":"Scott McCloud transition framework"},{"t":355,"title":"Bicycle found about two years later"},{"t":363,"title":"Waiting, following and threatening note"},{"t":389,"title":"Action silhouette and Daredevil analogy"},{"t":403,"title":"Repeated image compositions"},{"t":417,"title":"Following the rider home"},{"t":426,"title":"Confrontation with the female rider"},{"t":430,"title":"Masked profanity remains masked"},{"t":432,"title":"Destroying the bicycle with a hammer"},{"t":440,"title":"Revenge proves unsatisfying"},{"t":465,"title":"Autobio comics live or die by narration"},{"t":471,"title":"Anticlimax as the protagonist's feeling"},{"t":491,"title":"NON as Kramers Ergot predecessor"},{"t":502,"title":"Steve Ballmer and Kayfabe-effect joke"},{"t":512,"title":"Copy-for-sale performance"},{"t":515,"title":"Howard Stern audience joke"},{"t":520,"title":"Slow Jams and 1999 publication claim"},{"t":522,"title":"Xeric Grant and perfect-bound edition"},{"t":527,"title":"Earlier mini-comic version"},{"t":533,"title":"Jordan Crane and NON pathway"},{"t":544,"title":"The Comics Journal best-of-1999 issue"},{"t":566,"title":"Weasel #1 and Al Columbia"},{"t":584,"title":"James Kochalka praise"},{"t":604,"title":"Scott McCloud praise"},{"t":622,"title":"Robert Young and The Comics Interpreter"},{"t":629,"title":"Jaime Hernandez Locas comparison"},{"t":657,"title":"Strong autobiographical debut"},{"t":679,"title":"Skin-like material comparison remains unresolved"},{"t":686,"title":"Brendan McCarthy and Carol Swain comparisons"},{"t":706,"title":"Found text about masturbation abstinence"},{"t":716,"title":"Prison release and deliberate return short"},{"t":725,"title":"Sticker-art encouragement"},{"t":741,"title":"Paul Pope and personality pages"},{"t":753,"title":"Main story resumes"},{"t":760,"title":"Near-black ink, photocopy and mixed materials"},{"t":771,"title":"Driving at night and floating in space"},{"t":790,"title":"Jewelry work for hip-hop artists"},{"t":806,"title":"Oakland to Los Angeles and parents' home"},{"t":819,"title":"The best-known sequence claim"},{"t":823,"title":"Two-page masturbation sequence"},{"t":829,"title":"Classroom use reconsidered"},{"t":855,"title":"Wizard #44 and Gen¹³ reference"},{"t":884,"title":"Chester Brown comparison"},{"t":919,"title":"Dinner-party invitation"},{"t":949,"title":"Graffiti Kitchen immediacy"},{"t":981,"title":"Yumi becomes the focal point"},{"t":989,"title":"Bathroom cleanup and mirror singing"},{"t":999,"title":"Dirty Hands and Bourdain reference"},{"t":1021,"title":"Last Supper collage"},{"t":1049,"title":"Infatuation becomes prior-heartbreak reflection"},{"t":1094,"title":"Letter and montage"},{"t":1119,"title":"Daniel Clowes comparison"},{"t":1131,"title":"Yumi leaves with her boyfriend"},{"t":1142,"title":"Letter routed through friends"},{"t":1158,"title":"Annual Mann's Chinese Theatre promise"},{"t":1163,"title":"Five-year success fantasy"},{"t":1187,"title":"Yumi finally appears"},{"t":1203,"title":"The reunion is an attack ruse"},{"t":1221,"title":"Beating, trunk and abduction"},{"t":1227,"title":"Stray Bullets comparison"},{"t":1235,"title":"La Brea Tar Pits murder threat"},{"t":1250,"title":"Rescue and hospital"},{"t":1263,"title":"Suicidal turn"},{"t":1271,"title":"Post-hospital fantasy section"},{"t":1273,"title":"Unauthorized hotel entry"},{"t":1279,"title":"Reaffirmation of life"},{"t":1298,"title":"Mondrian blood-splatter fantasy"},{"t":1306,"title":"Modified Norman Rockwell image"},{"t":1315,"title":"Letters, thanks and process notes"},{"t":1322,"title":"Xeric Foundation acknowledgement"},{"t":1331,"title":"Book's lasting critical impact"},{"t":1341,"title":"Zines and pivotal reading direction"},{"t":1347,"title":"The Comics Journal as checklist"},{"t":1385,"title":"1999 Xeric Grant list"},{"t":1402,"title":"Tom Scioli and The Myth of 8-Opus"},{"t":1412,"title":"Nick Bertozzi, Leela Corman and Jason Shiga"},{"t":1427,"title":"Unresolved recipient or title"},{"t":1446,"title":"Bigger-and-better career judgment"},{"t":1472,"title":"Hosts estimate the size of Choe's comics output"},{"t":1484,"title":"Inspiration, looseness and fear"},{"t":1507,"title":"Channel outro begins"},{"t":1521,"title":"Kayfabe-effect scarcity pitch"},{"t":1535,"title":"Newsletter and merchandise calls"},{"t":1549,"title":"Read more comics"}
+  "episode_id": "3AtrUOQcmck",
+  "title": "Slow Jams: The Comics of David Choe — Cartoonist Kayfabe",
+  "reviewed_on": "2026-07-31",
+  "summary": "Jim Rugg and Ed Piskor inspect physical copies of SPX 2000, NON and the Xeric edition of Slow Jams, tracing David Choe's short comics path while reading his collage, photocopy, lettering and autobiographical techniques. The page map preserves the bicycle-revenge story, explicit masturbation spread, infatuation and violent fantasy, suicide turn, prison short, sticker-art encouragement and dated scarcity pitch while separating printed-object evidence, criticism, plot, autobiography, literal biography, rights and safety.",
+  "quality": {
+    "source_segments": 693,
+    "source_words": 5083,
+    "duration_seconds": 1550,
+    "human_read": true,
+    "correction_decisions": 145,
+    "named_turns": 0,
+    "clean_word_delta": 0,
+    "assessment": "Complete chronological human read and object-centered correction/context pass. Dense alternative-comics names, titles, grant terms and story-character damage are repaired where defensible. Unclear names and masked words remain unresolved; automatic captions contain no publisher speaker prefixes."
+  },
+  "speaker_policy": "The public hosts are Jim Rugg and Ed Piskor, but participant presence does not identify individual lines. Publish no named turns until held-out acoustic/video validation passes.",
+  "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Tom Devlin",
+    "Charles Burns",
+    "Adrian Tomine",
+    "Dean Haspiel",
+    "Jordan Crane",
+    "Scott McCloud",
+    "James Kochalka",
+    "Robert Young",
+    "Jaime Hernandez",
+    "Dave Cooper",
+    "Al Columbia",
+    "Brendan McCarthy",
+    "Carol Swain",
+    "Paul Pope",
+    "Chester Brown",
+    "Eddie Campbell",
+    "Daniel Clowes",
+    "David Lapham",
+    "Piet Mondrian",
+    "Norman Rockwell",
+    "Tom Scioli",
+    "Nick Bertozzi",
+    "Leela Corman",
+    "Jason Shiga"
   ],
-  "connections":[
-    {"t":23,"to":"small-press ecosystems","relationship":"SPX 2000 situates Choe among a dense alternative-comics cohort rather than treating him as an isolated celebrity artist."},
-    {"t":76,"to":"mixed-media lettering","relationship":"Pasted text and hand lettering show the page as assembled object, not only drawing."},
-    {"t":128,"to":"serialization","relationship":"NON #3 and #4 connect a self-made mini-comic to a curated anthology audience."},
-    {"t":201,"to":"book as object","relationship":"NON #5's silkscreened package makes binding and production part of the archive evidence."},
-    {"t":271,"to":"autobiographical fiction","relationship":"The bicycle story uses Choe's persona while the archive resists treating every plot event as literal biography."},
-    {"t":342,"to":"comics grammar","relationship":"The hosts use McCloud's transition framework to explain why Choe's image links feel less cinematic and more associative."},
-    {"t":363,"to":"revenge fantasy","relationship":"Waiting and a threatening note build anticipation that ends in emotional failure rather than triumph."},
-    {"t":432,"to":"property violence","relationship":"Destroying the recovered bicycle preserves the injury without resolving the protagonist's loss."},
-    {"t":465,"to":"narration","relationship":"The hosts argue visual experiment works because autobiographical narration keeps emotional orientation."},
-    {"t":520,"to":"Slow Jams editions","relationship":"The perfect-bound book is linked backward to a mini-comic and sideways to NON serialization."},
-    {"t":544,"to":"critical discovery","relationship":"A best-of issue functions as a pre-algorithm recommendation system for alternative comics."},
-    {"t":584,"to":"contemporary reception","relationship":"Kochalka, McCloud and Young quotations show multiple critical vocabularies attaching to the debut."},
-    {"t":629,"to":"Locas","relationship":"Street sensibility and believable characters prompt a comparison with Jaime Hernandez rather than a claim of direct influence."},
-    {"t":706,"to":"collage and found text","relationship":"An abstinence text becomes visual material inside an explicitly sexual autobiographical book."},
-    {"t":716,"to":"institutional alienation","relationship":"A released prisoner choosing a return is presented as a short fictional tragedy, not a universal claim about reentry."},
-    {"t":823,"to":"time on the comics page","relationship":"The masturbation spread makes duration calculable through repeated actions and linked images."},
-    {"t":829,"to":"teaching and audience","relationship":"Formal innovation does not by itself settle whether an explicit page belongs in a classroom."},
-    {"t":981,"to":"drawing attention","relationship":"A detailed face within visual chaos demonstrates how Choe controls focal hierarchy."},
-    {"t":1158,"to":"romantic ritual","relationship":"The annual meeting promise transforms a letter into a multi-year fantasy structure."},
-    {"t":1203,"to":"fantasy reversal","relationship":"A wished-for reunion turns into organized humiliation and violence."},
-    {"t":1263,"to":"self-harm in narrative","relationship":"The hospital escape and suicidal turn are plot events requiring context, not isolated biographical claims."},
-    {"t":1279,"to":"return to life","relationship":"The story moves from violent fantasy and self-destruction to a private reaffirmation rather than a clean rescue moral."},
-    {"t":1385,"to":"Xeric Foundation","relationship":"Grant evidence connects material production to a broader cohort of self-published cartoonists."},
-    {"t":1484,"to":"creative permission","relationship":"The hosts value Choe's looseness because it challenges their own fear of carrying sketchbook energy onto final pages."}
+  "places": [
+    "Los Angeles",
+    "Oakland",
+    "Mann's Chinese Theatre",
+    "La Brea Tar Pits",
+    "San Diego Comic-Con"
   ],
-  "source_notes":[
-    {"t":23,"claim":"The anthology is SPX 2000 and Tom Devlin edited it.","assessment":"Confirm title, editor and contributor order from the physical book/indicia; the hosts visibly handle it.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":128,"claim":"Slow Jams appeared across NON #3 and #4 after Jordan Crane saw Choe's mini-comic.","assessment":"The objects support appearance; exact discovery/meeting history needs Crane, Choe or contemporary editorial documentation.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":201,"claim":"NON #5 contains the described Choe bicycle story and Xeric-supported inserts.","assessment":"Use the physical issue's contents and colophon for exact story title, creators, date and package components.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":271,"claim":"Every event in the bicycle story happened literally to Choe.","assessment":"The hosts call the work autobiographical, but a comic protagonist and narrated event remain page evidence unless independently established.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":520,"claim":"Slow Jams was published in 1999 through a Xeric Grant after a zine edition.","assessment":"Verify year, grant cycle, publisher, print format and edition order from indicia, Xeric records and surviving copies.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":584,"claim":"The spoken Kochalka, McCloud and Young passages are exact quotations.","assessment":"Automatic captions and live reading can alter words; transcribe from the printed Comics Journal source before quotation.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":823,"claim":"This is Choe's most famous comics sequence.","assessment":"It is the hosts' critical/fame judgment, useful for curation but not an objective ranking.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":999,"claim":"The damaged line references the documentary Dirty Hands.","assessment":"Context strongly suggests the title, but audio and the visible page should be checked before clean promotion.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":1059,"claim":"The first-girlfriend and Yumi sequences identify real private people and literal events.","assessment":"Treat them as comic characters and autobiographical framing; do not identity-resolve from relationship clues.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":1263,"claim":"Choe literally attempted suicide and entered a hotel as depicted.","assessment":"These are plot events in the hosts' reading; do not add them to a biographical timeline without primary corroboration.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":1385,"claim":"Choe received the March 1999 Xeric Grant and the named cartoonists were in the stated cycle.","assessment":"Verify cycle, work titles and recipient list against Xeric Foundation records; one spoken name/title remains badly damaged.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"},
-    {"t":1521,"claim":"The episode made Slow Jams prices rise.","assessment":"The Kayfabe effect is channel banter and a scarcity pitch, not a controlled appraisal or current market record.","source":"https://www.youtube.com/watch?v=3AtrUOQcmck"}
+  "works": [
+    "Slow Jams",
+    "SPX 2000",
+    "NON #3",
+    "NON #4",
+    "NON #5",
+    "Kramers Ergot",
+    "The Comics Journal",
+    "Weasel #1",
+    "Blab!",
+    "The Comics Interpreter",
+    "Locas",
+    "Yummy Fur",
+    "I Never Liked You",
+    "Graffiti Kitchen",
+    "Stray Bullets",
+    "The Myth of 8-Opus",
+    "Dirty Hands",
+    "Wizard #44",
+    "Gen¹³"
   ],
-  "content_warnings":["explicit masturbation discussion","sexual autobiographical material","violent assault in comic plot","abduction in comic plot","murder threat in comic plot","suicidal plot turn","hospital flight","unauthorized hotel entry","property destruction","threatening note and following","prison and reentry","sticker vandalism encouragement","publisher-masked profanity","private relationship characters","family and residence context","graphic injury description","scarcity and price pressure","classroom suitability concerns","copyrighted page/image discussion","autobiography-versus-fiction ambiguity","celebrity audience jokes","dated commerce calls"],
-  "publication_restrictions":[
-    {"t":0,"rule":"publish no named line-level turns before held-out acoustic/video validation"},
-    {"t":23,"rule":"verify SPX title, editor, contributors and sequence from the physical object"},
-    {"t":74,"rule":"separate visible page features from inferred drawing materials"},
-    {"t":92,"rule":"do not treat comic-child characters as identity-searchable real people"},
-    {"t":128,"rule":"verify NON issue numbers, serialization order and story titles from contents pages"},
-    {"t":136,"rule":"do not canonicalize the uncertain Comic-Con meeting story"},
-    {"t":144,"rule":"do not merge mini-comic, zine, serialization and perfect-bound edition into one object"},
-    {"t":168,"rule":"never reconstruct publisher-masked profanity"},
-    {"t":201,"rule":"verify NON #5 package components and date from colophon/object"},
-    {"t":224,"rule":"prefer the printed 2001 date over the host's earlier circa-2003 guess"},
-    {"t":230,"rule":"do not surname-resolve Jason without page or credits"},
-    {"t":258,"rule":"treat graffiti influence as host interpretation, not exhaustive cultural identity"},
-    {"t":271,"rule":"do not convert autobiographical comic framing into literal biography automatically"},
-    {"t":363,"rule":"do not excerpt waiting, following or threatening-note conduct as tactics"},
-    {"t":426,"rule":"do not identity-resolve the female bicycle-story character"},
-    {"t":432,"rule":"keep hammer/property violence in its failed-revenge context"},
-    {"t":471,"rule":"preserve the story's stated anticlimax rather than glamorizing revenge"},
-    {"t":502,"rule":"do not claim Steve Ballmer watched the episode"},
-    {"t":512,"rule":"do not convert host sales banter into provenance, value or availability fact"},
-    {"t":515,"rule":"do not claim Howard Stern watched the episode"},
-    {"t":520,"rule":"verify Slow Jams year and edition from indicia before timeline promotion"},
-    {"t":522,"rule":"use Xeric Grant rather than prize/award and verify exact cycle"},
-    {"t":527,"rule":"keep the mini-comic edition distinct from later bound and serialized versions"},
-    {"t":544,"rule":"verify exact Comics Journal issue and list before citation"},
-    {"t":584,"rule":"do not publish live-read praise as an exact quotation without printed transcription"},
-    {"t":622,"rule":"verify Robert Young and The Comics Interpreter credit/source"},
-    {"t":657,"rule":"audio-check damaged autobiographical phrase before literal clean replacement"},
-    {"t":679,"rule":"leave the damaged comic/art comparison unresolved"},
-    {"t":706,"rule":"keep masturbation/abstinence material out of neutral book and education metadata"},
-    {"t":716,"rule":"do not generalize the prison-return story into reentry psychology or legal guidance"},
-    {"t":725,"rule":"do not promote sticker placement on mailboxes or property as an art exercise"},
-    {"t":790,"rule":"verify jewelry clients and credits before adding them to a career timeline"},
-    {"t":806,"rule":"minimize family residence and move details beyond necessary story context"},
-    {"t":823,"rule":"do not rank the explicit spread as objectively most famous"},
-    {"t":829,"rule":"do not recommend explicit pages for students without audience, context and rights review"},
-    {"t":869,"rule":"leave the damaged Wizard-related name/phrase unresolved"},
-    {"t":981,"rule":"treat Yumi as a story character; do not identity-resolve her"},
-    {"t":999,"rule":"audio/video-verify the probable Dirty Hands reference"},
-    {"t":1059,"rule":"do not identity-resolve the prior girlfriend or infer her account from Choe's comic"},
-    {"t":1158,"rule":"do not expose private relationship trails or present annual waiting as romantic guidance"},
-    {"t":1203,"rule":"keep assault and abduction within comic-plot context unless literal events are independently established"},
-    {"t":1263,"rule":"do not add suicide plot to Choe biography without primary corroboration"},
-    {"t":1273,"rule":"do not excerpt unauthorized hotel entry as a refuge tactic"},
-    {"t":1306,"rule":"verify image sources and rights before reproducing Mondrian/Rockwell-derived pages"},
-    {"t":1385,"rule":"verify every Xeric recipient and work title from primary grant records"},
-    {"t":1427,"rule":"do not guess the damaged recipient/title"},
-    {"t":1472,"rule":"do not treat the hosts' half-of-output estimate as a complete comics census"},
-    {"t":1521,"rule":"exclude Kayfabe-effect scarcity language from appraisals and current recommendations"},
-    {"t":1535,"rule":"label newsletter and merchandise calls as historic outro material"}
-  ]
+  "themes": [
+    "small-press publication",
+    "Xeric Grant",
+    "mixed-media comics",
+    "photocopy process",
+    "autobiographical framing",
+    "revenge and anticlimax",
+    "infatuation and fantasy",
+    "sexual self-portraiture",
+    "self-harm in fiction",
+    "alternative-comics criticism",
+    "physical-book evidence",
+    "scarcity and collecting"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Cartoonist Kayfabe introduction"
+    },
+    {
+      "t": 23,
+      "title": "SPX 2000 physical anthology"
+    },
+    {
+      "t": 52,
+      "title": "Charles Burns cover and contributor sequence"
+    },
+    {
+      "t": 74,
+      "title": "Choe's short SPX story and pasted lettering"
+    },
+    {
+      "t": 86,
+      "title": "Photocopy-darkened drawing hypothesis"
+    },
+    {
+      "t": 92,
+      "title": "Skateboard confrontation plot"
+    },
+    {
+      "t": 122,
+      "title": "Jordan Crane's NON #4"
+    },
+    {
+      "t": 128,
+      "title": "Slow Jams across NON #3 and #4"
+    },
+    {
+      "t": 136,
+      "title": "Uncertain Choe-Crane meeting history"
+    },
+    {
+      "t": 144,
+      "title": "Mini-comic and zine antecedent"
+    },
+    {
+      "t": 155,
+      "title": "Late-1990s independent-comics context"
+    },
+    {
+      "t": 181,
+      "title": "Promise of a page-by-page Slow Jams reading"
+    },
+    {
+      "t": 201,
+      "title": "NON #5 package"
+    },
+    {
+      "t": 207,
+      "title": "Silkscreened wraparound cover"
+    },
+    {
+      "t": 211,
+      "title": "Xeric-supported books inside"
+    },
+    {
+      "t": 224,
+      "title": "Date guess corrected by the printed object"
+    },
+    {
+      "t": 245,
+      "title": "NON #5 dated 2001"
+    },
+    {
+      "t": 258,
+      "title": "Graffiti and photocopy craft reading"
+    },
+    {
+      "t": 271,
+      "title": "Bicycle story begins"
+    },
+    {
+      "t": 275,
+      "title": "End-table skateboard in woodshop"
+    },
+    {
+      "t": 280,
+      "title": "Purple bicycle from an aunt"
+    },
+    {
+      "t": 291,
+      "title": "Painting the bicycle black"
+    },
+    {
+      "t": 309,
+      "title": "The bicycle is stolen"
+    },
+    {
+      "t": 315,
+      "title": "Photocopier distortion"
+    },
+    {
+      "t": 326,
+      "title": "Cut-and-paste versus painted lettering"
+    },
+    {
+      "t": 342,
+      "title": "Scott McCloud transition framework"
+    },
+    {
+      "t": 355,
+      "title": "Bicycle found about two years later"
+    },
+    {
+      "t": 363,
+      "title": "Waiting, following and threatening note"
+    },
+    {
+      "t": 389,
+      "title": "Action silhouette and Daredevil analogy"
+    },
+    {
+      "t": 403,
+      "title": "Repeated image compositions"
+    },
+    {
+      "t": 417,
+      "title": "Following the rider home"
+    },
+    {
+      "t": 426,
+      "title": "Confrontation with the female rider"
+    },
+    {
+      "t": 430,
+      "title": "Masked profanity remains masked"
+    },
+    {
+      "t": 432,
+      "title": "Destroying the bicycle with a hammer"
+    },
+    {
+      "t": 440,
+      "title": "Revenge proves unsatisfying"
+    },
+    {
+      "t": 465,
+      "title": "Autobio comics live or die by narration"
+    },
+    {
+      "t": 471,
+      "title": "Anticlimax as the protagonist's feeling"
+    },
+    {
+      "t": 491,
+      "title": "NON as Kramers Ergot predecessor"
+    },
+    {
+      "t": 502,
+      "title": "Steve Ballmer and Kayfabe-effect joke"
+    },
+    {
+      "t": 512,
+      "title": "Copy-for-sale performance"
+    },
+    {
+      "t": 515,
+      "title": "Howard Stern audience joke"
+    },
+    {
+      "t": 520,
+      "title": "Slow Jams and 1999 publication claim"
+    },
+    {
+      "t": 522,
+      "title": "Xeric Grant and perfect-bound edition"
+    },
+    {
+      "t": 527,
+      "title": "Earlier mini-comic version"
+    },
+    {
+      "t": 533,
+      "title": "Jordan Crane and NON pathway"
+    },
+    {
+      "t": 544,
+      "title": "The Comics Journal best-of-1999 issue"
+    },
+    {
+      "t": 566,
+      "title": "Weasel #1 and Al Columbia"
+    },
+    {
+      "t": 584,
+      "title": "James Kochalka praise"
+    },
+    {
+      "t": 604,
+      "title": "Scott McCloud praise"
+    },
+    {
+      "t": 622,
+      "title": "Robert Young and The Comics Interpreter"
+    },
+    {
+      "t": 629,
+      "title": "Jaime Hernandez Locas comparison"
+    },
+    {
+      "t": 657,
+      "title": "Strong autobiographical debut"
+    },
+    {
+      "t": 679,
+      "title": "Skin-like material comparison remains unresolved"
+    },
+    {
+      "t": 686,
+      "title": "Brendan McCarthy and Carol Swain comparisons"
+    },
+    {
+      "t": 706,
+      "title": "Found text about masturbation abstinence"
+    },
+    {
+      "t": 716,
+      "title": "Prison release and deliberate return short"
+    },
+    {
+      "t": 725,
+      "title": "Sticker-art encouragement"
+    },
+    {
+      "t": 741,
+      "title": "Paul Pope and personality pages"
+    },
+    {
+      "t": 753,
+      "title": "Main story resumes"
+    },
+    {
+      "t": 760,
+      "title": "Near-black ink, photocopy and mixed materials"
+    },
+    {
+      "t": 771,
+      "title": "Driving at night and floating in space"
+    },
+    {
+      "t": 790,
+      "title": "Jewelry work for hip-hop artists"
+    },
+    {
+      "t": 806,
+      "title": "Oakland to Los Angeles and parents' home"
+    },
+    {
+      "t": 819,
+      "title": "The best-known sequence claim"
+    },
+    {
+      "t": 823,
+      "title": "Two-page masturbation sequence"
+    },
+    {
+      "t": 829,
+      "title": "Classroom use reconsidered"
+    },
+    {
+      "t": 855,
+      "title": "Wizard #44 and Gen¹³ reference"
+    },
+    {
+      "t": 884,
+      "title": "Chester Brown comparison"
+    },
+    {
+      "t": 919,
+      "title": "Dinner-party invitation"
+    },
+    {
+      "t": 949,
+      "title": "Graffiti Kitchen immediacy"
+    },
+    {
+      "t": 981,
+      "title": "Yumi becomes the focal point"
+    },
+    {
+      "t": 989,
+      "title": "Bathroom cleanup and mirror singing"
+    },
+    {
+      "t": 999,
+      "title": "Dirty Hands and Bourdain reference"
+    },
+    {
+      "t": 1021,
+      "title": "Last Supper collage"
+    },
+    {
+      "t": 1049,
+      "title": "Infatuation becomes prior-heartbreak reflection"
+    },
+    {
+      "t": 1094,
+      "title": "Letter and montage"
+    },
+    {
+      "t": 1119,
+      "title": "Daniel Clowes comparison"
+    },
+    {
+      "t": 1131,
+      "title": "Yumi leaves with her boyfriend"
+    },
+    {
+      "t": 1142,
+      "title": "Letter routed through friends"
+    },
+    {
+      "t": 1158,
+      "title": "Annual Mann's Chinese Theatre promise"
+    },
+    {
+      "t": 1163,
+      "title": "Five-year success fantasy"
+    },
+    {
+      "t": 1187,
+      "title": "Yumi finally appears"
+    },
+    {
+      "t": 1203,
+      "title": "The reunion is an attack ruse"
+    },
+    {
+      "t": 1221,
+      "title": "Beating, trunk and abduction"
+    },
+    {
+      "t": 1227,
+      "title": "Stray Bullets comparison"
+    },
+    {
+      "t": 1235,
+      "title": "La Brea Tar Pits murder threat"
+    },
+    {
+      "t": 1250,
+      "title": "Rescue and hospital"
+    },
+    {
+      "t": 1263,
+      "title": "Suicidal turn"
+    },
+    {
+      "t": 1271,
+      "title": "Post-hospital fantasy section"
+    },
+    {
+      "t": 1273,
+      "title": "Unauthorized hotel entry"
+    },
+    {
+      "t": 1279,
+      "title": "Reaffirmation of life"
+    },
+    {
+      "t": 1298,
+      "title": "Mondrian blood-splatter fantasy"
+    },
+    {
+      "t": 1306,
+      "title": "Modified Norman Rockwell image"
+    },
+    {
+      "t": 1315,
+      "title": "Letters, thanks and process notes"
+    },
+    {
+      "t": 1322,
+      "title": "Xeric Foundation acknowledgement"
+    },
+    {
+      "t": 1331,
+      "title": "Book's lasting critical impact"
+    },
+    {
+      "t": 1341,
+      "title": "Zines and pivotal reading direction"
+    },
+    {
+      "t": 1347,
+      "title": "The Comics Journal as checklist"
+    },
+    {
+      "t": 1385,
+      "title": "1999 Xeric Grant list"
+    },
+    {
+      "t": 1402,
+      "title": "Tom Scioli and The Myth of 8-Opus"
+    },
+    {
+      "t": 1412,
+      "title": "Nick Bertozzi, Leela Corman and Jason Shiga"
+    },
+    {
+      "t": 1427,
+      "title": "Unresolved recipient or title"
+    },
+    {
+      "t": 1446,
+      "title": "Bigger-and-better career judgment"
+    },
+    {
+      "t": 1472,
+      "title": "Hosts estimate the size of Choe's comics output"
+    },
+    {
+      "t": 1484,
+      "title": "Inspiration, looseness and fear"
+    },
+    {
+      "t": 1507,
+      "title": "Channel outro begins"
+    },
+    {
+      "t": 1521,
+      "title": "Kayfabe-effect scarcity pitch"
+    },
+    {
+      "t": 1535,
+      "title": "Newsletter and merchandise calls"
+    },
+    {
+      "t": 1549,
+      "title": "Read more comics"
+    }
+  ],
+  "connections": [
+    {
+      "t": 23,
+      "to": "small-press ecosystems",
+      "relationship": "SPX 2000 situates Choe among a dense alternative-comics cohort rather than treating him as an isolated celebrity artist."
+    },
+    {
+      "t": 76,
+      "to": "mixed-media lettering",
+      "relationship": "Pasted text and hand lettering show the page as assembled object, not only drawing."
+    },
+    {
+      "t": 128,
+      "to": "serialization",
+      "relationship": "NON #3 and #4 connect a self-made mini-comic to a curated anthology audience."
+    },
+    {
+      "t": 201,
+      "to": "book as object",
+      "relationship": "NON #5's silkscreened package makes binding and production part of the archive evidence."
+    },
+    {
+      "t": 271,
+      "to": "autobiographical fiction",
+      "relationship": "The bicycle story uses Choe's persona while the archive resists treating every plot event as literal biography."
+    },
+    {
+      "t": 342,
+      "to": "comics grammar",
+      "relationship": "The hosts use McCloud's transition framework to explain why Choe's image links feel less cinematic and more associative."
+    },
+    {
+      "t": 363,
+      "to": "revenge fantasy",
+      "relationship": "Waiting and a threatening note build anticipation that ends in emotional failure rather than triumph."
+    },
+    {
+      "t": 432,
+      "to": "property violence",
+      "relationship": "Destroying the recovered bicycle preserves the injury without resolving the protagonist's loss."
+    },
+    {
+      "t": 465,
+      "to": "narration",
+      "relationship": "The hosts argue visual experiment works because autobiographical narration keeps emotional orientation."
+    },
+    {
+      "t": 520,
+      "to": "Slow Jams editions",
+      "relationship": "The perfect-bound book is linked backward to a mini-comic and sideways to NON serialization."
+    },
+    {
+      "t": 544,
+      "to": "critical discovery",
+      "relationship": "A best-of issue functions as a pre-algorithm recommendation system for alternative comics."
+    },
+    {
+      "t": 584,
+      "to": "contemporary reception",
+      "relationship": "Kochalka, McCloud and Young quotations show multiple critical vocabularies attaching to the debut."
+    },
+    {
+      "t": 629,
+      "to": "Locas",
+      "relationship": "Street sensibility and believable characters prompt a comparison with Jaime Hernandez rather than a claim of direct influence."
+    },
+    {
+      "t": 706,
+      "to": "collage and found text",
+      "relationship": "An abstinence text becomes visual material inside an explicitly sexual autobiographical book."
+    },
+    {
+      "t": 716,
+      "to": "institutional alienation",
+      "relationship": "A released prisoner choosing a return is presented as a short fictional tragedy, not a universal claim about reentry."
+    },
+    {
+      "t": 823,
+      "to": "time on the comics page",
+      "relationship": "The masturbation spread makes duration calculable through repeated actions and linked images."
+    },
+    {
+      "t": 829,
+      "to": "teaching and audience",
+      "relationship": "Formal innovation does not by itself settle whether an explicit page belongs in a classroom."
+    },
+    {
+      "t": 981,
+      "to": "drawing attention",
+      "relationship": "A detailed face within visual chaos demonstrates how Choe controls focal hierarchy."
+    },
+    {
+      "t": 1158,
+      "to": "romantic ritual",
+      "relationship": "The annual meeting promise transforms a letter into a multi-year fantasy structure."
+    },
+    {
+      "t": 1203,
+      "to": "fantasy reversal",
+      "relationship": "A wished-for reunion turns into organized humiliation and violence."
+    },
+    {
+      "t": 1263,
+      "to": "self-harm in narrative",
+      "relationship": "The hospital escape and suicidal turn are plot events requiring context, not isolated biographical claims."
+    },
+    {
+      "t": 1279,
+      "to": "return to life",
+      "relationship": "The story moves from violent fantasy and self-destruction to a private reaffirmation rather than a clean rescue moral."
+    },
+    {
+      "t": 1385,
+      "to": "Xeric Foundation",
+      "relationship": "Grant evidence connects material production to a broader cohort of self-published cartoonists."
+    },
+    {
+      "t": 1484,
+      "to": "creative permission",
+      "relationship": "The hosts value Choe's looseness because it challenges their own fear of carrying sketchbook energy onto final pages."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 23,
+      "claim": "The anthology is SPX 2000 and Tom Devlin edited it.",
+      "assessment": "Confirm title, editor and contributor order from the physical book/indicia; the hosts visibly handle it.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 128,
+      "claim": "Slow Jams appeared across NON #3 and #4 after Jordan Crane saw Choe's mini-comic.",
+      "assessment": "The objects support appearance; exact discovery/meeting history needs Crane, Choe or contemporary editorial documentation.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 201,
+      "claim": "NON #5 contains the described Choe bicycle story and Xeric-supported inserts.",
+      "assessment": "Use the physical issue's contents and colophon for exact story title, creators, date and package components.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 271,
+      "claim": "Every event in the bicycle story happened literally to Choe.",
+      "assessment": "The hosts call the work autobiographical, but a comic protagonist and narrated event remain page evidence unless independently established.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 520,
+      "claim": "Slow Jams was published in 1999 through a Xeric Grant after a zine edition.",
+      "assessment": "Verify year, grant cycle, publisher, print format and edition order from indicia, Xeric records and surviving copies.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 584,
+      "claim": "The spoken Kochalka, McCloud and Young passages are exact quotations.",
+      "assessment": "Automatic captions and live reading can alter words; transcribe from the printed Comics Journal source before quotation.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 823,
+      "claim": "This is Choe's most famous comics sequence.",
+      "assessment": "It is the hosts' critical/fame judgment, useful for curation but not an objective ranking.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 999,
+      "claim": "The damaged line references the documentary Dirty Hands.",
+      "assessment": "Context strongly suggests the title, but audio and the visible page should be checked before clean promotion.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 1059,
+      "claim": "The first-girlfriend and Yumi sequences identify real private people and literal events.",
+      "assessment": "Treat them as comic characters and autobiographical framing; do not identity-resolve from relationship clues.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 1263,
+      "claim": "Choe literally attempted suicide and entered a hotel as depicted.",
+      "assessment": "These are plot events in the hosts' reading; do not add them to a biographical timeline without primary corroboration.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 1385,
+      "claim": "Choe received the March 1999 Xeric Grant and the named cartoonists were in the stated cycle.",
+      "assessment": "Verify cycle, work titles and recipient list against Xeric Foundation records; one spoken name/title remains badly damaged.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    },
+    {
+      "t": 1521,
+      "claim": "The episode made Slow Jams prices rise.",
+      "assessment": "The Kayfabe effect is channel banter and a scarcity pitch, not a controlled appraisal or current market record.",
+      "source": "https://www.youtube.com/watch?v=3AtrUOQcmck"
+    }
+  ],
+  "content_warnings": [
+    "explicit masturbation discussion",
+    "sexual autobiographical material",
+    "violent assault in comic plot",
+    "abduction in comic plot",
+    "murder threat in comic plot",
+    "suicidal plot turn",
+    "hospital flight",
+    "unauthorized hotel entry",
+    "property destruction",
+    "threatening note and following",
+    "prison and reentry",
+    "sticker vandalism encouragement",
+    "publisher-masked profanity",
+    "private relationship characters",
+    "family and residence context",
+    "graphic injury description",
+    "scarcity and price pressure",
+    "classroom suitability concerns",
+    "copyrighted page/image discussion",
+    "autobiography-versus-fiction ambiguity",
+    "celebrity audience jokes",
+    "dated commerce calls"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "publish no named line-level turns before held-out acoustic/video validation"
+    },
+    {
+      "t": 23,
+      "rule": "verify SPX title, editor, contributors and sequence from the physical object"
+    },
+    {
+      "t": 74,
+      "rule": "separate visible page features from inferred drawing materials"
+    },
+    {
+      "t": 92,
+      "rule": "do not treat comic-child characters as identity-searchable real people"
+    },
+    {
+      "t": 128,
+      "rule": "verify NON issue numbers, serialization order and story titles from contents pages"
+    },
+    {
+      "t": 136,
+      "rule": "do not canonicalize the uncertain Comic-Con meeting story"
+    },
+    {
+      "t": 144,
+      "rule": "do not merge mini-comic, zine, serialization and perfect-bound edition into one object"
+    },
+    {
+      "t": 168,
+      "rule": "never reconstruct publisher-masked profanity"
+    },
+    {
+      "t": 201,
+      "rule": "verify NON #5 package components and date from colophon/object"
+    },
+    {
+      "t": 224,
+      "rule": "prefer the printed 2001 date over the host's earlier circa-2003 guess"
+    },
+    {
+      "t": 230,
+      "rule": "do not surname-resolve Jason without page or credits"
+    },
+    {
+      "t": 258,
+      "rule": "treat graffiti influence as host interpretation, not exhaustive cultural identity"
+    },
+    {
+      "t": 271,
+      "rule": "do not convert autobiographical comic framing into literal biography automatically"
+    },
+    {
+      "t": 363,
+      "rule": "do not excerpt waiting, following or threatening-note conduct as tactics"
+    },
+    {
+      "t": 426,
+      "rule": "do not identity-resolve the female bicycle-story character"
+    },
+    {
+      "t": 432,
+      "rule": "keep hammer/property violence in its failed-revenge context"
+    },
+    {
+      "t": 471,
+      "rule": "preserve the story's stated anticlimax rather than glamorizing revenge"
+    },
+    {
+      "t": 502,
+      "rule": "do not claim Steve Ballmer watched the episode"
+    },
+    {
+      "t": 512,
+      "rule": "do not convert host sales banter into provenance, value or availability fact"
+    },
+    {
+      "t": 515,
+      "rule": "do not claim Howard Stern watched the episode"
+    },
+    {
+      "t": 520,
+      "rule": "verify Slow Jams year and edition from indicia before timeline promotion"
+    },
+    {
+      "t": 522,
+      "rule": "use Xeric Grant rather than prize/award and verify exact cycle"
+    },
+    {
+      "t": 527,
+      "rule": "keep the mini-comic edition distinct from later bound and serialized versions"
+    },
+    {
+      "t": 544,
+      "rule": "verify exact Comics Journal issue and list before citation"
+    },
+    {
+      "t": 584,
+      "rule": "do not publish live-read praise as an exact quotation without printed transcription"
+    },
+    {
+      "t": 622,
+      "rule": "verify Robert Young and The Comics Interpreter credit/source"
+    },
+    {
+      "t": 657,
+      "rule": "audio-check damaged autobiographical phrase before literal clean replacement"
+    },
+    {
+      "t": 679,
+      "rule": "leave the damaged comic/art comparison unresolved"
+    },
+    {
+      "t": 706,
+      "rule": "keep masturbation/abstinence material out of neutral book and education metadata"
+    },
+    {
+      "t": 716,
+      "rule": "do not generalize the prison-return story into reentry psychology or legal guidance"
+    },
+    {
+      "t": 725,
+      "rule": "do not promote sticker placement on mailboxes or property as an art exercise"
+    },
+    {
+      "t": 790,
+      "rule": "verify jewelry clients and credits before adding them to a career timeline"
+    },
+    {
+      "t": 806,
+      "rule": "minimize family residence and move details beyond necessary story context"
+    },
+    {
+      "t": 823,
+      "rule": "do not rank the explicit spread as objectively most famous"
+    },
+    {
+      "t": 829,
+      "rule": "do not recommend explicit pages for students without audience, context and rights review"
+    },
+    {
+      "t": 869,
+      "rule": "leave the damaged Wizard-related name/phrase unresolved"
+    },
+    {
+      "t": 981,
+      "rule": "treat Yumi as a story character; do not identity-resolve her"
+    },
+    {
+      "t": 999,
+      "rule": "audio/video-verify the probable Dirty Hands reference"
+    },
+    {
+      "t": 1059,
+      "rule": "do not identity-resolve the prior girlfriend or infer her account from Choe's comic"
+    },
+    {
+      "t": 1158,
+      "rule": "do not expose private relationship trails or present annual waiting as romantic guidance"
+    },
+    {
+      "t": 1203,
+      "rule": "keep assault and abduction within comic-plot context unless literal events are independently established"
+    },
+    {
+      "t": 1263,
+      "rule": "do not add suicide plot to Choe biography without primary corroboration"
+    },
+    {
+      "t": 1273,
+      "rule": "do not excerpt unauthorized hotel entry as a refuge tactic"
+    },
+    {
+      "t": 1306,
+      "rule": "verify image sources and rights before reproducing Mondrian/Rockwell-derived pages"
+    },
+    {
+      "t": 1385,
+      "rule": "verify every Xeric recipient and work title from primary grant records"
+    },
+    {
+      "t": 1427,
+      "rule": "do not guess the damaged recipient/title"
+    },
+    {
+      "t": 1472,
+      "rule": "do not treat the hosts' half-of-output estimate as a complete comics census"
+    },
+    {
+      "t": 1521,
+      "rule": "exclude Kayfabe-effect scarcity language from appraisals and current recommendations"
+    },
+    {
+      "t": 1535,
+      "rule": "label newsletter and merchandise calls as historic outro material"
+    }
+  ],
+  "description": "Jim Rugg and Ed Piskor inspect physical copies of SPX 2000, NON and the Xeric edition of Slow Jams, tracing David Choe's short comics path while reading his collage, photocopy, lettering and autobiographical techniques.",
+  "description_source": "Opening of the human-reviewed summary."
 }

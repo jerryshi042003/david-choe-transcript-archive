@@ -1,0 +1,63 @@
+{
+  "episode_id": "qs1yRqLkRm4",
+  "title": "These Are My People - MANGCHI",
+  "reviewed_on": "2026-08-13",
+  "description": "Mangchi’s These Are My People moves from lower-astral-plane and reptilian imagery through explicit surreal birth lyrics into the repeated chosen-community refrain.",
+  "summary": "Mangchi’s These Are My People moves from lower-astral-plane and reptilian imagery through explicit surreal birth lyrics into the repeated chosen-community refrain. The chapter map follows the recoverable route timeline; lyrics and visually dependent action remain limited where the automatic transcript is damaged.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Lower astral plane"
+    },
+    {
+      "t": 83,
+      "title": "Surreal fluorescent birth verse"
+    },
+    {
+      "t": 181,
+      "title": "These are the people refrain"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Steve Lee"
+  ],
+  "places": [],
+  "works": [
+    "Mangchi",
+    "These Are My People"
+  ],
+  "themes": [
+    "chosen community",
+    "occult imagery",
+    "surreal lyrics"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [
+    "explicit sexual and birth imagery",
+    "conspiracy and reptilian language"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 9,
+    "duration_seconds": 180.6,
+    "chapters": 3,
+    "named_turns": 0,
+    "transcript_limited": false
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

@@ -50,163 +50,648 @@
     "named_turns": 0
   },
   "chapters": [
-    {"t": 5, "title": "Parody-song cold open"},
-    {"t": 53, "title": "DVDASA introduction"},
-    {"t": 65, "title": "Three-million-dollar necklace teaser"},
-    {"t": 90, "title": "Bobby Trivia alone at the microphone"},
-    {"t": 100, "title": "Morning meetings and rich-person problems"},
-    {"t": 166, "title": "Fogo de Chão and hunger"},
-    {"t": 220, "title": "Saving friendship conversation for the podcast"},
-    {"t": 300, "title": "Avoiding guests before recording"},
-    {"t": 342, "title": "New guest enters uncertain of the format"},
-    {"t": 420, "title": "Back-to-back eight-hour recording days"},
-    {"t": 434, "title": "Copenhagen and Oslo beauty stereotypes"},
-    {"t": 500, "title": "Norwegian family and disability jokes"},
-    {"t": 532, "title": "Blue-eye ancestry claim"},
-    {"t": 600, "title": "Chinatown McDonald's story"},
-    {"t": 669, "title": "Money Mark arrives"},
-    {"t": 708, "title": "Maximum Hedrum bassist introduced"},
-    {"t": 730, "title": "Adam Lambert tour reference"},
-    {"t": 770, "title": "Casual format and missing theme"},
-    {"t": 790, "title": "Cro-Mags correction"},
-    {"t": 800, "title": "Affairs proposed as the topic"},
-    {"t": 850, "title": "Guest tries to withhold affair"},
-    {"t": 892, "title": "Heather chosen as a protective alias"},
-    {"t": 920, "title": "Heather Leather improvisation"},
-    {"t": 966, "title": "Full ensemble introduction"},
-    {"t": 1000, "title": "Bobby Hundreds introduced"},
-    {"t": 1045, "title": "Maximum Hedrum history"},
-    {"t": 1054, "title": "Alfredo Ortiz, Sam Spiegel, and Derrick Green"},
-    {"t": 1100, "title": "Heather's career clues begin defeating the alias"},
-    {"t": 1135, "title": "Bass height and stage posture"},
-    {"t": 1189, "title": "Jaco Pastorius correction"},
-    {"t": 1200, "title": "Korn and low-slung instruments"},
-    {"t": 1250, "title": "Sitting on the bass amplifier"},
-    {"t": 1290, "title": "Human 808 and five-string bass"},
-    {"t": 1340, "title": "Childhood drawing and pornography"},
-    {"t": 1390, "title": "Unexpected filming and affair pressure"},
-    {"t": 1420, "title": "Stüssy and early streetwear memory"},
-    {"t": 1440, "title": "T&C, Thrilla Gorilla, and Jimmy'Z"},
-    {"t": 1496, "title": "The Hundreds and Ben Hundreds"},
-    {"t": 1530, "title": "Biggest streetwear company claim disputed"},
-    {"t": 1580, "title": "Clothes as recognition signal"},
-    {"t": 1625, "title": "Founding year corrected to 2003"},
-    {"t": 1688, "title": "Asa's apartment burglary story"},
-    {"t": 1740, "title": "Rich Korean friendship and parents"},
-    {"t": 1800, "title": "Immigrant-generation terminology"},
-    {"t": 1850, "title": "Asian American childhood generalized"},
-    {"t": 1900, "title": "The Hundreds in music videos"},
-    {"t": 1960, "title": "Filipino audience and streetwear support"},
-    {"t": 2020, "title": "Ben Baller introduced"},
-    {"t": 2078, "title": "$3,115,000 chain story"},
-    {"t": 2112, "title": "Tungsten, crystals, and gold plating"},
-    {"t": 2140, "title": "April Fools ambiguity"},
-    {"t": 2200, "title": "Jewelry and engagement advice"},
-    {"t": 2240, "title": "Diamond resale value"},
-    {"t": 2290, "title": "False CZ indistinguishability claim"},
-    {"t": 2377, "title": "Unverified television comparison test"},
-    {"t": 2440, "title": "Deceptive ring strategy"},
-    {"t": 2510, "title": "Heather's marriage begins"},
-    {"t": 2600, "title": "Long-distance proposal chronology"},
-    {"t": 2700, "title": "Former spouse identity clues withheld"},
-    {"t": 2820, "title": "Marriage shifts toward friendship"},
-    {"t": 2940, "title": "Sex frequency and invasive questions"},
-    {"t": 3040, "title": "Tattoo placement and body inspection"},
-    {"t": 3120, "title": "Fear of finding love after divorce"},
-    {"t": 3220, "title": "Tattoo means parental divorce joke"},
-    {"t": 3300, "title": "Relationship intimacy over time"},
-    {"t": 3420, "title": "One affair over six months"},
-    {"t": 3500, "title": "Affair partner and rebound boundaries"},
-    {"t": 3520, "title": "Private partner alias revisited"},
-    {"t": 3600, "title": "Urethral sounding discussion"},
-    {"t": 3660, "title": "Unsafe insertion anecdotes"},
-    {"t": 3700, "title": "Then-unannounced memoir"},
-    {"t": 3720, "title": "Private manuscript letter read aloud"},
-    {"t": 3780, "title": "Divorced, vulnerable, and dating"},
-    {"t": 3850, "title": "Spouse preferences and hypothetical threesome"},
-    {"t": 3940, "title": "Marriage advice rejected"},
-    {"t": 4010, "title": "Masturbation followed by grief"},
-    {"t": 4080, "title": "Crying treated as sexual material"},
-    {"t": 4130, "title": "Racialized sexual invitation"},
-    {"t": 4180, "title": "Pornography hiatus"},
-    {"t": 4250, "title": "Jess Greenberg guitar videos"},
-    {"t": 4330, "title": "Miley Cyrus and Wrecking Ball"},
-    {"t": 4390, "title": "Anne Hathaway likability debate"},
-    {"t": 4440, "title": "Witchcraft tattoo speculation"},
-    {"t": 4500, "title": "Scrambled pornography and HD"},
-    {"t": 4620, "title": "Audio pornography proposed"},
-    {"t": 4670, "title": "Bloody Dream song begins"},
-    {"t": 4760, "title": "Improvised explicit lyrics"},
-    {"t": 4860, "title": "Sadness folded into performance"},
-    {"t": 4935, "title": "Post-song emotional check-in"},
-    {"t": 5010, "title": "Heather's travel and music goals"},
-    {"t": 5070, "title": "Groupies declined"},
-    {"t": 5150, "title": "Money Mark's many collaborations"},
-    {"t": 5200, "title": "Myers–Briggs introversion discussion"},
-    {"t": 5310, "title": "Recognition while with family"},
-    {"t": 5400, "title": "Fame versus freedom"},
-    {"t": 5500, "title": "House arrest and jail romanticized"},
-    {"t": 5600, "title": "Changing phone, email, and social accounts"},
-    {"t": 5700, "title": "Digital silence and long flights"},
-    {"t": 5750, "title": "Copenhagen chefs and David Chang"},
-    {"t": 5840, "title": "Filipino audience stereotypes"},
-    {"t": 5900, "title": "Charmane Star correction"},
-    {"t": 6000, "title": "Interracial dating and wealth"},
-    {"t": 6070, "title": "Fake pregnancy-test trap"},
-    {"t": 6200, "title": "Unsupported transgender percentage"},
-    {"t": 6240, "title": "Middle-school dry-humping story"},
-    {"t": 6370, "title": "False semen-diabetes test"},
-    {"t": 6430, "title": "Ants and household sanitation"},
-    {"t": 6540, "title": "Heather ranked against cast members"},
-    {"t": 6590, "title": "Orientation and sex-toy stereotypes"},
-    {"t": 6700, "title": "Critter selected in the on-air ranking"},
-    {"t": 6810, "title": "Sexualized anger and threats"},
-    {"t": 6960, "title": "Crying sorry daddy threat"},
-    {"t": 7020, "title": "Lay on the beanbag pressure"},
-    {"t": 7095, "title": "Heather and Critter say the pressure is uncomfortable"},
-    {"t": 7140, "title": "Normal women and sex-worker dichotomy"},
-    {"t": 7200, "title": "Ear-smelling trivia rule"},
-    {"t": 7280, "title": "Sexless marriage clarified"},
-    {"t": 7390, "title": "Love and friendship after divorce"},
-    {"t": 7440, "title": "Trivia with Bobby begins"},
-    {"t": 7501, "title": "T.I.'s Whatever You Like"},
-    {"t": 7550, "title": "Ministry and matchmaking transition"},
-    {"t": 7590, "title": "Absent employee recruited as a date"},
-    {"t": 7629, "title": "Rape threat recounted as strength"},
-    {"t": 7700, "title": "Endurance and erectile history disclosed"},
-    {"t": 7770, "title": "Sex duration debate"},
-    {"t": 7818, "title": "Led Zeppelin's D'yer Mak'er"},
-    {"t": 7840, "title": "Impossible St. Vincent self-titled guess"},
-    {"t": 7850, "title": "Luniz and Guns N' Roses"},
-    {"t": 7900, "title": "Famous Bobbies trivia"},
-    {"t": 7970, "title": "Matsuhisa and Benihana"},
-    {"t": 8000, "title": "Nate 'n Al's resolved"},
-    {"t": 8050, "title": "Ear odor penalty performed"},
-    {"t": 8135, "title": "Bloody Dream closing jam"},
-    {"t": 8173, "title": "Formal cast outro"},
-    {"t": 8198, "title": "Post-outro story coda"}
+    {
+      "t": 5,
+      "title": "Parody-song cold open"
+    },
+    {
+      "t": 53,
+      "title": "DVDASA introduction"
+    },
+    {
+      "t": 65,
+      "title": "Three-million-dollar necklace teaser"
+    },
+    {
+      "t": 90,
+      "title": "Bobby Trivia alone at the microphone"
+    },
+    {
+      "t": 100,
+      "title": "Morning meetings and rich-person problems"
+    },
+    {
+      "t": 166,
+      "title": "Fogo de Chão and hunger"
+    },
+    {
+      "t": 220,
+      "title": "Saving friendship conversation for the podcast"
+    },
+    {
+      "t": 300,
+      "title": "Avoiding guests before recording"
+    },
+    {
+      "t": 342,
+      "title": "New guest enters uncertain of the format"
+    },
+    {
+      "t": 420,
+      "title": "Back-to-back eight-hour recording days"
+    },
+    {
+      "t": 434,
+      "title": "Copenhagen and Oslo beauty stereotypes"
+    },
+    {
+      "t": 500,
+      "title": "Norwegian family and disability jokes"
+    },
+    {
+      "t": 532,
+      "title": "Blue-eye ancestry claim"
+    },
+    {
+      "t": 600,
+      "title": "Chinatown McDonald's story"
+    },
+    {
+      "t": 669,
+      "title": "Money Mark arrives"
+    },
+    {
+      "t": 708,
+      "title": "Maximum Hedrum bassist introduced"
+    },
+    {
+      "t": 730,
+      "title": "Adam Lambert tour reference"
+    },
+    {
+      "t": 770,
+      "title": "Casual format and missing theme"
+    },
+    {
+      "t": 790,
+      "title": "Cro-Mags correction"
+    },
+    {
+      "t": 800,
+      "title": "Affairs proposed as the topic"
+    },
+    {
+      "t": 850,
+      "title": "Guest tries to withhold affair"
+    },
+    {
+      "t": 892,
+      "title": "Heather chosen as a protective alias"
+    },
+    {
+      "t": 920,
+      "title": "Heather Leather improvisation"
+    },
+    {
+      "t": 966,
+      "title": "Full ensemble introduction"
+    },
+    {
+      "t": 1000,
+      "title": "Bobby Hundreds introduced"
+    },
+    {
+      "t": 1045,
+      "title": "Maximum Hedrum history"
+    },
+    {
+      "t": 1054,
+      "title": "Alfredo Ortiz, Sam Spiegel, and Derrick Green"
+    },
+    {
+      "t": 1100,
+      "title": "Heather's career clues begin defeating the alias"
+    },
+    {
+      "t": 1135,
+      "title": "Bass height and stage posture"
+    },
+    {
+      "t": 1189,
+      "title": "Jaco Pastorius correction"
+    },
+    {
+      "t": 1200,
+      "title": "Korn and low-slung instruments"
+    },
+    {
+      "t": 1250,
+      "title": "Sitting on the bass amplifier"
+    },
+    {
+      "t": 1290,
+      "title": "Human 808 and five-string bass"
+    },
+    {
+      "t": 1340,
+      "title": "Childhood drawing and pornography"
+    },
+    {
+      "t": 1390,
+      "title": "Unexpected filming and affair pressure"
+    },
+    {
+      "t": 1420,
+      "title": "Stüssy and early streetwear memory"
+    },
+    {
+      "t": 1440,
+      "title": "T&C, Thrilla Gorilla, and Jimmy'Z"
+    },
+    {
+      "t": 1496,
+      "title": "The Hundreds and Ben Hundreds"
+    },
+    {
+      "t": 1530,
+      "title": "Biggest streetwear company claim disputed"
+    },
+    {
+      "t": 1580,
+      "title": "Clothes as recognition signal"
+    },
+    {
+      "t": 1625,
+      "title": "Founding year corrected to 2003"
+    },
+    {
+      "t": 1688,
+      "title": "Asa's apartment burglary story"
+    },
+    {
+      "t": 1740,
+      "title": "Rich Korean friendship and parents"
+    },
+    {
+      "t": 1800,
+      "title": "Immigrant-generation terminology"
+    },
+    {
+      "t": 1850,
+      "title": "Asian American childhood generalized"
+    },
+    {
+      "t": 1900,
+      "title": "The Hundreds in music videos"
+    },
+    {
+      "t": 1960,
+      "title": "Filipino audience and streetwear support"
+    },
+    {
+      "t": 2020,
+      "title": "Ben Baller introduced"
+    },
+    {
+      "t": 2078,
+      "title": "$3,115,000 chain story"
+    },
+    {
+      "t": 2112,
+      "title": "Tungsten, crystals, and gold plating"
+    },
+    {
+      "t": 2140,
+      "title": "April Fools ambiguity"
+    },
+    {
+      "t": 2200,
+      "title": "Jewelry and engagement advice"
+    },
+    {
+      "t": 2240,
+      "title": "Diamond resale value"
+    },
+    {
+      "t": 2290,
+      "title": "False CZ indistinguishability claim"
+    },
+    {
+      "t": 2377,
+      "title": "Unverified television comparison test"
+    },
+    {
+      "t": 2440,
+      "title": "Deceptive ring strategy"
+    },
+    {
+      "t": 2510,
+      "title": "Heather's marriage begins"
+    },
+    {
+      "t": 2600,
+      "title": "Long-distance proposal chronology"
+    },
+    {
+      "t": 2700,
+      "title": "Former spouse identity clues withheld"
+    },
+    {
+      "t": 2820,
+      "title": "Marriage shifts toward friendship"
+    },
+    {
+      "t": 2940,
+      "title": "Sex frequency and invasive questions"
+    },
+    {
+      "t": 3040,
+      "title": "Tattoo placement and body inspection"
+    },
+    {
+      "t": 3120,
+      "title": "Fear of finding love after divorce"
+    },
+    {
+      "t": 3220,
+      "title": "Tattoo means parental divorce joke"
+    },
+    {
+      "t": 3300,
+      "title": "Relationship intimacy over time"
+    },
+    {
+      "t": 3420,
+      "title": "One affair over six months"
+    },
+    {
+      "t": 3500,
+      "title": "Affair partner and rebound boundaries"
+    },
+    {
+      "t": 3520,
+      "title": "Private partner alias revisited"
+    },
+    {
+      "t": 3600,
+      "title": "Urethral sounding discussion"
+    },
+    {
+      "t": 3660,
+      "title": "Unsafe insertion anecdotes"
+    },
+    {
+      "t": 3700,
+      "title": "Then-unannounced memoir"
+    },
+    {
+      "t": 3720,
+      "title": "Private manuscript letter read aloud"
+    },
+    {
+      "t": 3780,
+      "title": "Divorced, vulnerable, and dating"
+    },
+    {
+      "t": 3850,
+      "title": "Spouse preferences and hypothetical threesome"
+    },
+    {
+      "t": 3940,
+      "title": "Marriage advice rejected"
+    },
+    {
+      "t": 4010,
+      "title": "Masturbation followed by grief"
+    },
+    {
+      "t": 4080,
+      "title": "Crying treated as sexual material"
+    },
+    {
+      "t": 4130,
+      "title": "Racialized sexual invitation"
+    },
+    {
+      "t": 4180,
+      "title": "Pornography hiatus"
+    },
+    {
+      "t": 4250,
+      "title": "Jess Greenberg guitar videos"
+    },
+    {
+      "t": 4330,
+      "title": "Miley Cyrus and Wrecking Ball"
+    },
+    {
+      "t": 4390,
+      "title": "Anne Hathaway likability debate"
+    },
+    {
+      "t": 4440,
+      "title": "Witchcraft tattoo speculation"
+    },
+    {
+      "t": 4500,
+      "title": "Scrambled pornography and HD"
+    },
+    {
+      "t": 4620,
+      "title": "Audio pornography proposed"
+    },
+    {
+      "t": 4670,
+      "title": "Bloody Dream song begins"
+    },
+    {
+      "t": 4760,
+      "title": "Improvised explicit lyrics"
+    },
+    {
+      "t": 4860,
+      "title": "Sadness folded into performance"
+    },
+    {
+      "t": 4935,
+      "title": "Post-song emotional check-in"
+    },
+    {
+      "t": 5010,
+      "title": "Heather's travel and music goals"
+    },
+    {
+      "t": 5070,
+      "title": "Groupies declined"
+    },
+    {
+      "t": 5150,
+      "title": "Money Mark's many collaborations"
+    },
+    {
+      "t": 5200,
+      "title": "Myers–Briggs introversion discussion"
+    },
+    {
+      "t": 5310,
+      "title": "Recognition while with family"
+    },
+    {
+      "t": 5400,
+      "title": "Fame versus freedom"
+    },
+    {
+      "t": 5500,
+      "title": "House arrest and jail romanticized"
+    },
+    {
+      "t": 5600,
+      "title": "Changing phone, email, and social accounts"
+    },
+    {
+      "t": 5700,
+      "title": "Digital silence and long flights"
+    },
+    {
+      "t": 5750,
+      "title": "Copenhagen chefs and David Chang"
+    },
+    {
+      "t": 5840,
+      "title": "Filipino audience stereotypes"
+    },
+    {
+      "t": 5900,
+      "title": "Charmane Star correction"
+    },
+    {
+      "t": 6000,
+      "title": "Interracial dating and wealth"
+    },
+    {
+      "t": 6070,
+      "title": "Fake pregnancy-test trap"
+    },
+    {
+      "t": 6200,
+      "title": "Unsupported transgender percentage"
+    },
+    {
+      "t": 6240,
+      "title": "Middle-school dry-humping story"
+    },
+    {
+      "t": 6370,
+      "title": "False semen-diabetes test"
+    },
+    {
+      "t": 6430,
+      "title": "Ants and household sanitation"
+    },
+    {
+      "t": 6540,
+      "title": "Heather ranked against cast members"
+    },
+    {
+      "t": 6590,
+      "title": "Orientation and sex-toy stereotypes"
+    },
+    {
+      "t": 6700,
+      "title": "Critter selected in the on-air ranking"
+    },
+    {
+      "t": 6810,
+      "title": "Sexualized anger and threats"
+    },
+    {
+      "t": 6960,
+      "title": "Crying sorry daddy threat"
+    },
+    {
+      "t": 7020,
+      "title": "Lay on the beanbag pressure"
+    },
+    {
+      "t": 7095,
+      "title": "Heather and Critter say the pressure is uncomfortable"
+    },
+    {
+      "t": 7140,
+      "title": "Normal women and sex-worker dichotomy"
+    },
+    {
+      "t": 7200,
+      "title": "Ear-smelling trivia rule"
+    },
+    {
+      "t": 7280,
+      "title": "Sexless marriage clarified"
+    },
+    {
+      "t": 7390,
+      "title": "Love and friendship after divorce"
+    },
+    {
+      "t": 7440,
+      "title": "Trivia with Bobby begins"
+    },
+    {
+      "t": 7501,
+      "title": "T.I.'s Whatever You Like"
+    },
+    {
+      "t": 7550,
+      "title": "Ministry and matchmaking transition"
+    },
+    {
+      "t": 7590,
+      "title": "Absent employee recruited as a date"
+    },
+    {
+      "t": 7629,
+      "title": "Rape threat recounted as strength"
+    },
+    {
+      "t": 7700,
+      "title": "Endurance and erectile history disclosed"
+    },
+    {
+      "t": 7770,
+      "title": "Sex duration debate"
+    },
+    {
+      "t": 7818,
+      "title": "Led Zeppelin's D'yer Mak'er"
+    },
+    {
+      "t": 7840,
+      "title": "Impossible St. Vincent self-titled guess"
+    },
+    {
+      "t": 7850,
+      "title": "Luniz and Guns N' Roses"
+    },
+    {
+      "t": 7900,
+      "title": "Famous Bobbies trivia"
+    },
+    {
+      "t": 7970,
+      "title": "Matsuhisa and Benihana"
+    },
+    {
+      "t": 8000,
+      "title": "Nate 'n Al's resolved"
+    },
+    {
+      "t": 8050,
+      "title": "Ear odor penalty performed"
+    },
+    {
+      "t": 8135,
+      "title": "Bloody Dream closing jam"
+    },
+    {
+      "t": 8173,
+      "title": "Formal cast outro"
+    },
+    {
+      "t": 8198,
+      "title": "Post-outro story coda"
+    }
   ],
   "connections": [
-    {"from": 220, "to": "DVDASA format ledger", "relationship": "The cast explicitly saves ordinary friendship conversation for recording"},
-    {"from": 708, "to": "Episode 40 Maximum Hedrum", "relationship": "The band returns through its bassist, who uses a protective alias"},
-    {"from": 850, "to": "privacy and alias ledger", "relationship": "The guest requests a fake name before intimate disclosure, but the room leaks identifying clues"},
-    {"from": 1496, "to": "The Hundreds oral history", "relationship": "Bobby gives a first-person ten-year account alongside the brand's contemporary blog"},
-    {"from": 1688, "to": "residence and property privacy", "relationship": "A burglary account should not expose access or security metadata"},
-    {"from": 1740, "to": "wealth and family ledger", "relationship": "Public success becomes a prompt for private parental-finance comparison"},
-    {"from": 2078, "to": "The Hundreds April Fools archive", "relationship": "The official brand history resolves the chain's staged ambiguity"},
-    {"from": 2240, "to": "wealth and object-value ledger", "relationship": "Retail price, material value, signaling, security, and resale are conflated"},
-    {"from": 2730, "to": "protective-alias policy", "relationship": "Partner and career clues must be withheld together or the alias is cosmetic"},
-    {"from": 3220, "to": "body-modification ledger", "relationship": "Tattoos are repeatedly used as unsupported sexual and family diagnosis"},
-    {"from": 3520, "to": "Episodes 53–54 private-partner ledger", "relationship": "The recurring private anatomy story is retold to a new guest"},
-    {"from": 3700, "to": "Asa Akira publication timeline", "relationship": "The episode records a memoir manuscript before public announcement"},
-    {"from": 4010, "to": "grief and public intimacy ledger", "relationship": "A vulnerable masturbation account is turned into group sexual banter"},
-    {"from": 4670, "to": "DVDASA live-music ledger", "relationship": "The ensemble creates an original extended song from the guest's disclosures"},
-    {"from": 5310, "to": "fan-access boundaries", "relationship": "Recognition becomes stalking when it follows a guest around a family outing"},
-    {"from": 5600, "to": "digital withdrawal ledger", "relationship": "Bobby describes coordinated phone, email, Twitter, and access reset"},
-    {"from": 5750, "to": "MAD3 and David Chang", "relationship": "The Copenhagen chef gathering connects to Episode 56's MAD3 appearance"},
-    {"from": 6070, "to": "reproductive coercion ledger", "relationship": "A fake pregnancy and miscarriage become explicit trapping instructions"},
-    {"from": 7590, "to": "Episodes 55–62 Shane labor ledger", "relationship": "The absent employee's intimate history is again used for matchmaking"},
-    {"from": 8050, "to": "Episodes 44–62 bodily-contact penalties", "relationship": "A guest is pressured into smelling a body part after losing trivia"}
+    {
+      "from": 220,
+      "to": "DVDASA format ledger",
+      "relationship": "The cast explicitly saves ordinary friendship conversation for recording"
+    },
+    {
+      "from": 708,
+      "to": "Episode 40 Maximum Hedrum",
+      "relationship": "The band returns through its bassist, who uses a protective alias"
+    },
+    {
+      "from": 850,
+      "to": "privacy and alias ledger",
+      "relationship": "The guest requests a fake name before intimate disclosure, but the room leaks identifying clues"
+    },
+    {
+      "from": 1496,
+      "to": "The Hundreds oral history",
+      "relationship": "Bobby gives a first-person ten-year account alongside the brand's contemporary blog"
+    },
+    {
+      "from": 1688,
+      "to": "residence and property privacy",
+      "relationship": "A burglary account should not expose access or security metadata"
+    },
+    {
+      "from": 1740,
+      "to": "wealth and family ledger",
+      "relationship": "Public success becomes a prompt for private parental-finance comparison"
+    },
+    {
+      "from": 2078,
+      "to": "The Hundreds April Fools archive",
+      "relationship": "The official brand history resolves the chain's staged ambiguity"
+    },
+    {
+      "from": 2240,
+      "to": "wealth and object-value ledger",
+      "relationship": "Retail price, material value, signaling, security, and resale are conflated"
+    },
+    {
+      "from": 2730,
+      "to": "protective-alias policy",
+      "relationship": "Partner and career clues must be withheld together or the alias is cosmetic"
+    },
+    {
+      "from": 3220,
+      "to": "body-modification ledger",
+      "relationship": "Tattoos are repeatedly used as unsupported sexual and family diagnosis"
+    },
+    {
+      "from": 3520,
+      "to": "Episodes 53–54 private-partner ledger",
+      "relationship": "The recurring private anatomy story is retold to a new guest"
+    },
+    {
+      "from": 3700,
+      "to": "Asa Akira publication timeline",
+      "relationship": "The episode records a memoir manuscript before public announcement"
+    },
+    {
+      "from": 4010,
+      "to": "grief and public intimacy ledger",
+      "relationship": "A vulnerable masturbation account is turned into group sexual banter"
+    },
+    {
+      "from": 4670,
+      "to": "DVDASA live-music ledger",
+      "relationship": "The ensemble creates an original extended song from the guest's disclosures"
+    },
+    {
+      "from": 5310,
+      "to": "fan-access boundaries",
+      "relationship": "Recognition becomes stalking when it follows a guest around a family outing"
+    },
+    {
+      "from": 5600,
+      "to": "digital withdrawal ledger",
+      "relationship": "Bobby describes coordinated phone, email, Twitter, and access reset"
+    },
+    {
+      "from": 5750,
+      "to": "MAD3 and David Chang",
+      "relationship": "The Copenhagen chef gathering connects to Episode 56's MAD3 appearance"
+    },
+    {
+      "from": 6070,
+      "to": "reproductive coercion ledger",
+      "relationship": "A fake pregnancy and miscarriage become explicit trapping instructions"
+    },
+    {
+      "from": 7590,
+      "to": "Episodes 55–62 Shane labor ledger",
+      "relationship": "The absent employee's intimate history is again used for matchmaking"
+    },
+    {
+      "from": 8050,
+      "to": "Episodes 44–62 bodily-contact penalties",
+      "relationship": "A guest is pressured into smelling a body part after losing trivia"
+    }
   ],
   "content_warnings": [
     "explicit sexual description",
@@ -225,5 +710,19 @@
     "threatened sexual force",
     "minor sexual history",
     "bodily odor and contact"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Bobby Hundreds"
+  ],
+  "places": [],
+  "works": [
+    "The Hundreds"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 63 begins as a loose ensemble show and becomes two records.",
+  "description_source": "Opening of the human-reviewed summary."
 }

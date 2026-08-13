@@ -24,135 +24,538 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 12, "title": "Part Two and Mr. Ji recap"},
-    {"t": 30, "title": "Sexual theory of easier rides"},
-    {"t": 45, "title": "Dry waterways and uncertain region"},
-    {"t": 67, "title": "A mountain opening and cave questions"},
-    {"t": 94, "title": "The small-people mistranslation joke"},
-    {"t": 119, "title": "Investigating the road"},
-    {"t": 133, "title": "An unidentified village gate"},
-    {"t": 149, "title": "Cattle, sheep and racialized jokes"},
-    {"t": 179, "title": "A sensory stop and haircut request"},
-    {"t": 213, "title": "Rooster confrontation"},
-    {"t": 250, "title": "A private family ride"},
-    {"t": 266, "title": "Boarding the tractor"},
-    {"t": 300, "title": "Slow rides and quick pickups"},
-    {"t": 327, "title": "Bringing the party to China"},
-    {"t": 361, "title": "Tuoketuo at two in the morning"},
-    {"t": 388, "title": "Beg, steal or sell the body"},
-    {"t": 422, "title": "Taking rides without asking"},
-    {"t": 429, "title": "Drivers object and the crew stays"},
-    {"t": 445, "title": "Stephanie and Harry as X-Men"},
-    {"t": 465, "title": "The ride strategy only works with Stephanie"},
-    {"t": 493, "title": "Testing the thumbs-up gesture"},
-    {"t": 505, "title": "The first car stops"},
-    {"t": 575, "title": "Billboard lakes and speculative atomic plants"},
-    {"t": 609, "title": "A Chinese Grand Canyon comparison"},
-    {"t": 614, "title": "Drawing extra eyes on Harry"},
-    {"t": 655, "title": "Back on the road among ride seekers"},
-    {"t": 689, "title": "How local hitchhikers ask"},
-    {"t": 735, "title": "East and south routes diverge"},
-    {"t": 766, "title": "A private man's five-dot tattoo"},
-    {"t": 784, "title": "Unsupported gangster and killing jokes"},
-    {"t": 825, "title": "A building guessed to be a mosque"},
-    {"t": 850, "title": "It is a restaurant"},
-    {"t": 887, "title": "Performance in hopes of free food"},
-    {"t": 932, "title": "New-day ethnic and labor analogies"},
-    {"t": 972, "title": "Joining a procession of women"},
-    {"t": 983, "title": "Censorship claims and sexualized filming"},
-    {"t": 1013, "title": "Harry's skin and racialized street commentary"},
-    {"t": 1047, "title": "A visual sign, makeup and another pickup"},
-    {"t": 1104, "title": "An alley and claimed police station"},
-    {"t": 1140, "title": "Bathroom recap and uncertain route"},
-    {"t": 1181, "title": "Changed clothes and police-evasion performance"},
-    {"t": 1200, "title": "The Chinese Shire and private-home visit"},
-    {"t": 1335, "title": "Chobbits recap and another ride"}
+    {
+      "t": 12,
+      "title": "Part Two and Mr. Ji recap"
+    },
+    {
+      "t": 30,
+      "title": "Sexual theory of easier rides"
+    },
+    {
+      "t": 45,
+      "title": "Dry waterways and uncertain region"
+    },
+    {
+      "t": 67,
+      "title": "A mountain opening and cave questions"
+    },
+    {
+      "t": 94,
+      "title": "The small-people mistranslation joke"
+    },
+    {
+      "t": 119,
+      "title": "Investigating the road"
+    },
+    {
+      "t": 133,
+      "title": "An unidentified village gate"
+    },
+    {
+      "t": 149,
+      "title": "Cattle, sheep and racialized jokes"
+    },
+    {
+      "t": 179,
+      "title": "A sensory stop and haircut request"
+    },
+    {
+      "t": 213,
+      "title": "Rooster confrontation"
+    },
+    {
+      "t": 250,
+      "title": "A private family ride"
+    },
+    {
+      "t": 266,
+      "title": "Boarding the tractor"
+    },
+    {
+      "t": 300,
+      "title": "Slow rides and quick pickups"
+    },
+    {
+      "t": 327,
+      "title": "Bringing the party to China"
+    },
+    {
+      "t": 361,
+      "title": "Tuoketuo at two in the morning"
+    },
+    {
+      "t": 388,
+      "title": "Beg, steal or sell the body"
+    },
+    {
+      "t": 422,
+      "title": "Taking rides without asking"
+    },
+    {
+      "t": 429,
+      "title": "Drivers object and the crew stays"
+    },
+    {
+      "t": 445,
+      "title": "Stephanie and Harry as X-Men"
+    },
+    {
+      "t": 465,
+      "title": "The ride strategy only works with Stephanie"
+    },
+    {
+      "t": 493,
+      "title": "Testing the thumbs-up gesture"
+    },
+    {
+      "t": 505,
+      "title": "The first car stops"
+    },
+    {
+      "t": 575,
+      "title": "Billboard lakes and speculative atomic plants"
+    },
+    {
+      "t": 609,
+      "title": "A Chinese Grand Canyon comparison"
+    },
+    {
+      "t": 614,
+      "title": "Drawing extra eyes on Harry"
+    },
+    {
+      "t": 655,
+      "title": "Back on the road among ride seekers"
+    },
+    {
+      "t": 689,
+      "title": "How local hitchhikers ask"
+    },
+    {
+      "t": 735,
+      "title": "East and south routes diverge"
+    },
+    {
+      "t": 766,
+      "title": "A private man's five-dot tattoo"
+    },
+    {
+      "t": 784,
+      "title": "Unsupported gangster and killing jokes"
+    },
+    {
+      "t": 825,
+      "title": "A building guessed to be a mosque"
+    },
+    {
+      "t": 850,
+      "title": "It is a restaurant"
+    },
+    {
+      "t": 887,
+      "title": "Performance in hopes of free food"
+    },
+    {
+      "t": 932,
+      "title": "New-day ethnic and labor analogies"
+    },
+    {
+      "t": 972,
+      "title": "Joining a procession of women"
+    },
+    {
+      "t": 983,
+      "title": "Censorship claims and sexualized filming"
+    },
+    {
+      "t": 1013,
+      "title": "Harry's skin and racialized street commentary"
+    },
+    {
+      "t": 1047,
+      "title": "A visual sign, makeup and another pickup"
+    },
+    {
+      "t": 1104,
+      "title": "An alley and claimed police station"
+    },
+    {
+      "t": 1140,
+      "title": "Bathroom recap and uncertain route"
+    },
+    {
+      "t": 1181,
+      "title": "Changed clothes and police-evasion performance"
+    },
+    {
+      "t": 1200,
+      "title": "The Chinese Shire and private-home visit"
+    },
+    {
+      "t": 1335,
+      "title": "Chobbits recap and another ride"
+    }
   ],
-  "people": ["David Choe", "Harry Kim", "Stephanie Kim", "Paul [unresolved mention]", "Mr. Ji [private/romanization unverified]", "unidentified drivers, residents, workers, women, children and possible officers"],
-  "places": ["China", "Tuoketuo [verify]", "Xingye [uncertain]", "Yan'an something [source uncertainty]", "unidentified roads, waterway, village, restaurant, intersection, police station and private home"],
-  "works": ["Thumbs Up!", "X-Men", "The Shire/The Lord of the Rings", "Jackie Chan, Jet Li and Chow Yun-fat action-film references"],
-  "themes": ["hitchhiking", "permission", "translation uncertainty", "hospitality", "performance exchange", "animal safety", "racial and religious stereotyping", "sexual objectification", "private-person imagery", "tattoo speculation", "police narration", "graffiti intent", "home privacy", "speaker-label provenance"],
+  "people": [
+    "David Choe",
+    "Harry Kim",
+    "Stephanie Kim",
+    "Paul [unresolved mention]",
+    "Mr. Ji [private/romanization unverified]",
+    "unidentified drivers, residents, workers, women, children and possible officers"
+  ],
+  "places": [
+    "China",
+    "Tuoketuo [verify]",
+    "Xingye [uncertain]",
+    "Yan'an something [source uncertainty]",
+    "unidentified roads, waterway, village, restaurant, intersection, police station and private home"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "X-Men",
+    "The Shire/The Lord of the Rings",
+    "Jackie Chan, Jet Li and Chow Yun-fat action-film references"
+  ],
+  "themes": [
+    "hitchhiking",
+    "permission",
+    "translation uncertainty",
+    "hospitality",
+    "performance exchange",
+    "animal safety",
+    "racial and religious stereotyping",
+    "sexual objectification",
+    "private-person imagery",
+    "tattoo speculation",
+    "police narration",
+    "graffiti intent",
+    "home privacy",
+    "speaker-label provenance"
+  ],
   "connections": [
-    {"t": 21, "to": "part-one-mr-xi-ride", "why": "The opening recap continues the prior sequence of private drivers and sexual commentary."},
-    {"t": 52, "to": "religion-versus-nationality", "why": "David repeatedly treats Muslim and Chinese as separate categories, later repeating this near the restaurant."},
-    {"t": 94, "to": "translation-as-comedy-risk", "why": "An unclear Chinese answer becomes a small-people joke rather than a reliable translation."},
-    {"t": 133, "to": "great-wall-visual-motif", "why": "After Badaling, another structure is compared to the Great Wall without being identified as it."},
-    {"t": 213, "to": "harry-as-stunt-subject", "why": "David again pressures Harry into a physical comic encounter, this time with a rooster."},
-    {"t": 266, "to": "private-rides", "why": "Hospitality continues through unnamed people whose identities and children remain protected."},
-    {"t": 388, "to": "survival-theory", "why": "The hitchhiking tactic expands into David's totalizing theory of begging, theft and sex work."},
-    {"t": 422, "to": "request-versus-taking", "why": "David explicitly replaces asking with entering vehicles and staying after objections."},
-    {"t": 445, "to": "pop-culture-characterization", "why": "Comics become a way to describe the traveling trio rather than evidence about them."},
-    {"t": 465, "to": "stephanie-as-sexualized-access", "why": "Her practical language and travel role is again reduced by David to easier access through gender."},
-    {"t": 575, "to": "narrator-guesses-from-images", "why": "A billboard becomes a radiation claim without supporting evidence."},
-    {"t": 614, "to": "art-on-companion", "why": "David's drawing practice becomes a bodily gag involving Harry and requires consent/video context."},
-    {"t": 689, "to": "local-method-corrects-premise", "why": "Ride seekers show that local practice differs from the crew's thumbs-up assumption."},
-    {"t": 766, "to": "private-body-mark-as-story", "why": "A tattoo becomes criminal biography despite no evidence and untranslated explanation."},
-    {"t": 825, "to": "mistake-and-correction", "why": "The guessed mosque is corrected to restaurant; both states must remain visible."},
-    {"t": 887, "to": "performance-for-hospitality", "why": "As with Harry's bus music, the crew offers performance in hope of food or shelter."},
-    {"t": 972, "to": "filming-versus-consent", "why": "Joining a public procession does not establish permission to sexualize or reuse participants' images."},
-    {"t": 1104, "to": "footage-versus-later-retelling", "why": "The initial uncertain arrival becomes a stronger police/evasion story in later narration."},
-    {"t": 1200, "to": "fictional-frame-over-private-life", "why": "Shire/Hobbit language turns architecture, bodies and family questions into a running joke."},
-    {"t": 1335, "to": "recap-amplifies-speculation", "why": "The closing monologue hardens six-wife and attraction jokes beyond what untranslated speech proves."}
+    {
+      "t": 21,
+      "to": "part-one-mr-xi-ride",
+      "why": "The opening recap continues the prior sequence of private drivers and sexual commentary."
+    },
+    {
+      "t": 52,
+      "to": "religion-versus-nationality",
+      "why": "David repeatedly treats Muslim and Chinese as separate categories, later repeating this near the restaurant."
+    },
+    {
+      "t": 94,
+      "to": "translation-as-comedy-risk",
+      "why": "An unclear Chinese answer becomes a small-people joke rather than a reliable translation."
+    },
+    {
+      "t": 133,
+      "to": "great-wall-visual-motif",
+      "why": "After Badaling, another structure is compared to the Great Wall without being identified as it."
+    },
+    {
+      "t": 213,
+      "to": "harry-as-stunt-subject",
+      "why": "David again pressures Harry into a physical comic encounter, this time with a rooster."
+    },
+    {
+      "t": 266,
+      "to": "private-rides",
+      "why": "Hospitality continues through unnamed people whose identities and children remain protected."
+    },
+    {
+      "t": 388,
+      "to": "survival-theory",
+      "why": "The hitchhiking tactic expands into David's totalizing theory of begging, theft and sex work."
+    },
+    {
+      "t": 422,
+      "to": "request-versus-taking",
+      "why": "David explicitly replaces asking with entering vehicles and staying after objections."
+    },
+    {
+      "t": 445,
+      "to": "pop-culture-characterization",
+      "why": "Comics become a way to describe the traveling trio rather than evidence about them."
+    },
+    {
+      "t": 465,
+      "to": "stephanie-as-sexualized-access",
+      "why": "Her practical language and travel role is again reduced by David to easier access through gender."
+    },
+    {
+      "t": 575,
+      "to": "narrator-guesses-from-images",
+      "why": "A billboard becomes a radiation claim without supporting evidence."
+    },
+    {
+      "t": 614,
+      "to": "art-on-companion",
+      "why": "David's drawing practice becomes a bodily gag involving Harry and requires consent/video context."
+    },
+    {
+      "t": 689,
+      "to": "local-method-corrects-premise",
+      "why": "Ride seekers show that local practice differs from the crew's thumbs-up assumption."
+    },
+    {
+      "t": 766,
+      "to": "private-body-mark-as-story",
+      "why": "A tattoo becomes criminal biography despite no evidence and untranslated explanation."
+    },
+    {
+      "t": 825,
+      "to": "mistake-and-correction",
+      "why": "The guessed mosque is corrected to restaurant; both states must remain visible."
+    },
+    {
+      "t": 887,
+      "to": "performance-for-hospitality",
+      "why": "As with Harry's bus music, the crew offers performance in hope of food or shelter."
+    },
+    {
+      "t": 972,
+      "to": "filming-versus-consent",
+      "why": "Joining a public procession does not establish permission to sexualize or reuse participants' images."
+    },
+    {
+      "t": 1104,
+      "to": "footage-versus-later-retelling",
+      "why": "The initial uncertain arrival becomes a stronger police/evasion story in later narration."
+    },
+    {
+      "t": 1200,
+      "to": "fictional-frame-over-private-life",
+      "why": "Shire/Hobbit language turns architecture, bodies and family questions into a running joke."
+    },
+    {
+      "t": 1335,
+      "to": "recap-amplifies-speculation",
+      "why": "The closing monologue hardens six-wife and attraction jokes beyond what untranslated speech proves."
+    }
   ],
   "source_notes": [
-    {"t": 0, "claim": "Four speaker categories are explicitly identified in the manual captions.", "assessment": "VICE prefixes exact spans for David Choe, Harry Kim, Stephanie Kim and a generic male speaker, generally marked offscreen. These are publisher labels, not acoustic verification.", "source": "https://www.youtube.com/watch?v=wcMNw16dQKo"},
-    {"t": 794, "claim": "Jackie Chan, Jet Li and Chow Yun-fat are the names spoken in the tattoo joke.", "assessment": "The captioned public-figure names are correctly styled; the joke supplies no evidence about the private man's tattoo or criminal history.", "source": "https://www.youtube.com/watch?v=wcMNw16dQKo"},
-    {"t": 983, "claim": "China has no pornography and all sites are blocked.", "assessment": "This remains David's broad claim based on his browsing experience. It should not be silently rewritten into a complete legal or technical account.", "source": "https://www.youtube.com/watch?v=wcMNw16dQKo"}
+    {
+      "t": 0,
+      "claim": "Four speaker categories are explicitly identified in the manual captions.",
+      "assessment": "VICE prefixes exact spans for David Choe, Harry Kim, Stephanie Kim and a generic male speaker, generally marked offscreen. These are publisher labels, not acoustic verification.",
+      "source": "https://www.youtube.com/watch?v=wcMNw16dQKo"
+    },
+    {
+      "t": 794,
+      "claim": "Jackie Chan, Jet Li and Chow Yun-fat are the names spoken in the tattoo joke.",
+      "assessment": "The captioned public-figure names are correctly styled; the joke supplies no evidence about the private man's tattoo or criminal history.",
+      "source": "https://www.youtube.com/watch?v=wcMNw16dQKo"
+    },
+    {
+      "t": 983,
+      "claim": "China has no pornography and all sites are blocked.",
+      "assessment": "This remains David's broad claim based on his browsing experience. It should not be silently rewritten into a complete legal or technical account.",
+      "source": "https://www.youtube.com/watch?v=wcMNw16dQKo"
+    }
   ],
   "speaker_policy": {
     "status": "publisher labels retained; model-generated named turns withheld",
     "reason": "Manual prefixes identify only exact spans for David Choe, Harry Kim, Stephanie Kim and generic MALE SPEAKER, often offscreen. Hyphen dialogue is unlabeled. No label propagates across neighboring lines, Chinese translation, montage or bodily sound captions. Only David and Harry are recurring-cast model candidates; Stephanie and all private participants remain outside identity enrollment absent a separate policy-eligible, listening-verified set."
   },
   "content_warnings": [
-    {"t": 24, "warning": "insulting physical description and sexual characterization"},
-    {"t": 30, "warning": "graphic gender/sexual generalization"},
-    {"t": 52, "warning": "religion/nationality conflation"},
-    {"t": 94, "warning": "ableist slur/joke"},
-    {"t": 149, "warning": "racialized animal joke"},
-    {"t": 216, "warning": "animal confrontation and participant pressure"},
-    {"t": 264, "warning": "private children present"},
-    {"t": 327, "warning": "hostile and graphic sexual collective speech"},
-    {"t": 395, "warning": "begging, theft and sex-work generalization"},
-    {"t": 425, "warning": "unauthorized vehicle entry and ignored objections"},
-    {"t": 453, "warning": "racialized comics reference"},
-    {"t": 575, "warning": "unsupported radiation/facility claim"},
-    {"t": 614, "warning": "drawing on participant/consent ambiguity"},
-    {"t": 775, "warning": "private tattoo close-up and criminal speculation"},
-    {"t": 825, "warning": "religious/architectural stereotyping"},
-    {"t": 942, "warning": "ethnic and migrant-labor stereotyping"},
-    {"t": 983, "warning": "pornography and censorship claims"},
-    {"t": 991, "warning": "graphic sexual objectification of private women"},
-    {"t": 1013, "warning": "racialized skin commentary"},
-    {"t": 1030, "warning": "homelessness and Asian appearance generalizations"},
-    {"t": 1154, "warning": "graffiti/property-marking intent and police-evasion claims"},
-    {"t": 1222, "warning": "sexuality, reproduction, polygamy and religion jokes about private residents"}
+    {
+      "t": 24,
+      "warning": "insulting physical description and sexual characterization"
+    },
+    {
+      "t": 30,
+      "warning": "graphic gender/sexual generalization"
+    },
+    {
+      "t": 52,
+      "warning": "religion/nationality conflation"
+    },
+    {
+      "t": 94,
+      "warning": "ableist slur/joke"
+    },
+    {
+      "t": 149,
+      "warning": "racialized animal joke"
+    },
+    {
+      "t": 216,
+      "warning": "animal confrontation and participant pressure"
+    },
+    {
+      "t": 264,
+      "warning": "private children present"
+    },
+    {
+      "t": 327,
+      "warning": "hostile and graphic sexual collective speech"
+    },
+    {
+      "t": 395,
+      "warning": "begging, theft and sex-work generalization"
+    },
+    {
+      "t": 425,
+      "warning": "unauthorized vehicle entry and ignored objections"
+    },
+    {
+      "t": 453,
+      "warning": "racialized comics reference"
+    },
+    {
+      "t": 575,
+      "warning": "unsupported radiation/facility claim"
+    },
+    {
+      "t": 614,
+      "warning": "drawing on participant/consent ambiguity"
+    },
+    {
+      "t": 775,
+      "warning": "private tattoo close-up and criminal speculation"
+    },
+    {
+      "t": 825,
+      "warning": "religious/architectural stereotyping"
+    },
+    {
+      "t": 942,
+      "warning": "ethnic and migrant-labor stereotyping"
+    },
+    {
+      "t": 983,
+      "warning": "pornography and censorship claims"
+    },
+    {
+      "t": 991,
+      "warning": "graphic sexual objectification of private women"
+    },
+    {
+      "t": 1013,
+      "warning": "racialized skin commentary"
+    },
+    {
+      "t": 1030,
+      "warning": "homelessness and Asian appearance generalizations"
+    },
+    {
+      "t": 1154,
+      "warning": "graffiti/property-marking intent and police-evasion claims"
+    },
+    {
+      "t": 1222,
+      "warning": "sexuality, reproduction, polygamy and religion jokes about private residents"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every idea and literal source word; corrections and context remain separate."},
-    {"t": 0.1, "rule": "Manual speaker prefixes are exact-span publisher evidence only, with acoustic_verified=false."},
-    {"t": 0.2, "rule": "Do not translate Chinese, identify speakers from translation, or propagate names into hyphen dialogue."},
-    {"t": 21, "rule": "Keep Mr. Ji private and do not index David's appearance/sexual insults as person facts."},
-    {"t": 45, "rule": "Do not reverse-geolocate waterways, villages, routes or private stops from edited visuals."},
-    {"t": 94, "rule": "Never convert the small-people joke into a community, body or disability claim."},
-    {"t": 133, "rule": "Do not identify or map the village/gate without primary episode evidence and a public-interest reason."},
-    {"t": 179, "rule": "No identity, workplace or image extraction for private residents/hosts."},
-    {"t": 213, "rule": "Keep animal and Harry safety context adjacent; no stunt how-to excerpt."},
-    {"t": 264, "rule": "No faces, names, family links, vehicle plates or location trails involving private children."},
-    {"t": 327, "rule": "Offensive collective speech remains attributed to David and outside archive voice, thumbnails and SEO."},
-    {"t": 361, "rule": "Verify Tuoketuo and route spellings against on-screen cards before canonical mapping."},
-    {"t": 422, "rule": "Do not present entering vehicles or ignoring driver objections as travel guidance."},
-    {"t": 445, "rule": "Pop-culture and racialized comparisons are quotations/motifs, not identity metadata."},
-    {"t": 518, "rule": "Paul remains an unresolved mention; do not infer role, face, voice or surname."},
-    {"t": 575, "rule": "Do not map, accuse or label a facility radioactive based on a billboard joke."},
-    {"t": 614, "rule": "Do not infer Harry's permission to be drawn on or reuse body close-ups without video/rights review."},
-    {"t": 766, "rule": "Do not identify, face-search or criminally profile the private tattooed man; tattoo meaning remains unresolved."},
-    {"t": 825, "rule": "Keep the mosque guess beside the restaurant correction; do not assign religion or ethnicity to patrons."},
-    {"t": 949, "rule": "Do not infer employment, immigration status or ethnicity for people seeking rides."},
-    {"t": 972, "rule": "No standalone imagery, sexualized thumbnails or identity trails for procession participants."},
-    {"t": 1047, "rule": "Do not claim drivers understood or consented to the crew's sign; sign content requires frame review."},
-    {"t": 1104, "rule": "Do not assert arrest, detention, officer identity or official intent beyond the episode's attributed claims."},
-    {"t": 1148, "rule": "Preserve Xingye/Yan'an uncertainty and do not geolocate the bathroom or tagging target."},
-    {"t": 1181, "rule": "Retain evasion narration without operational detail or conversion into verified criminal history."},
-    {"t": 1200, "rule": "Never publish the private home/address or convert Hobbit, sexuality, six-wife, Mormon or attraction jokes into resident facts."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every idea and literal source word; corrections and context remain separate."
+    },
+    {
+      "t": 0.1,
+      "rule": "Manual speaker prefixes are exact-span publisher evidence only, with acoustic_verified=false."
+    },
+    {
+      "t": 0.2,
+      "rule": "Do not translate Chinese, identify speakers from translation, or propagate names into hyphen dialogue."
+    },
+    {
+      "t": 21,
+      "rule": "Keep Mr. Ji private and do not index David's appearance/sexual insults as person facts."
+    },
+    {
+      "t": 45,
+      "rule": "Do not reverse-geolocate waterways, villages, routes or private stops from edited visuals."
+    },
+    {
+      "t": 94,
+      "rule": "Never convert the small-people joke into a community, body or disability claim."
+    },
+    {
+      "t": 133,
+      "rule": "Do not identify or map the village/gate without primary episode evidence and a public-interest reason."
+    },
+    {
+      "t": 179,
+      "rule": "No identity, workplace or image extraction for private residents/hosts."
+    },
+    {
+      "t": 213,
+      "rule": "Keep animal and Harry safety context adjacent; no stunt how-to excerpt."
+    },
+    {
+      "t": 264,
+      "rule": "No faces, names, family links, vehicle plates or location trails involving private children."
+    },
+    {
+      "t": 327,
+      "rule": "Offensive collective speech remains attributed to David and outside archive voice, thumbnails and SEO."
+    },
+    {
+      "t": 361,
+      "rule": "Verify Tuoketuo and route spellings against on-screen cards before canonical mapping."
+    },
+    {
+      "t": 422,
+      "rule": "Do not present entering vehicles or ignoring driver objections as travel guidance."
+    },
+    {
+      "t": 445,
+      "rule": "Pop-culture and racialized comparisons are quotations/motifs, not identity metadata."
+    },
+    {
+      "t": 518,
+      "rule": "Paul remains an unresolved mention; do not infer role, face, voice or surname."
+    },
+    {
+      "t": 575,
+      "rule": "Do not map, accuse or label a facility radioactive based on a billboard joke."
+    },
+    {
+      "t": 614,
+      "rule": "Do not infer Harry's permission to be drawn on or reuse body close-ups without video/rights review."
+    },
+    {
+      "t": 766,
+      "rule": "Do not identify, face-search or criminally profile the private tattooed man; tattoo meaning remains unresolved."
+    },
+    {
+      "t": 825,
+      "rule": "Keep the mosque guess beside the restaurant correction; do not assign religion or ethnicity to patrons."
+    },
+    {
+      "t": 949,
+      "rule": "Do not infer employment, immigration status or ethnicity for people seeking rides."
+    },
+    {
+      "t": 972,
+      "rule": "No standalone imagery, sexualized thumbnails or identity trails for procession participants."
+    },
+    {
+      "t": 1047,
+      "rule": "Do not claim drivers understood or consented to the crew's sign; sign content requires frame review."
+    },
+    {
+      "t": 1104,
+      "rule": "Do not assert arrest, detention, officer identity or official intent beyond the episode's attributed claims."
+    },
+    {
+      "t": 1148,
+      "rule": "Preserve Xingye/Yan'an uncertainty and do not geolocate the bathroom or tagging target."
+    },
+    {
+      "t": 1181,
+      "rule": "Retain evasion narration without operational detail or conversion into verified criminal history."
+    },
+    {
+      "t": 1200,
+      "rule": "Never publish the private home/address or convert Hobbit, sexuality, six-wife, Mormon or attraction jokes into resident facts."
+    }
+  ],
+  "description": "Part Two follows the crew through unidentified roads, villages, Tuoketuo and uncertain Xingye/Yan'an geography.",
+  "description_source": "Opening of the human-reviewed summary."
 }

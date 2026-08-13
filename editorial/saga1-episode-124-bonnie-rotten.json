@@ -32,105 +32,426 @@
   ],
   "speaker_policy": "Participant names may be stated in editorial context when explicitly introduced or publicly credited, but no transcript line is assigned to a named speaker. Zero turns and zero identity windows cannot support independently validated named dialogue.",
   "chapters": [
-    {"t": 10, "title": "equipment cold open"},
-    {"t": 181, "title": "Alex behind the scenes"},
-    {"t": 240, "title": "why every subject becomes sex"},
-    {"t": 330, "title": "fan mail and Jesus Calling"},
-    {"t": 360, "title": "born again after prison"},
-    {"t": 480, "title": "recovery and higher power"},
-    {"t": 540, "title": "religious pluralism"},
-    {"t": 570, "title": "charity promise"},
-    {"t": 660, "title": "family faith"},
-    {"t": 780, "title": "formal introduction"},
-    {"t": 840, "title": "chicken and room reset"},
-    {"t": 900, "title": "Insatiable promotion"},
-    {"t": 930, "title": "Bonnie Rotten arrives"},
-    {"t": 960, "title": "performer-award praise"},
-    {"t": 1020, "title": "commute and hosting schedule"},
-    {"t": 1080, "title": "anger management"},
-    {"t": 1140, "title": "Taco Bell altercation"},
-    {"t": 1200, "title": "debt-meeting reconstruction"},
-    {"t": 1380, "title": "self-control lesson"},
-    {"t": 1440, "title": "feature-dancing routine"},
-    {"t": 1500, "title": "tattoos and market expectations"},
-    {"t": 1620, "title": "hostile peer gossip"},
-    {"t": 1740, "title": "Florida friendship"},
-    {"t": 1800, "title": "eyes-closed portraits"},
-    {"t": 1920, "title": "Squirt Woman production"},
-    {"t": 2040, "title": "explicit performance account"},
-    {"t": 2100, "title": "who belongs on a closed set"},
-    {"t": 2280, "title": "spouses and professional separation"},
-    {"t": 2460, "title": "new performers"},
-    {"t": 2640, "title": "double-anal experience"},
-    {"t": 2700, "title": "rectal prolapse"},
-    {"t": 2880, "title": "masturbation and self-soothing"},
-    {"t": 2940, "title": "anatomy folklore"},
-    {"t": 3060, "title": "pushing without consequence knowledge"},
-    {"t": 3120, "title": "unreleased intimate footage"},
-    {"t": 3180, "title": "candy production"},
-    {"t": 3240, "title": "rainbow enemas"},
-    {"t": 3300, "title": "condom-mandate petition"},
-    {"t": 3360, "title": "infection misinformation"},
-    {"t": 3420, "title": "occupational risk argument"},
-    {"t": 3480, "title": "orgy plan resumes"},
-    {"t": 3540, "title": "conditional participation"},
-    {"t": 3660, "title": "fan demand and visual evidence"},
-    {"t": 3720, "title": "professional booking"},
-    {"t": 3780, "title": "narrow touching permission"},
-    {"t": 3840, "title": "internal-camera fantasy"},
-    {"t": 3960, "title": "testing proposal"},
-    {"t": 4080, "title": "plans keep changing"},
-    {"t": 4320, "title": "scope remains unclear"},
-    {"t": 4380, "title": "iPhone sex-tape pitch"},
-    {"t": 4500, "title": "orgasm is not mandatory"},
-    {"t": 4620, "title": "sleep-creep role-play"},
-    {"t": 4680, "title": "fake snuff-film branch"},
-    {"t": 4800, "title": "production ownership"},
-    {"t": 4920, "title": "career longevity"},
-    {"t": 5220, "title": "football, games and cannabis"},
-    {"t": 5400, "title": "Bonnie outro"},
-    {"t": 5520, "title": "Money Mark returns"},
-    {"t": 5640, "title": "creativity as obsession"},
-    {"t": 5760, "title": "trivia"},
-    {"t": 6120, "title": "ideas that happen and ideas that die"},
-    {"t": 6180, "title": "art versus total disclosure"},
-    {"t": 6240, "title": "books and disclosure cost"},
-    {"t": 6420, "title": "watercolors and process"},
-    {"t": 7688, "title": "false ending"},
-    {"t": 7701, "title": "guest follow-up text"},
-    {"t": 7728, "title": "final hypothetical"}
+    {
+      "t": 10,
+      "title": "equipment cold open"
+    },
+    {
+      "t": 181,
+      "title": "Alex behind the scenes"
+    },
+    {
+      "t": 240,
+      "title": "why every subject becomes sex"
+    },
+    {
+      "t": 330,
+      "title": "fan mail and Jesus Calling"
+    },
+    {
+      "t": 360,
+      "title": "born again after prison"
+    },
+    {
+      "t": 480,
+      "title": "recovery and higher power"
+    },
+    {
+      "t": 540,
+      "title": "religious pluralism"
+    },
+    {
+      "t": 570,
+      "title": "charity promise"
+    },
+    {
+      "t": 660,
+      "title": "family faith"
+    },
+    {
+      "t": 780,
+      "title": "formal introduction"
+    },
+    {
+      "t": 840,
+      "title": "chicken and room reset"
+    },
+    {
+      "t": 900,
+      "title": "Insatiable promotion"
+    },
+    {
+      "t": 930,
+      "title": "Bonnie Rotten arrives"
+    },
+    {
+      "t": 960,
+      "title": "performer-award praise"
+    },
+    {
+      "t": 1020,
+      "title": "commute and hosting schedule"
+    },
+    {
+      "t": 1080,
+      "title": "anger management"
+    },
+    {
+      "t": 1140,
+      "title": "Taco Bell altercation"
+    },
+    {
+      "t": 1200,
+      "title": "debt-meeting reconstruction"
+    },
+    {
+      "t": 1380,
+      "title": "self-control lesson"
+    },
+    {
+      "t": 1440,
+      "title": "feature-dancing routine"
+    },
+    {
+      "t": 1500,
+      "title": "tattoos and market expectations"
+    },
+    {
+      "t": 1620,
+      "title": "hostile peer gossip"
+    },
+    {
+      "t": 1740,
+      "title": "Florida friendship"
+    },
+    {
+      "t": 1800,
+      "title": "eyes-closed portraits"
+    },
+    {
+      "t": 1920,
+      "title": "Squirt Woman production"
+    },
+    {
+      "t": 2040,
+      "title": "explicit performance account"
+    },
+    {
+      "t": 2100,
+      "title": "who belongs on a closed set"
+    },
+    {
+      "t": 2280,
+      "title": "spouses and professional separation"
+    },
+    {
+      "t": 2460,
+      "title": "new performers"
+    },
+    {
+      "t": 2640,
+      "title": "double-anal experience"
+    },
+    {
+      "t": 2700,
+      "title": "rectal prolapse"
+    },
+    {
+      "t": 2880,
+      "title": "masturbation and self-soothing"
+    },
+    {
+      "t": 2940,
+      "title": "anatomy folklore"
+    },
+    {
+      "t": 3060,
+      "title": "pushing without consequence knowledge"
+    },
+    {
+      "t": 3120,
+      "title": "unreleased intimate footage"
+    },
+    {
+      "t": 3180,
+      "title": "candy production"
+    },
+    {
+      "t": 3240,
+      "title": "rainbow enemas"
+    },
+    {
+      "t": 3300,
+      "title": "condom-mandate petition"
+    },
+    {
+      "t": 3360,
+      "title": "infection misinformation"
+    },
+    {
+      "t": 3420,
+      "title": "occupational risk argument"
+    },
+    {
+      "t": 3480,
+      "title": "orgy plan resumes"
+    },
+    {
+      "t": 3540,
+      "title": "conditional participation"
+    },
+    {
+      "t": 3660,
+      "title": "fan demand and visual evidence"
+    },
+    {
+      "t": 3720,
+      "title": "professional booking"
+    },
+    {
+      "t": 3780,
+      "title": "narrow touching permission"
+    },
+    {
+      "t": 3840,
+      "title": "internal-camera fantasy"
+    },
+    {
+      "t": 3960,
+      "title": "testing proposal"
+    },
+    {
+      "t": 4080,
+      "title": "plans keep changing"
+    },
+    {
+      "t": 4320,
+      "title": "scope remains unclear"
+    },
+    {
+      "t": 4380,
+      "title": "iPhone sex-tape pitch"
+    },
+    {
+      "t": 4500,
+      "title": "orgasm is not mandatory"
+    },
+    {
+      "t": 4620,
+      "title": "sleep-creep role-play"
+    },
+    {
+      "t": 4680,
+      "title": "fake snuff-film branch"
+    },
+    {
+      "t": 4800,
+      "title": "production ownership"
+    },
+    {
+      "t": 4920,
+      "title": "career longevity"
+    },
+    {
+      "t": 5220,
+      "title": "football, games and cannabis"
+    },
+    {
+      "t": 5400,
+      "title": "Bonnie outro"
+    },
+    {
+      "t": 5520,
+      "title": "Money Mark returns"
+    },
+    {
+      "t": 5640,
+      "title": "creativity as obsession"
+    },
+    {
+      "t": 5760,
+      "title": "trivia"
+    },
+    {
+      "t": 6120,
+      "title": "ideas that happen and ideas that die"
+    },
+    {
+      "t": 6180,
+      "title": "art versus total disclosure"
+    },
+    {
+      "t": 6240,
+      "title": "books and disclosure cost"
+    },
+    {
+      "t": 6420,
+      "title": "watercolors and process"
+    },
+    {
+      "t": 7688,
+      "title": "false ending"
+    },
+    {
+      "t": 7701,
+      "title": "guest follow-up text"
+    },
+    {
+      "t": 7728,
+      "title": "final hypothetical"
+    }
   ],
   "connections": [
-    {"t": 360, "to": "Prison and faith", "why": "The speaker describes born-again Christianity as genuine survival scaffolding, then explains why his theology changed."},
-    {"t": 480, "to": "Recovery language", "why": "Higher-power framing is discussed as useful without requiring one religion."},
-    {"t": 570, "to": "Wealth and obligation", "why": "Charity and time-giving are presented as repayment of a prison promise."},
-    {"t": 930, "to": "Public professional identity", "why": "Bonnie Rotten is explicitly introduced by her public work name; private peers remain distinct."},
-    {"t": 1080, "to": "Conflict regulation", "why": "Anger management is voluntary and framed as controlling one's response, not other people."},
-    {"t": 1140, "to": "Attributed allegations", "why": "The Taco Bell fight and debt dispute are testimony, not adjudicated fact."},
-    {"t": 1500, "to": "Difference as market barrier", "why": "Tattoo coverage is described as a predicted career barrier that the guest overcame."},
-    {"t": 1800, "to": "Artistic efficiency and mystique", "why": "Eyes-closed portraits are simultaneously an aesthetic choice, time-saver and source of projected depth."},
-    {"t": 1920, "to": "Production credits versus personal access", "why": "A public work can be indexed without treating performers or masked extras as generally accessible."},
-    {"t": 2100, "to": "Closed-set consent", "why": "A person physically present at a shoot may still be unauthorized and removable."},
-    {"t": 2280, "to": "Work sex versus relationship permission", "why": "Professional agreement does not erase specific-act boundaries or preferences about a spouse's presence."},
-    {"t": 2700, "to": "Medical correction layer", "why": "Painless rectal prolapse is not harmless and may worsen or require treatment."},
-    {"t": 2880, "to": "Therapy versus enablers club", "why": "The show repeatedly calls itself therapy while recognizing that it rewards escalation."},
-    {"t": 2940, "to": "Sexual-health folklore", "why": "Vaginal looseness, condom stretching and profession-based anatomy claims are unreliable."},
-    {"t": 3060, "to": "Informed consent and consequence knowledge", "why": "The guest says she followed pushing instructions without understanding prolapse and objected afterward."},
-    {"t": 3120, "to": "Archive versus publication", "why": "Owning intimate footage does not require releasing it, even under an anti-censorship identity."},
-    {"t": 3240, "to": "Performance spectacle versus safety", "why": "An explicit enema description is preserved without becoming medical or procedural advice."},
-    {"t": 3300, "to": "Performer autonomy and regulation", "why": "The condom debate combines labor autonomy, business impact, testing claims and resistance to state oversight."},
-    {"t": 3360, "to": "False infection explanation", "why": "The bench/no-panties account is not a reliable exclusive cause of bacterial infection."},
-    {"t": 3480, "to": "Episode 123", "why": "The orgy proposal directly continues the previous episode's unstable consent discussion."},
-    {"t": 3540, "to": "Consent as a changing state", "why": "Participants repeatedly enter, qualify, withdraw and re-enter rather than giving one permanent answer."},
-    {"t": 3660, "to": "Audience entitlement", "why": "Fan demand for proof cannot authorize filming or publication for participants."},
-    {"t": 3780, "to": "Granular permission", "why": "Permission for one breast to be touched is a literal example of act- and body-part-specific consent."},
-    {"t": 4080, "to": "Scope clarity", "why": "Participants say they cannot decide because motel fun, professional production and commercial tape keep replacing one another."},
-    {"t": 4500, "to": "Performance outcome autonomy", "why": "The group explicitly corrects the demand that a participant must orgasm for the production."},
-    {"t": 4620, "to": "Role-play versus incapacity", "why": "A sleep fantasy can be staged with advance consent; an actually sleeping person cannot consent in the moment."},
-    {"t": 4800, "to": "Performer-to-producer path", "why": "The guest describes converting performance success into ownership and production."},
-    {"t": 5520, "to": "Public creative network", "why": "Money Mark connects the episode to Damon Albarn, William Onyeabor, film scoring and collaborative music."},
-    {"t": 5640, "to": "Compulsion across domains", "why": "Sexual repetition, masturbation and nonstop music-making are compared as obsession rather than simple passion."},
-    {"t": 6180, "to": "Censorship versus curation", "why": "The episode argues that refusing to release every explicit image is artistic selection, not denial that it exists."}
+    {
+      "t": 360,
+      "to": "Prison and faith",
+      "why": "The speaker describes born-again Christianity as genuine survival scaffolding, then explains why his theology changed."
+    },
+    {
+      "t": 480,
+      "to": "Recovery language",
+      "why": "Higher-power framing is discussed as useful without requiring one religion."
+    },
+    {
+      "t": 570,
+      "to": "Wealth and obligation",
+      "why": "Charity and time-giving are presented as repayment of a prison promise."
+    },
+    {
+      "t": 930,
+      "to": "Public professional identity",
+      "why": "Bonnie Rotten is explicitly introduced by her public work name; private peers remain distinct."
+    },
+    {
+      "t": 1080,
+      "to": "Conflict regulation",
+      "why": "Anger management is voluntary and framed as controlling one's response, not other people."
+    },
+    {
+      "t": 1140,
+      "to": "Attributed allegations",
+      "why": "The Taco Bell fight and debt dispute are testimony, not adjudicated fact."
+    },
+    {
+      "t": 1500,
+      "to": "Difference as market barrier",
+      "why": "Tattoo coverage is described as a predicted career barrier that the guest overcame."
+    },
+    {
+      "t": 1800,
+      "to": "Artistic efficiency and mystique",
+      "why": "Eyes-closed portraits are simultaneously an aesthetic choice, time-saver and source of projected depth."
+    },
+    {
+      "t": 1920,
+      "to": "Production credits versus personal access",
+      "why": "A public work can be indexed without treating performers or masked extras as generally accessible."
+    },
+    {
+      "t": 2100,
+      "to": "Closed-set consent",
+      "why": "A person physically present at a shoot may still be unauthorized and removable."
+    },
+    {
+      "t": 2280,
+      "to": "Work sex versus relationship permission",
+      "why": "Professional agreement does not erase specific-act boundaries or preferences about a spouse's presence."
+    },
+    {
+      "t": 2700,
+      "to": "Medical correction layer",
+      "why": "Painless rectal prolapse is not harmless and may worsen or require treatment."
+    },
+    {
+      "t": 2880,
+      "to": "Therapy versus enablers club",
+      "why": "The show repeatedly calls itself therapy while recognizing that it rewards escalation."
+    },
+    {
+      "t": 2940,
+      "to": "Sexual-health folklore",
+      "why": "Vaginal looseness, condom stretching and profession-based anatomy claims are unreliable."
+    },
+    {
+      "t": 3060,
+      "to": "Informed consent and consequence knowledge",
+      "why": "The guest says she followed pushing instructions without understanding prolapse and objected afterward."
+    },
+    {
+      "t": 3120,
+      "to": "Archive versus publication",
+      "why": "Owning intimate footage does not require releasing it, even under an anti-censorship identity."
+    },
+    {
+      "t": 3240,
+      "to": "Performance spectacle versus safety",
+      "why": "An explicit enema description is preserved without becoming medical or procedural advice."
+    },
+    {
+      "t": 3300,
+      "to": "Performer autonomy and regulation",
+      "why": "The condom debate combines labor autonomy, business impact, testing claims and resistance to state oversight."
+    },
+    {
+      "t": 3360,
+      "to": "False infection explanation",
+      "why": "The bench/no-panties account is not a reliable exclusive cause of bacterial infection."
+    },
+    {
+      "t": 3480,
+      "to": "Episode 123",
+      "why": "The orgy proposal directly continues the previous episode's unstable consent discussion."
+    },
+    {
+      "t": 3540,
+      "to": "Consent as a changing state",
+      "why": "Participants repeatedly enter, qualify, withdraw and re-enter rather than giving one permanent answer."
+    },
+    {
+      "t": 3660,
+      "to": "Audience entitlement",
+      "why": "Fan demand for proof cannot authorize filming or publication for participants."
+    },
+    {
+      "t": 3780,
+      "to": "Granular permission",
+      "why": "Permission for one breast to be touched is a literal example of act- and body-part-specific consent."
+    },
+    {
+      "t": 4080,
+      "to": "Scope clarity",
+      "why": "Participants say they cannot decide because motel fun, professional production and commercial tape keep replacing one another."
+    },
+    {
+      "t": 4500,
+      "to": "Performance outcome autonomy",
+      "why": "The group explicitly corrects the demand that a participant must orgasm for the production."
+    },
+    {
+      "t": 4620,
+      "to": "Role-play versus incapacity",
+      "why": "A sleep fantasy can be staged with advance consent; an actually sleeping person cannot consent in the moment."
+    },
+    {
+      "t": 4800,
+      "to": "Performer-to-producer path",
+      "why": "The guest describes converting performance success into ownership and production."
+    },
+    {
+      "t": 5520,
+      "to": "Public creative network",
+      "why": "Money Mark connects the episode to Damon Albarn, William Onyeabor, film scoring and collaborative music."
+    },
+    {
+      "t": 5640,
+      "to": "Compulsion across domains",
+      "why": "Sexual repetition, masturbation and nonstop music-making are compared as obsession rather than simple passion."
+    },
+    {
+      "t": 6180,
+      "to": "Censorship versus curation",
+      "why": "The episode argues that refusing to release every explicit image is artistic selection, not denial that it exists."
+    }
   ],
   "content_warnings": [
     "explicit sexual descriptions",
@@ -160,5 +481,17 @@
     "private-message disclosure",
     "nonparticipant sexual speculation",
     "copyrighted song excerpts in trivia"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Money Mark"
+  ],
+  "places": [],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A two-hour ensemble episode that moves from faith, prison and recovery into Bonnie Rotten's professional history, workplace boundaries, explicit performance accounts, health folklore, condom-policy debate, a continually changing proposed sex-tape production, Money Mark's creative work and trivia.",
+  "description_source": "Opening of the human-reviewed summary."
 }

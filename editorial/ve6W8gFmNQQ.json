@@ -24,62 +24,225 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 0, "title": "Thumbs Up is cooking"},
-    {"t": 5, "title": "A low-budget road-food premise"},
-    {"t": 9, "title": "Fried-chicken grease as flavor"},
-    {"t": 14, "title": "Microwaved ramen and mixing"},
-    {"t": 20, "title": "A Big Gulp-sized serving"},
-    {"t": 23, "title": "Deep-fried pork and 7-Eleven condiments"},
-    {"t": 31, "title": "Chili, jalapeños and softening crunch"},
-    {"t": 37, "title": "Presentation and a fondue comparison"},
-    {"t": 40, "title": "Pork rinds expand into the ramen"},
-    {"t": 46, "title": "Mayonnaise and the taste verdict"}
+    {
+      "t": 0,
+      "title": "Thumbs Up is cooking"
+    },
+    {
+      "t": 5,
+      "title": "A low-budget road-food premise"
+    },
+    {
+      "t": 9,
+      "title": "Fried-chicken grease as flavor"
+    },
+    {
+      "t": 14,
+      "title": "Microwaved ramen and mixing"
+    },
+    {
+      "t": 20,
+      "title": "A Big Gulp-sized serving"
+    },
+    {
+      "t": 23,
+      "title": "Deep-fried pork and 7-Eleven condiments"
+    },
+    {
+      "t": 31,
+      "title": "Chili, jalapeños and softening crunch"
+    },
+    {
+      "t": 37,
+      "title": "Presentation and a fondue comparison"
+    },
+    {
+      "t": 40,
+      "title": "Pork rinds expand into the ramen"
+    },
+    {
+      "t": 46,
+      "title": "Mayonnaise and the taste verdict"
+    }
   ],
-  "people": ["David Choe [title credit]", "Harry Kim [title credit]", "unresolved speaking participant(s)"],
-  "places": ["road setting [generic premise]", "7-Eleven [deliberate source allusion]", "Guam Cruise [title phrase; meaning/location unverified]"],
-  "works": ["Thumbs Up!", "The Cooking Choe [fragment title]"],
-  "themes": ["road food", "budget cooking", "improvisation", "presentation", "fried chicken", "ramen", "pork rinds", "condiments", "speaker provenance", "fragment completeness"],
+  "people": [
+    "David Choe [title credit]",
+    "Harry Kim [title credit]",
+    "unresolved speaking participant(s)"
+  ],
+  "places": [
+    "road setting [generic premise]",
+    "7-Eleven [deliberate source allusion]",
+    "Guam Cruise [title phrase; meaning/location unverified]"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "The Cooking Choe [fragment title]"
+  ],
+  "themes": [
+    "road food",
+    "budget cooking",
+    "improvisation",
+    "presentation",
+    "fried chicken",
+    "ramen",
+    "pork rinds",
+    "condiments",
+    "speaker provenance",
+    "fragment completeness"
+  ],
   "connections": [
-    {"t": 0, "to": "thumbs-up-format-expansion", "why": "The greeting presents cooking as another mode inside the road series."},
-    {"t": 5, "to": "road-budget-constraint", "why": "Lack of money motivates the improvised meal rather than culinary refinement."},
-    {"t": 9, "to": "reuse-and-residue", "why": "Residual fried-chicken grease becomes an ingredient."},
-    {"t": 14, "to": "convenience-store-cooking", "why": "Microwave ramen anchors the meal in travel/convenience infrastructure."},
-    {"t": 20, "to": "oversized-container", "why": "A Big Gulp-size comparison turns portion and brand into visual comedy."},
-    {"t": 24, "to": "brand-circumlocution", "why": "The speaker avoids saying 7-Eleven directly while making the reference unmistakable."},
-    {"t": 28, "to": "free-condiment-boundary", "why": "A comic abundance claim is not a store policy or entitlement."},
-    {"t": 37, "to": "presentation-as-cooking", "why": "Visual arrangement is treated as part of the recipe."},
-    {"t": 40, "to": "texture-transformation", "why": "Pork rinds soften and expand, linking process to the final dish."},
-    {"t": 51, "to": "personal-verdict", "why": "The fragment ends with the cook's own approval rather than an external review."}
+    {
+      "t": 0,
+      "to": "thumbs-up-format-expansion",
+      "why": "The greeting presents cooking as another mode inside the road series."
+    },
+    {
+      "t": 5,
+      "to": "road-budget-constraint",
+      "why": "Lack of money motivates the improvised meal rather than culinary refinement."
+    },
+    {
+      "t": 9,
+      "to": "reuse-and-residue",
+      "why": "Residual fried-chicken grease becomes an ingredient."
+    },
+    {
+      "t": 14,
+      "to": "convenience-store-cooking",
+      "why": "Microwave ramen anchors the meal in travel/convenience infrastructure."
+    },
+    {
+      "t": 20,
+      "to": "oversized-container",
+      "why": "A Big Gulp-size comparison turns portion and brand into visual comedy."
+    },
+    {
+      "t": 24,
+      "to": "brand-circumlocution",
+      "why": "The speaker avoids saying 7-Eleven directly while making the reference unmistakable."
+    },
+    {
+      "t": 28,
+      "to": "free-condiment-boundary",
+      "why": "A comic abundance claim is not a store policy or entitlement."
+    },
+    {
+      "t": 37,
+      "to": "presentation-as-cooking",
+      "why": "Visual arrangement is treated as part of the recipe."
+    },
+    {
+      "t": 40,
+      "to": "texture-transformation",
+      "why": "Pork rinds soften and expand, linking process to the final dish."
+    },
+    {
+      "t": 51,
+      "to": "personal-verdict",
+      "why": "The fragment ends with the cook's own approval rather than an external review."
+    }
   ],
   "source_notes": [
-    {"t": 0, "claim": "The upload is a complete Cooking Choe episode.", "assessment": "The official page is only 55 seconds and begins/ends as a compact fragment. Catalog it as a fragment unless a longer master is found.", "source": "https://www.youtube.com/watch?v=ve6W8gFmNQQ"},
-    {"t": 0, "claim": "The title proves which credited person speaks each line.", "assessment": "It does not. The auto captions contain no publisher-name prefixes; title credits identify participants/subjects, not turn-level speakers.", "source": "https://www.youtube.com/watch?v=ve6W8gFmNQQ"},
-    {"t": 28, "claim": "7-Eleven permits unlimited free condiments.", "assessment": "This is source banter, not a verified chain or store policy.", "source": "https://www.youtube.com/watch?v=ve6W8gFmNQQ"}
+    {
+      "t": 0,
+      "claim": "The upload is a complete Cooking Choe episode.",
+      "assessment": "The official page is only 55 seconds and begins/ends as a compact fragment. Catalog it as a fragment unless a longer master is found.",
+      "source": "https://www.youtube.com/watch?v=ve6W8gFmNQQ"
+    },
+    {
+      "t": 0,
+      "claim": "The title proves which credited person speaks each line.",
+      "assessment": "It does not. The auto captions contain no publisher-name prefixes; title credits identify participants/subjects, not turn-level speakers.",
+      "source": "https://www.youtube.com/watch?v=ve6W8gFmNQQ"
+    },
+    {
+      "t": 28,
+      "claim": "7-Eleven permits unlimited free condiments.",
+      "assessment": "This is source banter, not a verified chain or store policy.",
+      "source": "https://www.youtube.com/watch?v=ve6W8gFmNQQ"
+    }
   ],
   "speaker_policy": {
     "status": "all turns unresolved; named turns withheld",
     "reason": "The title credits David Choe and Harry Kim, but no caption contains a publisher speaker prefix. Voice familiarity, title order and a single dominant voice are insufficient for named publication without acoustic verification."
   },
   "content_warnings": [
-    {"t": 9, "warning": "high-fat improvised food"},
-    {"t": 14, "warning": "microwave/container safety unspecified"},
-    {"t": 20, "warning": "large-portion framing"},
-    {"t": 23, "warning": "fried pork ingredient"},
-    {"t": 28, "warning": "unverified free-condiment claim"},
-    {"t": 31, "warning": "high-sodium condiment-heavy meal"},
-    {"t": 46, "warning": "broad mayonnaise-preference claim"},
-    {"t": 48, "warning": "allergy/dietary/refrigeration context absent"}
+    {
+      "t": 9,
+      "warning": "high-fat improvised food"
+    },
+    {
+      "t": 14,
+      "warning": "microwave/container safety unspecified"
+    },
+    {
+      "t": 20,
+      "warning": "large-portion framing"
+    },
+    {
+      "t": 23,
+      "warning": "fried pork ingredient"
+    },
+    {
+      "t": 28,
+      "warning": "unverified free-condiment claim"
+    },
+    {
+      "t": 31,
+      "warning": "high-sodium condiment-heavy meal"
+    },
+    {
+      "t": 46,
+      "warning": "broad mayonnaise-preference claim"
+    },
+    {
+      "t": 48,
+      "warning": "allergy/dietary/refrigeration context absent"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve the source literally; keep correction and context separate."},
-    {"t": 0.1, "rule": "Call this a fragment, not a complete episode, until a longer master is evidenced."},
-    {"t": 0.2, "rule": "Do not publish David/Harry named turns from title credits or voice intuition."},
-    {"t": 5, "rule": "Do not present the meal as general budget, nutrition or health advice."},
-    {"t": 9, "rule": "Do not infer that a visually clean container is sanitary or safe."},
-    {"t": 14, "rule": "Do not reproduce microwave instructions without container and appliance safety context."},
-    {"t": 20, "rule": "Big Gulp is a size/brand comparison, not verified container identity or endorsement."},
-    {"t": 28, "rule": "Do not publish the condiment joke as 7-Eleven policy or permission."},
-    {"t": 46, "rule": "Do not convert a personal mayonnaise generalization into preference or allergy fact."},
-    {"t": 51, "rule": "The final taste verdict belongs to the unresolved speaker and is not consensus."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve the source literally; keep correction and context separate."
+    },
+    {
+      "t": 0.1,
+      "rule": "Call this a fragment, not a complete episode, until a longer master is evidenced."
+    },
+    {
+      "t": 0.2,
+      "rule": "Do not publish David/Harry named turns from title credits or voice intuition."
+    },
+    {
+      "t": 5,
+      "rule": "Do not present the meal as general budget, nutrition or health advice."
+    },
+    {
+      "t": 9,
+      "rule": "Do not infer that a visually clean container is sanitary or safe."
+    },
+    {
+      "t": 14,
+      "rule": "Do not reproduce microwave instructions without container and appliance safety context."
+    },
+    {
+      "t": 20,
+      "rule": "Big Gulp is a size/brand comparison, not verified container identity or endorsement."
+    },
+    {
+      "t": 28,
+      "rule": "Do not publish the condiment joke as 7-Eleven policy or permission."
+    },
+    {
+      "t": 46,
+      "rule": "Do not convert a personal mayonnaise generalization into preference or allergy fact."
+    },
+    {
+      "t": 51,
+      "rule": "The final taste verdict belongs to the unresolved speaker and is not consensus."
+    }
+  ],
+  "description": "This official 55-second fragment presents an improvised low-budget road meal: leftover fried-chicken grease, microwaved ramen, chili, jalapeños, pork rinds and mayonnaise arranged with comic food-show attention to presentation.",
+  "description_source": "Opening of the human-reviewed summary."
 }

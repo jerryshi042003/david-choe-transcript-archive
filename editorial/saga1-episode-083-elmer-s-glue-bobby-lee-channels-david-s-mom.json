@@ -33,84 +33,332 @@
     "The vocabulary output still contains semantic rewrites and global name expansions; the accepted fixture rejects them."
   ],
   "chapters": [
-    {"t": 0, "title": "Previously-on montage"},
-    {"t": 120, "title": "Studio pre-roll and show opening"},
-    {"t": 240, "title": "Heather Leather, hot dogs and performance"},
-    {"t": 360, "title": "Bass playing, style and crew check-in"},
-    {"t": 480, "title": "Grammy Boys housing rules"},
-    {"t": 600, "title": "Best-man duties and bachelor-party scale"},
-    {"t": 720, "title": "Popsicle invention and unsafe product claims"},
-    {"t": 840, "title": "Wedding sequence and rebellion"},
-    {"t": 960, "title": "Late arrival and work scheduling"},
-    {"t": 1080, "title": "Wedding invitation and address near-miss"},
-    {"t": 1200, "title": "Elmer's Glue gift and stated two-year abstinence"},
-    {"t": 1320, "title": "The room celebrates the resumed ritual"},
-    {"t": 1440, "title": "Others imitate the glue process"},
-    {"t": 1560, "title": "Disneyland gratitude and social openness"},
-    {"t": 1680, "title": "Bobby Lee with fans at Disneyland"},
-    {"t": 1800, "title": "Glue ritual, driving and Candy Crush"},
-    {"t": 1920, "title": "Boredom and a texted dermatillomania label"},
-    {"t": 2040, "title": "Body molds and promised product"},
-    {"t": 2160, "title": "Private sexual routine"},
-    {"t": 2280, "title": "Ritual precision and shortcut rejection"},
-    {"t": 2400, "title": "Unsafe mucous-membrane glue speculation"},
-    {"t": 2520, "title": "Relationship novelty and marking metaphor"},
-    {"t": 2640, "title": "Hawaii invitation tension begins"},
-    {"t": 2760, "title": "Parents, television and approval"},
-    {"t": 2880, "title": "Family generalizations and glue layers"},
-    {"t": 3000, "title": "First-person gambling account"},
-    {"t": 3120, "title": "Loss chasing and Hawaii resentment"},
-    {"t": 3240, "title": "No-loss promises to friends"},
-    {"t": 3360, "title": "Parent investment story becomes channeling"},
-    {"t": 3480, "title": "Improvised mother asks for one million dollars"},
-    {"t": 3600, "title": "Family obligation and art as cash machine"},
-    {"t": 3720, "title": "Private family and prior-episode details folded into sketch"},
-    {"t": 3840, "title": "Suicide and firearm escalation"},
-    {"t": 3960, "title": "Sketch ends; family trip consequence explained"},
-    {"t": 4080, "title": "Who belongs on a Hawaii location episode"},
-    {"t": 4200, "title": "Invitation vote and fairness"},
-    {"t": 4320, "title": "Phone attention and unequal show rules"},
-    {"t": 4440, "title": "Contribution used as travel criterion"},
-    {"t": 4560, "title": "Texting expectations and Video Game Awards"},
-    {"t": 4680, "title": "Margaret Cho invitation and indirect refusal"},
-    {"t": 4800, "title": "Celebrity-access rumor and Bob Spectacular exit"},
-    {"t": 4920, "title": "Momofuku grievance and glue-room agitation"},
-    {"t": 5040, "title": "Conversation interruption versus paranoia"},
-    {"t": 5160, "title": "Manufactured drama and demand for tape"},
-    {"t": 5280, "title": "Private partner nearly outed"},
-    {"t": 5400, "title": "Hawaii dates and third-party health privacy"},
-    {"t": 5520, "title": "Comedy, Club 939 and relationship privacy"},
-    {"t": 5640, "title": "Glue-drying competition"},
-    {"t": 5760, "title": "Thumb molds and escalation ideas"},
-    {"t": 5880, "title": "Bobby Trivia: horror and cop shows"},
-    {"t": 6000, "title": "Song-lyric trivia"},
-    {"t": 6120, "title": "Fingerprints, television and year-end close"},
-    {"t": 6240, "title": "Hawaii special and New Year card"},
-    {"t": 6360, "title": "Audience intimacy and final peel"},
-    {"t": 6480, "title": "Contact coordination and RØDE microphones"},
-    {"t": 6600, "title": "Post-show glue handling"}
+    {
+      "t": 0,
+      "title": "Previously-on montage"
+    },
+    {
+      "t": 120,
+      "title": "Studio pre-roll and show opening"
+    },
+    {
+      "t": 240,
+      "title": "Heather Leather, hot dogs and performance"
+    },
+    {
+      "t": 360,
+      "title": "Bass playing, style and crew check-in"
+    },
+    {
+      "t": 480,
+      "title": "Grammy Boys housing rules"
+    },
+    {
+      "t": 600,
+      "title": "Best-man duties and bachelor-party scale"
+    },
+    {
+      "t": 720,
+      "title": "Popsicle invention and unsafe product claims"
+    },
+    {
+      "t": 840,
+      "title": "Wedding sequence and rebellion"
+    },
+    {
+      "t": 960,
+      "title": "Late arrival and work scheduling"
+    },
+    {
+      "t": 1080,
+      "title": "Wedding invitation and address near-miss"
+    },
+    {
+      "t": 1200,
+      "title": "Elmer's Glue gift and stated two-year abstinence"
+    },
+    {
+      "t": 1320,
+      "title": "The room celebrates the resumed ritual"
+    },
+    {
+      "t": 1440,
+      "title": "Others imitate the glue process"
+    },
+    {
+      "t": 1560,
+      "title": "Disneyland gratitude and social openness"
+    },
+    {
+      "t": 1680,
+      "title": "Bobby Lee with fans at Disneyland"
+    },
+    {
+      "t": 1800,
+      "title": "Glue ritual, driving and Candy Crush"
+    },
+    {
+      "t": 1920,
+      "title": "Boredom and a texted dermatillomania label"
+    },
+    {
+      "t": 2040,
+      "title": "Body molds and promised product"
+    },
+    {
+      "t": 2160,
+      "title": "Private sexual routine"
+    },
+    {
+      "t": 2280,
+      "title": "Ritual precision and shortcut rejection"
+    },
+    {
+      "t": 2400,
+      "title": "Unsafe mucous-membrane glue speculation"
+    },
+    {
+      "t": 2520,
+      "title": "Relationship novelty and marking metaphor"
+    },
+    {
+      "t": 2640,
+      "title": "Hawaii invitation tension begins"
+    },
+    {
+      "t": 2760,
+      "title": "Parents, television and approval"
+    },
+    {
+      "t": 2880,
+      "title": "Family generalizations and glue layers"
+    },
+    {
+      "t": 3000,
+      "title": "First-person gambling account"
+    },
+    {
+      "t": 3120,
+      "title": "Loss chasing and Hawaii resentment"
+    },
+    {
+      "t": 3240,
+      "title": "No-loss promises to friends"
+    },
+    {
+      "t": 3360,
+      "title": "Parent investment story becomes channeling"
+    },
+    {
+      "t": 3480,
+      "title": "Improvised mother asks for one million dollars"
+    },
+    {
+      "t": 3600,
+      "title": "Family obligation and art as cash machine"
+    },
+    {
+      "t": 3720,
+      "title": "Private family and prior-episode details folded into sketch"
+    },
+    {
+      "t": 3840,
+      "title": "Suicide and firearm escalation"
+    },
+    {
+      "t": 3960,
+      "title": "Sketch ends; family trip consequence explained"
+    },
+    {
+      "t": 4080,
+      "title": "Who belongs on a Hawaii location episode"
+    },
+    {
+      "t": 4200,
+      "title": "Invitation vote and fairness"
+    },
+    {
+      "t": 4320,
+      "title": "Phone attention and unequal show rules"
+    },
+    {
+      "t": 4440,
+      "title": "Contribution used as travel criterion"
+    },
+    {
+      "t": 4560,
+      "title": "Texting expectations and Video Game Awards"
+    },
+    {
+      "t": 4680,
+      "title": "Margaret Cho invitation and indirect refusal"
+    },
+    {
+      "t": 4800,
+      "title": "Celebrity-access rumor and Bob Spectacular exit"
+    },
+    {
+      "t": 4920,
+      "title": "Momofuku grievance and glue-room agitation"
+    },
+    {
+      "t": 5040,
+      "title": "Conversation interruption versus paranoia"
+    },
+    {
+      "t": 5160,
+      "title": "Manufactured drama and demand for tape"
+    },
+    {
+      "t": 5280,
+      "title": "Private partner nearly outed"
+    },
+    {
+      "t": 5400,
+      "title": "Hawaii dates and third-party health privacy"
+    },
+    {
+      "t": 5520,
+      "title": "Comedy, Club 939 and relationship privacy"
+    },
+    {
+      "t": 5640,
+      "title": "Glue-drying competition"
+    },
+    {
+      "t": 5760,
+      "title": "Thumb molds and escalation ideas"
+    },
+    {
+      "t": 5880,
+      "title": "Bobby Trivia: horror and cop shows"
+    },
+    {
+      "t": 6000,
+      "title": "Song-lyric trivia"
+    },
+    {
+      "t": 6120,
+      "title": "Fingerprints, television and year-end close"
+    },
+    {
+      "t": 6240,
+      "title": "Hawaii special and New Year card"
+    },
+    {
+      "t": 6360,
+      "title": "Audience intimacy and final peel"
+    },
+    {
+      "t": 6480,
+      "title": "Contact coordination and RØDE microphones"
+    },
+    {
+      "t": 6600,
+      "title": "Post-show glue handling"
+    }
   ],
   "connections": [
-    {"from": 213, "to": "DVDASA production history", "relationship": "late-2013 ensemble format"},
-    {"from": 390, "to": "Heather Leather music record", "relationship": "bass memory and live theme performance"},
-    {"from": 480, "to": "Grammy Boys", "relationship": "housing, employment and informal governance"},
-    {"from": 625, "to": "Bobby Trivia wedding", "relationship": "best-man speech and invitation"},
-    {"from": 760, "to": "Nima Nabavi", "relationship": "recurring product-development lead"},
-    {"from": 1200, "to": "Bobby Lee glue ritual", "relationship": "title object and recurrence"},
-    {"from": 1286, "to": "Wynn / Venetian / Bellagio", "relationship": "casino-host retention and relapse access"},
-    {"from": 1560, "to": "Disneyland outing", "relationship": "fan interaction and group history"},
-    {"from": 1874, "to": "Candy Crush Saga", "relationship": "boredom, attention and distracted driving"},
-    {"from": 1920, "to": "dermatillomania", "relationship": "audience-supplied label rejected as diagnosis"},
-    {"from": 3000, "to": "gambling and wealth", "relationship": "loss chasing, guarantees and family repetition"},
-    {"from": 3416, "to": "David Choe family archive", "relationship": "improvised mother impersonation; not source testimony"},
-    {"from": 4080, "to": "DVDASA Hawaii episode", "relationship": "location-show planning and team boundary"},
-    {"from": 4560, "to": "Rockstar Games / Video Game Awards", "relationship": "invitation, status and text etiquette"},
-    {"from": 4680, "to": "Margaret Cho", "relationship": "comedy invitation and friendship expectations"},
-    {"from": 4790, "to": "Eric Stonestreet", "relationship": "celebrity-status grievance"},
-    {"from": 4890, "to": "Scrotum Coat Tumblr", "relationship": "fan-site lead for public-source census"},
-    {"from": 4930, "to": "Momofuku", "relationship": "conversation-attention dispute"},
-    {"from": 5520, "to": "Club 939", "relationship": "Honolulu performance/location lead"},
-    {"from": 5870, "to": "Off the Sidelines and Into the Limelight", "relationship": "recurring Bobby Trivia segment and vinyl"}
+    {
+      "from": 213,
+      "to": "DVDASA production history",
+      "relationship": "late-2013 ensemble format"
+    },
+    {
+      "from": 390,
+      "to": "Heather Leather music record",
+      "relationship": "bass memory and live theme performance"
+    },
+    {
+      "from": 480,
+      "to": "Grammy Boys",
+      "relationship": "housing, employment and informal governance"
+    },
+    {
+      "from": 625,
+      "to": "Bobby Trivia wedding",
+      "relationship": "best-man speech and invitation"
+    },
+    {
+      "from": 760,
+      "to": "Nima Nabavi",
+      "relationship": "recurring product-development lead"
+    },
+    {
+      "from": 1200,
+      "to": "Bobby Lee glue ritual",
+      "relationship": "title object and recurrence"
+    },
+    {
+      "from": 1286,
+      "to": "Wynn / Venetian / Bellagio",
+      "relationship": "casino-host retention and relapse access"
+    },
+    {
+      "from": 1560,
+      "to": "Disneyland outing",
+      "relationship": "fan interaction and group history"
+    },
+    {
+      "from": 1874,
+      "to": "Candy Crush Saga",
+      "relationship": "boredom, attention and distracted driving"
+    },
+    {
+      "from": 1920,
+      "to": "dermatillomania",
+      "relationship": "audience-supplied label rejected as diagnosis"
+    },
+    {
+      "from": 3000,
+      "to": "gambling and wealth",
+      "relationship": "loss chasing, guarantees and family repetition"
+    },
+    {
+      "from": 3416,
+      "to": "David Choe family archive",
+      "relationship": "improvised mother impersonation; not source testimony"
+    },
+    {
+      "from": 4080,
+      "to": "DVDASA Hawaii episode",
+      "relationship": "location-show planning and team boundary"
+    },
+    {
+      "from": 4560,
+      "to": "Rockstar Games / Video Game Awards",
+      "relationship": "invitation, status and text etiquette"
+    },
+    {
+      "from": 4680,
+      "to": "Margaret Cho",
+      "relationship": "comedy invitation and friendship expectations"
+    },
+    {
+      "from": 4790,
+      "to": "Eric Stonestreet",
+      "relationship": "celebrity-status grievance"
+    },
+    {
+      "from": 4890,
+      "to": "Scrotum Coat Tumblr",
+      "relationship": "fan-site lead for public-source census"
+    },
+    {
+      "from": 4930,
+      "to": "Momofuku",
+      "relationship": "conversation-attention dispute"
+    },
+    {
+      "from": 5520,
+      "to": "Club 939",
+      "relationship": "Honolulu performance/location lead"
+    },
+    {
+      "from": 5870,
+      "to": "Off the Sidelines and Into the Limelight",
+      "relationship": "recurring Bobby Trivia segment and vinyl"
+    }
   ],
   "content_warnings": [
     "compulsive-behavior discussion",
@@ -133,5 +381,21 @@
     "threats and aggressive language",
     "adult-industry health discussion",
     "medical misinformation"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Bobby Lee"
+  ],
+  "places": [
+    "party"
+  ],
+  "works": [
+    "Taken"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 83 is an unusually clear record of a group turning one participant's unwanted ritual back into live entertainment.",
+  "description_source": "Opening of the human-reviewed summary."
 }

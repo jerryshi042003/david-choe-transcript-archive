@@ -23,96 +23,367 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 21, "title": "Cute, beautiful and fear of the day"},
-    {"t": 54, "title": "Going through fear"},
-    {"t": 74, "title": "Stair push, trust and hard timeout"},
-    {"t": 94, "title": "Wind-kiss bit and direct stop"},
-    {"t": 117, "title": "Impossible contact-address riff"},
-    {"t": 165, "title": "Two large wood panels and a change of scale"},
-    {"t": 203, "title": "First sit-down with Oliver Tree"},
-    {"t": 215, "title": "Body-paint refusal and lingering residue"},
-    {"t": 231, "title": "Oliver Tree name performance"},
-    {"t": 243, "title": "Bobby Lee, cameras and unaired Choe Show footage"},
-    {"t": 289, "title": "Phony, brother and family resemblance"},
-    {"t": 314, "title": "Body exercise, pain and stopping"},
-    {"t": 345, "title": "A.A. Promises as interpretive performance"},
-    {"t": 477, "title": "Praise, inspiration and blowing smoke"},
-    {"t": 510, "title": "Oliver enters Choe's imagination"},
-    {"t": 548, "title": "The Choe Show parent room"},
-    {"t": 613, "title": "Compulsion, stopping and care"},
-    {"t": 633, "title": "Gratitude and word-association ritual"},
-    {"t": 678, "title": "Demanding the greatest-artist compliment"},
-    {"t": 797, "title": "Bobby encounter as show business"},
-    {"t": 812, "title": "Oliver's mask and character distance"},
-    {"t": 862, "title": "How The Choe Show changed Oliver's path"},
-    {"t": 979, "title": "Double Rainbow and the damaged sale story"},
-    {"t": 1037, "title": "Lost paintings in a storm"},
-    {"t": 1098, "title": "Relapse and thirty days sober"},
-    {"t": 1149, "title": "Fatherhood and giving his daughter security"},
-    {"t": 1175, "title": "Touch boundary, unsafe feeling and fight proposal"},
-    {"t": 1214, "title": "Treatment resentment, EMDR and reconciliation"}
+    {
+      "t": 21,
+      "title": "Cute, beautiful and fear of the day"
+    },
+    {
+      "t": 54,
+      "title": "Going through fear"
+    },
+    {
+      "t": 74,
+      "title": "Stair push, trust and hard timeout"
+    },
+    {
+      "t": 94,
+      "title": "Wind-kiss bit and direct stop"
+    },
+    {
+      "t": 117,
+      "title": "Impossible contact-address riff"
+    },
+    {
+      "t": 165,
+      "title": "Two large wood panels and a change of scale"
+    },
+    {
+      "t": 203,
+      "title": "First sit-down with Oliver Tree"
+    },
+    {
+      "t": 215,
+      "title": "Body-paint refusal and lingering residue"
+    },
+    {
+      "t": 231,
+      "title": "Oliver Tree name performance"
+    },
+    {
+      "t": 243,
+      "title": "Bobby Lee, cameras and unaired Choe Show footage"
+    },
+    {
+      "t": 289,
+      "title": "Phony, brother and family resemblance"
+    },
+    {
+      "t": 314,
+      "title": "Body exercise, pain and stopping"
+    },
+    {
+      "t": 345,
+      "title": "A.A. Promises as interpretive performance"
+    },
+    {
+      "t": 477,
+      "title": "Praise, inspiration and blowing smoke"
+    },
+    {
+      "t": 510,
+      "title": "Oliver enters Choe's imagination"
+    },
+    {
+      "t": 548,
+      "title": "The Choe Show parent room"
+    },
+    {
+      "t": 613,
+      "title": "Compulsion, stopping and care"
+    },
+    {
+      "t": 633,
+      "title": "Gratitude and word-association ritual"
+    },
+    {
+      "t": 678,
+      "title": "Demanding the greatest-artist compliment"
+    },
+    {
+      "t": 797,
+      "title": "Bobby encounter as show business"
+    },
+    {
+      "t": 812,
+      "title": "Oliver's mask and character distance"
+    },
+    {
+      "t": 862,
+      "title": "How The Choe Show changed Oliver's path"
+    },
+    {
+      "t": 979,
+      "title": "Double Rainbow and the damaged sale story"
+    },
+    {
+      "t": 1037,
+      "title": "Lost paintings in a storm"
+    },
+    {
+      "t": 1098,
+      "title": "Relapse and thirty days sober"
+    },
+    {
+      "t": 1149,
+      "title": "Fatherhood and giving his daughter security"
+    },
+    {
+      "t": 1175,
+      "title": "Touch boundary, unsafe feeling and fight proposal"
+    },
+    {
+      "t": 1214,
+      "title": "Treatment resentment, EMDR and reconciliation"
+    }
   ],
-  "people": ["David Choe", "Bobby Lee", "Oliver Tree", "David Chang", "Tom Hanks"],
-  "places": ["California", "CalArts", "Marin County"],
-  "works": ["The Choe Show"],
-  "themes": ["performance", "artistic influence", "recovery", "relapse", "treatment", "friendship", "resentment", "apology", "physical boundaries", "persona", "fatherhood"],
+  "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Oliver Tree",
+    "David Chang",
+    "Tom Hanks"
+  ],
+  "places": [
+    "California",
+    "CalArts",
+    "Marin County"
+  ],
+  "works": [
+    "The Choe Show"
+  ],
+  "themes": [
+    "performance",
+    "artistic influence",
+    "recovery",
+    "relapse",
+    "treatment",
+    "friendship",
+    "resentment",
+    "apology",
+    "physical boundaries",
+    "persona",
+    "fatherhood"
+  ],
   "connections": [
-    {"t": 54, "to": "fear-as-invitation", "why": "Choe again frames fear as something to move through, but the episode immediately tests why consent and a hard timeout remain separate from that philosophy."},
-    {"t": 165, "to": "scale-and-material-scarcity", "why": "Found wood and broken doors connect material scarcity to the later ambition for funded large-scale environments."},
-    {"t": 215, "to": "body-art-boundaries", "why": "A prior body-painting memory produces an unambiguous present refusal and a concrete harm account."},
-    {"t": 243, "to": "camera-dependent-friendship", "why": "The cast directly questions whether contact exists outside recorded performance."},
-    {"t": 314, "to": "body-exercise-versus-pain", "why": "The exercise cannot be summarized as freeing without the audible pain and stop evidence."},
-    {"t": 345, "to": "recovery-language-as-performance", "why": "The A.A. Promises are recited, interrupted and altered, joining recovery text to interpretive performance."},
-    {"t": 477, "to": "praise-and-authenticity", "why": "The episode repeatedly asks whether admiration is honest, performed, demanded or protective."},
-    {"t": 548, "to": "choe-show-parent-room", "why": "Oliver returns to the parent-room encounter as a model of participation and emotional risk."},
-    {"t": 678, "to": "greatest-artist-demand", "why": "The forced compliment exposes the contradiction between wanting recognition and distrusting praise."},
-    {"t": 812, "to": "persona-as-mask", "why": "Oliver explicitly distinguishes his public character from private self, a crucial archive-wide warning against reading performance literally."},
-    {"t": 862, "to": "creative-infrastructure", "why": "The Choe Show becomes evidence of what funding, collaborators and an institutional army can enable."},
-    {"t": 979, "to": "double-rainbow-origin-story", "why": "The familiar early-art story appears again, but a damaged price line must not be repaired from memory."},
-    {"t": 1098, "to": "sobriety-and-relapse", "why": "A twenty-year sobriety claim is followed by relapse and a time-bounded thirty-day status; none should be published alone."},
-    {"t": 1214, "to": "treatment-and-one-upmanship", "why": "David Chang is invoked as a parallel for how years-in-treatment comparisons can turn shared recovery language into hierarchy."}
+    {
+      "t": 54,
+      "to": "fear-as-invitation",
+      "why": "Choe again frames fear as something to move through, but the episode immediately tests why consent and a hard timeout remain separate from that philosophy."
+    },
+    {
+      "t": 165,
+      "to": "scale-and-material-scarcity",
+      "why": "Found wood and broken doors connect material scarcity to the later ambition for funded large-scale environments."
+    },
+    {
+      "t": 215,
+      "to": "body-art-boundaries",
+      "why": "A prior body-painting memory produces an unambiguous present refusal and a concrete harm account."
+    },
+    {
+      "t": 243,
+      "to": "camera-dependent-friendship",
+      "why": "The cast directly questions whether contact exists outside recorded performance."
+    },
+    {
+      "t": 314,
+      "to": "body-exercise-versus-pain",
+      "why": "The exercise cannot be summarized as freeing without the audible pain and stop evidence."
+    },
+    {
+      "t": 345,
+      "to": "recovery-language-as-performance",
+      "why": "The A.A. Promises are recited, interrupted and altered, joining recovery text to interpretive performance."
+    },
+    {
+      "t": 477,
+      "to": "praise-and-authenticity",
+      "why": "The episode repeatedly asks whether admiration is honest, performed, demanded or protective."
+    },
+    {
+      "t": 548,
+      "to": "choe-show-parent-room",
+      "why": "Oliver returns to the parent-room encounter as a model of participation and emotional risk."
+    },
+    {
+      "t": 678,
+      "to": "greatest-artist-demand",
+      "why": "The forced compliment exposes the contradiction between wanting recognition and distrusting praise."
+    },
+    {
+      "t": 812,
+      "to": "persona-as-mask",
+      "why": "Oliver explicitly distinguishes his public character from private self, a crucial archive-wide warning against reading performance literally."
+    },
+    {
+      "t": 862,
+      "to": "creative-infrastructure",
+      "why": "The Choe Show becomes evidence of what funding, collaborators and an institutional army can enable."
+    },
+    {
+      "t": 979,
+      "to": "double-rainbow-origin-story",
+      "why": "The familiar early-art story appears again, but a damaged price line must not be repaired from memory."
+    },
+    {
+      "t": 1098,
+      "to": "sobriety-and-relapse",
+      "why": "A twenty-year sobriety claim is followed by relapse and a time-bounded thirty-day status; none should be published alone."
+    },
+    {
+      "t": 1214,
+      "to": "treatment-and-one-upmanship",
+      "why": "David Chang is invoked as a parallel for how years-in-treatment comparisons can turn shared recovery language into hierarchy."
+    }
   ],
   "source_notes": [
-    {"t": 345, "claim": "The performed passage is the A.A. 'Promises.'", "assessment": "A.A.'s official explanation locates the passage in Chapter 6 of the Big Book. The source performance omits lines and inserts direct-address insults, so it is not a clean reading.", "source": "https://www.aa.org/faq/what-are-promises"},
-    {"t": 889, "claim": "Oliver says he was finishing art school at CalArts.", "assessment": "CalArts is the institution named in the recording. The archive should preserve this as Oliver's autobiographical account rather than infer a degree or date from the clip alone.", "source": "https://calarts.edu/art"},
-    {"t": 1286, "claim": "The cast discusses EMDR in treatment.", "assessment": "EMDR is a clinician-led psychotherapy; the clip establishes only that a participant reports undergoing it, not a diagnosis, protocol or outcome.", "source": "https://www.emdria.org/about-emdr-therapy/"}
+    {
+      "t": 345,
+      "claim": "The performed passage is the A.A. 'Promises.'",
+      "assessment": "A.A.'s official explanation locates the passage in Chapter 6 of the Big Book. The source performance omits lines and inserts direct-address insults, so it is not a clean reading.",
+      "source": "https://www.aa.org/faq/what-are-promises"
+    },
+    {
+      "t": 889,
+      "claim": "Oliver says he was finishing art school at CalArts.",
+      "assessment": "CalArts is the institution named in the recording. The archive should preserve this as Oliver's autobiographical account rather than infer a degree or date from the clip alone.",
+      "source": "https://calarts.edu/art"
+    },
+    {
+      "t": 1286,
+      "claim": "The cast discusses EMDR in treatment.",
+      "assessment": "EMDR is a clinician-led psychotherapy; the clip establishes only that a participant reports undergoing it, not a diagnosis, protocol or outcome.",
+      "source": "https://www.emdria.org/about-emdr-therapy/"
+    }
   ],
   "speaker_policy": {
     "status": "withhold named dialogue",
     "reason": "The video makes participant identity visually inferable in many scenes, but the transcript is cut across music, reenactment, overlapping speech and montage. No listening-verified turn boundaries or held-out acoustic identity windows exist for this item. Names may index the work; line-level speaker labels remain withheld."
   },
   "content_warnings": [
-    {"t": 74, "warning": "proposed stair push and trust test"},
-    {"t": 94, "warning": "direct physical stop"},
-    {"t": 215, "warning": "body-paint refusal and reported prolonged residue"},
-    {"t": 314, "warning": "pain during physical exercise"},
-    {"t": 345, "warning": "recovery text altered for performance"},
-    {"t": 563, "warning": "family guilt and emotional disclosure"},
-    {"t": 613, "warning": "compulsive inability-to-stop language"},
-    {"t": 678, "warning": "pressured praise and dishonesty"},
-    {"t": 797, "warning": "staged pushing, fighting and sexual-performance references"},
-    {"t": 1037, "warning": "loss and despair in an art-origin story"},
-    {"t": 1098, "warning": "substance-use relapse and early sobriety"},
-    {"t": 1149, "warning": "childhood deprivation and family disclosure"},
-    {"t": 1175, "warning": "touch refusal, unsafe feeling and proposed real fight"},
-    {"t": 1214, "warning": "treatment, resentment, anger and reconciliation"}
+    {
+      "t": 74,
+      "warning": "proposed stair push and trust test"
+    },
+    {
+      "t": 94,
+      "warning": "direct physical stop"
+    },
+    {
+      "t": 215,
+      "warning": "body-paint refusal and reported prolonged residue"
+    },
+    {
+      "t": 314,
+      "warning": "pain during physical exercise"
+    },
+    {
+      "t": 345,
+      "warning": "recovery text altered for performance"
+    },
+    {
+      "t": 563,
+      "warning": "family guilt and emotional disclosure"
+    },
+    {
+      "t": 613,
+      "warning": "compulsive inability-to-stop language"
+    },
+    {
+      "t": 678,
+      "warning": "pressured praise and dishonesty"
+    },
+    {
+      "t": 797,
+      "warning": "staged pushing, fighting and sexual-performance references"
+    },
+    {
+      "t": 1037,
+      "warning": "loss and despair in an art-origin story"
+    },
+    {
+      "t": 1098,
+      "warning": "substance-use relapse and early sobriety"
+    },
+    {
+      "t": 1149,
+      "warning": "childhood deprivation and family disclosure"
+    },
+    {
+      "t": 1175,
+      "warning": "touch refusal, unsafe feeling and proposed real fight"
+    },
+    {
+      "t": 1214,
+      "warning": "treatment, resentment, anger and reconciliation"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every idea; corrections, context and warnings remain separate from source speech."},
-    {"t": 0, "rule": "Withhold named line-level dialogue pending listening-verified boundaries and held-out acoustic validation."},
-    {"t": 21, "rule": "Do not reconstruct publisher-masked words from later jokes or context."},
-    {"t": 74, "rule": "Do not describe proposed or edited physical acts as completed without video review."},
-    {"t": 94, "rule": "Keep each direct stop/refusal adjacent to the act or proposal it limits."},
-    {"t": 117, "rule": "Do not expose the comic contact-address sequence as verified contact information."},
-    {"t": 215, "rule": "Do not separate the prior body-painting memory from the present refusal and harm report."},
-    {"t": 314, "rule": "Do not call the exercise therapeutic or freeing while omitting the pain response."},
-    {"t": 345, "rule": "Distinguish canonical A.A. text from this edited interpretive performance."},
-    {"t": 563, "rule": "Do not turn family disclosure into searchable private-relative profiles."},
-    {"t": 812, "rule": "Do not collapse an explicitly described public mask into stable private personality."},
-    {"t": 979, "rule": "Leave the damaged sale-price line unresolved; do not import a number from another retelling."},
-    {"t": 1098, "rule": "Publish sobriety, relapse and thirty-day status only as a complete time-bounded self-report."},
-    {"t": 1149, "rule": "Do not create a discoverable child identity or family profile."},
-    {"t": 1175, "rule": "Do not isolate the fight proposal from touch refusal and unsafe-feeling language."},
-    {"t": 1214, "rule": "Treatment names are reported experience, not diagnosis, medical advice or proof of outcome."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every idea; corrections, context and warnings remain separate from source speech."
+    },
+    {
+      "t": 0,
+      "rule": "Withhold named line-level dialogue pending listening-verified boundaries and held-out acoustic validation."
+    },
+    {
+      "t": 21,
+      "rule": "Do not reconstruct publisher-masked words from later jokes or context."
+    },
+    {
+      "t": 74,
+      "rule": "Do not describe proposed or edited physical acts as completed without video review."
+    },
+    {
+      "t": 94,
+      "rule": "Keep each direct stop/refusal adjacent to the act or proposal it limits."
+    },
+    {
+      "t": 117,
+      "rule": "Do not expose the comic contact-address sequence as verified contact information."
+    },
+    {
+      "t": 215,
+      "rule": "Do not separate the prior body-painting memory from the present refusal and harm report."
+    },
+    {
+      "t": 314,
+      "rule": "Do not call the exercise therapeutic or freeing while omitting the pain response."
+    },
+    {
+      "t": 345,
+      "rule": "Distinguish canonical A.A. text from this edited interpretive performance."
+    },
+    {
+      "t": 563,
+      "rule": "Do not turn family disclosure into searchable private-relative profiles."
+    },
+    {
+      "t": 812,
+      "rule": "Do not collapse an explicitly described public mask into stable private personality."
+    },
+    {
+      "t": 979,
+      "rule": "Leave the damaged sale-price line unresolved; do not import a number from another retelling."
+    },
+    {
+      "t": 1098,
+      "rule": "Publish sobriety, relapse and thirty-day status only as a complete time-bounded self-report."
+    },
+    {
+      "t": 1149,
+      "rule": "Do not create a discoverable child identity or family profile."
+    },
+    {
+      "t": 1175,
+      "rule": "Do not isolate the fight proposal from touch refusal and unsafe-feeling language."
+    },
+    {
+      "t": 1214,
+      "rule": "Treatment names are reported experience, not diagnosis, medical advice or proof of outcome."
+    }
+  ],
+  "description": "A heavily edited three-person film about performance, artistic influence, recovery, resentment and attempted repair.",
+  "description_source": "Opening of the human-reviewed summary."
 }

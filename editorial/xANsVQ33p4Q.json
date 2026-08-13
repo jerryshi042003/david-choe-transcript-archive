@@ -606,5 +606,7 @@
       "t": 106,
       "rule": "retain source mask/uncertainty and do not invent missing words"
     }
-  ]
+  ],
+  "description": "A 1:48 Kevin Smith-titled excerpt about caring for Mulder, a large yellow Lab who could no longer use his hind legs and had recently died.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -971,5 +971,27 @@
       "t": 10994,
       "rule": "decoder repetition removed; no meaningful speech inferred"
     }
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Andy Milonakis",
+    "Nikki Skyler",
+    "Joe Rogan"
+  ],
+  "places": [
+    "party"
+  ],
+  "works": [
+    "Momofuku Ko",
+    "November 2",
+    "Friends",
+    "Mangchi",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Chapter 25 is both a three-hour relationship autopsy and the clearest internal product critique so far.",
+  "description_source": "Opening of the human-reviewed summary."
 }

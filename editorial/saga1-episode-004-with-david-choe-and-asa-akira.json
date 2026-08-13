@@ -1,21 +1,66 @@
 {
   "summary": "The fourth DVDASA episode begins immediately after Episode Three and first turns Bobby Namba's need to leave—his girlfriend Carol is waiting—into an argument about work, friendship, obligation, and the silent treatment. Before he goes, the group discusses travel and the Hong Kong club in Tijuana, then plays a Michael J. Fox trivia round. With Bobby gone, the remaining conversation repeatedly tries and fails to become wholesome: sexual-health practices lead into language and consent, Yoshi's escalating moral hypotheticals, Asa's account of being assaulted at a concert, debates about reporting and marital consent, embarrassment on Japanese trains, and three overlapping arrest and jail stories. The episode is most useful as evidence of the show's format: serious experiences and ethical disagreements are continually pulled into provocation, competition, and autobiographical performance.",
   "chapters": [
-    {"t": 9, "title": "Episode Four begins where the previous punishment ended"},
-    {"t": 170, "title": "Bobby, Carol, work, and the silent treatment"},
-    {"t": 400, "title": "Travel plans and the Hong Kong club in Tijuana"},
-    {"t": 850, "title": "Trivia With Bobby: Michael J. Fox and Family Ties"},
-    {"t": 1250, "title": "After Bobby leaves: sexual health and performance"},
-    {"t": 2000, "title": "Language, misunderstanding, and transactional boundaries"},
-    {"t": 2500, "title": "Yoshi's moral hypotheticals begin"},
-    {"t": 3200, "title": "Would-you-rather escalation and the limits of the game"},
-    {"t": 3490, "title": "Asa's concert assault and the question of reporting"},
-    {"t": 4300, "title": "Consent, marriage, obligation, and contracts"},
-    {"t": 4680, "title": "Shame and etiquette on Japanese trains"},
-    {"t": 5000, "title": "Yoshi's arrest, handcuffs, and jail routines"},
-    {"t": 5200, "title": "Asa's shoplifting arrest and her mother's reaction"},
-    {"t": 5450, "title": "David's art-school food theft and five days in jail"},
-    {"t": 6126, "title": "Another failed attempt at a wholesome show"}
+    {
+      "t": 9,
+      "title": "Episode Four begins where the previous punishment ended"
+    },
+    {
+      "t": 170,
+      "title": "Bobby, Carol, work, and the silent treatment"
+    },
+    {
+      "t": 400,
+      "title": "Travel plans and the Hong Kong club in Tijuana"
+    },
+    {
+      "t": 850,
+      "title": "Trivia With Bobby: Michael J. Fox and Family Ties"
+    },
+    {
+      "t": 1250,
+      "title": "After Bobby leaves: sexual health and performance"
+    },
+    {
+      "t": 2000,
+      "title": "Language, misunderstanding, and transactional boundaries"
+    },
+    {
+      "t": 2500,
+      "title": "Yoshi's moral hypotheticals begin"
+    },
+    {
+      "t": 3200,
+      "title": "Would-you-rather escalation and the limits of the game"
+    },
+    {
+      "t": 3490,
+      "title": "Asa's concert assault and the question of reporting"
+    },
+    {
+      "t": 4300,
+      "title": "Consent, marriage, obligation, and contracts"
+    },
+    {
+      "t": 4680,
+      "title": "Shame and etiquette on Japanese trains"
+    },
+    {
+      "t": 5000,
+      "title": "Yoshi's arrest, handcuffs, and jail routines"
+    },
+    {
+      "t": 5200,
+      "title": "Asa's shoplifting arrest and her mother's reaction"
+    },
+    {
+      "t": 5450,
+      "title": "David's art-school food theft and five days in jail"
+    },
+    {
+      "t": 6126,
+      "title": "Another failed attempt at a wholesome show"
+    }
   ],
   "people": [
     "David Choe",
@@ -95,5 +140,7 @@
     "correction_fixture": "episode-004-correction-fixture.json",
     "content_note": "The episode contains explicit sexual material, offensive language, hypothetical harm involving children and illness, discussion of assault and marital rape, crime, incarceration, and racial harassment. Editorial structure does not endorse the participants' claims."
   },
-  "note": "Chapter titles and connections are editorial. The ASR and cleaner are statistically strong; logged proper-noun repairs improve retrieval, but exact quotations and speaker attribution still require audio validation."
+  "note": "Chapter titles and connections are editorial. The ASR and cleaner are statistically strong; logged proper-noun repairs improve retrieval, but exact quotations and speaker attribution still require audio validation.",
+  "description": "The fourth DVDASA episode begins immediately after Episode Three and first turns Bobby Namba's need to leave—his girlfriend Carol is waiting—into an argument about work, friendship, obligation, and the silent treatment.",
+  "description_source": "Opening of the human-reviewed summary."
 }

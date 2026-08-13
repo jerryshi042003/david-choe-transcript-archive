@@ -49,6 +49,9 @@ node tests/editorial-coverage.test.mjs
 node scripts/build_reupload_editorial.mjs
 node scripts/build_excerpt_editorial.mjs
 node scripts/build_official_editorial.mjs
+node scripts/build_external_editorial.mjs
+node scripts/build_visual_editorial.mjs
+node scripts/review_editorial_entities.mjs
 node scripts/embed_editorial.mjs
 node scripts/build_trivia_coverage.mjs
 node scripts/audit_editorial_coverage.mjs
@@ -77,6 +80,17 @@ clip is an independent interview.
 route-by-route review map for David Choe's official creative lessons. It keeps
 art metaphors separate from medical advice and flags technique that still
 depends on the source video.
+The external and visual builders cover publisher commentary, performances,
+trailers, and transcript-sparse footage. Sparse records say what cannot be
+recovered instead of inventing speech or visual action. The entity-review pass
+requires every route to have reviewed people, places, works, and themes; empty
+place/work arrays mean the source was reviewed and did not support one.
+
+Current completion contract: 434 catalog cards resolve to 421 unique reader
+routes. All 421 have reviewed summaries, descriptions, chronological chapters,
+people/entities, themes, connections, and reviewed place/work status. The
+coverage manifest must have zero incomplete routes, and the DVDASA trivia ledger
+must remain 177/177 reviewed with 167 passages present.
 
 ## Repository boundary
 

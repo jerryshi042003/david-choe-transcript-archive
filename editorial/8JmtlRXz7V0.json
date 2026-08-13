@@ -1,293 +1,1314 @@
 {
-  "episode_id":"8JmtlRXz7V0",
-  "title":"Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life",
-  "reviewed_on":"2026-07-31",
-  "summary":"Cartoonist Kayfabe brings Ed Piskor, Jim Rugg, Geof Darrow and David Choe together for a conversation about Meltdown Comics, collecting, France, drawing pressure, violence and detail, Hard Boiled, Shaolin Cowboy, Moebius, coloring, City of Fire, friendship, self-criticism, suffering mythology, Frank Miller, Lynn Varley, Hanna-Barbera, Japan, graffiti, manga and material technique. Choe repeatedly presses Darrow to experiment with less control and more self-regard; Darrow answers with concrete explanations of why he draws as he does. The episode's strongest thread is not that art diagnoses its maker, but that friendship can challenge a creative habit without overruling the artist. Oral histories, credit disputes, health claims, private relationships, cultural generalizations and then-future commerce remain attributed and qualified. The interview ends near 99:05; the remaining 3:32 is publisher promotion. Every idea and masked publisher token remains, while corrections and restrictions stay separate. No line-level speaker names are published.",
-  "quality":{"raw_segments":2556,"clean_segments":2556,"raw_words_approx":19386,"clean_words_approx":19386,"duration_seconds":6158.56,"accepted_context_decisions":186,"chapters":179,"connections":24,"content_warnings":24,"identity_windows":0,"named_turns":0,"publisher_labeled_speakers":0,"cleaning_edits":0,"cleaning_net_word_delta":0,"public_restriction_spans":53},
-  "chapters":[
-    {"t":3,"title":"music and Kayfabe opening"},
-    {"t":8,"title":"Piskor and Rugg introduce Darrow and Choe"},
-    {"t":31,"title":"Meltdown Comics toy and Gaston memory"},
-    {"t":52,"title":"Kanye West and Simon Bisley connection"},
-    {"t":64,"title":"Meltdown as Hollywood comic-book hub"},
-    {"t":102,"title":"Leonardo DiCaprio collector story"},
-    {"t":131,"title":"Shaolin Cowboy dinosaur spread"},
-    {"t":148,"title":"Darrow re-inks after selling original"},
-    {"t":157,"title":"do collectors want friendship"},
-    {"t":197,"title":"French television detour"},
-    {"t":275,"title":"translated show titles"},
-    {"t":313,"title":"Darrow's 2018 move to France"},
-    {"t":348,"title":"drawing-centered life abroad"},
-    {"t":361,"title":"Choe's Portugal move and visa return"},
-    {"t":383,"title":"1980s France without legal status"},
-    {"t":397,"title":"terror attacks and discriminatory checks"},
-    {"t":466,"title":"residency through French spouse"},
-    {"t":490,"title":"community versus solitary drawing"},
-    {"t":514,"title":"geography's effect on Choe's art"},
-    {"t":537,"title":"Darrow's France jokes fade from work"},
-    {"t":559,"title":"Choe thanks Kayfabe and addresses Darrow"},
-    {"t":582,"title":"first impact of Darrow's violent detail"},
-    {"t":621,"title":"art interpreted as hidden trauma"},
-    {"t":648,"title":"original-art pencil pressure"},
-    {"t":676,"title":"decades of technical consistency"},
-    {"t":703,"title":"beautifully depicted death"},
-    {"t":726,"title":"permission check before trauma retelling"},
-    {"t":767,"title":"wordless comics and observational density"},
-    {"t":805,"title":"bullying recollection and childhood inference"},
-    {"t":831,"title":"work that appears beyond human"},
-    {"t":859,"title":"Straight Outta Compton formal comparison"},
-    {"t":881,"title":"Escher, Rockwell and Moebius comparison"},
-    {"t":900,"title":"Frank Miller authorship question"},
-    {"t":930,"title":"Shaolin Cowboy blood as action ballet"},
-    {"t":966,"title":"Hollywood and Matrix detour"},
-    {"t":987,"title":"return to comics and continued growth"},
-    {"t":1022,"title":"nudity joke turns into mental-illness claim"},
-    {"t":1060,"title":"anger, society and line intensity"},
-    {"t":1086,"title":"hard lines preserve erased underdrawing"},
-    {"t":1115,"title":"Choe's mark-making personality heuristic"},
-    {"t":1193,"title":"Darrow praised as unmatched draftsman"},
-    {"t":1220,"title":"Kayfabe house advertisement"},
-    {"t":1261,"title":"Darrow's marker-coloring history"},
-    {"t":1297,"title":"finishing work after meeting Moebius"},
-    {"t":1326,"title":"coloring abandoned because of labor"},
-    {"t":1346,"title":"Big Guy and Rusty marker example"},
-    {"t":1409,"title":"Choe questions Darrow's published color"},
-    {"t":1430,"title":"Lynn Varley, Claude Legris and Dave Stewart"},
-    {"t":1450,"title":"City of Fire as coloring benchmark"},
-    {"t":1494,"title":"Gary Groth and unsigned-work dispute"},
-    {"t":1548,"title":"Kayfabe discovers City of Fire portfolio"},
-    {"t":1581,"title":"Choe buys signed portfolio"},
-    {"t":1621,"title":"who drew what in the collaboration"},
-    {"t":1673,"title":"scarcity and collector-price recollection"},
-    {"t":1681,"title":"Darrow describes drawing with Moebius"},
-    {"t":1690,"title":"unrealized film and comic-strip route"},
-    {"t":1720,"title":"Moebius's early support"},
-    {"t":1779,"title":"declined Jack Kirby invitation"},
-    {"t":1801,"title":"crude spaceship mistaken for computer graphics"},
-    {"t":1838,"title":"learning perspective at Hanna-Barbera"},
-    {"t":1885,"title":"Moebius praises later strip"},
-    {"t":1920,"title":"funeral regret and unmade calls"},
-    {"t":1948,"title":"Choe recognizes the same friendship pattern"},
-    {"t":2000,"title":"Harvey Pekar and late-career entourages"},
-    {"t":2095,"title":"sex-cult joke and Liberatore nightlife"},
-    {"t":2132,"title":"Les Bains Douches recollection"},
-    {"t":2151,"title":"unsafe HIV speculation"},
-    {"t":2170,"title":"minor-age character and edition change"},
-    {"t":2201,"title":"self-defeating talk returns"},
-    {"t":2224,"title":"cheesecake density critique"},
-    {"t":2262,"title":"permission to leave visual breathing room"},
-    {"t":2331,"title":"private non-dominant-hand drawing day"},
-    {"t":2385,"title":"control versus expression"},
-    {"t":2421,"title":"explosive pages need contrast"},
-    {"t":2451,"title":"Darrow tests a quiet top tier"},
-    {"t":2501,"title":"simplicity followed by sixty-four panels"},
-    {"t":2519,"title":"watercolor and oil proposal"},
-    {"t":2539,"title":"Catholic-school painting breach"},
-    {"t":2583,"title":"leaning into material discomfort"},
-    {"t":2630,"title":"Stern and Rogan watercolor influence claim"},
-    {"t":2653,"title":"donkey painting for Darrow's daughter"},
-    {"t":2677,"title":"hand pain and uncertain cause"},
-    {"t":2702,"title":"informal carpal-tunnel advice"},
-    {"t":2736,"title":"DVDASA and Joe Rogan's Kirby dismissal"},
-    {"t":2773,"title":"Todd McFarlane and Jeff Purves Hulk memory"},
-    {"t":2801,"title":"comic references in Beef"},
-    {"t":2831,"title":"Larkin Seiple searches for Spawn image"},
-    {"t":2877,"title":"Darrow pinup identified"},
-    {"t":2901,"title":"graffiti observation in Hard Boiled"},
-    {"t":2931,"title":"Oceanwide Plaza towers"},
-    {"t":2997,"title":"visit and unfinished art-show idea"},
-    {"t":3015,"title":"Portugal graffiti rekindles urge"},
-    {"t":3040,"title":"Vhils and international crews"},
-    {"t":3071,"title":"experiment without projection"},
-    {"t":3116,"title":"getting Choe back to Japan"},
-    {"t":3130,"title":"historic arrest and difficult entry"},
-    {"t":3162,"title":"Osamu Tezuka facsimile edition"},
-    {"t":3227,"title":"Japanese book hunter and artist editions"},
-    {"t":3262,"title":"Ashita no Joe and Kodansha"},
-    {"t":3317,"title":"Choe asks about creative self-belief"},
-    {"t":3415,"title":"Darrow fears complacency"},
-    {"t":3454,"title":"pleasure in a monster-tail invention"},
-    {"t":3494,"title":"background events sustain drawing interest"},
-    {"t":3554,"title":"lonely figure added after sequence"},
-    {"t":3570,"title":"collaboration versus solo work"},
-    {"t":3608,"title":"self-hatred claimed as quality formula"},
-    {"t":3667,"title":"Peter Chung and contrast philosophy"},
-    {"t":3688,"title":"Choe revises constant-suffering doctrine"},
-    {"t":3751,"title":"Moebius as joyful counterexample"},
-    {"t":3757,"title":"one-day pride experiment"},
-    {"t":3794,"title":"does great art require depression"},
-    {"t":3811,"title":"past suffering need not continue"},
-    {"t":3841,"title":"Frank Miller panel and privacy refusal"},
-    {"t":3874,"title":"Ronin Book Two criticism"},
-    {"t":3908,"title":"absence of backgrounds"},
-    {"t":3969,"title":"Darrow wants to ask Miller"},
-    {"t":3981,"title":"Miller contact access is complicated"},
-    {"t":4036,"title":"near-fatal car memory"},
-    {"t":4063,"title":"Darrow added pages and details"},
-    {"t":4115,"title":"scatological material dispute"},
-    {"t":4133,"title":"was Varley considered for Hard Boiled"},
-    {"t":4152,"title":"Elektra Lives Again coloring recollection"},
-    {"t":4190,"title":"time-consuming art and vanished friendships"},
-    {"t":4221,"title":"Kent Melton death and regret"},
-    {"t":4271,"title":"firsthand memory as oral art history"},
-    {"t":4321,"title":"mentorship missing from modern comics"},
-    {"t":4351,"title":"Hanna-Barbera elder network"},
-    {"t":4392,"title":"Owen Fitzgerald and Dennis the Menace"},
-    {"t":4415,"title":"where Darrow's animation work appears"},
-    {"t":4434,"title":"Super Friends monsters and spaceships"},
-    {"t":4479,"title":"Smurfs and Scooby-Doo work"},
-    {"t":4485,"title":"church Satanism claim about Smurfs"},
-    {"t":4510,"title":"reported red-Smurf request"},
-    {"t":4531,"title":"Setsubun and oni"},
-    {"t":4559,"title":"speculative Dutch-sailor origin theory"},
-    {"t":4583,"title":"being a very big foreigner in Japan"},
-    {"t":4611,"title":"Madhouse workplace culture tests"},
-    {"t":4683,"title":"bottle-cap charity collection"},
-    {"t":4724,"title":"Japanese workshop access through Darrow"},
-    {"t":4757,"title":"unresolved Shin Godzilla sculptor"},
-    {"t":4768,"title":"unresolved Star Wars manga artist"},
-    {"t":4801,"title":"private workshop and model inventory"},
-    {"t":4827,"title":"sculptural sketchbook"},
-    {"t":4865,"title":"comparison to Choe jail sketchbooks"},
-    {"t":4898,"title":"Japan as overwhelming artist pilgrimage"},
-    {"t":4968,"title":"children drawing at a zoo"},
-    {"t":5003,"title":"unsupported genetic explanation"},
-    {"t":5015,"title":"hosts begin closing"},
-    {"t":5038,"title":"Darrow praises Choe's Kayfabe interviews"},
-    {"t":5072,"title":"cardboard-box Comic-Con story"},
-    {"t":5162,"title":"Alice Darrow and Futurama"},
-    {"t":5214,"title":"collaboration deferred for friendship"},
-    {"t":5267,"title":"Darrow's American-comics belonging"},
-    {"t":5321,"title":"Liberatore and Aldo Maccione resemblance"},
-    {"t":5351,"title":"how Liberatore found practice time"},
-    {"t":5394,"title":"marker blending and damaged fingertips"},
-    {"t":5405,"title":"Albin Michel and electric eraser"},
-    {"t":5421,"title":"Liberatore film and César claims"},
-    {"t":5442,"title":"Ghostbusters and Olympic work delays"},
-    {"t":5471,"title":"Dick Rivers cover delay"},
-    {"t":5496,"title":"advances and unfinished work"},
-    {"t":5513,"title":"option money and unmade films"},
-    {"t":5525,"title":"American Splendor option anecdote"},
-    {"t":5550,"title":"new Shaolin Cowboy editions"},
-    {"t":5594,"title":"gallery edition announcement"},
-    {"t":5634,"title":"Hard Boiled art on unfamiliar paper"},
-    {"t":5659,"title":"Moebius light-box method"},
-    {"t":5694,"title":"Opalux material explained"},
-    {"t":5740,"title":"sun yellowing and brittleness"},
-    {"t":5792,"title":"Opalux compared with Mylar"},
-    {"t":5814,"title":"watercolor callback"},
-    {"t":5835,"title":"one-day Choe-Darrow comic premise"},
-    {"t":5859,"title":"24-hour comic rules"},
-    {"t":5905,"title":"interview thanks and direct friendship repair"},
-    {"t":5945,"title":"publisher promotional outro begins"},
-    {"t":6013,"title":"Piskor book promotion"},
-    {"t":6077,"title":"Rugg book promotion"},
-    {"t":6134,"title":"newsletter and merchandise"},
-    {"t":6153,"title":"read more comics sign-off"}
+  "episode_id": "8JmtlRXz7V0",
+  "title": "Geof Darrow and David Choe in conversation about drawing, Hardboiled, Shaolin Cowboy, painting, life",
+  "reviewed_on": "2026-07-31",
+  "summary": "Cartoonist Kayfabe brings Ed Piskor, Jim Rugg, Geof Darrow and David Choe together for a conversation about Meltdown Comics, collecting, France, drawing pressure, violence and detail, Hard Boiled, Shaolin Cowboy, Moebius, coloring, City of Fire, friendship, self-criticism, suffering mythology, Frank Miller, Lynn Varley, Hanna-Barbera, Japan, graffiti, manga and material technique. Choe repeatedly presses Darrow to experiment with less control and more self-regard; Darrow answers with concrete explanations of why he draws as he does. The episode's strongest thread is not that art diagnoses its maker, but that friendship can challenge a creative habit without overruling the artist. Oral histories, credit disputes, health claims, private relationships, cultural generalizations and then-future commerce remain attributed and qualified. The interview ends near 99:05; the remaining 3:32 is publisher promotion. Every idea and masked publisher token remains, while corrections and restrictions stay separate. No line-level speaker names are published.",
+  "quality": {
+    "raw_segments": 2556,
+    "clean_segments": 2556,
+    "raw_words_approx": 19386,
+    "clean_words_approx": 19386,
+    "duration_seconds": 6158.56,
+    "accepted_context_decisions": 186,
+    "chapters": 179,
+    "connections": 24,
+    "content_warnings": 24,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 53
+  },
+  "chapters": [
+    {
+      "t": 3,
+      "title": "music and Kayfabe opening"
+    },
+    {
+      "t": 8,
+      "title": "Piskor and Rugg introduce Darrow and Choe"
+    },
+    {
+      "t": 31,
+      "title": "Meltdown Comics toy and Gaston memory"
+    },
+    {
+      "t": 52,
+      "title": "Kanye West and Simon Bisley connection"
+    },
+    {
+      "t": 64,
+      "title": "Meltdown as Hollywood comic-book hub"
+    },
+    {
+      "t": 102,
+      "title": "Leonardo DiCaprio collector story"
+    },
+    {
+      "t": 131,
+      "title": "Shaolin Cowboy dinosaur spread"
+    },
+    {
+      "t": 148,
+      "title": "Darrow re-inks after selling original"
+    },
+    {
+      "t": 157,
+      "title": "do collectors want friendship"
+    },
+    {
+      "t": 197,
+      "title": "French television detour"
+    },
+    {
+      "t": 275,
+      "title": "translated show titles"
+    },
+    {
+      "t": 313,
+      "title": "Darrow's 2018 move to France"
+    },
+    {
+      "t": 348,
+      "title": "drawing-centered life abroad"
+    },
+    {
+      "t": 361,
+      "title": "Choe's Portugal move and visa return"
+    },
+    {
+      "t": 383,
+      "title": "1980s France without legal status"
+    },
+    {
+      "t": 397,
+      "title": "terror attacks and discriminatory checks"
+    },
+    {
+      "t": 466,
+      "title": "residency through French spouse"
+    },
+    {
+      "t": 490,
+      "title": "community versus solitary drawing"
+    },
+    {
+      "t": 514,
+      "title": "geography's effect on Choe's art"
+    },
+    {
+      "t": 537,
+      "title": "Darrow's France jokes fade from work"
+    },
+    {
+      "t": 559,
+      "title": "Choe thanks Kayfabe and addresses Darrow"
+    },
+    {
+      "t": 582,
+      "title": "first impact of Darrow's violent detail"
+    },
+    {
+      "t": 621,
+      "title": "art interpreted as hidden trauma"
+    },
+    {
+      "t": 648,
+      "title": "original-art pencil pressure"
+    },
+    {
+      "t": 676,
+      "title": "decades of technical consistency"
+    },
+    {
+      "t": 703,
+      "title": "beautifully depicted death"
+    },
+    {
+      "t": 726,
+      "title": "permission check before trauma retelling"
+    },
+    {
+      "t": 767,
+      "title": "wordless comics and observational density"
+    },
+    {
+      "t": 805,
+      "title": "bullying recollection and childhood inference"
+    },
+    {
+      "t": 831,
+      "title": "work that appears beyond human"
+    },
+    {
+      "t": 859,
+      "title": "Straight Outta Compton formal comparison"
+    },
+    {
+      "t": 881,
+      "title": "Escher, Rockwell and Moebius comparison"
+    },
+    {
+      "t": 900,
+      "title": "Frank Miller authorship question"
+    },
+    {
+      "t": 930,
+      "title": "Shaolin Cowboy blood as action ballet"
+    },
+    {
+      "t": 966,
+      "title": "Hollywood and Matrix detour"
+    },
+    {
+      "t": 987,
+      "title": "return to comics and continued growth"
+    },
+    {
+      "t": 1022,
+      "title": "nudity joke turns into mental-illness claim"
+    },
+    {
+      "t": 1060,
+      "title": "anger, society and line intensity"
+    },
+    {
+      "t": 1086,
+      "title": "hard lines preserve erased underdrawing"
+    },
+    {
+      "t": 1115,
+      "title": "Choe's mark-making personality heuristic"
+    },
+    {
+      "t": 1193,
+      "title": "Darrow praised as unmatched draftsman"
+    },
+    {
+      "t": 1220,
+      "title": "Kayfabe house advertisement"
+    },
+    {
+      "t": 1261,
+      "title": "Darrow's marker-coloring history"
+    },
+    {
+      "t": 1297,
+      "title": "finishing work after meeting Moebius"
+    },
+    {
+      "t": 1326,
+      "title": "coloring abandoned because of labor"
+    },
+    {
+      "t": 1346,
+      "title": "Big Guy and Rusty marker example"
+    },
+    {
+      "t": 1409,
+      "title": "Choe questions Darrow's published color"
+    },
+    {
+      "t": 1430,
+      "title": "Lynn Varley, Claude Legris and Dave Stewart"
+    },
+    {
+      "t": 1450,
+      "title": "City of Fire as coloring benchmark"
+    },
+    {
+      "t": 1494,
+      "title": "Gary Groth and unsigned-work dispute"
+    },
+    {
+      "t": 1548,
+      "title": "Kayfabe discovers City of Fire portfolio"
+    },
+    {
+      "t": 1581,
+      "title": "Choe buys signed portfolio"
+    },
+    {
+      "t": 1621,
+      "title": "who drew what in the collaboration"
+    },
+    {
+      "t": 1673,
+      "title": "scarcity and collector-price recollection"
+    },
+    {
+      "t": 1681,
+      "title": "Darrow describes drawing with Moebius"
+    },
+    {
+      "t": 1690,
+      "title": "unrealized film and comic-strip route"
+    },
+    {
+      "t": 1720,
+      "title": "Moebius's early support"
+    },
+    {
+      "t": 1779,
+      "title": "declined Jack Kirby invitation"
+    },
+    {
+      "t": 1801,
+      "title": "crude spaceship mistaken for computer graphics"
+    },
+    {
+      "t": 1838,
+      "title": "learning perspective at Hanna-Barbera"
+    },
+    {
+      "t": 1885,
+      "title": "Moebius praises later strip"
+    },
+    {
+      "t": 1920,
+      "title": "funeral regret and unmade calls"
+    },
+    {
+      "t": 1948,
+      "title": "Choe recognizes the same friendship pattern"
+    },
+    {
+      "t": 2000,
+      "title": "Harvey Pekar and late-career entourages"
+    },
+    {
+      "t": 2095,
+      "title": "sex-cult joke and Liberatore nightlife"
+    },
+    {
+      "t": 2132,
+      "title": "Les Bains Douches recollection"
+    },
+    {
+      "t": 2151,
+      "title": "unsafe HIV speculation"
+    },
+    {
+      "t": 2170,
+      "title": "minor-age character and edition change"
+    },
+    {
+      "t": 2201,
+      "title": "self-defeating talk returns"
+    },
+    {
+      "t": 2224,
+      "title": "cheesecake density critique"
+    },
+    {
+      "t": 2262,
+      "title": "permission to leave visual breathing room"
+    },
+    {
+      "t": 2331,
+      "title": "private non-dominant-hand drawing day"
+    },
+    {
+      "t": 2385,
+      "title": "control versus expression"
+    },
+    {
+      "t": 2421,
+      "title": "explosive pages need contrast"
+    },
+    {
+      "t": 2451,
+      "title": "Darrow tests a quiet top tier"
+    },
+    {
+      "t": 2501,
+      "title": "simplicity followed by sixty-four panels"
+    },
+    {
+      "t": 2519,
+      "title": "watercolor and oil proposal"
+    },
+    {
+      "t": 2539,
+      "title": "Catholic-school painting breach"
+    },
+    {
+      "t": 2583,
+      "title": "leaning into material discomfort"
+    },
+    {
+      "t": 2630,
+      "title": "Stern and Rogan watercolor influence claim"
+    },
+    {
+      "t": 2653,
+      "title": "donkey painting for Darrow's daughter"
+    },
+    {
+      "t": 2677,
+      "title": "hand pain and uncertain cause"
+    },
+    {
+      "t": 2702,
+      "title": "informal carpal-tunnel advice"
+    },
+    {
+      "t": 2736,
+      "title": "DVDASA and Joe Rogan's Kirby dismissal"
+    },
+    {
+      "t": 2773,
+      "title": "Todd McFarlane and Jeff Purves Hulk memory"
+    },
+    {
+      "t": 2801,
+      "title": "comic references in Beef"
+    },
+    {
+      "t": 2831,
+      "title": "Larkin Seiple searches for Spawn image"
+    },
+    {
+      "t": 2877,
+      "title": "Darrow pinup identified"
+    },
+    {
+      "t": 2901,
+      "title": "graffiti observation in Hard Boiled"
+    },
+    {
+      "t": 2931,
+      "title": "Oceanwide Plaza towers"
+    },
+    {
+      "t": 2997,
+      "title": "visit and unfinished art-show idea"
+    },
+    {
+      "t": 3015,
+      "title": "Portugal graffiti rekindles urge"
+    },
+    {
+      "t": 3040,
+      "title": "Vhils and international crews"
+    },
+    {
+      "t": 3071,
+      "title": "experiment without projection"
+    },
+    {
+      "t": 3116,
+      "title": "getting Choe back to Japan"
+    },
+    {
+      "t": 3130,
+      "title": "historic arrest and difficult entry"
+    },
+    {
+      "t": 3162,
+      "title": "Osamu Tezuka facsimile edition"
+    },
+    {
+      "t": 3227,
+      "title": "Japanese book hunter and artist editions"
+    },
+    {
+      "t": 3262,
+      "title": "Ashita no Joe and Kodansha"
+    },
+    {
+      "t": 3317,
+      "title": "Choe asks about creative self-belief"
+    },
+    {
+      "t": 3415,
+      "title": "Darrow fears complacency"
+    },
+    {
+      "t": 3454,
+      "title": "pleasure in a monster-tail invention"
+    },
+    {
+      "t": 3494,
+      "title": "background events sustain drawing interest"
+    },
+    {
+      "t": 3554,
+      "title": "lonely figure added after sequence"
+    },
+    {
+      "t": 3570,
+      "title": "collaboration versus solo work"
+    },
+    {
+      "t": 3608,
+      "title": "self-hatred claimed as quality formula"
+    },
+    {
+      "t": 3667,
+      "title": "Peter Chung and contrast philosophy"
+    },
+    {
+      "t": 3688,
+      "title": "Choe revises constant-suffering doctrine"
+    },
+    {
+      "t": 3751,
+      "title": "Moebius as joyful counterexample"
+    },
+    {
+      "t": 3757,
+      "title": "one-day pride experiment"
+    },
+    {
+      "t": 3794,
+      "title": "does great art require depression"
+    },
+    {
+      "t": 3811,
+      "title": "past suffering need not continue"
+    },
+    {
+      "t": 3841,
+      "title": "Frank Miller panel and privacy refusal"
+    },
+    {
+      "t": 3874,
+      "title": "Ronin Book Two criticism"
+    },
+    {
+      "t": 3908,
+      "title": "absence of backgrounds"
+    },
+    {
+      "t": 3969,
+      "title": "Darrow wants to ask Miller"
+    },
+    {
+      "t": 3981,
+      "title": "Miller contact access is complicated"
+    },
+    {
+      "t": 4036,
+      "title": "near-fatal car memory"
+    },
+    {
+      "t": 4063,
+      "title": "Darrow added pages and details"
+    },
+    {
+      "t": 4115,
+      "title": "scatological material dispute"
+    },
+    {
+      "t": 4133,
+      "title": "was Varley considered for Hard Boiled"
+    },
+    {
+      "t": 4152,
+      "title": "Elektra Lives Again coloring recollection"
+    },
+    {
+      "t": 4190,
+      "title": "time-consuming art and vanished friendships"
+    },
+    {
+      "t": 4221,
+      "title": "Kent Melton death and regret"
+    },
+    {
+      "t": 4271,
+      "title": "firsthand memory as oral art history"
+    },
+    {
+      "t": 4321,
+      "title": "mentorship missing from modern comics"
+    },
+    {
+      "t": 4351,
+      "title": "Hanna-Barbera elder network"
+    },
+    {
+      "t": 4392,
+      "title": "Owen Fitzgerald and Dennis the Menace"
+    },
+    {
+      "t": 4415,
+      "title": "where Darrow's animation work appears"
+    },
+    {
+      "t": 4434,
+      "title": "Super Friends monsters and spaceships"
+    },
+    {
+      "t": 4479,
+      "title": "Smurfs and Scooby-Doo work"
+    },
+    {
+      "t": 4485,
+      "title": "church Satanism claim about Smurfs"
+    },
+    {
+      "t": 4510,
+      "title": "reported red-Smurf request"
+    },
+    {
+      "t": 4531,
+      "title": "Setsubun and oni"
+    },
+    {
+      "t": 4559,
+      "title": "speculative Dutch-sailor origin theory"
+    },
+    {
+      "t": 4583,
+      "title": "being a very big foreigner in Japan"
+    },
+    {
+      "t": 4611,
+      "title": "Madhouse workplace culture tests"
+    },
+    {
+      "t": 4683,
+      "title": "bottle-cap charity collection"
+    },
+    {
+      "t": 4724,
+      "title": "Japanese workshop access through Darrow"
+    },
+    {
+      "t": 4757,
+      "title": "unresolved Shin Godzilla sculptor"
+    },
+    {
+      "t": 4768,
+      "title": "unresolved Star Wars manga artist"
+    },
+    {
+      "t": 4801,
+      "title": "private workshop and model inventory"
+    },
+    {
+      "t": 4827,
+      "title": "sculptural sketchbook"
+    },
+    {
+      "t": 4865,
+      "title": "comparison to Choe jail sketchbooks"
+    },
+    {
+      "t": 4898,
+      "title": "Japan as overwhelming artist pilgrimage"
+    },
+    {
+      "t": 4968,
+      "title": "children drawing at a zoo"
+    },
+    {
+      "t": 5003,
+      "title": "unsupported genetic explanation"
+    },
+    {
+      "t": 5015,
+      "title": "hosts begin closing"
+    },
+    {
+      "t": 5038,
+      "title": "Darrow praises Choe's Kayfabe interviews"
+    },
+    {
+      "t": 5072,
+      "title": "cardboard-box Comic-Con story"
+    },
+    {
+      "t": 5162,
+      "title": "Alice Darrow and Futurama"
+    },
+    {
+      "t": 5214,
+      "title": "collaboration deferred for friendship"
+    },
+    {
+      "t": 5267,
+      "title": "Darrow's American-comics belonging"
+    },
+    {
+      "t": 5321,
+      "title": "Liberatore and Aldo Maccione resemblance"
+    },
+    {
+      "t": 5351,
+      "title": "how Liberatore found practice time"
+    },
+    {
+      "t": 5394,
+      "title": "marker blending and damaged fingertips"
+    },
+    {
+      "t": 5405,
+      "title": "Albin Michel and electric eraser"
+    },
+    {
+      "t": 5421,
+      "title": "Liberatore film and César claims"
+    },
+    {
+      "t": 5442,
+      "title": "Ghostbusters and Olympic work delays"
+    },
+    {
+      "t": 5471,
+      "title": "Dick Rivers cover delay"
+    },
+    {
+      "t": 5496,
+      "title": "advances and unfinished work"
+    },
+    {
+      "t": 5513,
+      "title": "option money and unmade films"
+    },
+    {
+      "t": 5525,
+      "title": "American Splendor option anecdote"
+    },
+    {
+      "t": 5550,
+      "title": "new Shaolin Cowboy editions"
+    },
+    {
+      "t": 5594,
+      "title": "gallery edition announcement"
+    },
+    {
+      "t": 5634,
+      "title": "Hard Boiled art on unfamiliar paper"
+    },
+    {
+      "t": 5659,
+      "title": "Moebius light-box method"
+    },
+    {
+      "t": 5694,
+      "title": "Opalux material explained"
+    },
+    {
+      "t": 5740,
+      "title": "sun yellowing and brittleness"
+    },
+    {
+      "t": 5792,
+      "title": "Opalux compared with Mylar"
+    },
+    {
+      "t": 5814,
+      "title": "watercolor callback"
+    },
+    {
+      "t": 5835,
+      "title": "one-day Choe-Darrow comic premise"
+    },
+    {
+      "t": 5859,
+      "title": "24-hour comic rules"
+    },
+    {
+      "t": 5905,
+      "title": "interview thanks and direct friendship repair"
+    },
+    {
+      "t": 5945,
+      "title": "publisher promotional outro begins"
+    },
+    {
+      "t": 6013,
+      "title": "Piskor book promotion"
+    },
+    {
+      "t": 6077,
+      "title": "Rugg book promotion"
+    },
+    {
+      "t": 6134,
+      "title": "newsletter and merchandise"
+    },
+    {
+      "t": 6153,
+      "title": "read more comics sign-off"
+    }
   ],
-  "people":["David Choe","Geof Darrow","Ed Piskor","Jim Rugg","Gaston Dominguez-Letelier","Simon Bisley","Leonardo DiCaprio","Frank Miller","Moebius","Jack Kirby","Gary Groth","Gil Kane","Harvey Pekar","Tanino Liberatore","Lynn Varley","Dave Stewart","Claude Legris","Howard Stern","Joe Rogan","Todd McFarlane","Jeff Purves","Larkin Seiple","Vhils","REVOK","Osamu Tezuka","Peter Chung","Paul Pope","Kent Melton","Carmine Infantino","Alfredo Alcala","Alex Niño","Frank Brunner","Owen Fitzgerald","Peyo","Hayao Miyazaki","Alice Darrow","Aldo Maccione","Kevin Eastman","Neil Gaiman"],
-  "places":["Los Angeles","France","Paris","Chicago","Portugal","Japan","Tokyo","San Diego","Meltdown Comics","Oceanwide Plaza","Hanna-Barbera","Madhouse","Los Angeles Comic Con","San Diego Comic-Con"],
-  "works":["Hard Boiled","Shaolin Cowboy","City of Fire","The Matrix","Tron","Straight Outta Compton","The Big Guy and Rusty the Boy Robot","Métal Hurlant","Ronin Book Two","Elektra Lives Again","Richie Rich","Super Friends","The Smurfs","Scooby-Doo","Shin Godzilla","The Empire Strikes Back","Dirty Hands","Beef","Spawn","Ashita no Joe","Futurama","American Splendor","Shaolin Cowboy: Cruel to Be Kin"],
-  "themes":["drawing craft","mark-making","density and contrast","creative confidence","suffering mythology","friendship","calling admired people","oral history","collaborative credit","coloring","materials","collecting","provenance","creative experimentation","immigration memory","graffiti","Japanese comics","cultural generalization","privacy","health uncertainty","publisher structure","unmade works","speaker uncertainty"],
-  "connections":[
-    {"t":31,"to":"meltdown-comics","relationship":"The toy and Gaston story place Meltdown Comics at the intersection of Choe, Darrow, collectors and Hollywood."},
-    {"t":131,"to":"shaolin-cowboy","relationship":"The dinosaur-city spread anchors the early collector story and Darrow's re-inking workflow."},
-    {"t":361,"to":"choe-portugal","relationship":"Choe's Portugal move connects later graffiti renewal and immigration friction."},
-    {"t":621,"to":"art-versus-diagnosis","relationship":"Choe repeatedly infers trauma and mental illness from violent imagery; Darrow later supplies concrete craft explanations."},
-    {"t":859,"to":"choe-influences","relationship":"N.W.A., Escher, Rockwell and Moebius are used to describe a first encounter with a new formal possibility."},
-    {"t":1086,"to":"darrow-craft","relationship":"Hard pencil pressure is explained as an erasure/overlap technique rather than psychological proof."},
-    {"t":1450,"to":"city-of-fire","relationship":"The Moebius collaboration becomes the benchmark for color, attribution and seamless shared drawing."},
-    {"t":1779,"to":"creative-regret","relationship":"Declining Kirby's invitation anticipates the episode's larger regret about assuming admired people are too busy."},
-    {"t":1920,"to":"friendship-and-calling","relationship":"Moebius's widow's reported question becomes a direct argument for calling friends before it is too late."},
-    {"t":2224,"to":"density-and-contrast","relationship":"Choe's cheesecake analogy proposes quiet pages as contrast without denying Darrow's sustained craft."},
-    {"t":2539,"to":"material-avoidance","relationship":"The broken Catholic-school promise supplies Darrow's own origin story for avoiding paint."},
-    {"t":2736,"to":"dvdasa","relationship":"An early Rogan DVDASA appearance is used to establish Choe's deep comics knowledge and changing relationship to fandom."},
-    {"t":2801,"to":"beef","relationship":"Choe describes inserting comics references into Beef and helping identify a Darrow Spawn image for Larkin Seiple."},
-    {"t":2931,"to":"los-angeles-graffiti","relationship":"Oceanwide Plaza reconnects Choe's art practice, Portugal graffiti and a dangerous unfinished-building spectacle."},
-    {"t":3130,"to":"choe-japan","relationship":"A historic arrest is the stated barrier to joining Kayfabe's manga-book trips; it remains self-report, not legal advice."},
-    {"t":3608,"to":"creative-suffering","relationship":"The hosts propose self-hatred as a quality formula before Choe revises his own constant-suffering doctrine."},
-    {"t":3841,"to":"frank-miller","relationship":"Miller's direct privacy refusal and later inaccessible contact complicate fandom's wish to reunite collaborators."},
-    {"t":4063,"to":"hard-boiled-credit","relationship":"Darrow's added pages and details are primary process testimony but not a complete contractual credit record."},
-    {"t":4221,"to":"kent-melton","relationship":"Melton's death turns the abstract call-your-friends theme into recent personal regret."},
-    {"t":4351,"to":"animation-labor-history","relationship":"Darrow's Hanna-Barbera memories connect comics elders, Filipino artists and unindexed animation craft labor."},
-    {"t":4757,"to":"japanese-effects-artists","relationship":"The unresolved sculptor and manga artist show why visible objects and source credits must precede fan identification."},
-    {"t":5003,"to":"cultural-essentialism","relationship":"The genetic drawing-skill suggestion is explicitly insufficient; teaching, exposure and selection remain alternative explanations."},
-    {"t":5214,"to":"unmade-collaborations","relationship":"Choe chooses friendship over forcing a project, leaving the collaboration as an unmade idea."},
-    {"t":5835,"to":"unmade-collaborations","relationship":"The one-day comic supplies a second concrete premise but still no completed work, contract or settled authorship."}
+  "people": [
+    "David Choe",
+    "Geof Darrow",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Gaston Dominguez-Letelier",
+    "Simon Bisley",
+    "Leonardo DiCaprio",
+    "Frank Miller",
+    "Moebius",
+    "Jack Kirby",
+    "Gary Groth",
+    "Gil Kane",
+    "Harvey Pekar",
+    "Tanino Liberatore",
+    "Lynn Varley",
+    "Dave Stewart",
+    "Claude Legris",
+    "Howard Stern",
+    "Joe Rogan",
+    "Todd McFarlane",
+    "Jeff Purves",
+    "Larkin Seiple",
+    "Vhils",
+    "REVOK",
+    "Osamu Tezuka",
+    "Peter Chung",
+    "Paul Pope",
+    "Kent Melton",
+    "Carmine Infantino",
+    "Alfredo Alcala",
+    "Alex Niño",
+    "Frank Brunner",
+    "Owen Fitzgerald",
+    "Peyo",
+    "Hayao Miyazaki",
+    "Alice Darrow",
+    "Aldo Maccione",
+    "Kevin Eastman",
+    "Neil Gaiman"
   ],
-  "source_notes":[
-    {"t":0,"claim":"The known participants make every caption line safely nameable.","assessment":"They do not. Captions have no prefixes and include overlap, jokes, quotation, house ads and off-camera speech.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":621,"claim":"Violent art and hard pencil pressure diagnose trauma or mental illness.","assessment":"They do not; Choe offers an interpretation and Darrow gives a specific craft reason for pressing hard.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":383,"claim":"A 1980s residency story is current French immigration guidance.","assessment":"It is not; current rules and individual legal advice require official French sources and counsel.","source":"https://france-visas.gouv.fr/"},
-    {"t":1525,"claim":"An absent signature proves Darrow did not work on City of Fire.","assessment":"Signature absence is not authorship proof; editions, publisher records and both artists' accounts control.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":2151,"claim":"Sexual history or testing reluctance proves HIV infection.","assessment":"It does not; HIV status requires testing and private health information cannot be inferred.","source":"https://www.cdc.gov/hiv/testing/"},
-    {"t":2677,"claim":"The conversation diagnoses carpal tunnel syndrome and shows how to prevent it.","assessment":"It records uncertain hand pain and informal advice, not an examination or diagnosis.","source":"https://www.ninds.nih.gov/health-information/disorders/carpal-tunnel-syndrome"},
-    {"t":2931,"claim":"The tower discussion provides safe access or event guidance.","assessment":"It does not; the reported site lacks basic infrastructure and includes trespass and jumping hazards.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":3130,"claim":"Choe's Japan-entry account predicts another traveler's admissibility.","assessment":"It does not; entry decisions are individual and current official guidance controls.","source":"https://www.mofa.go.jp/j_info/visit/visa/index.html"},
-    {"t":3691,"claim":"Depression, psychosis or continued suffering is necessary for great art.","assessment":"No such requirement is established; Choe explicitly revises the constant-suffering doctrine in the conversation.","source":"https://www.nimh.nih.gov/health/topics/depression"},
-    {"t":3861,"claim":"Public interest overrides Frank Miller's relationship privacy.","assessment":"It does not; the directly reported refusal is controlling and no contact campaign should follow.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":4063,"claim":"Darrow's account alone settles every Hard Boiled authorship share.","assessment":"It is valuable primary testimony, but scripts, contracts, printed credits and other participants' accounts are also required.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":4510,"claim":"The red-Smurf and Dutch-sailor/oni stories are established history.","assessment":"They are attributed recollection and speculation; independent Japanese and licensing history is needed.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":4757,"claim":"Clues in the workshop story safely identify unnamed Japanese artists.","assessment":"They do not; names remain unresolved until audio or public credits verify them.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":5003,"claim":"Japanese drawing skill is genetic.","assessment":"The anecdotal observations cannot establish genetics; education, practice, selection and exposure remain uncontrolled.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":5531,"claim":"The American Splendor option figures are verified contract history.","assessment":"They are host recollection and require contracts or authoritative production reporting.","source":"https://www.youtube.com/watch?v=8JmtlRXz7V0"},
-    {"t":5694,"claim":"The Opalux discussion is sufficient conservation guidance.","assessment":"It is useful artist testimony; material identification, object condition and a qualified conservator must control treatment.","source":"https://www.conservation-us.org/about-conservation/caring-for-your-treasures"}
+  "places": [
+    "Los Angeles",
+    "France",
+    "Paris",
+    "Chicago",
+    "Portugal",
+    "Japan",
+    "Tokyo",
+    "San Diego",
+    "Meltdown Comics",
+    "Oceanwide Plaza",
+    "Hanna-Barbera",
+    "Madhouse",
+    "Los Angeles Comic Con",
+    "San Diego Comic-Con"
   ],
-  "content_warnings":["childhood bullying","trauma inference","mental-illness language","creative-suffering mythology","HIV and STI speculation","minor-age sexualized comic character","publisher-masked profanity","sexual jokes","scatological imagery","relationship privacy","bereavement","unsafe building access","parachute jumping","trespass","immigration and arrest history","medical misinformation","workplace pranks","religious Satanism claim","cultural stereotypes","genetic essentialism","private family details","collector and object security","stale financial claims","unresolved speaker identity"],
-  "publication_restrictions":[
-    {"t":0,"rule":"publish no named turns without independently held-out acoustic/video validation"},
-    {"t":3,"rule":"retain music and publisher markers as structure"},
-    {"t":31,"rule":"audio/source verify the toy and exact Meltdown context"},
-    {"t":102,"rule":"collector recollection is not current object provenance"},
-    {"t":383,"rule":"do not present historic residency evasion as legal guidance"},
-    {"t":466,"rule":"protect family and residency-document trails"},
-    {"t":621,"rule":"never diagnose trauma or mental illness from art"},
-    {"t":648,"rule":"retain Darrow's craft explanation beside Choe's interpretation"},
-    {"t":726,"rule":"private trauma disclosure remains Darrow-controlled"},
-    {"t":900,"rule":"do not settle collaborative credit from visual impression alone"},
-    {"t":1002,"rule":"do not reproduce unpublished pages from conversational mention"},
-    {"t":1220,"rule":"separate house advertisement from interview speech"},
-    {"t":1494,"rule":"attribute Gary Groth recollection and keep dispute uncertain"},
-    {"t":1525,"rule":"signature absence is not non-authorship proof"},
-    {"t":1673,"rule":"collector prices are historical anecdotes, not appraisals"},
-    {"t":1690,"rule":"leave project title unresolved until audio/source verification"},
-    {"t":1920,"rule":"protect widow, family and private contact details"},
-    {"t":2007,"rule":"do not identify unnamed associates or assert motives"},
-    {"t":2151,"rule":"never infer HIV status from partners, behavior or testing reluctance"},
-    {"t":2170,"rule":"verify edition history and retain minor-age context without eroticization"},
-    {"t":2331,"rule":"do not publish private drawing-session images without permission"},
-    {"t":2539,"rule":"childhood painting account is memory, not diagnosis"},
-    {"t":2630,"rule":"influence on Stern and Rogan is attributed, not sole authorship"},
-    {"t":2677,"rule":"hand pain remains self-report with no diagnosis or cause"},
-    {"t":2702,"rule":"do not present wrist-position talk as medical advice"},
-    {"t":2886,"rule":"tattoo intention is not a completed tattoo"},
-    {"t":2931,"rule":"publish no tower access, trespass, climbing or jumping guidance"},
-    {"t":2997,"rule":"withhold residence proximity and visit route"},
-    {"t":3003,"rule":"unmade art-show and sanitation jokes are not plans"},
-    {"t":3130,"rule":"arrest and entry account is not immigration advice"},
-    {"t":3227,"rule":"protect seller identity, inventory, promises and travel routines"},
-    {"t":3317,"rule":"creative self-criticism is not a mental-health diagnosis"},
-    {"t":3608,"rule":"do not present self-hatred as a quality formula"},
-    {"t":3691,"rule":"retain Choe's revision and reject continued suffering as requirement"},
-    {"t":3861,"rule":"Miller's direct relationship-privacy refusal controls"},
-    {"t":3981,"rule":"do not publish phone numbers, intermediaries or access campaigns"},
-    {"t":4063,"rule":"process testimony does not alone settle contractual authorship"},
-    {"t":4152,"rule":"do not diagnose Varley or mine divorce/contact history"},
-    {"t":4221,"rule":"protect Melton's family and private circumstances"},
-    {"t":4415,"rule":"verify animation credits from production records"},
-    {"t":4485,"rule":"church Satanism story remains attributed childhood context"},
-    {"t":4510,"rule":"red-Smurf and oni-origin claims require independent history"},
-    {"t":4611,"rule":"do not infer silent coworkers' consent to workplace pranks"},
-    {"t":4757,"rule":"never identify unresolved Japanese artists by clue composition"},
-    {"t":4801,"rule":"withhold private workshop location, layout, inventory and access"},
-    {"t":5003,"rule":"reject genetic and cultural-essentialist conclusions"},
-    {"t":5162,"rule":"verify public credit and protect family images/details"},
-    {"t":5214,"rule":"catalog collaboration as unmade unless later primary proof exists"},
-    {"t":5531,"rule":"option figures are not verified finance or contract advice"},
-    {"t":5594,"rule":"then-future release plans are not current announcements"},
-    {"t":5694,"rule":"materials testimony is not conservation treatment guidance"},
-    {"t":5835,"rule":"one-day comic is an unmade premise, not a released work"},
-    {"t":5945,"rule":"separate promotional outro from interview ideas and speakers"}
+  "works": [
+    "Hard Boiled",
+    "Shaolin Cowboy",
+    "City of Fire",
+    "The Matrix",
+    "Tron",
+    "Straight Outta Compton",
+    "The Big Guy and Rusty the Boy Robot",
+    "Métal Hurlant",
+    "Ronin Book Two",
+    "Elektra Lives Again",
+    "Richie Rich",
+    "Super Friends",
+    "The Smurfs",
+    "Scooby-Doo",
+    "Shin Godzilla",
+    "The Empire Strikes Back",
+    "Dirty Hands",
+    "Beef",
+    "Spawn",
+    "Ashita no Joe",
+    "Futurama",
+    "American Splendor",
+    "Shaolin Cowboy: Cruel to Be Kin"
   ],
-  "speaker_policy":{"status":"all line-level turns unresolved; named turns withheld","reason":"The visible episode establishes Ed Piskor, Jim Rugg, Geof Darrow and David Choe as participants, but the 2,556 automatic-caption segments contain no publisher prefixes and include overlap, address, quotation, jokes, media inserts, off-camera speech and a long publisher outro. Topic ownership, adjacency, grammar and episode-level identity cannot prove every line. Only independently held-out, non-overlapping acoustic/video validation may support named turns."}
+  "themes": [
+    "drawing craft",
+    "mark-making",
+    "density and contrast",
+    "creative confidence",
+    "suffering mythology",
+    "friendship",
+    "calling admired people",
+    "oral history",
+    "collaborative credit",
+    "coloring",
+    "materials",
+    "collecting",
+    "provenance",
+    "creative experimentation",
+    "immigration memory",
+    "graffiti",
+    "Japanese comics",
+    "cultural generalization",
+    "privacy",
+    "health uncertainty",
+    "publisher structure",
+    "unmade works",
+    "speaker uncertainty"
+  ],
+  "connections": [
+    {
+      "t": 31,
+      "to": "meltdown-comics",
+      "relationship": "The toy and Gaston story place Meltdown Comics at the intersection of Choe, Darrow, collectors and Hollywood."
+    },
+    {
+      "t": 131,
+      "to": "shaolin-cowboy",
+      "relationship": "The dinosaur-city spread anchors the early collector story and Darrow's re-inking workflow."
+    },
+    {
+      "t": 361,
+      "to": "choe-portugal",
+      "relationship": "Choe's Portugal move connects later graffiti renewal and immigration friction."
+    },
+    {
+      "t": 621,
+      "to": "art-versus-diagnosis",
+      "relationship": "Choe repeatedly infers trauma and mental illness from violent imagery; Darrow later supplies concrete craft explanations."
+    },
+    {
+      "t": 859,
+      "to": "choe-influences",
+      "relationship": "N.W.A., Escher, Rockwell and Moebius are used to describe a first encounter with a new formal possibility."
+    },
+    {
+      "t": 1086,
+      "to": "darrow-craft",
+      "relationship": "Hard pencil pressure is explained as an erasure/overlap technique rather than psychological proof."
+    },
+    {
+      "t": 1450,
+      "to": "city-of-fire",
+      "relationship": "The Moebius collaboration becomes the benchmark for color, attribution and seamless shared drawing."
+    },
+    {
+      "t": 1779,
+      "to": "creative-regret",
+      "relationship": "Declining Kirby's invitation anticipates the episode's larger regret about assuming admired people are too busy."
+    },
+    {
+      "t": 1920,
+      "to": "friendship-and-calling",
+      "relationship": "Moebius's widow's reported question becomes a direct argument for calling friends before it is too late."
+    },
+    {
+      "t": 2224,
+      "to": "density-and-contrast",
+      "relationship": "Choe's cheesecake analogy proposes quiet pages as contrast without denying Darrow's sustained craft."
+    },
+    {
+      "t": 2539,
+      "to": "material-avoidance",
+      "relationship": "The broken Catholic-school promise supplies Darrow's own origin story for avoiding paint."
+    },
+    {
+      "t": 2736,
+      "to": "dvdasa",
+      "relationship": "An early Rogan DVDASA appearance is used to establish Choe's deep comics knowledge and changing relationship to fandom."
+    },
+    {
+      "t": 2801,
+      "to": "beef",
+      "relationship": "Choe describes inserting comics references into Beef and helping identify a Darrow Spawn image for Larkin Seiple."
+    },
+    {
+      "t": 2931,
+      "to": "los-angeles-graffiti",
+      "relationship": "Oceanwide Plaza reconnects Choe's art practice, Portugal graffiti and a dangerous unfinished-building spectacle."
+    },
+    {
+      "t": 3130,
+      "to": "choe-japan",
+      "relationship": "A historic arrest is the stated barrier to joining Kayfabe's manga-book trips; it remains self-report, not legal advice."
+    },
+    {
+      "t": 3608,
+      "to": "creative-suffering",
+      "relationship": "The hosts propose self-hatred as a quality formula before Choe revises his own constant-suffering doctrine."
+    },
+    {
+      "t": 3841,
+      "to": "frank-miller",
+      "relationship": "Miller's direct privacy refusal and later inaccessible contact complicate fandom's wish to reunite collaborators."
+    },
+    {
+      "t": 4063,
+      "to": "hard-boiled-credit",
+      "relationship": "Darrow's added pages and details are primary process testimony but not a complete contractual credit record."
+    },
+    {
+      "t": 4221,
+      "to": "kent-melton",
+      "relationship": "Melton's death turns the abstract call-your-friends theme into recent personal regret."
+    },
+    {
+      "t": 4351,
+      "to": "animation-labor-history",
+      "relationship": "Darrow's Hanna-Barbera memories connect comics elders, Filipino artists and unindexed animation craft labor."
+    },
+    {
+      "t": 4757,
+      "to": "japanese-effects-artists",
+      "relationship": "The unresolved sculptor and manga artist show why visible objects and source credits must precede fan identification."
+    },
+    {
+      "t": 5003,
+      "to": "cultural-essentialism",
+      "relationship": "The genetic drawing-skill suggestion is explicitly insufficient; teaching, exposure and selection remain alternative explanations."
+    },
+    {
+      "t": 5214,
+      "to": "unmade-collaborations",
+      "relationship": "Choe chooses friendship over forcing a project, leaving the collaboration as an unmade idea."
+    },
+    {
+      "t": 5835,
+      "to": "unmade-collaborations",
+      "relationship": "The one-day comic supplies a second concrete premise but still no completed work, contract or settled authorship."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 0,
+      "claim": "The known participants make every caption line safely nameable.",
+      "assessment": "They do not. Captions have no prefixes and include overlap, jokes, quotation, house ads and off-camera speech.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 621,
+      "claim": "Violent art and hard pencil pressure diagnose trauma or mental illness.",
+      "assessment": "They do not; Choe offers an interpretation and Darrow gives a specific craft reason for pressing hard.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 383,
+      "claim": "A 1980s residency story is current French immigration guidance.",
+      "assessment": "It is not; current rules and individual legal advice require official French sources and counsel.",
+      "source": "https://france-visas.gouv.fr/"
+    },
+    {
+      "t": 1525,
+      "claim": "An absent signature proves Darrow did not work on City of Fire.",
+      "assessment": "Signature absence is not authorship proof; editions, publisher records and both artists' accounts control.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 2151,
+      "claim": "Sexual history or testing reluctance proves HIV infection.",
+      "assessment": "It does not; HIV status requires testing and private health information cannot be inferred.",
+      "source": "https://www.cdc.gov/hiv/testing/"
+    },
+    {
+      "t": 2677,
+      "claim": "The conversation diagnoses carpal tunnel syndrome and shows how to prevent it.",
+      "assessment": "It records uncertain hand pain and informal advice, not an examination or diagnosis.",
+      "source": "https://www.ninds.nih.gov/health-information/disorders/carpal-tunnel-syndrome"
+    },
+    {
+      "t": 2931,
+      "claim": "The tower discussion provides safe access or event guidance.",
+      "assessment": "It does not; the reported site lacks basic infrastructure and includes trespass and jumping hazards.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 3130,
+      "claim": "Choe's Japan-entry account predicts another traveler's admissibility.",
+      "assessment": "It does not; entry decisions are individual and current official guidance controls.",
+      "source": "https://www.mofa.go.jp/j_info/visit/visa/index.html"
+    },
+    {
+      "t": 3691,
+      "claim": "Depression, psychosis or continued suffering is necessary for great art.",
+      "assessment": "No such requirement is established; Choe explicitly revises the constant-suffering doctrine in the conversation.",
+      "source": "https://www.nimh.nih.gov/health/topics/depression"
+    },
+    {
+      "t": 3861,
+      "claim": "Public interest overrides Frank Miller's relationship privacy.",
+      "assessment": "It does not; the directly reported refusal is controlling and no contact campaign should follow.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 4063,
+      "claim": "Darrow's account alone settles every Hard Boiled authorship share.",
+      "assessment": "It is valuable primary testimony, but scripts, contracts, printed credits and other participants' accounts are also required.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 4510,
+      "claim": "The red-Smurf and Dutch-sailor/oni stories are established history.",
+      "assessment": "They are attributed recollection and speculation; independent Japanese and licensing history is needed.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 4757,
+      "claim": "Clues in the workshop story safely identify unnamed Japanese artists.",
+      "assessment": "They do not; names remain unresolved until audio or public credits verify them.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 5003,
+      "claim": "Japanese drawing skill is genetic.",
+      "assessment": "The anecdotal observations cannot establish genetics; education, practice, selection and exposure remain uncontrolled.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 5531,
+      "claim": "The American Splendor option figures are verified contract history.",
+      "assessment": "They are host recollection and require contracts or authoritative production reporting.",
+      "source": "https://www.youtube.com/watch?v=8JmtlRXz7V0"
+    },
+    {
+      "t": 5694,
+      "claim": "The Opalux discussion is sufficient conservation guidance.",
+      "assessment": "It is useful artist testimony; material identification, object condition and a qualified conservator must control treatment.",
+      "source": "https://www.conservation-us.org/about-conservation/caring-for-your-treasures"
+    }
+  ],
+  "content_warnings": [
+    "childhood bullying",
+    "trauma inference",
+    "mental-illness language",
+    "creative-suffering mythology",
+    "HIV and STI speculation",
+    "minor-age sexualized comic character",
+    "publisher-masked profanity",
+    "sexual jokes",
+    "scatological imagery",
+    "relationship privacy",
+    "bereavement",
+    "unsafe building access",
+    "parachute jumping",
+    "trespass",
+    "immigration and arrest history",
+    "medical misinformation",
+    "workplace pranks",
+    "religious Satanism claim",
+    "cultural stereotypes",
+    "genetic essentialism",
+    "private family details",
+    "collector and object security",
+    "stale financial claims",
+    "unresolved speaker identity"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "publish no named turns without independently held-out acoustic/video validation"
+    },
+    {
+      "t": 3,
+      "rule": "retain music and publisher markers as structure"
+    },
+    {
+      "t": 31,
+      "rule": "audio/source verify the toy and exact Meltdown context"
+    },
+    {
+      "t": 102,
+      "rule": "collector recollection is not current object provenance"
+    },
+    {
+      "t": 383,
+      "rule": "do not present historic residency evasion as legal guidance"
+    },
+    {
+      "t": 466,
+      "rule": "protect family and residency-document trails"
+    },
+    {
+      "t": 621,
+      "rule": "never diagnose trauma or mental illness from art"
+    },
+    {
+      "t": 648,
+      "rule": "retain Darrow's craft explanation beside Choe's interpretation"
+    },
+    {
+      "t": 726,
+      "rule": "private trauma disclosure remains Darrow-controlled"
+    },
+    {
+      "t": 900,
+      "rule": "do not settle collaborative credit from visual impression alone"
+    },
+    {
+      "t": 1002,
+      "rule": "do not reproduce unpublished pages from conversational mention"
+    },
+    {
+      "t": 1220,
+      "rule": "separate house advertisement from interview speech"
+    },
+    {
+      "t": 1494,
+      "rule": "attribute Gary Groth recollection and keep dispute uncertain"
+    },
+    {
+      "t": 1525,
+      "rule": "signature absence is not non-authorship proof"
+    },
+    {
+      "t": 1673,
+      "rule": "collector prices are historical anecdotes, not appraisals"
+    },
+    {
+      "t": 1690,
+      "rule": "leave project title unresolved until audio/source verification"
+    },
+    {
+      "t": 1920,
+      "rule": "protect widow, family and private contact details"
+    },
+    {
+      "t": 2007,
+      "rule": "do not identify unnamed associates or assert motives"
+    },
+    {
+      "t": 2151,
+      "rule": "never infer HIV status from partners, behavior or testing reluctance"
+    },
+    {
+      "t": 2170,
+      "rule": "verify edition history and retain minor-age context without eroticization"
+    },
+    {
+      "t": 2331,
+      "rule": "do not publish private drawing-session images without permission"
+    },
+    {
+      "t": 2539,
+      "rule": "childhood painting account is memory, not diagnosis"
+    },
+    {
+      "t": 2630,
+      "rule": "influence on Stern and Rogan is attributed, not sole authorship"
+    },
+    {
+      "t": 2677,
+      "rule": "hand pain remains self-report with no diagnosis or cause"
+    },
+    {
+      "t": 2702,
+      "rule": "do not present wrist-position talk as medical advice"
+    },
+    {
+      "t": 2886,
+      "rule": "tattoo intention is not a completed tattoo"
+    },
+    {
+      "t": 2931,
+      "rule": "publish no tower access, trespass, climbing or jumping guidance"
+    },
+    {
+      "t": 2997,
+      "rule": "withhold residence proximity and visit route"
+    },
+    {
+      "t": 3003,
+      "rule": "unmade art-show and sanitation jokes are not plans"
+    },
+    {
+      "t": 3130,
+      "rule": "arrest and entry account is not immigration advice"
+    },
+    {
+      "t": 3227,
+      "rule": "protect seller identity, inventory, promises and travel routines"
+    },
+    {
+      "t": 3317,
+      "rule": "creative self-criticism is not a mental-health diagnosis"
+    },
+    {
+      "t": 3608,
+      "rule": "do not present self-hatred as a quality formula"
+    },
+    {
+      "t": 3691,
+      "rule": "retain Choe's revision and reject continued suffering as requirement"
+    },
+    {
+      "t": 3861,
+      "rule": "Miller's direct relationship-privacy refusal controls"
+    },
+    {
+      "t": 3981,
+      "rule": "do not publish phone numbers, intermediaries or access campaigns"
+    },
+    {
+      "t": 4063,
+      "rule": "process testimony does not alone settle contractual authorship"
+    },
+    {
+      "t": 4152,
+      "rule": "do not diagnose Varley or mine divorce/contact history"
+    },
+    {
+      "t": 4221,
+      "rule": "protect Melton's family and private circumstances"
+    },
+    {
+      "t": 4415,
+      "rule": "verify animation credits from production records"
+    },
+    {
+      "t": 4485,
+      "rule": "church Satanism story remains attributed childhood context"
+    },
+    {
+      "t": 4510,
+      "rule": "red-Smurf and oni-origin claims require independent history"
+    },
+    {
+      "t": 4611,
+      "rule": "do not infer silent coworkers' consent to workplace pranks"
+    },
+    {
+      "t": 4757,
+      "rule": "never identify unresolved Japanese artists by clue composition"
+    },
+    {
+      "t": 4801,
+      "rule": "withhold private workshop location, layout, inventory and access"
+    },
+    {
+      "t": 5003,
+      "rule": "reject genetic and cultural-essentialist conclusions"
+    },
+    {
+      "t": 5162,
+      "rule": "verify public credit and protect family images/details"
+    },
+    {
+      "t": 5214,
+      "rule": "catalog collaboration as unmade unless later primary proof exists"
+    },
+    {
+      "t": 5531,
+      "rule": "option figures are not verified finance or contract advice"
+    },
+    {
+      "t": 5594,
+      "rule": "then-future release plans are not current announcements"
+    },
+    {
+      "t": 5694,
+      "rule": "materials testimony is not conservation treatment guidance"
+    },
+    {
+      "t": 5835,
+      "rule": "one-day comic is an unmade premise, not a released work"
+    },
+    {
+      "t": 5945,
+      "rule": "separate promotional outro from interview ideas and speakers"
+    }
+  ],
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "The visible episode establishes Ed Piskor, Jim Rugg, Geof Darrow and David Choe as participants, but the 2,556 automatic-caption segments contain no publisher prefixes and include overlap, address, quotation, jokes, media inserts, off-camera speech and a long publisher outro. Topic ownership, adjacency, grammar and episode-level identity cannot prove every line. Only independently held-out, non-overlapping acoustic/video validation may support named turns."
+  },
+  "description": "Cartoonist Kayfabe brings Ed Piskor, Jim Rugg, Geof Darrow and David Choe together for a conversation about Meltdown Comics, collecting, France, drawing pressure, violence and detail, Hard Boiled, Shaolin Cowboy, Moebius, coloring, City of Fire, friendship, self-criticism, suffering mythology, Frank Miller, Lynn Varley, Hanna-Barbera, Japan, graffiti, manga and material technique.",
+  "description_source": "Opening of the human-reviewed summary."
 }

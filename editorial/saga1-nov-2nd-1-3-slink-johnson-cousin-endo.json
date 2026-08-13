@@ -1,48 +1,729 @@
 {
-  "episode_id":"saga1-nov-2nd-1-3-slink-johnson-cousin-endo",
-  "title":"Nov 2nd 1/3: Slink Johnson & Cousin Endo",
-  "reviewed_on":"2026-07-31",
-  "summary":"The first surviving November 2 live block is a nearly three-hour launch-day broadcast built around improvisation, merchandise and guests filling a schedule disrupted by the LAX shooting. David Choe opens with illness, technical anxiety and anger at a recently fired worker; the worker, listeners and staff remain private, and hostile workplace claims stay attributed. Bill Poon appears in the recurring driver/sex-industry role. Slink Johnson and his cousin Endo arrive after spending time with Bobby, whose handmade hood pass becomes a running discussion of friendship, belonging, race and the responsibility not to use a slur merely because friends permit it. Slink discusses Lamar in Grand Theft Auto V and an upcoming Black Jesus project. Models Crystal T. Winston and Angelina Ivy present DVDASA merchandise while the room repeatedly comments on their bodies, asks for sexualized poses and pressures them for contact. Their public professional names can identify credited appearances, but social handles, private partners, discovery trails and intimate disclosures are not republished as fan-contact routes. The broadcast preserves their own accounts of adult work, attraction and boundaries without treating occupation, clothing, posing or prior sexual experience as consent. A long discussion of approaching women includes a funny staged supermarket exercise, but also covert photography, a proposed shoe-mounted upskirt camera and arguments that women should tolerate unauthorized images. The archive keeps the ideas and the objections: one participant explicitly distinguishes being asked from having a photograph taken without permission, and another says that covert images can feel violating. The discussion is not converted into surveillance instructions. Race, sexuality, height, age and porn-market claims throughout are banter and stereotype, not demographic evidence. The group plays Trivia with Bobby, launches a small run of shirts, posters and art, explains several designs and previews the next prerecorded Slink/Endo episode. The closing plug and rap include public professional handles in the source; the public reader does not need to reproduce every contact channel. The automatic cleaner removes five empty records only. Five coarse diarization windows and zero turns cannot support named line-level dialogue.",
-  "quality":{"raw_segments":4912,"clean_segments":4907,"raw_words_approx":33098,"clean_words_approx":33098,"duration_seconds":10231.66,"accepted_context_decisions":158,"chapters":113,"connections":24,"content_warnings":24,"identity_windows":0,"named_turns":0,"cleaning_edits":5,"cleaning_net_reduction":5,"public_restriction_spans":24},
-  "source_notes":[
+  "episode_id": "saga1-nov-2nd-1-3-slink-johnson-cousin-endo",
+  "title": "Nov 2nd 1/3: Slink Johnson & Cousin Endo",
+  "reviewed_on": "2026-07-31",
+  "summary": "The first surviving November 2 live block is a nearly three-hour launch-day broadcast built around improvisation, merchandise and guests filling a schedule disrupted by the LAX shooting. David Choe opens with illness, technical anxiety and anger at a recently fired worker; the worker, listeners and staff remain private, and hostile workplace claims stay attributed. Bill Poon appears in the recurring driver/sex-industry role. Slink Johnson and his cousin Endo arrive after spending time with Bobby, whose handmade hood pass becomes a running discussion of friendship, belonging, race and the responsibility not to use a slur merely because friends permit it. Slink discusses Lamar in Grand Theft Auto V and an upcoming Black Jesus project. Models Crystal T. Winston and Angelina Ivy present DVDASA merchandise while the room repeatedly comments on their bodies, asks for sexualized poses and pressures them for contact. Their public professional names can identify credited appearances, but social handles, private partners, discovery trails and intimate disclosures are not republished as fan-contact routes. The broadcast preserves their own accounts of adult work, attraction and boundaries without treating occupation, clothing, posing or prior sexual experience as consent. A long discussion of approaching women includes a funny staged supermarket exercise, but also covert photography, a proposed shoe-mounted upskirt camera and arguments that women should tolerate unauthorized images. The archive keeps the ideas and the objections: one participant explicitly distinguishes being asked from having a photograph taken without permission, and another says that covert images can feel violating. The discussion is not converted into surveillance instructions. Race, sexuality, height, age and porn-market claims throughout are banter and stereotype, not demographic evidence. The group plays Trivia with Bobby, launches a small run of shirts, posters and art, explains several designs and previews the next prerecorded Slink/Endo episode. The closing plug and rap include public professional handles in the source; the public reader does not need to reproduce every contact channel. The automatic cleaner removes five empty records only. Five coarse diarization windows and zero turns cannot support named line-level dialogue.",
+  "quality": {
+    "raw_segments": 4912,
+    "clean_segments": 4907,
+    "raw_words_approx": 33098,
+    "clean_words_approx": 33098,
+    "duration_seconds": 10231.66,
+    "accepted_context_decisions": 158,
+    "chapters": 113,
+    "connections": 24,
+    "content_warnings": 24,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 5,
+    "cleaning_net_reduction": 5,
+    "public_restriction_spans": 24
+  },
+  "source_notes": [
     "All five cleaner removals are empty zero-duration records; no spoken idea is removed.",
     "This is the first of three surviving blocks from the November 2 live event previewed at the Egyptian Theatre.",
     "LAX-shooting references are same-day recollections and require external verification before use as event facts.",
     "Public cast/guest identity does not authorize republishing private partners, workers, messages, images or contact trails.",
     "No independently held-out acoustic validation exists; line-level turns remain unnamed."
   ],
-  "speaker_policy":"Episode-level metadata may name David Choe, Asa Akira, Slink Johnson, Bobby Lee, Bill Poon and the publicly credited models Crystal T. Winston and Angelina Ivy. Endo remains the public on-air cousin nickname. Staff, friends, relatives, partners, fans and workers remain private. No line-level speaker names are published without held-out acoustic validation.",
-  "chapters":[
-    {"t":0,"title":"first live November 2 block"},{"t":35,"title":"illness and cheat day"},{"t":92,"title":"new studio and live anxiety"},{"t":170,"title":"fired worker dispute"},{"t":275,"title":"late guests and staffing"},{"t":350,"title":"LAX disruption"},{"t":430,"title":"Bill Poon arrives"},{"t":510,"title":"driver role and friend-zone discussion"},{"t":650,"title":"website and live-stream problems"},{"t":790,"title":"lost recording recalled"},{"t":930,"title":"persistence and aging stereotypes"},{"t":1080,"title":"rape joke rejected"},{"t":1210,"title":"Slink and Endo arrive"},{"t":1340,"title":"Lamar and Grand Theft Auto V"},{"t":1460,"title":"Black Jesus preview"},{"t":1580,"title":"Bobby returns"},{"t":1690,"title":"hood pass presented"},{"t":1810,"title":"Louisiana Fried Chicken outing"},{"t":1940,"title":"belonging and racial language"},{"t":2080,"title":"merchandise models introduced"},{"t":2210,"title":"Angelina Ivy and Crystal Winston"},{"t":2360,"title":"shirt runway begins"},{"t":2490,"title":"body commentary"},{"t":2640,"title":"professional and ethnic background"},{"t":2780,"title":"relationships and bisexuality"},{"t":2920,"title":"dominance and submission"},{"t":3060,"title":"social-media discovery trail"},{"t":3200,"title":"Russell Simmons event callback"},{"t":3337,"title":"rehab drawing shirt"},{"t":3470,"title":"explicit posing requests"},{"t":3610,"title":"pressure framed as verbal rape"},{"t":3750,"title":"models change shirts"},{"t":3890,"title":"Endo notices details"},{"t":4030,"title":"turning lesbians claim"},{"t":4180,"title":"Leo and astrology banter"},{"t":4320,"title":"friend and partner disclosures"},{"t":4460,"title":"merchandise photography"},{"t":4600,"title":"racialized food stereotypes"},{"t":4740,"title":"chicken and watermelon argument"},{"t":4880,"title":"Korean and Japanese food comparisons"},{"t":5020,"title":"street-approach claims"},{"t":5160,"title":"pickup success rates"},{"t":5300,"title":"models return"},{"t":5440,"title":"Crystal shirt presentation"},{"t":5580,"title":"sexualized runway language"},{"t":5720,"title":"body-gap comments"},{"t":5860,"title":"wrong-name pickup technique"},{"t":6000,"title":"supermarket roleplay"},{"t":6140,"title":"photo-request opener"},{"t":6280,"title":"hot-yoga discussion"},{"t":6420,"title":"see-through tights and looking"},{"t":6560,"title":"height and attraction"},{"t":6700,"title":"money and dating"},{"t":6840,"title":"two-men fantasy discussion"},{"t":7000,"title":"threesome terminology"},{"t":7140,"title":"double-penetration discussion"},{"t":7280,"title":"slur passes and friendship"},{"t":7420,"title":"street compliments revisited"},{"t":7470,"title":"adult-industry recruitment at nineteen"},{"t":7520,"title":"Bill's Comic-Con camera story"},{"t":7650,"title":"shoe-camera proposal"},{"t":7690,"title":"upskirt celebrity anecdote"},{"t":7717,"title":"just-let-it-happen argument"},{"t":7748,"title":"violation objection"},{"t":7764,"title":"asking versus covert image"},{"t":7820,"title":"high-school football story"},{"t":7930,"title":"Bobby and cross-cultural belonging"},{"t":8060,"title":"private friends mentioned"},{"t":8110,"title":"racialized porn-market claims"},{"t":8210,"title":"Japan show pitch"},{"t":8230,"title":"David's Japan legal account"},{"t":8270,"title":"private legal status withheld"},{"t":8310,"title":"fetish versus preference"},{"t":8390,"title":"interracial dating generalizations"},{"t":8460,"title":"Bobby praised as nonjudgmental"},{"t":8480,"title":"death joke and alibi"},{"t":8500,"title":"Trivia with Bobby"},{"t":8559,"title":"reckless eyeballer question"},{"t":8583,"title":"animal-sex question"},{"t":8620,"title":"movie quotes"},{"t":8680,"title":"merch launch restated"},{"t":8700,"title":"dream guests"},{"t":8723,"title":"Nicolas Cage shirt"},{"t":8770,"title":"model praise and handles"},{"t":8886,"title":"G.I. Choe shirt history"},{"t":8920,"title":"sizes and audience jokes"},{"t":8980,"title":"arousal questions"},{"t":9010,"title":"nipple request refused"},{"t":9030,"title":"pressure paused for later show"},{"t":9068,"title":"sports trivia"},{"t":9120,"title":"double-double question"},{"t":9219,"title":"tie-breaker"},{"t":9228,"title":"young virgin auction proposal"},{"t":9250,"title":"charity framing and pressure"},{"t":9290,"title":"loser smells object"},{"t":9330,"title":"fisting account"},{"t":9350,"title":"Facebook removal"},{"t":9440,"title":"explicit technique naming"},{"t":9470,"title":"real-life debauchery tease"},{"t":9490,"title":"shop goes live"},{"t":9520,"title":"Critter face shirt"},{"t":9550,"title":"Instagram and dating"},{"t":9620,"title":"Tijuana venue discussion"},{"t":9670,"title":"poster and shirt catalog"},{"t":9730,"title":"Asa weapon photograph"},{"t":9828,"title":"butterfly photo shoot"},{"t":9890,"title":"show recap"},{"t":9920,"title":"break and next block preview"},{"t":9970,"title":"guest plugs"},{"t":10040,"title":"Endo birthday plug"},{"t":10100,"title":"Slink's closing rap"},{"t":10202,"title":"hood-pass responsibility"},{"t":10226,"title":"DVDASA sign-off"}
+  "speaker_policy": "Episode-level metadata may name David Choe, Asa Akira, Slink Johnson, Bobby Lee, Bill Poon and the publicly credited models Crystal T. Winston and Angelina Ivy. Endo remains the public on-air cousin nickname. Staff, friends, relatives, partners, fans and workers remain private. No line-level speaker names are published without held-out acoustic validation.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "first live November 2 block"
+    },
+    {
+      "t": 35,
+      "title": "illness and cheat day"
+    },
+    {
+      "t": 92,
+      "title": "new studio and live anxiety"
+    },
+    {
+      "t": 170,
+      "title": "fired worker dispute"
+    },
+    {
+      "t": 275,
+      "title": "late guests and staffing"
+    },
+    {
+      "t": 350,
+      "title": "LAX disruption"
+    },
+    {
+      "t": 430,
+      "title": "Bill Poon arrives"
+    },
+    {
+      "t": 510,
+      "title": "driver role and friend-zone discussion"
+    },
+    {
+      "t": 650,
+      "title": "website and live-stream problems"
+    },
+    {
+      "t": 790,
+      "title": "lost recording recalled"
+    },
+    {
+      "t": 930,
+      "title": "persistence and aging stereotypes"
+    },
+    {
+      "t": 1080,
+      "title": "rape joke rejected"
+    },
+    {
+      "t": 1210,
+      "title": "Slink and Endo arrive"
+    },
+    {
+      "t": 1340,
+      "title": "Lamar and Grand Theft Auto V"
+    },
+    {
+      "t": 1460,
+      "title": "Black Jesus preview"
+    },
+    {
+      "t": 1580,
+      "title": "Bobby returns"
+    },
+    {
+      "t": 1690,
+      "title": "hood pass presented"
+    },
+    {
+      "t": 1810,
+      "title": "Louisiana Fried Chicken outing"
+    },
+    {
+      "t": 1940,
+      "title": "belonging and racial language"
+    },
+    {
+      "t": 2080,
+      "title": "merchandise models introduced"
+    },
+    {
+      "t": 2210,
+      "title": "Angelina Ivy and Crystal Winston"
+    },
+    {
+      "t": 2360,
+      "title": "shirt runway begins"
+    },
+    {
+      "t": 2490,
+      "title": "body commentary"
+    },
+    {
+      "t": 2640,
+      "title": "professional and ethnic background"
+    },
+    {
+      "t": 2780,
+      "title": "relationships and bisexuality"
+    },
+    {
+      "t": 2920,
+      "title": "dominance and submission"
+    },
+    {
+      "t": 3060,
+      "title": "social-media discovery trail"
+    },
+    {
+      "t": 3200,
+      "title": "Russell Simmons event callback"
+    },
+    {
+      "t": 3337,
+      "title": "rehab drawing shirt"
+    },
+    {
+      "t": 3470,
+      "title": "explicit posing requests"
+    },
+    {
+      "t": 3610,
+      "title": "pressure framed as verbal rape"
+    },
+    {
+      "t": 3750,
+      "title": "models change shirts"
+    },
+    {
+      "t": 3890,
+      "title": "Endo notices details"
+    },
+    {
+      "t": 4030,
+      "title": "turning lesbians claim"
+    },
+    {
+      "t": 4180,
+      "title": "Leo and astrology banter"
+    },
+    {
+      "t": 4320,
+      "title": "friend and partner disclosures"
+    },
+    {
+      "t": 4460,
+      "title": "merchandise photography"
+    },
+    {
+      "t": 4600,
+      "title": "racialized food stereotypes"
+    },
+    {
+      "t": 4740,
+      "title": "chicken and watermelon argument"
+    },
+    {
+      "t": 4880,
+      "title": "Korean and Japanese food comparisons"
+    },
+    {
+      "t": 5020,
+      "title": "street-approach claims"
+    },
+    {
+      "t": 5160,
+      "title": "pickup success rates"
+    },
+    {
+      "t": 5300,
+      "title": "models return"
+    },
+    {
+      "t": 5440,
+      "title": "Crystal shirt presentation"
+    },
+    {
+      "t": 5580,
+      "title": "sexualized runway language"
+    },
+    {
+      "t": 5720,
+      "title": "body-gap comments"
+    },
+    {
+      "t": 5860,
+      "title": "wrong-name pickup technique"
+    },
+    {
+      "t": 6000,
+      "title": "supermarket roleplay"
+    },
+    {
+      "t": 6140,
+      "title": "photo-request opener"
+    },
+    {
+      "t": 6280,
+      "title": "hot-yoga discussion"
+    },
+    {
+      "t": 6420,
+      "title": "see-through tights and looking"
+    },
+    {
+      "t": 6560,
+      "title": "height and attraction"
+    },
+    {
+      "t": 6700,
+      "title": "money and dating"
+    },
+    {
+      "t": 6840,
+      "title": "two-men fantasy discussion"
+    },
+    {
+      "t": 7000,
+      "title": "threesome terminology"
+    },
+    {
+      "t": 7140,
+      "title": "double-penetration discussion"
+    },
+    {
+      "t": 7280,
+      "title": "slur passes and friendship"
+    },
+    {
+      "t": 7420,
+      "title": "street compliments revisited"
+    },
+    {
+      "t": 7470,
+      "title": "adult-industry recruitment at nineteen"
+    },
+    {
+      "t": 7520,
+      "title": "Bill's Comic-Con camera story"
+    },
+    {
+      "t": 7650,
+      "title": "shoe-camera proposal"
+    },
+    {
+      "t": 7690,
+      "title": "upskirt celebrity anecdote"
+    },
+    {
+      "t": 7717,
+      "title": "just-let-it-happen argument"
+    },
+    {
+      "t": 7748,
+      "title": "violation objection"
+    },
+    {
+      "t": 7764,
+      "title": "asking versus covert image"
+    },
+    {
+      "t": 7820,
+      "title": "high-school football story"
+    },
+    {
+      "t": 7930,
+      "title": "Bobby and cross-cultural belonging"
+    },
+    {
+      "t": 8060,
+      "title": "private friends mentioned"
+    },
+    {
+      "t": 8110,
+      "title": "racialized porn-market claims"
+    },
+    {
+      "t": 8210,
+      "title": "Japan show pitch"
+    },
+    {
+      "t": 8230,
+      "title": "David's Japan legal account"
+    },
+    {
+      "t": 8270,
+      "title": "private legal status withheld"
+    },
+    {
+      "t": 8310,
+      "title": "fetish versus preference"
+    },
+    {
+      "t": 8390,
+      "title": "interracial dating generalizations"
+    },
+    {
+      "t": 8460,
+      "title": "Bobby praised as nonjudgmental"
+    },
+    {
+      "t": 8480,
+      "title": "death joke and alibi"
+    },
+    {
+      "t": 8500,
+      "title": "Trivia with Bobby"
+    },
+    {
+      "t": 8559,
+      "title": "reckless eyeballer question"
+    },
+    {
+      "t": 8583,
+      "title": "animal-sex question"
+    },
+    {
+      "t": 8620,
+      "title": "movie quotes"
+    },
+    {
+      "t": 8680,
+      "title": "merch launch restated"
+    },
+    {
+      "t": 8700,
+      "title": "dream guests"
+    },
+    {
+      "t": 8723,
+      "title": "Nicolas Cage shirt"
+    },
+    {
+      "t": 8770,
+      "title": "model praise and handles"
+    },
+    {
+      "t": 8886,
+      "title": "G.I. Choe shirt history"
+    },
+    {
+      "t": 8920,
+      "title": "sizes and audience jokes"
+    },
+    {
+      "t": 8980,
+      "title": "arousal questions"
+    },
+    {
+      "t": 9010,
+      "title": "nipple request refused"
+    },
+    {
+      "t": 9030,
+      "title": "pressure paused for later show"
+    },
+    {
+      "t": 9068,
+      "title": "sports trivia"
+    },
+    {
+      "t": 9120,
+      "title": "double-double question"
+    },
+    {
+      "t": 9219,
+      "title": "tie-breaker"
+    },
+    {
+      "t": 9228,
+      "title": "young virgin auction proposal"
+    },
+    {
+      "t": 9250,
+      "title": "charity framing and pressure"
+    },
+    {
+      "t": 9290,
+      "title": "loser smells object"
+    },
+    {
+      "t": 9330,
+      "title": "fisting account"
+    },
+    {
+      "t": 9350,
+      "title": "Facebook removal"
+    },
+    {
+      "t": 9440,
+      "title": "explicit technique naming"
+    },
+    {
+      "t": 9470,
+      "title": "real-life debauchery tease"
+    },
+    {
+      "t": 9490,
+      "title": "shop goes live"
+    },
+    {
+      "t": 9520,
+      "title": "Critter face shirt"
+    },
+    {
+      "t": 9550,
+      "title": "Instagram and dating"
+    },
+    {
+      "t": 9620,
+      "title": "Tijuana venue discussion"
+    },
+    {
+      "t": 9670,
+      "title": "poster and shirt catalog"
+    },
+    {
+      "t": 9730,
+      "title": "Asa weapon photograph"
+    },
+    {
+      "t": 9828,
+      "title": "butterfly photo shoot"
+    },
+    {
+      "t": 9890,
+      "title": "show recap"
+    },
+    {
+      "t": 9920,
+      "title": "break and next block preview"
+    },
+    {
+      "t": 9970,
+      "title": "guest plugs"
+    },
+    {
+      "t": 10040,
+      "title": "Endo birthday plug"
+    },
+    {
+      "t": 10100,
+      "title": "Slink's closing rap"
+    },
+    {
+      "t": 10202,
+      "title": "hood-pass responsibility"
+    },
+    {
+      "t": 10226,
+      "title": "DVDASA sign-off"
+    }
   ],
-  "connections":[
-    {"to":"saga1-live-at-the-egyptian-theatre","note":"That stage event previews November 2 and explains the earlier deletion that motivated DVDASA."},
-    {"to":"saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin","note":"The broadcast explicitly pauses for the second live block."},
-    {"to":"saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin","note":"Third surviving event block."},
-    {"to":"saga1-episode-065-saelee-oh-seeks-double-vag-double-anal-dates","note":"A lost or corrupted Saelee recording is recalled during the technical discussion."},
-    {"to":"saga1-episode-067-slink-johnson-cousin-endo-armenian-virgin-and-yum-yum-cha","note":"The prerecorded Slink/Endo episode is teased as the next regular release."},
-    {"to":"DVDASA-origin","note":"This is primary evidence of the site-controlled November 2 event."},
-    {"to":"live-production","note":"Technical failures, staffing, guest cancellations and improvisation shape the source."},
-    {"to":"LAX-shooting","note":"Same-day airport disruption is recalled but not independently established here."},
-    {"to":"merchandise-history","note":"The first shop launch and specific shirts, posters and art are documented."},
-    {"to":"Slink-Johnson","note":"Lamar, Black Jesus, music and the hood-pass friendship appear."},
-    {"to":"Bobby-Lee","note":"The hood pass and friendship across cultural boundaries are central."},
-    {"to":"Bill-Poon","note":"Driver role, camera behavior and friend-zone claims recur."},
-    {"to":"consent-boundaries","note":"Model posing and contact requests show pressure is not permission."},
-    {"to":"covert-photography","note":"Camera stories and an upskirt-device proposal are preserved with objections."},
-    {"to":"privacy-by-composition","note":"Handles, private partners, jobs, travel and discovery paths cannot become identity profiles."},
-    {"to":"race-and-belonging","note":"Slur passes, stereotypes and cross-cultural friendship are debated."},
-    {"to":"sexuality-stereotypes","note":"Bisexuality and same-sex behavior are repeatedly generalized or challenged."},
-    {"to":"adult-industry-history","note":"A model describes being recruited at nineteen and beginning as a dominatrix."},
-    {"to":"social-media-discovery","note":"Instagram and hashtag trails drive guest discovery and audience interaction."},
-    {"to":"merchandise-art","note":"G.I. Choe, Critter, Bobby, James Jean and Asa image objects are described."},
-    {"to":"Trivia-with-Bobby","note":"The live quiz tests statements from the same broadcast."},
-    {"to":"harmful-advice","note":"Covert-photo and persistence arguments must not become actionable guidance."},
-    {"to":"speaker-validation","note":"A known guest lineup does not validate line-level ASR attribution."},
-    {"to":"ui-evidence-pattern","note":"The reader should join live-event chronology, merchandise objects, warnings and later callbacks."}
+  "connections": [
+    {
+      "to": "saga1-live-at-the-egyptian-theatre",
+      "note": "That stage event previews November 2 and explains the earlier deletion that motivated DVDASA."
+    },
+    {
+      "to": "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
+      "note": "The broadcast explicitly pauses for the second live block."
+    },
+    {
+      "to": "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin",
+      "note": "Third surviving event block."
+    },
+    {
+      "to": "saga1-episode-065-saelee-oh-seeks-double-vag-double-anal-dates",
+      "note": "A lost or corrupted Saelee recording is recalled during the technical discussion."
+    },
+    {
+      "to": "saga1-episode-067-slink-johnson-cousin-endo-armenian-virgin-and-yum-yum-cha",
+      "note": "The prerecorded Slink/Endo episode is teased as the next regular release."
+    },
+    {
+      "to": "DVDASA-origin",
+      "note": "This is primary evidence of the site-controlled November 2 event."
+    },
+    {
+      "to": "live-production",
+      "note": "Technical failures, staffing, guest cancellations and improvisation shape the source."
+    },
+    {
+      "to": "LAX-shooting",
+      "note": "Same-day airport disruption is recalled but not independently established here."
+    },
+    {
+      "to": "merchandise-history",
+      "note": "The first shop launch and specific shirts, posters and art are documented."
+    },
+    {
+      "to": "Slink-Johnson",
+      "note": "Lamar, Black Jesus, music and the hood-pass friendship appear."
+    },
+    {
+      "to": "Bobby-Lee",
+      "note": "The hood pass and friendship across cultural boundaries are central."
+    },
+    {
+      "to": "Bill-Poon",
+      "note": "Driver role, camera behavior and friend-zone claims recur."
+    },
+    {
+      "to": "consent-boundaries",
+      "note": "Model posing and contact requests show pressure is not permission."
+    },
+    {
+      "to": "covert-photography",
+      "note": "Camera stories and an upskirt-device proposal are preserved with objections."
+    },
+    {
+      "to": "privacy-by-composition",
+      "note": "Handles, private partners, jobs, travel and discovery paths cannot become identity profiles."
+    },
+    {
+      "to": "race-and-belonging",
+      "note": "Slur passes, stereotypes and cross-cultural friendship are debated."
+    },
+    {
+      "to": "sexuality-stereotypes",
+      "note": "Bisexuality and same-sex behavior are repeatedly generalized or challenged."
+    },
+    {
+      "to": "adult-industry-history",
+      "note": "A model describes being recruited at nineteen and beginning as a dominatrix."
+    },
+    {
+      "to": "social-media-discovery",
+      "note": "Instagram and hashtag trails drive guest discovery and audience interaction."
+    },
+    {
+      "to": "merchandise-art",
+      "note": "G.I. Choe, Critter, Bobby, James Jean and Asa image objects are described."
+    },
+    {
+      "to": "Trivia-with-Bobby",
+      "note": "The live quiz tests statements from the same broadcast."
+    },
+    {
+      "to": "harmful-advice",
+      "note": "Covert-photo and persistence arguments must not become actionable guidance."
+    },
+    {
+      "to": "speaker-validation",
+      "note": "A known guest lineup does not validate line-level ASR attribution."
+    },
+    {
+      "to": "ui-evidence-pattern",
+      "note": "The reader should join live-event chronology, merchandise objects, warnings and later callbacks."
+    }
   ],
-  "content_warnings":["explicit sexual discussion","sexual pressure","covert photography","upskirt-camera proposal","nonconsensual-image normalization","rape jokes and metaphors","racial slurs","homophobic slurs","racial stereotypes","sexuality stereotypes","body objectification","body shaming","sex work","adult-industry recruitment","animal-sex discussion","incest/family sexual hypotheticals","drug and alcohol references","workplace firing","private relationship disclosures","doxxing/contact-trail risk","young-adult sexualization","violent jokes","legal-status disclosure","medical and body claims"],
-  "publication_restrictions":[
-    {"t":170,"rule":"protect fired worker identity and keep performance claims attributed"},{"t":350,"rule":"verify LAX facts externally before presenting them as history"},{"t":430,"rule":"do not turn driver role into a private sex-worker contact map"},{"t":650,"rule":"do not republish private email or technical access details"},{"t":930,"rule":"do not present persistence-until-she-gives-in as relationship advice"},{"t":1080,"rule":"retain immediate rejection beside rape joke"},{"t":1940,"rule":"slur permission among friends is not transferable public permission"},{"t":2210,"rule":"professional appearance credit does not authorize private identity composition"},{"t":2780,"rule":"protect private partners and intimate relationship history"},{"t":3060,"rule":"do not reconstruct hashtag/handle discovery trail for targeting"},{"t":3470,"rule":"posing, clothing and adult work do not equal consent to touch or sexual demands"},{"t":4600,"rule":"treat racial food claims as stereotypes, not cultural facts"},{"t":5860,"rule":"pickup anecdotes are performance, not verified success data"},{"t":6420,"rule":"do not isolate voyeuristic clothing commentary as recommendation"},{"t":7470,"rule":"protect recruiter and private career details; participant reports adulthood"},{"t":7520,"rule":"do not republish covert photographs or identify private partner"},{"t":7650,"rule":"do not operationalize or illustrate shoe-mounted upskirt surveillance"},{"t":7748,"rule":"retain explicit objection that unauthorized images can feel violating"},{"t":7820,"rule":"do not identify school, coach, parent or minors from football story"},{"t":8060,"rule":"protect private friends and workplaces"},{"t":8230,"rule":"keep legal/travel account attributed and do not advise border circumvention"},{"t":8770,"rule":"do not reproduce contact handles merely because spoken on-air"},{"t":9228,"rule":"do not identify, solicit or facilitate access to the young adult discussed"},{"t":9730,"rule":"do not republish intimate images or infer blanket permission from a photo shoot"}
-  ]
+  "content_warnings": [
+    "explicit sexual discussion",
+    "sexual pressure",
+    "covert photography",
+    "upskirt-camera proposal",
+    "nonconsensual-image normalization",
+    "rape jokes and metaphors",
+    "racial slurs",
+    "homophobic slurs",
+    "racial stereotypes",
+    "sexuality stereotypes",
+    "body objectification",
+    "body shaming",
+    "sex work",
+    "adult-industry recruitment",
+    "animal-sex discussion",
+    "incest/family sexual hypotheticals",
+    "drug and alcohol references",
+    "workplace firing",
+    "private relationship disclosures",
+    "doxxing/contact-trail risk",
+    "young-adult sexualization",
+    "violent jokes",
+    "legal-status disclosure",
+    "medical and body claims"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 170,
+      "rule": "protect fired worker identity and keep performance claims attributed"
+    },
+    {
+      "t": 350,
+      "rule": "verify LAX facts externally before presenting them as history"
+    },
+    {
+      "t": 430,
+      "rule": "do not turn driver role into a private sex-worker contact map"
+    },
+    {
+      "t": 650,
+      "rule": "do not republish private email or technical access details"
+    },
+    {
+      "t": 930,
+      "rule": "do not present persistence-until-she-gives-in as relationship advice"
+    },
+    {
+      "t": 1080,
+      "rule": "retain immediate rejection beside rape joke"
+    },
+    {
+      "t": 1940,
+      "rule": "slur permission among friends is not transferable public permission"
+    },
+    {
+      "t": 2210,
+      "rule": "professional appearance credit does not authorize private identity composition"
+    },
+    {
+      "t": 2780,
+      "rule": "protect private partners and intimate relationship history"
+    },
+    {
+      "t": 3060,
+      "rule": "do not reconstruct hashtag/handle discovery trail for targeting"
+    },
+    {
+      "t": 3470,
+      "rule": "posing, clothing and adult work do not equal consent to touch or sexual demands"
+    },
+    {
+      "t": 4600,
+      "rule": "treat racial food claims as stereotypes, not cultural facts"
+    },
+    {
+      "t": 5860,
+      "rule": "pickup anecdotes are performance, not verified success data"
+    },
+    {
+      "t": 6420,
+      "rule": "do not isolate voyeuristic clothing commentary as recommendation"
+    },
+    {
+      "t": 7470,
+      "rule": "protect recruiter and private career details; participant reports adulthood"
+    },
+    {
+      "t": 7520,
+      "rule": "do not republish covert photographs or identify private partner"
+    },
+    {
+      "t": 7650,
+      "rule": "do not operationalize or illustrate shoe-mounted upskirt surveillance"
+    },
+    {
+      "t": 7748,
+      "rule": "retain explicit objection that unauthorized images can feel violating"
+    },
+    {
+      "t": 7820,
+      "rule": "do not identify school, coach, parent or minors from football story"
+    },
+    {
+      "t": 8060,
+      "rule": "protect private friends and workplaces"
+    },
+    {
+      "t": 8230,
+      "rule": "keep legal/travel account attributed and do not advise border circumvention"
+    },
+    {
+      "t": 8770,
+      "rule": "do not reproduce contact handles merely because spoken on-air"
+    },
+    {
+      "t": 9228,
+      "rule": "do not identify, solicit or facilitate access to the young adult discussed"
+    },
+    {
+      "t": 9730,
+      "rule": "do not republish intimate images or infer blanket permission from a photo shoot"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Bill Poon"
+  ],
+  "places": [
+    "LAX"
+  ],
+  "works": [
+    "Grand Theft Auto V",
+    "Trivia With Bobby",
+    "Grand Theft Auto",
+    "November 2",
+    "Friends",
+    "DVDASA",
+    "Taken",
+    "V"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "The first surviving November 2 live block is a nearly three-hour launch-day broadcast built around improvisation, merchandise and guests filling a schedule disrupted by the LAX shooting.",
+  "description_source": "Opening of the human-reviewed summary."
 }

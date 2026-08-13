@@ -19,146 +19,586 @@
   "sensitivity": "Commercial sex and trafficking-adjacent logistics; unknown topical product and covert behavioral testing; rape jokes; disabled and neurodivergent children; DPRK overseas workers and forced labor; medical, drug, nutrition and product misinformation; client-worker sexual boundary; employment discrimination and retaliation; racial, national, disability, orientation and gender slurs; drug manufacture; self-harm hyperbole; private partners, dates and family business.",
   "speaker_policy": "Named dialogue remains withheld. Episode 75 has zero diarized turns and five coarse window embeddings for a changing ensemble. Public participants are contextually known, but no independently held-out multispeaker validation has passed.",
   "source_notes": [
-    {"claim": "Upper Playground publicly credits Nima Nabavi of Digital Gravel for helping organize the 2013 VIP, No Problem presentation in Dubai", "source": "https://upperplayground.com/blogs/news-upperplayground/tagged/the-pavillion", "use": "resolves the guest's public identity and ties the episode to the Middle East trip"},
-    {"claim": "Nima Nabavi is a self-taught Iranian-American artist raised in the UAE; his current public biography does not present him as a physician", "source": "https://www.thethirdline.com/artists/46-nima-nabavi/", "use": "supports public identity while the episode itself supplies the decisive not-a-doctor statement"},
-    {"claim": "Research on human 16-androstenes remains context-sensitive and leaves key active compounds, natural concentrations and realistic effects unresolved", "source": "https://pubmed.ncbi.nlm.nih.gov/20831942/", "use": "prevents the prototype anecdotes from becoming proof of a reliable human sex pheromone"},
-    {"claim": "Manufacturers or distributors are responsible for cosmetic safety, and toxicology or other testing may be needed when evidence has gaps", "source": "https://www.fda.gov/cosmetics/cosmetics-science-research/product-testing-cosmetics", "use": "grounds the product-safety and testing corrections"},
-    {"claim": "Cosmetic claims must be truthful and not misleading; claims to treat disease or affect body structure or function can make a product a drug", "source": "https://www.fda.gov/cosmetics/cosmetics-labeling-claims/cosmetics-labeling-claims", "use": "corrects acne, anti-aging, metabolism, hair and behavioral product plans"},
-    {"claim": "Cosmetic consumers should read ingredients and warnings, stop after unexpected reactions, seek care and report problems", "source": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/using-cosmetics-safely", "use": "supports rejecting unknown unlabeled topical and genital exposure"},
-    {"claim": "UN reporting describes coercion, wage seizure, surveillance, movement restrictions and forced-labor indicators among many DPRK overseas workers, including restaurant workers", "source": "https://www.ohchr.org/sites/default/files/documents/countries/korea-republic/forced-labour-democratic-peoples-republic-korea-en.pdf", "use": "adds systemic human-rights context without claiming the status of specific women observed by the cast"},
-    {"claim": "The UAE federation formed in 1971 after a much longer regional history", "source": "https://u.ae/en/about-the-uae/history", "use": "corrects the claim that Dubai itself was only 30–40 years old"},
-    {"claim": "Isotretinoin is a prescription treatment for severe acne with major risks and restricted risk-management requirements", "source": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/isotretinoin-capsule-information", "use": "corrects casual Accutane discussion"},
-    {"claim": "Evidence for probiotics in IBS is mixed and strain-specific; benefits are not conclusive", "source": "https://www.nccih.nih.gov/health/irritable-bowel-syndrome-what-you-need-to-know", "use": "corrects the universal probiotic cure claim"},
-    {"claim": "FDA-approved male-pattern hair-loss treatments include topical minoxidil and prescription finasteride, with variable benefits and risks", "source": "https://www.aad.org/public/diseases/hair-loss/treatment/male-pattern-hair-loss-treatment", "use": "corrects the claim that no treatment exists"},
-    {"claim": "The 9/11 NIST investigation found no corroborating evidence that the towers were brought down by controlled demolition", "source": "https://www.nist.gov/world-trade-center-investigation/study-faqs/wtc-towers-investigation", "use": "corrects the inside-job assertion"}
+    {
+      "claim": "Upper Playground publicly credits Nima Nabavi of Digital Gravel for helping organize the 2013 VIP, No Problem presentation in Dubai",
+      "source": "https://upperplayground.com/blogs/news-upperplayground/tagged/the-pavillion",
+      "use": "resolves the guest's public identity and ties the episode to the Middle East trip"
+    },
+    {
+      "claim": "Nima Nabavi is a self-taught Iranian-American artist raised in the UAE; his current public biography does not present him as a physician",
+      "source": "https://www.thethirdline.com/artists/46-nima-nabavi/",
+      "use": "supports public identity while the episode itself supplies the decisive not-a-doctor statement"
+    },
+    {
+      "claim": "Research on human 16-androstenes remains context-sensitive and leaves key active compounds, natural concentrations and realistic effects unresolved",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/20831942/",
+      "use": "prevents the prototype anecdotes from becoming proof of a reliable human sex pheromone"
+    },
+    {
+      "claim": "Manufacturers or distributors are responsible for cosmetic safety, and toxicology or other testing may be needed when evidence has gaps",
+      "source": "https://www.fda.gov/cosmetics/cosmetics-science-research/product-testing-cosmetics",
+      "use": "grounds the product-safety and testing corrections"
+    },
+    {
+      "claim": "Cosmetic claims must be truthful and not misleading; claims to treat disease or affect body structure or function can make a product a drug",
+      "source": "https://www.fda.gov/cosmetics/cosmetics-labeling-claims/cosmetics-labeling-claims",
+      "use": "corrects acne, anti-aging, metabolism, hair and behavioral product plans"
+    },
+    {
+      "claim": "Cosmetic consumers should read ingredients and warnings, stop after unexpected reactions, seek care and report problems",
+      "source": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/using-cosmetics-safely",
+      "use": "supports rejecting unknown unlabeled topical and genital exposure"
+    },
+    {
+      "claim": "UN reporting describes coercion, wage seizure, surveillance, movement restrictions and forced-labor indicators among many DPRK overseas workers, including restaurant workers",
+      "source": "https://www.ohchr.org/sites/default/files/documents/countries/korea-republic/forced-labour-democratic-peoples-republic-korea-en.pdf",
+      "use": "adds systemic human-rights context without claiming the status of specific women observed by the cast"
+    },
+    {
+      "claim": "The UAE federation formed in 1971 after a much longer regional history",
+      "source": "https://u.ae/en/about-the-uae/history",
+      "use": "corrects the claim that Dubai itself was only 30–40 years old"
+    },
+    {
+      "claim": "Isotretinoin is a prescription treatment for severe acne with major risks and restricted risk-management requirements",
+      "source": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/isotretinoin-capsule-information",
+      "use": "corrects casual Accutane discussion"
+    },
+    {
+      "claim": "Evidence for probiotics in IBS is mixed and strain-specific; benefits are not conclusive",
+      "source": "https://www.nccih.nih.gov/health/irritable-bowel-syndrome-what-you-need-to-know",
+      "use": "corrects the universal probiotic cure claim"
+    },
+    {
+      "claim": "FDA-approved male-pattern hair-loss treatments include topical minoxidil and prescription finasteride, with variable benefits and risks",
+      "source": "https://www.aad.org/public/diseases/hair-loss/treatment/male-pattern-hair-loss-treatment",
+      "use": "corrects the claim that no treatment exists"
+    },
+    {
+      "claim": "The 9/11 NIST investigation found no corroborating evidence that the towers were brought down by controlled demolition",
+      "source": "https://www.nist.gov/world-trade-center-investigation/study-faqs/wtc-towers-investigation",
+      "use": "corrects the inside-job assertion"
+    }
   ],
   "chapters": [
-    {"t": 35.0, "title": "Cold open and shortened show"},
-    {"t": 120.0, "title": "Bobby Lee and Money Mark have gigs"},
-    {"t": 260.0, "title": "Live versus prerecorded DVDASA"},
-    {"t": 300.0, "title": "Episode 74 editing pressure carries forward"},
-    {"t": 326.0, "title": "Critter and Bobby shirts"},
-    {"t": 381.0, "title": "Shop.dvdasa.com launches"},
-    {"t": 501.0, "title": "Merchandise as production funding"},
-    {"t": 524.0, "title": "Nima Nabavi arrives from Dubai"},
-    {"t": 543.0, "title": "The 2013 Middle East connection"},
-    {"t": 570.0, "title": "Turkey, Afghanistan and Dubai"},
-    {"t": 620.0, "title": "Beirut story begins"},
-    {"t": 645.0, "title": "Maz Jobrani and Ahmed Ahmed"},
-    {"t": 663.0, "title": "Inside-job claim corrected"},
-    {"t": 739.0, "title": "Commercial-sex venue withheld"},
-    {"t": 762.0, "title": "Worker identity minimized"},
-    {"t": 808.0, "title": "Paid encounter described as a date"},
-    {"t": 835.0, "title": "Code phrase and room withheld"},
-    {"t": 870.0, "title": "Handlers and danger"},
-    {"t": 919.0, "title": "Inconsistent handler count"},
-    {"t": 966.0, "title": "No problem as travel motif"},
-    {"t": 1039.0, "title": "VIP, No Problem"},
-    {"t": 1120.0, "title": "Dubai disability art program"},
-    {"t": 1178.0, "title": "Young participants protected"},
-    {"t": 1215.0, "title": "Support needs are not a ranking"},
-    {"t": 1309.0, "title": "Art experience is not clinical expertise"},
-    {"t": 1416.0, "title": "Savant stereotype corrected"},
-    {"t": 1430.0, "title": "A young DJ admires Skrillex"},
-    {"t": 1447.0, "title": "Sonny Moore name repair"},
-    {"t": 1527.0, "title": "Encouragement video, identity withheld"},
-    {"t": 1659.0, "title": "Dubai history corrected"},
-    {"t": 1782.0, "title": "Asperger's terminology"},
-    {"t": 1787.0, "title": "Diagnosis cannot be read from appearance"},
-    {"t": 1822.0, "title": "North Korean restaurant visit"},
-    {"t": 1835.0, "title": "Not one of only three"},
-    {"t": 1930.0, "title": "Systemic coercion versus specific claims"},
-    {"t": 1999.0, "title": "Family-retaliation fear remains unverified"},
-    {"t": 2106.0, "title": "Method Man and Mary J. Blige reference"},
-    {"t": 2120.0, "title": "Hotel California projection"},
-    {"t": 2262.0, "title": "Rescue fantasy and worker agency"},
-    {"t": 2338.0, "title": "Family factory tour"},
-    {"t": 2365.0, "title": "Formula analysis has limits"},
-    {"t": 2425.0, "title": "Can make anything claim"},
-    {"t": 2490.0, "title": "Process and stability matter"},
-    {"t": 2562.0, "title": "Reverse engineering and IP"},
-    {"t": 2685.0, "title": "Headspace captures volatiles"},
-    {"t": 2722.0, "title": "Unknown pheromone prototype"},
-    {"t": 3026.0, "title": "Anecdote is not causation"},
-    {"t": 3085.0, "title": "Human pheromone evidence"},
-    {"t": 3109.0, "title": "Likely androstenol terminology"},
-    {"t": 3174.0, "title": "Room-mood claim unsupported"},
-    {"t": 3203.0, "title": "Dog reaction anecdote"},
-    {"t": 3251.0, "title": "Commercialization requires safety work"},
-    {"t": 3262.0, "title": "Do not test unknown mixtures on animals"},
-    {"t": 3425.0, "title": "Prototype formulas"},
-    {"t": 3599.0, "title": "Wart needs clinical evaluation"},
-    {"t": 3668.0, "title": "Bodily-material product joke"},
-    {"t": 3844.0, "title": "Acne line becomes a drug claim"},
-    {"t": 3858.0, "title": "Isotretinoin risks"},
-    {"t": 3998.0, "title": "Human testing needs consent"},
-    {"t": 4050.0, "title": "Dates are not test subjects"},
-    {"t": 4167.0, "title": "Covert testing rejected"},
-    {"t": 4257.0, "title": "Congruency theory is not proof"},
-    {"t": 4290.0, "title": "No chemical creates consent"},
-    {"t": 4341.0, "title": "Spanish fly is toxic"},
-    {"t": 4387.0, "title": "Rape juice and orgy spray"},
-    {"t": 4436.0, "title": "Do not experiment on constrained workers"},
-    {"t": 4524.0, "title": "Platonic date still requires disclosure"},
-    {"t": 4623.0, "title": "Botox is a regulated drug"},
-    {"t": 4631.0, "title": "Pine bark is not a Botox substitute"},
-    {"t": 4721.0, "title": "DVDASA store returns"},
-    {"t": 4792.0, "title": "The guest is not a doctor"},
-    {"t": 4833.0, "title": "Blanket no-carb advice rejected"},
-    {"t": 4860.0, "title": "CBD weight-loss claim unsupported"},
-    {"t": 4872.0, "title": "THC terminology"},
-    {"t": 4946.0, "title": "Podcast wart diagnosis rejected"},
-    {"t": 4988.0, "title": "Bipolar diagnosis joke corrected"},
-    {"t": 5002.0, "title": "Probiotics do not universally cure IBS"},
-    {"t": 5018.0, "title": "Not a doctor, explicitly"},
-    {"t": 5053.0, "title": "Male-pattern hair-loss treatments"},
-    {"t": 5093.0, "title": "Sodium lauryl sulfate"},
-    {"t": 5215.0, "title": "Medicated textile claims"},
-    {"t": 5237.0, "title": "Diffuser safety"},
-    {"t": 5296.0, "title": "Essential-oil claims need evidence"},
-    {"t": 5353.0, "title": "Direct-to-fan product empire"},
-    {"t": 5441.0, "title": "Million-shirt claim"},
-    {"t": 5579.0, "title": "Truth serum is unreliable"},
-    {"t": 5595.0, "title": "Drug-manufacturing requests contained"},
-    {"t": 5608.0, "title": "Pure heroin is not safe"},
-    {"t": 5867.0, "title": "Jobs.dvdasa.com recruitment"},
-    {"t": 5888.0, "title": "Pay and job-description retaliation"},
-    {"t": 5897.0, "title": "Discriminatory hiring preferences"},
-    {"t": 5943.0, "title": "Partners versus employees"},
-    {"t": 6025.0, "title": "A decade of Choe shirts"},
-    {"t": 6043.0, "title": "Eddie Huang name repair"},
-    {"t": 6049.0, "title": "Unresolved Eddie Huang book lead"},
-    {"t": 6094.0, "title": "Crack and heroin differ"},
-    {"t": 6252.0, "title": "Full House trivia"},
-    {"t": 6260.0, "title": "Stephanie Judith Tanner"},
-    {"t": 6363.0, "title": "Candace Cameron Bure and Valeri Bure"},
-    {"t": 6638.0, "title": "Diet-related self-harm hyperbole"},
-    {"t": 6666.0, "title": "Episode-era store close"},
-    {"t": 6687.0, "title": "Bill Poon's transport work"},
-    {"t": 6731.0, "title": "Client-worker sexual boundary"},
-    {"t": 6770.0, "title": "No covert client testing"}
+    {
+      "t": 35,
+      "title": "Cold open and shortened show"
+    },
+    {
+      "t": 120,
+      "title": "Bobby Lee and Money Mark have gigs"
+    },
+    {
+      "t": 260,
+      "title": "Live versus prerecorded DVDASA"
+    },
+    {
+      "t": 300,
+      "title": "Episode 74 editing pressure carries forward"
+    },
+    {
+      "t": 326,
+      "title": "Critter and Bobby shirts"
+    },
+    {
+      "t": 381,
+      "title": "Shop.dvdasa.com launches"
+    },
+    {
+      "t": 501,
+      "title": "Merchandise as production funding"
+    },
+    {
+      "t": 524,
+      "title": "Nima Nabavi arrives from Dubai"
+    },
+    {
+      "t": 543,
+      "title": "The 2013 Middle East connection"
+    },
+    {
+      "t": 570,
+      "title": "Turkey, Afghanistan and Dubai"
+    },
+    {
+      "t": 620,
+      "title": "Beirut story begins"
+    },
+    {
+      "t": 645,
+      "title": "Maz Jobrani and Ahmed Ahmed"
+    },
+    {
+      "t": 663,
+      "title": "Inside-job claim corrected"
+    },
+    {
+      "t": 739,
+      "title": "Commercial-sex venue withheld"
+    },
+    {
+      "t": 762,
+      "title": "Worker identity minimized"
+    },
+    {
+      "t": 808,
+      "title": "Paid encounter described as a date"
+    },
+    {
+      "t": 835,
+      "title": "Code phrase and room withheld"
+    },
+    {
+      "t": 870,
+      "title": "Handlers and danger"
+    },
+    {
+      "t": 919,
+      "title": "Inconsistent handler count"
+    },
+    {
+      "t": 966,
+      "title": "No problem as travel motif"
+    },
+    {
+      "t": 1039,
+      "title": "VIP, No Problem"
+    },
+    {
+      "t": 1120,
+      "title": "Dubai disability art program"
+    },
+    {
+      "t": 1178,
+      "title": "Young participants protected"
+    },
+    {
+      "t": 1215,
+      "title": "Support needs are not a ranking"
+    },
+    {
+      "t": 1309,
+      "title": "Art experience is not clinical expertise"
+    },
+    {
+      "t": 1416,
+      "title": "Savant stereotype corrected"
+    },
+    {
+      "t": 1430,
+      "title": "A young DJ admires Skrillex"
+    },
+    {
+      "t": 1447,
+      "title": "Sonny Moore name repair"
+    },
+    {
+      "t": 1527,
+      "title": "Encouragement video, identity withheld"
+    },
+    {
+      "t": 1659,
+      "title": "Dubai history corrected"
+    },
+    {
+      "t": 1782,
+      "title": "Asperger's terminology"
+    },
+    {
+      "t": 1787,
+      "title": "Diagnosis cannot be read from appearance"
+    },
+    {
+      "t": 1822,
+      "title": "North Korean restaurant visit"
+    },
+    {
+      "t": 1835,
+      "title": "Not one of only three"
+    },
+    {
+      "t": 1930,
+      "title": "Systemic coercion versus specific claims"
+    },
+    {
+      "t": 1999,
+      "title": "Family-retaliation fear remains unverified"
+    },
+    {
+      "t": 2106,
+      "title": "Method Man and Mary J. Blige reference"
+    },
+    {
+      "t": 2120,
+      "title": "Hotel California projection"
+    },
+    {
+      "t": 2262,
+      "title": "Rescue fantasy and worker agency"
+    },
+    {
+      "t": 2338,
+      "title": "Family factory tour"
+    },
+    {
+      "t": 2365,
+      "title": "Formula analysis has limits"
+    },
+    {
+      "t": 2425,
+      "title": "Can make anything claim"
+    },
+    {
+      "t": 2490,
+      "title": "Process and stability matter"
+    },
+    {
+      "t": 2562,
+      "title": "Reverse engineering and IP"
+    },
+    {
+      "t": 2685,
+      "title": "Headspace captures volatiles"
+    },
+    {
+      "t": 2722,
+      "title": "Unknown pheromone prototype"
+    },
+    {
+      "t": 3026,
+      "title": "Anecdote is not causation"
+    },
+    {
+      "t": 3085,
+      "title": "Human pheromone evidence"
+    },
+    {
+      "t": 3109,
+      "title": "Likely androstenol terminology"
+    },
+    {
+      "t": 3174,
+      "title": "Room-mood claim unsupported"
+    },
+    {
+      "t": 3203,
+      "title": "Dog reaction anecdote"
+    },
+    {
+      "t": 3251,
+      "title": "Commercialization requires safety work"
+    },
+    {
+      "t": 3262,
+      "title": "Do not test unknown mixtures on animals"
+    },
+    {
+      "t": 3425,
+      "title": "Prototype formulas"
+    },
+    {
+      "t": 3599,
+      "title": "Wart needs clinical evaluation"
+    },
+    {
+      "t": 3668,
+      "title": "Bodily-material product joke"
+    },
+    {
+      "t": 3844,
+      "title": "Acne line becomes a drug claim"
+    },
+    {
+      "t": 3858,
+      "title": "Isotretinoin risks"
+    },
+    {
+      "t": 3998,
+      "title": "Human testing needs consent"
+    },
+    {
+      "t": 4050,
+      "title": "Dates are not test subjects"
+    },
+    {
+      "t": 4167,
+      "title": "Covert testing rejected"
+    },
+    {
+      "t": 4257,
+      "title": "Congruency theory is not proof"
+    },
+    {
+      "t": 4290,
+      "title": "No chemical creates consent"
+    },
+    {
+      "t": 4341,
+      "title": "Spanish fly is toxic"
+    },
+    {
+      "t": 4387,
+      "title": "Rape juice and orgy spray"
+    },
+    {
+      "t": 4436,
+      "title": "Do not experiment on constrained workers"
+    },
+    {
+      "t": 4524,
+      "title": "Platonic date still requires disclosure"
+    },
+    {
+      "t": 4623,
+      "title": "Botox is a regulated drug"
+    },
+    {
+      "t": 4631,
+      "title": "Pine bark is not a Botox substitute"
+    },
+    {
+      "t": 4721,
+      "title": "DVDASA store returns"
+    },
+    {
+      "t": 4792,
+      "title": "The guest is not a doctor"
+    },
+    {
+      "t": 4833,
+      "title": "Blanket no-carb advice rejected"
+    },
+    {
+      "t": 4860,
+      "title": "CBD weight-loss claim unsupported"
+    },
+    {
+      "t": 4872,
+      "title": "THC terminology"
+    },
+    {
+      "t": 4946,
+      "title": "Podcast wart diagnosis rejected"
+    },
+    {
+      "t": 4988,
+      "title": "Bipolar diagnosis joke corrected"
+    },
+    {
+      "t": 5002,
+      "title": "Probiotics do not universally cure IBS"
+    },
+    {
+      "t": 5018,
+      "title": "Not a doctor, explicitly"
+    },
+    {
+      "t": 5053,
+      "title": "Male-pattern hair-loss treatments"
+    },
+    {
+      "t": 5093,
+      "title": "Sodium lauryl sulfate"
+    },
+    {
+      "t": 5215,
+      "title": "Medicated textile claims"
+    },
+    {
+      "t": 5237,
+      "title": "Diffuser safety"
+    },
+    {
+      "t": 5296,
+      "title": "Essential-oil claims need evidence"
+    },
+    {
+      "t": 5353,
+      "title": "Direct-to-fan product empire"
+    },
+    {
+      "t": 5441,
+      "title": "Million-shirt claim"
+    },
+    {
+      "t": 5579,
+      "title": "Truth serum is unreliable"
+    },
+    {
+      "t": 5595,
+      "title": "Drug-manufacturing requests contained"
+    },
+    {
+      "t": 5608,
+      "title": "Pure heroin is not safe"
+    },
+    {
+      "t": 5867,
+      "title": "Jobs.dvdasa.com recruitment"
+    },
+    {
+      "t": 5888,
+      "title": "Pay and job-description retaliation"
+    },
+    {
+      "t": 5897,
+      "title": "Discriminatory hiring preferences"
+    },
+    {
+      "t": 5943,
+      "title": "Partners versus employees"
+    },
+    {
+      "t": 6025,
+      "title": "A decade of Choe shirts"
+    },
+    {
+      "t": 6043,
+      "title": "Eddie Huang name repair"
+    },
+    {
+      "t": 6049,
+      "title": "Unresolved Eddie Huang book lead"
+    },
+    {
+      "t": 6094,
+      "title": "Crack and heroin differ"
+    },
+    {
+      "t": 6252,
+      "title": "Full House trivia"
+    },
+    {
+      "t": 6260,
+      "title": "Stephanie Judith Tanner"
+    },
+    {
+      "t": 6363,
+      "title": "Candace Cameron Bure and Valeri Bure"
+    },
+    {
+      "t": 6638,
+      "title": "Diet-related self-harm hyperbole"
+    },
+    {
+      "t": 6666,
+      "title": "Episode-era store close"
+    },
+    {
+      "t": 6687,
+      "title": "Bill Poon's transport work"
+    },
+    {
+      "t": 6731,
+      "title": "Client-worker sexual boundary"
+    },
+    {
+      "t": 6770,
+      "title": "No covert client testing"
+    }
   ],
   "connections": [
-    {"from": 260, "to": "Episode 74 publication-governance timeline", "relationship": "The next episode immediately debates whether live spontaneity is worth losing an editing window"},
-    {"from": 381, "to": "DVDASA business timeline", "relationship": "The show launches its first explicitly promoted direct-to-fan storefront"},
-    {"from": 524, "to": "2013 VIP, No Problem Middle East trip", "relationship": "Nima Nabavi is publicly credited as an organizer and returns as the episode's guest"},
-    {"from": 739, "to": "commercial-sex and exploitation ledger", "relationship": "A Beirut encounter contains enough venue and access detail to require anti-operational redaction"},
-    {"from": 1039, "to": "Choe–Estevan Oriol presentation history", "relationship": "The episode title repeats the public title of their Dubai travel presentation"},
-    {"from": 1120, "to": "David Choe community-art timeline", "relationship": "The cast recounts an art program with disabled and neurodivergent young people in Dubai"},
-    {"from": 1430, "to": "David Choe–Skrillex creative network", "relationship": "A video message for a young DJ becomes a possible future collaboration lead"},
-    {"from": 1822, "to": "DPRK overseas-labor ledger", "relationship": "The Dubai restaurant visit intersects with later documented forced-labor conditions while leaving individual status unresolved"},
-    {"from": 2338, "to": "Nima Nabavi relationship timeline", "relationship": "The family factory tour becomes the basis for a proposed long-term product partnership"},
-    {"from": 2722, "to": "Episode 73 pheromone test", "relationship": "The prototype tested around Asa Akira and Phoebe Lovatt becomes Episode 75's central product"},
-    {"from": 3251, "to": "DVDASA commerce timeline", "relationship": "The cast moves from shirts toward topical, fragrance and health-adjacent products"},
-    {"from": 4050, "to": "covert-testing consent ledger", "relationship": "Participants propose using private dates as unwitting behavioral test subjects"},
-    {"from": 4387, "to": "consent-misinformation ledger", "relationship": "Rape-product jokes collapse attraction, intoxication and consent, requiring an explicit correction"},
-    {"from": 4792, "to": "credential-misrepresentation ledger", "relationship": "The cast nickname and the guest's own disclaimer directly conflict"},
-    {"from": 5353, "to": "direct-to-fan strategy timeline", "relationship": "Nima and the cast imagine a broad product catalog beyond merchandise"},
-    {"from": 5867, "to": "DVDASA organization timeline", "relationship": "A public recruitment page appears as the show shifts toward a staffed business"},
-    {"from": 5888, "to": "DVDASA workplace-power ledger", "relationship": "The host explicitly threatens termination for asking about compensation or role boundaries"},
-    {"from": 6025, "to": "David Choe–Nima Nabavi relationship timeline", "relationship": "Nima dates their commerce relationship to Choe-shirt sales about ten years earlier"},
-    {"from": 6049, "to": "Eddie Huang written-source census", "relationship": "Nima claims an appearance in a Huang book, creating a book-text verification task"},
-    {"from": 6731, "to": "Bill Poon work and client-boundary ledger", "relationship": "A transport-client sexual encounter raises professional-boundary and consent concerns"}
+    {
+      "from": 260,
+      "to": "Episode 74 publication-governance timeline",
+      "relationship": "The next episode immediately debates whether live spontaneity is worth losing an editing window"
+    },
+    {
+      "from": 381,
+      "to": "DVDASA business timeline",
+      "relationship": "The show launches its first explicitly promoted direct-to-fan storefront"
+    },
+    {
+      "from": 524,
+      "to": "2013 VIP, No Problem Middle East trip",
+      "relationship": "Nima Nabavi is publicly credited as an organizer and returns as the episode's guest"
+    },
+    {
+      "from": 739,
+      "to": "commercial-sex and exploitation ledger",
+      "relationship": "A Beirut encounter contains enough venue and access detail to require anti-operational redaction"
+    },
+    {
+      "from": 1039,
+      "to": "Choe–Estevan Oriol presentation history",
+      "relationship": "The episode title repeats the public title of their Dubai travel presentation"
+    },
+    {
+      "from": 1120,
+      "to": "David Choe community-art timeline",
+      "relationship": "The cast recounts an art program with disabled and neurodivergent young people in Dubai"
+    },
+    {
+      "from": 1430,
+      "to": "David Choe–Skrillex creative network",
+      "relationship": "A video message for a young DJ becomes a possible future collaboration lead"
+    },
+    {
+      "from": 1822,
+      "to": "DPRK overseas-labor ledger",
+      "relationship": "The Dubai restaurant visit intersects with later documented forced-labor conditions while leaving individual status unresolved"
+    },
+    {
+      "from": 2338,
+      "to": "Nima Nabavi relationship timeline",
+      "relationship": "The family factory tour becomes the basis for a proposed long-term product partnership"
+    },
+    {
+      "from": 2722,
+      "to": "Episode 73 pheromone test",
+      "relationship": "The prototype tested around Asa Akira and Phoebe Lovatt becomes Episode 75's central product"
+    },
+    {
+      "from": 3251,
+      "to": "DVDASA commerce timeline",
+      "relationship": "The cast moves from shirts toward topical, fragrance and health-adjacent products"
+    },
+    {
+      "from": 4050,
+      "to": "covert-testing consent ledger",
+      "relationship": "Participants propose using private dates as unwitting behavioral test subjects"
+    },
+    {
+      "from": 4387,
+      "to": "consent-misinformation ledger",
+      "relationship": "Rape-product jokes collapse attraction, intoxication and consent, requiring an explicit correction"
+    },
+    {
+      "from": 4792,
+      "to": "credential-misrepresentation ledger",
+      "relationship": "The cast nickname and the guest's own disclaimer directly conflict"
+    },
+    {
+      "from": 5353,
+      "to": "direct-to-fan strategy timeline",
+      "relationship": "Nima and the cast imagine a broad product catalog beyond merchandise"
+    },
+    {
+      "from": 5867,
+      "to": "DVDASA organization timeline",
+      "relationship": "A public recruitment page appears as the show shifts toward a staffed business"
+    },
+    {
+      "from": 5888,
+      "to": "DVDASA workplace-power ledger",
+      "relationship": "The host explicitly threatens termination for asking about compensation or role boundaries"
+    },
+    {
+      "from": 6025,
+      "to": "David Choe–Nima Nabavi relationship timeline",
+      "relationship": "Nima dates their commerce relationship to Choe-shirt sales about ten years earlier"
+    },
+    {
+      "from": 6049,
+      "to": "Eddie Huang written-source census",
+      "relationship": "Nima claims an appearance in a Huang book, creating a book-text verification task"
+    },
+    {
+      "from": 6731,
+      "to": "Bill Poon work and client-boundary ledger",
+      "relationship": "A transport-client sexual encounter raises professional-boundary and consent concerns"
+    }
   ],
   "content_warnings": [
     "commercial sex and trafficking-adjacent logistics",
@@ -181,5 +621,25 @@
     "animal experimentation proposal",
     "self-harm hyperbole",
     "bodily materials and explicit sexual content"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Estevan Oriol",
+    "Eddie Huang",
+    "Bobby Lee"
+  ],
+  "places": [
+    "Middle East",
+    "Dubai"
+  ],
+  "works": [
+    "Imagine",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 75 is a product-development and organizational-history episode wrapped around the 2013 Middle East trip.",
+  "description_source": "Opening of the human-reviewed summary."
 }

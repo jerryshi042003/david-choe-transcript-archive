@@ -637,5 +637,23 @@
     ],
     "consent_note": "Consent is specific, ongoing and withdrawable. Prior agreement, previous acts or profession do not waive the right to stop. The archive preserves the participant's own account and does not infer permission from distress or make an unsourced legal finding.",
     "public_search_policy": "Restricted spans are excluded from transcript, snippets, embeddings, quotations and previews; neutral chapter labels remain discoverable."
-  }
+  },
+  "people": [
+    "David Choe",
+    "Kevin Smith",
+    "Asa Akira"
+  ],
+  "places": [],
+  "works": [
+    "Asa Akira Is Insatiable",
+    "The Poon Report",
+    "Concrete",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A large ensemble uses Asa Akira Is Insatiable 2 for a synchronized commentary experiment, borrowing the form associated on air with Kevin Smith's podcast commentary.",
+  "description_source": "Opening of the human-reviewed summary."
 }

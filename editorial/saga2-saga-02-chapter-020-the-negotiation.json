@@ -1,40 +1,981 @@
 {
-  "episode_id":"saga2-saga-02-chapter-020-the-negotiation",
-  "title":"The Negotiation",
-  "reviewed_on":"2026-07-31",
-  "summary":"Chapter 20 begins inside Mangchi rehearsal and introduces a new drummer and a silent costumed participant under on-air names. It gives Heather Leather clear arranging and band-lead credit, dates a planned November 2 DVDASA wedding/AMA/concert marathon, and explains that the show had disappeared from public distribution for three months without stopping production. The first long report concerns enemas, cross-contamination, a UTI that reportedly ascended to a kidney infection, hospitalization, frequent high-pressure bidet use, and urination during sex. The archive preserves every detail but does not turn it into a procedure. One private partner is deceived: David tells her he is about to ejaculate, urinates inside her without advance agreement, then tells her; she slaps him and later reportedly develops a UTI. Her earlier deception about squirting does not authorize retaliation. Cranberry juice is not established treatment for an active UTI, post-event urination does not retroactively make the act safe, and ‘okay in assholes, not vaginas’ is rejected as unsupported. The chapter revisits Poon's cross-dressing disclosure without inferring transgender identity, then pressures a new drummer to disclose private sexual details within twenty-four hours of joining. His absent partner's knowledge is explicitly unknown. A minor-sexual-assault fantasy remains in the source with the speaker's immediate claim that he would never act on it; it is restricted from decontextualized discovery. The feces discussion escalates from fantasy into offers up to $250,000 after direct refusals. A waiver, antibiotics, or financial need cannot erase infection risk or economic coercion. Heather reports that her partner was upset after the previous episode, then interprets his willingness to consider a future act as hope; future possibility is not present consent. The central negotiation proposes paying a Colombian sex worker to secretly perform a month-long girlfriend relationship under constant filming so Bill Poon will orgasm. Bill specifically rejects filmed sex. Producer effort, worker agreement, prior nudity, scarcity, friendship, entertainment value and a participant's general openness do not authorize this new recording. When asked what would change his answer, he conditionally requests three professional practice sessions and a replacement car, but no deal is completed; he later says he hates having to bargain with a friend. The room itself recognizes the production could ruin both participants' lives, might reduce Bill to a dancing monkey, and that the show had already taken too much from David's life. Those internal objections are preserved as the most important product lesson: an exhaustive archive should increase informed control, not repeat the source's pressure. No line-level names publish before acoustic validation.",
-  "chapters":[
-    {"t":19,"title":"Mangchi opening performance"},{"t":217,"title":"Band-cover planning"},{"t":252,"title":"Can I say your name?"},{"t":257,"title":"Casey Jones enters"},{"t":295,"title":"The room smell check"},{"t":349,"title":"I want to be alone"},{"t":428,"title":"Permission to join"},{"t":554,"title":"Cast introduction"},{"t":625,"title":"Last-minute band-practice show"},{"t":680,"title":"Learning to play to a click"},{"t":715,"title":"Heather charts and leads"},{"t":769,"title":"November 2 wedding marathon"},{"t":800,"title":"The planned Reddit AMA"},{"t":899,"title":"The asserted $100,000 finale"},{"t":941,"title":"Asa's workday"},{"t":1028,"title":"Absolutely not"},{"t":1094,"title":"The enema report"},{"t":1266,"title":"Toy cross-contamination"},{"t":1279,"title":"UTI and kidney infection"},{"t":1353,"title":"Daily bidet enemas"},{"t":1511,"title":"Hemorrhoid and prolapse warning"},{"t":1535,"title":"A private violent encounter"},{"t":1602,"title":"Requested urine during sex"},{"t":1718,"title":"Is urination safe?"},{"t":1892,"title":"Three months off public air"},{"t":1959,"title":"Squirting deception disclosed"},{"t":2047,"title":"Retaliatory plan"},{"t":2074,"title":"Urination without advance consent"},{"t":2091,"title":"Disclosure and slap"},{"t":2102,"title":"A subsequent UTI"},{"t":2121,"title":"Unsafe piss-report conclusion"},{"t":2176,"title":"Poon's private disclosure revisited"},{"t":2196,"title":"Post-show gossip"},{"t":2222,"title":"Cross-dressing, not inferred identity"},{"t":2277,"title":"Full drag once or twice a year"},{"t":2413,"title":"Sex-addiction self-description"},{"t":2552,"title":"A drummer known less than a day"},{"t":2671,"title":"Chelsea Wolfe connection"},{"t":2699,"title":"The coercive dinner hypothetical"},{"t":2811,"title":"I would rather die"},{"t":2826,"title":"David at fifteen"},{"t":2897,"title":"Drugging and minor-contact fantasy"},{"t":2925,"title":"I would never do it"},{"t":2970,"title":"What if the newcomer was not okay?"},{"t":3030,"title":"Escalation theory"},{"t":3096,"title":"Paying someone to eat feces"},{"t":3126,"title":"No amount of money"},{"t":3144,"title":"You cannot force me"},{"t":3147,"title":"A quarter-million-dollar offer"},{"t":3191,"title":"The broken car as leverage"},{"t":3295,"title":"Total intimacy called noble"},{"t":3303,"title":"The partner was upset"},{"t":3334,"title":"Hope is not present consent"},{"t":3400,"title":"A fart withdrawn"},{"t":3452,"title":"The new drummer's secret"},{"t":3482,"title":"Does his partner know?"},{"t":3514,"title":"Favorite drummers"},{"t":3548,"title":"The Macau brothers return"},{"t":3742,"title":"Possible undercover camera"},{"t":3822,"title":"Condom history"},{"t":3907,"title":"The Medellín beauty myth"},{"t":3978,"title":"A secretly paid girlfriend"},{"t":4022,"title":"Big Brother surveillance"},{"t":4058,"title":"Bill rejects filming sex"},{"t":4207,"title":"Casting an actress"},{"t":4276,"title":"Pay her to laugh"},{"t":4344,"title":"Authentic compatibility"},{"t":4471,"title":"This is not real life"},{"t":4480,"title":"Prior nudity is not consent"},{"t":4585,"title":"The camera never goes off"},{"t":4618,"title":"Do you want to do it?"},{"t":4621,"title":"Not on film"},{"t":4625,"title":"Negotiation after refusal"},{"t":4641,"title":"Three practice sessions"},{"t":4681,"title":"Creative approval analogy"},{"t":4701,"title":"Hong Dynasty"},{"t":4882,"title":"A replacement car"},{"t":4977,"title":"No completed deal"},{"t":5070,"title":"Broken 6,400 calculation"},{"t":5200,"title":"The absent partner may be shocked"},{"t":5332,"title":"Friendship makes bargaining painful"},{"t":5350,"title":"Porn-star label imposed"},{"t":5362,"title":"This could ruin both lives"},{"t":5371,"title":"Person or dancing monkey?"},{"t":5391,"title":"The show took too much"},{"t":5402,"title":"The self-destructive-artist myth"},{"t":5452,"title":"Scarcity pressure"},{"t":5471,"title":"The friendship concern remains unanswered"},{"t":5621,"title":"Closed mouths never get fed"},{"t":5797,"title":"Mangchi closing performance"}
+  "episode_id": "saga2-saga-02-chapter-020-the-negotiation",
+  "title": "The Negotiation",
+  "reviewed_on": "2026-07-31",
+  "summary": "Chapter 20 begins inside Mangchi rehearsal and introduces a new drummer and a silent costumed participant under on-air names. It gives Heather Leather clear arranging and band-lead credit, dates a planned November 2 DVDASA wedding/AMA/concert marathon, and explains that the show had disappeared from public distribution for three months without stopping production. The first long report concerns enemas, cross-contamination, a UTI that reportedly ascended to a kidney infection, hospitalization, frequent high-pressure bidet use, and urination during sex. The archive preserves every detail but does not turn it into a procedure. One private partner is deceived: David tells her he is about to ejaculate, urinates inside her without advance agreement, then tells her; she slaps him and later reportedly develops a UTI. Her earlier deception about squirting does not authorize retaliation. Cranberry juice is not established treatment for an active UTI, post-event urination does not retroactively make the act safe, and ‘okay in assholes, not vaginas’ is rejected as unsupported. The chapter revisits Poon's cross-dressing disclosure without inferring transgender identity, then pressures a new drummer to disclose private sexual details within twenty-four hours of joining. His absent partner's knowledge is explicitly unknown. A minor-sexual-assault fantasy remains in the source with the speaker's immediate claim that he would never act on it; it is restricted from decontextualized discovery. The feces discussion escalates from fantasy into offers up to $250,000 after direct refusals. A waiver, antibiotics, or financial need cannot erase infection risk or economic coercion. Heather reports that her partner was upset after the previous episode, then interprets his willingness to consider a future act as hope; future possibility is not present consent. The central negotiation proposes paying a Colombian sex worker to secretly perform a month-long girlfriend relationship under constant filming so Bill Poon will orgasm. Bill specifically rejects filmed sex. Producer effort, worker agreement, prior nudity, scarcity, friendship, entertainment value and a participant's general openness do not authorize this new recording. When asked what would change his answer, he conditionally requests three professional practice sessions and a replacement car, but no deal is completed; he later says he hates having to bargain with a friend. The room itself recognizes the production could ruin both participants' lives, might reduce Bill to a dancing monkey, and that the show had already taken too much from David's life. Those internal objections are preserved as the most important product lesson: an exhaustive archive should increase informed control, not repeat the source's pressure. No line-level names publish before acoustic validation.",
+  "chapters": [
+    {
+      "t": 19,
+      "title": "Mangchi opening performance"
+    },
+    {
+      "t": 217,
+      "title": "Band-cover planning"
+    },
+    {
+      "t": 252,
+      "title": "Can I say your name?"
+    },
+    {
+      "t": 257,
+      "title": "Casey Jones enters"
+    },
+    {
+      "t": 295,
+      "title": "The room smell check"
+    },
+    {
+      "t": 349,
+      "title": "I want to be alone"
+    },
+    {
+      "t": 428,
+      "title": "Permission to join"
+    },
+    {
+      "t": 554,
+      "title": "Cast introduction"
+    },
+    {
+      "t": 625,
+      "title": "Last-minute band-practice show"
+    },
+    {
+      "t": 680,
+      "title": "Learning to play to a click"
+    },
+    {
+      "t": 715,
+      "title": "Heather charts and leads"
+    },
+    {
+      "t": 769,
+      "title": "November 2 wedding marathon"
+    },
+    {
+      "t": 800,
+      "title": "The planned Reddit AMA"
+    },
+    {
+      "t": 899,
+      "title": "The asserted $100,000 finale"
+    },
+    {
+      "t": 941,
+      "title": "Asa's workday"
+    },
+    {
+      "t": 1028,
+      "title": "Absolutely not"
+    },
+    {
+      "t": 1094,
+      "title": "The enema report"
+    },
+    {
+      "t": 1266,
+      "title": "Toy cross-contamination"
+    },
+    {
+      "t": 1279,
+      "title": "UTI and kidney infection"
+    },
+    {
+      "t": 1353,
+      "title": "Daily bidet enemas"
+    },
+    {
+      "t": 1511,
+      "title": "Hemorrhoid and prolapse warning"
+    },
+    {
+      "t": 1535,
+      "title": "A private violent encounter"
+    },
+    {
+      "t": 1602,
+      "title": "Requested urine during sex"
+    },
+    {
+      "t": 1718,
+      "title": "Is urination safe?"
+    },
+    {
+      "t": 1892,
+      "title": "Three months off public air"
+    },
+    {
+      "t": 1959,
+      "title": "Squirting deception disclosed"
+    },
+    {
+      "t": 2047,
+      "title": "Retaliatory plan"
+    },
+    {
+      "t": 2074,
+      "title": "Urination without advance consent"
+    },
+    {
+      "t": 2091,
+      "title": "Disclosure and slap"
+    },
+    {
+      "t": 2102,
+      "title": "A subsequent UTI"
+    },
+    {
+      "t": 2121,
+      "title": "Unsafe piss-report conclusion"
+    },
+    {
+      "t": 2176,
+      "title": "Poon's private disclosure revisited"
+    },
+    {
+      "t": 2196,
+      "title": "Post-show gossip"
+    },
+    {
+      "t": 2222,
+      "title": "Cross-dressing, not inferred identity"
+    },
+    {
+      "t": 2277,
+      "title": "Full drag once or twice a year"
+    },
+    {
+      "t": 2413,
+      "title": "Sex-addiction self-description"
+    },
+    {
+      "t": 2552,
+      "title": "A drummer known less than a day"
+    },
+    {
+      "t": 2671,
+      "title": "Chelsea Wolfe connection"
+    },
+    {
+      "t": 2699,
+      "title": "The coercive dinner hypothetical"
+    },
+    {
+      "t": 2811,
+      "title": "I would rather die"
+    },
+    {
+      "t": 2826,
+      "title": "David at fifteen"
+    },
+    {
+      "t": 2897,
+      "title": "Drugging and minor-contact fantasy"
+    },
+    {
+      "t": 2925,
+      "title": "I would never do it"
+    },
+    {
+      "t": 2970,
+      "title": "What if the newcomer was not okay?"
+    },
+    {
+      "t": 3030,
+      "title": "Escalation theory"
+    },
+    {
+      "t": 3096,
+      "title": "Paying someone to eat feces"
+    },
+    {
+      "t": 3126,
+      "title": "No amount of money"
+    },
+    {
+      "t": 3144,
+      "title": "You cannot force me"
+    },
+    {
+      "t": 3147,
+      "title": "A quarter-million-dollar offer"
+    },
+    {
+      "t": 3191,
+      "title": "The broken car as leverage"
+    },
+    {
+      "t": 3295,
+      "title": "Total intimacy called noble"
+    },
+    {
+      "t": 3303,
+      "title": "The partner was upset"
+    },
+    {
+      "t": 3334,
+      "title": "Hope is not present consent"
+    },
+    {
+      "t": 3400,
+      "title": "A fart withdrawn"
+    },
+    {
+      "t": 3452,
+      "title": "The new drummer's secret"
+    },
+    {
+      "t": 3482,
+      "title": "Does his partner know?"
+    },
+    {
+      "t": 3514,
+      "title": "Favorite drummers"
+    },
+    {
+      "t": 3548,
+      "title": "The Macau brothers return"
+    },
+    {
+      "t": 3742,
+      "title": "Possible undercover camera"
+    },
+    {
+      "t": 3822,
+      "title": "Condom history"
+    },
+    {
+      "t": 3907,
+      "title": "The Medellín beauty myth"
+    },
+    {
+      "t": 3978,
+      "title": "A secretly paid girlfriend"
+    },
+    {
+      "t": 4022,
+      "title": "Big Brother surveillance"
+    },
+    {
+      "t": 4058,
+      "title": "Bill rejects filming sex"
+    },
+    {
+      "t": 4207,
+      "title": "Casting an actress"
+    },
+    {
+      "t": 4276,
+      "title": "Pay her to laugh"
+    },
+    {
+      "t": 4344,
+      "title": "Authentic compatibility"
+    },
+    {
+      "t": 4471,
+      "title": "This is not real life"
+    },
+    {
+      "t": 4480,
+      "title": "Prior nudity is not consent"
+    },
+    {
+      "t": 4585,
+      "title": "The camera never goes off"
+    },
+    {
+      "t": 4618,
+      "title": "Do you want to do it?"
+    },
+    {
+      "t": 4621,
+      "title": "Not on film"
+    },
+    {
+      "t": 4625,
+      "title": "Negotiation after refusal"
+    },
+    {
+      "t": 4641,
+      "title": "Three practice sessions"
+    },
+    {
+      "t": 4681,
+      "title": "Creative approval analogy"
+    },
+    {
+      "t": 4701,
+      "title": "Hong Dynasty"
+    },
+    {
+      "t": 4882,
+      "title": "A replacement car"
+    },
+    {
+      "t": 4977,
+      "title": "No completed deal"
+    },
+    {
+      "t": 5070,
+      "title": "Broken 6,400 calculation"
+    },
+    {
+      "t": 5200,
+      "title": "The absent partner may be shocked"
+    },
+    {
+      "t": 5332,
+      "title": "Friendship makes bargaining painful"
+    },
+    {
+      "t": 5350,
+      "title": "Porn-star label imposed"
+    },
+    {
+      "t": 5362,
+      "title": "This could ruin both lives"
+    },
+    {
+      "t": 5371,
+      "title": "Person or dancing monkey?"
+    },
+    {
+      "t": 5391,
+      "title": "The show took too much"
+    },
+    {
+      "t": 5402,
+      "title": "The self-destructive-artist myth"
+    },
+    {
+      "t": 5452,
+      "title": "Scarcity pressure"
+    },
+    {
+      "t": 5471,
+      "title": "The friendship concern remains unanswered"
+    },
+    {
+      "t": 5621,
+      "title": "Closed mouths never get fed"
+    },
+    {
+      "t": 5797,
+      "title": "Mangchi closing performance"
+    }
   ],
-  "connections":[
-    {"t":715,"to":"mangchi-creative-history","why":"Heather Leather is credited with charting the set and leading rehearsal."},
-    {"t":769,"to":"saga2-chapter-018-proposal","why":"The accepted proposal becomes a planned church wedding and live marathon."},
-    {"t":1279,"to":"sexual-health-and-uti","why":"A first-person cross-contamination account leads to hospitalization."},
-    {"t":1892,"to":"archive-availability-timeline","why":"The group distinguishes being off public air from continuing production."},
-    {"t":2074,"to":"consent-through-deception","why":"A bodily-fluid act occurs under a false explanation and without advance agreement."},
-    {"t":2222,"to":"saga2-chapter-019-cross-dressing","why":"The prior episode is revisited with more precise self-description."},
-    {"t":2897,"to":"harmful-fantasy-versus-conduct","why":"The record keeps both the fantasy and explicit denial of intended conduct."},
-    {"t":3096,"to":"economic-coercion-and-bodily-risk","why":"Money and a waiver are offered against categorical refusal."},
-    {"t":3303,"to":"saga2-chapter-018-feces-boundary","why":"The previous discussion has caused real relationship distress."},
-    {"t":3548,"to":"macau-brothers","why":"The prior travel/sex-work project supplies the premise for the next production."},
-    {"t":3978,"to":"deceptive-reality-production","why":"A paid worker would conceal the transaction and simulate love."},
-    {"t":4022,"to":"big-brother","why":"Constant surveillance is explicitly modeled on Big Brother."},
-    {"t":4058,"to":"recording-consent","why":"Bill's specific refusal controls over every general argument for the show."},
-    {"t":4701,"to":"hong-dynasty","why":"Bill compares sexual-performance approval to reviewing creative work."},
-    {"t":5391,"to":"archive-product-ethics","why":"David states the show damaged his life, defining a requirement for user control."}
+  "connections": [
+    {
+      "t": 715,
+      "to": "mangchi-creative-history",
+      "why": "Heather Leather is credited with charting the set and leading rehearsal."
+    },
+    {
+      "t": 769,
+      "to": "saga2-chapter-018-proposal",
+      "why": "The accepted proposal becomes a planned church wedding and live marathon."
+    },
+    {
+      "t": 1279,
+      "to": "sexual-health-and-uti",
+      "why": "A first-person cross-contamination account leads to hospitalization."
+    },
+    {
+      "t": 1892,
+      "to": "archive-availability-timeline",
+      "why": "The group distinguishes being off public air from continuing production."
+    },
+    {
+      "t": 2074,
+      "to": "consent-through-deception",
+      "why": "A bodily-fluid act occurs under a false explanation and without advance agreement."
+    },
+    {
+      "t": 2222,
+      "to": "saga2-chapter-019-cross-dressing",
+      "why": "The prior episode is revisited with more precise self-description."
+    },
+    {
+      "t": 2897,
+      "to": "harmful-fantasy-versus-conduct",
+      "why": "The record keeps both the fantasy and explicit denial of intended conduct."
+    },
+    {
+      "t": 3096,
+      "to": "economic-coercion-and-bodily-risk",
+      "why": "Money and a waiver are offered against categorical refusal."
+    },
+    {
+      "t": 3303,
+      "to": "saga2-chapter-018-feces-boundary",
+      "why": "The previous discussion has caused real relationship distress."
+    },
+    {
+      "t": 3548,
+      "to": "macau-brothers",
+      "why": "The prior travel/sex-work project supplies the premise for the next production."
+    },
+    {
+      "t": 3978,
+      "to": "deceptive-reality-production",
+      "why": "A paid worker would conceal the transaction and simulate love."
+    },
+    {
+      "t": 4022,
+      "to": "big-brother",
+      "why": "Constant surveillance is explicitly modeled on Big Brother."
+    },
+    {
+      "t": 4058,
+      "to": "recording-consent",
+      "why": "Bill's specific refusal controls over every general argument for the show."
+    },
+    {
+      "t": 4701,
+      "to": "hong-dynasty",
+      "why": "Bill compares sexual-performance approval to reviewing creative work."
+    },
+    {
+      "t": 5391,
+      "to": "archive-product-ethics",
+      "why": "David states the show damaged his life, defining a requirement for user control."
+    }
   ],
-  "content_warnings":[
-    {"t":19,"warning":"explicit Mangchi performance"},{"t":984,"warning":"third-party sexual-work details"},{"t":1094,"warning":"enema procedure and bowel content"},{"t":1279,"warning":"UTI, kidney infection and hospitalization"},{"t":1535,"warning":"intoxication, violence and sexual activity"},{"t":1718,"warning":"urination during sex"},{"t":2047,"warning":"retaliatory nonconsensual bodily-fluid act"},{"t":2176,"warning":"private sexual disclosure and post-show gossip"},{"t":2528,"warning":"anti-trans and disability slurs"},{"t":2699,"warning":"coercive sexual hypothetical"},{"t":2897,"warning":"drugging and sexual contact with a minor fantasy"},{"t":3096,"warning":"fecal ingestion, infection risk and financial coercion"},{"t":3303,"warning":"partner distress and feces pressure"},{"t":3548,"warning":"paid sex, private workers and covert recording"},{"t":3978,"warning":"deceptive paid relationship and total surveillance"},{"t":4058,"warning":"pressure after refusal to filmed sex"},{"t":5350,"warning":"identity imposition and irreversible publication harm"}
+  "content_warnings": [
+    {
+      "t": 19,
+      "warning": "explicit Mangchi performance"
+    },
+    {
+      "t": 984,
+      "warning": "third-party sexual-work details"
+    },
+    {
+      "t": 1094,
+      "warning": "enema procedure and bowel content"
+    },
+    {
+      "t": 1279,
+      "warning": "UTI, kidney infection and hospitalization"
+    },
+    {
+      "t": 1535,
+      "warning": "intoxication, violence and sexual activity"
+    },
+    {
+      "t": 1718,
+      "warning": "urination during sex"
+    },
+    {
+      "t": 2047,
+      "warning": "retaliatory nonconsensual bodily-fluid act"
+    },
+    {
+      "t": 2176,
+      "warning": "private sexual disclosure and post-show gossip"
+    },
+    {
+      "t": 2528,
+      "warning": "anti-trans and disability slurs"
+    },
+    {
+      "t": 2699,
+      "warning": "coercive sexual hypothetical"
+    },
+    {
+      "t": 2897,
+      "warning": "drugging and sexual contact with a minor fantasy"
+    },
+    {
+      "t": 3096,
+      "warning": "fecal ingestion, infection risk and financial coercion"
+    },
+    {
+      "t": 3303,
+      "warning": "partner distress and feces pressure"
+    },
+    {
+      "t": 3548,
+      "warning": "paid sex, private workers and covert recording"
+    },
+    {
+      "t": 3978,
+      "warning": "deceptive paid relationship and total surveillance"
+    },
+    {
+      "t": 4058,
+      "warning": "pressure after refusal to filmed sex"
+    },
+    {
+      "t": 5350,
+      "warning": "identity imposition and irreversible publication harm"
+    }
   ],
-  "publication_restrictions":[
-    {"t":19,"rule":"Do not invent unclear Mangchi lyrics."},{"t":252,"rule":"Retain the permission check before any identity use."},{"t":257,"rule":"Keep Casey Jones as an on-air alias until public credit is proven."},{"t":598,"rule":"Do not expand Dylan's identity/contact trail from a recruitment post."},{"t":769,"rule":"Do not report the planned wedding marathon as completed without evidence."},{"t":899,"rule":"Treat the $100,000 payout as asserted until verified."},{"t":984,"rule":"Do not index third-party sexual work detail as established fact."},{"t":1028,"rule":"Retain Asa's reported absolute refusal."},{"t":1094,"rule":"Do not turn enema recollection into instructions."},{"t":1279,"rule":"Attribute cause and diagnosis to the speaker's report."},{"t":1305,"rule":"Do not present cranberry juice as treatment for active UTI."},{"t":1353,"rule":"Do not recommend frequent rectal water use or high-pressure bidet misuse."},{"t":1535,"rule":"Keep private participants and location generic."},{"t":1562,"rule":"Do not infer valid consent from an intoxicated violent account."},{"t":1602,"rule":"Keep the affirmative request with the first-person encounter."},{"t":1672,"rule":"Do not infer consent from silence or costume performance."},{"t":1723,"rule":"Retain the retraction of the proposed act."},{"t":1729,"rule":"Do not state a single categorical UTI mechanism from this anecdote."},{"t":1734,"rule":"Do not present rectal urination as safe."},{"t":1882,"rule":"Reported wanting does not resolve intoxication and violence concerns."},{"t":1950,"rule":"Do not reidentify the private recurring partner."},{"t":2047,"rule":"Earlier deception never authorizes retaliatory bodily contact."},{"t":2059,"rule":"Keep the false ejaculation explanation in the consent chronology."},{"t":2074,"rule":"Label the act as unagreed and deceptive; do not euphemize it as squirting."},{"t":2096,"rule":"Post-event urination does not create prior consent or guarantee prevention."},{"t":2104,"rule":"Do not substitute cranberry juice for clinical evaluation of symptomatic infection."},{"t":2121,"rule":"Reject the episode's ‘safe in anus, unsafe in vagina’ rule."},{"t":2176,"rule":"Do not index Poon through intimate clothing/fantasy disclosures."},{"t":2196,"rule":"A show's no-judgment claim does not erase off-air gossip."},{"t":2222,"rule":"Do not infer transgender identity from cross-dressing."},{"t":2302,"rule":"Peer identity labels do not override self-identification."},{"t":2420,"rule":"Keep Critter's absent/private sexual conduct out of discovery."},{"t":2528,"rule":"Use transgender person and little person in editorial language; slurs stay source-only."},{"t":2552,"rule":"Account for newcomer/group power when assessing apparent comfort."},{"t":2633,"rule":"Do not expose recruitment handles or private contact details."},{"t":2699,"rule":"Do not present forced sexual hypotheticals as identity evidence."},{"t":2811,"rule":"Retain the direct boundary despite hyperbole."},{"t":2897,"rule":"Restrict minor/assault fantasy from snippets; keep denial and context attached."},{"t":2956,"rule":"One statement of comfort is not blanket permission for future disclosures."},{"t":2970,"rule":"Retain the host's recognition that the newcomer might not have been okay."},{"t":3040,"rule":"Do not infer ages or identify relatives from the porn reference."},{"t":3096,"rule":"Never operationalize fecal ingestion or incentive design."},{"t":3114,"rule":"A waiver cannot remove medical risk or coercive pressure."},{"t":3126,"rule":"Retain the categorical refusal."},{"t":3144,"rule":"Retain the anti-coercion statement."},{"t":3147,"rule":"Do not normalize escalating money against refusal."},{"t":3158,"rule":"Do not claim antibiotics make fecal ingestion harmless."},{"t":3191,"rule":"Do not exploit financial need to obtain bodily-risk consent."},{"t":3273,"rule":"No bodily-waste methods surface in search snippets."},{"t":3303,"rule":"Keep the partner's upset response with the earlier broadcast."},{"t":3334,"rule":"Future possible willingness is not current consent."},{"t":3374,"rule":"Do not surface preparation or storage details as instructions."},{"t":3400,"rule":"Retain that the partner stopped when uncomfortable."},{"t":3431,"rule":"Keep the new drummer's partner generic."},{"t":3452,"rule":"Do not treat joining a band as consent to sexual disclosure."},{"t":3482,"rule":"Partner knowledge and consent are explicitly unknown."},{"t":3564,"rule":"Retain the correction of unsupported worker-policy speculation."},{"t":3588,"rule":"Do not infer consent to past body contact without the full footage/context."},{"t":3657,"rule":"Do not reidentify worker 907."},{"t":3676,"rule":"Do not equate a clean setting with STI or occupational safety."},{"t":3742,"rule":"Do not publish covert sex-worker footage or infer it exists without proof."},{"t":3792,"rule":"Do not index the private worker by name."},{"t":3805,"rule":"Peer psychoanalysis is not diagnosis."},{"t":3822,"rule":"Keep the condom slip-off event with the otherwise consistent-use claim."},{"t":3907,"rule":"Do not repeat the Escobar/Medellín beauty myth as history."},{"t":3978,"rule":"Do not design or celebrate a secretly paid intimate relationship."},{"t":3995,"rule":"Deception about love and money is not informed consent."},{"t":4022,"rule":"Constant filming requires ongoing, revocable consent from every participant."},{"t":4058,"rule":"Bill's refusal to filmed sex controls."},{"t":4087,"rule":"Producer effort and another participant's consent cannot substitute for Bill's."},{"t":4160,"rule":"Do not reidentify a private worker through number, braces, ethnicity, body or venue."},{"t":4207,"rule":"Do not publish applicant identities or treat resemblance as endorsement."},{"t":4220,"rule":"Calling the role acting does not erase sex-work labor or deception."},{"t":4311,"rule":"Never expose private email addresses offered in the room."},{"t":4422,"rule":"Do not infer orientation from an unclear/nonverbal response."},{"t":4471,"rule":"Retain the admission that the premise is not real life."},{"t":4480,"rule":"Prior nudity is not consent to filmed sex."},{"t":4491,"rule":"Scarcity does not establish free agreement."},{"t":4505,"rule":"The audience's or producer's desire is irrelevant to bodily consent."},{"t":4585,"rule":"No camera-never-off product pattern applies without ongoing revocable consent."},{"t":4618,"rule":"Keep the direct desire question and answer together."},{"t":4621,"rule":"Retain the direct no to filming."},{"t":4625,"rule":"Conditional negotiation after no is not a completed yes."},{"t":4641,"rule":"Do not operationalize escort sourcing."},{"t":4681,"rule":"Respect the participant's request to review what represents him."},{"t":4877,"rule":"Keep his reluctance before compensation terms."},{"t":4977,"rule":"Do not claim a car, sessions or production deal was completed."},{"t":5070,"rule":"Do not publish the 6,400 figure as measured fact."},{"t":5200,"rule":"Do not expose the absent partner through sexual details."},{"t":5332,"rule":"Keep the friendship grievance; compensation is not the whole issue."},{"t":5350,"rule":"Do not impose porn-star identity on someone who rejected filming."},{"t":5362,"rule":"Treat irreversible life harm as a product constraint, not spectacle."},{"t":5371,"rule":"Do not reduce a participant to a dancing-monkey content object."},{"t":5391,"rule":"Archive/search controls must reduce the source's documented personal harm."},{"t":5402,"rule":"Do not romanticize self-destruction as artistic authenticity."},{"t":5452,"rule":"Retain scarcity pressure and the participant's rejection of its relevance."},{"t":5471,"rule":"Do not report negotiation as resolved while the friendship issue is unanswered."},{"t":5494,"rule":"Prior unpaid favors never imply consent to sexual recording."},{"t":5527,"rule":"Repeated begging and eventual acquiescence should not be excerpted as enthusiastic consent."},{"t":5797,"rule":"Keep damaged closing lyrics uncertain."}
+  "publication_restrictions": [
+    {
+      "t": 19,
+      "rule": "Do not invent unclear Mangchi lyrics."
+    },
+    {
+      "t": 252,
+      "rule": "Retain the permission check before any identity use."
+    },
+    {
+      "t": 257,
+      "rule": "Keep Casey Jones as an on-air alias until public credit is proven."
+    },
+    {
+      "t": 598,
+      "rule": "Do not expand Dylan's identity/contact trail from a recruitment post."
+    },
+    {
+      "t": 769,
+      "rule": "Do not report the planned wedding marathon as completed without evidence."
+    },
+    {
+      "t": 899,
+      "rule": "Treat the $100,000 payout as asserted until verified."
+    },
+    {
+      "t": 984,
+      "rule": "Do not index third-party sexual work detail as established fact."
+    },
+    {
+      "t": 1028,
+      "rule": "Retain Asa's reported absolute refusal."
+    },
+    {
+      "t": 1094,
+      "rule": "Do not turn enema recollection into instructions."
+    },
+    {
+      "t": 1279,
+      "rule": "Attribute cause and diagnosis to the speaker's report."
+    },
+    {
+      "t": 1305,
+      "rule": "Do not present cranberry juice as treatment for active UTI."
+    },
+    {
+      "t": 1353,
+      "rule": "Do not recommend frequent rectal water use or high-pressure bidet misuse."
+    },
+    {
+      "t": 1535,
+      "rule": "Keep private participants and location generic."
+    },
+    {
+      "t": 1562,
+      "rule": "Do not infer valid consent from an intoxicated violent account."
+    },
+    {
+      "t": 1602,
+      "rule": "Keep the affirmative request with the first-person encounter."
+    },
+    {
+      "t": 1672,
+      "rule": "Do not infer consent from silence or costume performance."
+    },
+    {
+      "t": 1723,
+      "rule": "Retain the retraction of the proposed act."
+    },
+    {
+      "t": 1729,
+      "rule": "Do not state a single categorical UTI mechanism from this anecdote."
+    },
+    {
+      "t": 1734,
+      "rule": "Do not present rectal urination as safe."
+    },
+    {
+      "t": 1882,
+      "rule": "Reported wanting does not resolve intoxication and violence concerns."
+    },
+    {
+      "t": 1950,
+      "rule": "Do not reidentify the private recurring partner."
+    },
+    {
+      "t": 2047,
+      "rule": "Earlier deception never authorizes retaliatory bodily contact."
+    },
+    {
+      "t": 2059,
+      "rule": "Keep the false ejaculation explanation in the consent chronology."
+    },
+    {
+      "t": 2074,
+      "rule": "Label the act as unagreed and deceptive; do not euphemize it as squirting."
+    },
+    {
+      "t": 2096,
+      "rule": "Post-event urination does not create prior consent or guarantee prevention."
+    },
+    {
+      "t": 2104,
+      "rule": "Do not substitute cranberry juice for clinical evaluation of symptomatic infection."
+    },
+    {
+      "t": 2121,
+      "rule": "Reject the episode's ‘safe in anus, unsafe in vagina’ rule."
+    },
+    {
+      "t": 2176,
+      "rule": "Do not index Poon through intimate clothing/fantasy disclosures."
+    },
+    {
+      "t": 2196,
+      "rule": "A show's no-judgment claim does not erase off-air gossip."
+    },
+    {
+      "t": 2222,
+      "rule": "Do not infer transgender identity from cross-dressing."
+    },
+    {
+      "t": 2302,
+      "rule": "Peer identity labels do not override self-identification."
+    },
+    {
+      "t": 2420,
+      "rule": "Keep Critter's absent/private sexual conduct out of discovery."
+    },
+    {
+      "t": 2528,
+      "rule": "Use transgender person and little person in editorial language; slurs stay source-only."
+    },
+    {
+      "t": 2552,
+      "rule": "Account for newcomer/group power when assessing apparent comfort."
+    },
+    {
+      "t": 2633,
+      "rule": "Do not expose recruitment handles or private contact details."
+    },
+    {
+      "t": 2699,
+      "rule": "Do not present forced sexual hypotheticals as identity evidence."
+    },
+    {
+      "t": 2811,
+      "rule": "Retain the direct boundary despite hyperbole."
+    },
+    {
+      "t": 2897,
+      "rule": "Restrict minor/assault fantasy from snippets; keep denial and context attached."
+    },
+    {
+      "t": 2956,
+      "rule": "One statement of comfort is not blanket permission for future disclosures."
+    },
+    {
+      "t": 2970,
+      "rule": "Retain the host's recognition that the newcomer might not have been okay."
+    },
+    {
+      "t": 3040,
+      "rule": "Do not infer ages or identify relatives from the porn reference."
+    },
+    {
+      "t": 3096,
+      "rule": "Never operationalize fecal ingestion or incentive design."
+    },
+    {
+      "t": 3114,
+      "rule": "A waiver cannot remove medical risk or coercive pressure."
+    },
+    {
+      "t": 3126,
+      "rule": "Retain the categorical refusal."
+    },
+    {
+      "t": 3144,
+      "rule": "Retain the anti-coercion statement."
+    },
+    {
+      "t": 3147,
+      "rule": "Do not normalize escalating money against refusal."
+    },
+    {
+      "t": 3158,
+      "rule": "Do not claim antibiotics make fecal ingestion harmless."
+    },
+    {
+      "t": 3191,
+      "rule": "Do not exploit financial need to obtain bodily-risk consent."
+    },
+    {
+      "t": 3273,
+      "rule": "No bodily-waste methods surface in search snippets."
+    },
+    {
+      "t": 3303,
+      "rule": "Keep the partner's upset response with the earlier broadcast."
+    },
+    {
+      "t": 3334,
+      "rule": "Future possible willingness is not current consent."
+    },
+    {
+      "t": 3374,
+      "rule": "Do not surface preparation or storage details as instructions."
+    },
+    {
+      "t": 3400,
+      "rule": "Retain that the partner stopped when uncomfortable."
+    },
+    {
+      "t": 3431,
+      "rule": "Keep the new drummer's partner generic."
+    },
+    {
+      "t": 3452,
+      "rule": "Do not treat joining a band as consent to sexual disclosure."
+    },
+    {
+      "t": 3482,
+      "rule": "Partner knowledge and consent are explicitly unknown."
+    },
+    {
+      "t": 3564,
+      "rule": "Retain the correction of unsupported worker-policy speculation."
+    },
+    {
+      "t": 3588,
+      "rule": "Do not infer consent to past body contact without the full footage/context."
+    },
+    {
+      "t": 3657,
+      "rule": "Do not reidentify worker 907."
+    },
+    {
+      "t": 3676,
+      "rule": "Do not equate a clean setting with STI or occupational safety."
+    },
+    {
+      "t": 3742,
+      "rule": "Do not publish covert sex-worker footage or infer it exists without proof."
+    },
+    {
+      "t": 3792,
+      "rule": "Do not index the private worker by name."
+    },
+    {
+      "t": 3805,
+      "rule": "Peer psychoanalysis is not diagnosis."
+    },
+    {
+      "t": 3822,
+      "rule": "Keep the condom slip-off event with the otherwise consistent-use claim."
+    },
+    {
+      "t": 3907,
+      "rule": "Do not repeat the Escobar/Medellín beauty myth as history."
+    },
+    {
+      "t": 3978,
+      "rule": "Do not design or celebrate a secretly paid intimate relationship."
+    },
+    {
+      "t": 3995,
+      "rule": "Deception about love and money is not informed consent."
+    },
+    {
+      "t": 4022,
+      "rule": "Constant filming requires ongoing, revocable consent from every participant."
+    },
+    {
+      "t": 4058,
+      "rule": "Bill's refusal to filmed sex controls."
+    },
+    {
+      "t": 4087,
+      "rule": "Producer effort and another participant's consent cannot substitute for Bill's."
+    },
+    {
+      "t": 4160,
+      "rule": "Do not reidentify a private worker through number, braces, ethnicity, body or venue."
+    },
+    {
+      "t": 4207,
+      "rule": "Do not publish applicant identities or treat resemblance as endorsement."
+    },
+    {
+      "t": 4220,
+      "rule": "Calling the role acting does not erase sex-work labor or deception."
+    },
+    {
+      "t": 4311,
+      "rule": "Never expose private email addresses offered in the room."
+    },
+    {
+      "t": 4422,
+      "rule": "Do not infer orientation from an unclear/nonverbal response."
+    },
+    {
+      "t": 4471,
+      "rule": "Retain the admission that the premise is not real life."
+    },
+    {
+      "t": 4480,
+      "rule": "Prior nudity is not consent to filmed sex."
+    },
+    {
+      "t": 4491,
+      "rule": "Scarcity does not establish free agreement."
+    },
+    {
+      "t": 4505,
+      "rule": "The audience's or producer's desire is irrelevant to bodily consent."
+    },
+    {
+      "t": 4585,
+      "rule": "No camera-never-off product pattern applies without ongoing revocable consent."
+    },
+    {
+      "t": 4618,
+      "rule": "Keep the direct desire question and answer together."
+    },
+    {
+      "t": 4621,
+      "rule": "Retain the direct no to filming."
+    },
+    {
+      "t": 4625,
+      "rule": "Conditional negotiation after no is not a completed yes."
+    },
+    {
+      "t": 4641,
+      "rule": "Do not operationalize escort sourcing."
+    },
+    {
+      "t": 4681,
+      "rule": "Respect the participant's request to review what represents him."
+    },
+    {
+      "t": 4877,
+      "rule": "Keep his reluctance before compensation terms."
+    },
+    {
+      "t": 4977,
+      "rule": "Do not claim a car, sessions or production deal was completed."
+    },
+    {
+      "t": 5070,
+      "rule": "Do not publish the 6,400 figure as measured fact."
+    },
+    {
+      "t": 5200,
+      "rule": "Do not expose the absent partner through sexual details."
+    },
+    {
+      "t": 5332,
+      "rule": "Keep the friendship grievance; compensation is not the whole issue."
+    },
+    {
+      "t": 5350,
+      "rule": "Do not impose porn-star identity on someone who rejected filming."
+    },
+    {
+      "t": 5362,
+      "rule": "Treat irreversible life harm as a product constraint, not spectacle."
+    },
+    {
+      "t": 5371,
+      "rule": "Do not reduce a participant to a dancing-monkey content object."
+    },
+    {
+      "t": 5391,
+      "rule": "Archive/search controls must reduce the source's documented personal harm."
+    },
+    {
+      "t": 5402,
+      "rule": "Do not romanticize self-destruction as artistic authenticity."
+    },
+    {
+      "t": 5452,
+      "rule": "Retain scarcity pressure and the participant's rejection of its relevance."
+    },
+    {
+      "t": 5471,
+      "rule": "Do not report negotiation as resolved while the friendship issue is unanswered."
+    },
+    {
+      "t": 5494,
+      "rule": "Prior unpaid favors never imply consent to sexual recording."
+    },
+    {
+      "t": 5527,
+      "rule": "Repeated begging and eventual acquiescence should not be excerpted as enthusiastic consent."
+    },
+    {
+      "t": 5797,
+      "rule": "Keep damaged closing lyrics uncertain."
+    }
   ],
-  "source_notes":[
-    {"t":1279,"claim":"A UTI can be safely self-treated with cranberry juice until it passes.","assessment":"unsafe. The reported delay preceded a kidney infection and hospitalization; symptomatic infection needs appropriate clinical evaluation rather than archive-derived treatment advice.","source":"https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-infection-uti-in-adults/treatment"},
-    {"t":1353,"claim":"Daily enema-like bidet use is generally safe.","assessment":"unsupported. OTC sodium-phosphate enemas carry dose and frequency warnings because excess exposure can cause serious electrolyte, kidney and cardiac harm; the episode's bidet practice is also outside labeled enema use.","source":"https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-exceeding-recommended-dose-over-counter-sodium-phosphate-products-treat-constipation"},
-    {"t":2121,"claim":"Urination into the rectum is safe while urination into the vagina is not.","assessment":"categorical rule unsupported. The archive should not recommend introducing urine or contaminated material into any body cavity; the episode itself reports harm after one vaginal event.","source":"https://www.cdc.gov/sti/about/about-sti-risk-and-oral-sex.html"},
-    {"t":3096,"claim":"A feces meal is manageable with a waiver and antibiotics.","assessment":"unsafe. Stool exposure can transmit Shigella and other enteric pathogens, and appearance cannot establish absence of germs.","source":"https://www.cdc.gov/shigella/prevention/preventing-shigella-infection-among-sexually-active-people.html"}
+  "source_notes": [
+    {
+      "t": 1279,
+      "claim": "A UTI can be safely self-treated with cranberry juice until it passes.",
+      "assessment": "unsafe. The reported delay preceded a kidney infection and hospitalization; symptomatic infection needs appropriate clinical evaluation rather than archive-derived treatment advice.",
+      "source": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-infection-uti-in-adults/treatment"
+    },
+    {
+      "t": 1353,
+      "claim": "Daily enema-like bidet use is generally safe.",
+      "assessment": "unsupported. OTC sodium-phosphate enemas carry dose and frequency warnings because excess exposure can cause serious electrolyte, kidney and cardiac harm; the episode's bidet practice is also outside labeled enema use.",
+      "source": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-exceeding-recommended-dose-over-counter-sodium-phosphate-products-treat-constipation"
+    },
+    {
+      "t": 2121,
+      "claim": "Urination into the rectum is safe while urination into the vagina is not.",
+      "assessment": "categorical rule unsupported. The archive should not recommend introducing urine or contaminated material into any body cavity; the episode itself reports harm after one vaginal event.",
+      "source": "https://www.cdc.gov/sti/about/about-sti-risk-and-oral-sex.html"
+    },
+    {
+      "t": 3096,
+      "claim": "A feces meal is manageable with a waiver and antibiotics.",
+      "assessment": "unsafe. Stool exposure can transmit Shigella and other enteric pathogens, and appearance cannot establish absence of germs.",
+      "source": "https://www.cdc.gov/shigella/prevention/preventing-shigella-infection-among-sexually-active-people.html"
+    }
   ],
-  "quality":{"raw_segments":2975,"clean_segments":2933,"raw_words_approx":17976,"clean_words_approx":17983,"duration_seconds":5949.42,"accepted_context_decisions":198,"chapters":90,"connections":15,"content_warnings":17,"identity_windows":0,"named_turns":0,"cleaning_edits":47,"cleaning_net_word_delta":-18,"clean_transcript_net_word_delta":7,"uncertainty_marker_words_added":25,"public_restriction_spans":100,"review_queue_suggestions":0,"review_queue_suggestions_accepted":0},
-  "speaker_policy":"Public recurring cast and guests may be identified only at episode/context level when established. Casey Jones stays an on-air alias; Dylan's legal identity and public Mangchi credit require source verification. Private partners, workers, applicants, relatives and contact details remain generic. No line-level named dialogue publishes until held-out acoustic identity windows and turn assignments pass validation."
+  "quality": {
+    "raw_segments": 2975,
+    "clean_segments": 2933,
+    "raw_words_approx": 17976,
+    "clean_words_approx": 17983,
+    "duration_seconds": 5949.42,
+    "accepted_context_decisions": 198,
+    "chapters": 90,
+    "connections": 15,
+    "content_warnings": 17,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 47,
+    "cleaning_net_word_delta": -18,
+    "clean_transcript_net_word_delta": 7,
+    "uncertainty_marker_words_added": 25,
+    "public_restriction_spans": 100,
+    "review_queue_suggestions": 0,
+    "review_queue_suggestions_accepted": 0
+  },
+  "speaker_policy": "Public recurring cast and guests may be identified only at episode/context level when established. Casey Jones stays an on-air alias; Dylan's legal identity and public Mangchi credit require source verification. Private partners, workers, applicants, relatives and contact details remain generic. No line-level named dialogue publishes until held-out acoustic identity windows and turn assignments pass validation.",
+  "people": [
+    "David Choe",
+    "Bill Poon"
+  ],
+  "places": [],
+  "works": [
+    "November 2",
+    "Mangchi",
+    "DVDASA",
+    "Taken"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Chapter 20 begins inside Mangchi rehearsal and introduces a new drummer and a silent costumed participant under on-air names.",
+  "description_source": "Opening of the human-reviewed summary."
 }

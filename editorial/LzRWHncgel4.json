@@ -229,5 +229,7 @@
       "t": 67,
       "rule": "retain as sparse/non-speech or unresolved evidence; exclude from quotes and voice enrollment"
     }
-  ]
+  ],
+  "description": "A sparse 1:08 official-channel excerpt with only two substantive caption units.",
+  "description_source": "Opening of the human-reviewed summary."
 }

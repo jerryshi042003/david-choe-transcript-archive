@@ -1,10 +1,25 @@
 {
-  "episode_id":"saga1-episode-134-don-t-touch-me-there",
-  "title":"Don't Touch Me There",
-  "reviewed_on":"2026-07-31",
-  "summary":"A deliberately truncated Big Bear episode opens with an improvised 'Don't Touch Me There' refrain and a debate about keeping comedy and music separate. The title is a musical joke, but it gains a real consent echo later when David Choe says he grabbed Bobby Lee's arm and made him touch David's clothed penis. The room treats that as playful/progressive; the editorial record calls the forced contact nonconsensual and refuses to infer anyone's sexual orientation from it. After dinner at Sizzler, Kalilah and Bobby return to discuss their relationship. Kalilah wants a minimal road check-in and objects to learning from Instagram that Bobby posed with another woman. Bobby says check-ins feel like parole, then admits he falsely described the woman as a lesbian to avoid conflict. Asa reframes the issue as compromise rather than surveillance. Both partners supply context, trust remains, and no cheating is alleged. The show then explores parental lying, violent childhood anger, sibling rivalry over Steve Lee's popularity, video games versus claimed busyness, masturbation abstinence and plans for Macau. Bobby wants an older-brother check-in; the group proposes Asa as chaperone and imagines Macau as consequence-free sex/gambling, while also recognizing condoms, supervision and difficult reintegration. David describes relapse prevention during three Las Vegas visits, an Axl Rose-era Guns N' Roses show, Zedd, and using scheduled activities to avoid gambling. The final third is about deception infrastructure. David says honesty with numerous casual partners is too much work, coordinates lies with workers and Critter, falsely uses James Jean's name and claims he lost his wealth gambling, then blames Critter when a Guns N' Roses comment exposes the story. Asa argues that bringing friends into overlapping lies creates the predictable failure. Critter eventually apologizes, while the episode makes clear that security work does not entail supporting deception. Steve closes with a rough freestyle. All five cleaner drops are empty. Every proposed vocabulary edit is rejected: the restaurant is Sizzler, not Twizzler, in five contexts, and the closing speaker says Bobby Namba, not Bobby Hundreds. Private partners, workers, family health, travel documents, venues and messages stay protected; no named dialogue is published.",
-  "quality":{"raw_segments":2080,"clean_segments":2075,"raw_words_approx":11759,"clean_words_approx":11759,"duration_seconds":3729.3,"accepted_context_decisions":75,"chapters":60,"connections":20,"content_warnings":18,"identity_windows":0,"named_turns":0,"cleaning_edits":5,"cleaning_net_reduction":5,"public_restriction_spans":22},
-  "source_notes":[
+  "episode_id": "saga1-episode-134-don-t-touch-me-there",
+  "title": "Don't Touch Me There",
+  "reviewed_on": "2026-07-31",
+  "summary": "A deliberately truncated Big Bear episode opens with an improvised 'Don't Touch Me There' refrain and a debate about keeping comedy and music separate. The title is a musical joke, but it gains a real consent echo later when David Choe says he grabbed Bobby Lee's arm and made him touch David's clothed penis. The room treats that as playful/progressive; the editorial record calls the forced contact nonconsensual and refuses to infer anyone's sexual orientation from it. After dinner at Sizzler, Kalilah and Bobby return to discuss their relationship. Kalilah wants a minimal road check-in and objects to learning from Instagram that Bobby posed with another woman. Bobby says check-ins feel like parole, then admits he falsely described the woman as a lesbian to avoid conflict. Asa reframes the issue as compromise rather than surveillance. Both partners supply context, trust remains, and no cheating is alleged. The show then explores parental lying, violent childhood anger, sibling rivalry over Steve Lee's popularity, video games versus claimed busyness, masturbation abstinence and plans for Macau. Bobby wants an older-brother check-in; the group proposes Asa as chaperone and imagines Macau as consequence-free sex/gambling, while also recognizing condoms, supervision and difficult reintegration. David describes relapse prevention during three Las Vegas visits, an Axl Rose-era Guns N' Roses show, Zedd, and using scheduled activities to avoid gambling. The final third is about deception infrastructure. David says honesty with numerous casual partners is too much work, coordinates lies with workers and Critter, falsely uses James Jean's name and claims he lost his wealth gambling, then blames Critter when a Guns N' Roses comment exposes the story. Asa argues that bringing friends into overlapping lies creates the predictable failure. Critter eventually apologizes, while the episode makes clear that security work does not entail supporting deception. Steve closes with a rough freestyle. All five cleaner drops are empty. Every proposed vocabulary edit is rejected: the restaurant is Sizzler, not Twizzler, in five contexts, and the closing speaker says Bobby Namba, not Bobby Hundreds. Private partners, workers, family health, travel documents, venues and messages stay protected; no named dialogue is published.",
+  "quality": {
+    "raw_segments": 2080,
+    "clean_segments": 2075,
+    "raw_words_approx": 11759,
+    "clean_words_approx": 11759,
+    "duration_seconds": 3729.3,
+    "accepted_context_decisions": 75,
+    "chapters": 60,
+    "connections": 20,
+    "content_warnings": 18,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 5,
+    "cleaning_net_reduction": 5,
+    "public_restriction_spans": 22
+  },
+  "source_notes": [
     "All five cleaner removals are empty zero-duration records; raw and clean word counts are identical.",
     "All six vocabulary edits are rejected. Five would turn the explicitly discussed Sizzler restaurant into Twizzler candy; one would overwrite spoken Bobby Namba with Bobby Hundreds.",
     "Kalilah and Bobby Lee are explicitly welcomed. Other public participants are audible/present, but zero turns/windows prohibits named line-level dialogue.",
@@ -16,55 +31,504 @@
     "James Jean is invoked as a false alias. The archive does not conflate the public artist with David or any private encounter.",
     "The episode calls itself truncated and immediately plans another recording. The audio ends cleanly; this is not a missing-transcript defect."
   ],
-  "speaker_policy":"Episode metadata may name explicitly welcomed/public participants and later public presences, but zero diarized turns and zero identity windows prohibit assigning any line to David Choe, Asa Akira, Bobby Lee, Kalilah, Money Mark, Steve Lee, Bill Poon, Critter, Valentin, Alex or Bobby Namba.",
-  "chapters":[
-    {"t":0,"title":"musical carryover"},{"t":180,"title":"Don't Touch Me There"},{"t":240,"title":"music versus comedy"},{"t":300,"title":"Sizzler and guest return"},{"t":360,"title":"Sizzler production memory"},{"t":420,"title":"private dental detail"},{"t":480,"title":"learning to floss"},{"t":540,"title":"remote-show disorder"},{"t":600,"title":"relationship update"},{"t":660,"title":"road check-ins"},{"t":720,"title":"distance and defensiveness"},{"t":780,"title":"photo with another woman"},{"t":840,"title":"trust without context"},{"t":900,"title":"travel as escape"},{"t":960,"title":"lesbian cover story"},{"t":1020,"title":"worker identity exposed"},{"t":1080,"title":"novelty mall photo"},{"t":1140,"title":"old conflict patterns"},{"t":1200,"title":"compromise not parole"},{"t":1260,"title":"forced sexualized contact"},{"t":1320,"title":"orientation debate"},{"t":1380,"title":"honesty with mothers"},{"t":1440,"title":"family-power differences"},{"t":1500,"title":"funnier brother rivalry"},{"t":1560,"title":"why Bobby returned"},{"t":1620,"title":"Assassin's Creed"},{"t":1680,"title":"work and games"},{"t":1740,"title":"missed Godzilla"},{"t":1800,"title":"Vons supplies"},{"t":1860,"title":"masturbation privacy"},{"t":1900,"title":"two-day abstinence"},{"t":1960,"title":"explicit-site access"},{"t":2020,"title":"tobacco and brotherly love"},{"t":2080,"title":"passport urgency"},{"t":2140,"title":"older-brother demand"},{"t":2200,"title":"Macau chaperone"},{"t":2260,"title":"sex and condoms"},{"t":2320,"title":"consequence-free fantasy"},{"t":2380,"title":"reintegration"},{"t":2440,"title":"Vegas without gambling"},{"t":2500,"title":"Guns N' Roses without Slash"},{"t":2560,"title":"Axl's voice and appearance"},{"t":2680,"title":"Zedd and scheduled activities"},{"t":2740,"title":"Vegas pools"},{"t":2800,"title":"overlapping lies"},{"t":2860,"title":"massage worker reveals prior date"},{"t":2920,"title":"luxury-store identity leak"},{"t":2980,"title":"coordinating silence"},{"t":3040,"title":"concert detail exposes lie"},{"t":3100,"title":"James Jean cover identity"},{"t":3160,"title":"gambling wealth claims"},{"t":3220,"title":"vague text failure"},{"t":3280,"title":"Critter on every date"},{"t":3340,"title":"who owns the blame"},{"t":3400,"title":"apology"},{"t":3460,"title":"security versus deception"},{"t":3520,"title":"group-sex claims"},{"t":3580,"title":"Steve freestyle begins"},{"t":3640,"title":"Steebee Weebee freestyle"},{"t":3700,"title":"truncated ending"}
+  "speaker_policy": "Episode metadata may name explicitly welcomed/public participants and later public presences, but zero diarized turns and zero identity windows prohibit assigning any line to David Choe, Asa Akira, Bobby Lee, Kalilah, Money Mark, Steve Lee, Bill Poon, Critter, Valentin, Alex or Bobby Namba.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "musical carryover"
+    },
+    {
+      "t": 180,
+      "title": "Don't Touch Me There"
+    },
+    {
+      "t": 240,
+      "title": "music versus comedy"
+    },
+    {
+      "t": 300,
+      "title": "Sizzler and guest return"
+    },
+    {
+      "t": 360,
+      "title": "Sizzler production memory"
+    },
+    {
+      "t": 420,
+      "title": "private dental detail"
+    },
+    {
+      "t": 480,
+      "title": "learning to floss"
+    },
+    {
+      "t": 540,
+      "title": "remote-show disorder"
+    },
+    {
+      "t": 600,
+      "title": "relationship update"
+    },
+    {
+      "t": 660,
+      "title": "road check-ins"
+    },
+    {
+      "t": 720,
+      "title": "distance and defensiveness"
+    },
+    {
+      "t": 780,
+      "title": "photo with another woman"
+    },
+    {
+      "t": 840,
+      "title": "trust without context"
+    },
+    {
+      "t": 900,
+      "title": "travel as escape"
+    },
+    {
+      "t": 960,
+      "title": "lesbian cover story"
+    },
+    {
+      "t": 1020,
+      "title": "worker identity exposed"
+    },
+    {
+      "t": 1080,
+      "title": "novelty mall photo"
+    },
+    {
+      "t": 1140,
+      "title": "old conflict patterns"
+    },
+    {
+      "t": 1200,
+      "title": "compromise not parole"
+    },
+    {
+      "t": 1260,
+      "title": "forced sexualized contact"
+    },
+    {
+      "t": 1320,
+      "title": "orientation debate"
+    },
+    {
+      "t": 1380,
+      "title": "honesty with mothers"
+    },
+    {
+      "t": 1440,
+      "title": "family-power differences"
+    },
+    {
+      "t": 1500,
+      "title": "funnier brother rivalry"
+    },
+    {
+      "t": 1560,
+      "title": "why Bobby returned"
+    },
+    {
+      "t": 1620,
+      "title": "Assassin's Creed"
+    },
+    {
+      "t": 1680,
+      "title": "work and games"
+    },
+    {
+      "t": 1740,
+      "title": "missed Godzilla"
+    },
+    {
+      "t": 1800,
+      "title": "Vons supplies"
+    },
+    {
+      "t": 1860,
+      "title": "masturbation privacy"
+    },
+    {
+      "t": 1900,
+      "title": "two-day abstinence"
+    },
+    {
+      "t": 1960,
+      "title": "explicit-site access"
+    },
+    {
+      "t": 2020,
+      "title": "tobacco and brotherly love"
+    },
+    {
+      "t": 2080,
+      "title": "passport urgency"
+    },
+    {
+      "t": 2140,
+      "title": "older-brother demand"
+    },
+    {
+      "t": 2200,
+      "title": "Macau chaperone"
+    },
+    {
+      "t": 2260,
+      "title": "sex and condoms"
+    },
+    {
+      "t": 2320,
+      "title": "consequence-free fantasy"
+    },
+    {
+      "t": 2380,
+      "title": "reintegration"
+    },
+    {
+      "t": 2440,
+      "title": "Vegas without gambling"
+    },
+    {
+      "t": 2500,
+      "title": "Guns N' Roses without Slash"
+    },
+    {
+      "t": 2560,
+      "title": "Axl's voice and appearance"
+    },
+    {
+      "t": 2680,
+      "title": "Zedd and scheduled activities"
+    },
+    {
+      "t": 2740,
+      "title": "Vegas pools"
+    },
+    {
+      "t": 2800,
+      "title": "overlapping lies"
+    },
+    {
+      "t": 2860,
+      "title": "massage worker reveals prior date"
+    },
+    {
+      "t": 2920,
+      "title": "luxury-store identity leak"
+    },
+    {
+      "t": 2980,
+      "title": "coordinating silence"
+    },
+    {
+      "t": 3040,
+      "title": "concert detail exposes lie"
+    },
+    {
+      "t": 3100,
+      "title": "James Jean cover identity"
+    },
+    {
+      "t": 3160,
+      "title": "gambling wealth claims"
+    },
+    {
+      "t": 3220,
+      "title": "vague text failure"
+    },
+    {
+      "t": 3280,
+      "title": "Critter on every date"
+    },
+    {
+      "t": 3340,
+      "title": "who owns the blame"
+    },
+    {
+      "t": 3400,
+      "title": "apology"
+    },
+    {
+      "t": 3460,
+      "title": "security versus deception"
+    },
+    {
+      "t": 3520,
+      "title": "group-sex claims"
+    },
+    {
+      "t": 3580,
+      "title": "Steve freestyle begins"
+    },
+    {
+      "t": 3640,
+      "title": "Steebee Weebee freestyle"
+    },
+    {
+      "t": 3700,
+      "title": "truncated ending"
+    }
   ],
-  "connections":[
-    {"t":180,"to":"title ambiguity","why":"A comic song phrase later echoes a real forced-touch disclosure without being the same event."},
-    {"t":240,"to":"creative identity separation","why":"Steve wants music judged independently from his comedy persona."},
-    {"t":660,"to":"relationship maintenance","why":"A tiny check-in can be trivial to one partner and stabilizing to another."},
-    {"t":900,"to":"avoidant travel","why":"Checking home punctures the altered reality David seeks on the road."},
-    {"t":960,"to":"conflict avoidance through lying","why":"A false lesbian label prevents immediate discussion while damaging trust later."},
-    {"t":1200,"to":"care versus control","why":"Asa distinguishes voluntary compromise from parole-like monitoring."},
-    {"t":1260,"to":"consent and orientation","why":"Forced touching is a conduct question, not evidence that either participant is gay or progressive."},
-    {"t":1440,"to":"family authority","why":"Lying can function as survival/avoidance in one family and be unnecessary in another."},
-    {"t":1500,"to":"sibling support and rivalry","why":"Fan comparisons create tension while both brothers publicly endorse Steve's success."},
-    {"t":1800,"to":"retreat and compulsion","why":"The ranch is used as a laboratory for music work and temporary abstinence from habitual masturbation."},
-    {"t":2140,"to":"checking-in motif","why":"The romantic check-in debate reappears as an older brother's demand before travel."},
-    {"t":2320,"to":"fantasy versus consequence","why":"Calling Macau consequence-free is immediately contradicted by health, supervision and reintegration concerns."},
-    {"t":2440,"to":"addiction harm reduction","why":"Dense scheduled activities become David's strategy for entering a casino city without gambling."},
-    {"t":2800,"to":"emotional avoidance","why":"David describes deliberately killing care so multiple relationships remain manageable."},
-    {"t":2860,"to":"invisible service labor","why":"Massage and retail workers are expected to intuit and maintain customers' private lies."},
-    {"t":2980,"to":"coordination cost of deception","why":"Every additional lie creates briefing, memory and compliance work for friends."},
-    {"t":3100,"to":"identity integrity","why":"Using James Jean as a cover name risks contaminating another public person's record."},
-    {"t":3220,"to":"ambiguous instructions","why":"'Say nothing' cannot communicate which history, date or claim must be protected."},
-    {"t":3340,"to":"distributed responsibility","why":"The liar, friend and vague instruction each contribute differently to the failure."},
-    {"t":3580,"to":"work in public","why":"Steve exposes an unfinished freestyle, then chooses revision rather than pretending it is complete."}
+  "connections": [
+    {
+      "t": 180,
+      "to": "title ambiguity",
+      "why": "A comic song phrase later echoes a real forced-touch disclosure without being the same event."
+    },
+    {
+      "t": 240,
+      "to": "creative identity separation",
+      "why": "Steve wants music judged independently from his comedy persona."
+    },
+    {
+      "t": 660,
+      "to": "relationship maintenance",
+      "why": "A tiny check-in can be trivial to one partner and stabilizing to another."
+    },
+    {
+      "t": 900,
+      "to": "avoidant travel",
+      "why": "Checking home punctures the altered reality David seeks on the road."
+    },
+    {
+      "t": 960,
+      "to": "conflict avoidance through lying",
+      "why": "A false lesbian label prevents immediate discussion while damaging trust later."
+    },
+    {
+      "t": 1200,
+      "to": "care versus control",
+      "why": "Asa distinguishes voluntary compromise from parole-like monitoring."
+    },
+    {
+      "t": 1260,
+      "to": "consent and orientation",
+      "why": "Forced touching is a conduct question, not evidence that either participant is gay or progressive."
+    },
+    {
+      "t": 1440,
+      "to": "family authority",
+      "why": "Lying can function as survival/avoidance in one family and be unnecessary in another."
+    },
+    {
+      "t": 1500,
+      "to": "sibling support and rivalry",
+      "why": "Fan comparisons create tension while both brothers publicly endorse Steve's success."
+    },
+    {
+      "t": 1800,
+      "to": "retreat and compulsion",
+      "why": "The ranch is used as a laboratory for music work and temporary abstinence from habitual masturbation."
+    },
+    {
+      "t": 2140,
+      "to": "checking-in motif",
+      "why": "The romantic check-in debate reappears as an older brother's demand before travel."
+    },
+    {
+      "t": 2320,
+      "to": "fantasy versus consequence",
+      "why": "Calling Macau consequence-free is immediately contradicted by health, supervision and reintegration concerns."
+    },
+    {
+      "t": 2440,
+      "to": "addiction harm reduction",
+      "why": "Dense scheduled activities become David's strategy for entering a casino city without gambling."
+    },
+    {
+      "t": 2800,
+      "to": "emotional avoidance",
+      "why": "David describes deliberately killing care so multiple relationships remain manageable."
+    },
+    {
+      "t": 2860,
+      "to": "invisible service labor",
+      "why": "Massage and retail workers are expected to intuit and maintain customers' private lies."
+    },
+    {
+      "t": 2980,
+      "to": "coordination cost of deception",
+      "why": "Every additional lie creates briefing, memory and compliance work for friends."
+    },
+    {
+      "t": 3100,
+      "to": "identity integrity",
+      "why": "Using James Jean as a cover name risks contaminating another public person's record."
+    },
+    {
+      "t": 3220,
+      "to": "ambiguous instructions",
+      "why": "'Say nothing' cannot communicate which history, date or claim must be protected."
+    },
+    {
+      "t": 3340,
+      "to": "distributed responsibility",
+      "why": "The liar, friend and vague instruction each contribute differently to the failure."
+    },
+    {
+      "t": 3580,
+      "to": "work in public",
+      "why": "Steve exposes an unfinished freestyle, then chooses revision rather than pretending it is complete."
+    }
   ],
-  "content_warnings":["nonconsensual sexualized touching","explicit sex and masturbation discussion","relationship deception","private worker identification","violent childhood fantasy toward parent","anti-gay and ableist slurs","brothel/sex-work references","tobacco use","gambling addiction and casino discussion","sex-tour and group-sex planning","STI risk","body shaming and age ridicule","infidelity and overlapping partners","privacy invasion and text review","family/dental health exposure","financial deception","racialized family generalizations","bodily-fluid sexual claim"],
-  "publication_restrictions":[
-    {"from":0,"to":300,"rule":"Title/song may be quoted; do not merge it with the later forced-touch event without explaining the two contexts."},
-    {"from":300,"to":600,"rule":"Sizzler may be named; protect restaurant workers, dental history and family health details from person profiles."},
-    {"from":600,"to":1200,"rule":"Preserve both partners' arguments while excluding private worker identity, messages, workplace and account trail."},
-    {"from":1260,"to":1380,"rule":"Describe the forced contact as nonconsensual; do not infer sexual orientation or turn it into a playful-body snippet."},
-    {"from":1380,"to":1500,"rule":"Protect parents, family violence details, brothel venue and private sexual history from discovery facets."},
-    {"from":1500,"to":1800,"rule":"Public sibling/comedy context may remain; exclude current schedules, gaming/activity tracking and private fan messages."},
-    {"from":1800,"to":2080,"rule":"Do not link explicit sites or publish private masturbation, dental, dandruff, tobacco or room-assignment metadata."},
-    {"from":2080,"to":2440,"rule":"Passport, travel dates, sex participants and chaperone plans remain historical proposals, not current invitations."},
-    {"from":2260,"to":2440,"rule":"Condom discussion does not imply blanket consent, legal immunity or consequence-free sex."},
-    {"from":2440,"to":2740,"rule":"Protect business-partner travel, recovery details and current casino itinerary; public musicians may be named."},
-    {"from":2740,"to":2980,"rule":"Do not identify casual partners, workers, massage/retail venues or luxury purchases; preserve deception theme in aggregate."},
-    {"from":2980,"to":3280,"rule":"Do not publish coordinated messages, financial details, partner identities or false-alias encounter trails."},
-    {"from":3100,"to":3160,"rule":"James Jean is a falsely used cover name, not the speaker or participant; never merge records."},
-    {"from":3160,"to":3280,"rule":"Treat gambling amounts and wealth-loss claims as anecdote/deception, not financial fact."},
-    {"from":3280,"to":3520,"rule":"Protect private women and clients; security personnel are not obligated to support relationship deception."},
-    {"from":3520,"to":3580,"rule":"Keep explicit bodily-fluid/group-sex content out of casual snippets and do not infer participant consent."},
-    {"from":3580,"to":3729.3,"rule":"Retain unfinished freestyle and intentional truncated ending; do not fabricate missing trivia."},
-    {"from":0,"to":3729.3,"rule":"No named dialogue until held-out speaker validation passes."},
-    {"from":0,"to":3729.3,"rule":"Offensive and explicit ideas remain; restrictions protect people and context rather than censor ideas."},
-    {"from":600,"to":1200,"rule":"Do not frame a requested check-in as proof of abuse, surveillance or infidelity."},
-    {"from":1500,"to":1800,"rule":"Do not use sibling popularity comparisons to create hostile fan rankings or harassment prompts."},
-    {"from":2440,"to":3520,"rule":"Historical casino/sex stories are not recommendations, directories or instructions."}
-  ]
+  "content_warnings": [
+    "nonconsensual sexualized touching",
+    "explicit sex and masturbation discussion",
+    "relationship deception",
+    "private worker identification",
+    "violent childhood fantasy toward parent",
+    "anti-gay and ableist slurs",
+    "brothel/sex-work references",
+    "tobacco use",
+    "gambling addiction and casino discussion",
+    "sex-tour and group-sex planning",
+    "STI risk",
+    "body shaming and age ridicule",
+    "infidelity and overlapping partners",
+    "privacy invasion and text review",
+    "family/dental health exposure",
+    "financial deception",
+    "racialized family generalizations",
+    "bodily-fluid sexual claim"
+  ],
+  "publication_restrictions": [
+    {
+      "from": 0,
+      "to": 300,
+      "rule": "Title/song may be quoted; do not merge it with the later forced-touch event without explaining the two contexts."
+    },
+    {
+      "from": 300,
+      "to": 600,
+      "rule": "Sizzler may be named; protect restaurant workers, dental history and family health details from person profiles."
+    },
+    {
+      "from": 600,
+      "to": 1200,
+      "rule": "Preserve both partners' arguments while excluding private worker identity, messages, workplace and account trail."
+    },
+    {
+      "from": 1260,
+      "to": 1380,
+      "rule": "Describe the forced contact as nonconsensual; do not infer sexual orientation or turn it into a playful-body snippet."
+    },
+    {
+      "from": 1380,
+      "to": 1500,
+      "rule": "Protect parents, family violence details, brothel venue and private sexual history from discovery facets."
+    },
+    {
+      "from": 1500,
+      "to": 1800,
+      "rule": "Public sibling/comedy context may remain; exclude current schedules, gaming/activity tracking and private fan messages."
+    },
+    {
+      "from": 1800,
+      "to": 2080,
+      "rule": "Do not link explicit sites or publish private masturbation, dental, dandruff, tobacco or room-assignment metadata."
+    },
+    {
+      "from": 2080,
+      "to": 2440,
+      "rule": "Passport, travel dates, sex participants and chaperone plans remain historical proposals, not current invitations."
+    },
+    {
+      "from": 2260,
+      "to": 2440,
+      "rule": "Condom discussion does not imply blanket consent, legal immunity or consequence-free sex."
+    },
+    {
+      "from": 2440,
+      "to": 2740,
+      "rule": "Protect business-partner travel, recovery details and current casino itinerary; public musicians may be named."
+    },
+    {
+      "from": 2740,
+      "to": 2980,
+      "rule": "Do not identify casual partners, workers, massage/retail venues or luxury purchases; preserve deception theme in aggregate."
+    },
+    {
+      "from": 2980,
+      "to": 3280,
+      "rule": "Do not publish coordinated messages, financial details, partner identities or false-alias encounter trails."
+    },
+    {
+      "from": 3100,
+      "to": 3160,
+      "rule": "James Jean is a falsely used cover name, not the speaker or participant; never merge records."
+    },
+    {
+      "from": 3160,
+      "to": 3280,
+      "rule": "Treat gambling amounts and wealth-loss claims as anecdote/deception, not financial fact."
+    },
+    {
+      "from": 3280,
+      "to": 3520,
+      "rule": "Protect private women and clients; security personnel are not obligated to support relationship deception."
+    },
+    {
+      "from": 3520,
+      "to": 3580,
+      "rule": "Keep explicit bodily-fluid/group-sex content out of casual snippets and do not infer participant consent."
+    },
+    {
+      "from": 3580,
+      "to": 3729.3,
+      "rule": "Retain unfinished freestyle and intentional truncated ending; do not fabricate missing trivia."
+    },
+    {
+      "from": 0,
+      "to": 3729.3,
+      "rule": "No named dialogue until held-out speaker validation passes."
+    },
+    {
+      "from": 0,
+      "to": 3729.3,
+      "rule": "Offensive and explicit ideas remain; restrictions protect people and context rather than censor ideas."
+    },
+    {
+      "from": 600,
+      "to": 1200,
+      "rule": "Do not frame a requested check-in as proof of abuse, surveillance or infidelity."
+    },
+    {
+      "from": 1500,
+      "to": 1800,
+      "rule": "Do not use sibling popularity comparisons to create hostile fan rankings or harassment prompts."
+    },
+    {
+      "from": 2440,
+      "to": 3520,
+      "rule": "Historical casino/sex stories are not recommendations, directories or instructions."
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Bobby Hundreds",
+    "Bobby Namba",
+    "James Jean",
+    "Bobby Lee",
+    "Steve Lee",
+    "Critter"
+  ],
+  "places": [
+    "Las Vegas",
+    "Big Bear",
+    "Macau"
+  ],
+  "works": [
+    "Friends"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A deliberately truncated Big Bear episode opens with an improvised 'Don't Touch Me There' refrain and a debate about keeping comedy and music separate.",
+  "description_source": "Opening of the human-reviewed summary."
 }

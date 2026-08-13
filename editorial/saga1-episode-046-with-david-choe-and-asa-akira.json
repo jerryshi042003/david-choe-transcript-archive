@@ -1,314 +1,1252 @@
 {
   "summary": "Episode 046 features comedian Jim Norton. He begins with the daily four-hour Opie & Anthony rhythm, the George Zimmerman verdict broadcast, and the problem of repeating stories. Live listeners and colleagues catch repetition, but Jim argues that retelling also surfaces forgotten detail. That becomes the episode's method: public comedy, childhood memory, addiction, disclosure, career collapse, and recovery are reconstructed without pretending memory is linear. Public references are repaired to Opie & Anthony, Robert Zimmerman Jr., Judge Alex Ferrer, Louis C.K., Lucky Louie, Patrice O'Neal, Monster Rain, and Jim's HBO work. David revisits his deleted derogatory tweet about transgender diners. Jim discusses Eva Lin, Mia Isabella, Joey Silvera, Ozzy Osbourne, Bailey Jay, public performance, intent, and respectful address. The editorial record uses transgender people and women, keeps slurs only in the historical transcript, and does not treat in-group usage as blanket permission. Appearance does not establish gender. Jim's public credits remain; uncertain people and an adult-video employer are not forced. David traces his awareness of transgender pornography through Tower Records distribution, a private collaborator's editing work, escalating sexual compulsion, and a private driver's proposition that he refused. The room recognizes that internet publication makes sex work, scandal, and ordinary lives permanently searchable. The archive therefore does not confuse public performers' claim to be “unblackmailable” with consent to expose private people. Jim then describes Monster Rain: peer sexual behavior before adolescence, one unequal relationship with a bullying peer, an explicit stop request that was ignored, fragmented memory, sensory associations, early pornography exposure, and a move that ended the pattern. All childhood peers, pools, homes, schools, family links, clothing, smells, and locations are withheld. The record does not impose adult sexual orientation on children, diagnose abuse from behavior, or manufacture recovered memories. Jim says he has no memory of adult abuse; the room's theory that one child must have learned it from an adult remains speculation. He first disclosed Monster Rain publicly at a 2003 Montreal comedy event, later developing it into an HBO bit after Opie remembered the story. He never names the other children. His young-adult encounter with a private transgender sex worker is described without identity or exact location. Old narrative-pornography references repair Kay Parker and Honey Wilder while leaving one unclear performer unresolved. David describes nine partners over several days as a painful, compulsive, drug-like episode rather than an achievement. Jim and David discuss taboo declarations, paid sex, confidentiality, confession, comedy, shame, and catharsis. Jim says private disclosures come because he is open and does not betray trust; the archive treats that as a reason for protection, not publication. Jim reports sobriety from alcohol and drugs since January 31, 1987, suicidal adolescence, and attendance at anonymous sexual-recovery meetings whose organizational identities he declines to publish. His useful definition of addiction centers compulsion, life disruption, avoidance, and continuing when one does not want to. Risky paid sex in Brazil is framed as self-endangerment. Sex, food, cigarettes, exercise, and relapse planning become forms of addiction substitution. Jim's protected former partner and early peer exploration remain private. *Of Mice and Men* is repaired. His New Brunswick paid-sex stories emphasize companionship after the encounter, while workers, parents' home, routes, health clues, accounts, and physical descriptions stay unindexed. An officer's anatomy claims are not medical guidance, and a joke about Eddie Murphy's 1997 police stop is not asserted as motive. Jim describes transgender encounters, reciprocity, boundaries, Buck Angel, attraction to feminine energy, and rejection of minors. Acts and anatomy do not dictate identity, and transgender women are not categorized as men or novelties. Adult fantasies involving urine, feces, or animal pornography are bounded as private, risky, or abusive rather than indexed as instructional material. Jay Mohr is repaired. Jim connects a paid humiliation encounter to severe depression after Opie & Anthony was canceled. He had signed a lease, believed his career was finally working, then became suicidal, gained weight, and acted self-destructively. Lucky Louie and Tough Crowd with Colin Quinn are repaired. Exercise later becomes recovery. Jim keeps professional boundaries with private trainers and describes Amy Schumer as a close platonic friend. Private trainers and a former partner remain protected. Asa describes work at the Nutcracker dungeon; an unresolved dominatrix and a second-hand hostage story are not forced into identities. A religious hygiene stereotype is rejected. Jim's paid encounter becomes a personal stopping point rather than spectacle. David describes a private paid worker whose domestic care felt more intimate than sex; her ethnicity, city, rating, and account are withheld. David's violin, yoga, handstand, choking, and eye-contact stories become a discussion of novelty and dissociation. Choking is not treated as safe without explicit consent. While Jim steps away, the room praises his openness and recognizes why recovery groups reduce isolation, but sexual acts are not used to prove orientation. Kimber James and Bailey Jay are repaired; a private person's gender identity is not inferred from surgery, sensation, or appearance. Jim closes with daily recovery, work boundaries, radio, the 2013 special American Degenerate, an unproduced series plan, New York, the Tonight Show, reduced risk-taking, a protected former partner, enduring friendship, loneliness, and continued creative work. All four cleaner drops are empty zero-duration artifacts. The final low-confidence `Thank you.` is supported by the standard outro and retained. Sixty-two contextual decisions, 286 chapters, twenty connections, and 1,979 fixed-window identity embeddings are available. Named dialogue remains withheld pending independent held-out validation.",
   "chapters": [
-    {"t": 6, "title": "DVDASA introduces Jim Norton"},
-    {"t": 48, "title": "Opie and Anthony runs four hours daily"},
-    {"t": 78, "title": "A verdict-day broadcast runs without breaks"},
-    {"t": 92, "title": "Robert Zimmerman Jr. and Judge Alex Ferrer"},
-    {"t": 104, "title": "When stories repeat"},
-    {"t": 129, "title": "Live listeners call repetition out"},
-    {"t": 149, "title": "Every episode is someone's first"},
-    {"t": 154, "title": "Pearl Jam becomes a recurring radio break"},
-    {"t": 168, "title": "Two models of a listening partner"},
-    {"t": 205, "title": "Correction can prevent embarrassment"},
-    {"t": 224, "title": "Private texts blur with public talk"},
-    {"t": 241, "title": "Retelling recovers detail"},
-    {"t": 253, "title": "Jim Norton in Lucky Louie"},
-    {"t": 289, "title": "Patrice O'Neal and Yoshi's recommendations"},
-    {"t": 312, "title": "Monster Rain on HBO"},
-    {"t": 328, "title": "The deleted tweet returns"},
-    {"t": 351, "title": "Appearance becomes an offensive comparison"},
-    {"t": 365, "title": "Intent splits two readings"},
-    {"t": 391, "title": "Eva Lin in a comedy cold open"},
-    {"t": 419, "title": "Mia Isabella and Joey Silvera"},
-    {"t": 449, "title": "A reveal drives the audience response"},
-    {"t": 467, "title": "Ozzy Osbourne introduces Jim"},
-    {"t": 503, "title": "A kiss extends the performance"},
-    {"t": 508, "title": "What language is respectful?"},
-    {"t": 515, "title": "Bailey Jay is repaired"},
-    {"t": 526, "title": "Slurs are compared"},
-    {"t": 546, "title": "Self-description versus outside usage"},
-    {"t": 571, "title": "Intent does not erase impact"},
-    {"t": 605, "title": "Attraction becomes interrogation"},
-    {"t": 639, "title": "A self-published comic at twenty-one"},
-    {"t": 657, "title": "Tower Records distribution"},
-    {"t": 683, "title": "A warehouse dominated by pornography"},
-    {"t": 705, "title": "Transgender pornography is not niche"},
-    {"t": 733, "title": "A collaborator edits an adult bestseller"},
-    {"t": 763, "title": "Sexual compulsion escalates"},
-    {"t": 789, "title": "Friends predict another threshold"},
-    {"t": 807, "title": "Each addiction demands more"},
-    {"t": 822, "title": "A driver's proposition"},
-    {"t": 852, "title": "David refuses persistent pressure"},
-    {"t": 873, "title": "Honesty on DVDASA"},
-    {"t": 877, "title": "An older private partner and shame"},
-    {"t": 891, "title": "A disclosure David thinks he would hide"},
-    {"t": 910, "title": "Some public lines cannot be uncrossed"},
-    {"t": 920, "title": "Sex work stays on the internet"},
-    {"t": 961, "title": "Everything is documented"},
-    {"t": 976, "title": "Spitzer, Weiner, and Petraeus"},
-    {"t": 993, "title": "Everyone is exposed"},
-    {"t": 1003, "title": "Jim approaches forty-five"},
-    {"t": 1019, "title": "Monster Rain begins in childhood"},
-    {"t": 1030, "title": "A game becomes an excuse"},
-    {"t": 1042, "title": "Second grade remains approximate"},
-    {"t": 1056, "title": "Ten peer encounters are estimated"},
-    {"t": 1065, "title": "Jim says no adult participated"},
-    {"t": 1077, "title": "One private peer did not reciprocate"},
-    {"t": 1176, "title": "The peer was also a bully"},
-    {"t": 1200, "title": "An explicit stop request is ignored"},
-    {"t": 1226, "title": "Age complicates intent, not the boundary"},
-    {"t": 1232, "title": "Memory is fragmented"},
-    {"t": 1253, "title": "Most peer behavior felt mutual to Jim"},
-    {"t": 1269, "title": "The room searches for an origin"},
-    {"t": 1275, "title": "A private girl's sensory memory"},
-    {"t": 1298, "title": "Adult abuse is proposed without evidence"},
-    {"t": 1317, "title": "Decades of self-analysis reveal no memory"},
-    {"t": 1334, "title": "Anatomical difference frightened a child"},
-    {"t": 1361, "title": "Patrice O'Neal jokes about adult preference"},
-    {"t": 1376, "title": "Two private siblings remain protected"},
-    {"t": 1396, "title": "A coercive choice is remembered"},
-    {"t": 1419, "title": "The room declares a ringleader"},
-    {"t": 1458, "title": "Taboo existed without adult identity labels"},
-    {"t": 1461, "title": "An early pornographic image"},
-    {"t": 1497, "title": "Memory order remains nonlinear"},
-    {"t": 1515, "title": "A slur coexisted with secret behavior"},
-    {"t": 1527, "title": "No adult discovery is remembered"},
-    {"t": 1540, "title": "Same-gender behavior felt more taboo"},
-    {"t": 1561, "title": "Ordinary play resumed afterward"},
-    {"t": 1576, "title": "Reciprocity is counted"},
-    {"t": 1595, "title": "A move changes the whole childhood"},
-    {"t": 1623, "title": "North Brunswick in fourth grade"},
-    {"t": 1644, "title": "The story remains private until 2003"},
-    {"t": 1650, "title": "A Montreal comedy confession event"},
-    {"t": 1674, "title": "Monster Rain is first told publicly"},
-    {"t": 1677, "title": "A young-adult transgender encounter"},
-    {"t": 1718, "title": "Paid-sex context enters the memory"},
-    {"t": 1741, "title": "Opie remembers the story"},
-    {"t": 1758, "title": "The story returns on air in 2005"},
-    {"t": 1762, "title": "Truth changes Jim's comedy"},
-    {"t": 1774, "title": "Childhood peers remain unnamed"},
-    {"t": 1805, "title": "Behavior does not dictate adult orientation"},
-    {"t": 1821, "title": "A Hulk doll marks the approximate ending"},
-    {"t": 1852, "title": "Narrative pornography and seduction"},
-    {"t": 1882, "title": "Kay Parker and Honey Wilder"},
-    {"t": 1897, "title": "Addiction shifts toward women"},
-    {"t": 1918, "title": "David describes nine partners"},
-    {"t": 1943, "title": "Sex functions like a drug"},
-    {"t": 1970, "title": "Pain does not stop the compulsion"},
-    {"t": 1989, "title": "A miniature simulation of love"},
-    {"t": 2017, "title": "Walking away after winning"},
-    {"t": 2032, "title": "Humiliation and taboo language"},
-    {"t": 2051, "title": "Paid sex changes the desired script"},
-    {"t": 2085, "title": "Forbidden intimacy becomes stimulation"},
-    {"t": 2112, "title": "A momentary declaration can still mislead"},
-    {"t": 2136, "title": "Private confessions and trust"},
-    {"t": 2145, "title": "Openness invites disclosure"},
-    {"t": 2172, "title": "Comedy makes catharsis possible"},
-    {"t": 2200, "title": "The hosts call themselves unblackmailable"},
-    {"t": 2228, "title": "Ordinary workers cannot take the same risk"},
-    {"t": 2243, "title": "Secrets, shame, ego, and pride"},
-    {"t": 2289, "title": "Public confession required readiness"},
-    {"t": 2319, "title": "The room asks about black memory spots"},
-    {"t": 2339, "title": "A stereotype about adult performers"},
-    {"t": 2347, "title": "Memory gaps are treated as proof"},
-    {"t": 2364, "title": "Jim preserves uncertainty"},
-    {"t": 2379, "title": "Peer diffusion is an alternative"},
-    {"t": 2397, "title": "Sobriety and substances"},
-    {"t": 2417, "title": "January 31, 1987"},
-    {"t": 2440, "title": "Jim recalls suicidal adolescence"},
-    {"t": 2452, "title": "Anonymous sexual-recovery meetings"},
-    {"t": 2462, "title": "Program anonymity is respected"},
-    {"t": 2475, "title": "Jim accepts the sex-addict frame"},
-    {"t": 2502, "title": "What distinguishes addiction?"},
-    {"t": 2513, "title": "Life disruption and compulsion"},
-    {"t": 2523, "title": "Doing it when you do not want to"},
-    {"t": 2533, "title": "Avoidance through an altered zone"},
-    {"t": 2555, "title": "Edging extends the high"},
-    {"t": 2591, "title": "A dopamine plateau"},
-    {"t": 2626, "title": "The surrounding ritual is part of addiction"},
-    {"t": 2650, "title": "Sensory pursuit precedes intercourse"},
-    {"t": 2673, "title": "Body hair preferences"},
-    {"t": 2705, "title": "Jim rejects a single physical type"},
-    {"t": 2744, "title": "Paid sex in Brazil"},
-    {"t": 2750, "title": "Certainty removes the taboo"},
-    {"t": 2777, "title": "Condomless sex as self-endangerment"},
-    {"t": 2799, "title": "Marriage and children remain distant"},
-    {"t": 2803, "title": "A temporary break from compulsion"},
-    {"t": 2810, "title": "David compares a porn cleanse"},
-    {"t": 2828, "title": "Relapse enters through a reserved exception"},
-    {"t": 2840, "title": "A dominatrix is the door left open"},
-    {"t": 2863, "title": "One day at a time"},
-    {"t": 2866, "title": "Food addiction is difficult because eating continues"},
-    {"t": 2883, "title": "Thirty pounds lost"},
-    {"t": 2893, "title": "A 2005 HBO photograph"},
-    {"t": 2917, "title": "Addiction substitutes its object"},
-    {"t": 2927, "title": "Cigarettes and sex prove hardest"},
-    {"t": 2947, "title": "A protected former partner"},
-    {"t": 2962, "title": "Love is separated from good treatment"},
-    {"t": 2976, "title": "Lennie from Of Mice and Men"},
-    {"t": 2982, "title": "North Brunswick becomes a new phase"},
-    {"t": 2992, "title": "Crushes replace peer behavior"},
-    {"t": 3003, "title": "Early peer exploration"},
-    {"t": 3024, "title": "First intercourse at eighteen"},
-    {"t": 3037, "title": "Young-adult paid-sex history"},
-    {"t": 3056, "title": "Conversation after sex matters most"},
-    {"t": 3078, "title": "A worker challenges Jim's pattern"},
-    {"t": 3080, "title": "Sober dances and social fear"},
-    {"t": 3108, "title": "Retrospective recognition of transgender workers"},
-    {"t": 3140, "title": "Anatomy checks based on misinformation"},
-    {"t": 3148, "title": "An officer supplies bad medical assumptions"},
-    {"t": 3168, "title": "Private workers are reduced to addiction clues"},
-    {"t": 3201, "title": "Parents' home becomes hidden encounter site"},
-    {"t": 3232, "title": "Conscious transgender encounters"},
-    {"t": 3246, "title": "A worker and a ride to New Jersey"},
-    {"t": 3273, "title": "The room ranks bodies by act"},
-    {"t": 3291, "title": "Companionship follows the encounter"},
-    {"t": 3340, "title": "An Eddie Murphy joke"},
-    {"t": 3360, "title": "The cast corrects its terminology"},
-    {"t": 3373, "title": "A past encounter is reconstructed"},
-    {"t": 3408, "title": "Jim continues after recognizing anatomy"},
-    {"t": 3413, "title": "Childhood behavior is used to press identity"},
-    {"t": 3426, "title": "Reciprocity remains private adult conduct"},
-    {"t": 3452, "title": "A boundary around penetration"},
-    {"t": 3475, "title": "A former partner's strap-on suggestion"},
-    {"t": 3485, "title": "Feminine energy frames attraction"},
-    {"t": 3515, "title": "Buck Angel"},
-    {"t": 3532, "title": "A transgender woman is misgendered"},
-    {"t": 3541, "title": "Reciprocity becomes courtesy"},
-    {"t": 3550, "title": "Addiction narrows attention"},
-    {"t": 3574, "title": "Compulsive eating replaces sex"},
-    {"t": 3593, "title": "The unfillable hole"},
-    {"t": 3621, "title": "Disease fear creates a line"},
-    {"t": 3634, "title": "Minors are explicitly rejected"},
-    {"t": 3644, "title": "Power and knowledge are attractive"},
-    {"t": 3664, "title": "Schoolgirl fantasy is rejected"},
-    {"t": 3686, "title": "Older mentality versus chronological age"},
-    {"t": 3708, "title": "Animal pornography is rejected"},
-    {"t": 3718, "title": "A private partner watches abusive material"},
-    {"t": 3735, "title": "Feces becomes another boundary"},
-    {"t": 3772, "title": "Urination preferences"},
-    {"t": 3827, "title": "Jim says he has been defecated on"},
-    {"t": 3832, "title": "Jay Mohr is repaired"},
-    {"t": 3857, "title": "The radio cancellation frames depression"},
-    {"t": 3869, "title": "Self-destructive acts cluster together"},
-    {"t": 3903, "title": "The career-collapse story resumes"},
-    {"t": 3923, "title": "A New York lease follows success"},
-    {"t": 3935, "title": "The show is canceled"},
-    {"t": 3942, "title": "Jim considers suicide"},
-    {"t": 3957, "title": "Success lost feels worse than never gained"},
-    {"t": 3966, "title": "Lucky Louie comes later"},
-    {"t": 3990, "title": "Tough Crowd with Colin Quinn"},
-    {"t": 3999, "title": "Exercise follows a moment of clarity"},
-    {"t": 4008, "title": "Private trainers remain professional"},
-    {"t": 4023, "title": "Zell's employment boundary returns"},
-    {"t": 4031, "title": "A private trainer and That Metal Show"},
-    {"t": 4070, "title": "Training occupies a different mindset"},
-    {"t": 4106, "title": "Women friends provide another perspective"},
-    {"t": 4117, "title": "Female comedians as platonic friends"},
-    {"t": 4123, "title": "Amy Schumer toured with Jim"},
-    {"t": 4150, "title": "Friendship means no hidden sabotage"},
-    {"t": 4165, "title": "A personal code among transgressions"},
-    {"t": 4187, "title": "Honor among thieves"},
-    {"t": 4218, "title": "Humor and attraction are separated"},
-    {"t": 4222, "title": "A protected former partner is brutally funny"},
-    {"t": 4257, "title": "The paid-humiliation story circles back"},
-    {"t": 4260, "title": "Depression and zoning out"},
-    {"t": 4283, "title": "Sobriety removes a common escape"},
-    {"t": 4310, "title": "Food and sex become substitutes"},
-    {"t": 4323, "title": "A dominatrix phase"},
-    {"t": 4343, "title": "Asa worked at the Nutcracker"},
-    {"t": 4355, "title": "A private work name stays private"},
-    {"t": 4381, "title": "A second-hand hostage story"},
-    {"t": 4401, "title": "Clients are generalized as addicts"},
-    {"t": 4411, "title": "A religious hygiene stereotype"},
-    {"t": 4421, "title": "The Den of Iniquity"},
-    {"t": 4442, "title": "Asa declines a requested act"},
-    {"t": 4465, "title": "Jim's encounter occurred at home"},
-    {"t": 4484, "title": "A private paid worker arrives"},
-    {"t": 4504, "title": "Preparation preferences become graphic"},
-    {"t": 4556, "title": "I hated myself more"},
-    {"t": 4567, "title": "Novelty supplies a bad high"},
-    {"t": 4613, "title": "A private worker also provides domestic care"},
-    {"t": 4648, "title": "Dinner feels intimate"},
-    {"t": 4675, "title": "A different encounter becomes a routine"},
-    {"t": 4717, "title": "Retrospective insight identifies the high"},
-    {"t": 4743, "title": "Conversation after sex returns"},
-    {"t": 4760, "title": "Public honesty creates career insulation"},
-    {"t": 4781, "title": "Jim defines his nonnegotiable boundaries"},
-    {"t": 4803, "title": "A failed preparation becomes rock bottom"},
-    {"t": 4848, "title": "This has to end"},
-    {"t": 4860, "title": "The episode becomes a stopping point"},
-    {"t": 4877, "title": "David says his novelty is mental"},
-    {"t": 4907, "title": "A partner notices a bad day"},
-    {"t": 4928, "title": "A violin enters intercourse"},
-    {"t": 4945, "title": "The future story becomes the thrill"},
-    {"t": 4985, "title": "Yoga and handstand novelty"},
-    {"t": 5028, "title": "Doing it to say it happened"},
-    {"t": 5049, "title": "Jim does not seek gimmick sex"},
-    {"t": 5095, "title": "Masturbation changes sexual attention"},
-    {"t": 5103, "title": "A partner slaps David over dissociation"},
-    {"t": 5127, "title": "Eye contact becomes a performance"},
-    {"t": 5133, "title": "Choking is mentioned without safety context"},
-    {"t": 5165, "title": "Jim steps away"},
-    {"t": 5182, "title": "The room praises its guest"},
-    {"t": 5223, "title": "Recovery groups reduce isolation"},
-    {"t": 5271, "title": "A slur reappears in guest assessment"},
-    {"t": 5282, "title": "Acts are used to deny a label"},
-    {"t": 5319, "title": "Jim returns"},
-    {"t": 5321, "title": "Kimber James"},
-    {"t": 5326, "title": "Postoperative transition becomes a question"},
-    {"t": 5338, "title": "A private person's gender is guessed"},
-    {"t": 5360, "title": "Sensation is mistaken for intuition"},
-    {"t": 5383, "title": "Transgender identity is treated as a flavor"},
-    {"t": 5406, "title": "Bailey Jay as a public friend"},
-    {"t": 5423, "title": "A weekly SiriusXM advice show"},
-    {"t": 5456, "title": "The episode flew by"},
-    {"t": 5479, "title": "Jim is thanked for openness"},
-    {"t": 5493, "title": "Recovery remains a daily battle"},
-    {"t": 5504, "title": "Work, radio, stand-up, and exercise"},
-    {"t": 5527, "title": "A Vice screening in New York"},
-    {"t": 5559, "title": "American Degenerate"},
-    {"t": 5580, "title": "Talk-show and scripted-series ambitions"},
-    {"t": 5600, "title": "New York radio is nonnegotiable"},
-    {"t": 5634, "title": "A Tonight Show segment"},
-    {"t": 5643, "title": "Red-eye flight back to radio"},
-    {"t": 5660, "title": "Reduced sexual risk-taking"},
-    {"t": 5671, "title": "Pregnancy and consequences create fear"},
-    {"t": 5691, "title": "Does forty-five mean settling down?"},
-    {"t": 5718, "title": "A protected former partner"},
-    {"t": 5722, "title": "Friendship survives failed romance"},
-    {"t": 5747, "title": "Marriage remains optional"},
-    {"t": 5768, "title": "Companionship is still missed"},
-    {"t": 5777, "title": "A room of lonely people"},
-    {"t": 5784, "title": "Dinner felt more intimate than sex"},
-    {"t": 5826, "title": "Career and new material provide direction"},
-    {"t": 5845, "title": "The door remains open"},
-    {"t": 5880, "title": "DVDASA signs off"},
-    {"t": 5899, "title": "Standard outro"},
-    {"t": 5934, "title": "A low-confidence Thank you is retained"}
+    {
+      "t": 6,
+      "title": "DVDASA introduces Jim Norton"
+    },
+    {
+      "t": 48,
+      "title": "Opie and Anthony runs four hours daily"
+    },
+    {
+      "t": 78,
+      "title": "A verdict-day broadcast runs without breaks"
+    },
+    {
+      "t": 92,
+      "title": "Robert Zimmerman Jr. and Judge Alex Ferrer"
+    },
+    {
+      "t": 104,
+      "title": "When stories repeat"
+    },
+    {
+      "t": 129,
+      "title": "Live listeners call repetition out"
+    },
+    {
+      "t": 149,
+      "title": "Every episode is someone's first"
+    },
+    {
+      "t": 154,
+      "title": "Pearl Jam becomes a recurring radio break"
+    },
+    {
+      "t": 168,
+      "title": "Two models of a listening partner"
+    },
+    {
+      "t": 205,
+      "title": "Correction can prevent embarrassment"
+    },
+    {
+      "t": 224,
+      "title": "Private texts blur with public talk"
+    },
+    {
+      "t": 241,
+      "title": "Retelling recovers detail"
+    },
+    {
+      "t": 253,
+      "title": "Jim Norton in Lucky Louie"
+    },
+    {
+      "t": 289,
+      "title": "Patrice O'Neal and Yoshi's recommendations"
+    },
+    {
+      "t": 312,
+      "title": "Monster Rain on HBO"
+    },
+    {
+      "t": 328,
+      "title": "The deleted tweet returns"
+    },
+    {
+      "t": 351,
+      "title": "Appearance becomes an offensive comparison"
+    },
+    {
+      "t": 365,
+      "title": "Intent splits two readings"
+    },
+    {
+      "t": 391,
+      "title": "Eva Lin in a comedy cold open"
+    },
+    {
+      "t": 419,
+      "title": "Mia Isabella and Joey Silvera"
+    },
+    {
+      "t": 449,
+      "title": "A reveal drives the audience response"
+    },
+    {
+      "t": 467,
+      "title": "Ozzy Osbourne introduces Jim"
+    },
+    {
+      "t": 503,
+      "title": "A kiss extends the performance"
+    },
+    {
+      "t": 508,
+      "title": "What language is respectful?"
+    },
+    {
+      "t": 515,
+      "title": "Bailey Jay is repaired"
+    },
+    {
+      "t": 526,
+      "title": "Slurs are compared"
+    },
+    {
+      "t": 546,
+      "title": "Self-description versus outside usage"
+    },
+    {
+      "t": 571,
+      "title": "Intent does not erase impact"
+    },
+    {
+      "t": 605,
+      "title": "Attraction becomes interrogation"
+    },
+    {
+      "t": 639,
+      "title": "A self-published comic at twenty-one"
+    },
+    {
+      "t": 657,
+      "title": "Tower Records distribution"
+    },
+    {
+      "t": 683,
+      "title": "A warehouse dominated by pornography"
+    },
+    {
+      "t": 705,
+      "title": "Transgender pornography is not niche"
+    },
+    {
+      "t": 733,
+      "title": "A collaborator edits an adult bestseller"
+    },
+    {
+      "t": 763,
+      "title": "Sexual compulsion escalates"
+    },
+    {
+      "t": 789,
+      "title": "Friends predict another threshold"
+    },
+    {
+      "t": 807,
+      "title": "Each addiction demands more"
+    },
+    {
+      "t": 822,
+      "title": "A driver's proposition"
+    },
+    {
+      "t": 852,
+      "title": "David refuses persistent pressure"
+    },
+    {
+      "t": 873,
+      "title": "Honesty on DVDASA"
+    },
+    {
+      "t": 877,
+      "title": "An older private partner and shame"
+    },
+    {
+      "t": 891,
+      "title": "A disclosure David thinks he would hide"
+    },
+    {
+      "t": 910,
+      "title": "Some public lines cannot be uncrossed"
+    },
+    {
+      "t": 920,
+      "title": "Sex work stays on the internet"
+    },
+    {
+      "t": 961,
+      "title": "Everything is documented"
+    },
+    {
+      "t": 976,
+      "title": "Spitzer, Weiner, and Petraeus"
+    },
+    {
+      "t": 993,
+      "title": "Everyone is exposed"
+    },
+    {
+      "t": 1003,
+      "title": "Jim approaches forty-five"
+    },
+    {
+      "t": 1019,
+      "title": "Monster Rain begins in childhood"
+    },
+    {
+      "t": 1030,
+      "title": "A game becomes an excuse"
+    },
+    {
+      "t": 1042,
+      "title": "Second grade remains approximate"
+    },
+    {
+      "t": 1056,
+      "title": "Ten peer encounters are estimated"
+    },
+    {
+      "t": 1065,
+      "title": "Jim says no adult participated"
+    },
+    {
+      "t": 1077,
+      "title": "One private peer did not reciprocate"
+    },
+    {
+      "t": 1176,
+      "title": "The peer was also a bully"
+    },
+    {
+      "t": 1200,
+      "title": "An explicit stop request is ignored"
+    },
+    {
+      "t": 1226,
+      "title": "Age complicates intent, not the boundary"
+    },
+    {
+      "t": 1232,
+      "title": "Memory is fragmented"
+    },
+    {
+      "t": 1253,
+      "title": "Most peer behavior felt mutual to Jim"
+    },
+    {
+      "t": 1269,
+      "title": "The room searches for an origin"
+    },
+    {
+      "t": 1275,
+      "title": "A private girl's sensory memory"
+    },
+    {
+      "t": 1298,
+      "title": "Adult abuse is proposed without evidence"
+    },
+    {
+      "t": 1317,
+      "title": "Decades of self-analysis reveal no memory"
+    },
+    {
+      "t": 1334,
+      "title": "Anatomical difference frightened a child"
+    },
+    {
+      "t": 1361,
+      "title": "Patrice O'Neal jokes about adult preference"
+    },
+    {
+      "t": 1376,
+      "title": "Two private siblings remain protected"
+    },
+    {
+      "t": 1396,
+      "title": "A coercive choice is remembered"
+    },
+    {
+      "t": 1419,
+      "title": "The room declares a ringleader"
+    },
+    {
+      "t": 1458,
+      "title": "Taboo existed without adult identity labels"
+    },
+    {
+      "t": 1461,
+      "title": "An early pornographic image"
+    },
+    {
+      "t": 1497,
+      "title": "Memory order remains nonlinear"
+    },
+    {
+      "t": 1515,
+      "title": "A slur coexisted with secret behavior"
+    },
+    {
+      "t": 1527,
+      "title": "No adult discovery is remembered"
+    },
+    {
+      "t": 1540,
+      "title": "Same-gender behavior felt more taboo"
+    },
+    {
+      "t": 1561,
+      "title": "Ordinary play resumed afterward"
+    },
+    {
+      "t": 1576,
+      "title": "Reciprocity is counted"
+    },
+    {
+      "t": 1595,
+      "title": "A move changes the whole childhood"
+    },
+    {
+      "t": 1623,
+      "title": "North Brunswick in fourth grade"
+    },
+    {
+      "t": 1644,
+      "title": "The story remains private until 2003"
+    },
+    {
+      "t": 1650,
+      "title": "A Montreal comedy confession event"
+    },
+    {
+      "t": 1674,
+      "title": "Monster Rain is first told publicly"
+    },
+    {
+      "t": 1677,
+      "title": "A young-adult transgender encounter"
+    },
+    {
+      "t": 1718,
+      "title": "Paid-sex context enters the memory"
+    },
+    {
+      "t": 1741,
+      "title": "Opie remembers the story"
+    },
+    {
+      "t": 1758,
+      "title": "The story returns on air in 2005"
+    },
+    {
+      "t": 1762,
+      "title": "Truth changes Jim's comedy"
+    },
+    {
+      "t": 1774,
+      "title": "Childhood peers remain unnamed"
+    },
+    {
+      "t": 1805,
+      "title": "Behavior does not dictate adult orientation"
+    },
+    {
+      "t": 1821,
+      "title": "A Hulk doll marks the approximate ending"
+    },
+    {
+      "t": 1852,
+      "title": "Narrative pornography and seduction"
+    },
+    {
+      "t": 1882,
+      "title": "Kay Parker and Honey Wilder"
+    },
+    {
+      "t": 1897,
+      "title": "Addiction shifts toward women"
+    },
+    {
+      "t": 1918,
+      "title": "David describes nine partners"
+    },
+    {
+      "t": 1943,
+      "title": "Sex functions like a drug"
+    },
+    {
+      "t": 1970,
+      "title": "Pain does not stop the compulsion"
+    },
+    {
+      "t": 1989,
+      "title": "A miniature simulation of love"
+    },
+    {
+      "t": 2017,
+      "title": "Walking away after winning"
+    },
+    {
+      "t": 2032,
+      "title": "Humiliation and taboo language"
+    },
+    {
+      "t": 2051,
+      "title": "Paid sex changes the desired script"
+    },
+    {
+      "t": 2085,
+      "title": "Forbidden intimacy becomes stimulation"
+    },
+    {
+      "t": 2112,
+      "title": "A momentary declaration can still mislead"
+    },
+    {
+      "t": 2136,
+      "title": "Private confessions and trust"
+    },
+    {
+      "t": 2145,
+      "title": "Openness invites disclosure"
+    },
+    {
+      "t": 2172,
+      "title": "Comedy makes catharsis possible"
+    },
+    {
+      "t": 2200,
+      "title": "The hosts call themselves unblackmailable"
+    },
+    {
+      "t": 2228,
+      "title": "Ordinary workers cannot take the same risk"
+    },
+    {
+      "t": 2243,
+      "title": "Secrets, shame, ego, and pride"
+    },
+    {
+      "t": 2289,
+      "title": "Public confession required readiness"
+    },
+    {
+      "t": 2319,
+      "title": "The room asks about black memory spots"
+    },
+    {
+      "t": 2339,
+      "title": "A stereotype about adult performers"
+    },
+    {
+      "t": 2347,
+      "title": "Memory gaps are treated as proof"
+    },
+    {
+      "t": 2364,
+      "title": "Jim preserves uncertainty"
+    },
+    {
+      "t": 2379,
+      "title": "Peer diffusion is an alternative"
+    },
+    {
+      "t": 2397,
+      "title": "Sobriety and substances"
+    },
+    {
+      "t": 2417,
+      "title": "January 31, 1987"
+    },
+    {
+      "t": 2440,
+      "title": "Jim recalls suicidal adolescence"
+    },
+    {
+      "t": 2452,
+      "title": "Anonymous sexual-recovery meetings"
+    },
+    {
+      "t": 2462,
+      "title": "Program anonymity is respected"
+    },
+    {
+      "t": 2475,
+      "title": "Jim accepts the sex-addict frame"
+    },
+    {
+      "t": 2502,
+      "title": "What distinguishes addiction?"
+    },
+    {
+      "t": 2513,
+      "title": "Life disruption and compulsion"
+    },
+    {
+      "t": 2523,
+      "title": "Doing it when you do not want to"
+    },
+    {
+      "t": 2533,
+      "title": "Avoidance through an altered zone"
+    },
+    {
+      "t": 2555,
+      "title": "Edging extends the high"
+    },
+    {
+      "t": 2591,
+      "title": "A dopamine plateau"
+    },
+    {
+      "t": 2626,
+      "title": "The surrounding ritual is part of addiction"
+    },
+    {
+      "t": 2650,
+      "title": "Sensory pursuit precedes intercourse"
+    },
+    {
+      "t": 2673,
+      "title": "Body hair preferences"
+    },
+    {
+      "t": 2705,
+      "title": "Jim rejects a single physical type"
+    },
+    {
+      "t": 2744,
+      "title": "Paid sex in Brazil"
+    },
+    {
+      "t": 2750,
+      "title": "Certainty removes the taboo"
+    },
+    {
+      "t": 2777,
+      "title": "Condomless sex as self-endangerment"
+    },
+    {
+      "t": 2799,
+      "title": "Marriage and children remain distant"
+    },
+    {
+      "t": 2803,
+      "title": "A temporary break from compulsion"
+    },
+    {
+      "t": 2810,
+      "title": "David compares a porn cleanse"
+    },
+    {
+      "t": 2828,
+      "title": "Relapse enters through a reserved exception"
+    },
+    {
+      "t": 2840,
+      "title": "A dominatrix is the door left open"
+    },
+    {
+      "t": 2863,
+      "title": "One day at a time"
+    },
+    {
+      "t": 2866,
+      "title": "Food addiction is difficult because eating continues"
+    },
+    {
+      "t": 2883,
+      "title": "Thirty pounds lost"
+    },
+    {
+      "t": 2893,
+      "title": "A 2005 HBO photograph"
+    },
+    {
+      "t": 2917,
+      "title": "Addiction substitutes its object"
+    },
+    {
+      "t": 2927,
+      "title": "Cigarettes and sex prove hardest"
+    },
+    {
+      "t": 2947,
+      "title": "A protected former partner"
+    },
+    {
+      "t": 2962,
+      "title": "Love is separated from good treatment"
+    },
+    {
+      "t": 2976,
+      "title": "Lennie from Of Mice and Men"
+    },
+    {
+      "t": 2982,
+      "title": "North Brunswick becomes a new phase"
+    },
+    {
+      "t": 2992,
+      "title": "Crushes replace peer behavior"
+    },
+    {
+      "t": 3003,
+      "title": "Early peer exploration"
+    },
+    {
+      "t": 3024,
+      "title": "First intercourse at eighteen"
+    },
+    {
+      "t": 3037,
+      "title": "Young-adult paid-sex history"
+    },
+    {
+      "t": 3056,
+      "title": "Conversation after sex matters most"
+    },
+    {
+      "t": 3078,
+      "title": "A worker challenges Jim's pattern"
+    },
+    {
+      "t": 3080,
+      "title": "Sober dances and social fear"
+    },
+    {
+      "t": 3108,
+      "title": "Retrospective recognition of transgender workers"
+    },
+    {
+      "t": 3140,
+      "title": "Anatomy checks based on misinformation"
+    },
+    {
+      "t": 3148,
+      "title": "An officer supplies bad medical assumptions"
+    },
+    {
+      "t": 3168,
+      "title": "Private workers are reduced to addiction clues"
+    },
+    {
+      "t": 3201,
+      "title": "Parents' home becomes hidden encounter site"
+    },
+    {
+      "t": 3232,
+      "title": "Conscious transgender encounters"
+    },
+    {
+      "t": 3246,
+      "title": "A worker and a ride to New Jersey"
+    },
+    {
+      "t": 3273,
+      "title": "The room ranks bodies by act"
+    },
+    {
+      "t": 3291,
+      "title": "Companionship follows the encounter"
+    },
+    {
+      "t": 3340,
+      "title": "An Eddie Murphy joke"
+    },
+    {
+      "t": 3360,
+      "title": "The cast corrects its terminology"
+    },
+    {
+      "t": 3373,
+      "title": "A past encounter is reconstructed"
+    },
+    {
+      "t": 3408,
+      "title": "Jim continues after recognizing anatomy"
+    },
+    {
+      "t": 3413,
+      "title": "Childhood behavior is used to press identity"
+    },
+    {
+      "t": 3426,
+      "title": "Reciprocity remains private adult conduct"
+    },
+    {
+      "t": 3452,
+      "title": "A boundary around penetration"
+    },
+    {
+      "t": 3475,
+      "title": "A former partner's strap-on suggestion"
+    },
+    {
+      "t": 3485,
+      "title": "Feminine energy frames attraction"
+    },
+    {
+      "t": 3515,
+      "title": "Buck Angel"
+    },
+    {
+      "t": 3532,
+      "title": "A transgender woman is misgendered"
+    },
+    {
+      "t": 3541,
+      "title": "Reciprocity becomes courtesy"
+    },
+    {
+      "t": 3550,
+      "title": "Addiction narrows attention"
+    },
+    {
+      "t": 3574,
+      "title": "Compulsive eating replaces sex"
+    },
+    {
+      "t": 3593,
+      "title": "The unfillable hole"
+    },
+    {
+      "t": 3621,
+      "title": "Disease fear creates a line"
+    },
+    {
+      "t": 3634,
+      "title": "Minors are explicitly rejected"
+    },
+    {
+      "t": 3644,
+      "title": "Power and knowledge are attractive"
+    },
+    {
+      "t": 3664,
+      "title": "Schoolgirl fantasy is rejected"
+    },
+    {
+      "t": 3686,
+      "title": "Older mentality versus chronological age"
+    },
+    {
+      "t": 3708,
+      "title": "Animal pornography is rejected"
+    },
+    {
+      "t": 3718,
+      "title": "A private partner watches abusive material"
+    },
+    {
+      "t": 3735,
+      "title": "Feces becomes another boundary"
+    },
+    {
+      "t": 3772,
+      "title": "Urination preferences"
+    },
+    {
+      "t": 3827,
+      "title": "Jim says he has been defecated on"
+    },
+    {
+      "t": 3832,
+      "title": "Jay Mohr is repaired"
+    },
+    {
+      "t": 3857,
+      "title": "The radio cancellation frames depression"
+    },
+    {
+      "t": 3869,
+      "title": "Self-destructive acts cluster together"
+    },
+    {
+      "t": 3903,
+      "title": "The career-collapse story resumes"
+    },
+    {
+      "t": 3923,
+      "title": "A New York lease follows success"
+    },
+    {
+      "t": 3935,
+      "title": "The show is canceled"
+    },
+    {
+      "t": 3942,
+      "title": "Jim considers suicide"
+    },
+    {
+      "t": 3957,
+      "title": "Success lost feels worse than never gained"
+    },
+    {
+      "t": 3966,
+      "title": "Lucky Louie comes later"
+    },
+    {
+      "t": 3990,
+      "title": "Tough Crowd with Colin Quinn"
+    },
+    {
+      "t": 3999,
+      "title": "Exercise follows a moment of clarity"
+    },
+    {
+      "t": 4008,
+      "title": "Private trainers remain professional"
+    },
+    {
+      "t": 4023,
+      "title": "Zell's employment boundary returns"
+    },
+    {
+      "t": 4031,
+      "title": "A private trainer and That Metal Show"
+    },
+    {
+      "t": 4070,
+      "title": "Training occupies a different mindset"
+    },
+    {
+      "t": 4106,
+      "title": "Women friends provide another perspective"
+    },
+    {
+      "t": 4117,
+      "title": "Female comedians as platonic friends"
+    },
+    {
+      "t": 4123,
+      "title": "Amy Schumer toured with Jim"
+    },
+    {
+      "t": 4150,
+      "title": "Friendship means no hidden sabotage"
+    },
+    {
+      "t": 4165,
+      "title": "A personal code among transgressions"
+    },
+    {
+      "t": 4187,
+      "title": "Honor among thieves"
+    },
+    {
+      "t": 4218,
+      "title": "Humor and attraction are separated"
+    },
+    {
+      "t": 4222,
+      "title": "A protected former partner is brutally funny"
+    },
+    {
+      "t": 4257,
+      "title": "The paid-humiliation story circles back"
+    },
+    {
+      "t": 4260,
+      "title": "Depression and zoning out"
+    },
+    {
+      "t": 4283,
+      "title": "Sobriety removes a common escape"
+    },
+    {
+      "t": 4310,
+      "title": "Food and sex become substitutes"
+    },
+    {
+      "t": 4323,
+      "title": "A dominatrix phase"
+    },
+    {
+      "t": 4343,
+      "title": "Asa worked at the Nutcracker"
+    },
+    {
+      "t": 4355,
+      "title": "A private work name stays private"
+    },
+    {
+      "t": 4381,
+      "title": "A second-hand hostage story"
+    },
+    {
+      "t": 4401,
+      "title": "Clients are generalized as addicts"
+    },
+    {
+      "t": 4411,
+      "title": "A religious hygiene stereotype"
+    },
+    {
+      "t": 4421,
+      "title": "The Den of Iniquity"
+    },
+    {
+      "t": 4442,
+      "title": "Asa declines a requested act"
+    },
+    {
+      "t": 4465,
+      "title": "Jim's encounter occurred at home"
+    },
+    {
+      "t": 4484,
+      "title": "A private paid worker arrives"
+    },
+    {
+      "t": 4504,
+      "title": "Preparation preferences become graphic"
+    },
+    {
+      "t": 4556,
+      "title": "I hated myself more"
+    },
+    {
+      "t": 4567,
+      "title": "Novelty supplies a bad high"
+    },
+    {
+      "t": 4613,
+      "title": "A private worker also provides domestic care"
+    },
+    {
+      "t": 4648,
+      "title": "Dinner feels intimate"
+    },
+    {
+      "t": 4675,
+      "title": "A different encounter becomes a routine"
+    },
+    {
+      "t": 4717,
+      "title": "Retrospective insight identifies the high"
+    },
+    {
+      "t": 4743,
+      "title": "Conversation after sex returns"
+    },
+    {
+      "t": 4760,
+      "title": "Public honesty creates career insulation"
+    },
+    {
+      "t": 4781,
+      "title": "Jim defines his nonnegotiable boundaries"
+    },
+    {
+      "t": 4803,
+      "title": "A failed preparation becomes rock bottom"
+    },
+    {
+      "t": 4848,
+      "title": "This has to end"
+    },
+    {
+      "t": 4860,
+      "title": "The episode becomes a stopping point"
+    },
+    {
+      "t": 4877,
+      "title": "David says his novelty is mental"
+    },
+    {
+      "t": 4907,
+      "title": "A partner notices a bad day"
+    },
+    {
+      "t": 4928,
+      "title": "A violin enters intercourse"
+    },
+    {
+      "t": 4945,
+      "title": "The future story becomes the thrill"
+    },
+    {
+      "t": 4985,
+      "title": "Yoga and handstand novelty"
+    },
+    {
+      "t": 5028,
+      "title": "Doing it to say it happened"
+    },
+    {
+      "t": 5049,
+      "title": "Jim does not seek gimmick sex"
+    },
+    {
+      "t": 5095,
+      "title": "Masturbation changes sexual attention"
+    },
+    {
+      "t": 5103,
+      "title": "A partner slaps David over dissociation"
+    },
+    {
+      "t": 5127,
+      "title": "Eye contact becomes a performance"
+    },
+    {
+      "t": 5133,
+      "title": "Choking is mentioned without safety context"
+    },
+    {
+      "t": 5165,
+      "title": "Jim steps away"
+    },
+    {
+      "t": 5182,
+      "title": "The room praises its guest"
+    },
+    {
+      "t": 5223,
+      "title": "Recovery groups reduce isolation"
+    },
+    {
+      "t": 5271,
+      "title": "A slur reappears in guest assessment"
+    },
+    {
+      "t": 5282,
+      "title": "Acts are used to deny a label"
+    },
+    {
+      "t": 5319,
+      "title": "Jim returns"
+    },
+    {
+      "t": 5321,
+      "title": "Kimber James"
+    },
+    {
+      "t": 5326,
+      "title": "Postoperative transition becomes a question"
+    },
+    {
+      "t": 5338,
+      "title": "A private person's gender is guessed"
+    },
+    {
+      "t": 5360,
+      "title": "Sensation is mistaken for intuition"
+    },
+    {
+      "t": 5383,
+      "title": "Transgender identity is treated as a flavor"
+    },
+    {
+      "t": 5406,
+      "title": "Bailey Jay as a public friend"
+    },
+    {
+      "t": 5423,
+      "title": "A weekly SiriusXM advice show"
+    },
+    {
+      "t": 5456,
+      "title": "The episode flew by"
+    },
+    {
+      "t": 5479,
+      "title": "Jim is thanked for openness"
+    },
+    {
+      "t": 5493,
+      "title": "Recovery remains a daily battle"
+    },
+    {
+      "t": 5504,
+      "title": "Work, radio, stand-up, and exercise"
+    },
+    {
+      "t": 5527,
+      "title": "A Vice screening in New York"
+    },
+    {
+      "t": 5559,
+      "title": "American Degenerate"
+    },
+    {
+      "t": 5580,
+      "title": "Talk-show and scripted-series ambitions"
+    },
+    {
+      "t": 5600,
+      "title": "New York radio is nonnegotiable"
+    },
+    {
+      "t": 5634,
+      "title": "A Tonight Show segment"
+    },
+    {
+      "t": 5643,
+      "title": "Red-eye flight back to radio"
+    },
+    {
+      "t": 5660,
+      "title": "Reduced sexual risk-taking"
+    },
+    {
+      "t": 5671,
+      "title": "Pregnancy and consequences create fear"
+    },
+    {
+      "t": 5691,
+      "title": "Does forty-five mean settling down?"
+    },
+    {
+      "t": 5718,
+      "title": "A protected former partner"
+    },
+    {
+      "t": 5722,
+      "title": "Friendship survives failed romance"
+    },
+    {
+      "t": 5747,
+      "title": "Marriage remains optional"
+    },
+    {
+      "t": 5768,
+      "title": "Companionship is still missed"
+    },
+    {
+      "t": 5777,
+      "title": "A room of lonely people"
+    },
+    {
+      "t": 5784,
+      "title": "Dinner felt more intimate than sex"
+    },
+    {
+      "t": 5826,
+      "title": "Career and new material provide direction"
+    },
+    {
+      "t": 5845,
+      "title": "The door remains open"
+    },
+    {
+      "t": 5880,
+      "title": "DVDASA signs off"
+    },
+    {
+      "t": 5899,
+      "title": "Standard outro"
+    },
+    {
+      "t": 5934,
+      "title": "A low-confidence Thank you is retained"
+    }
   ],
   "connections": [
-    {"from_t": 104, "to_t": 1232, "label": "Jim's theory that retelling recovers detail is tested by a childhood account whose sequence remains fragmented and nonlinear."},
-    {"from_t": 224, "to_t": 961, "label": "Private texts blur with public speech before the room explicitly recognizes that everything is documented."},
-    {"from_t": 328, "to_t": 5456, "label": "The opening terminology debate returns near the close, showing that intent, self-description, and respectful editorial language remain unresolved live questions."},
-    {"from_t": 763, "to_t": 1918, "label": "David predicts that every addiction demands escalation, then describes nine partners despite pain as exactly that pattern."},
-    {"from_t": 910, "to_t": 2200, "label": "Irreversible sexual publication becomes the basis for the hosts' claim that they are unblackmailable, while private people still face ordinary employment consequences."},
-    {"from_t": 1019, "to_t": 1644, "label": "Monster Rain remains secret for decades before becoming public comedy, separating lived experience from readiness to publish it."},
-    {"from_t": 1200, "to_t": 1298, "label": "A clear stop request is documented, while the broader theory of adult causation remains speculation; evidence and inference receive different treatment."},
-    {"from_t": 1644, "to_t": 1762, "label": "A one-time stage confession becomes an on-air story and then an HBO bit, illustrating how oral history acquires permanent editions."},
-    {"from_t": 2136, "to_t": 2462, "label": "Jim says people trust him because he protects confidences, then models that ethic by refusing to name anonymous recovery programs."},
-    {"from_t": 2319, "to_t": 2379, "label": "The room treats memory gaps as hidden trauma, but Jim keeps multiple explanations open instead of manufacturing recovered memory."},
-    {"from_t": 2397, "to_t": 2863, "label": "Long-term sobriety does not end addiction; sex, food, cigarettes, and planned exceptions become substitution and relapse patterns."},
-    {"from_t": 2502, "to_t": 4556, "label": "Jim defines addiction as behavior that harms life and continues against desire, then describes humiliation during depression as a concrete example."},
-    {"from_t": 2777, "to_t": 5660, "label": "Jim frames condomless paid sex as self-endangerment and later explains why age and accumulated consequences have reduced his risk-taking."},
-    {"from_t": 3078, "to_t": 4743, "label": "Conversation after paid sex repeatedly matters more than the act, revealing companionship beneath the addiction narrative."},
-    {"from_t": 3869, "to_t": 3999, "label": "Career collapse produces suicidal depression, weight gain, and sexual self-destruction before exercise becomes part of recovery."},
-    {"from_t": 4008, "to_t": 4023, "label": "Jim's professional trainer boundaries reinforce the prior episode's conclusion that David should not combine Zell's employment with sex."},
-    {"from_t": 4123, "to_t": 5768, "label": "Platonic friendship with Amy Schumer and an enduring friendship with an ex show forms of companionship not organized around sex."},
-    {"from_t": 4257, "to_t": 4848, "label": "The paid-humiliation story moves from depression and novelty to a clear stopping-point sentence: this has to end."},
-    {"from_t": 4907, "to_t": 5127, "label": "A partner tries to reach David emotionally; he later replaces closed eyes with performed eye contact while remaining mentally absent."},
-    {"from_t": 5777, "to_t": 5784, "label": "The episode's long catalogue of sex resolves into shared loneliness and the recognition that dinner can feel more intimate than intercourse."}
+    {
+      "from_t": 104,
+      "to_t": 1232,
+      "label": "Jim's theory that retelling recovers detail is tested by a childhood account whose sequence remains fragmented and nonlinear."
+    },
+    {
+      "from_t": 224,
+      "to_t": 961,
+      "label": "Private texts blur with public speech before the room explicitly recognizes that everything is documented."
+    },
+    {
+      "from_t": 328,
+      "to_t": 5456,
+      "label": "The opening terminology debate returns near the close, showing that intent, self-description, and respectful editorial language remain unresolved live questions."
+    },
+    {
+      "from_t": 763,
+      "to_t": 1918,
+      "label": "David predicts that every addiction demands escalation, then describes nine partners despite pain as exactly that pattern."
+    },
+    {
+      "from_t": 910,
+      "to_t": 2200,
+      "label": "Irreversible sexual publication becomes the basis for the hosts' claim that they are unblackmailable, while private people still face ordinary employment consequences."
+    },
+    {
+      "from_t": 1019,
+      "to_t": 1644,
+      "label": "Monster Rain remains secret for decades before becoming public comedy, separating lived experience from readiness to publish it."
+    },
+    {
+      "from_t": 1200,
+      "to_t": 1298,
+      "label": "A clear stop request is documented, while the broader theory of adult causation remains speculation; evidence and inference receive different treatment."
+    },
+    {
+      "from_t": 1644,
+      "to_t": 1762,
+      "label": "A one-time stage confession becomes an on-air story and then an HBO bit, illustrating how oral history acquires permanent editions."
+    },
+    {
+      "from_t": 2136,
+      "to_t": 2462,
+      "label": "Jim says people trust him because he protects confidences, then models that ethic by refusing to name anonymous recovery programs."
+    },
+    {
+      "from_t": 2319,
+      "to_t": 2379,
+      "label": "The room treats memory gaps as hidden trauma, but Jim keeps multiple explanations open instead of manufacturing recovered memory."
+    },
+    {
+      "from_t": 2397,
+      "to_t": 2863,
+      "label": "Long-term sobriety does not end addiction; sex, food, cigarettes, and planned exceptions become substitution and relapse patterns."
+    },
+    {
+      "from_t": 2502,
+      "to_t": 4556,
+      "label": "Jim defines addiction as behavior that harms life and continues against desire, then describes humiliation during depression as a concrete example."
+    },
+    {
+      "from_t": 2777,
+      "to_t": 5660,
+      "label": "Jim frames condomless paid sex as self-endangerment and later explains why age and accumulated consequences have reduced his risk-taking."
+    },
+    {
+      "from_t": 3078,
+      "to_t": 4743,
+      "label": "Conversation after paid sex repeatedly matters more than the act, revealing companionship beneath the addiction narrative."
+    },
+    {
+      "from_t": 3869,
+      "to_t": 3999,
+      "label": "Career collapse produces suicidal depression, weight gain, and sexual self-destruction before exercise becomes part of recovery."
+    },
+    {
+      "from_t": 4008,
+      "to_t": 4023,
+      "label": "Jim's professional trainer boundaries reinforce the prior episode's conclusion that David should not combine Zell's employment with sex."
+    },
+    {
+      "from_t": 4123,
+      "to_t": 5768,
+      "label": "Platonic friendship with Amy Schumer and an enduring friendship with an ex show forms of companionship not organized around sex."
+    },
+    {
+      "from_t": 4257,
+      "to_t": 4848,
+      "label": "The paid-humiliation story moves from depression and novelty to a clear stopping-point sentence: this has to end."
+    },
+    {
+      "from_t": 4907,
+      "to_t": 5127,
+      "label": "A partner tries to reach David emotionally; he later replaces closed eyes with performed eye contact while remaining mentally absent."
+    },
+    {
+      "from_t": 5777,
+      "to_t": 5784,
+      "label": "The episode's long catalogue of sex resolves into shared loneliness and the recognition that dinner can feel more intimate than intercourse."
+    }
   ],
   "quality": {
     "raw_segments": 3176,
@@ -328,5 +1266,28 @@
     "suicidal ideation and depression",
     "graphic bodily material"
   ],
-  "speaker_policy": "Participants include Jim Norton, David Choe, Asa Akira, Critter, Valentin, Bobby, and other recurring room voices. This record does not assign individual transcript turns. Turn segmentation was deliberately disabled; the 1,979 fixed-window embeddings remain available, but named publication waits for independent held-out multi-speaker validation."
+  "speaker_policy": "Participants include Jim Norton, David Choe, Asa Akira, Critter, Valentin, Bobby, and other recurring room voices. This record does not assign individual transcript turns. Turn segmentation was deliberately disabled; the 1,979 fixed-window embeddings remain available, but named publication waits for independent held-out multi-speaker validation.",
+  "people": [
+    "David Choe",
+    "Patrice O'Neal",
+    "Eddie Murphy",
+    "Joey Silvera",
+    "Louis C.K.",
+    "Jay Mohr"
+  ],
+  "places": [
+    "New York",
+    "Brazil"
+  ],
+  "works": [
+    "Lucky Louie",
+    "Louie",
+    "Shame"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 046 features comedian Jim Norton.",
+  "description_source": "Opening of the human-reviewed summary."
 }

@@ -1,49 +1,991 @@
 {
-  "episode_id":"saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
-  "title":"Nov 2nd 2/3: Slink, Endo, Spiegler, Alina Li & Chloe the Virgin",
-  "reviewed_on":"2026-07-31",
-  "summary":"The second November 2 live block resumes immediately after Part 1 and combines an art-print launch, adult-industry conversation, guest drop-ins and a long interview with a nineteen-year-old private fan called Chloe. David explains the Ustream advertising problem and launches a limited pizza watercolor through Trapeze Editions, followed by Critter, Asa, Harry Kim and DVDASA clothing. The merchandise descriptions are useful art provenance; spoken URLs and handles need not become a contact directory. Mark Spiegler is introduced as Asa's friend and agent. Participants praise his professionalism, discuss recruitment, work duration, testing, career longevity and the gap between private sex and production. Alina Li, described as nineteen and new to adult work, discusses moving from Shanghai, family history, an earlier relationship and her first months in the industry. She voluntarily models clothing but is repeatedly asked to undress and expose herself; the archive retains both the pressure and the explicit 'don't feel like you have to' language without treating either as blanket consent. Dana DeArmond and Nick Youssef arrive after the LAX disruption and describe a costly car trip to a comedy booking. Private relationship details that participants themselves question making public are restricted. A long sexual-health discussion contains uncertainty and false or unsafe claims about squirting, yeast infections, urination, bleach, Hibiclens, testing and lubricants. It is participant conversation, not medical guidance. Chloe is checked as an adult and says she is nineteen, has not had penetrative sex, is curious about pornography and previously answered a casting call. She also says she is on the fence and wants to lose her virginity before deciding about the industry. The group interrogates her sexual history, speculates about her body, proposes partners and group acts, displays a private explicit photograph, and repeatedly predicts what she will eventually want. Her curiosity, attraction and later 'rag doll' phrase do not provide prospective or retroactive consent to every proposed act, image or public identity trail. The closing finally includes an important counterinstruction: do whatever you want, do not feel pressured, and choose someone patient. The source preserves the contradictions rather than resolving them into a success story. Coconut oil is not safe with latex condoms; the on-air 'real health advice' label is rejected. The show ends with merchandise, guest plugs and a possible third block. Twelve automatic cleaner removals are empty records. Coarse diarization cannot support named line-level dialogue.",
-  "quality":{"raw_segments":5043,"clean_segments":5031,"raw_words_approx":32160,"clean_words_approx":32160,"duration_seconds":10015.9,"accepted_context_decisions":200,"chapters":177,"connections":25,"content_warnings":25,"identity_windows":0,"named_turns":0,"cleaning_edits":12,"cleaning_net_reduction":12,"public_restriction_spans":25},
-  "source_notes":[
+  "episode_id": "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin",
+  "title": "Nov 2nd 2/3: Slink, Endo, Spiegler, Alina Li & Chloe the Virgin",
+  "reviewed_on": "2026-07-31",
+  "summary": "The second November 2 live block resumes immediately after Part 1 and combines an art-print launch, adult-industry conversation, guest drop-ins and a long interview with a nineteen-year-old private fan called Chloe. David explains the Ustream advertising problem and launches a limited pizza watercolor through Trapeze Editions, followed by Critter, Asa, Harry Kim and DVDASA clothing. The merchandise descriptions are useful art provenance; spoken URLs and handles need not become a contact directory. Mark Spiegler is introduced as Asa's friend and agent. Participants praise his professionalism, discuss recruitment, work duration, testing, career longevity and the gap between private sex and production. Alina Li, described as nineteen and new to adult work, discusses moving from Shanghai, family history, an earlier relationship and her first months in the industry. She voluntarily models clothing but is repeatedly asked to undress and expose herself; the archive retains both the pressure and the explicit 'don't feel like you have to' language without treating either as blanket consent. Dana DeArmond and Nick Youssef arrive after the LAX disruption and describe a costly car trip to a comedy booking. Private relationship details that participants themselves question making public are restricted. A long sexual-health discussion contains uncertainty and false or unsafe claims about squirting, yeast infections, urination, bleach, Hibiclens, testing and lubricants. It is participant conversation, not medical guidance. Chloe is checked as an adult and says she is nineteen, has not had penetrative sex, is curious about pornography and previously answered a casting call. She also says she is on the fence and wants to lose her virginity before deciding about the industry. The group interrogates her sexual history, speculates about her body, proposes partners and group acts, displays a private explicit photograph, and repeatedly predicts what she will eventually want. Her curiosity, attraction and later 'rag doll' phrase do not provide prospective or retroactive consent to every proposed act, image or public identity trail. The closing finally includes an important counterinstruction: do whatever you want, do not feel pressured, and choose someone patient. The source preserves the contradictions rather than resolving them into a success story. Coconut oil is not safe with latex condoms; the on-air 'real health advice' label is rejected. The show ends with merchandise, guest plugs and a possible third block. Twelve automatic cleaner removals are empty records. Coarse diarization cannot support named line-level dialogue.",
+  "quality": {
+    "raw_segments": 5043,
+    "clean_segments": 5031,
+    "raw_words_approx": 32160,
+    "clean_words_approx": 32160,
+    "duration_seconds": 10015.9,
+    "accepted_context_decisions": 200,
+    "chapters": 177,
+    "connections": 25,
+    "content_warnings": 25,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 12,
+    "cleaning_net_reduction": 12,
+    "public_restriction_spans": 25
+  },
+  "source_notes": [
     "All twelve cleaner removals are empty zero-duration records.",
     "The block is live, visually active and crowded; clothing, photographs, gestures and overlapping reactions are only partially represented in text.",
     "Chloe is an adult in the recording, but remains a private young adult whose city, appearance, attendance history, messages and sexual disclosures cannot be composed into an identity.",
     "Sexual-health and lubricant claims require independent medical correction; they are not guidance.",
     "No independently held-out voice validation exists; dialogue remains unnamed."
   ],
-  "speaker_policy":"Episode-level metadata may name David Choe, Asa Akira, Slink Johnson, Mark Spiegler, Alina Li, Dana DeArmond, Nick Youssef, Bill Poon and publicly credited merchandise models. Chloe remains a private first-name-only young adult. Staff, partners, relatives, workers and fans remain private. No line-level names are published without held-out acoustic validation.",
-  "chapters":[
-    {"t":2,"title":"Part 2 opens"},{"t":46,"title":"first live-day disorganization"},{"t":115,"title":"Ustream advertising"},{"t":155,"title":"merchandise pitch"},{"t":202,"title":"Bobby's hood-pass outfit"},{"t":308,"title":"hockey prospect rejected"},{"t":358,"title":"new Coyotes player"},{"t":365,"title":"Bobby's hockey schedule"},{"t":417,"title":"driver collecting young guest"},{"t":463,"title":"Spiegler introduction begins"},{"t":475,"title":"adult-awards competitiveness"},{"t":530,"title":"Spiegler credited by performers"},{"t":591,"title":"Trapeze Editions"},{"t":635,"title":"pizza-print models"},{"t":699,"title":"pizza watercolor editions"},{"t":721,"title":"November 6 release details"},{"t":738,"title":"camera-sound joke"},{"t":779,"title":"extra-pepperoni edition"},{"t":803,"title":"cheese-slice edition"},{"t":887,"title":"original-versus-print value"},{"t":925,"title":"Critter swimwear"},{"t":984,"title":"Angelina models one-piece"},{"t":1022,"title":"Stacey Adams arrives"},{"t":1071,"title":"Spiegler introduction resumes"},{"t":1131,"title":"ballet and racing biography"},{"t":1184,"title":"prospective client pressure story"},{"t":1216,"title":"audition groping account"},{"t":1259,"title":"professional-boundary discussion"},{"t":1286,"title":"Alina Li introduced"},{"t":1297,"title":"new performer modeling"},{"t":1320,"title":"undressing requests"},{"t":1329,"title":"don't-feel-obligated qualifier"},{"t":1391,"title":"name spelling resolved"},{"t":1411,"title":"Shanghai and migration"},{"t":1443,"title":"two months in adult work"},{"t":1450,"title":"private relationship history"},{"t":1464,"title":"grandfather shooting story"},{"t":1500,"title":"school and English"},{"t":1527,"title":"pornography discovery"},{"t":1580,"title":"racialized dating questions"},{"t":1649,"title":"Stacey's preferences questioned"},{"t":1717,"title":"unreleased shirt"},{"t":1743,"title":"crowded family-show framing"},{"t":1777,"title":"Dana DeArmond and Nick Youssef"},{"t":1831,"title":"LAX disruption and Inglewood"},{"t":1867,"title":"car trip to Sacramento"},{"t":1913,"title":"reported seventeen-hundred-dollar ride"},{"t":1958,"title":"airport chronology"},{"t":2021,"title":"comedy-week recap"},{"t":2031,"title":"Bobby exposure anecdotes"},{"t":2051,"title":"Courtney Cummz and Colin Kane"},{"t":2077,"title":"private relationship uncertainty"},{"t":2110,"title":"porn/graffiti/comedy comparison"},{"t":2150,"title":"entertainment relationship hours"},{"t":2173,"title":"merchandise interruption"},{"t":2210,"title":"Asa watercolor shirt"},{"t":2261,"title":"AVN clothing idea"},{"t":2296,"title":"Dana as Spiegler client"},{"t":2332,"title":"Spiegler initially discourages porn"},{"t":2352,"title":"modeling-to-porn assumptions"},{"t":2390,"title":"butthole blanket"},{"t":2410,"title":"Bobby exposure callback"},{"t":2500,"title":"production versus private sex"},{"t":2760,"title":"career and comedy discussion"},{"t":3000,"title":"adult-work labor conditions"},{"t":3300,"title":"Alina's early career"},{"t":3600,"title":"pornography longevity"},{"t":4000,"title":"performer aging and reinvention"},{"t":4178,"title":"body-size career pressure"},{"t":4253,"title":"Tom Hanks weight-change claim"},{"t":4323,"title":"exit-strategy question rejected"},{"t":4395,"title":"retirement patterns"},{"t":4433,"title":"squirting anatomy debate"},{"t":4485,"title":"staged squirting disclosure"},{"t":4530,"title":"private partner tried to speak"},{"t":4565,"title":"travel and hard-sex request"},{"t":4580,"title":"fluid mistaken for squirting"},{"t":4722,"title":"Angelina questioned"},{"t":4773,"title":"ovulation claim"},{"t":4800,"title":"private explicit image"},{"t":4844,"title":"period and infection speculation"},{"t":4875,"title":"yeast-infection reveal"},{"t":4921,"title":"transmission disagreement"},{"t":4965,"title":"Hibiclens and bleach remarks"},{"t":5033,"title":"late-night visit assumptions"},{"t":5123,"title":"Bill returns with Chloe"},{"t":5171,"title":"Poway signing callback"},{"t":5202,"title":"technical-virgin comparison"},{"t":5265,"title":"Endo adult-work pitch"},{"t":5285,"title":"testing and STI claims"},{"t":5310,"title":"forged-test allegation"},{"t":5367,"title":"performing under cameras"},{"t":5391,"title":"scene-duration labor"},{"t":5442,"title":"Harry Kim merchandise"},{"t":5500,"title":"limited all-over print"},{"t":5555,"title":"Spiegler staff discussion"},{"t":5625,"title":"Dana and Nick depart"},{"t":5698,"title":"Asa Loves Dana project"},{"t":5750,"title":"Chloe waits off-mic"},{"t":5806,"title":"censored butthole shirt"},{"t":5880,"title":"live comments and phones"},{"t":5934,"title":"Facebook fisting removal"},{"t":5955,"title":"Stacey story withheld"},{"t":6018,"title":"Chloe enters"},{"t":6054,"title":"ID check repeated"},{"t":6065,"title":"virginity claim examined"},{"t":6128,"title":"nineteen-year-old age stated"},{"t":6145,"title":"private friend mentioned"},{"t":6177,"title":"pornography interest"},{"t":6199,"title":"career curiosity restated"},{"t":6210,"title":"no penetrative masturbation"},{"t":6253,"title":"prior partners stopped"},{"t":6299,"title":"high-school curfew story"},{"t":6324,"title":"second partner stopped"},{"t":6350,"title":"false virgin-body claims"},{"t":6400,"title":"first-partner preference"},{"t":6418,"title":"how she found DVDASA"},{"t":6451,"title":"Armenian Virgin callback"},{"t":6473,"title":"desired outcome asked"},{"t":6540,"title":"prior casting-call email"},{"t":6552,"title":"on-the-fence statement"},{"t":6565,"title":"industry consequences debated"},{"t":6624,"title":"Korean Jesus art object"},{"t":6646,"title":"no-underwear remark"},{"t":6660,"title":"career permanence"},{"t":6687,"title":"future family discussed"},{"t":6763,"title":"Asa's pre-sex curiosity"},{"t":6782,"title":"Asa's age-at-first-sex account"},{"t":7000,"title":"adult-work advice continues"},{"t":7200,"title":"relationships and industry"},{"t":7400,"title":"body and attraction questions"},{"t":7600,"title":"STI and testing claims"},{"t":7800,"title":"group scenario begins"},{"t":8000,"title":"massage fantasy narrated"},{"t":8214,"title":"bodies-glister fantasy"},{"t":8313,"title":"multiple partners proposed"},{"t":8327,"title":"rag-doll phrase"},{"t":8345,"title":"intensity predictions"},{"t":8403,"title":"Asa pulled into scenario"},{"t":8422,"title":"incest debate"},{"t":8501,"title":"attention shifts to Stacey"},{"t":8528,"title":"off-camera boundary"},{"t":8547,"title":"handjob proposal"},{"t":8572,"title":"partial-penetration proposal"},{"t":8604,"title":"same-sex curiosity"},{"t":8632,"title":"Spiegler career assessment"},{"t":8712,"title":"two nineteen-year-olds sexualized"},{"t":8724,"title":"lesbian-experience questions"},{"t":8762,"title":"explicit facial proposal"},{"t":8800,"title":"Endo and Stacey connection"},{"t":8826,"title":"incest normalization jokes"},{"t":8844,"title":"clothed erection discussion"},{"t":8951,"title":"private explicit photograph offered"},{"t":8980,"title":"photo shown to guests"},{"t":9006,"title":"private-video proposal"},{"t":9076,"title":"live-show closing begins"},{"t":9117,"title":"health-podcast joke"},{"t":9153,"title":"doing-their-best shirt"},{"t":9203,"title":"Alice + Olivia fashion launch"},{"t":9263,"title":"hotel-heater tactic"},{"t":9290,"title":"humor and trickery summarized"},{"t":9337,"title":"guest thanks"},{"t":9373,"title":"Alina welcomed to industry"},{"t":9417,"title":"Slink projects plugged"},{"t":9447,"title":"Stacey and Endo teased"},{"t":9501,"title":"Chloe closing advice"},{"t":9513,"title":"do-whatever-you-want correction"},{"t":9584,"title":"no-pressure promise"},{"t":9661,"title":"patience advice"},{"t":9684,"title":"coconut-oil advice"},{"t":9701,"title":"oral-sex pressure"},{"t":9751,"title":"human-horniness conclusion"},{"t":9800,"title":"live-format experiment"},{"t":9833,"title":"guest contact plugs"},{"t":9961,"title":"Chloe asked to promote"},{"t":9970,"title":"Bill contact routing"},{"t":10001,"title":"possible third block"}
+  "speaker_policy": "Episode-level metadata may name David Choe, Asa Akira, Slink Johnson, Mark Spiegler, Alina Li, Dana DeArmond, Nick Youssef, Bill Poon and publicly credited merchandise models. Chloe remains a private first-name-only young adult. Staff, partners, relatives, workers and fans remain private. No line-level names are published without held-out acoustic validation.",
+  "chapters": [
+    {
+      "t": 2,
+      "title": "Part 2 opens"
+    },
+    {
+      "t": 46,
+      "title": "first live-day disorganization"
+    },
+    {
+      "t": 115,
+      "title": "Ustream advertising"
+    },
+    {
+      "t": 155,
+      "title": "merchandise pitch"
+    },
+    {
+      "t": 202,
+      "title": "Bobby's hood-pass outfit"
+    },
+    {
+      "t": 308,
+      "title": "hockey prospect rejected"
+    },
+    {
+      "t": 358,
+      "title": "new Coyotes player"
+    },
+    {
+      "t": 365,
+      "title": "Bobby's hockey schedule"
+    },
+    {
+      "t": 417,
+      "title": "driver collecting young guest"
+    },
+    {
+      "t": 463,
+      "title": "Spiegler introduction begins"
+    },
+    {
+      "t": 475,
+      "title": "adult-awards competitiveness"
+    },
+    {
+      "t": 530,
+      "title": "Spiegler credited by performers"
+    },
+    {
+      "t": 591,
+      "title": "Trapeze Editions"
+    },
+    {
+      "t": 635,
+      "title": "pizza-print models"
+    },
+    {
+      "t": 699,
+      "title": "pizza watercolor editions"
+    },
+    {
+      "t": 721,
+      "title": "November 6 release details"
+    },
+    {
+      "t": 738,
+      "title": "camera-sound joke"
+    },
+    {
+      "t": 779,
+      "title": "extra-pepperoni edition"
+    },
+    {
+      "t": 803,
+      "title": "cheese-slice edition"
+    },
+    {
+      "t": 887,
+      "title": "original-versus-print value"
+    },
+    {
+      "t": 925,
+      "title": "Critter swimwear"
+    },
+    {
+      "t": 984,
+      "title": "Angelina models one-piece"
+    },
+    {
+      "t": 1022,
+      "title": "Stacey Adams arrives"
+    },
+    {
+      "t": 1071,
+      "title": "Spiegler introduction resumes"
+    },
+    {
+      "t": 1131,
+      "title": "ballet and racing biography"
+    },
+    {
+      "t": 1184,
+      "title": "prospective client pressure story"
+    },
+    {
+      "t": 1216,
+      "title": "audition groping account"
+    },
+    {
+      "t": 1259,
+      "title": "professional-boundary discussion"
+    },
+    {
+      "t": 1286,
+      "title": "Alina Li introduced"
+    },
+    {
+      "t": 1297,
+      "title": "new performer modeling"
+    },
+    {
+      "t": 1320,
+      "title": "undressing requests"
+    },
+    {
+      "t": 1329,
+      "title": "don't-feel-obligated qualifier"
+    },
+    {
+      "t": 1391,
+      "title": "name spelling resolved"
+    },
+    {
+      "t": 1411,
+      "title": "Shanghai and migration"
+    },
+    {
+      "t": 1443,
+      "title": "two months in adult work"
+    },
+    {
+      "t": 1450,
+      "title": "private relationship history"
+    },
+    {
+      "t": 1464,
+      "title": "grandfather shooting story"
+    },
+    {
+      "t": 1500,
+      "title": "school and English"
+    },
+    {
+      "t": 1527,
+      "title": "pornography discovery"
+    },
+    {
+      "t": 1580,
+      "title": "racialized dating questions"
+    },
+    {
+      "t": 1649,
+      "title": "Stacey's preferences questioned"
+    },
+    {
+      "t": 1717,
+      "title": "unreleased shirt"
+    },
+    {
+      "t": 1743,
+      "title": "crowded family-show framing"
+    },
+    {
+      "t": 1777,
+      "title": "Dana DeArmond and Nick Youssef"
+    },
+    {
+      "t": 1831,
+      "title": "LAX disruption and Inglewood"
+    },
+    {
+      "t": 1867,
+      "title": "car trip to Sacramento"
+    },
+    {
+      "t": 1913,
+      "title": "reported seventeen-hundred-dollar ride"
+    },
+    {
+      "t": 1958,
+      "title": "airport chronology"
+    },
+    {
+      "t": 2021,
+      "title": "comedy-week recap"
+    },
+    {
+      "t": 2031,
+      "title": "Bobby exposure anecdotes"
+    },
+    {
+      "t": 2051,
+      "title": "Courtney Cummz and Colin Kane"
+    },
+    {
+      "t": 2077,
+      "title": "private relationship uncertainty"
+    },
+    {
+      "t": 2110,
+      "title": "porn/graffiti/comedy comparison"
+    },
+    {
+      "t": 2150,
+      "title": "entertainment relationship hours"
+    },
+    {
+      "t": 2173,
+      "title": "merchandise interruption"
+    },
+    {
+      "t": 2210,
+      "title": "Asa watercolor shirt"
+    },
+    {
+      "t": 2261,
+      "title": "AVN clothing idea"
+    },
+    {
+      "t": 2296,
+      "title": "Dana as Spiegler client"
+    },
+    {
+      "t": 2332,
+      "title": "Spiegler initially discourages porn"
+    },
+    {
+      "t": 2352,
+      "title": "modeling-to-porn assumptions"
+    },
+    {
+      "t": 2390,
+      "title": "butthole blanket"
+    },
+    {
+      "t": 2410,
+      "title": "Bobby exposure callback"
+    },
+    {
+      "t": 2500,
+      "title": "production versus private sex"
+    },
+    {
+      "t": 2760,
+      "title": "career and comedy discussion"
+    },
+    {
+      "t": 3000,
+      "title": "adult-work labor conditions"
+    },
+    {
+      "t": 3300,
+      "title": "Alina's early career"
+    },
+    {
+      "t": 3600,
+      "title": "pornography longevity"
+    },
+    {
+      "t": 4000,
+      "title": "performer aging and reinvention"
+    },
+    {
+      "t": 4178,
+      "title": "body-size career pressure"
+    },
+    {
+      "t": 4253,
+      "title": "Tom Hanks weight-change claim"
+    },
+    {
+      "t": 4323,
+      "title": "exit-strategy question rejected"
+    },
+    {
+      "t": 4395,
+      "title": "retirement patterns"
+    },
+    {
+      "t": 4433,
+      "title": "squirting anatomy debate"
+    },
+    {
+      "t": 4485,
+      "title": "staged squirting disclosure"
+    },
+    {
+      "t": 4530,
+      "title": "private partner tried to speak"
+    },
+    {
+      "t": 4565,
+      "title": "travel and hard-sex request"
+    },
+    {
+      "t": 4580,
+      "title": "fluid mistaken for squirting"
+    },
+    {
+      "t": 4722,
+      "title": "Angelina questioned"
+    },
+    {
+      "t": 4773,
+      "title": "ovulation claim"
+    },
+    {
+      "t": 4800,
+      "title": "private explicit image"
+    },
+    {
+      "t": 4844,
+      "title": "period and infection speculation"
+    },
+    {
+      "t": 4875,
+      "title": "yeast-infection reveal"
+    },
+    {
+      "t": 4921,
+      "title": "transmission disagreement"
+    },
+    {
+      "t": 4965,
+      "title": "Hibiclens and bleach remarks"
+    },
+    {
+      "t": 5033,
+      "title": "late-night visit assumptions"
+    },
+    {
+      "t": 5123,
+      "title": "Bill returns with Chloe"
+    },
+    {
+      "t": 5171,
+      "title": "Poway signing callback"
+    },
+    {
+      "t": 5202,
+      "title": "technical-virgin comparison"
+    },
+    {
+      "t": 5265,
+      "title": "Endo adult-work pitch"
+    },
+    {
+      "t": 5285,
+      "title": "testing and STI claims"
+    },
+    {
+      "t": 5310,
+      "title": "forged-test allegation"
+    },
+    {
+      "t": 5367,
+      "title": "performing under cameras"
+    },
+    {
+      "t": 5391,
+      "title": "scene-duration labor"
+    },
+    {
+      "t": 5442,
+      "title": "Harry Kim merchandise"
+    },
+    {
+      "t": 5500,
+      "title": "limited all-over print"
+    },
+    {
+      "t": 5555,
+      "title": "Spiegler staff discussion"
+    },
+    {
+      "t": 5625,
+      "title": "Dana and Nick depart"
+    },
+    {
+      "t": 5698,
+      "title": "Asa Loves Dana project"
+    },
+    {
+      "t": 5750,
+      "title": "Chloe waits off-mic"
+    },
+    {
+      "t": 5806,
+      "title": "censored butthole shirt"
+    },
+    {
+      "t": 5880,
+      "title": "live comments and phones"
+    },
+    {
+      "t": 5934,
+      "title": "Facebook fisting removal"
+    },
+    {
+      "t": 5955,
+      "title": "Stacey story withheld"
+    },
+    {
+      "t": 6018,
+      "title": "Chloe enters"
+    },
+    {
+      "t": 6054,
+      "title": "ID check repeated"
+    },
+    {
+      "t": 6065,
+      "title": "virginity claim examined"
+    },
+    {
+      "t": 6128,
+      "title": "nineteen-year-old age stated"
+    },
+    {
+      "t": 6145,
+      "title": "private friend mentioned"
+    },
+    {
+      "t": 6177,
+      "title": "pornography interest"
+    },
+    {
+      "t": 6199,
+      "title": "career curiosity restated"
+    },
+    {
+      "t": 6210,
+      "title": "no penetrative masturbation"
+    },
+    {
+      "t": 6253,
+      "title": "prior partners stopped"
+    },
+    {
+      "t": 6299,
+      "title": "high-school curfew story"
+    },
+    {
+      "t": 6324,
+      "title": "second partner stopped"
+    },
+    {
+      "t": 6350,
+      "title": "false virgin-body claims"
+    },
+    {
+      "t": 6400,
+      "title": "first-partner preference"
+    },
+    {
+      "t": 6418,
+      "title": "how she found DVDASA"
+    },
+    {
+      "t": 6451,
+      "title": "Armenian Virgin callback"
+    },
+    {
+      "t": 6473,
+      "title": "desired outcome asked"
+    },
+    {
+      "t": 6540,
+      "title": "prior casting-call email"
+    },
+    {
+      "t": 6552,
+      "title": "on-the-fence statement"
+    },
+    {
+      "t": 6565,
+      "title": "industry consequences debated"
+    },
+    {
+      "t": 6624,
+      "title": "Korean Jesus art object"
+    },
+    {
+      "t": 6646,
+      "title": "no-underwear remark"
+    },
+    {
+      "t": 6660,
+      "title": "career permanence"
+    },
+    {
+      "t": 6687,
+      "title": "future family discussed"
+    },
+    {
+      "t": 6763,
+      "title": "Asa's pre-sex curiosity"
+    },
+    {
+      "t": 6782,
+      "title": "Asa's age-at-first-sex account"
+    },
+    {
+      "t": 7000,
+      "title": "adult-work advice continues"
+    },
+    {
+      "t": 7200,
+      "title": "relationships and industry"
+    },
+    {
+      "t": 7400,
+      "title": "body and attraction questions"
+    },
+    {
+      "t": 7600,
+      "title": "STI and testing claims"
+    },
+    {
+      "t": 7800,
+      "title": "group scenario begins"
+    },
+    {
+      "t": 8000,
+      "title": "massage fantasy narrated"
+    },
+    {
+      "t": 8214,
+      "title": "bodies-glister fantasy"
+    },
+    {
+      "t": 8313,
+      "title": "multiple partners proposed"
+    },
+    {
+      "t": 8327,
+      "title": "rag-doll phrase"
+    },
+    {
+      "t": 8345,
+      "title": "intensity predictions"
+    },
+    {
+      "t": 8403,
+      "title": "Asa pulled into scenario"
+    },
+    {
+      "t": 8422,
+      "title": "incest debate"
+    },
+    {
+      "t": 8501,
+      "title": "attention shifts to Stacey"
+    },
+    {
+      "t": 8528,
+      "title": "off-camera boundary"
+    },
+    {
+      "t": 8547,
+      "title": "handjob proposal"
+    },
+    {
+      "t": 8572,
+      "title": "partial-penetration proposal"
+    },
+    {
+      "t": 8604,
+      "title": "same-sex curiosity"
+    },
+    {
+      "t": 8632,
+      "title": "Spiegler career assessment"
+    },
+    {
+      "t": 8712,
+      "title": "two nineteen-year-olds sexualized"
+    },
+    {
+      "t": 8724,
+      "title": "lesbian-experience questions"
+    },
+    {
+      "t": 8762,
+      "title": "explicit facial proposal"
+    },
+    {
+      "t": 8800,
+      "title": "Endo and Stacey connection"
+    },
+    {
+      "t": 8826,
+      "title": "incest normalization jokes"
+    },
+    {
+      "t": 8844,
+      "title": "clothed erection discussion"
+    },
+    {
+      "t": 8951,
+      "title": "private explicit photograph offered"
+    },
+    {
+      "t": 8980,
+      "title": "photo shown to guests"
+    },
+    {
+      "t": 9006,
+      "title": "private-video proposal"
+    },
+    {
+      "t": 9076,
+      "title": "live-show closing begins"
+    },
+    {
+      "t": 9117,
+      "title": "health-podcast joke"
+    },
+    {
+      "t": 9153,
+      "title": "doing-their-best shirt"
+    },
+    {
+      "t": 9203,
+      "title": "Alice + Olivia fashion launch"
+    },
+    {
+      "t": 9263,
+      "title": "hotel-heater tactic"
+    },
+    {
+      "t": 9290,
+      "title": "humor and trickery summarized"
+    },
+    {
+      "t": 9337,
+      "title": "guest thanks"
+    },
+    {
+      "t": 9373,
+      "title": "Alina welcomed to industry"
+    },
+    {
+      "t": 9417,
+      "title": "Slink projects plugged"
+    },
+    {
+      "t": 9447,
+      "title": "Stacey and Endo teased"
+    },
+    {
+      "t": 9501,
+      "title": "Chloe closing advice"
+    },
+    {
+      "t": 9513,
+      "title": "do-whatever-you-want correction"
+    },
+    {
+      "t": 9584,
+      "title": "no-pressure promise"
+    },
+    {
+      "t": 9661,
+      "title": "patience advice"
+    },
+    {
+      "t": 9684,
+      "title": "coconut-oil advice"
+    },
+    {
+      "t": 9701,
+      "title": "oral-sex pressure"
+    },
+    {
+      "t": 9751,
+      "title": "human-horniness conclusion"
+    },
+    {
+      "t": 9800,
+      "title": "live-format experiment"
+    },
+    {
+      "t": 9833,
+      "title": "guest contact plugs"
+    },
+    {
+      "t": 9961,
+      "title": "Chloe asked to promote"
+    },
+    {
+      "t": 9970,
+      "title": "Bill contact routing"
+    },
+    {
+      "t": 10001,
+      "title": "possible third block"
+    }
   ],
-  "connections":[
-    {"to":"saga1-nov-2nd-1-3-slink-johnson-cousin-endo","note":"Part 2 resumes the same live day, guests and merchandise launch."},
-    {"to":"saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin","note":"Chloe returns in the third surviving block."},
-    {"to":"saga1-episode-067-slink-johnson-cousin-endo-armenian-virgin-and-yum-yum-cha","note":"The Armenian Virgin recording is explicitly teased as the next regular episode."},
-    {"to":"saga1-live-at-the-egyptian-theatre","note":"The young-adult virginity discussion echoes the earlier live audience encounter."},
-    {"to":"November-2-origin","note":"Primary evidence of the controlled live event."},
-    {"to":"Trapeze-Editions","note":"Pizza print editions, dimensions, date and pricing are described."},
-    {"to":"Mark-Spiegler","note":"Professional reputation, recruitment boundaries and agency labor dominate the first half."},
-    {"to":"Alina-Li","note":"Early-career, migration and family recollections appear."},
-    {"to":"Dana-DeArmond","note":"Career, performance and relationship context appears during a guest drop-in."},
-    {"to":"Nick-Youssef","note":"Comedy bookings and LAX-disrupted travel appear."},
-    {"to":"LAX-shooting","note":"Same-day travel disruption is independently recalled by additional participants."},
-    {"to":"adult-industry-labor","note":"Testing, production duration, agencies and career longevity are debated."},
-    {"to":"young-adult-privacy","note":"Chloe's identity and intimate history require composition protection."},
-    {"to":"consent-chronology","note":"Uncertainty, pressure, curiosity and later corrective advice must remain ordered."},
-    {"to":"medical-misinformation","note":"Squirting, infection, cleaning and lubricant claims need corrective context."},
-    {"to":"private-images","note":"Explicit phone images are shown in-room but are not archive assets."},
-    {"to":"merchandise-history","note":"Pizza, Critter, Asa, Harry Kim, butthole and philosophy objects are launched."},
-    {"to":"Thumbs-Up","note":"Harry Kim imagery and travel persona become merchandise."},
-    {"to":"adult-career-choice","note":"Participants dispute the standard exit-strategy framing."},
-    {"to":"race-and-belonging","note":"Race, attraction and labor claims are repeatedly stereotyped and challenged."},
-    {"to":"platform-moderation","note":"Ustream ads and Facebook explicit-content removals shape the live format."},
-    {"to":"privacy-by-composition","note":"Cities, schools, messages, family, travel and sexual history cannot form profiles."},
-    {"to":"speaker-validation","note":"Known room membership does not validate line-level attribution."},
-    {"to":"ui-evidence-pattern","note":"The reader needs chronological consent and claim/correction presentation."},
-    {"to":"David-Choe-fashion","note":"The November 20 Alice + Olivia collaboration is previewed."}
+  "connections": [
+    {
+      "to": "saga1-nov-2nd-1-3-slink-johnson-cousin-endo",
+      "note": "Part 2 resumes the same live day, guests and merchandise launch."
+    },
+    {
+      "to": "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin",
+      "note": "Chloe returns in the third surviving block."
+    },
+    {
+      "to": "saga1-episode-067-slink-johnson-cousin-endo-armenian-virgin-and-yum-yum-cha",
+      "note": "The Armenian Virgin recording is explicitly teased as the next regular episode."
+    },
+    {
+      "to": "saga1-live-at-the-egyptian-theatre",
+      "note": "The young-adult virginity discussion echoes the earlier live audience encounter."
+    },
+    {
+      "to": "November-2-origin",
+      "note": "Primary evidence of the controlled live event."
+    },
+    {
+      "to": "Trapeze-Editions",
+      "note": "Pizza print editions, dimensions, date and pricing are described."
+    },
+    {
+      "to": "Mark-Spiegler",
+      "note": "Professional reputation, recruitment boundaries and agency labor dominate the first half."
+    },
+    {
+      "to": "Alina-Li",
+      "note": "Early-career, migration and family recollections appear."
+    },
+    {
+      "to": "Dana-DeArmond",
+      "note": "Career, performance and relationship context appears during a guest drop-in."
+    },
+    {
+      "to": "Nick-Youssef",
+      "note": "Comedy bookings and LAX-disrupted travel appear."
+    },
+    {
+      "to": "LAX-shooting",
+      "note": "Same-day travel disruption is independently recalled by additional participants."
+    },
+    {
+      "to": "adult-industry-labor",
+      "note": "Testing, production duration, agencies and career longevity are debated."
+    },
+    {
+      "to": "young-adult-privacy",
+      "note": "Chloe's identity and intimate history require composition protection."
+    },
+    {
+      "to": "consent-chronology",
+      "note": "Uncertainty, pressure, curiosity and later corrective advice must remain ordered."
+    },
+    {
+      "to": "medical-misinformation",
+      "note": "Squirting, infection, cleaning and lubricant claims need corrective context."
+    },
+    {
+      "to": "private-images",
+      "note": "Explicit phone images are shown in-room but are not archive assets."
+    },
+    {
+      "to": "merchandise-history",
+      "note": "Pizza, Critter, Asa, Harry Kim, butthole and philosophy objects are launched."
+    },
+    {
+      "to": "Thumbs-Up",
+      "note": "Harry Kim imagery and travel persona become merchandise."
+    },
+    {
+      "to": "adult-career-choice",
+      "note": "Participants dispute the standard exit-strategy framing."
+    },
+    {
+      "to": "race-and-belonging",
+      "note": "Race, attraction and labor claims are repeatedly stereotyped and challenged."
+    },
+    {
+      "to": "platform-moderation",
+      "note": "Ustream ads and Facebook explicit-content removals shape the live format."
+    },
+    {
+      "to": "privacy-by-composition",
+      "note": "Cities, schools, messages, family, travel and sexual history cannot form profiles."
+    },
+    {
+      "to": "speaker-validation",
+      "note": "Known room membership does not validate line-level attribution."
+    },
+    {
+      "to": "ui-evidence-pattern",
+      "note": "The reader needs chronological consent and claim/correction presentation."
+    },
+    {
+      "to": "David-Choe-fashion",
+      "note": "The November 20 Alice + Olivia collaboration is previewed."
+    }
   ],
-  "content_warnings":["explicit sexual discussion","young-adult sexualization","sustained sexual pressure","virginity interrogation","pornography recruitment","private explicit images","nonconsensual touching accounts","racial slurs and stereotypes","homophobic slurs","incest jokes","rape jokes and metaphors","body objectification","body shaming","sex work","STI allegations","medical misinformation","unsafe cleaning advice","unsafe lubricant advice","workplace and agency details","private relationship disclosures","family trauma","location and contact disclosure","covert photography","animal-sex references","drug and alcohol references"],
-  "publication_restrictions":[
-    {"t":308,"rule":"protect rejected hockey prospect and do not amplify contact/location details"},{"t":417,"rule":"do not identify or solicit the young adult being transported"},{"t":603,"rule":"preserve art provenance without turning URLs into a contact directory"},{"t":1184,"rule":"protect prospective client identity and keep alleged conduct attributed"},{"t":1216,"rule":"keep audition-groping account attributed; arousal does not erase surprise"},{"t":1320,"rule":"retain pressure and don't-feel-obligated qualifier together"},{"t":1450,"rule":"protect Alina's private former partner and family"},{"t":1831,"rule":"verify LAX/travel facts before using as external history"},{"t":2077,"rule":"do not publish relationship status the speaker says may not be public"},{"t":4485,"rule":"do not present production technique as universal anatomy evidence"},{"t":4530,"rule":"a partner beginning to disclose something requires pausing, not inference"},{"t":4800,"rule":"do not retain, reproduce or identify subjects of private explicit phone images"},{"t":4875,"rule":"protect private partner and reject infection discussion as diagnosis"},{"t":4965,"rule":"do not operationalize bleach or Hibiclens genital cleaning"},{"t":5310,"rule":"do not identify worker from unverified forged-STI-test allegation"},{"t":5555,"rule":"protect private employee financial/property/work details"},{"t":6054,"rule":"retain adult-ID check chronology without publishing identifying document data"},{"t":6128,"rule":"protect Chloe; do not compose city, signing, friend, messages, body and sexual history"},{"t":6299,"rule":"do not identify school, classmates or teenage partners"},{"t":6540,"rule":"prior private email is not permission to publish its address or full contents"},{"t":6552,"rule":"retain on-the-fence statement beside later curiosity and proposals"},{"t":8313,"rule":"fantasy narration and group enthusiasm do not authorize acts or images"},{"t":8951,"rule":"private explicit photograph is not a public archive object"},{"t":9584,"rule":"retain explicit no-pressure instruction and do-whatever-you-want correction"},{"t":9684,"rule":"correct coconut oil advice: oil can weaken latex condoms"}
-  ]
+  "content_warnings": [
+    "explicit sexual discussion",
+    "young-adult sexualization",
+    "sustained sexual pressure",
+    "virginity interrogation",
+    "pornography recruitment",
+    "private explicit images",
+    "nonconsensual touching accounts",
+    "racial slurs and stereotypes",
+    "homophobic slurs",
+    "incest jokes",
+    "rape jokes and metaphors",
+    "body objectification",
+    "body shaming",
+    "sex work",
+    "STI allegations",
+    "medical misinformation",
+    "unsafe cleaning advice",
+    "unsafe lubricant advice",
+    "workplace and agency details",
+    "private relationship disclosures",
+    "family trauma",
+    "location and contact disclosure",
+    "covert photography",
+    "animal-sex references",
+    "drug and alcohol references"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 308,
+      "rule": "protect rejected hockey prospect and do not amplify contact/location details"
+    },
+    {
+      "t": 417,
+      "rule": "do not identify or solicit the young adult being transported"
+    },
+    {
+      "t": 603,
+      "rule": "preserve art provenance without turning URLs into a contact directory"
+    },
+    {
+      "t": 1184,
+      "rule": "protect prospective client identity and keep alleged conduct attributed"
+    },
+    {
+      "t": 1216,
+      "rule": "keep audition-groping account attributed; arousal does not erase surprise"
+    },
+    {
+      "t": 1320,
+      "rule": "retain pressure and don't-feel-obligated qualifier together"
+    },
+    {
+      "t": 1450,
+      "rule": "protect Alina's private former partner and family"
+    },
+    {
+      "t": 1831,
+      "rule": "verify LAX/travel facts before using as external history"
+    },
+    {
+      "t": 2077,
+      "rule": "do not publish relationship status the speaker says may not be public"
+    },
+    {
+      "t": 4485,
+      "rule": "do not present production technique as universal anatomy evidence"
+    },
+    {
+      "t": 4530,
+      "rule": "a partner beginning to disclose something requires pausing, not inference"
+    },
+    {
+      "t": 4800,
+      "rule": "do not retain, reproduce or identify subjects of private explicit phone images"
+    },
+    {
+      "t": 4875,
+      "rule": "protect private partner and reject infection discussion as diagnosis"
+    },
+    {
+      "t": 4965,
+      "rule": "do not operationalize bleach or Hibiclens genital cleaning"
+    },
+    {
+      "t": 5310,
+      "rule": "do not identify worker from unverified forged-STI-test allegation"
+    },
+    {
+      "t": 5555,
+      "rule": "protect private employee financial/property/work details"
+    },
+    {
+      "t": 6054,
+      "rule": "retain adult-ID check chronology without publishing identifying document data"
+    },
+    {
+      "t": 6128,
+      "rule": "protect Chloe; do not compose city, signing, friend, messages, body and sexual history"
+    },
+    {
+      "t": 6299,
+      "rule": "do not identify school, classmates or teenage partners"
+    },
+    {
+      "t": 6540,
+      "rule": "prior private email is not permission to publish its address or full contents"
+    },
+    {
+      "t": 6552,
+      "rule": "retain on-the-fence statement beside later curiosity and proposals"
+    },
+    {
+      "t": 8313,
+      "rule": "fantasy narration and group enthusiasm do not authorize acts or images"
+    },
+    {
+      "t": 8951,
+      "rule": "private explicit photograph is not a public archive object"
+    },
+    {
+      "t": 9584,
+      "rule": "retain explicit no-pressure instruction and do-whatever-you-want correction"
+    },
+    {
+      "t": 9684,
+      "rule": "correct coconut oil advice: oil can weaken latex condoms"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Mark Spiegler",
+    "Harry Kim",
+    "Critter"
+  ],
+  "places": [
+    "LAX"
+  ],
+  "works": [
+    "November 2",
+    "Trapeze",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "The second November 2 live block resumes immediately after Part 1 and combines an art-print launch, adult-industry conversation, guest drop-ins and a long interview with a nineteen-year-old private fan called Chloe.",
+  "description_source": "Opening of the human-reviewed summary."
 }

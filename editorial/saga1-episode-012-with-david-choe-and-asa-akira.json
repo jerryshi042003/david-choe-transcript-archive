@@ -1,67 +1,250 @@
 {
   "summary": "Episode Twelve is a four-person DVDASA episode with David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba. It opens by discussing little people through derogatory language, a person nicknamed Five Cent, and the cast's continuing plan to build a cuckold film around Bobby, Veruca James, and Asa. A detour covers non-consensual drugging, including Yoshi being unknowingly given a large amount of LSD in Japan, before David discusses his mother's church community, a second online psychopathy screen, violent thoughts as artistic material, and the gap between what he paints and what his family wants to see. The proposed movie then expands through drugging or deceiving parents, 2257 releases, The Brown Bunny, Christian Slater, From Dusk Till Dawn, celebrity-family lookalikes, Brad Pitt and Angelina Jolie's adopted children, racial performance, incest fantasy, a little-person intruder, and eventually a simulated child-sex scenario. In the middle, the room pauses to debate derogatory naming, tokenistic use of little people in art, David's own earlier production using performers dressed as pigeons, and Game of Thrones as a contrast in which stature is part of a character rather than the entire joke. A separate and deeply problematic discussion considers pedophilia, attraction versus offending, punishment, castration, animated abuse material, and whether compassion for a non-offending person can coexist with protecting children. The role-play resumes and escalates until Asa and others reject attachment to the project. Trivia With Bobby covers Game of Thrones, 1990s television, and Coming to America before the unresolved lobe tiebreaker and outro.",
   "chapters": [
-    {"t": 20, "title": "Bobby, Asa, and language for little people"},
-    {"t": 130, "title": "Five Cent and the proposed cuckold film"},
-    {"t": 180, "title": "Bobby, Veruca James, and Asa enter the script"},
-    {"t": 280, "title": "Pot brownies, parents, and non-consensual drugging"},
-    {"t": 370, "title": "Yoshi is unknowingly dosed with LSD in Japan"},
-    {"t": 450, "title": "The ancestral room and a long involuntary trip"},
-    {"t": 540, "title": "Would anyone drug their parents?"},
-    {"t": 620, "title": "David's mother, church guests, and the Beverly Hills show"},
-    {"t": 650, "title": "A second online psychopathy screen"},
-    {"t": 700, "title": "Violent thoughts, Grand Theft Auto, and art as containment"},
-    {"t": 800, "title": "Korean judgment and what parents can tolerate"},
-    {"t": 900, "title": "Podcast vulgarity versus gallery translation"},
-    {"t": 1030, "title": "Parents, sexuality, and the Hitachi Magic Wand"},
-    {"t": 1080, "title": "Childhood trespass in a friend's mother's bedroom"},
-    {"t": 1150, "title": "The massager becomes an explicit production tool"},
-    {"t": 1200, "title": "Would Bobby's parents play themselves?"},
-    {"t": 1230, "title": "The Brown Bunny and a ninety-percent setup"},
-    {"t": 1270, "title": "2257, releases, deception, and consent"},
-    {"t": 1320, "title": "The cast argues over drugging versus filming parents"},
-    {"t": 1420, "title": "Gleaming the Cube and adopted Asian sons"},
-    {"t": 1450, "title": "From Dusk Till Dawn and the authenticity argument"},
-    {"t": 1520, "title": "Growing Pains, Diff'rent Strokes, and adoptive casting"},
-    {"t": 1580, "title": "Brad Pitt, Angelina Jolie, Seal, and Heidi Klum"},
-    {"t": 1620, "title": "Pax, Maddox, Suri, and the celebrity-family parody"},
-    {"t": 1680, "title": "Zahara, blackface, and adult-film parody"},
-    {"t": 1730, "title": "George Clooney, Matt Damon, and This Ain't Brangelina"},
-    {"t": 1780, "title": "Adoptive-sibling incest enters the fictional pitch"},
-    {"t": 1880, "title": "Celebrity-family intimacy becomes pornographic material"},
-    {"t": 1920, "title": "The intruder: transgender or little person?"},
-    {"t": 2040, "title": "Oriental, midget, and how labels become derogatory"},
-    {"t": 2140, "title": "Tokenism: using little people as instant surrealism"},
-    {"t": 2200, "title": "Meeting performers rather than naming a category"},
-    {"t": 2280, "title": "Lisa Ling, pity, beauty, and objectification"},
-    {"t": 2340, "title": "Childlike appearance and the pedophilia boundary"},
-    {"t": 2400, "title": "Non-offending attraction, punishment, and protection"},
-    {"t": 2460, "title": "Chemical castration, offending, and moral panic"},
-    {"t": 2480, "title": "Internet pornography as substitution"},
-    {"t": 2530, "title": "Compassion does not erase danger"},
-    {"t": 2580, "title": "Origins, ticking-time-bomb claims, and The Walking Dead"},
-    {"t": 2620, "title": "Animated material and whether a victimless substitute exists"},
-    {"t": 2640, "title": "Age, appearance, and a sensitive autobiographical claim"},
-    {"t": 2700, "title": "Attraction, action, and refusing collective execution"},
-    {"t": 2770, "title": "David's earlier pidgets production"},
-    {"t": 2810, "title": "An artist's pass does not remove exploitation"},
-    {"t": 2850, "title": "Game of Thrones and character beyond stature"},
-    {"t": 2900, "title": "The fictional little-person intruder returns"},
-    {"t": 3010, "title": "Sudan, adoption, a diaper, and escalating degradation"},
-    {"t": 3080, "title": "The pitch becomes simulated child abuse"},
-    {"t": 3150, "title": "The panel keeps adding roles while participants resist"},
-    {"t": 3240, "title": "AsaAkira.com, motion capture, and the CGI proposal"},
-    {"t": 3290, "title": "Consent objections and the proposed ending"},
-    {"t": 3350, "title": "Hockey, humiliation, and the pitch collapses"},
-    {"t": 3420, "title": "Asa rejects co-writing and attachment"},
-    {"t": 3440, "title": "Trivia With Bobby: Game of Thrones"},
-    {"t": 3500, "title": "Viserys, Khal Drogo, Joffrey, and Hand of the King"},
-    {"t": 3560, "title": "The manager warns the episode may never air"},
-    {"t": 3620, "title": "Trivia: Boy Meets World and NYPD Blue"},
-    {"t": 3680, "title": "Home Improvement and Lois & Clark"},
-    {"t": 3730, "title": "Trivia: Coming to America"},
-    {"t": 3820, "title": "Prince Akeem and an unresolved lobe tiebreaker"},
-    {"t": 3850, "title": "First show after the chips and the outro"}
+    {
+      "t": 20,
+      "title": "Bobby, Asa, and language for little people"
+    },
+    {
+      "t": 130,
+      "title": "Five Cent and the proposed cuckold film"
+    },
+    {
+      "t": 180,
+      "title": "Bobby, Veruca James, and Asa enter the script"
+    },
+    {
+      "t": 280,
+      "title": "Pot brownies, parents, and non-consensual drugging"
+    },
+    {
+      "t": 370,
+      "title": "Yoshi is unknowingly dosed with LSD in Japan"
+    },
+    {
+      "t": 450,
+      "title": "The ancestral room and a long involuntary trip"
+    },
+    {
+      "t": 540,
+      "title": "Would anyone drug their parents?"
+    },
+    {
+      "t": 620,
+      "title": "David's mother, church guests, and the Beverly Hills show"
+    },
+    {
+      "t": 650,
+      "title": "A second online psychopathy screen"
+    },
+    {
+      "t": 700,
+      "title": "Violent thoughts, Grand Theft Auto, and art as containment"
+    },
+    {
+      "t": 800,
+      "title": "Korean judgment and what parents can tolerate"
+    },
+    {
+      "t": 900,
+      "title": "Podcast vulgarity versus gallery translation"
+    },
+    {
+      "t": 1030,
+      "title": "Parents, sexuality, and the Hitachi Magic Wand"
+    },
+    {
+      "t": 1080,
+      "title": "Childhood trespass in a friend's mother's bedroom"
+    },
+    {
+      "t": 1150,
+      "title": "The massager becomes an explicit production tool"
+    },
+    {
+      "t": 1200,
+      "title": "Would Bobby's parents play themselves?"
+    },
+    {
+      "t": 1230,
+      "title": "The Brown Bunny and a ninety-percent setup"
+    },
+    {
+      "t": 1270,
+      "title": "2257, releases, deception, and consent"
+    },
+    {
+      "t": 1320,
+      "title": "The cast argues over drugging versus filming parents"
+    },
+    {
+      "t": 1420,
+      "title": "Gleaming the Cube and adopted Asian sons"
+    },
+    {
+      "t": 1450,
+      "title": "From Dusk Till Dawn and the authenticity argument"
+    },
+    {
+      "t": 1520,
+      "title": "Growing Pains, Diff'rent Strokes, and adoptive casting"
+    },
+    {
+      "t": 1580,
+      "title": "Brad Pitt, Angelina Jolie, Seal, and Heidi Klum"
+    },
+    {
+      "t": 1620,
+      "title": "Pax, Maddox, Suri, and the celebrity-family parody"
+    },
+    {
+      "t": 1680,
+      "title": "Zahara, blackface, and adult-film parody"
+    },
+    {
+      "t": 1730,
+      "title": "George Clooney, Matt Damon, and This Ain't Brangelina"
+    },
+    {
+      "t": 1780,
+      "title": "Adoptive-sibling incest enters the fictional pitch"
+    },
+    {
+      "t": 1880,
+      "title": "Celebrity-family intimacy becomes pornographic material"
+    },
+    {
+      "t": 1920,
+      "title": "The intruder: transgender or little person?"
+    },
+    {
+      "t": 2040,
+      "title": "Oriental, midget, and how labels become derogatory"
+    },
+    {
+      "t": 2140,
+      "title": "Tokenism: using little people as instant surrealism"
+    },
+    {
+      "t": 2200,
+      "title": "Meeting performers rather than naming a category"
+    },
+    {
+      "t": 2280,
+      "title": "Lisa Ling, pity, beauty, and objectification"
+    },
+    {
+      "t": 2340,
+      "title": "Childlike appearance and the pedophilia boundary"
+    },
+    {
+      "t": 2400,
+      "title": "Non-offending attraction, punishment, and protection"
+    },
+    {
+      "t": 2460,
+      "title": "Chemical castration, offending, and moral panic"
+    },
+    {
+      "t": 2480,
+      "title": "Internet pornography as substitution"
+    },
+    {
+      "t": 2530,
+      "title": "Compassion does not erase danger"
+    },
+    {
+      "t": 2580,
+      "title": "Origins, ticking-time-bomb claims, and The Walking Dead"
+    },
+    {
+      "t": 2620,
+      "title": "Animated material and whether a victimless substitute exists"
+    },
+    {
+      "t": 2640,
+      "title": "Age, appearance, and a sensitive autobiographical claim"
+    },
+    {
+      "t": 2700,
+      "title": "Attraction, action, and refusing collective execution"
+    },
+    {
+      "t": 2770,
+      "title": "David's earlier pidgets production"
+    },
+    {
+      "t": 2810,
+      "title": "An artist's pass does not remove exploitation"
+    },
+    {
+      "t": 2850,
+      "title": "Game of Thrones and character beyond stature"
+    },
+    {
+      "t": 2900,
+      "title": "The fictional little-person intruder returns"
+    },
+    {
+      "t": 3010,
+      "title": "Sudan, adoption, a diaper, and escalating degradation"
+    },
+    {
+      "t": 3080,
+      "title": "The pitch becomes simulated child abuse"
+    },
+    {
+      "t": 3150,
+      "title": "The panel keeps adding roles while participants resist"
+    },
+    {
+      "t": 3240,
+      "title": "AsaAkira.com, motion capture, and the CGI proposal"
+    },
+    {
+      "t": 3290,
+      "title": "Consent objections and the proposed ending"
+    },
+    {
+      "t": 3350,
+      "title": "Hockey, humiliation, and the pitch collapses"
+    },
+    {
+      "t": 3420,
+      "title": "Asa rejects co-writing and attachment"
+    },
+    {
+      "t": 3440,
+      "title": "Trivia With Bobby: Game of Thrones"
+    },
+    {
+      "t": 3500,
+      "title": "Viserys, Khal Drogo, Joffrey, and Hand of the King"
+    },
+    {
+      "t": 3560,
+      "title": "The manager warns the episode may never air"
+    },
+    {
+      "t": 3620,
+      "title": "Trivia: Boy Meets World and NYPD Blue"
+    },
+    {
+      "t": 3680,
+      "title": "Home Improvement and Lois & Clark"
+    },
+    {
+      "t": 3730,
+      "title": "Trivia: Coming to America"
+    },
+    {
+      "t": 3820,
+      "title": "Prince Akeem and an unresolved lobe tiebreaker"
+    },
+    {
+      "t": 3850,
+      "title": "First show after the chips and the outro"
+    }
   ],
   "people": [
     "David Choe",
@@ -175,5 +358,7 @@
     "correction_fixture": "episode-012-correction-fixture.json",
     "content_note": "The episode contains sustained derogatory language about little people, racial and transphobic slurs, incest fantasy, simulated child sexual abuse, pedophilia discussion, threats of killing and castration, non-consensual drugging, deception about releases, sexual material involving celebrity-family stand-ins, childhood sexual behavior, and exploitation framed as comedy or art. Editorial summaries do not endorse the proposals, diagnose participants, or identify private people."
   },
-  "note": "Chapter titles and connections are editorial. The existing cleaner is accepted; nineteen correction records should be baked into derived text. Raw slurs remain in the immutable source layer while neutral terms support editorial retrieval. Exact quotation and speaker attribution require audio validation."
+  "note": "Chapter titles and connections are editorial. The existing cleaner is accepted; nineteen correction records should be baked into derived text. Raw slurs remain in the immutable source layer while neutral terms support editorial retrieval. Exact quotation and speaker attribution require audio validation.",
+  "description": "Episode Twelve is a four-person DVDASA episode with David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba.",
+  "description_source": "Opening of the human-reviewed summary."
 }

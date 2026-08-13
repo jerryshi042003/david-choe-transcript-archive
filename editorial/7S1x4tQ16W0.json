@@ -3,118 +3,540 @@
   "title": "Dirty Hands: The Art & Crimes of David Choe UnOfficial Trailer",
   "reviewed_on": "2026-08-01",
   "summary": "A 2:31 unofficial caption edition of the same Dirty Hands trailer represented by official upload aJME3ZTtJBE. It omits the official cut’s opening production cues and shifts most shared speech roughly 4–5 seconds earlier. Its captions improve two lexical failures in the official edition—graffiti instead of “Wikipedia,” and funny instead of “Muny”—while adding a stray unresolved “BL” and duplicating “got.” Content remains the same montage: spray-painting/property destruction; student/style, wall, self-made, shirt-sales and bad-boy praise; Japan arrest/three months jail; private relationship rupture; Bible/prison/illegality reflection. It is one work with two source editions, not independent corroboration. Zero named turns and enrollment windows ship.",
-  "quality": {"raw_segments": 55, "clean_segments": 55, "raw_words_approx": 388, "clean_words_approx": 388, "duration_seconds": 151, "accepted_context_decisions": 55, "chapters": 40, "connections": 24, "content_warnings": 12, "identity_windows": 0, "named_turns": 0, "publisher_labeled_speakers": 0, "cleaning_edits": 5, "cleaning_net_word_delta": 0, "public_restriction_spans": 35},
-  "edition_group": {"work_id": "dirty-hands-official-trailer", "relationship": "sibling caption/upload edition", "preferred_reader_source": "aJME3ZTtJBE", "sibling_sources": ["aJME3ZTtJBE", "7S1x4tQ16W0"], "independent_corroboration": false, "lexical_contributions": [{"this_t": 9.24, "sibling_t": 14.719, "repair": "Wikipedia → graffiti"}, {"this_t": 28.96, "sibling_t": 28.96, "repair": "Muny → funny"}]},
-  "speaker_policy": {"status": "same unresolved trailer montage as official sibling; no new speaker evidence", "reason": "Shifted/re-captioned duplicate audio is not independent identity evidence. Stray BL, role, title and adjacency cannot identify speakers."},
-  "people": ["David Choe (title/documentary subject)", "unidentified testimonial voices", "unidentified autobiographical voice", "private girlfriend (unnamed, narrator attribution only)"],
-  "places": ["Japan (storyteller claim)", "unidentified airport/jail/cell", "unidentified wall/site"],
-  "works": ["Dirty Hands: The Art and Crimes of David Choe", "dirty-hands-official-trailer edition group", "unidentified wall painting", "Bible (prison copy)"],
-  "themes": ["caption editions", "cross-edition repair", "spray painting and vandalism", "promotional praise", "Japan arrest and jail", "private relationship rupture", "Bible/prison reflection", "duplicate-source grouping"],
+  "quality": {
+    "raw_segments": 55,
+    "clean_segments": 55,
+    "raw_words_approx": 388,
+    "clean_words_approx": 388,
+    "duration_seconds": 151,
+    "accepted_context_decisions": 55,
+    "chapters": 40,
+    "connections": 24,
+    "content_warnings": 12,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 5,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 35
+  },
+  "edition_group": {
+    "work_id": "dirty-hands-official-trailer",
+    "relationship": "sibling caption/upload edition",
+    "preferred_reader_source": "aJME3ZTtJBE",
+    "sibling_sources": [
+      "aJME3ZTtJBE",
+      "7S1x4tQ16W0"
+    ],
+    "independent_corroboration": false,
+    "lexical_contributions": [
+      {
+        "this_t": 9.24,
+        "sibling_t": 14.719,
+        "repair": "Wikipedia → graffiti"
+      },
+      {
+        "this_t": 28.96,
+        "sibling_t": 28.96,
+        "repair": "Muny → funny"
+      }
+    ]
+  },
+  "speaker_policy": {
+    "status": "same unresolved trailer montage as official sibling; no new speaker evidence",
+    "reason": "Shifted/re-captioned duplicate audio is not independent identity evidence. Stray BL, role, title and adjacency cannot identify speakers."
+  },
+  "people": [
+    "David Choe (title/documentary subject)",
+    "unidentified testimonial voices",
+    "unidentified autobiographical voice",
+    "private girlfriend (unnamed, narrator attribution only)"
+  ],
+  "places": [
+    "Japan (storyteller claim)",
+    "unidentified airport/jail/cell",
+    "unidentified wall/site"
+  ],
+  "works": [
+    "Dirty Hands: The Art and Crimes of David Choe",
+    "dirty-hands-official-trailer edition group",
+    "unidentified wall painting",
+    "Bible (prison copy)"
+  ],
+  "themes": [
+    "caption editions",
+    "cross-edition repair",
+    "spray painting and vandalism",
+    "promotional praise",
+    "Japan arrest and jail",
+    "private relationship rupture",
+    "Bible/prison reflection",
+    "duplicate-source grouping"
+  ],
   "chapters": [
-    {"t": 7.52, "title": "spray-painting opening"},
-    {"t": 9.24, "title": "graffiti cross-edition repair"},
-    {"t": 11.44, "title": "destroying public property"},
-    {"t": 14.96, "title": "censored destruction object"},
-    {"t": 17.199, "title": "censored making object"},
-    {"t": 19.48, "title": "music boundary"},
-    {"t": 28.96, "title": "funny cross-edition repair"},
-    {"t": 42.039, "title": "stray BL and student testimonial"},
-    {"t": 46.96, "title": "little preliminary work"},
-    {"t": 50.96, "title": "dirty style"},
-    {"t": 53.84, "title": "wall testimonial begins"},
-    {"t": 56.16, "title": "70–80-foot estimate"},
-    {"t": 59.16, "title": "beautiful treatment"},
-    {"t": 61.96, "title": "nothing handed to him"},
-    {"t": 65.96, "title": "shirt-sales testimonial"},
-    {"t": 69.64, "title": "relatability claim"},
-    {"t": 72.119, "title": "bad-boy genius"},
-    {"t": 74.68, "title": "autobiographical voice enters"},
-    {"t": 77.04, "title": "taking enjoyment to extremes"},
-    {"t": 78.799, "title": "frequent travel"},
-    {"t": 82.28, "title": "returning to Japan"},
-    {"t": 86.119, "title": "airport hesitation"},
-    {"t": 87.759, "title": "boarding and duplicated got"},
-    {"t": 90.119, "title": "arrest within 24 hours"},
-    {"t": 91.92, "title": "three months in jail"},
-    {"t": 94.32, "title": "dark time"},
-    {"t": 96.72, "title": "girlfriend’s righteous-life contrast"},
-    {"t": 99.36, "title": "new home and damaged verb"},
-    {"t": 103.52, "title": "ending in a cell"},
-    {"t": 105.56, "title": "lifetime reckoning"},
-    {"t": 109.399, "title": "unlearning a whole life"},
-    {"t": 113.439, "title": "time apart"},
-    {"t": 117.6, "title": "liar judgment and relationship over"},
-    {"t": 123.28, "title": "prison changes perspective"},
-    {"t": 127.399, "title": "Bible in prison"},
-    {"t": 128.879, "title": "copying verses"},
-    {"t": 131.36, "title": "identity and belief questions"},
-    {"t": 137.08, "title": "every aspect called illegal"},
-    {"t": 139.72, "title": "cannot continue"},
-    {"t": 142.62, "title": "music-split ending"}
+    {
+      "t": 7.52,
+      "title": "spray-painting opening"
+    },
+    {
+      "t": 9.24,
+      "title": "graffiti cross-edition repair"
+    },
+    {
+      "t": 11.44,
+      "title": "destroying public property"
+    },
+    {
+      "t": 14.96,
+      "title": "censored destruction object"
+    },
+    {
+      "t": 17.199,
+      "title": "censored making object"
+    },
+    {
+      "t": 19.48,
+      "title": "music boundary"
+    },
+    {
+      "t": 28.96,
+      "title": "funny cross-edition repair"
+    },
+    {
+      "t": 42.039,
+      "title": "stray BL and student testimonial"
+    },
+    {
+      "t": 46.96,
+      "title": "little preliminary work"
+    },
+    {
+      "t": 50.96,
+      "title": "dirty style"
+    },
+    {
+      "t": 53.84,
+      "title": "wall testimonial begins"
+    },
+    {
+      "t": 56.16,
+      "title": "70–80-foot estimate"
+    },
+    {
+      "t": 59.16,
+      "title": "beautiful treatment"
+    },
+    {
+      "t": 61.96,
+      "title": "nothing handed to him"
+    },
+    {
+      "t": 65.96,
+      "title": "shirt-sales testimonial"
+    },
+    {
+      "t": 69.64,
+      "title": "relatability claim"
+    },
+    {
+      "t": 72.119,
+      "title": "bad-boy genius"
+    },
+    {
+      "t": 74.68,
+      "title": "autobiographical voice enters"
+    },
+    {
+      "t": 77.04,
+      "title": "taking enjoyment to extremes"
+    },
+    {
+      "t": 78.799,
+      "title": "frequent travel"
+    },
+    {
+      "t": 82.28,
+      "title": "returning to Japan"
+    },
+    {
+      "t": 86.119,
+      "title": "airport hesitation"
+    },
+    {
+      "t": 87.759,
+      "title": "boarding and duplicated got"
+    },
+    {
+      "t": 90.119,
+      "title": "arrest within 24 hours"
+    },
+    {
+      "t": 91.92,
+      "title": "three months in jail"
+    },
+    {
+      "t": 94.32,
+      "title": "dark time"
+    },
+    {
+      "t": 96.72,
+      "title": "girlfriend’s righteous-life contrast"
+    },
+    {
+      "t": 99.36,
+      "title": "new home and damaged verb"
+    },
+    {
+      "t": 103.52,
+      "title": "ending in a cell"
+    },
+    {
+      "t": 105.56,
+      "title": "lifetime reckoning"
+    },
+    {
+      "t": 109.399,
+      "title": "unlearning a whole life"
+    },
+    {
+      "t": 113.439,
+      "title": "time apart"
+    },
+    {
+      "t": 117.6,
+      "title": "liar judgment and relationship over"
+    },
+    {
+      "t": 123.28,
+      "title": "prison changes perspective"
+    },
+    {
+      "t": 127.399,
+      "title": "Bible in prison"
+    },
+    {
+      "t": 128.879,
+      "title": "copying verses"
+    },
+    {
+      "t": 131.36,
+      "title": "identity and belief questions"
+    },
+    {
+      "t": 137.08,
+      "title": "every aspect called illegal"
+    },
+    {
+      "t": 139.72,
+      "title": "cannot continue"
+    },
+    {
+      "t": 142.62,
+      "title": "music-split ending"
+    }
   ],
   "connections": [
-    {"t": 7.52, "to": "aJME3ZTtJBE", "relationship": "Shared trailer speech begins without the official edition’s production cues."},
-    {"t": 9.24, "to": "cross-edition correction", "relationship": "Clear graffiti token repairs official sibling’s Wikipedia error."},
-    {"t": 13.2, "to": "cross-edition completeness", "relationship": "This edition supplies the complete ‘everywhere’ sentence clipped in the official captions."},
-    {"t": 19.48, "to": "montage alignment", "relationship": "Music boundary aligns with the official cut at a shifted time."},
-    {"t": 28.96, "to": "cross-edition correction", "relationship": "Clear funny token repairs official sibling’s Muny error."},
-    {"t": 42.039, "to": "edition-specific noise", "relationship": "Stray BL is unique to this caption edition and cannot identify a speaker."},
-    {"t": 44.84, "to": "duplicate testimony", "relationship": "Student claim is the same audio, not independent support."},
-    {"t": 50.96, "to": "duplicate testimony", "relationship": "Dirty-style praise repeats the official edition."},
-    {"t": 56.16, "to": "duplicate estimate", "relationship": "Wall dimension is one repeated estimate, not two measurements."},
-    {"t": 61.96, "to": "duplicate promotional claim", "relationship": "Self-made praise remains one source statement across two uploads."},
-    {"t": 67.88, "to": "duplicate sales claim", "relationship": "No additional sales proof arises from re-captioning."},
-    {"t": 72.119, "to": "duplicate framing", "relationship": "Bad-boy genius is the same montage claim."},
-    {"t": 74.68, "to": "voice-cut alignment", "relationship": "Autobiographical shift matches the official cut and remains unresolved."},
-    {"t": 82.28, "to": "duplicate Japan account", "relationship": "The same travel story appears at shifted timestamps."},
-    {"t": 87.759, "to": "edition-specific duplication", "relationship": "Got-got is caption/audio disfluency, not a new event."},
-    {"t": 90.119, "to": "duplicate arrest claim", "relationship": "A second upload does not independently verify timing or charge."},
-    {"t": 91.92, "to": "duplicate jail claim", "relationship": "Three months remains one autobiographical claim."},
-    {"t": 99.36, "to": "shared caption failure", "relationship": "Both editions preserve the same damaged slee phrase; sibling evidence cannot repair it."},
-    {"t": 113.439, "to": "duplicate private relationship claim", "relationship": "Repetition does not turn narrator attribution into girlfriend testimony."},
-    {"t": 117.6, "to": "cross-edition bracket", "relationship": "Official sibling supplies omitted she, but partner feelings remain attributed."},
-    {"t": 127.399, "to": "duplicate Bible detail", "relationship": "Same audio does not strengthen conversion claims."},
-    {"t": 131.36, "to": "duplicate reflection", "relationship": "Identity/belief questions remain one edited prison passage."},
-    {"t": 137.08, "to": "duplicate illegality rhetoric", "relationship": "No legal inventory is created by upload duplication."},
-    {"t": 142.62, "to": "edition cut", "relationship": "Music preserves the same final interruption with shifted start."}
+    {
+      "t": 7.52,
+      "to": "aJME3ZTtJBE",
+      "relationship": "Shared trailer speech begins without the official edition’s production cues."
+    },
+    {
+      "t": 9.24,
+      "to": "cross-edition correction",
+      "relationship": "Clear graffiti token repairs official sibling’s Wikipedia error."
+    },
+    {
+      "t": 13.2,
+      "to": "cross-edition completeness",
+      "relationship": "This edition supplies the complete ‘everywhere’ sentence clipped in the official captions."
+    },
+    {
+      "t": 19.48,
+      "to": "montage alignment",
+      "relationship": "Music boundary aligns with the official cut at a shifted time."
+    },
+    {
+      "t": 28.96,
+      "to": "cross-edition correction",
+      "relationship": "Clear funny token repairs official sibling’s Muny error."
+    },
+    {
+      "t": 42.039,
+      "to": "edition-specific noise",
+      "relationship": "Stray BL is unique to this caption edition and cannot identify a speaker."
+    },
+    {
+      "t": 44.84,
+      "to": "duplicate testimony",
+      "relationship": "Student claim is the same audio, not independent support."
+    },
+    {
+      "t": 50.96,
+      "to": "duplicate testimony",
+      "relationship": "Dirty-style praise repeats the official edition."
+    },
+    {
+      "t": 56.16,
+      "to": "duplicate estimate",
+      "relationship": "Wall dimension is one repeated estimate, not two measurements."
+    },
+    {
+      "t": 61.96,
+      "to": "duplicate promotional claim",
+      "relationship": "Self-made praise remains one source statement across two uploads."
+    },
+    {
+      "t": 67.88,
+      "to": "duplicate sales claim",
+      "relationship": "No additional sales proof arises from re-captioning."
+    },
+    {
+      "t": 72.119,
+      "to": "duplicate framing",
+      "relationship": "Bad-boy genius is the same montage claim."
+    },
+    {
+      "t": 74.68,
+      "to": "voice-cut alignment",
+      "relationship": "Autobiographical shift matches the official cut and remains unresolved."
+    },
+    {
+      "t": 82.28,
+      "to": "duplicate Japan account",
+      "relationship": "The same travel story appears at shifted timestamps."
+    },
+    {
+      "t": 87.759,
+      "to": "edition-specific duplication",
+      "relationship": "Got-got is caption/audio disfluency, not a new event."
+    },
+    {
+      "t": 90.119,
+      "to": "duplicate arrest claim",
+      "relationship": "A second upload does not independently verify timing or charge."
+    },
+    {
+      "t": 91.92,
+      "to": "duplicate jail claim",
+      "relationship": "Three months remains one autobiographical claim."
+    },
+    {
+      "t": 99.36,
+      "to": "shared caption failure",
+      "relationship": "Both editions preserve the same damaged slee phrase; sibling evidence cannot repair it."
+    },
+    {
+      "t": 113.439,
+      "to": "duplicate private relationship claim",
+      "relationship": "Repetition does not turn narrator attribution into girlfriend testimony."
+    },
+    {
+      "t": 117.6,
+      "to": "cross-edition bracket",
+      "relationship": "Official sibling supplies omitted she, but partner feelings remain attributed."
+    },
+    {
+      "t": 127.399,
+      "to": "duplicate Bible detail",
+      "relationship": "Same audio does not strengthen conversion claims."
+    },
+    {
+      "t": 131.36,
+      "to": "duplicate reflection",
+      "relationship": "Identity/belief questions remain one edited prison passage."
+    },
+    {
+      "t": 137.08,
+      "to": "duplicate illegality rhetoric",
+      "relationship": "No legal inventory is created by upload duplication."
+    },
+    {
+      "t": 142.62,
+      "to": "edition cut",
+      "relationship": "Music preserves the same final interruption with shifted start."
+    }
   ],
-  "source_notes": ["Unofficial trailer upload.", "Automatic captions contain 55 records / 388 words or markers / 2:31.", "Same-program sibling of official upload aJME3ZTtJBE.", "Shared audio is shifted roughly 4–5 seconds earlier.", "This edition omits ready/ready/rolling production cues.", "This edition resolves graffiti and funny lexical errors.", "Repairs were propagated to official sibling with provenance.", "This edition adds stray BL before testimony.", "BL is not accepted as initials, name or speaker label.", "This edition duplicates got in the boarding/arrest transition.", "Both editions retain the same damaged slee phrase.", "Official sibling supplies omitted she in relationship passage.", "Neither upload independently corroborates the other.", "Praise claims count once at work level.", "Arrest/jail claims count once at work level.", "Private-partner claims count once and remain narrator attribution.", "Bible/reflection content counts once and does not prove conversion.", "Reader should prefer official source while allowing edition selection.", "Both raw caption artifacts remain immutable.", "Both source IDs remain searchable/provenanced.", "No named turns are accepted.", "No voice-enrollment windows are accepted."],
-  "content_warnings": ["duplicate-source inflation", "vandalism/property destruction", "censored language", "arrest/incarceration", "private relationship rupture", "religious content", "global illegality claim", "montage speaker attribution", "promotional-biography overclaim", "legal-history overclaim", "redemption/conversion overclaim", "caption damage"],
+  "source_notes": [
+    "Unofficial trailer upload.",
+    "Automatic captions contain 55 records / 388 words or markers / 2:31.",
+    "Same-program sibling of official upload aJME3ZTtJBE.",
+    "Shared audio is shifted roughly 4–5 seconds earlier.",
+    "This edition omits ready/ready/rolling production cues.",
+    "This edition resolves graffiti and funny lexical errors.",
+    "Repairs were propagated to official sibling with provenance.",
+    "This edition adds stray BL before testimony.",
+    "BL is not accepted as initials, name or speaker label.",
+    "This edition duplicates got in the boarding/arrest transition.",
+    "Both editions retain the same damaged slee phrase.",
+    "Official sibling supplies omitted she in relationship passage.",
+    "Neither upload independently corroborates the other.",
+    "Praise claims count once at work level.",
+    "Arrest/jail claims count once at work level.",
+    "Private-partner claims count once and remain narrator attribution.",
+    "Bible/reflection content counts once and does not prove conversion.",
+    "Reader should prefer official source while allowing edition selection.",
+    "Both raw caption artifacts remain immutable.",
+    "Both source IDs remain searchable/provenanced.",
+    "No named turns are accepted.",
+    "No voice-enrollment windows are accepted."
+  ],
+  "content_warnings": [
+    "duplicate-source inflation",
+    "vandalism/property destruction",
+    "censored language",
+    "arrest/incarceration",
+    "private relationship rupture",
+    "religious content",
+    "global illegality claim",
+    "montage speaker attribution",
+    "promotional-biography overclaim",
+    "legal-history overclaim",
+    "redemption/conversion overclaim",
+    "caption damage"
+  ],
   "publication_restrictions": [
-    {"t": -0.12, "rule": "group with aJME3ZTtJBE as one work/two source editions"},
-    {"t": -0.11, "rule": "do not count sibling upload as independent corroboration"},
-    {"t": -0.1, "rule": "preserve both raw sources and edition timestamps"},
-    {"t": -0.09, "rule": "prefer official edition in reader; offer explicit edition selection"},
-    {"t": -0.08, "rule": "apply cross-edition repairs only with aligned source provenance"},
-    {"t": -0.07, "rule": "do not copy absent production cues into unofficial edition"},
-    {"t": -0.06, "rule": "do not assign montage speakers or publish named turns"},
-    {"t": -0.05, "rule": "do not reconstruct censored or jointly damaged words"},
-    {"t": -0.04, "rule": "do not promote duplicate praise/legal/private/religious claims"},
-    {"t": -0.03, "rule": "protect private girlfriend and attributed feelings"},
-    {"t": -0.02, "rule": "do not claim conversion, rehabilitation or redemption"},
-    {"t": -0.01, "rule": "exclude duplicate montage from voice enrollment"},
-    {"t": 9.24, "rule": "retain graffiti repair provenance to sibling official timestamp"},
-    {"t": 14.96, "rule": "retain censored destruction object"},
-    {"t": 17.199, "rule": "retain censored making object"},
-    {"t": 28.96, "rule": "retain funny repair without inventing context/speaker"},
-    {"t": 42.039, "rule": "do not publish BL as name/initials"},
-    {"t": 44.84, "rule": "student testimony is duplicate source audio"},
-    {"t": 56.16, "rule": "do not count wall estimate twice"},
-    {"t": 61.96, "rule": "do not count self-made praise twice"},
-    {"t": 67.88, "rule": "do not count shirt-sales claim twice"},
-    {"t": 74.68, "rule": "preserve montage voice boundary"},
-    {"t": 80.84, "rule": "retain censored travel intensifier"},
-    {"t": 87.759, "rule": "retain got-got disfluency without inventing event"},
-    {"t": 90.119, "rule": "do not treat duplicate upload as arrest verification"},
-    {"t": 91.92, "rule": "do not treat duplicate upload as jail-record verification"},
-    {"t": 96.72, "rule": "do not identify private girlfriend"},
-    {"t": 99.36, "rule": "keep slee phrase listening-required"},
-    {"t": 117.6, "rule": "bracketed she comes from aligned sibling; feelings remain narrator attribution"},
-    {"t": 127.399, "rule": "Bible detail does not prove conversion"},
-    {"t": 137.08, "rule": "global illegality statement is not legal inventory"},
-    {"t": 142.62, "rule": "preserve music-split ending"},
-    {"t": 148.76, "rule": "anymore completes edited fragment"},
-    {"t": 150.5, "rule": "do not create a second reader life event from this edition"},
-    {"t": 150.6, "rule": "retain source ID for search, provenance and caption comparison"}
-  ]
+    {
+      "t": -0.12,
+      "rule": "group with aJME3ZTtJBE as one work/two source editions"
+    },
+    {
+      "t": -0.11,
+      "rule": "do not count sibling upload as independent corroboration"
+    },
+    {
+      "t": -0.1,
+      "rule": "preserve both raw sources and edition timestamps"
+    },
+    {
+      "t": -0.09,
+      "rule": "prefer official edition in reader; offer explicit edition selection"
+    },
+    {
+      "t": -0.08,
+      "rule": "apply cross-edition repairs only with aligned source provenance"
+    },
+    {
+      "t": -0.07,
+      "rule": "do not copy absent production cues into unofficial edition"
+    },
+    {
+      "t": -0.06,
+      "rule": "do not assign montage speakers or publish named turns"
+    },
+    {
+      "t": -0.05,
+      "rule": "do not reconstruct censored or jointly damaged words"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not promote duplicate praise/legal/private/religious claims"
+    },
+    {
+      "t": -0.03,
+      "rule": "protect private girlfriend and attributed feelings"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not claim conversion, rehabilitation or redemption"
+    },
+    {
+      "t": -0.01,
+      "rule": "exclude duplicate montage from voice enrollment"
+    },
+    {
+      "t": 9.24,
+      "rule": "retain graffiti repair provenance to sibling official timestamp"
+    },
+    {
+      "t": 14.96,
+      "rule": "retain censored destruction object"
+    },
+    {
+      "t": 17.199,
+      "rule": "retain censored making object"
+    },
+    {
+      "t": 28.96,
+      "rule": "retain funny repair without inventing context/speaker"
+    },
+    {
+      "t": 42.039,
+      "rule": "do not publish BL as name/initials"
+    },
+    {
+      "t": 44.84,
+      "rule": "student testimony is duplicate source audio"
+    },
+    {
+      "t": 56.16,
+      "rule": "do not count wall estimate twice"
+    },
+    {
+      "t": 61.96,
+      "rule": "do not count self-made praise twice"
+    },
+    {
+      "t": 67.88,
+      "rule": "do not count shirt-sales claim twice"
+    },
+    {
+      "t": 74.68,
+      "rule": "preserve montage voice boundary"
+    },
+    {
+      "t": 80.84,
+      "rule": "retain censored travel intensifier"
+    },
+    {
+      "t": 87.759,
+      "rule": "retain got-got disfluency without inventing event"
+    },
+    {
+      "t": 90.119,
+      "rule": "do not treat duplicate upload as arrest verification"
+    },
+    {
+      "t": 91.92,
+      "rule": "do not treat duplicate upload as jail-record verification"
+    },
+    {
+      "t": 96.72,
+      "rule": "do not identify private girlfriend"
+    },
+    {
+      "t": 99.36,
+      "rule": "keep slee phrase listening-required"
+    },
+    {
+      "t": 117.6,
+      "rule": "bracketed she comes from aligned sibling; feelings remain narrator attribution"
+    },
+    {
+      "t": 127.399,
+      "rule": "Bible detail does not prove conversion"
+    },
+    {
+      "t": 137.08,
+      "rule": "global illegality statement is not legal inventory"
+    },
+    {
+      "t": 142.62,
+      "rule": "preserve music-split ending"
+    },
+    {
+      "t": 148.76,
+      "rule": "anymore completes edited fragment"
+    },
+    {
+      "t": 150.5,
+      "rule": "do not create a second reader life event from this edition"
+    },
+    {
+      "t": 150.6,
+      "rule": "retain source ID for search, provenance and caption comparison"
+    }
+  ],
+  "description": "A 2:31 unofficial caption edition of the same Dirty Hands trailer represented by official upload aJME3ZTtJBE.",
+  "description_source": "Opening of the human-reviewed summary."
 }

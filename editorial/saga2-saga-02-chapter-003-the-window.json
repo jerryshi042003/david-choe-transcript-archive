@@ -739,5 +739,29 @@
     "The episode includes visual wrestling and contact demonstrations; source completeness requires video alongside audio.",
     "Zero validated turns/windows means no named line-level dialogue."
   ],
-  "speaker_policy": "Public episode context may identify David Choe, Steve Lee/Stevie Weeby, Bill Poon, Justene Jaro, Dawn, Critter, Bobby Trivia, Asa Akira and Money Mark at episode/scene level. No line-level speaker names publish because this artifact has zero held-out validated turns and zero identity windows."
+  "speaker_policy": "Public episode context may identify David Choe, Steve Lee/Stevie Weeby, Bill Poon, Justene Jaro, Dawn, Critter, Bobby Trivia, Asa Akira and Money Mark at episode/scene level. No line-level speaker names publish because this artifact has zero held-out validated turns and zero identity windows.",
+  "people": [
+    "David Choe",
+    "Stacey Adams",
+    "Money Mark",
+    "Asa Akira",
+    "Bill Poon",
+    "Steve Lee"
+  ],
+  "places": [
+    "the Ranch",
+    "studio"
+  ],
+  "works": [
+    "Destiny",
+    "Mangchi",
+    "Revenge",
+    "Always"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Chapter 3 begins inside Mangchi rather than talk: an early version of Use a Mangchi plays through rough musical ASR, followed by long decoder runs of the letter P and Thank you that the cleaner correctly replaces with honest indistinct markers.",
+  "description_source": "Opening of the human-reviewed summary."
 }

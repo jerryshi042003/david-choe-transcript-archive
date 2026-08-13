@@ -1634,5 +1634,30 @@
       "t": 10716,
       "rule": "damaged song reprise; lyrics differ from opening ASR and need acoustic recovery"
     }
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Bobby Trivia",
+    "Kevin Smith",
+    "James Jean",
+    "Saelee Oh",
+    "Critter"
+  ],
+  "places": [
+    "unidentified",
+    "studio"
+  ],
+  "works": [
+    "November 2",
+    "Friends",
+    "Mangchi",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Chapter 26 opens with a Mangchi song that moves from school-shooting and suicide imagery toward survival, then becomes an unusually useful failure report on DVDASA's attempt at a produced segment.",
+  "description_source": "Opening of the human-reviewed summary."
 }

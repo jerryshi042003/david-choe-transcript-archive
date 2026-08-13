@@ -1,10 +1,25 @@
 {
-  "episode_id":"saga1-episode-140-spooning",
-  "title":"Spooning",
-  "reviewed_on":"2026-07-31",
-  "summary":"Steve Lee and Bill Poon record alone at the Ranch, initially following discussion prompts David Choe supplied. Before David enters, they assess the Episode 136–139 prank chain. Poon says the original allegation changed the group dynamic; after the denial and re-allegation, both say they no longer know what to believe. They wonder whether the re-allegation, solo episode, Macau trip or even Steve's album could be another setup. Their reactions are evidence of trust damage, not independent proof of the underlying affair. A long Macau discussion mixes legitimate communication/safety questions with unsourced claims, racialized sex-tour fantasies and operational ideas. None is current travel advice. When David joins, they raise a possible triple prank. David again gives a first-person chronology: sex occurred, the denial was planned afterward by text, and the second reveal restored what happened. The others explicitly say another JK would make listening pointless and compare the show to the boy who cried wolf. David does not issue a third retraction here, but teases a possible final explanation far in the future. The state therefore remains re-alleged, not verified. David and Steve physically reenact the alleged spooning/dry-humping sequence. The account includes disagreement over clothing, who closed the gap and how the escalation occurred; those ambiguities remain rather than being converted into blanket consent. David also says he privately filmed sexual contact, claims the partner did not care, and admits uncertainty about her contract. That is not distribution consent; the archive will not seek or publish the media. Episode 137's separate observer encounter is recapped with the same event-level distinctions: direct shower refusal, limited breast-touch permission, covert doorway watching, later disclosure and a subsequent visible living-room encounter. Poon discusses feeling less close to Asa after a San Francisco trip and describes their professional/client relationship. These are perceptions, not established causes or private relationship facts. Later, Steve introduces an L.A. crush under the invented pseudonym Trisha. The speakers then ask narrowing questions about her age, race, proximity and likely workplace. Those clues are not composed into an identity trail. Crucially, when recording sex workers is proposed, Poon objects that workers may not know their images are online and may be coerced. Steve abandons the idea; this reversal is retained as an editorial privacy principle. The final section moves from missed romantic opportunities to album pressure, the difference between home and Ranch recording, perfectionism, intimacy, alpha identity and fault-finding. The audio ends with indistinct fragments rather than a formal sign-off.",
-  "quality":{"raw_segments":4690,"clean_segments":4662,"raw_words_approx":23872,"clean_words_approx":23889,"duration_seconds":7205.86,"accepted_context_decisions":193,"chapters":136,"connections":28,"content_warnings":25,"identity_windows":0,"named_turns":0,"cleaning_edits":33,"cleaning_net_reduction":28,"public_restriction_spans":29},
-  "source_notes":[
+  "episode_id": "saga1-episode-140-spooning",
+  "title": "Spooning",
+  "reviewed_on": "2026-07-31",
+  "summary": "Steve Lee and Bill Poon record alone at the Ranch, initially following discussion prompts David Choe supplied. Before David enters, they assess the Episode 136–139 prank chain. Poon says the original allegation changed the group dynamic; after the denial and re-allegation, both say they no longer know what to believe. They wonder whether the re-allegation, solo episode, Macau trip or even Steve's album could be another setup. Their reactions are evidence of trust damage, not independent proof of the underlying affair. A long Macau discussion mixes legitimate communication/safety questions with unsourced claims, racialized sex-tour fantasies and operational ideas. None is current travel advice. When David joins, they raise a possible triple prank. David again gives a first-person chronology: sex occurred, the denial was planned afterward by text, and the second reveal restored what happened. The others explicitly say another JK would make listening pointless and compare the show to the boy who cried wolf. David does not issue a third retraction here, but teases a possible final explanation far in the future. The state therefore remains re-alleged, not verified. David and Steve physically reenact the alleged spooning/dry-humping sequence. The account includes disagreement over clothing, who closed the gap and how the escalation occurred; those ambiguities remain rather than being converted into blanket consent. David also says he privately filmed sexual contact, claims the partner did not care, and admits uncertainty about her contract. That is not distribution consent; the archive will not seek or publish the media. Episode 137's separate observer encounter is recapped with the same event-level distinctions: direct shower refusal, limited breast-touch permission, covert doorway watching, later disclosure and a subsequent visible living-room encounter. Poon discusses feeling less close to Asa after a San Francisco trip and describes their professional/client relationship. These are perceptions, not established causes or private relationship facts. Later, Steve introduces an L.A. crush under the invented pseudonym Trisha. The speakers then ask narrowing questions about her age, race, proximity and likely workplace. Those clues are not composed into an identity trail. Crucially, when recording sex workers is proposed, Poon objects that workers may not know their images are online and may be coerced. Steve abandons the idea; this reversal is retained as an editorial privacy principle. The final section moves from missed romantic opportunities to album pressure, the difference between home and Ranch recording, perfectionism, intimacy, alpha identity and fault-finding. The audio ends with indistinct fragments rather than a formal sign-off.",
+  "quality": {
+    "raw_segments": 4690,
+    "clean_segments": 4662,
+    "raw_words_approx": 23872,
+    "clean_words_approx": 23889,
+    "duration_seconds": 7205.86,
+    "accepted_context_decisions": 193,
+    "chapters": 136,
+    "connections": 28,
+    "content_warnings": 25,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 33,
+    "cleaning_net_reduction": 28,
+    "public_restriction_spans": 29
+  },
+  "source_notes": [
     "The cleaner records 33 edits: 26 empty drops, six degenerate runs and one degenerate item. It makes no lexical substitution.",
     "The vocabulary file correctly proposes DVDASA and Money Mark, but those are represented in the human fixture with context rather than blindly baked into every token.",
     "Episode 140 does not retract Episode 139. It discusses a hypothetical triple prank and future final explanation, so the current state remains re-alleged and unverified.",
@@ -14,15 +29,827 @@
     "The private sexual video is only reported. Claimed acceptance of recording is not consent to publication, indexing or model training.",
     "No named line-level dialogue is published because no held-out voice validation exists for this episode."
   ],
-  "speaker_policy":"Episode metadata may name Steve Lee, Bill Poon and David Choe, who identify one another in the conversation. Asa Akira, Money Mark and Ceci may be named only as discussed public figures/participants, not inferred speakers. Zero validated windows means zero named turns. The private partner, pseudonymous crush, workers, relatives and childhood peers cannot become speaker or identity targets.",
-  "chapters":[
-    {"t":21,"title":"Poon and Steve begin"},{"t":32,"title":"Ranch room"},{"t":91,"title":"Ceci arrival"},{"t":135,"title":"music equipment"},{"t":154,"title":"intimate evidence"},{"t":187,"title":"prank reaction"},{"t":220,"title":"group dynamics"},{"t":300,"title":"double-prank news"},{"t":402,"title":"possible further lie"},{"t":410,"title":"drama theory"},{"t":463,"title":"default face"},{"t":500,"title":"family trust"},{"t":539,"title":"nothing is believable"},{"t":574,"title":"prompted questions"},{"t":594,"title":"private Instagram crush"},{"t":690,"title":"missed chances"},{"t":707,"title":"childhood crush"},{"t":808,"title":"racial desirability"},{"t":869,"title":"Macau anticipation"},{"t":902,"title":"David impression"},{"t":921,"title":"sleeping arrangements"},{"t":958,"title":"Asa schedule"},{"t":1008,"title":"trip phones"},{"t":1112,"title":"David's prompt list"},{"t":1135,"title":"surprise versus research"},{"t":1164,"title":"documentation equipment"},{"t":1192,"title":"danger speculation"},{"t":1213,"title":"behavior and safety"},{"t":1257,"title":"sex-tour fantasy"},{"t":1279,"title":"China account"},{"t":1344,"title":"sauna research"},{"t":1397,"title":"unnamed articles"},{"t":1422,"title":"hotel-room preference"},{"t":1477,"title":"condom planning"},{"t":1503,"title":"ethnicity checklist"},{"t":1522,"title":"little-person language"},{"t":1618,"title":"theft fear"},{"t":1666,"title":"money carrier"},{"t":1709,"title":"trip as prank"},{"t":1730,"title":"The Game"},{"t":1780,"title":"staged theft scenario"},{"t":1938,"title":"elevator anxiety"},{"t":2083,"title":"did-didn't-did"},{"t":2122,"title":"truth still questioned"},{"t":2241,"title":"episode origin disputed"},{"t":2291,"title":"second-guessing"},{"t":2310,"title":"album feared as joke"},{"t":2353,"title":"Noble Hops"},{"t":2393,"title":"milk routine claim"},{"t":2441,"title":"third-hand source"},{"t":2462,"title":"Macau documentation"},{"t":2494,"title":"separate rooms"},{"t":2511,"title":"Ranch sex recap"},{"t":2559,"title":"sex heard"},{"t":2595,"title":"board-game encounter"},{"t":2651,"title":"visible sex"},{"t":2726,"title":"covert watching"},{"t":2751,"title":"limited touch permission"},{"t":2762,"title":"shower refused"},{"t":2786,"title":"arousal trigger"},{"t":2816,"title":"drug speculation"},{"t":2832,"title":"shock"},{"t":2887,"title":"later disclosure"},{"t":2900,"title":"open observation"},{"t":2947,"title":"Macau as compensation"},{"t":3006,"title":"sexual self-report"},{"t":3033,"title":"falling in love"},{"t":3093,"title":"packing light"},{"t":3137,"title":"phone disagreement"},{"t":3330,"title":"passport makes trip real"},{"t":3391,"title":"David enters"},{"t":3426,"title":"travel logistics"},{"t":3489,"title":"mobster speculation"},{"t":3537,"title":"David confronted"},{"t":3582,"title":"double prank confirmed"},{"t":3635,"title":"reptilian drawing"},{"t":3690,"title":"art to camera"},{"t":3773,"title":"direct chronology"},{"t":3787,"title":"text plan"},{"t":3797,"title":"sex re-alleged"},{"t":3808,"title":"triple prank"},{"t":3840,"title":"why listen"},{"t":3861,"title":"listener comments"},{"t":3933,"title":"intent versus impact"},{"t":3963,"title":"brief-sex detail"},{"t":4018,"title":"spooning reenactment"},{"t":4044,"title":"clothing disputed"},{"t":4078,"title":"gap closed"},{"t":4115,"title":"physical demonstration"},{"t":4182,"title":"entertainment value"},{"t":4251,"title":"marriage dynamics"},{"t":4292,"title":"adjusting, not trauma"},{"t":4397,"title":"friendship continuity"},{"t":4447,"title":"work justification"},{"t":4489,"title":"private video"},{"t":4501,"title":"contract uncertainty"},{"t":4544,"title":"catfish coping"},{"t":4657,"title":"relationship distance"},{"t":4721,"title":"disclosure alternatives"},{"t":4796,"title":"boy who cried wolf"},{"t":4807,"title":"future explanation"},{"t":4830,"title":"crew disbelief"},{"t":4910,"title":"partner comfort"},{"t":4939,"title":"David exits"},{"t":5044,"title":"Poon and Asa closeness"},{"t":5146,"title":"client boundary"},{"t":5217,"title":"sexualized Ranch"},{"t":5282,"title":"coping theory"},{"t":5343,"title":"girlfriend experience"},{"t":5415,"title":"yin and yang"},{"t":5446,"title":"two owls"},{"t":5622,"title":"readjustment forecast"},{"t":5689,"title":"no-kissing rule"},{"t":5719,"title":"meetup point"},{"t":5858,"title":"off the record"},{"t":5909,"title":"Hong Kong past"},{"t":6018,"title":"father's stroke"},{"t":6021,"title":"dog grief"},{"t":6078,"title":"Trisha pseudonym"},{"t":6207,"title":"identity questions"},{"t":6334,"title":"race clue"},{"t":6402,"title":"trip cover story"},{"t":6437,"title":"worker recording proposed"},{"t":6459,"title":"photo consent objection"},{"t":6499,"title":"recording abandoned"},{"t":6540,"title":"coercion risk"},{"t":6688,"title":"missed opportunity"},{"t":6783,"title":"album pressure"},{"t":6834,"title":"Money Mark standard"},{"t":6866,"title":"home versus Ranch"},{"t":6912,"title":"artist satisfaction"},{"t":6964,"title":"moment over audience"},{"t":6970,"title":"alpha identity"},{"t":7050,"title":"known-answer questions"},{"t":7104,"title":"fault-finding"},{"t":7181,"title":"closing reflection"}
+  "speaker_policy": "Episode metadata may name Steve Lee, Bill Poon and David Choe, who identify one another in the conversation. Asa Akira, Money Mark and Ceci may be named only as discussed public figures/participants, not inferred speakers. Zero validated windows means zero named turns. The private partner, pseudonymous crush, workers, relatives and childhood peers cannot become speaker or identity targets.",
+  "chapters": [
+    {
+      "t": 21,
+      "title": "Poon and Steve begin"
+    },
+    {
+      "t": 32,
+      "title": "Ranch room"
+    },
+    {
+      "t": 91,
+      "title": "Ceci arrival"
+    },
+    {
+      "t": 135,
+      "title": "music equipment"
+    },
+    {
+      "t": 154,
+      "title": "intimate evidence"
+    },
+    {
+      "t": 187,
+      "title": "prank reaction"
+    },
+    {
+      "t": 220,
+      "title": "group dynamics"
+    },
+    {
+      "t": 300,
+      "title": "double-prank news"
+    },
+    {
+      "t": 402,
+      "title": "possible further lie"
+    },
+    {
+      "t": 410,
+      "title": "drama theory"
+    },
+    {
+      "t": 463,
+      "title": "default face"
+    },
+    {
+      "t": 500,
+      "title": "family trust"
+    },
+    {
+      "t": 539,
+      "title": "nothing is believable"
+    },
+    {
+      "t": 574,
+      "title": "prompted questions"
+    },
+    {
+      "t": 594,
+      "title": "private Instagram crush"
+    },
+    {
+      "t": 690,
+      "title": "missed chances"
+    },
+    {
+      "t": 707,
+      "title": "childhood crush"
+    },
+    {
+      "t": 808,
+      "title": "racial desirability"
+    },
+    {
+      "t": 869,
+      "title": "Macau anticipation"
+    },
+    {
+      "t": 902,
+      "title": "David impression"
+    },
+    {
+      "t": 921,
+      "title": "sleeping arrangements"
+    },
+    {
+      "t": 958,
+      "title": "Asa schedule"
+    },
+    {
+      "t": 1008,
+      "title": "trip phones"
+    },
+    {
+      "t": 1112,
+      "title": "David's prompt list"
+    },
+    {
+      "t": 1135,
+      "title": "surprise versus research"
+    },
+    {
+      "t": 1164,
+      "title": "documentation equipment"
+    },
+    {
+      "t": 1192,
+      "title": "danger speculation"
+    },
+    {
+      "t": 1213,
+      "title": "behavior and safety"
+    },
+    {
+      "t": 1257,
+      "title": "sex-tour fantasy"
+    },
+    {
+      "t": 1279,
+      "title": "China account"
+    },
+    {
+      "t": 1344,
+      "title": "sauna research"
+    },
+    {
+      "t": 1397,
+      "title": "unnamed articles"
+    },
+    {
+      "t": 1422,
+      "title": "hotel-room preference"
+    },
+    {
+      "t": 1477,
+      "title": "condom planning"
+    },
+    {
+      "t": 1503,
+      "title": "ethnicity checklist"
+    },
+    {
+      "t": 1522,
+      "title": "little-person language"
+    },
+    {
+      "t": 1618,
+      "title": "theft fear"
+    },
+    {
+      "t": 1666,
+      "title": "money carrier"
+    },
+    {
+      "t": 1709,
+      "title": "trip as prank"
+    },
+    {
+      "t": 1730,
+      "title": "The Game"
+    },
+    {
+      "t": 1780,
+      "title": "staged theft scenario"
+    },
+    {
+      "t": 1938,
+      "title": "elevator anxiety"
+    },
+    {
+      "t": 2083,
+      "title": "did-didn't-did"
+    },
+    {
+      "t": 2122,
+      "title": "truth still questioned"
+    },
+    {
+      "t": 2241,
+      "title": "episode origin disputed"
+    },
+    {
+      "t": 2291,
+      "title": "second-guessing"
+    },
+    {
+      "t": 2310,
+      "title": "album feared as joke"
+    },
+    {
+      "t": 2353,
+      "title": "Noble Hops"
+    },
+    {
+      "t": 2393,
+      "title": "milk routine claim"
+    },
+    {
+      "t": 2441,
+      "title": "third-hand source"
+    },
+    {
+      "t": 2462,
+      "title": "Macau documentation"
+    },
+    {
+      "t": 2494,
+      "title": "separate rooms"
+    },
+    {
+      "t": 2511,
+      "title": "Ranch sex recap"
+    },
+    {
+      "t": 2559,
+      "title": "sex heard"
+    },
+    {
+      "t": 2595,
+      "title": "board-game encounter"
+    },
+    {
+      "t": 2651,
+      "title": "visible sex"
+    },
+    {
+      "t": 2726,
+      "title": "covert watching"
+    },
+    {
+      "t": 2751,
+      "title": "limited touch permission"
+    },
+    {
+      "t": 2762,
+      "title": "shower refused"
+    },
+    {
+      "t": 2786,
+      "title": "arousal trigger"
+    },
+    {
+      "t": 2816,
+      "title": "drug speculation"
+    },
+    {
+      "t": 2832,
+      "title": "shock"
+    },
+    {
+      "t": 2887,
+      "title": "later disclosure"
+    },
+    {
+      "t": 2900,
+      "title": "open observation"
+    },
+    {
+      "t": 2947,
+      "title": "Macau as compensation"
+    },
+    {
+      "t": 3006,
+      "title": "sexual self-report"
+    },
+    {
+      "t": 3033,
+      "title": "falling in love"
+    },
+    {
+      "t": 3093,
+      "title": "packing light"
+    },
+    {
+      "t": 3137,
+      "title": "phone disagreement"
+    },
+    {
+      "t": 3330,
+      "title": "passport makes trip real"
+    },
+    {
+      "t": 3391,
+      "title": "David enters"
+    },
+    {
+      "t": 3426,
+      "title": "travel logistics"
+    },
+    {
+      "t": 3489,
+      "title": "mobster speculation"
+    },
+    {
+      "t": 3537,
+      "title": "David confronted"
+    },
+    {
+      "t": 3582,
+      "title": "double prank confirmed"
+    },
+    {
+      "t": 3635,
+      "title": "reptilian drawing"
+    },
+    {
+      "t": 3690,
+      "title": "art to camera"
+    },
+    {
+      "t": 3773,
+      "title": "direct chronology"
+    },
+    {
+      "t": 3787,
+      "title": "text plan"
+    },
+    {
+      "t": 3797,
+      "title": "sex re-alleged"
+    },
+    {
+      "t": 3808,
+      "title": "triple prank"
+    },
+    {
+      "t": 3840,
+      "title": "why listen"
+    },
+    {
+      "t": 3861,
+      "title": "listener comments"
+    },
+    {
+      "t": 3933,
+      "title": "intent versus impact"
+    },
+    {
+      "t": 3963,
+      "title": "brief-sex detail"
+    },
+    {
+      "t": 4018,
+      "title": "spooning reenactment"
+    },
+    {
+      "t": 4044,
+      "title": "clothing disputed"
+    },
+    {
+      "t": 4078,
+      "title": "gap closed"
+    },
+    {
+      "t": 4115,
+      "title": "physical demonstration"
+    },
+    {
+      "t": 4182,
+      "title": "entertainment value"
+    },
+    {
+      "t": 4251,
+      "title": "marriage dynamics"
+    },
+    {
+      "t": 4292,
+      "title": "adjusting, not trauma"
+    },
+    {
+      "t": 4397,
+      "title": "friendship continuity"
+    },
+    {
+      "t": 4447,
+      "title": "work justification"
+    },
+    {
+      "t": 4489,
+      "title": "private video"
+    },
+    {
+      "t": 4501,
+      "title": "contract uncertainty"
+    },
+    {
+      "t": 4544,
+      "title": "catfish coping"
+    },
+    {
+      "t": 4657,
+      "title": "relationship distance"
+    },
+    {
+      "t": 4721,
+      "title": "disclosure alternatives"
+    },
+    {
+      "t": 4796,
+      "title": "boy who cried wolf"
+    },
+    {
+      "t": 4807,
+      "title": "future explanation"
+    },
+    {
+      "t": 4830,
+      "title": "crew disbelief"
+    },
+    {
+      "t": 4910,
+      "title": "partner comfort"
+    },
+    {
+      "t": 4939,
+      "title": "David exits"
+    },
+    {
+      "t": 5044,
+      "title": "Poon and Asa closeness"
+    },
+    {
+      "t": 5146,
+      "title": "client boundary"
+    },
+    {
+      "t": 5217,
+      "title": "sexualized Ranch"
+    },
+    {
+      "t": 5282,
+      "title": "coping theory"
+    },
+    {
+      "t": 5343,
+      "title": "girlfriend experience"
+    },
+    {
+      "t": 5415,
+      "title": "yin and yang"
+    },
+    {
+      "t": 5446,
+      "title": "two owls"
+    },
+    {
+      "t": 5622,
+      "title": "readjustment forecast"
+    },
+    {
+      "t": 5689,
+      "title": "no-kissing rule"
+    },
+    {
+      "t": 5719,
+      "title": "meetup point"
+    },
+    {
+      "t": 5858,
+      "title": "off the record"
+    },
+    {
+      "t": 5909,
+      "title": "Hong Kong past"
+    },
+    {
+      "t": 6018,
+      "title": "father's stroke"
+    },
+    {
+      "t": 6021,
+      "title": "dog grief"
+    },
+    {
+      "t": 6078,
+      "title": "Trisha pseudonym"
+    },
+    {
+      "t": 6207,
+      "title": "identity questions"
+    },
+    {
+      "t": 6334,
+      "title": "race clue"
+    },
+    {
+      "t": 6402,
+      "title": "trip cover story"
+    },
+    {
+      "t": 6437,
+      "title": "worker recording proposed"
+    },
+    {
+      "t": 6459,
+      "title": "photo consent objection"
+    },
+    {
+      "t": 6499,
+      "title": "recording abandoned"
+    },
+    {
+      "t": 6540,
+      "title": "coercion risk"
+    },
+    {
+      "t": 6688,
+      "title": "missed opportunity"
+    },
+    {
+      "t": 6783,
+      "title": "album pressure"
+    },
+    {
+      "t": 6834,
+      "title": "Money Mark standard"
+    },
+    {
+      "t": 6866,
+      "title": "home versus Ranch"
+    },
+    {
+      "t": 6912,
+      "title": "artist satisfaction"
+    },
+    {
+      "t": 6964,
+      "title": "moment over audience"
+    },
+    {
+      "t": 6970,
+      "title": "alpha identity"
+    },
+    {
+      "t": 7050,
+      "title": "known-answer questions"
+    },
+    {
+      "t": 7104,
+      "title": "fault-finding"
+    },
+    {
+      "t": 7181,
+      "title": "closing reflection"
+    }
   ],
-  "connections":[
-    {"to":"saga1-episode-136-irresistible","note":"Original allegation and staged denial begin the trust rupture."},{"to":"saga1-episode-137-double-headed-dragon","note":"Observer encounter is recapped with refusal/open/covert distinctions."},{"to":"saga1-episode-139-prank-on-the-prank","note":"Re-allegation is repeated, not independently verified or retracted."},{"to":"claim-provenance","note":"A hypothetical triple prank is not an actual third reversal."},{"to":"trust-damage","note":"Participants second-guess the trip, album and episode setup after the prank."},{"to":"reaction-engineering","note":"David supplies prompts and describes optimizing entertainment value."},{"to":"boy-who-cried-wolf","note":"The cast names its own credibility problem."},{"to":"consent-boundaries","note":"Clothing, gap-closing and reenactment details remain disputed."},{"to":"private-media","note":"Reported filming lacks verified distribution consent."},{"to":"recording-consent","note":"A proposal to record workers is rejected after a consent objection."},{"to":"sex-worker-privacy","note":"Workers may not know images are posted and may have coercive circumstances."},{"to":"privacy-by-composition","note":"Pseudonym, age, race, distance and workplace clues cannot be joined."},{"to":"speaker-validation","note":"Impressions and contextual identity are not acoustic validation."},{"to":"Macau","note":"Historical fantasy and research remain unverified, not current advice."},{"to":"travel-safety","note":"Communication and document concerns mix with unsourced gangster fears."},{"to":"racial-objectification","note":"Ethnic sexual sampling and desirability claims require context."},{"to":"creative-incubator","note":"Ranch recording pushes Steve outside his home workflow."},{"to":"artist-perfectionism","note":"Producer acceptance and artist satisfaction diverge."},{"to":"Noble-Hops","note":"Steve situates the album after prior group and four-track projects."},{"to":"catfish","note":"Poon interprets renewed sex as coping with humiliation and loss."},{"to":"family-metaphor","note":"Poon says pranking insiders violated his model of the cast as family."},{"to":"audience-comments","note":"Reported honesty criticism shows fan trust, though comments were not directly audited here."},{"to":"relationship-dynamics","note":"Poon distinguishes professional/client closeness from romance."},{"to":"intimacy","note":"Steve and Poon contrast emotional bonding with the cast's sexual-performance persona."},{"to":"missed-opportunity","note":"Private romantic regrets motivate action without exposing identities."},{"to":"self-inquiry","note":"Fault-finding is redirected toward what one can control."},{"to":"source-philosophy","note":"The speakers value having the conversation even without knowing audience response."},{"to":"ui-evidence-pattern","note":"UI needs claim state, impact evidence, hypothetical branches and unresolved future teasers."}
+  "connections": [
+    {
+      "to": "saga1-episode-136-irresistible",
+      "note": "Original allegation and staged denial begin the trust rupture."
+    },
+    {
+      "to": "saga1-episode-137-double-headed-dragon",
+      "note": "Observer encounter is recapped with refusal/open/covert distinctions."
+    },
+    {
+      "to": "saga1-episode-139-prank-on-the-prank",
+      "note": "Re-allegation is repeated, not independently verified or retracted."
+    },
+    {
+      "to": "claim-provenance",
+      "note": "A hypothetical triple prank is not an actual third reversal."
+    },
+    {
+      "to": "trust-damage",
+      "note": "Participants second-guess the trip, album and episode setup after the prank."
+    },
+    {
+      "to": "reaction-engineering",
+      "note": "David supplies prompts and describes optimizing entertainment value."
+    },
+    {
+      "to": "boy-who-cried-wolf",
+      "note": "The cast names its own credibility problem."
+    },
+    {
+      "to": "consent-boundaries",
+      "note": "Clothing, gap-closing and reenactment details remain disputed."
+    },
+    {
+      "to": "private-media",
+      "note": "Reported filming lacks verified distribution consent."
+    },
+    {
+      "to": "recording-consent",
+      "note": "A proposal to record workers is rejected after a consent objection."
+    },
+    {
+      "to": "sex-worker-privacy",
+      "note": "Workers may not know images are posted and may have coercive circumstances."
+    },
+    {
+      "to": "privacy-by-composition",
+      "note": "Pseudonym, age, race, distance and workplace clues cannot be joined."
+    },
+    {
+      "to": "speaker-validation",
+      "note": "Impressions and contextual identity are not acoustic validation."
+    },
+    {
+      "to": "Macau",
+      "note": "Historical fantasy and research remain unverified, not current advice."
+    },
+    {
+      "to": "travel-safety",
+      "note": "Communication and document concerns mix with unsourced gangster fears."
+    },
+    {
+      "to": "racial-objectification",
+      "note": "Ethnic sexual sampling and desirability claims require context."
+    },
+    {
+      "to": "creative-incubator",
+      "note": "Ranch recording pushes Steve outside his home workflow."
+    },
+    {
+      "to": "artist-perfectionism",
+      "note": "Producer acceptance and artist satisfaction diverge."
+    },
+    {
+      "to": "Noble-Hops",
+      "note": "Steve situates the album after prior group and four-track projects."
+    },
+    {
+      "to": "catfish",
+      "note": "Poon interprets renewed sex as coping with humiliation and loss."
+    },
+    {
+      "to": "family-metaphor",
+      "note": "Poon says pranking insiders violated his model of the cast as family."
+    },
+    {
+      "to": "audience-comments",
+      "note": "Reported honesty criticism shows fan trust, though comments were not directly audited here."
+    },
+    {
+      "to": "relationship-dynamics",
+      "note": "Poon distinguishes professional/client closeness from romance."
+    },
+    {
+      "to": "intimacy",
+      "note": "Steve and Poon contrast emotional bonding with the cast's sexual-performance persona."
+    },
+    {
+      "to": "missed-opportunity",
+      "note": "Private romantic regrets motivate action without exposing identities."
+    },
+    {
+      "to": "self-inquiry",
+      "note": "Fault-finding is redirected toward what one can control."
+    },
+    {
+      "to": "source-philosophy",
+      "note": "The speakers value having the conversation even without knowing audience response."
+    },
+    {
+      "to": "ui-evidence-pattern",
+      "note": "UI needs claim state, impact evidence, hypothetical branches and unresolved future teasers."
+    }
   ],
-  "content_warnings":["explicit sexual activity","sex work and sex tourism","possible trafficking/coercion","private sexual recording","uncertain distribution consent","consent ambiguity","covert observation","repeated persuasion","racial and ethnic objectification","ableist slur","homophobic framing","pornography","masturbation","relationship and marriage allegations","deception and prank-induced distrust","catfishing and emotional distress","violent/gangster speculation","theft stereotypes","private-person identity clues","workplace/location exposure","family medical detail","alcohol/drug references","body/genital detail","mental-health self-description","off-the-record material"],
-  "publication_restrictions":[
-    {"t":32,"rule":"withhold Ranch property, floor plan and access trail"},{"t":154,"rule":"do not reproduce intimate image/evidence"},{"t":300,"rule":"attribute double-prank disclosure; do not call independently verified"},{"t":469,"rule":"withhold private workplace"},{"t":594,"rule":"withhold private Instagram/airport identity trail"},{"t":707,"rule":"withhold childhood crush and minor-era identity"},{"t":964,"rule":"do not expose private production schedule"},{"t":1164,"rule":"do not assume consent to trip recording"},{"t":1257,"rule":"do not convert sex-tour fantasy into recommendations"},{"t":1279,"rule":"do not present sex-work price/availability claims as current fact"},{"t":1503,"rule":"do not index workers by ethnicity as a shopping list"},{"t":1709,"rule":"label prank scenario hypothetical"},{"t":1938,"rule":"do not diagnose anxiety disorder"},{"t":2462,"rule":"recording plans require worker and participant consent"},{"t":2651,"rule":"do not isolate private sexual detail as erotic excerpt"},{"t":2726,"rule":"retain covert method and later disclosure separately"},{"t":2762,"rule":"retain shared-shower refusal"},{"t":3582,"rule":"correct likely decoder error but preserve triple-prank uncertainty"},{"t":3797,"rule":"keep affair as re-alleged, not verified"},{"t":4018,"rule":"do not infer consent from physical reenactment alone"},{"t":4251,"rule":"attribute private marriage claims"},{"t":4489,"rule":"do not seek, publish, train on or identify reported private sex video"},{"t":4623,"rule":"reported comfort with recording is not distribution consent"},{"t":5146,"rule":"protect client/professional relationship details"},{"t":5719,"rule":"historical meetup point is not current travel guidance"},{"t":5858,"rule":"do not reconstruct off-the-record material"},{"t":6078,"rule":"keep Trisha pseudonymous"},{"t":6207,"rule":"never compose age/race/proximity/workplace clues to identify crush"},{"t":6437,"rule":"do not record or expose sex workers without informed consent"}
-  ]
+  "content_warnings": [
+    "explicit sexual activity",
+    "sex work and sex tourism",
+    "possible trafficking/coercion",
+    "private sexual recording",
+    "uncertain distribution consent",
+    "consent ambiguity",
+    "covert observation",
+    "repeated persuasion",
+    "racial and ethnic objectification",
+    "ableist slur",
+    "homophobic framing",
+    "pornography",
+    "masturbation",
+    "relationship and marriage allegations",
+    "deception and prank-induced distrust",
+    "catfishing and emotional distress",
+    "violent/gangster speculation",
+    "theft stereotypes",
+    "private-person identity clues",
+    "workplace/location exposure",
+    "family medical detail",
+    "alcohol/drug references",
+    "body/genital detail",
+    "mental-health self-description",
+    "off-the-record material"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 32,
+      "rule": "withhold Ranch property, floor plan and access trail"
+    },
+    {
+      "t": 154,
+      "rule": "do not reproduce intimate image/evidence"
+    },
+    {
+      "t": 300,
+      "rule": "attribute double-prank disclosure; do not call independently verified"
+    },
+    {
+      "t": 469,
+      "rule": "withhold private workplace"
+    },
+    {
+      "t": 594,
+      "rule": "withhold private Instagram/airport identity trail"
+    },
+    {
+      "t": 707,
+      "rule": "withhold childhood crush and minor-era identity"
+    },
+    {
+      "t": 964,
+      "rule": "do not expose private production schedule"
+    },
+    {
+      "t": 1164,
+      "rule": "do not assume consent to trip recording"
+    },
+    {
+      "t": 1257,
+      "rule": "do not convert sex-tour fantasy into recommendations"
+    },
+    {
+      "t": 1279,
+      "rule": "do not present sex-work price/availability claims as current fact"
+    },
+    {
+      "t": 1503,
+      "rule": "do not index workers by ethnicity as a shopping list"
+    },
+    {
+      "t": 1709,
+      "rule": "label prank scenario hypothetical"
+    },
+    {
+      "t": 1938,
+      "rule": "do not diagnose anxiety disorder"
+    },
+    {
+      "t": 2462,
+      "rule": "recording plans require worker and participant consent"
+    },
+    {
+      "t": 2651,
+      "rule": "do not isolate private sexual detail as erotic excerpt"
+    },
+    {
+      "t": 2726,
+      "rule": "retain covert method and later disclosure separately"
+    },
+    {
+      "t": 2762,
+      "rule": "retain shared-shower refusal"
+    },
+    {
+      "t": 3582,
+      "rule": "correct likely decoder error but preserve triple-prank uncertainty"
+    },
+    {
+      "t": 3797,
+      "rule": "keep affair as re-alleged, not verified"
+    },
+    {
+      "t": 4018,
+      "rule": "do not infer consent from physical reenactment alone"
+    },
+    {
+      "t": 4251,
+      "rule": "attribute private marriage claims"
+    },
+    {
+      "t": 4489,
+      "rule": "do not seek, publish, train on or identify reported private sex video"
+    },
+    {
+      "t": 4623,
+      "rule": "reported comfort with recording is not distribution consent"
+    },
+    {
+      "t": 5146,
+      "rule": "protect client/professional relationship details"
+    },
+    {
+      "t": 5719,
+      "rule": "historical meetup point is not current travel guidance"
+    },
+    {
+      "t": 5858,
+      "rule": "do not reconstruct off-the-record material"
+    },
+    {
+      "t": 6078,
+      "rule": "keep Trisha pseudonymous"
+    },
+    {
+      "t": 6207,
+      "rule": "never compose age/race/proximity/workplace clues to identify crush"
+    },
+    {
+      "t": 6437,
+      "rule": "do not record or expose sex workers without informed consent"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Bill Poon",
+    "Steve Lee"
+  ],
+  "places": [
+    "San Francisco",
+    "the Ranch",
+    "Macau"
+  ],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Steve Lee and Bill Poon record alone at the Ranch, initially following discussion prompts David Choe supplied.",
+  "description_source": "Opening of the human-reviewed summary."
 }

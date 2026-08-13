@@ -3,298 +3,1188 @@
   "sensitivity": "Explicit sexual discussion; sexual assault and coercion; childhood-abuse speculation; workplace power; threats; racism, antisemitism, homophobia, ableist language, and gender stereotypes; private relationships; medical misinformation; compulsive behavior.",
   "speaker_policy": "No named dialogue is publishable. The existing artifact has zero turns and zero voice windows, and the independent held-out multi-speaker validation gate has not passed. Participant names below describe episode context, not machine-attributed utterances.",
   "chapters": [
-    {"t":3,"title":"DVDASA opening with the regular room"},
-    {"t":83,"title":"Remembering Zach Gilford and Kevin Smith"},
-    {"t":130,"title":"Asa's Sex Awards nominations"},
-    {"t":202,"title":"Chemical peel changes the filming plan"},
-    {"t":231,"title":"A television-first adult awards show"},
-    {"t":265,"title":"Inviting the DVDASA group"},
-    {"t":303,"title":"Microphone and slushy noise"},
-    {"t":347,"title":"Ask Asa arrives early"},
-    {"t":361,"title":"David imagines instead of watching pornography"},
-    {"t":401,"title":"Group-scene terminology"},
-    {"t":448,"title":"The anchor role"},
-    {"t":473,"title":"Physical demands of staying still"},
-    {"t":526,"title":"A viewer notices the anchor"},
-    {"t":554,"title":"Synchronized versus alternating motion"},
-    {"t":624,"title":"The room notices a food smell"},
-    {"t":647,"title":"Asa answers the performance question"},
-    {"t":673,"title":"Fear that a performer will slip out"},
-    {"t":709,"title":"Bruises and Critter's objections"},
-    {"t":721,"title":"The beanbag is repeatedly offered up"},
-    {"t":747,"title":"Critter does not want his stories shared"},
-    {"t":779,"title":"A private friend is accused of lying"},
-    {"t":815,"title":"Why not call the police?"},
-    {"t":856,"title":"A hike becomes an assault hypothetical"},
-    {"t":881,"title":"Size is treated as inevitability"},
-    {"t":918,"title":"Critter describes incapacitation and force"},
-    {"t":945,"title":"The improvised-device scenario"},
-    {"t":977,"title":"Can either man be assaulted?"},
-    {"t":1001,"title":"When would resistance stop?"},
-    {"t":1021,"title":"Submission under threat is still assault"},
-    {"t":1057,"title":"Familiarity and stigma distort the question"},
-    {"t":1092,"title":"Arousal and violence are debated"},
-    {"t":1139,"title":"The room scripts a conditional threat"},
-    {"t":1182,"title":"Valentin is pulled into the hypothetical"},
-    {"t":1215,"title":"Quiet C becomes a hostage premise"},
-    {"t":1241,"title":"Prison sex and masculinity"},
-    {"t":1262,"title":"Body hair diverts the discussion"},
-    {"t":1288,"title":"Laser removal and grooming"},
-    {"t":1306,"title":"Quiet C asked permission before touching"},
-    {"t":1337,"title":"Critter's inexperience undercuts his claim"},
-    {"t":1357,"title":"The room denies male victimization"},
-    {"t":1395,"title":"Child abuse by women is disputed"},
-    {"t":1424,"title":"Penetration is mistaken for the whole definition"},
-    {"t":1454,"title":"Bobby becomes the next target"},
-    {"t":1507,"title":"Cheating and assault are falsely compared"},
-    {"t":1534,"title":"A prior unwanted-touch allegation"},
-    {"t":1549,"title":"Bobby refuses forgiveness"},
-    {"t":1576,"title":"Self-defense is ruled out by the premise"},
-    {"t":1603,"title":"Employment after assault"},
-    {"t":1608,"title":"Insurance is invoked"},
-    {"t":1630,"title":"An apology is rehearsed"},
-    {"t":1669,"title":"Bobby says he would quit"},
-    {"t":1685,"title":"The room pressures him to reconsider"},
-    {"t":1710,"title":"A smile is misread as consent"},
-    {"t":1748,"title":"Eyes are said to override words"},
-    {"t":1794,"title":"A bedroom refusal is reframed as a game"},
-    {"t":1841,"title":"Force is called part of the dance"},
-    {"t":1853,"title":"Entering a room is miscast as consent"},
-    {"t":1874,"title":"A Hollywood weekend begins"},
-    {"t":1912,"title":"A show about friendship"},
-    {"t":1931,"title":"Why adult friendship is difficult"},
-    {"t":1964,"title":"Money Mark talks to everyone"},
-    {"t":1993,"title":"Columbus Park and old friendships"},
-    {"t":2014,"title":"Megan Fox at a dermatologist"},
-    {"t":2046,"title":"Medical-setting privacy"},
-    {"t":2084,"title":"Where approaching strangers is appropriate"},
-    {"t":2105,"title":"Admiring work without seeking friendship"},
-    {"t":2135,"title":"Life changes outpace old relationships"},
-    {"t":2177,"title":"Relating to Money Mark"},
-    {"t":2190,"title":"Managers arrange adult play dates"},
-    {"t":2250,"title":"John Cusack introduction story"},
-    {"t":2272,"title":"Critter becomes a publicist"},
-    {"t":2304,"title":"David Arquette calls"},
-    {"t":2311,"title":"A fragile Mexico sculpture"},
-    {"t":2333,"title":"Critter wears many hats"},
-    {"t":2423,"title":"Why Critter offers up the beanbag"},
-    {"t":2446,"title":"Critter says he was forced onto the podcast"},
-    {"t":2470,"title":"His best comments arrive after recording"},
-    {"t":2489,"title":"He does not want to tell stories"},
-    {"t":2501,"title":"Nobody wants to be on the show"},
-    {"t":2520,"title":"Participation pressure becomes explicit"},
-    {"t":2560,"title":"The cast listens to its own podcast"},
-    {"t":2607,"title":"A reporter is in the room"},
-    {"t":2640,"title":"The number-one agent in Hollywood"},
-    {"t":2653,"title":"Critter wants a business card"},
-    {"t":2664,"title":"White gold and a diamond eye"},
-    {"t":2741,"title":"Resting eyes triggers threats"},
-    {"t":2780,"title":"A threat of assault on the show"},
-    {"t":2817,"title":"Testing a different seating arrangement"},
-    {"t":2871,"title":"Family Guy's sleeping excuse"},
-    {"t":2883,"title":"CHiPs versus Little House on the Prairie"},
-    {"t":2920,"title":"Changing to He-Man"},
-    {"t":2968,"title":"Physical distraction returns"},
-    {"t":2982,"title":"Quiet C is away"},
-    {"t":3006,"title":"Planning a possible engagement"},
-    {"t":3031,"title":"Bobby misses an appointment"},
-    {"t":3072,"title":"A cleaner-deleted line must be restored"},
-    {"t":3074,"title":"Persephone is unveiled"},
-    {"t":3132,"title":"A treated wart becomes spectacle"},
-    {"t":3177,"title":"Liquid-nitrogen treatment"},
-    {"t":3210,"title":"Dermatologist versus urgent care"},
-    {"t":3237,"title":"The cast urges amateur excision"},
-    {"t":3261,"title":"The Instagram progression"},
-    {"t":3298,"title":"Health-podcast disclaimer"},
-    {"t":3330,"title":"Missing Quiet C"},
-    {"t":3352,"title":"Video sex versus phone sex"},
-    {"t":3372,"title":"Adult-site live streaming"},
-    {"t":3400,"title":"Frustration is blamed on not having sex"},
-    {"t":3442,"title":"A private Mexico partner is mentioned"},
-    {"t":3470,"title":"The room presses anatomy speculation"},
-    {"t":3544,"title":"A forgotten prior conversation"},
-    {"t":3593,"title":"The beautiful former partner was Asa"},
-    {"t":3608,"title":"Tulum and failing memory"},
-    {"t":3636,"title":"Can David share comfortable silence?"},
-    {"t":3665,"title":"Talking through sex and sleep"},
-    {"t":3685,"title":"The slumber-party analogy"},
-    {"t":3731,"title":"Naps instead of a night's sleep"},
-    {"t":3744,"title":"Keni Styles' reported sleep experiment"},
-    {"t":3793,"title":"Fear of being first asleep"},
-    {"t":3831,"title":"A former college roommate"},
-    {"t":3865,"title":"An ambiguous sleeping incident"},
-    {"t":3912,"title":"Bonding over Jawbreaker"},
-    {"t":4000,"title":"The roommate calls David his best friend"},
-    {"t":4017,"title":"Late-night disturbing stories"},
-    {"t":4039,"title":"David wakes while being kicked"},
-    {"t":4053,"title":"The cardboard-banana privacy signal"},
-    {"t":4083,"title":"A girlfriend's body hair"},
-    {"t":4095,"title":"David revisits his judgment"},
-    {"t":4115,"title":"Three months in China"},
-    {"t":4144,"title":"Familiarity changes attraction"},
-    {"t":4185,"title":"A narrow apology for judgment"},
-    {"t":4200,"title":"The private dorm story resumes"},
-    {"t":4240,"title":"Students laugh after turning the corner"},
-    {"t":4261,"title":"Art-school grooming stereotypes"},
-    {"t":4341,"title":"The roommate is anonymized as Bobby"},
-    {"t":4362,"title":"He overhears the humiliation"},
-    {"t":4397,"title":"The chronology is uncertain"},
-    {"t":4441,"title":"Explicit interruption"},
-    {"t":4473,"title":"The childhood question returns"},
-    {"t":4480,"title":"Assuming sex workers were abused"},
-    {"t":4589,"title":"Asa remembers a male babysitter"},
-    {"t":4632,"title":"He entered the toddler bed"},
-    {"t":4640,"title":"A parent's cryptic explanation"},
-    {"t":4653,"title":"The room leaps to an abuse conclusion"},
-    {"t":4687,"title":"What a parent might do"},
-    {"t":4720,"title":"Asa says the theory is based on nothing"},
-    {"t":4750,"title":"The accusation remains ungrounded"},
-    {"t":4875,"title":"Pornography and trauma are overgeneralized"},
-    {"t":4915,"title":"No parenting choice eliminates all risk"},
-    {"t":4930,"title":"The babysitter might be innocent"},
-    {"t":4969,"title":"David wonders about hypersexuality"},
-    {"t":4996,"title":"Missing childhood memory and nighttime fear"},
-    {"t":5041,"title":"Speculation is not recollection"},
-    {"t":5088,"title":"The metal-blanket compulsion"},
-    {"t":5139,"title":"Sleeping in an escape position"},
-    {"t":5178,"title":"Imagining bones broken to escape"},
-    {"t":5202,"title":"Knowing a fear is irrational does not stop it"},
-    {"t":5228,"title":"Lines, John Bender, and repetition"},
-    {"t":5277,"title":"Religious repetition after swearing"},
-    {"t":5298,"title":"The college story resumes again"},
-    {"t":5323,"title":"Blankets displaced and clothes uncertain"},
-    {"t":5350,"title":"David relies on a feeling"},
-    {"t":5363,"title":"Asa says the belief may be delusional"},
-    {"t":5393,"title":"A remembered kick is separated from speculation"},
-    {"t":5431,"title":"David retaliates violently"},
-    {"t":5456,"title":"The roommate tells the dorm"},
-    {"t":5488,"title":"No one knows what happened"},
-    {"t":5506,"title":"Three roommates and inappropriate inference"},
-    {"t":5555,"title":"Memory failure closes the story"},
-    {"t":5580,"title":"The reporter is invited forward"},
-    {"t":5617,"title":"Jay's notebook"},
-    {"t":5633,"title":"North Carolina and Korean identity"},
-    {"t":5648,"title":"Why DVDASA distrusts the press"},
-    {"t":5666,"title":"Jay's enthusiastic email"},
-    {"t":5676,"title":"A bad story is met with a threat"},
-    {"t":5695,"title":"A prior profile disappointed the hosts"},
-    {"t":5723,"title":"The Facebook-millionaire frame"},
-    {"t":5738,"title":"Jay defines han"},
-    {"t":5754,"title":"Jay's private partner is pulled in"},
-    {"t":5770,"title":"The objective of the profile"},
-    {"t":5781,"title":"Rolled pants and sockless boat shoes"},
-    {"t":5811,"title":"Graduate school and paternal influence"},
-    {"t":5831,"title":"Born in Korea and educated at Bowdoin"},
-    {"t":5842,"title":"What will the story be about?"},
-    {"t":5850,"title":"Fans are invoked as leverage"},
-    {"t":5861,"title":"Don King's denunciation"},
-    {"t":5877,"title":"Spending two weeks with a subject"},
-    {"t":5889,"title":"Editors and independence"},
-    {"t":5916,"title":"Who must be seen with whom"},
-    {"t":5962,"title":"A journalist is asked to observe fashion"},
-    {"t":5984,"title":"The publishing look"},
-    {"t":6022,"title":"Roy Choi and the doppelgänger joke"},
-    {"t":6061,"title":"Critter befriends the reporter"},
-    {"t":6109,"title":"Korean-language ability"},
-    {"t":6121,"title":"Dating history becomes an identity test"},
-    {"t":6157,"title":"American-born Chinese"},
-    {"t":6176,"title":"Los Angeles and Korean community"},
-    {"t":6187,"title":"A mother's influence is proposed"},
-    {"t":6214,"title":"Racial dating generalizations"},
-    {"t":6254,"title":"Returning to the intended story"},
-    {"t":6266,"title":"Security, publicist, and weekend labor"},
-    {"t":6285,"title":"A new title every day"},
-    {"t":6297,"title":"Adjusting to being recognized"},
-    {"t":6323,"title":"Critter amplifies public encounters"},
-    {"t":6387,"title":"The standard fan photograph"},
-    {"t":6413,"title":"Avoiding a stranger's armpit"},
-    {"t":6463,"title":"David changes the pose"},
-    {"t":6479,"title":"An uncertain celebrity diner-photo story"},
-    {"t":6516,"title":"An artist wants a less generic picture"},
-    {"t":6535,"title":"Asa resists fan art direction"},
-    {"t":6560,"title":"The prom-shot proposal"},
-    {"t":6594,"title":"The guest must take it David's way"},
-    {"t":6626,"title":"A celebrity birthday invitation"},
-    {"t":6633,"title":"David Arquette writes to KGB"},
-    {"t":6671,"title":"Anthony Bourdain and Sizzler"},
-    {"t":6690,"title":"Arriving with Critter"},
-    {"t":6711,"title":"A kimono appears from a motorcycle"},
-    {"t":6721,"title":"Paul Reubens sits alone"},
-    {"t":6740,"title":"Arquette welcomes the guests"},
-    {"t":6762,"title":"A costume theme they did not know"},
-    {"t":6787,"title":"Asking for an introduction"},
-    {"t":6799,"title":"Correcting the pedophilia conflation"},
-    {"t":6847,"title":"Gary Panter and set design"},
-    {"t":6856,"title":"Sacha Baron Cohen joins the conversation"},
-    {"t":6875,"title":"RETNA, EL MAC, graffiti, and Banksy"},
-    {"t":6933,"title":"Bootsy Bellows invitation"},
-    {"t":6973,"title":"Critter does not want the club"},
-    {"t":6994,"title":"Accepting that people like Critter"},
-    {"t":7021,"title":"Devin Troy Strother's rooftop party"},
-    {"t":7031,"title":"Psy, comedy, and perceived han"},
-    {"t":7061,"title":"Art with deliberately racist titles"},
-    {"t":7095,"title":"Meeting the artist in Koreatown"},
-    {"t":7113,"title":"Asking about audience objections"},
-    {"t":7150,"title":"A private attendee is sexualized"},
-    {"t":7170,"title":"Dating race becomes group sport"},
-    {"t":7217,"title":"A girlfriend is exposed mid-conversation"},
-    {"t":7221,"title":"Racial preference and fetishization"},
-    {"t":7248,"title":"Black mothers and a misheard phrase"},
-    {"t":7306,"title":"How to exit a bad conversation"},
-    {"t":7323,"title":"Avoiding being Lamboed"},
-    {"t":7345,"title":"A stranger demands wealth performance"},
-    {"t":7369,"title":"Who is the artist?"},
-    {"t":7382,"title":"Claiming the graffiti Buddha"},
-    {"t":7416,"title":"A gallery owner asks where to buy"},
-    {"t":7427,"title":"A homophobic insult backfires"},
-    {"t":7456,"title":"Walking away versus saying why"},
-    {"t":7499,"title":"Why Critter avoids events"},
-    {"t":7519,"title":"The insult reaches the host"},
-    {"t":7548,"title":"Honesty, lying, or leaving"},
-    {"t":7581,"title":"The reporter is threatened again"},
-    {"t":7604,"title":"Lying to avoid more conversation"},
-    {"t":7643,"title":"The spotlight burns"},
-    {"t":7655,"title":"Bobby has no prepared trivia"},
-    {"t":7677,"title":"Asa had already apologized"},
-    {"t":7712,"title":"Persephone becomes the punishment"},
-    {"t":7722,"title":"Critter, Money Mark, and Asa categories"},
-    {"t":7733,"title":"Jay is made to play"},
-    {"t":7749,"title":"Spoon House in Gardena"},
-    {"t":7803,"title":"Critter trivia"},
-    {"t":7841,"title":"Money Mark trivia"},
-    {"t":7852,"title":"Red Hot Chili Peppers"},
-    {"t":7883,"title":"Beastie Boys disputed as the obvious trio"},
-    {"t":7902,"title":"Mariah Carey questions for Asa"},
-    {"t":7914,"title":"Glitter, not Butterfly"},
-    {"t":7931,"title":"The category design is challenged"},
-    {"t":7955,"title":"John Butler Trio is the intended answer"},
-    {"t":7979,"title":"David smells the treated wart"},
-    {"t":8012,"title":"The smell is compared to food"},
-    {"t":8040,"title":"Another call to cut it off"},
-    {"t":8101,"title":"DVDASA closing"},
-    {"t":8159.74,"title":"Final thank-you"}
+    {
+      "t": 3,
+      "title": "DVDASA opening with the regular room"
+    },
+    {
+      "t": 83,
+      "title": "Remembering Zach Gilford and Kevin Smith"
+    },
+    {
+      "t": 130,
+      "title": "Asa's Sex Awards nominations"
+    },
+    {
+      "t": 202,
+      "title": "Chemical peel changes the filming plan"
+    },
+    {
+      "t": 231,
+      "title": "A television-first adult awards show"
+    },
+    {
+      "t": 265,
+      "title": "Inviting the DVDASA group"
+    },
+    {
+      "t": 303,
+      "title": "Microphone and slushy noise"
+    },
+    {
+      "t": 347,
+      "title": "Ask Asa arrives early"
+    },
+    {
+      "t": 361,
+      "title": "David imagines instead of watching pornography"
+    },
+    {
+      "t": 401,
+      "title": "Group-scene terminology"
+    },
+    {
+      "t": 448,
+      "title": "The anchor role"
+    },
+    {
+      "t": 473,
+      "title": "Physical demands of staying still"
+    },
+    {
+      "t": 526,
+      "title": "A viewer notices the anchor"
+    },
+    {
+      "t": 554,
+      "title": "Synchronized versus alternating motion"
+    },
+    {
+      "t": 624,
+      "title": "The room notices a food smell"
+    },
+    {
+      "t": 647,
+      "title": "Asa answers the performance question"
+    },
+    {
+      "t": 673,
+      "title": "Fear that a performer will slip out"
+    },
+    {
+      "t": 709,
+      "title": "Bruises and Critter's objections"
+    },
+    {
+      "t": 721,
+      "title": "The beanbag is repeatedly offered up"
+    },
+    {
+      "t": 747,
+      "title": "Critter does not want his stories shared"
+    },
+    {
+      "t": 779,
+      "title": "A private friend is accused of lying"
+    },
+    {
+      "t": 815,
+      "title": "Why not call the police?"
+    },
+    {
+      "t": 856,
+      "title": "A hike becomes an assault hypothetical"
+    },
+    {
+      "t": 881,
+      "title": "Size is treated as inevitability"
+    },
+    {
+      "t": 918,
+      "title": "Critter describes incapacitation and force"
+    },
+    {
+      "t": 945,
+      "title": "The improvised-device scenario"
+    },
+    {
+      "t": 977,
+      "title": "Can either man be assaulted?"
+    },
+    {
+      "t": 1001,
+      "title": "When would resistance stop?"
+    },
+    {
+      "t": 1021,
+      "title": "Submission under threat is still assault"
+    },
+    {
+      "t": 1057,
+      "title": "Familiarity and stigma distort the question"
+    },
+    {
+      "t": 1092,
+      "title": "Arousal and violence are debated"
+    },
+    {
+      "t": 1139,
+      "title": "The room scripts a conditional threat"
+    },
+    {
+      "t": 1182,
+      "title": "Valentin is pulled into the hypothetical"
+    },
+    {
+      "t": 1215,
+      "title": "Quiet C becomes a hostage premise"
+    },
+    {
+      "t": 1241,
+      "title": "Prison sex and masculinity"
+    },
+    {
+      "t": 1262,
+      "title": "Body hair diverts the discussion"
+    },
+    {
+      "t": 1288,
+      "title": "Laser removal and grooming"
+    },
+    {
+      "t": 1306,
+      "title": "Quiet C asked permission before touching"
+    },
+    {
+      "t": 1337,
+      "title": "Critter's inexperience undercuts his claim"
+    },
+    {
+      "t": 1357,
+      "title": "The room denies male victimization"
+    },
+    {
+      "t": 1395,
+      "title": "Child abuse by women is disputed"
+    },
+    {
+      "t": 1424,
+      "title": "Penetration is mistaken for the whole definition"
+    },
+    {
+      "t": 1454,
+      "title": "Bobby becomes the next target"
+    },
+    {
+      "t": 1507,
+      "title": "Cheating and assault are falsely compared"
+    },
+    {
+      "t": 1534,
+      "title": "A prior unwanted-touch allegation"
+    },
+    {
+      "t": 1549,
+      "title": "Bobby refuses forgiveness"
+    },
+    {
+      "t": 1576,
+      "title": "Self-defense is ruled out by the premise"
+    },
+    {
+      "t": 1603,
+      "title": "Employment after assault"
+    },
+    {
+      "t": 1608,
+      "title": "Insurance is invoked"
+    },
+    {
+      "t": 1630,
+      "title": "An apology is rehearsed"
+    },
+    {
+      "t": 1669,
+      "title": "Bobby says he would quit"
+    },
+    {
+      "t": 1685,
+      "title": "The room pressures him to reconsider"
+    },
+    {
+      "t": 1710,
+      "title": "A smile is misread as consent"
+    },
+    {
+      "t": 1748,
+      "title": "Eyes are said to override words"
+    },
+    {
+      "t": 1794,
+      "title": "A bedroom refusal is reframed as a game"
+    },
+    {
+      "t": 1841,
+      "title": "Force is called part of the dance"
+    },
+    {
+      "t": 1853,
+      "title": "Entering a room is miscast as consent"
+    },
+    {
+      "t": 1874,
+      "title": "A Hollywood weekend begins"
+    },
+    {
+      "t": 1912,
+      "title": "A show about friendship"
+    },
+    {
+      "t": 1931,
+      "title": "Why adult friendship is difficult"
+    },
+    {
+      "t": 1964,
+      "title": "Money Mark talks to everyone"
+    },
+    {
+      "t": 1993,
+      "title": "Columbus Park and old friendships"
+    },
+    {
+      "t": 2014,
+      "title": "Megan Fox at a dermatologist"
+    },
+    {
+      "t": 2046,
+      "title": "Medical-setting privacy"
+    },
+    {
+      "t": 2084,
+      "title": "Where approaching strangers is appropriate"
+    },
+    {
+      "t": 2105,
+      "title": "Admiring work without seeking friendship"
+    },
+    {
+      "t": 2135,
+      "title": "Life changes outpace old relationships"
+    },
+    {
+      "t": 2177,
+      "title": "Relating to Money Mark"
+    },
+    {
+      "t": 2190,
+      "title": "Managers arrange adult play dates"
+    },
+    {
+      "t": 2250,
+      "title": "John Cusack introduction story"
+    },
+    {
+      "t": 2272,
+      "title": "Critter becomes a publicist"
+    },
+    {
+      "t": 2304,
+      "title": "David Arquette calls"
+    },
+    {
+      "t": 2311,
+      "title": "A fragile Mexico sculpture"
+    },
+    {
+      "t": 2333,
+      "title": "Critter wears many hats"
+    },
+    {
+      "t": 2423,
+      "title": "Why Critter offers up the beanbag"
+    },
+    {
+      "t": 2446,
+      "title": "Critter says he was forced onto the podcast"
+    },
+    {
+      "t": 2470,
+      "title": "His best comments arrive after recording"
+    },
+    {
+      "t": 2489,
+      "title": "He does not want to tell stories"
+    },
+    {
+      "t": 2501,
+      "title": "Nobody wants to be on the show"
+    },
+    {
+      "t": 2520,
+      "title": "Participation pressure becomes explicit"
+    },
+    {
+      "t": 2560,
+      "title": "The cast listens to its own podcast"
+    },
+    {
+      "t": 2607,
+      "title": "A reporter is in the room"
+    },
+    {
+      "t": 2640,
+      "title": "The number-one agent in Hollywood"
+    },
+    {
+      "t": 2653,
+      "title": "Critter wants a business card"
+    },
+    {
+      "t": 2664,
+      "title": "White gold and a diamond eye"
+    },
+    {
+      "t": 2741,
+      "title": "Resting eyes triggers threats"
+    },
+    {
+      "t": 2780,
+      "title": "A threat of assault on the show"
+    },
+    {
+      "t": 2817,
+      "title": "Testing a different seating arrangement"
+    },
+    {
+      "t": 2871,
+      "title": "Family Guy's sleeping excuse"
+    },
+    {
+      "t": 2883,
+      "title": "CHiPs versus Little House on the Prairie"
+    },
+    {
+      "t": 2920,
+      "title": "Changing to He-Man"
+    },
+    {
+      "t": 2968,
+      "title": "Physical distraction returns"
+    },
+    {
+      "t": 2982,
+      "title": "Quiet C is away"
+    },
+    {
+      "t": 3006,
+      "title": "Planning a possible engagement"
+    },
+    {
+      "t": 3031,
+      "title": "Bobby misses an appointment"
+    },
+    {
+      "t": 3072,
+      "title": "A cleaner-deleted line must be restored"
+    },
+    {
+      "t": 3074,
+      "title": "Persephone is unveiled"
+    },
+    {
+      "t": 3132,
+      "title": "A treated wart becomes spectacle"
+    },
+    {
+      "t": 3177,
+      "title": "Liquid-nitrogen treatment"
+    },
+    {
+      "t": 3210,
+      "title": "Dermatologist versus urgent care"
+    },
+    {
+      "t": 3237,
+      "title": "The cast urges amateur excision"
+    },
+    {
+      "t": 3261,
+      "title": "The Instagram progression"
+    },
+    {
+      "t": 3298,
+      "title": "Health-podcast disclaimer"
+    },
+    {
+      "t": 3330,
+      "title": "Missing Quiet C"
+    },
+    {
+      "t": 3352,
+      "title": "Video sex versus phone sex"
+    },
+    {
+      "t": 3372,
+      "title": "Adult-site live streaming"
+    },
+    {
+      "t": 3400,
+      "title": "Frustration is blamed on not having sex"
+    },
+    {
+      "t": 3442,
+      "title": "A private Mexico partner is mentioned"
+    },
+    {
+      "t": 3470,
+      "title": "The room presses anatomy speculation"
+    },
+    {
+      "t": 3544,
+      "title": "A forgotten prior conversation"
+    },
+    {
+      "t": 3593,
+      "title": "The beautiful former partner was Asa"
+    },
+    {
+      "t": 3608,
+      "title": "Tulum and failing memory"
+    },
+    {
+      "t": 3636,
+      "title": "Can David share comfortable silence?"
+    },
+    {
+      "t": 3665,
+      "title": "Talking through sex and sleep"
+    },
+    {
+      "t": 3685,
+      "title": "The slumber-party analogy"
+    },
+    {
+      "t": 3731,
+      "title": "Naps instead of a night's sleep"
+    },
+    {
+      "t": 3744,
+      "title": "Keni Styles' reported sleep experiment"
+    },
+    {
+      "t": 3793,
+      "title": "Fear of being first asleep"
+    },
+    {
+      "t": 3831,
+      "title": "A former college roommate"
+    },
+    {
+      "t": 3865,
+      "title": "An ambiguous sleeping incident"
+    },
+    {
+      "t": 3912,
+      "title": "Bonding over Jawbreaker"
+    },
+    {
+      "t": 4000,
+      "title": "The roommate calls David his best friend"
+    },
+    {
+      "t": 4017,
+      "title": "Late-night disturbing stories"
+    },
+    {
+      "t": 4039,
+      "title": "David wakes while being kicked"
+    },
+    {
+      "t": 4053,
+      "title": "The cardboard-banana privacy signal"
+    },
+    {
+      "t": 4083,
+      "title": "A girlfriend's body hair"
+    },
+    {
+      "t": 4095,
+      "title": "David revisits his judgment"
+    },
+    {
+      "t": 4115,
+      "title": "Three months in China"
+    },
+    {
+      "t": 4144,
+      "title": "Familiarity changes attraction"
+    },
+    {
+      "t": 4185,
+      "title": "A narrow apology for judgment"
+    },
+    {
+      "t": 4200,
+      "title": "The private dorm story resumes"
+    },
+    {
+      "t": 4240,
+      "title": "Students laugh after turning the corner"
+    },
+    {
+      "t": 4261,
+      "title": "Art-school grooming stereotypes"
+    },
+    {
+      "t": 4341,
+      "title": "The roommate is anonymized as Bobby"
+    },
+    {
+      "t": 4362,
+      "title": "He overhears the humiliation"
+    },
+    {
+      "t": 4397,
+      "title": "The chronology is uncertain"
+    },
+    {
+      "t": 4441,
+      "title": "Explicit interruption"
+    },
+    {
+      "t": 4473,
+      "title": "The childhood question returns"
+    },
+    {
+      "t": 4480,
+      "title": "Assuming sex workers were abused"
+    },
+    {
+      "t": 4589,
+      "title": "Asa remembers a male babysitter"
+    },
+    {
+      "t": 4632,
+      "title": "He entered the toddler bed"
+    },
+    {
+      "t": 4640,
+      "title": "A parent's cryptic explanation"
+    },
+    {
+      "t": 4653,
+      "title": "The room leaps to an abuse conclusion"
+    },
+    {
+      "t": 4687,
+      "title": "What a parent might do"
+    },
+    {
+      "t": 4720,
+      "title": "Asa says the theory is based on nothing"
+    },
+    {
+      "t": 4750,
+      "title": "The accusation remains ungrounded"
+    },
+    {
+      "t": 4875,
+      "title": "Pornography and trauma are overgeneralized"
+    },
+    {
+      "t": 4915,
+      "title": "No parenting choice eliminates all risk"
+    },
+    {
+      "t": 4930,
+      "title": "The babysitter might be innocent"
+    },
+    {
+      "t": 4969,
+      "title": "David wonders about hypersexuality"
+    },
+    {
+      "t": 4996,
+      "title": "Missing childhood memory and nighttime fear"
+    },
+    {
+      "t": 5041,
+      "title": "Speculation is not recollection"
+    },
+    {
+      "t": 5088,
+      "title": "The metal-blanket compulsion"
+    },
+    {
+      "t": 5139,
+      "title": "Sleeping in an escape position"
+    },
+    {
+      "t": 5178,
+      "title": "Imagining bones broken to escape"
+    },
+    {
+      "t": 5202,
+      "title": "Knowing a fear is irrational does not stop it"
+    },
+    {
+      "t": 5228,
+      "title": "Lines, John Bender, and repetition"
+    },
+    {
+      "t": 5277,
+      "title": "Religious repetition after swearing"
+    },
+    {
+      "t": 5298,
+      "title": "The college story resumes again"
+    },
+    {
+      "t": 5323,
+      "title": "Blankets displaced and clothes uncertain"
+    },
+    {
+      "t": 5350,
+      "title": "David relies on a feeling"
+    },
+    {
+      "t": 5363,
+      "title": "Asa says the belief may be delusional"
+    },
+    {
+      "t": 5393,
+      "title": "A remembered kick is separated from speculation"
+    },
+    {
+      "t": 5431,
+      "title": "David retaliates violently"
+    },
+    {
+      "t": 5456,
+      "title": "The roommate tells the dorm"
+    },
+    {
+      "t": 5488,
+      "title": "No one knows what happened"
+    },
+    {
+      "t": 5506,
+      "title": "Three roommates and inappropriate inference"
+    },
+    {
+      "t": 5555,
+      "title": "Memory failure closes the story"
+    },
+    {
+      "t": 5580,
+      "title": "The reporter is invited forward"
+    },
+    {
+      "t": 5617,
+      "title": "Jay's notebook"
+    },
+    {
+      "t": 5633,
+      "title": "North Carolina and Korean identity"
+    },
+    {
+      "t": 5648,
+      "title": "Why DVDASA distrusts the press"
+    },
+    {
+      "t": 5666,
+      "title": "Jay's enthusiastic email"
+    },
+    {
+      "t": 5676,
+      "title": "A bad story is met with a threat"
+    },
+    {
+      "t": 5695,
+      "title": "A prior profile disappointed the hosts"
+    },
+    {
+      "t": 5723,
+      "title": "The Facebook-millionaire frame"
+    },
+    {
+      "t": 5738,
+      "title": "Jay defines han"
+    },
+    {
+      "t": 5754,
+      "title": "Jay's private partner is pulled in"
+    },
+    {
+      "t": 5770,
+      "title": "The objective of the profile"
+    },
+    {
+      "t": 5781,
+      "title": "Rolled pants and sockless boat shoes"
+    },
+    {
+      "t": 5811,
+      "title": "Graduate school and paternal influence"
+    },
+    {
+      "t": 5831,
+      "title": "Born in Korea and educated at Bowdoin"
+    },
+    {
+      "t": 5842,
+      "title": "What will the story be about?"
+    },
+    {
+      "t": 5850,
+      "title": "Fans are invoked as leverage"
+    },
+    {
+      "t": 5861,
+      "title": "Don King's denunciation"
+    },
+    {
+      "t": 5877,
+      "title": "Spending two weeks with a subject"
+    },
+    {
+      "t": 5889,
+      "title": "Editors and independence"
+    },
+    {
+      "t": 5916,
+      "title": "Who must be seen with whom"
+    },
+    {
+      "t": 5962,
+      "title": "A journalist is asked to observe fashion"
+    },
+    {
+      "t": 5984,
+      "title": "The publishing look"
+    },
+    {
+      "t": 6022,
+      "title": "Roy Choi and the doppelgänger joke"
+    },
+    {
+      "t": 6061,
+      "title": "Critter befriends the reporter"
+    },
+    {
+      "t": 6109,
+      "title": "Korean-language ability"
+    },
+    {
+      "t": 6121,
+      "title": "Dating history becomes an identity test"
+    },
+    {
+      "t": 6157,
+      "title": "American-born Chinese"
+    },
+    {
+      "t": 6176,
+      "title": "Los Angeles and Korean community"
+    },
+    {
+      "t": 6187,
+      "title": "A mother's influence is proposed"
+    },
+    {
+      "t": 6214,
+      "title": "Racial dating generalizations"
+    },
+    {
+      "t": 6254,
+      "title": "Returning to the intended story"
+    },
+    {
+      "t": 6266,
+      "title": "Security, publicist, and weekend labor"
+    },
+    {
+      "t": 6285,
+      "title": "A new title every day"
+    },
+    {
+      "t": 6297,
+      "title": "Adjusting to being recognized"
+    },
+    {
+      "t": 6323,
+      "title": "Critter amplifies public encounters"
+    },
+    {
+      "t": 6387,
+      "title": "The standard fan photograph"
+    },
+    {
+      "t": 6413,
+      "title": "Avoiding a stranger's armpit"
+    },
+    {
+      "t": 6463,
+      "title": "David changes the pose"
+    },
+    {
+      "t": 6479,
+      "title": "An uncertain celebrity diner-photo story"
+    },
+    {
+      "t": 6516,
+      "title": "An artist wants a less generic picture"
+    },
+    {
+      "t": 6535,
+      "title": "Asa resists fan art direction"
+    },
+    {
+      "t": 6560,
+      "title": "The prom-shot proposal"
+    },
+    {
+      "t": 6594,
+      "title": "The guest must take it David's way"
+    },
+    {
+      "t": 6626,
+      "title": "A celebrity birthday invitation"
+    },
+    {
+      "t": 6633,
+      "title": "David Arquette writes to KGB"
+    },
+    {
+      "t": 6671,
+      "title": "Anthony Bourdain and Sizzler"
+    },
+    {
+      "t": 6690,
+      "title": "Arriving with Critter"
+    },
+    {
+      "t": 6711,
+      "title": "A kimono appears from a motorcycle"
+    },
+    {
+      "t": 6721,
+      "title": "Paul Reubens sits alone"
+    },
+    {
+      "t": 6740,
+      "title": "Arquette welcomes the guests"
+    },
+    {
+      "t": 6762,
+      "title": "A costume theme they did not know"
+    },
+    {
+      "t": 6787,
+      "title": "Asking for an introduction"
+    },
+    {
+      "t": 6799,
+      "title": "Correcting the pedophilia conflation"
+    },
+    {
+      "t": 6847,
+      "title": "Gary Panter and set design"
+    },
+    {
+      "t": 6856,
+      "title": "Sacha Baron Cohen joins the conversation"
+    },
+    {
+      "t": 6875,
+      "title": "RETNA, EL MAC, graffiti, and Banksy"
+    },
+    {
+      "t": 6933,
+      "title": "Bootsy Bellows invitation"
+    },
+    {
+      "t": 6973,
+      "title": "Critter does not want the club"
+    },
+    {
+      "t": 6994,
+      "title": "Accepting that people like Critter"
+    },
+    {
+      "t": 7021,
+      "title": "Devin Troy Strother's rooftop party"
+    },
+    {
+      "t": 7031,
+      "title": "Psy, comedy, and perceived han"
+    },
+    {
+      "t": 7061,
+      "title": "Art with deliberately racist titles"
+    },
+    {
+      "t": 7095,
+      "title": "Meeting the artist in Koreatown"
+    },
+    {
+      "t": 7113,
+      "title": "Asking about audience objections"
+    },
+    {
+      "t": 7150,
+      "title": "A private attendee is sexualized"
+    },
+    {
+      "t": 7170,
+      "title": "Dating race becomes group sport"
+    },
+    {
+      "t": 7217,
+      "title": "A girlfriend is exposed mid-conversation"
+    },
+    {
+      "t": 7221,
+      "title": "Racial preference and fetishization"
+    },
+    {
+      "t": 7248,
+      "title": "Black mothers and a misheard phrase"
+    },
+    {
+      "t": 7306,
+      "title": "How to exit a bad conversation"
+    },
+    {
+      "t": 7323,
+      "title": "Avoiding being Lamboed"
+    },
+    {
+      "t": 7345,
+      "title": "A stranger demands wealth performance"
+    },
+    {
+      "t": 7369,
+      "title": "Who is the artist?"
+    },
+    {
+      "t": 7382,
+      "title": "Claiming the graffiti Buddha"
+    },
+    {
+      "t": 7416,
+      "title": "A gallery owner asks where to buy"
+    },
+    {
+      "t": 7427,
+      "title": "A homophobic insult backfires"
+    },
+    {
+      "t": 7456,
+      "title": "Walking away versus saying why"
+    },
+    {
+      "t": 7499,
+      "title": "Why Critter avoids events"
+    },
+    {
+      "t": 7519,
+      "title": "The insult reaches the host"
+    },
+    {
+      "t": 7548,
+      "title": "Honesty, lying, or leaving"
+    },
+    {
+      "t": 7581,
+      "title": "The reporter is threatened again"
+    },
+    {
+      "t": 7604,
+      "title": "Lying to avoid more conversation"
+    },
+    {
+      "t": 7643,
+      "title": "The spotlight burns"
+    },
+    {
+      "t": 7655,
+      "title": "Bobby has no prepared trivia"
+    },
+    {
+      "t": 7677,
+      "title": "Asa had already apologized"
+    },
+    {
+      "t": 7712,
+      "title": "Persephone becomes the punishment"
+    },
+    {
+      "t": 7722,
+      "title": "Critter, Money Mark, and Asa categories"
+    },
+    {
+      "t": 7733,
+      "title": "Jay is made to play"
+    },
+    {
+      "t": 7749,
+      "title": "Spoon House in Gardena"
+    },
+    {
+      "t": 7803,
+      "title": "Critter trivia"
+    },
+    {
+      "t": 7841,
+      "title": "Money Mark trivia"
+    },
+    {
+      "t": 7852,
+      "title": "Red Hot Chili Peppers"
+    },
+    {
+      "t": 7883,
+      "title": "Beastie Boys disputed as the obvious trio"
+    },
+    {
+      "t": 7902,
+      "title": "Mariah Carey questions for Asa"
+    },
+    {
+      "t": 7914,
+      "title": "Glitter, not Butterfly"
+    },
+    {
+      "t": 7931,
+      "title": "The category design is challenged"
+    },
+    {
+      "t": 7955,
+      "title": "John Butler Trio is the intended answer"
+    },
+    {
+      "t": 7979,
+      "title": "David smells the treated wart"
+    },
+    {
+      "t": 8012,
+      "title": "The smell is compared to food"
+    },
+    {
+      "t": 8040,
+      "title": "Another call to cut it off"
+    },
+    {
+      "t": 8101,
+      "title": "DVDASA closing"
+    },
+    {
+      "t": 8159.74,
+      "title": "Final thank-you"
+    }
   ],
   "connections": [
-    {"from":"reporter in the room","to":"Episode 57 interview-origin history","note":"Episode 57 explains why DVDASA was designed as an unedited alternative; Episode 58 stages that distrust directly with a working journalist."},
-    {"from":"immutable transcript","to":"editorial interpretation","note":"The assault sequence must remain discoverable as evidence while consent corrections live in a separate auditable layer."},
-    {"from":"Jay Caspian Kang","to":"han and Korean-American identity","note":"Kang defines han in the room while the cast simultaneously polices whether his clothes, partner, language, and dating history make him Korean enough."},
-    {"from":"subject distrust","to":"editorial coercion","note":"A legitimate complaint about reductive profiles crosses into threats when the hosts promise consequences if the story disappoints them."},
-    {"from":"Critter's beanbag","to":"informal creative labor","note":"His role expands from reluctant silent participant to security, publicist, logistics worker, and artwork helper without a stable title."},
-    {"from":"Critter's refusal to tell stories","to":"archive consent","note":"Participation in the room does not create blanket permission to expose private stories."},
-    {"from":"Bobby's repeated no","to":"workplace power","note":"The employer-targeted hypotheticals show why smiling, continuing to work, or future forgiveness cannot substitute for consent."},
-    {"from":"private friend accusation","to":"assault-reporting epistemics","note":"One disputed person's story cannot justify disbelief toward other survivors."},
-    {"from":"ambiguous childhood memory","to":"recovered-memory restraint","note":"Both Asa and David wonder about abuse, but neither has evidence sufficient to accuse a private person or infer causation."},
-    {"from":"metal-blanket ritual","to":"first-person mental-health history","note":"Concrete remembered behavior is valuable even when retrospective diagnosis is withheld."},
-    {"from":"medical-setting privacy","to":"fan access","note":"The room correctly distinguishes public recognition from entitlement to approach someone during care."},
-    {"from":"fan photograph pose","to":"bodily autonomy","note":"David's early-fame adaptation is an attempt to regain control over repetitive touch and generic representation."},
-    {"from":"celebrity birthday","to":"new adult friendships","note":"Manager-routed invitations become the practical mechanism for the adult friendship problem raised earlier."},
-    {"from":"Paul Reubens correction","to":"rumor hygiene","note":"The cast itself distinguishes an adult-theater offense from unsupported child-abuse labeling."},
-    {"from":"Devin Troy Strother","to":"Psy and han","note":"David reads humor and caricature as surfaces carrying anger, but that remains his interpretation rather than a universal cultural key."},
-    {"from":"rooftop wealth questions","to":"Facebook-money identity","note":"The same public frame the hosts resent in journalism reappears in strangers' attempts to reduce David to money."},
-    {"from":"unsafe wart spectacle","to":"Ranch bodily-risk pattern","note":"Repeated amateur intervention and audience spectacle require a standing do-not-replicate medical boundary."},
-    {"from":"comfortable silence","to":"compulsive talking","note":"A relationship question becomes a revealing self-portrait of stimulation, wakefulness, and difficulty stopping."},
-    {"from":"press notebook","to":"reader provenance","note":"The future interface should let readers move from chapter to raw source, correction decision, and corroborating source without implying that editorial polish is verbatim."},
-    {"from":"zero voice windows","to":"speaker publication gate","note":"Episode 58 cannot participate in the held-out identity test until compute creates windows; transcript-context naming is not acoustic validation."}
+    {
+      "from": "reporter in the room",
+      "to": "Episode 57 interview-origin history",
+      "note": "Episode 57 explains why DVDASA was designed as an unedited alternative; Episode 58 stages that distrust directly with a working journalist."
+    },
+    {
+      "from": "immutable transcript",
+      "to": "editorial interpretation",
+      "note": "The assault sequence must remain discoverable as evidence while consent corrections live in a separate auditable layer."
+    },
+    {
+      "from": "Jay Caspian Kang",
+      "to": "han and Korean-American identity",
+      "note": "Kang defines han in the room while the cast simultaneously polices whether his clothes, partner, language, and dating history make him Korean enough."
+    },
+    {
+      "from": "subject distrust",
+      "to": "editorial coercion",
+      "note": "A legitimate complaint about reductive profiles crosses into threats when the hosts promise consequences if the story disappoints them."
+    },
+    {
+      "from": "Critter's beanbag",
+      "to": "informal creative labor",
+      "note": "His role expands from reluctant silent participant to security, publicist, logistics worker, and artwork helper without a stable title."
+    },
+    {
+      "from": "Critter's refusal to tell stories",
+      "to": "archive consent",
+      "note": "Participation in the room does not create blanket permission to expose private stories."
+    },
+    {
+      "from": "Bobby's repeated no",
+      "to": "workplace power",
+      "note": "The employer-targeted hypotheticals show why smiling, continuing to work, or future forgiveness cannot substitute for consent."
+    },
+    {
+      "from": "private friend accusation",
+      "to": "assault-reporting epistemics",
+      "note": "One disputed person's story cannot justify disbelief toward other survivors."
+    },
+    {
+      "from": "ambiguous childhood memory",
+      "to": "recovered-memory restraint",
+      "note": "Both Asa and David wonder about abuse, but neither has evidence sufficient to accuse a private person or infer causation."
+    },
+    {
+      "from": "metal-blanket ritual",
+      "to": "first-person mental-health history",
+      "note": "Concrete remembered behavior is valuable even when retrospective diagnosis is withheld."
+    },
+    {
+      "from": "medical-setting privacy",
+      "to": "fan access",
+      "note": "The room correctly distinguishes public recognition from entitlement to approach someone during care."
+    },
+    {
+      "from": "fan photograph pose",
+      "to": "bodily autonomy",
+      "note": "David's early-fame adaptation is an attempt to regain control over repetitive touch and generic representation."
+    },
+    {
+      "from": "celebrity birthday",
+      "to": "new adult friendships",
+      "note": "Manager-routed invitations become the practical mechanism for the adult friendship problem raised earlier."
+    },
+    {
+      "from": "Paul Reubens correction",
+      "to": "rumor hygiene",
+      "note": "The cast itself distinguishes an adult-theater offense from unsupported child-abuse labeling."
+    },
+    {
+      "from": "Devin Troy Strother",
+      "to": "Psy and han",
+      "note": "David reads humor and caricature as surfaces carrying anger, but that remains his interpretation rather than a universal cultural key."
+    },
+    {
+      "from": "rooftop wealth questions",
+      "to": "Facebook-money identity",
+      "note": "The same public frame the hosts resent in journalism reappears in strangers' attempts to reduce David to money."
+    },
+    {
+      "from": "unsafe wart spectacle",
+      "to": "Ranch bodily-risk pattern",
+      "note": "Repeated amateur intervention and audience spectacle require a standing do-not-replicate medical boundary."
+    },
+    {
+      "from": "comfortable silence",
+      "to": "compulsive talking",
+      "note": "A relationship question becomes a revealing self-portrait of stimulation, wakefulness, and difficulty stopping."
+    },
+    {
+      "from": "press notebook",
+      "to": "reader provenance",
+      "note": "The future interface should let readers move from chapter to raw source, correction decision, and corroborating source without implying that editorial polish is verbatim."
+    },
+    {
+      "from": "zero voice windows",
+      "to": "speaker publication gate",
+      "note": "Episode 58 cannot participate in the held-out identity test until compute creates windows; transcript-context naming is not acoustic validation."
+    }
   ],
   "content_warnings": [
     "explicit sexual discussion",
@@ -313,14 +1203,46 @@
     "adult-industry occupational detail"
   ],
   "source_notes": [
-    {"claim":"The reporter is Jay Caspian Kang","source":"https://www.cjr.org/the_profile/jay-caspian-kang-profile.php","use":"independent biographical corroboration for Korean birth, Bowdoin education, journalism, and Los Angeles period"},
-    {"claim":"Kang later became a New Yorker staff writer and previously worked at Grantland and The New York Times Magazine","source":"https://www.newyorker.com/contributors/jay-caspian-kang","use":"authoritative current contributor biography; role history only"},
-    {"claim":"Asa Akira won Porn Star of the Year and another category at the 2013 Sex Awards","source":"https://www.imdb.com/name/nm2670531/awards/","use":"corroborates the episode's October 2013 award context"},
-    {"claim":"The 2013 Sex Awards occurred October 9 and Asa announced a Wicked Pictures contract there","source":"https://www.xbiz.com/news/169818/asa-akira-announces-wicked-contract-at-sex-awards","use":"contemporary adult-industry report distinguishing this event from AVN"},
-    {"claim":"David Arquette's nightclub was Bootsy Bellows","source":"https://www.latimes.com/entertainment/la-xpm-2012-jun-22-la-et-night-20120622-story.html","use":"contemporary venue corroboration"},
-    {"claim":"Paul Reubens' 1991 arrest concerned an adult theater, not child abuse","source":"https://www.latimes.com/archives/la-xpm-1991-07-28-mn-465-story.html","use":"contemporary report supporting the episode's own correction of the pedophilia conflation"},
-    {"claim":"Gary Panter was a production designer for Pee-wee's Playhouse","source":"https://www.emmys.com/bios/gary-panter","use":"authoritative craft credit"},
-    {"claim":"Devin Troy Strother is the artist named in the rooftop story","source":"https://www.richardhellergallery.com/artists/devin-troy-strother","use":"gallery biography and canonical name"}
+    {
+      "claim": "The reporter is Jay Caspian Kang",
+      "source": "https://www.cjr.org/the_profile/jay-caspian-kang-profile.php",
+      "use": "independent biographical corroboration for Korean birth, Bowdoin education, journalism, and Los Angeles period"
+    },
+    {
+      "claim": "Kang later became a New Yorker staff writer and previously worked at Grantland and The New York Times Magazine",
+      "source": "https://www.newyorker.com/contributors/jay-caspian-kang",
+      "use": "authoritative current contributor biography; role history only"
+    },
+    {
+      "claim": "Asa Akira won Porn Star of the Year and another category at the 2013 Sex Awards",
+      "source": "https://www.imdb.com/name/nm2670531/awards/",
+      "use": "corroborates the episode's October 2013 award context"
+    },
+    {
+      "claim": "The 2013 Sex Awards occurred October 9 and Asa announced a Wicked Pictures contract there",
+      "source": "https://www.xbiz.com/news/169818/asa-akira-announces-wicked-contract-at-sex-awards",
+      "use": "contemporary adult-industry report distinguishing this event from AVN"
+    },
+    {
+      "claim": "David Arquette's nightclub was Bootsy Bellows",
+      "source": "https://www.latimes.com/entertainment/la-xpm-2012-jun-22-la-et-night-20120622-story.html",
+      "use": "contemporary venue corroboration"
+    },
+    {
+      "claim": "Paul Reubens' 1991 arrest concerned an adult theater, not child abuse",
+      "source": "https://www.latimes.com/archives/la-xpm-1991-07-28-mn-465-story.html",
+      "use": "contemporary report supporting the episode's own correction of the pedophilia conflation"
+    },
+    {
+      "claim": "Gary Panter was a production designer for Pee-wee's Playhouse",
+      "source": "https://www.emmys.com/bios/gary-panter",
+      "use": "authoritative craft credit"
+    },
+    {
+      "claim": "Devin Troy Strother is the artist named in the rooftop story",
+      "source": "https://www.richardhellergallery.com/artists/devin-troy-strother",
+      "use": "gallery biography and canonical name"
+    }
   ],
   "quality": {
     "raw_segments": 3656,
@@ -334,5 +1256,21 @@
     "content_warnings": 14,
     "identity_windows": 0,
     "named_turns": 0
-  }
+  },
+  "people": [
+    "David Choe",
+    "Critter"
+  ],
+  "places": [
+    "party"
+  ],
+  "works": [
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A reporter enters the DVDASA room and becomes part of the episode.",
+  "description_source": "Opening of the human-reviewed summary."
 }

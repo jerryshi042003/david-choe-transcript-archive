@@ -3,92 +3,415 @@
   "title": "WHAT I GOTTA DO?",
   "reviewed_on": "2026-08-01",
   "summary": "A 2:45 music performance built around a heavily repeated “what I gotta do for you” refrain. Recoverable verse ideas ask how to show care, mention prom without hand-holding, absent love, ordering pizza and the addressee eating one slice, an unclear gift/object ignored in favor of fruit, trying to communicate through a single rose that is not smelled, a badly damaged relationship passage, giving “her” up, and a possible responding role asking what the other person must do. Long music gaps and corrupted captions prevent a complete verified lyric sheet. Every record and repetition remains in the raw/correction layer; the reader record uses concise navigation rather than inventing missing rhyme, names, plot, autobiography or voices. Zero named turns and enrollment windows ship.",
-  "quality": {"raw_segments": 47, "clean_segments": 47, "raw_words_approx": 275, "clean_words_approx": 275, "duration_seconds": 165, "accepted_context_decisions": 47, "chapters": 24, "connections": 20, "content_warnings": 10, "identity_windows": 0, "named_turns": 0, "publisher_labeled_speakers": 0, "cleaning_edits": 2, "cleaning_net_word_delta": 0, "public_restriction_spans": 30},
-  "speaker_policy": {"status": "performed lyric voice(s) unresolved; no enrollment accepted", "reason": "The title and channel context do not identify the singer. A possible response line may be a second performer, overdub or lyrical role; music/lyrics are unsuitable for baseline enrollment without independent proof."},
-  "people": ["unidentified singer/lyrical narrator", "unidentified addressee", "possible second lyrical role", "unnamed ‘she/her’ figure"],
-  "places": ["prom (lyrical setting/reference only)"],
-  "works": ["WHAT I GOTTA DO?", "unidentified song/performance"],
-  "themes": ["courtship effort", "showing care", "unreturned gestures", "prom and hand-holding", "pizza and one slice", "gift/fruit ambiguity", "single rose", "communication failure", "giving someone up", "call-and-response", "refrain repetition", "caption failure", "music gaps"],
+  "quality": {
+    "raw_segments": 47,
+    "clean_segments": 47,
+    "raw_words_approx": 275,
+    "clean_words_approx": 275,
+    "duration_seconds": 165,
+    "accepted_context_decisions": 47,
+    "chapters": 24,
+    "connections": 20,
+    "content_warnings": 10,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 2,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 30
+  },
+  "speaker_policy": {
+    "status": "performed lyric voice(s) unresolved; no enrollment accepted",
+    "reason": "The title and channel context do not identify the singer. A possible response line may be a second performer, overdub or lyrical role; music/lyrics are unsuitable for baseline enrollment without independent proof."
+  },
+  "people": [
+    "unidentified singer/lyrical narrator",
+    "unidentified addressee",
+    "possible second lyrical role",
+    "unnamed ‘she/her’ figure"
+  ],
+  "places": [
+    "prom (lyrical setting/reference only)"
+  ],
+  "works": [
+    "WHAT I GOTTA DO?",
+    "unidentified song/performance"
+  ],
+  "themes": [
+    "courtship effort",
+    "showing care",
+    "unreturned gestures",
+    "prom and hand-holding",
+    "pizza and one slice",
+    "gift/fruit ambiguity",
+    "single rose",
+    "communication failure",
+    "giving someone up",
+    "call-and-response",
+    "refrain repetition",
+    "caption failure",
+    "music gaps"
+  ],
   "chapters": [
-    {"t": 1.59, "title": "instrumental opening"},
-    {"t": 6.319, "title": "first refrain fragment"},
-    {"t": 9.6, "title": "long music gap"},
-    {"t": 28.96, "title": "isolated “everything”"},
-    {"t": 30.8, "title": "asking how to show care"},
-    {"t": 35.559, "title": "prom gesture"},
-    {"t": 38.36, "title": "hand not held"},
-    {"t": 41.36, "title": "damaged love-in-the-air line"},
-    {"t": 44.16, "title": "person not there"},
-    {"t": 47.16, "title": "pizza gesture"},
-    {"t": 51.48, "title": "one slice"},
-    {"t": 53.079, "title": "extended refrain begins"},
-    {"t": 76.2, "title": "unclear “Villager” object ignored"},
-    {"t": 80.479, "title": "fruit and dismissal"},
-    {"t": 83.36, "title": "getting the message across"},
-    {"t": 87.68, "title": "damaged buy/bye/my-love and rose line"},
-    {"t": 91.479, "title": "rose not smelled"},
-    {"t": 93.64, "title": "corrupted nose/snobby passage"},
-    {"t": 96.28, "title": "heavily damaged relationship passage"},
-    {"t": 105.119, "title": "uncertain “CID” and out-of-luck line"},
-    {"t": 109.479, "title": "giving her up"},
-    {"t": 111.04, "title": "second extended refrain"},
-    {"t": 116.56, "title": "possible response role"},
-    {"t": 143.31, "title": "music-split ending"}
+    {
+      "t": 1.59,
+      "title": "instrumental opening"
+    },
+    {
+      "t": 6.319,
+      "title": "first refrain fragment"
+    },
+    {
+      "t": 9.6,
+      "title": "long music gap"
+    },
+    {
+      "t": 28.96,
+      "title": "isolated “everything”"
+    },
+    {
+      "t": 30.8,
+      "title": "asking how to show care"
+    },
+    {
+      "t": 35.559,
+      "title": "prom gesture"
+    },
+    {
+      "t": 38.36,
+      "title": "hand not held"
+    },
+    {
+      "t": 41.36,
+      "title": "damaged love-in-the-air line"
+    },
+    {
+      "t": 44.16,
+      "title": "person not there"
+    },
+    {
+      "t": 47.16,
+      "title": "pizza gesture"
+    },
+    {
+      "t": 51.48,
+      "title": "one slice"
+    },
+    {
+      "t": 53.079,
+      "title": "extended refrain begins"
+    },
+    {
+      "t": 76.2,
+      "title": "unclear “Villager” object ignored"
+    },
+    {
+      "t": 80.479,
+      "title": "fruit and dismissal"
+    },
+    {
+      "t": 83.36,
+      "title": "getting the message across"
+    },
+    {
+      "t": 87.68,
+      "title": "damaged buy/bye/my-love and rose line"
+    },
+    {
+      "t": 91.479,
+      "title": "rose not smelled"
+    },
+    {
+      "t": 93.64,
+      "title": "corrupted nose/snobby passage"
+    },
+    {
+      "t": 96.28,
+      "title": "heavily damaged relationship passage"
+    },
+    {
+      "t": 105.119,
+      "title": "uncertain “CID” and out-of-luck line"
+    },
+    {
+      "t": 109.479,
+      "title": "giving her up"
+    },
+    {
+      "t": 111.04,
+      "title": "second extended refrain"
+    },
+    {
+      "t": 116.56,
+      "title": "possible response role"
+    },
+    {
+      "t": 143.31,
+      "title": "music-split ending"
+    }
   ],
   "connections": [
-    {"t": 1.59, "to": "music structure", "relationship": "Instrumental spans materially interrupt available lyric evidence."},
-    {"t": 6.319, "to": "central refrain", "relationship": "The repeated question establishes effort toward an addressee."},
-    {"t": 28.96, "to": "caption isolation", "relationship": "“Everything” cannot be safely attached across a long gap."},
-    {"t": 30.8, "to": "showing care", "relationship": "The clearest verse motive is proving genuine care."},
-    {"t": 38.36, "to": "prom disappointment", "relationship": "A prom gesture is contrasted with not holding hands."},
-    {"t": 41.36, "to": "listening repair", "relationship": "The leading “sh” token cannot support a name or interjection."},
-    {"t": 44.16, "to": "absence", "relationship": "Love is described in relation to a person who is not there."},
-    {"t": 47.16, "to": "small romantic gesture", "relationship": "Ordering pizza is called nice."},
-    {"t": 51.48, "to": "comic rejection", "relationship": "The addressee eats only one slice."},
-    {"t": 53.079, "to": "repetition", "relationship": "Many refrain records preserve performance rhythm but do not add events."},
-    {"t": 76.2, "to": "unidentified gift/reference", "relationship": "“Villager” may be a caption error or reference and is not normalized."},
-    {"t": 80.479, "to": "fruit", "relationship": "The unclear object is ignored while fruit is eaten."},
-    {"t": 83.36, "to": "communication failure", "relationship": "The refrain is explicitly reframed as getting a message across."},
-    {"t": 87.68, "to": "single rose", "relationship": "A flower gesture survives despite surrounding phonetic corruption."},
-    {"t": 91.479, "to": "unreturned gesture", "relationship": "The rose is reportedly not smelled."},
-    {"t": 96.28, "to": "caption failure", "relationship": "Letters and malformed phrases cannot support names or relationship facts."},
-    {"t": 105.119, "to": "privacy/name boundary", "relationship": "“CID” is not published as an identity."},
-    {"t": 109.479, "to": "giving up", "relationship": "A clearer line ends the damaged passage with giving her up."},
-    {"t": 116.56, "to": "possible call-and-response", "relationship": "The pronoun reversal may be a second lyrical role, not a verified person."},
-    {"t": 143.31, "to": "edited ending", "relationship": "Music divides final words and prevents a seamless closing lyric."}
+    {
+      "t": 1.59,
+      "to": "music structure",
+      "relationship": "Instrumental spans materially interrupt available lyric evidence."
+    },
+    {
+      "t": 6.319,
+      "to": "central refrain",
+      "relationship": "The repeated question establishes effort toward an addressee."
+    },
+    {
+      "t": 28.96,
+      "to": "caption isolation",
+      "relationship": "“Everything” cannot be safely attached across a long gap."
+    },
+    {
+      "t": 30.8,
+      "to": "showing care",
+      "relationship": "The clearest verse motive is proving genuine care."
+    },
+    {
+      "t": 38.36,
+      "to": "prom disappointment",
+      "relationship": "A prom gesture is contrasted with not holding hands."
+    },
+    {
+      "t": 41.36,
+      "to": "listening repair",
+      "relationship": "The leading “sh” token cannot support a name or interjection."
+    },
+    {
+      "t": 44.16,
+      "to": "absence",
+      "relationship": "Love is described in relation to a person who is not there."
+    },
+    {
+      "t": 47.16,
+      "to": "small romantic gesture",
+      "relationship": "Ordering pizza is called nice."
+    },
+    {
+      "t": 51.48,
+      "to": "comic rejection",
+      "relationship": "The addressee eats only one slice."
+    },
+    {
+      "t": 53.079,
+      "to": "repetition",
+      "relationship": "Many refrain records preserve performance rhythm but do not add events."
+    },
+    {
+      "t": 76.2,
+      "to": "unidentified gift/reference",
+      "relationship": "“Villager” may be a caption error or reference and is not normalized."
+    },
+    {
+      "t": 80.479,
+      "to": "fruit",
+      "relationship": "The unclear object is ignored while fruit is eaten."
+    },
+    {
+      "t": 83.36,
+      "to": "communication failure",
+      "relationship": "The refrain is explicitly reframed as getting a message across."
+    },
+    {
+      "t": 87.68,
+      "to": "single rose",
+      "relationship": "A flower gesture survives despite surrounding phonetic corruption."
+    },
+    {
+      "t": 91.479,
+      "to": "unreturned gesture",
+      "relationship": "The rose is reportedly not smelled."
+    },
+    {
+      "t": 96.28,
+      "to": "caption failure",
+      "relationship": "Letters and malformed phrases cannot support names or relationship facts."
+    },
+    {
+      "t": 105.119,
+      "to": "privacy/name boundary",
+      "relationship": "“CID” is not published as an identity."
+    },
+    {
+      "t": 109.479,
+      "to": "giving up",
+      "relationship": "A clearer line ends the damaged passage with giving her up."
+    },
+    {
+      "t": 116.56,
+      "to": "possible call-and-response",
+      "relationship": "The pronoun reversal may be a second lyrical role, not a verified person."
+    },
+    {
+      "t": 143.31,
+      "to": "edited ending",
+      "relationship": "Music divides final words and prevents a seamless closing lyric."
+    }
   ],
-  "source_notes": ["Music upload titled WHAT I GOTTA DO?.", "Automatic captions contain 47 records / 275 words or markers / 2:45.", "No caption speaker prefix exists.", "Music interrupts lyrics at the opening and ending.", "The central refrain repeats across many records.", "Repetition is retained in raw/correction layers but summarized for navigation.", "The first refrain has a censored/unclear ending.", "The prom/hand-holding fragment is recoverable.", "The leading “sh” token is unreliable.", "Pizza and one-slice fragments are recoverable.", "“Villager” may be a reference or caption failure.", "No Animal Crossing inference is accepted.", "Buy/bye/by/my-love tokens around the rose are badly corrupted.", "The single rose/not-smelled sequence is recoverable.", "SL and CID are not accepted as names.", "The strong-good-job phrase has no safe repair.", "The relationship predicate after “she is now my” is missing.", "Giving her up is clearer than its antecedent.", "A possible response line reverses the refrain pronouns.", "The response may be a second voice, overdub or performed role.", "No singer identity or autobiography is inferred.", "No complete lyric reconstruction is claimed.", "Search display should use short excerpts and chapters rather than fabricated missing lyrics.", "Raw captions remain immutable."],
-  "content_warnings": ["damaged song captions", "copyrighted lyric reconstruction risk", "censored/unclear language", "possible names in corrupted tokens", "relationship inference risk", "performer-attribution risk", "music/non-speech", "repetition inflation", "autobiography inference risk", "pop-culture-reference overclaim risk"],
+  "source_notes": [
+    "Music upload titled WHAT I GOTTA DO?.",
+    "Automatic captions contain 47 records / 275 words or markers / 2:45.",
+    "No caption speaker prefix exists.",
+    "Music interrupts lyrics at the opening and ending.",
+    "The central refrain repeats across many records.",
+    "Repetition is retained in raw/correction layers but summarized for navigation.",
+    "The first refrain has a censored/unclear ending.",
+    "The prom/hand-holding fragment is recoverable.",
+    "The leading “sh” token is unreliable.",
+    "Pizza and one-slice fragments are recoverable.",
+    "“Villager” may be a reference or caption failure.",
+    "No Animal Crossing inference is accepted.",
+    "Buy/bye/by/my-love tokens around the rose are badly corrupted.",
+    "The single rose/not-smelled sequence is recoverable.",
+    "SL and CID are not accepted as names.",
+    "The strong-good-job phrase has no safe repair.",
+    "The relationship predicate after “she is now my” is missing.",
+    "Giving her up is clearer than its antecedent.",
+    "A possible response line reverses the refrain pronouns.",
+    "The response may be a second voice, overdub or performed role.",
+    "No singer identity or autobiography is inferred.",
+    "No complete lyric reconstruction is claimed.",
+    "Search display should use short excerpts and chapters rather than fabricated missing lyrics.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "damaged song captions",
+    "copyrighted lyric reconstruction risk",
+    "censored/unclear language",
+    "possible names in corrupted tokens",
+    "relationship inference risk",
+    "performer-attribution risk",
+    "music/non-speech",
+    "repetition inflation",
+    "autobiography inference risk",
+    "pop-culture-reference overclaim risk"
+  ],
   "publication_restrictions": [
-    {"t": -0.1, "rule": "publish zero named line-level turns or voice-enrollment windows"},
-    {"t": -0.09, "rule": "preserve every raw caption and refrain repetition in evidence layers"},
-    {"t": -0.08, "rule": "do not reconstruct missing copyrighted lyrics"},
-    {"t": -0.07, "rule": "do not turn damaged tokens into names, rhymes or references"},
-    {"t": -0.06, "rule": "do not infer singer, addressee, gender identity or relationship"},
-    {"t": -0.05, "rule": "do not convert performed lyrics into autobiography"},
-    {"t": -0.04, "rule": "preserve music/gaps as discontinuities"},
-    {"t": -0.03, "rule": "summarize repetition only in navigation, never delete it from raw evidence"},
-    {"t": -0.02, "rule": "treat possible response as lyrical role, not verified second performer"},
-    {"t": -0.01, "rule": "use source-linked short excerpts rather than a fabricated complete lyric sheet"},
-    {"t": 6.319, "rule": "retain censored/unclear refrain ending"},
-    {"t": 9.6, "rule": "do not bridge long music gap"},
-    {"t": 28.96, "rule": "keep isolated “everything” unattached"},
-    {"t": 38.36, "rule": "prom fragment does not establish a real event"},
-    {"t": 41.36, "rule": "do not normalize “sh”"},
-    {"t": 47.16, "rule": "pizza lyric does not establish a real courtship"},
-    {"t": 53.079, "rule": "refrain repetitions are not new events"},
-    {"t": 76.2, "rule": "do not identify Villager, gift or game reference"},
-    {"t": 80.479, "rule": "fruit fragment does not resolve preceding object"},
-    {"t": 83.36, "rule": "keep buy/bye/by phonetics uncertain"},
-    {"t": 87.68, "rule": "do not fill missing rose lyric"},
-    {"t": 93.64, "rule": "keep nose/snobby line listening-required"},
-    {"t": 96.28, "rule": "do not publish SL as name"},
-    {"t": 99.32, "rule": "do not smooth malformed phrase into meaning"},
-    {"t": 103.28, "rule": "do not complete missing relationship predicate"},
-    {"t": 105.119, "rule": "do not publish CID as name"},
-    {"t": 109.479, "rule": "giving-her-up line does not prove breakup or person identity"},
-    {"t": 116.56, "rule": "do not name or count a second performer"},
-    {"t": 143.31, "rule": "preserve music split"},
-    {"t": 148.04, "rule": "retain final censored/unclear token"}
-  ]
+    {
+      "t": -0.1,
+      "rule": "publish zero named line-level turns or voice-enrollment windows"
+    },
+    {
+      "t": -0.09,
+      "rule": "preserve every raw caption and refrain repetition in evidence layers"
+    },
+    {
+      "t": -0.08,
+      "rule": "do not reconstruct missing copyrighted lyrics"
+    },
+    {
+      "t": -0.07,
+      "rule": "do not turn damaged tokens into names, rhymes or references"
+    },
+    {
+      "t": -0.06,
+      "rule": "do not infer singer, addressee, gender identity or relationship"
+    },
+    {
+      "t": -0.05,
+      "rule": "do not convert performed lyrics into autobiography"
+    },
+    {
+      "t": -0.04,
+      "rule": "preserve music/gaps as discontinuities"
+    },
+    {
+      "t": -0.03,
+      "rule": "summarize repetition only in navigation, never delete it from raw evidence"
+    },
+    {
+      "t": -0.02,
+      "rule": "treat possible response as lyrical role, not verified second performer"
+    },
+    {
+      "t": -0.01,
+      "rule": "use source-linked short excerpts rather than a fabricated complete lyric sheet"
+    },
+    {
+      "t": 6.319,
+      "rule": "retain censored/unclear refrain ending"
+    },
+    {
+      "t": 9.6,
+      "rule": "do not bridge long music gap"
+    },
+    {
+      "t": 28.96,
+      "rule": "keep isolated “everything” unattached"
+    },
+    {
+      "t": 38.36,
+      "rule": "prom fragment does not establish a real event"
+    },
+    {
+      "t": 41.36,
+      "rule": "do not normalize “sh”"
+    },
+    {
+      "t": 47.16,
+      "rule": "pizza lyric does not establish a real courtship"
+    },
+    {
+      "t": 53.079,
+      "rule": "refrain repetitions are not new events"
+    },
+    {
+      "t": 76.2,
+      "rule": "do not identify Villager, gift or game reference"
+    },
+    {
+      "t": 80.479,
+      "rule": "fruit fragment does not resolve preceding object"
+    },
+    {
+      "t": 83.36,
+      "rule": "keep buy/bye/by phonetics uncertain"
+    },
+    {
+      "t": 87.68,
+      "rule": "do not fill missing rose lyric"
+    },
+    {
+      "t": 93.64,
+      "rule": "keep nose/snobby line listening-required"
+    },
+    {
+      "t": 96.28,
+      "rule": "do not publish SL as name"
+    },
+    {
+      "t": 99.32,
+      "rule": "do not smooth malformed phrase into meaning"
+    },
+    {
+      "t": 103.28,
+      "rule": "do not complete missing relationship predicate"
+    },
+    {
+      "t": 105.119,
+      "rule": "do not publish CID as name"
+    },
+    {
+      "t": 109.479,
+      "rule": "giving-her-up line does not prove breakup or person identity"
+    },
+    {
+      "t": 116.56,
+      "rule": "do not name or count a second performer"
+    },
+    {
+      "t": 143.31,
+      "rule": "preserve music split"
+    },
+    {
+      "t": 148.04,
+      "rule": "retain final censored/unclear token"
+    }
+  ],
+  "description": "A 2:45 music performance built around a heavily repeated “what I gotta do for you” refrain.",
+  "description_source": "Opening of the human-reviewed summary."
 }

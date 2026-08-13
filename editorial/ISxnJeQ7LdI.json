@@ -14,179 +14,778 @@
     "assessment": "Complete chronological human read. Dense comics, toy, film and public-name caption damage is repaired where defensible; masked words and uncertain speech remain unresolved. The automatic captions contain no publisher speaker prefixes."
   },
   "speaker_policy": "The public panel is Jim Rugg, Ed Piskor and David Choe, but participant presence does not identify individual lines. Publish no named turns until held-out acoustic and video validation passes.",
-  "people": ["David Choe", "Jim Rugg", "Ed Piskor", "Todd McFarlane", "Larry Hama", "Marshall Rogers", "Michael Golden", "Mike Zeck", "Peach Momoko", "Robert Crumb", "Marcos Martín", "Don Johnson"],
-  "places": ["Cartoonist Kayfabe", "Action Park", "New Jersey", "Egypt"],
-  "works": ["G.I. Joe: A Real American Hero #60", "G.I. Joe: A Real American Hero #61", "G.I. Choe", "Slow Jams", "The Incredible Hulk", "Thrashin'", "Gleaming the Cube", "The Wolf of Wall Street", "The Human Centipede", "Hulk: Grand Design", "Red Room", "Zap Comix #0"],
-  "themes": ["comics production history", "creator-intent uncertainty", "childhood collecting", "theft and compulsion", "hygiene and shame", "formative sexual archetypes", "toy-commercial storytelling", "page-reading methodology", "private memory", "unsafe nostalgia", "making one's own work"],
+  "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Todd McFarlane",
+    "Larry Hama",
+    "Marshall Rogers",
+    "Michael Golden",
+    "Mike Zeck",
+    "Peach Momoko",
+    "Robert Crumb",
+    "Marcos Martín",
+    "Don Johnson"
+  ],
+  "places": [
+    "Cartoonist Kayfabe",
+    "Action Park",
+    "New Jersey",
+    "Egypt"
+  ],
+  "works": [
+    "G.I. Joe: A Real American Hero #60",
+    "G.I. Joe: A Real American Hero #61",
+    "G.I. Choe",
+    "Slow Jams",
+    "The Incredible Hulk",
+    "Thrashin'",
+    "Gleaming the Cube",
+    "The Wolf of Wall Street",
+    "The Human Centipede",
+    "Hulk: Grand Design",
+    "Red Room",
+    "Zap Comix #0"
+  ],
+  "themes": [
+    "comics production history",
+    "creator-intent uncertainty",
+    "childhood collecting",
+    "theft and compulsion",
+    "hygiene and shame",
+    "formative sexual archetypes",
+    "toy-commercial storytelling",
+    "page-reading methodology",
+    "private memory",
+    "unsafe nostalgia",
+    "making one's own work"
+  ],
   "chapters": [
-    {"t": 7, "title": "Cartoonist Kayfabe introduction"},
-    {"t": 20, "title": "G.I. Joe #60 and the McFarlane question"},
-    {"t": 34, "title": "Rejected issue #61 and Marshall Rogers"},
-    {"t": 65, "title": "Hosts frame McFarlane as fired by Hama"},
-    {"t": 96, "title": "What could the printed page actually show?"},
-    {"t": 127, "title": "Larry Hama's writing credit"},
-    {"t": 163, "title": "Snake Eyes and Storm Shadow as the remembered golden era"},
-    {"t": 172, "title": "Baroness and formative toy imagery"},
-    {"t": 197, "title": "Zanzibar and the skiff"},
-    {"t": 205, "title": "Choe admits stealing the toy line"},
-    {"t": 254, "title": "The problem of stealing a vehicle toy"},
-    {"t": 269, "title": "Clothing concealment method"},
-    {"t": 292, "title": "Vehicle accessories and childhood acquisition"},
-    {"t": 304, "title": "Publisher house advertisement begins"},
-    {"t": 330, "title": "Red Room and Trigger Warnings"},
-    {"t": 356, "title": "Hulk: Grand Design promotion"},
-    {"t": 389, "title": "Peach Momoko and Marcos Martín variants"},
-    {"t": 415, "title": "House advertisement ends"},
-    {"t": 422, "title": "Speculating about the fireable page"},
-    {"t": 457, "title": "Law and Order and toy-line cast expansion"},
-    {"t": 472, "title": "Lieutenant Falcon and Don Johnson analogy"},
-    {"t": 480, "title": "Chuckles and Magnum P.I. influence"},
-    {"t": 526, "title": "Masked profanity remains masked"},
-    {"t": 548, "title": "Fluorescent weapons and realistic toy guns"},
-    {"t": 552, "title": "Enertech and police-shooting recollection"},
-    {"t": 622, "title": "Dreadnoks introduction claim"},
-    {"t": 639, "title": "Zartan appears through toy memory"},
-    {"t": 644, "title": "Wolf of Wall Street analogy"},
-    {"t": 649, "title": "Private peer Chris and the Zartan figure"},
-    {"t": 680, "title": "Parental punishment and returning the toy"},
-    {"t": 689, "title": "Zanzibar's topknot and file-card backstory"},
-    {"t": 700, "title": "Smell, stealing and social shame"},
-    {"t": 724, "title": "Why unwanted toys were stolen anyway"},
-    {"t": 738, "title": "Snake Eyes accessories versus Zanzibar"},
-    {"t": 756, "title": "G.I. Choe zine or mini-comic"},
-    {"t": 760, "title": "Slow Jams part-two comparison"},
-    {"t": 782, "title": "A story in the Slow Jams universe"},
-    {"t": 784, "title": "Returning to McFarlane's art"},
-    {"t": 817, "title": "Inferring Larry Hama's layouts"},
-    {"t": 842, "title": "Action Park oral history"},
-    {"t": 874, "title": "Worker test and loop-slide claim"},
-    {"t": 890, "title": "Injury and teeth-in-padding lore"},
-    {"t": 935, "title": "Chuckles introduction and first-appearance uncertainty"},
-    {"t": 946, "title": "Buying, stealing and contradictory acquisition memory"},
-    {"t": 987, "title": "Early-career McFarlane chronology"},
-    {"t": 1033, "title": "Rubbery faces and noodly linework"},
-    {"t": 1053, "title": "Chuckles as a 1980s masculine archetype"},
-    {"t": 1062, "title": "Thrashin', Gleaming the Cube and skate films"},
-    {"t": 1080, "title": "Bones Brigade recollection"},
-    {"t": 1102, "title": "Corrupt politicians and military plot"},
-    {"t": 1121, "title": "Zarana rather than Baroness"},
-    {"t": 1138, "title": "Lady Jaye, Baroness, Zarana and Jinx"},
-    {"t": 1174, "title": "Scarlett and remembered sexual archetypes"},
-    {"t": 1190, "title": "Explicit action-figure recollection"},
-    {"t": 1198, "title": "Egyptian statue-wear generalization"},
-    {"t": 1244, "title": "Law and Order under Dreadnok attack"},
-    {"t": 1256, "title": "What might Hama have rejected?"},
-    {"t": 1297, "title": "Dreadnok roster and missing Zartan"},
-    {"t": 1343, "title": "Hosts imagine Hama's editorial problem"},
-    {"t": 1359, "title": "Character deaths and resurrection recollection"},
-    {"t": 1364, "title": "Dr. Mindbender, Croc Master and Raptor"},
-    {"t": 1394, "title": "Stealing a Dr. Mindbender figure"},
-    {"t": 1424, "title": "Plan to ask Larry Hama directly"},
-    {"t": 1459, "title": "Cobra consulate page"},
-    {"t": 1466, "title": "Rush-job hypothesis"},
-    {"t": 1485, "title": "The Incredible Hulk career transition"},
-    {"t": 1489, "title": "Possible first Marvel work"},
-    {"t": 1532, "title": "Michael Golden and Mike Zeck reference points"},
-    {"t": 1561, "title": "Storm Shadow and Snake Eyes page action"},
-    {"t": 1568, "title": "Large helicopter toy"},
-    {"t": 1582, "title": "How Choe says he stole the helicopter"},
-    {"t": 1635, "title": "The stolen toy disappoints"},
-    {"t": 1655, "title": "Lucky Pierre and Human Centipede joke"},
-    {"t": 1686, "title": "Crockett and Tubbs comparison"},
-    {"t": 1708, "title": "Chuckles identified on the page"},
-    {"t": 1718, "title": "The unresolved Hama question returns"},
-    {"t": 1725, "title": "Madballs and future guests"},
-    {"t": 1746, "title": "Why issue #60 matters to the panel"},
-    {"t": 1765, "title": "Close without a production-history verdict"}
+    {
+      "t": 7,
+      "title": "Cartoonist Kayfabe introduction"
+    },
+    {
+      "t": 20,
+      "title": "G.I. Joe #60 and the McFarlane question"
+    },
+    {
+      "t": 34,
+      "title": "Rejected issue #61 and Marshall Rogers"
+    },
+    {
+      "t": 65,
+      "title": "Hosts frame McFarlane as fired by Hama"
+    },
+    {
+      "t": 96,
+      "title": "What could the printed page actually show?"
+    },
+    {
+      "t": 127,
+      "title": "Larry Hama's writing credit"
+    },
+    {
+      "t": 163,
+      "title": "Snake Eyes and Storm Shadow as the remembered golden era"
+    },
+    {
+      "t": 172,
+      "title": "Baroness and formative toy imagery"
+    },
+    {
+      "t": 197,
+      "title": "Zanzibar and the skiff"
+    },
+    {
+      "t": 205,
+      "title": "Choe admits stealing the toy line"
+    },
+    {
+      "t": 254,
+      "title": "The problem of stealing a vehicle toy"
+    },
+    {
+      "t": 269,
+      "title": "Clothing concealment method"
+    },
+    {
+      "t": 292,
+      "title": "Vehicle accessories and childhood acquisition"
+    },
+    {
+      "t": 304,
+      "title": "Publisher house advertisement begins"
+    },
+    {
+      "t": 330,
+      "title": "Red Room and Trigger Warnings"
+    },
+    {
+      "t": 356,
+      "title": "Hulk: Grand Design promotion"
+    },
+    {
+      "t": 389,
+      "title": "Peach Momoko and Marcos Martín variants"
+    },
+    {
+      "t": 415,
+      "title": "House advertisement ends"
+    },
+    {
+      "t": 422,
+      "title": "Speculating about the fireable page"
+    },
+    {
+      "t": 457,
+      "title": "Law and Order and toy-line cast expansion"
+    },
+    {
+      "t": 472,
+      "title": "Lieutenant Falcon and Don Johnson analogy"
+    },
+    {
+      "t": 480,
+      "title": "Chuckles and Magnum P.I. influence"
+    },
+    {
+      "t": 526,
+      "title": "Masked profanity remains masked"
+    },
+    {
+      "t": 548,
+      "title": "Fluorescent weapons and realistic toy guns"
+    },
+    {
+      "t": 552,
+      "title": "Enertech and police-shooting recollection"
+    },
+    {
+      "t": 622,
+      "title": "Dreadnoks introduction claim"
+    },
+    {
+      "t": 639,
+      "title": "Zartan appears through toy memory"
+    },
+    {
+      "t": 644,
+      "title": "Wolf of Wall Street analogy"
+    },
+    {
+      "t": 649,
+      "title": "Private peer Chris and the Zartan figure"
+    },
+    {
+      "t": 680,
+      "title": "Parental punishment and returning the toy"
+    },
+    {
+      "t": 689,
+      "title": "Zanzibar's topknot and file-card backstory"
+    },
+    {
+      "t": 700,
+      "title": "Smell, stealing and social shame"
+    },
+    {
+      "t": 724,
+      "title": "Why unwanted toys were stolen anyway"
+    },
+    {
+      "t": 738,
+      "title": "Snake Eyes accessories versus Zanzibar"
+    },
+    {
+      "t": 756,
+      "title": "G.I. Choe zine or mini-comic"
+    },
+    {
+      "t": 760,
+      "title": "Slow Jams part-two comparison"
+    },
+    {
+      "t": 782,
+      "title": "A story in the Slow Jams universe"
+    },
+    {
+      "t": 784,
+      "title": "Returning to McFarlane's art"
+    },
+    {
+      "t": 817,
+      "title": "Inferring Larry Hama's layouts"
+    },
+    {
+      "t": 842,
+      "title": "Action Park oral history"
+    },
+    {
+      "t": 874,
+      "title": "Worker test and loop-slide claim"
+    },
+    {
+      "t": 890,
+      "title": "Injury and teeth-in-padding lore"
+    },
+    {
+      "t": 935,
+      "title": "Chuckles introduction and first-appearance uncertainty"
+    },
+    {
+      "t": 946,
+      "title": "Buying, stealing and contradictory acquisition memory"
+    },
+    {
+      "t": 987,
+      "title": "Early-career McFarlane chronology"
+    },
+    {
+      "t": 1033,
+      "title": "Rubbery faces and noodly linework"
+    },
+    {
+      "t": 1053,
+      "title": "Chuckles as a 1980s masculine archetype"
+    },
+    {
+      "t": 1062,
+      "title": "Thrashin', Gleaming the Cube and skate films"
+    },
+    {
+      "t": 1080,
+      "title": "Bones Brigade recollection"
+    },
+    {
+      "t": 1102,
+      "title": "Corrupt politicians and military plot"
+    },
+    {
+      "t": 1121,
+      "title": "Zarana rather than Baroness"
+    },
+    {
+      "t": 1138,
+      "title": "Lady Jaye, Baroness, Zarana and Jinx"
+    },
+    {
+      "t": 1174,
+      "title": "Scarlett and remembered sexual archetypes"
+    },
+    {
+      "t": 1190,
+      "title": "Explicit action-figure recollection"
+    },
+    {
+      "t": 1198,
+      "title": "Egyptian statue-wear generalization"
+    },
+    {
+      "t": 1244,
+      "title": "Law and Order under Dreadnok attack"
+    },
+    {
+      "t": 1256,
+      "title": "What might Hama have rejected?"
+    },
+    {
+      "t": 1297,
+      "title": "Dreadnok roster and missing Zartan"
+    },
+    {
+      "t": 1343,
+      "title": "Hosts imagine Hama's editorial problem"
+    },
+    {
+      "t": 1359,
+      "title": "Character deaths and resurrection recollection"
+    },
+    {
+      "t": 1364,
+      "title": "Dr. Mindbender, Croc Master and Raptor"
+    },
+    {
+      "t": 1394,
+      "title": "Stealing a Dr. Mindbender figure"
+    },
+    {
+      "t": 1424,
+      "title": "Plan to ask Larry Hama directly"
+    },
+    {
+      "t": 1459,
+      "title": "Cobra consulate page"
+    },
+    {
+      "t": 1466,
+      "title": "Rush-job hypothesis"
+    },
+    {
+      "t": 1485,
+      "title": "The Incredible Hulk career transition"
+    },
+    {
+      "t": 1489,
+      "title": "Possible first Marvel work"
+    },
+    {
+      "t": 1532,
+      "title": "Michael Golden and Mike Zeck reference points"
+    },
+    {
+      "t": 1561,
+      "title": "Storm Shadow and Snake Eyes page action"
+    },
+    {
+      "t": 1568,
+      "title": "Large helicopter toy"
+    },
+    {
+      "t": 1582,
+      "title": "How Choe says he stole the helicopter"
+    },
+    {
+      "t": 1635,
+      "title": "The stolen toy disappoints"
+    },
+    {
+      "t": 1655,
+      "title": "Lucky Pierre and Human Centipede joke"
+    },
+    {
+      "t": 1686,
+      "title": "Crockett and Tubbs comparison"
+    },
+    {
+      "t": 1708,
+      "title": "Chuckles identified on the page"
+    },
+    {
+      "t": 1718,
+      "title": "The unresolved Hama question returns"
+    },
+    {
+      "t": 1725,
+      "title": "Madballs and future guests"
+    },
+    {
+      "t": 1746,
+      "title": "Why issue #60 matters to the panel"
+    },
+    {
+      "t": 1765,
+      "title": "Close without a production-history verdict"
+    }
   ],
   "connections": [
-    {"t": 20, "to": "comics oral history", "relationship": "A printed issue becomes the starting point for an unresolved story about authorship, rejection and early career."},
-    {"t": 65, "to": "evidence hierarchy", "relationship": "Repeated 'fired' language is memorable but remains host framing until creator or production records support it."},
-    {"t": 163, "to": "formative media", "relationship": "Snake Eyes and Storm Shadow organize Choe's memory of an entire creative period."},
-    {"t": 205, "to": "compulsion and consequence", "relationship": "Toy desire is narrated beside theft, shame and Choe's later jail history rather than as harmless collecting nostalgia."},
-    {"t": 269, "to": "dangerous discoverability", "relationship": "A complete historical transcript can coexist with suppressing concealment mechanics from snippets and recommendations."},
-    {"t": 304, "to": "edition provenance", "relationship": "The house ad dates the uploaded program but should not become live commerce."},
-    {"t": 457, "to": "toy-commercial storytelling", "relationship": "The panel reads cast expansion as a publishing story driven partly by the toy line."},
-    {"t": 552, "to": "toy realism and public danger", "relationship": "Nostalgia for realistic toys meets a high-harm claim that requires authoritative evidence."},
-    {"t": 649, "to": "private childhood memory", "relationship": "A specific toy anchors a story whose creative meaning survives without identity-resolving another child."},
-    {"t": 700, "to": "hygiene and social shame", "relationship": "Choe sees himself in Zanzibar's smell and stealing while acknowledging the humiliation of exclusion."},
-    {"t": 756, "to": "David Choe works", "relationship": "G.I. Choe links an early commercial-media obsession to Choe's own small-press practice."},
-    {"t": 760, "to": "Slow Jams", "relationship": "Choe places the mini-comic in the same creative universe without establishing a formal sequel or edition."},
-    {"t": 817, "to": "Marvel method", "relationship": "Page composition prompts a workflow hypothesis that requires scripts, layouts or creator testimony."},
-    {"t": 842, "to": "Action Park", "relationship": "A comic's physical exaggeration opens a digression into dangerous-amusement oral history."},
-    {"t": 987, "to": "Todd McFarlane career timeline", "relationship": "The issue is treated as an early-career hinge, but dates and 'first work' claims require primary credits."},
-    {"t": 1062, "to": "1980s masculinity", "relationship": "Chuckles is read through skate films, television archetypes and action-star style."},
-    {"t": 1138, "to": "formative sexual archetypes", "relationship": "Choe explicitly connects female G.I. Joe characters to later attraction while the archive avoids universalizing it."},
-    {"t": 1198, "to": "object interpretation", "relationship": "Anecdotal statue touching is not enough to explain physical wear or a whole culture's behavior."},
-    {"t": 1343, "to": "creator intent", "relationship": "The hosts' page reading generates plausible editorial theories but not proof of Hama's thoughts."},
-    {"t": 1485, "to": "The Incredible Hulk", "relationship": "The panel places G.I. Joe immediately before a better-known Marvel phase, making exact credit chronology valuable."},
-    {"t": 1532, "to": "visual lineage", "relationship": "Michael Golden and Mike Zeck are named as the art language against which this early McFarlane work is read."},
-    {"t": 1582, "to": "theft escalation", "relationship": "The larger helicopter turns remembered desire into more explicit concealment and escape behavior."},
-    {"t": 1765, "to": "open research question", "relationship": "The panel ends by proposing direct interviews rather than pretending the episode resolved its central dispute."}
+    {
+      "t": 20,
+      "to": "comics oral history",
+      "relationship": "A printed issue becomes the starting point for an unresolved story about authorship, rejection and early career."
+    },
+    {
+      "t": 65,
+      "to": "evidence hierarchy",
+      "relationship": "Repeated 'fired' language is memorable but remains host framing until creator or production records support it."
+    },
+    {
+      "t": 163,
+      "to": "formative media",
+      "relationship": "Snake Eyes and Storm Shadow organize Choe's memory of an entire creative period."
+    },
+    {
+      "t": 205,
+      "to": "compulsion and consequence",
+      "relationship": "Toy desire is narrated beside theft, shame and Choe's later jail history rather than as harmless collecting nostalgia."
+    },
+    {
+      "t": 269,
+      "to": "dangerous discoverability",
+      "relationship": "A complete historical transcript can coexist with suppressing concealment mechanics from snippets and recommendations."
+    },
+    {
+      "t": 304,
+      "to": "edition provenance",
+      "relationship": "The house ad dates the uploaded program but should not become live commerce."
+    },
+    {
+      "t": 457,
+      "to": "toy-commercial storytelling",
+      "relationship": "The panel reads cast expansion as a publishing story driven partly by the toy line."
+    },
+    {
+      "t": 552,
+      "to": "toy realism and public danger",
+      "relationship": "Nostalgia for realistic toys meets a high-harm claim that requires authoritative evidence."
+    },
+    {
+      "t": 649,
+      "to": "private childhood memory",
+      "relationship": "A specific toy anchors a story whose creative meaning survives without identity-resolving another child."
+    },
+    {
+      "t": 700,
+      "to": "hygiene and social shame",
+      "relationship": "Choe sees himself in Zanzibar's smell and stealing while acknowledging the humiliation of exclusion."
+    },
+    {
+      "t": 756,
+      "to": "David Choe works",
+      "relationship": "G.I. Choe links an early commercial-media obsession to Choe's own small-press practice."
+    },
+    {
+      "t": 760,
+      "to": "Slow Jams",
+      "relationship": "Choe places the mini-comic in the same creative universe without establishing a formal sequel or edition."
+    },
+    {
+      "t": 817,
+      "to": "Marvel method",
+      "relationship": "Page composition prompts a workflow hypothesis that requires scripts, layouts or creator testimony."
+    },
+    {
+      "t": 842,
+      "to": "Action Park",
+      "relationship": "A comic's physical exaggeration opens a digression into dangerous-amusement oral history."
+    },
+    {
+      "t": 987,
+      "to": "Todd McFarlane career timeline",
+      "relationship": "The issue is treated as an early-career hinge, but dates and 'first work' claims require primary credits."
+    },
+    {
+      "t": 1062,
+      "to": "1980s masculinity",
+      "relationship": "Chuckles is read through skate films, television archetypes and action-star style."
+    },
+    {
+      "t": 1138,
+      "to": "formative sexual archetypes",
+      "relationship": "Choe explicitly connects female G.I. Joe characters to later attraction while the archive avoids universalizing it."
+    },
+    {
+      "t": 1198,
+      "to": "object interpretation",
+      "relationship": "Anecdotal statue touching is not enough to explain physical wear or a whole culture's behavior."
+    },
+    {
+      "t": 1343,
+      "to": "creator intent",
+      "relationship": "The hosts' page reading generates plausible editorial theories but not proof of Hama's thoughts."
+    },
+    {
+      "t": 1485,
+      "to": "The Incredible Hulk",
+      "relationship": "The panel places G.I. Joe immediately before a better-known Marvel phase, making exact credit chronology valuable."
+    },
+    {
+      "t": 1532,
+      "to": "visual lineage",
+      "relationship": "Michael Golden and Mike Zeck are named as the art language against which this early McFarlane work is read."
+    },
+    {
+      "t": 1582,
+      "to": "theft escalation",
+      "relationship": "The larger helicopter turns remembered desire into more explicit concealment and escape behavior."
+    },
+    {
+      "t": 1765,
+      "to": "open research question",
+      "relationship": "The panel ends by proposing direct interviews rather than pretending the episode resolved its central dispute."
+    }
   ],
   "source_notes": [
-    {"t": 20, "claim": "The comic under discussion is G.I. Joe #60, written by Larry Hama and penciled by Todd McFarlane.", "assessment": "Use the printed issue and Marvel catalogue as the canonical credit record; the episode title and page discussion align with #60.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 34, "claim": "McFarlane drew #61 before Marshall Rogers redrew it.", "assessment": "Treat as a production-history lead until the rejected pages, printed #61 credits and direct creator testimony are compared.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 65, "claim": "Larry Hama fired Todd McFarlane.", "assessment": "This is the hosts' repeated wording. Verify contract/editorial relationship and distinguish rejection, reassignment and employment termination.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 552, "claim": "Enertech made the described realistic water gun and children were shot by police because of such toys.", "assessment": "Brand, model, dates and incidents require toy records and authoritative reporting; do not generalize from the panel.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 649, "claim": "The private childhood-peer story occurred exactly as remembered.", "assessment": "Preserve as Choe's first-person recollection without identity resolution or independent claims about the child and families.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 689, "claim": "Zanzibar's package biography says he was a smelly street urchin and thief hated by other Dreadnoks.", "assessment": "Verify exact language and chronology against the physical file card or an authorized scan.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 756, "claim": "G.I. Choe is a published mini-comic equivalent to Slow Jams part two.", "assessment": "Choe describes it this way conversationally. Exact title, date, edition, contributors and circulation require an object or primary publication record.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 842, "claim": "Action Park operated the looping slide and paid workers $100 to test it, producing the described injuries.", "assessment": "These are recounted stories; verify with park records, contemporary reporting and reliable documentary sourcing before canonical summary.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 935, "claim": "Issue #60 is Chuckles' first appearance and introduces the stated toys.", "assessment": "Check prior issues, issue indicia, toy catalogue and character records rather than relying on live page commentary.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 1198, "claim": "Wear on Egyptian statues comes from widespread touching of breasts and genitals.", "assessment": "This is Choe's anecdotal generalization and not conservation evidence; require object-specific scholarship.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 1485, "claim": "McFarlane moved directly from this issue to Hulk and this may be his first Marvel work.", "assessment": "Build the timeline from dated printed credits; the speakers themselves express uncertainty.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"},
-    {"t": 1765, "claim": "The episode resolves why McFarlane's next issue was rejected.", "assessment": "It does not. The hosts close by saying they should ask McFarlane or Hama.", "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"}
+    {
+      "t": 20,
+      "claim": "The comic under discussion is G.I. Joe #60, written by Larry Hama and penciled by Todd McFarlane.",
+      "assessment": "Use the printed issue and Marvel catalogue as the canonical credit record; the episode title and page discussion align with #60.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 34,
+      "claim": "McFarlane drew #61 before Marshall Rogers redrew it.",
+      "assessment": "Treat as a production-history lead until the rejected pages, printed #61 credits and direct creator testimony are compared.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 65,
+      "claim": "Larry Hama fired Todd McFarlane.",
+      "assessment": "This is the hosts' repeated wording. Verify contract/editorial relationship and distinguish rejection, reassignment and employment termination.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 552,
+      "claim": "Enertech made the described realistic water gun and children were shot by police because of such toys.",
+      "assessment": "Brand, model, dates and incidents require toy records and authoritative reporting; do not generalize from the panel.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 649,
+      "claim": "The private childhood-peer story occurred exactly as remembered.",
+      "assessment": "Preserve as Choe's first-person recollection without identity resolution or independent claims about the child and families.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 689,
+      "claim": "Zanzibar's package biography says he was a smelly street urchin and thief hated by other Dreadnoks.",
+      "assessment": "Verify exact language and chronology against the physical file card or an authorized scan.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 756,
+      "claim": "G.I. Choe is a published mini-comic equivalent to Slow Jams part two.",
+      "assessment": "Choe describes it this way conversationally. Exact title, date, edition, contributors and circulation require an object or primary publication record.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 842,
+      "claim": "Action Park operated the looping slide and paid workers $100 to test it, producing the described injuries.",
+      "assessment": "These are recounted stories; verify with park records, contemporary reporting and reliable documentary sourcing before canonical summary.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 935,
+      "claim": "Issue #60 is Chuckles' first appearance and introduces the stated toys.",
+      "assessment": "Check prior issues, issue indicia, toy catalogue and character records rather than relying on live page commentary.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 1198,
+      "claim": "Wear on Egyptian statues comes from widespread touching of breasts and genitals.",
+      "assessment": "This is Choe's anecdotal generalization and not conservation evidence; require object-specific scholarship.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 1485,
+      "claim": "McFarlane moved directly from this issue to Hulk and this may be his first Marvel work.",
+      "assessment": "Build the timeline from dated printed credits; the speakers themselves express uncertainty.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    },
+    {
+      "t": 1765,
+      "claim": "The episode resolves why McFarlane's next issue was rejected.",
+      "assessment": "It does not. The hosts close by saying they should ask McFarlane or Hama.",
+      "source": "https://www.youtube.com/watch?v=ISxnJeQ7LdI"
+    }
   ],
-  "content_warnings": ["theft admissions", "operational concealment and escape detail", "childhood punishment", "possible child abuse recollection", "poor hygiene and humiliation", "explicit sexual speech", "childhood sexualized toy recollection", "masturbation analogies", "sexual-position joke", "violent comic imagery", "police shooting claims", "dangerous amusement injuries", "gender stereotypes", "racial and cultural generalization", "publisher-masked profanity", "jail self-report", "private childhood-person details", "unsafe nostalgia", "commerce and stale promotion", "creator-employment speculation"],
+  "content_warnings": [
+    "theft admissions",
+    "operational concealment and escape detail",
+    "childhood punishment",
+    "possible child abuse recollection",
+    "poor hygiene and humiliation",
+    "explicit sexual speech",
+    "childhood sexualized toy recollection",
+    "masturbation analogies",
+    "sexual-position joke",
+    "violent comic imagery",
+    "police shooting claims",
+    "dangerous amusement injuries",
+    "gender stereotypes",
+    "racial and cultural generalization",
+    "publisher-masked profanity",
+    "jail self-report",
+    "private childhood-person details",
+    "unsafe nostalgia",
+    "commerce and stale promotion",
+    "creator-employment speculation"
+  ],
   "publication_restrictions": [
-    {"t": 0, "rule": "publish no named line-level turns before held-out acoustic/video validation"},
-    {"t": 34, "rule": "do not state the #61 production sequence without printed credits, pages and creator testimony"},
-    {"t": 65, "rule": "do not convert hosts' 'fired' wording into an employment or legal fact"},
-    {"t": 96, "rule": "keep printed-page observation separate from inferred creator intent"},
-    {"t": 172, "rule": "exclude sexualized character talk from neutral character and toy metadata"},
-    {"t": 205, "rule": "treat theft and jail history as Choe's self-report"},
-    {"t": 260, "rule": "do not excerpt shoplifting setup as actionable guidance"},
-    {"t": 269, "rule": "suppress clothing-concealment mechanics from snippets and recommendations"},
-    {"t": 292, "rule": "do not promote vehicle-toy accessory problems as theft optimization"},
-    {"t": 304, "rule": "label the house advertisement as historic program material"},
-    {"t": 330, "rule": "do not surface stale publisher dates or purchase prompts as current commerce"},
-    {"t": 421, "rule": "do not assign Hama's motive or mental state from page interpretation"},
-    {"t": 472, "rule": "verify actor/character comparisons before converting them into credits"},
-    {"t": 526, "rule": "never reconstruct publisher-masked profanity"},
-    {"t": 552, "rule": "do not convert realistic-toy discussion into weapon modification or imitation guidance"},
-    {"t": 559, "rule": "verify police-shooting claims with authoritative incident records"},
-    {"t": 622, "rule": "verify first appearances and toy introductions from primary records"},
-    {"t": 649, "rule": "do not identity-resolve the childhood peer, family, school or neighborhood"},
-    {"t": 680, "rule": "preserve parental-punishment recollection as Choe's account without adjudicating family conduct"},
-    {"t": 689, "rule": "use physical package evidence for Zanzibar biography and exact wording"},
-    {"t": 700, "rule": "do not turn hygiene/shame recollection into a diagnosis or permanent identity label"},
-    {"t": 724, "rule": "do not romanticize compulsive theft as collector authenticity"},
-    {"t": 741, "rule": "verify toy accessories; do not surface weapon lists as youth guidance"},
-    {"t": 756, "rule": "do not call G.I. Choe publicly available or formally published without object evidence"},
-    {"t": 760, "rule": "do not call G.I. Choe an official Slow Jams sequel from the conversational comparison alone"},
-    {"t": 817, "rule": "do not assert Larry Hama supplied layouts without scripts/layouts or creator testimony"},
-    {"t": 842, "rule": "do not present Action Park stories as recreation or safety guidance"},
-    {"t": 874, "rule": "verify payment, test and injury claims from reliable records"},
-    {"t": 935, "rule": "do not promote first-appearance guesses into character chronology"},
-    {"t": 946, "rule": "retain buying/stealing ambiguity instead of silently choosing a cleaner biography"},
-    {"t": 987, "rule": "build McFarlane's timeline from dated credits rather than early-career guesses"},
-    {"t": 1062, "rule": "treat film/skate links as cultural analogy, not evidence of comic influence"},
-    {"t": 1078, "rule": "leave the Police Academy/David Spade recollection unresolved until verified"},
-    {"t": 1138, "rule": "do not generalize Choe's sexual-archetype reflection to gender, fandom or child development"},
-    {"t": 1190, "rule": "keep explicit childhood toy memory out of neutral work and character summaries"},
-    {"t": 1198, "rule": "do not treat anecdotal Egypt speech as conservation or cultural fact"},
-    {"t": 1256, "rule": "do not infer what Hama saw or why he objected"},
-    {"t": 1343, "rule": "label every production-motive claim as host interpretation"},
-    {"t": 1359, "rule": "verify character deaths and resurrections issue by issue"},
-    {"t": 1394, "rule": "preserve the Dr. Mindbender theft admission but exclude it from promotional snippets"},
-    {"t": 1459, "rule": "do not confuse a fictional consulate with real diplomatic history"},
-    {"t": 1466, "rule": "do not call the issue a rush job without production evidence"},
-    {"t": 1485, "rule": "verify Hulk transition and first-Marvel-work claims from primary credits"},
-    {"t": 1582, "rule": "suppress helicopter-toy concealment, distraction and escape mechanics from discovery"},
-    {"t": 1635, "rule": "do not frame successful theft as a recommendation or entertaining challenge"},
-    {"t": 1655, "rule": "preserve explicit joke in context; exclude it from neutral character metadata"},
-    {"t": 1686, "rule": "verify Crockett/Tubbs wording before clean-text promotion"},
-    {"t": 1765, "rule": "retain the central production-history question as unresolved"}
-  ]
+    {
+      "t": 0,
+      "rule": "publish no named line-level turns before held-out acoustic/video validation"
+    },
+    {
+      "t": 34,
+      "rule": "do not state the #61 production sequence without printed credits, pages and creator testimony"
+    },
+    {
+      "t": 65,
+      "rule": "do not convert hosts' 'fired' wording into an employment or legal fact"
+    },
+    {
+      "t": 96,
+      "rule": "keep printed-page observation separate from inferred creator intent"
+    },
+    {
+      "t": 172,
+      "rule": "exclude sexualized character talk from neutral character and toy metadata"
+    },
+    {
+      "t": 205,
+      "rule": "treat theft and jail history as Choe's self-report"
+    },
+    {
+      "t": 260,
+      "rule": "do not excerpt shoplifting setup as actionable guidance"
+    },
+    {
+      "t": 269,
+      "rule": "suppress clothing-concealment mechanics from snippets and recommendations"
+    },
+    {
+      "t": 292,
+      "rule": "do not promote vehicle-toy accessory problems as theft optimization"
+    },
+    {
+      "t": 304,
+      "rule": "label the house advertisement as historic program material"
+    },
+    {
+      "t": 330,
+      "rule": "do not surface stale publisher dates or purchase prompts as current commerce"
+    },
+    {
+      "t": 421,
+      "rule": "do not assign Hama's motive or mental state from page interpretation"
+    },
+    {
+      "t": 472,
+      "rule": "verify actor/character comparisons before converting them into credits"
+    },
+    {
+      "t": 526,
+      "rule": "never reconstruct publisher-masked profanity"
+    },
+    {
+      "t": 552,
+      "rule": "do not convert realistic-toy discussion into weapon modification or imitation guidance"
+    },
+    {
+      "t": 559,
+      "rule": "verify police-shooting claims with authoritative incident records"
+    },
+    {
+      "t": 622,
+      "rule": "verify first appearances and toy introductions from primary records"
+    },
+    {
+      "t": 649,
+      "rule": "do not identity-resolve the childhood peer, family, school or neighborhood"
+    },
+    {
+      "t": 680,
+      "rule": "preserve parental-punishment recollection as Choe's account without adjudicating family conduct"
+    },
+    {
+      "t": 689,
+      "rule": "use physical package evidence for Zanzibar biography and exact wording"
+    },
+    {
+      "t": 700,
+      "rule": "do not turn hygiene/shame recollection into a diagnosis or permanent identity label"
+    },
+    {
+      "t": 724,
+      "rule": "do not romanticize compulsive theft as collector authenticity"
+    },
+    {
+      "t": 741,
+      "rule": "verify toy accessories; do not surface weapon lists as youth guidance"
+    },
+    {
+      "t": 756,
+      "rule": "do not call G.I. Choe publicly available or formally published without object evidence"
+    },
+    {
+      "t": 760,
+      "rule": "do not call G.I. Choe an official Slow Jams sequel from the conversational comparison alone"
+    },
+    {
+      "t": 817,
+      "rule": "do not assert Larry Hama supplied layouts without scripts/layouts or creator testimony"
+    },
+    {
+      "t": 842,
+      "rule": "do not present Action Park stories as recreation or safety guidance"
+    },
+    {
+      "t": 874,
+      "rule": "verify payment, test and injury claims from reliable records"
+    },
+    {
+      "t": 935,
+      "rule": "do not promote first-appearance guesses into character chronology"
+    },
+    {
+      "t": 946,
+      "rule": "retain buying/stealing ambiguity instead of silently choosing a cleaner biography"
+    },
+    {
+      "t": 987,
+      "rule": "build McFarlane's timeline from dated credits rather than early-career guesses"
+    },
+    {
+      "t": 1062,
+      "rule": "treat film/skate links as cultural analogy, not evidence of comic influence"
+    },
+    {
+      "t": 1078,
+      "rule": "leave the Police Academy/David Spade recollection unresolved until verified"
+    },
+    {
+      "t": 1138,
+      "rule": "do not generalize Choe's sexual-archetype reflection to gender, fandom or child development"
+    },
+    {
+      "t": 1190,
+      "rule": "keep explicit childhood toy memory out of neutral work and character summaries"
+    },
+    {
+      "t": 1198,
+      "rule": "do not treat anecdotal Egypt speech as conservation or cultural fact"
+    },
+    {
+      "t": 1256,
+      "rule": "do not infer what Hama saw or why he objected"
+    },
+    {
+      "t": 1343,
+      "rule": "label every production-motive claim as host interpretation"
+    },
+    {
+      "t": 1359,
+      "rule": "verify character deaths and resurrections issue by issue"
+    },
+    {
+      "t": 1394,
+      "rule": "preserve the Dr. Mindbender theft admission but exclude it from promotional snippets"
+    },
+    {
+      "t": 1459,
+      "rule": "do not confuse a fictional consulate with real diplomatic history"
+    },
+    {
+      "t": 1466,
+      "rule": "do not call the issue a rush job without production evidence"
+    },
+    {
+      "t": 1485,
+      "rule": "verify Hulk transition and first-Marvel-work claims from primary credits"
+    },
+    {
+      "t": 1582,
+      "rule": "suppress helicopter-toy concealment, distraction and escape mechanics from discovery"
+    },
+    {
+      "t": 1635,
+      "rule": "do not frame successful theft as a recommendation or entertaining challenge"
+    },
+    {
+      "t": 1655,
+      "rule": "preserve explicit joke in context; exclude it from neutral character metadata"
+    },
+    {
+      "t": 1686,
+      "rule": "verify Crockett/Tubbs wording before clean-text promotion"
+    },
+    {
+      "t": 1765,
+      "rule": "retain the central production-history question as unresolved"
+    }
+  ],
+  "description": "A page-by-page reading of G.I.",
+  "description_source": "Opening of the human-reviewed summary."
 }

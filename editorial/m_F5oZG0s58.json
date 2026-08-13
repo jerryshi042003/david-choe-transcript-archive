@@ -3,136 +3,607 @@
   "title": "David Choe's Red Rope massage story (JRE #392)",
   "reviewed_on": "2026-08-01",
   "summary": "A 2:18 JRE #392 excerpt titled as David Choe’s red-rope massage story. An unresolved primary speaker detours through explicit sexual novelty claims—an ice cube and five women using tongues—before reporting that a man calling himself Marty described and claimed to have invented a coded “red-rope service.” The speaker reconstructs an Asia-located massage-parlor scenario involving rope suspension, upside-down rotation and explicit oral sex, while clearly saying he has never done it and attributing the sensation to the man’s report. He ends with an exploding/neutron-bomb metaphor and a “crafty Asians” stereotype about optimizing sexual pleasure. Every explicit idea remains. The service, Marty, invention, geography, mechanics, worker, consent, payment and legality are unverified; zero named turns and enrollment windows ship.",
-  "quality": {"raw_segments": 64, "clean_segments": 64, "raw_words_approx": 504, "clean_words_approx": 504, "duration_seconds": 138, "accepted_context_decisions": 64, "chapters": 48, "connections": 27, "content_warnings": 16, "identity_windows": 0, "named_turns": 0, "publisher_labeled_speakers": 0, "cleaning_edits": 8, "cleaning_net_word_delta": 0, "public_restriction_spans": 43},
-  "speaker_policy": {"status": "probable primary storyteller plus reacting/interview voice; every line-level identity unresolved", "reason": "The title names David Choe and JRE #392 but captions have no speaker prefixes. Semantic role, expected show cast and reported quotation cannot establish acoustic identity."},
-  "people": ["David Choe (title-level subject)", "unidentified primary storyteller", "unidentified reacting/interview voice", "Marty (reported name/claimed inventor; unverified)", "unidentified man met by storyteller", "unidentified massage worker role", "five unnamed women in an explicit claim"],
-  "places": ["Asia (speaker’s broad/uncertain claim)", "unidentified massage parlor in reported scenario"],
-  "works": ["David Choe's Red Rope massage story (JRE #392)", "Joe Rogan Experience #392 (title-level source context)", "reported red-rope service"],
-  "themes": ["sexual novelty", "reported erotic service", "hearsay and invention claim", "massage-parlor scenario", "rope suspension", "explicit oral sex", "pleasure hyperbole", "racial/cultural stereotype", "consent and worker-context absence", "caption censorship", "story versus experience"],
+  "quality": {
+    "raw_segments": 64,
+    "clean_segments": 64,
+    "raw_words_approx": 504,
+    "clean_words_approx": 504,
+    "duration_seconds": 138,
+    "accepted_context_decisions": 64,
+    "chapters": 48,
+    "connections": 27,
+    "content_warnings": 16,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 8,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 43
+  },
+  "speaker_policy": {
+    "status": "probable primary storyteller plus reacting/interview voice; every line-level identity unresolved",
+    "reason": "The title names David Choe and JRE #392 but captions have no speaker prefixes. Semantic role, expected show cast and reported quotation cannot establish acoustic identity."
+  },
+  "people": [
+    "David Choe (title-level subject)",
+    "unidentified primary storyteller",
+    "unidentified reacting/interview voice",
+    "Marty (reported name/claimed inventor; unverified)",
+    "unidentified man met by storyteller",
+    "unidentified massage worker role",
+    "five unnamed women in an explicit claim"
+  ],
+  "places": [
+    "Asia (speaker’s broad/uncertain claim)",
+    "unidentified massage parlor in reported scenario"
+  ],
+  "works": [
+    "David Choe's Red Rope massage story (JRE #392)",
+    "Joe Rogan Experience #392 (title-level source context)",
+    "reported red-rope service"
+  ],
+  "themes": [
+    "sexual novelty",
+    "reported erotic service",
+    "hearsay and invention claim",
+    "massage-parlor scenario",
+    "rope suspension",
+    "explicit oral sex",
+    "pleasure hyperbole",
+    "racial/cultural stereotype",
+    "consent and worker-context absence",
+    "caption censorship",
+    "story versus experience"
+  ],
   "chapters": [
-    {"t": 0.12, "title": "off-topic story begins"},
-    {"t": 4.839, "title": "sexual novelty setup"},
-    {"t": 9.8, "title": "thinking each new experience is the limit"},
-    {"t": 16.8, "title": "ice-cube example"},
-    {"t": 20.96, "title": "damaged transition"},
-    {"t": 24.76, "title": "five-woman massage claim"},
-    {"t": 29.199, "title": "tongue-only description"},
-    {"t": 32.88, "title": "“living like a baller”"},
-    {"t": 34.16, "title": "probable reacting voice jokes about hands"},
-    {"t": 37.8, "title": "five-handed joke and return to story"},
-    {"t": 39.92, "title": "meeting a man the prior day"},
-    {"t": 41.559, "title": "first censored red-rope reference"},
-    {"t": 43.28, "title": "storyteller asks what it means"},
-    {"t": 46, "title": "reported red-rope-service question"},
-    {"t": 48.84, "title": "service vocabulary repair"},
-    {"t": 51.68, "title": "censored incredulous question"},
-    {"t": 53.44, "title": "reported “Marty” introduction"},
-    {"t": 55.68, "title": "reported inventor claim"},
-    {"t": 58.32, "title": "storyteller reconstructs the scenario"},
-    {"t": 59.96, "title": "massage-parlor setting"},
-    {"t": 61.519, "title": "service, not place name"},
-    {"t": 63.879, "title": "red rope as code word"},
-    {"t": 66.24, "title": "reported service request"},
-    {"t": 68.52, "title": "massage begins"},
-    {"t": 70.6, "title": "“only in Asia” uncertainty"},
-    {"t": 72.159, "title": "client lying on back"},
-    {"t": 74.92, "title": "“happy ending” point"},
-    {"t": 76.88, "title": "damaged anatomy/action caption"},
-    {"t": 79.88, "title": "requesting the red rope"},
-    {"t": 82.759, "title": "rope setup begins"},
-    {"t": 84.6, "title": "rope need not be red"},
-    {"t": 86.84, "title": "unknown overhead fixture"},
-    {"t": 88.96, "title": "bars above massage table"},
-    {"t": 91.92, "title": "feet hooked and body inverted"},
-    {"t": 93.479, "title": "spinning while upside down"},
-    {"t": 96.84, "title": "explicit oral-sex action"},
-    {"t": 101.2, "title": "“helicopter” rotation metaphor"},
-    {"t": 103.799, "title": "censored phrase and never-done-it disclaimer"},
-    {"t": 105.799, "title": "reported sensation begins"},
-    {"t": 110.04, "title": "unprecedented sensation claim"},
-    {"t": 112.079, "title": "explosion setup"},
-    {"t": 115.439, "title": "neutron-bomb metaphor"},
-    {"t": 118.24, "title": "motion stops"},
-    {"t": 120.28, "title": "rotation reverses"},
-    {"t": 122.88, "title": "“crafty Asians” stereotype"},
-    {"t": 127.92, "title": "sex taken to another level"},
-    {"t": 132.44, "title": "optimizing pleasure claim"},
-    {"t": 136.56, "title": "generalization closes"}
+    {
+      "t": 0.12,
+      "title": "off-topic story begins"
+    },
+    {
+      "t": 4.839,
+      "title": "sexual novelty setup"
+    },
+    {
+      "t": 9.8,
+      "title": "thinking each new experience is the limit"
+    },
+    {
+      "t": 16.8,
+      "title": "ice-cube example"
+    },
+    {
+      "t": 20.96,
+      "title": "damaged transition"
+    },
+    {
+      "t": 24.76,
+      "title": "five-woman massage claim"
+    },
+    {
+      "t": 29.199,
+      "title": "tongue-only description"
+    },
+    {
+      "t": 32.88,
+      "title": "“living like a baller”"
+    },
+    {
+      "t": 34.16,
+      "title": "probable reacting voice jokes about hands"
+    },
+    {
+      "t": 37.8,
+      "title": "five-handed joke and return to story"
+    },
+    {
+      "t": 39.92,
+      "title": "meeting a man the prior day"
+    },
+    {
+      "t": 41.559,
+      "title": "first censored red-rope reference"
+    },
+    {
+      "t": 43.28,
+      "title": "storyteller asks what it means"
+    },
+    {
+      "t": 46,
+      "title": "reported red-rope-service question"
+    },
+    {
+      "t": 48.84,
+      "title": "service vocabulary repair"
+    },
+    {
+      "t": 51.68,
+      "title": "censored incredulous question"
+    },
+    {
+      "t": 53.44,
+      "title": "reported “Marty” introduction"
+    },
+    {
+      "t": 55.68,
+      "title": "reported inventor claim"
+    },
+    {
+      "t": 58.32,
+      "title": "storyteller reconstructs the scenario"
+    },
+    {
+      "t": 59.96,
+      "title": "massage-parlor setting"
+    },
+    {
+      "t": 61.519,
+      "title": "service, not place name"
+    },
+    {
+      "t": 63.879,
+      "title": "red rope as code word"
+    },
+    {
+      "t": 66.24,
+      "title": "reported service request"
+    },
+    {
+      "t": 68.52,
+      "title": "massage begins"
+    },
+    {
+      "t": 70.6,
+      "title": "“only in Asia” uncertainty"
+    },
+    {
+      "t": 72.159,
+      "title": "client lying on back"
+    },
+    {
+      "t": 74.92,
+      "title": "“happy ending” point"
+    },
+    {
+      "t": 76.88,
+      "title": "damaged anatomy/action caption"
+    },
+    {
+      "t": 79.88,
+      "title": "requesting the red rope"
+    },
+    {
+      "t": 82.759,
+      "title": "rope setup begins"
+    },
+    {
+      "t": 84.6,
+      "title": "rope need not be red"
+    },
+    {
+      "t": 86.84,
+      "title": "unknown overhead fixture"
+    },
+    {
+      "t": 88.96,
+      "title": "bars above massage table"
+    },
+    {
+      "t": 91.92,
+      "title": "feet hooked and body inverted"
+    },
+    {
+      "t": 93.479,
+      "title": "spinning while upside down"
+    },
+    {
+      "t": 96.84,
+      "title": "explicit oral-sex action"
+    },
+    {
+      "t": 101.2,
+      "title": "“helicopter” rotation metaphor"
+    },
+    {
+      "t": 103.799,
+      "title": "censored phrase and never-done-it disclaimer"
+    },
+    {
+      "t": 105.799,
+      "title": "reported sensation begins"
+    },
+    {
+      "t": 110.04,
+      "title": "unprecedented sensation claim"
+    },
+    {
+      "t": 112.079,
+      "title": "explosion setup"
+    },
+    {
+      "t": 115.439,
+      "title": "neutron-bomb metaphor"
+    },
+    {
+      "t": 118.24,
+      "title": "motion stops"
+    },
+    {
+      "t": 120.28,
+      "title": "rotation reverses"
+    },
+    {
+      "t": 122.88,
+      "title": "“crafty Asians” stereotype"
+    },
+    {
+      "t": 127.92,
+      "title": "sex taken to another level"
+    },
+    {
+      "t": 132.44,
+      "title": "optimizing pleasure claim"
+    },
+    {
+      "t": 136.56,
+      "title": "generalization closes"
+    }
   ],
   "connections": [
-    {"t": 0.12, "to": "topic detour", "relationship": "The speaker explicitly interrupts the prior subject for a sexual story."},
-    {"t": 9.8, "to": "novelty escalation", "relationship": "Each experience is framed as a supposed upper bound that later gets exceeded."},
-    {"t": 16.8, "to": "explicit personal claim", "relationship": "The ice-cube example is presented in first person."},
-    {"t": 20.96, "to": "listening repair", "relationship": "Several tokens between examples are unusable and remain unresolved."},
-    {"t": 24.76, "to": "multi-person sexual claim", "relationship": "The speaker describes five women giving a tongue-only massage."},
-    {"t": 34.16, "to": "probable interviewer joke", "relationship": "The two-handed/five-handed reaction appears to be another voice but has no acoustic label."},
-    {"t": 39.92, "to": "hearsay chain", "relationship": "The red-rope account originates in what a newly met man reportedly said."},
-    {"t": 41.559, "to": "caption censorship", "relationship": "The key noun after red rope is censored or unclear twice."},
-    {"t": 48.84, "to": "service vocabulary", "relationship": "Context supports correcting “surface” to “service.”"},
-    {"t": 53.44, "to": "reported identity", "relationship": "Marty is a name inside quoted speech, not independently verified identity."},
-    {"t": 55.68, "to": "reported invention claim", "relationship": "Origin/authorship comes solely from the man’s alleged self-description."},
-    {"t": 59.96, "to": "massage-parlor scenario", "relationship": "The storyteller begins reconstructing how the service supposedly works."},
-    {"t": 63.879, "to": "coded request", "relationship": "Red rope is described as a code word rather than venue name."},
-    {"t": 70.6, "to": "geographic overclaim", "relationship": "“Only in Asia” is explicitly uncertain and far too broad for verification."},
-    {"t": 74.92, "to": "commercial-sex implication", "relationship": "The “happy ending” phrase implies sexual service but does not establish payment, legality or consent."},
-    {"t": 76.88, "to": "listening repair", "relationship": "The anatomy/action caption is incoherent and cannot be safely normalized."},
-    {"t": 79.88, "to": "worker agency gap", "relationship": "The story assigns actions to a generic woman but provides no worker voice or perspective."},
-    {"t": 84.6, "to": "title-versus-object", "relationship": "The speaker clarifies that the physical rope need not be red."},
-    {"t": 86.84, "to": "unsafe mechanics gap", "relationship": "The overhead support is unknown; no usable rigging or load detail exists."},
-    {"t": 91.92, "to": "rope suspension", "relationship": "The worker is described inverted by the feet, but feasibility and safety are unverified."},
-    {"t": 101.2, "to": "motion metaphor", "relationship": "“Helicopter” is the storyteller’s image for oral-sex rotation, not technical terminology."},
-    {"t": 103.799, "to": "experience boundary", "relationship": "The speaker explicitly says he has never done the described service."},
-    {"t": 105.799, "to": "reported sensation", "relationship": "All physical effects are attributed to what the man said, not firsthand experience."},
-    {"t": 115.439, "to": "hyperbole", "relationship": "Neutron-bomb language is figurative pleasure imagery."},
-    {"t": 120.28, "to": "reverse rotation", "relationship": "The motion supposedly reverses; no operational detail is supplied or endorsed."},
-    {"t": 122.88, "to": "racial/cultural stereotype", "relationship": "The speaker generalizes sexual inventiveness to “crafty Asians.”"},
-    {"t": 132.44, "to": "pleasure generalization", "relationship": "A broad Asian “they” is said to optimize pleasure, without evidence or defined population."}
+    {
+      "t": 0.12,
+      "to": "topic detour",
+      "relationship": "The speaker explicitly interrupts the prior subject for a sexual story."
+    },
+    {
+      "t": 9.8,
+      "to": "novelty escalation",
+      "relationship": "Each experience is framed as a supposed upper bound that later gets exceeded."
+    },
+    {
+      "t": 16.8,
+      "to": "explicit personal claim",
+      "relationship": "The ice-cube example is presented in first person."
+    },
+    {
+      "t": 20.96,
+      "to": "listening repair",
+      "relationship": "Several tokens between examples are unusable and remain unresolved."
+    },
+    {
+      "t": 24.76,
+      "to": "multi-person sexual claim",
+      "relationship": "The speaker describes five women giving a tongue-only massage."
+    },
+    {
+      "t": 34.16,
+      "to": "probable interviewer joke",
+      "relationship": "The two-handed/five-handed reaction appears to be another voice but has no acoustic label."
+    },
+    {
+      "t": 39.92,
+      "to": "hearsay chain",
+      "relationship": "The red-rope account originates in what a newly met man reportedly said."
+    },
+    {
+      "t": 41.559,
+      "to": "caption censorship",
+      "relationship": "The key noun after red rope is censored or unclear twice."
+    },
+    {
+      "t": 48.84,
+      "to": "service vocabulary",
+      "relationship": "Context supports correcting “surface” to “service.”"
+    },
+    {
+      "t": 53.44,
+      "to": "reported identity",
+      "relationship": "Marty is a name inside quoted speech, not independently verified identity."
+    },
+    {
+      "t": 55.68,
+      "to": "reported invention claim",
+      "relationship": "Origin/authorship comes solely from the man’s alleged self-description."
+    },
+    {
+      "t": 59.96,
+      "to": "massage-parlor scenario",
+      "relationship": "The storyteller begins reconstructing how the service supposedly works."
+    },
+    {
+      "t": 63.879,
+      "to": "coded request",
+      "relationship": "Red rope is described as a code word rather than venue name."
+    },
+    {
+      "t": 70.6,
+      "to": "geographic overclaim",
+      "relationship": "“Only in Asia” is explicitly uncertain and far too broad for verification."
+    },
+    {
+      "t": 74.92,
+      "to": "commercial-sex implication",
+      "relationship": "The “happy ending” phrase implies sexual service but does not establish payment, legality or consent."
+    },
+    {
+      "t": 76.88,
+      "to": "listening repair",
+      "relationship": "The anatomy/action caption is incoherent and cannot be safely normalized."
+    },
+    {
+      "t": 79.88,
+      "to": "worker agency gap",
+      "relationship": "The story assigns actions to a generic woman but provides no worker voice or perspective."
+    },
+    {
+      "t": 84.6,
+      "to": "title-versus-object",
+      "relationship": "The speaker clarifies that the physical rope need not be red."
+    },
+    {
+      "t": 86.84,
+      "to": "unsafe mechanics gap",
+      "relationship": "The overhead support is unknown; no usable rigging or load detail exists."
+    },
+    {
+      "t": 91.92,
+      "to": "rope suspension",
+      "relationship": "The worker is described inverted by the feet, but feasibility and safety are unverified."
+    },
+    {
+      "t": 101.2,
+      "to": "motion metaphor",
+      "relationship": "“Helicopter” is the storyteller’s image for oral-sex rotation, not technical terminology."
+    },
+    {
+      "t": 103.799,
+      "to": "experience boundary",
+      "relationship": "The speaker explicitly says he has never done the described service."
+    },
+    {
+      "t": 105.799,
+      "to": "reported sensation",
+      "relationship": "All physical effects are attributed to what the man said, not firsthand experience."
+    },
+    {
+      "t": 115.439,
+      "to": "hyperbole",
+      "relationship": "Neutron-bomb language is figurative pleasure imagery."
+    },
+    {
+      "t": 120.28,
+      "to": "reverse rotation",
+      "relationship": "The motion supposedly reverses; no operational detail is supplied or endorsed."
+    },
+    {
+      "t": 122.88,
+      "to": "racial/cultural stereotype",
+      "relationship": "The speaker generalizes sexual inventiveness to “crafty Asians.”"
+    },
+    {
+      "t": 132.44,
+      "to": "pleasure generalization",
+      "relationship": "A broad Asian “they” is said to optimize pleasure, without evidence or defined population."
+    }
   ],
-  "source_notes": ["Excerpt title attributes the story to David Choe and JRE #392.", "Automatic captions contain 64 records / 504 words / 2:18.", "No caption speaker prefix exists.", "Expected podcast cast is not acoustic proof.", "The primary speaker presents first-person sexual novelty examples.", "The transition near 21 seconds is badly damaged.", "A probable second voice makes the hands joke.", "The red-rope account begins as hearsay from a man met the prior day.", "The word after red rope is censored/unclear in early mentions.", "“Surface” is repaired to “service” from immediate repeated context.", "Marty is only a reported name.", "The invention claim is only reported speech.", "Red rope is described as a service/code word, not a venue.", "“Only in Asia” is the speaker’s uncertain broad claim.", "No country or actual massage parlor is named.", "The caption near 77 seconds is anatomically incoherent.", "The worker has no voice or perspective in the excerpt.", "No consent, payment, coercion or legality is established.", "The overhead bars/rope setup is incomplete and unverified.", "The storyteller explicitly says he has never done the service.", "Pleasure/explosion claims are attributed hearsay and metaphor.", "The final Asian generalization is a stereotype, not cultural evidence.", "Explicit language remains uncensored except where source captions are censored.", "Raw captions remain immutable."],
-  "content_warnings": ["explicit sexual content", "anal penetration reference", "group sexual activity", "commercial-sex implication", "oral sex", "genital language", "rope suspension", "potential physical-injury risk", "worker consent/agency absent", "racial/cultural stereotyping", "reported sexual-service hearsay", "unverified person/invention claim", "caption censorship", "speaker-attribution risk", "legal/geographic overclaim risk", "unsafe imitation risk"],
+  "source_notes": [
+    "Excerpt title attributes the story to David Choe and JRE #392.",
+    "Automatic captions contain 64 records / 504 words / 2:18.",
+    "No caption speaker prefix exists.",
+    "Expected podcast cast is not acoustic proof.",
+    "The primary speaker presents first-person sexual novelty examples.",
+    "The transition near 21 seconds is badly damaged.",
+    "A probable second voice makes the hands joke.",
+    "The red-rope account begins as hearsay from a man met the prior day.",
+    "The word after red rope is censored/unclear in early mentions.",
+    "“Surface” is repaired to “service” from immediate repeated context.",
+    "Marty is only a reported name.",
+    "The invention claim is only reported speech.",
+    "Red rope is described as a service/code word, not a venue.",
+    "“Only in Asia” is the speaker’s uncertain broad claim.",
+    "No country or actual massage parlor is named.",
+    "The caption near 77 seconds is anatomically incoherent.",
+    "The worker has no voice or perspective in the excerpt.",
+    "No consent, payment, coercion or legality is established.",
+    "The overhead bars/rope setup is incomplete and unverified.",
+    "The storyteller explicitly says he has never done the service.",
+    "Pleasure/explosion claims are attributed hearsay and metaphor.",
+    "The final Asian generalization is a stereotype, not cultural evidence.",
+    "Explicit language remains uncensored except where source captions are censored.",
+    "Raw captions remain immutable."
+  ],
+  "content_warnings": [
+    "explicit sexual content",
+    "anal penetration reference",
+    "group sexual activity",
+    "commercial-sex implication",
+    "oral sex",
+    "genital language",
+    "rope suspension",
+    "potential physical-injury risk",
+    "worker consent/agency absent",
+    "racial/cultural stereotyping",
+    "reported sexual-service hearsay",
+    "unverified person/invention claim",
+    "caption censorship",
+    "speaker-attribution risk",
+    "legal/geographic overclaim risk",
+    "unsafe imitation risk"
+  ],
   "publication_restrictions": [
-    {"t": -0.14, "rule": "publish zero named line-level turns until acoustic/publisher validation passes"},
-    {"t": -0.13, "rule": "preserve all explicit sexual ideas and stereotypes without euphemizing them"},
-    {"t": -0.12, "rule": "do not eroticize or add sexual detail beyond the captions"},
-    {"t": -0.11, "rule": "treat title-level David Choe/JRE attribution as source metadata only"},
-    {"t": -0.1, "rule": "treat Marty and the invention claim as reported, unverified speech"},
-    {"t": -0.09, "rule": "do not identify or generalize about any worker"},
-    {"t": -0.08, "rule": "do not infer consent, coercion, trafficking, payment, legality or venue"},
-    {"t": -0.07, "rule": "do not convert hearsay into verified service history or firsthand experience"},
-    {"t": -0.06, "rule": "keep rope/suspension mechanics non-instructional and incomplete"},
-    {"t": -0.05, "rule": "do not reconstruct censored words or damaged anatomy"},
-    {"t": -0.04, "rule": "do not universalize the Asian stereotype"},
-    {"t": -0.03, "rule": "separate reported sensation from primary speaker experience"},
-    {"t": -0.02, "rule": "treat explosion language as metaphor"},
-    {"t": -0.01, "rule": "exclude all fragments from voice enrollment"},
-    {"t": 0.12, "rule": "retain hesitation and topic-detour framing"},
-    {"t": 7.04, "rule": "keep damaged self-correction uncertain"},
-    {"t": 16.8, "rule": "retain explicit ice-cube claim without embellishment"},
-    {"t": 20.96, "rule": "do not invent damaged transition tokens"},
-    {"t": 24.76, "rule": "do not identify the five women or infer actual event context"},
-    {"t": 34.16, "rule": "probable speaker shift does not establish interviewer identity"},
-    {"t": 36.239, "rule": "do not normalize damaged hands joke into anatomical fact"},
-    {"t": 39.92, "rule": "mark the red-rope account as a newly met man’s report"},
-    {"t": 41.559, "rule": "retain censorship"},
-    {"t": 48.84, "rule": "service correction does not verify a real service"},
-    {"t": 51.68, "rule": "retain censored expletive"},
-    {"t": 53.44, "rule": "do not verify Marty’s identity"},
-    {"t": 55.68, "rule": "do not verify invention/origin claim"},
-    {"t": 59.96, "rule": "do not supply missing body-position words"},
-    {"t": 63.879, "rule": "reported code-word claim is not operational verification"},
-    {"t": 66.24, "rule": "do not present code phrase as usable purchasing guidance"},
-    {"t": 70.6, "rule": "do not map “Asia” to a country, culture or verified availability"},
-    {"t": 74.92, "rule": "do not infer payment, legality or consent from ‘happy ending’"},
-    {"t": 76.88, "rule": "keep anatomy/action listening-required"},
-    {"t": 79.88, "rule": "generic worker role does not establish a real participant"},
-    {"t": 84.6, "rule": "rope-color clarification is descriptive only"},
-    {"t": 86.84, "rule": "do not add fixture, knot, material, load or rigging details"},
-    {"t": 91.92, "rule": "do not imitate or endorse inversion by rope"},
-    {"t": 96.84, "rule": "retain explicit act without expanding technique"},
-    {"t": 103.799, "rule": "preserve never-done-it disclaimer and censorship"},
-    {"t": 105.799, "rule": "attribute sensation entirely to the reported man"},
-    {"t": 115.439, "rule": "do not literalize neutron-bomb metaphor"},
-    {"t": 120.28, "rule": "reverse motion is not safety or technique guidance"},
-    {"t": 122.88, "rule": "label ‘crafty Asians’ as speaker stereotype, not fact"}
-  ]
+    {
+      "t": -0.14,
+      "rule": "publish zero named line-level turns until acoustic/publisher validation passes"
+    },
+    {
+      "t": -0.13,
+      "rule": "preserve all explicit sexual ideas and stereotypes without euphemizing them"
+    },
+    {
+      "t": -0.12,
+      "rule": "do not eroticize or add sexual detail beyond the captions"
+    },
+    {
+      "t": -0.11,
+      "rule": "treat title-level David Choe/JRE attribution as source metadata only"
+    },
+    {
+      "t": -0.1,
+      "rule": "treat Marty and the invention claim as reported, unverified speech"
+    },
+    {
+      "t": -0.09,
+      "rule": "do not identify or generalize about any worker"
+    },
+    {
+      "t": -0.08,
+      "rule": "do not infer consent, coercion, trafficking, payment, legality or venue"
+    },
+    {
+      "t": -0.07,
+      "rule": "do not convert hearsay into verified service history or firsthand experience"
+    },
+    {
+      "t": -0.06,
+      "rule": "keep rope/suspension mechanics non-instructional and incomplete"
+    },
+    {
+      "t": -0.05,
+      "rule": "do not reconstruct censored words or damaged anatomy"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not universalize the Asian stereotype"
+    },
+    {
+      "t": -0.03,
+      "rule": "separate reported sensation from primary speaker experience"
+    },
+    {
+      "t": -0.02,
+      "rule": "treat explosion language as metaphor"
+    },
+    {
+      "t": -0.01,
+      "rule": "exclude all fragments from voice enrollment"
+    },
+    {
+      "t": 0.12,
+      "rule": "retain hesitation and topic-detour framing"
+    },
+    {
+      "t": 7.04,
+      "rule": "keep damaged self-correction uncertain"
+    },
+    {
+      "t": 16.8,
+      "rule": "retain explicit ice-cube claim without embellishment"
+    },
+    {
+      "t": 20.96,
+      "rule": "do not invent damaged transition tokens"
+    },
+    {
+      "t": 24.76,
+      "rule": "do not identify the five women or infer actual event context"
+    },
+    {
+      "t": 34.16,
+      "rule": "probable speaker shift does not establish interviewer identity"
+    },
+    {
+      "t": 36.239,
+      "rule": "do not normalize damaged hands joke into anatomical fact"
+    },
+    {
+      "t": 39.92,
+      "rule": "mark the red-rope account as a newly met man’s report"
+    },
+    {
+      "t": 41.559,
+      "rule": "retain censorship"
+    },
+    {
+      "t": 48.84,
+      "rule": "service correction does not verify a real service"
+    },
+    {
+      "t": 51.68,
+      "rule": "retain censored expletive"
+    },
+    {
+      "t": 53.44,
+      "rule": "do not verify Marty’s identity"
+    },
+    {
+      "t": 55.68,
+      "rule": "do not verify invention/origin claim"
+    },
+    {
+      "t": 59.96,
+      "rule": "do not supply missing body-position words"
+    },
+    {
+      "t": 63.879,
+      "rule": "reported code-word claim is not operational verification"
+    },
+    {
+      "t": 66.24,
+      "rule": "do not present code phrase as usable purchasing guidance"
+    },
+    {
+      "t": 70.6,
+      "rule": "do not map “Asia” to a country, culture or verified availability"
+    },
+    {
+      "t": 74.92,
+      "rule": "do not infer payment, legality or consent from ‘happy ending’"
+    },
+    {
+      "t": 76.88,
+      "rule": "keep anatomy/action listening-required"
+    },
+    {
+      "t": 79.88,
+      "rule": "generic worker role does not establish a real participant"
+    },
+    {
+      "t": 84.6,
+      "rule": "rope-color clarification is descriptive only"
+    },
+    {
+      "t": 86.84,
+      "rule": "do not add fixture, knot, material, load or rigging details"
+    },
+    {
+      "t": 91.92,
+      "rule": "do not imitate or endorse inversion by rope"
+    },
+    {
+      "t": 96.84,
+      "rule": "retain explicit act without expanding technique"
+    },
+    {
+      "t": 103.799,
+      "rule": "preserve never-done-it disclaimer and censorship"
+    },
+    {
+      "t": 105.799,
+      "rule": "attribute sensation entirely to the reported man"
+    },
+    {
+      "t": 115.439,
+      "rule": "do not literalize neutron-bomb metaphor"
+    },
+    {
+      "t": 120.28,
+      "rule": "reverse motion is not safety or technique guidance"
+    },
+    {
+      "t": 122.88,
+      "rule": "label ‘crafty Asians’ as speaker stereotype, not fact"
+    }
+  ],
+  "description": "A 2:18 JRE #392 excerpt titled as David Choe’s red-rope massage story.",
+  "description_source": "Opening of the human-reviewed summary."
 }

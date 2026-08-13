@@ -24,98 +24,382 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 1, "title": "Ass, cash or grass: the cross-country rule"},
-    {"t": 25, "title": "Prior danger and unsupported trauma generalization"},
-    {"t": 47, "title": "Harry Kim joins at the Los Angeles rail yard"},
-    {"t": 83, "title": "Trackside waste as souvenir archaeology"},
-    {"t": 106, "title": "Chicago explains enforcement and route choices"},
-    {"t": 155, "title": "Star Trek, moneyless society and Klingon story"},
-    {"t": 197, "title": "Never trust anyone, except each other"},
-    {"t": 231, "title": "Freight to Yermo and Little Richard's warnings"},
-    {"t": 286, "title": "Ejected from an abandoned hotel"},
-    {"t": 317, "title": "Calico, sickness and marking a structure"},
-    {"t": 379, "title": "Burning metal and the clickety-clack"},
-    {"t": 393, "title": "Theft, Christ and changing compulsions"},
-    {"t": 432, "title": "Gambling replaces the earlier void"},
-    {"t": 445, "title": "A fighter errand, a disturbing report and a $40,000 win"},
-    {"t": 468, "title": "Calling the Venetian for a comp"},
-    {"t": 497, "title": "Warning himself before returning to the casino"},
-    {"t": 508, "title": "Harry is sick and low on water"},
-    {"t": 536, "title": "Kelso and a compressed railroad-labor history"},
-    {"t": 626, "title": "Lost Wages and the Venetian"},
-    {"t": 699, "title": "Lost it all, borrowed and lost again"},
-    {"t": 768, "title": "Golden Palm refuge and Lee's karaoke world"},
-    {"t": 900, "title": "Sleeping beside the pool"},
-    {"t": 957, "title": "Jack predicts nobody will stop"},
-    {"t": 1030, "title": "First ride, fear, resentment and the windowless van"}
+    {
+      "t": 1,
+      "title": "Ass, cash or grass: the cross-country rule"
+    },
+    {
+      "t": 25,
+      "title": "Prior danger and unsupported trauma generalization"
+    },
+    {
+      "t": 47,
+      "title": "Harry Kim joins at the Los Angeles rail yard"
+    },
+    {
+      "t": 83,
+      "title": "Trackside waste as souvenir archaeology"
+    },
+    {
+      "t": 106,
+      "title": "Chicago explains enforcement and route choices"
+    },
+    {
+      "t": 155,
+      "title": "Star Trek, moneyless society and Klingon story"
+    },
+    {
+      "t": 197,
+      "title": "Never trust anyone, except each other"
+    },
+    {
+      "t": 231,
+      "title": "Freight to Yermo and Little Richard's warnings"
+    },
+    {
+      "t": 286,
+      "title": "Ejected from an abandoned hotel"
+    },
+    {
+      "t": 317,
+      "title": "Calico, sickness and marking a structure"
+    },
+    {
+      "t": 379,
+      "title": "Burning metal and the clickety-clack"
+    },
+    {
+      "t": 393,
+      "title": "Theft, Christ and changing compulsions"
+    },
+    {
+      "t": 432,
+      "title": "Gambling replaces the earlier void"
+    },
+    {
+      "t": 445,
+      "title": "A fighter errand, a disturbing report and a $40,000 win"
+    },
+    {
+      "t": 468,
+      "title": "Calling the Venetian for a comp"
+    },
+    {
+      "t": 497,
+      "title": "Warning himself before returning to the casino"
+    },
+    {
+      "t": 508,
+      "title": "Harry is sick and low on water"
+    },
+    {
+      "t": 536,
+      "title": "Kelso and a compressed railroad-labor history"
+    },
+    {
+      "t": 626,
+      "title": "Lost Wages and the Venetian"
+    },
+    {
+      "t": 699,
+      "title": "Lost it all, borrowed and lost again"
+    },
+    {
+      "t": 768,
+      "title": "Golden Palm refuge and Lee's karaoke world"
+    },
+    {
+      "t": 900,
+      "title": "Sleeping beside the pool"
+    },
+    {
+      "t": 957,
+      "title": "Jack predicts nobody will stop"
+    },
+    {
+      "t": 1030,
+      "title": "First ride, fear, resentment and the windowless van"
+    }
   ],
-  "people": ["David Choe", "Harry Kim", "Chicago [alias]", "'Little' Richard [alias]", "Lee [private]", "Jack [private]", "Jerry Garcia"],
-  "places": ["Los Angeles", "Yermo, California", "Calico Ghost Town", "Kelso, California", "Las Vegas", "The Venetian"],
-  "works": ["Thumbs Up!"],
-  "themes": ["hitchhiking", "freight hopping", "risk", "trust", "hospitality", "gambling", "addiction", "railroad labor", "fear", "honesty", "speaker-label provenance"],
+  "people": [
+    "David Choe",
+    "Harry Kim",
+    "Chicago [alias]",
+    "'Little' Richard [alias]",
+    "Lee [private]",
+    "Jack [private]",
+    "Jerry Garcia"
+  ],
+  "places": [
+    "Los Angeles",
+    "Yermo, California",
+    "Calico Ghost Town",
+    "Kelso, California",
+    "Las Vegas",
+    "The Venetian"
+  ],
+  "works": [
+    "Thumbs Up!"
+  ],
+  "themes": [
+    "hitchhiking",
+    "freight hopping",
+    "risk",
+    "trust",
+    "hospitality",
+    "gambling",
+    "addiction",
+    "railroad labor",
+    "fear",
+    "honesty",
+    "speaker-label provenance"
+  ],
   "connections": [
-    {"t": 1, "to": "thumbs-up-season-one", "why": "The opening states the no-payment travel constraint that organizes the series."},
-    {"t": 25, "to": "travel-risk-versus-performance", "why": "Prior sexual danger is delivered as dark humor but remains real risk evidence."},
-    {"t": 47, "to": "harry-kim-recurring-companion", "why": "VICE's manual caption explicitly labels Harry, creating a potential speaker-enrollment source after audio boundary review."},
-    {"t": 106, "to": "chicago-alias", "why": "A participant alias is sufficient for scene retrieval and should not become a real-person investigation."},
-    {"t": 155, "to": "star-trek-utopia", "why": "A chance rail-yard meeting turns into a compact philosophy of work without money."},
-    {"t": 197, "to": "trust-contradiction", "why": "The warning never to trust anyone is followed by the series depending on strangers."},
-    {"t": 231, "to": "yermo-train-risk", "why": "Snake and death warnings sit beside continued freight travel."},
-    {"t": 317, "to": "art-and-property-boundaries", "why": "Leaving a mark moves from art rhetoric into admitted damage to a structure."},
-    {"t": 393, "to": "replacement-addiction", "why": "Theft, religious conversion and gambling are explicitly presented as successive responses to the same void."},
-    {"t": 445, "to": "vegas-win-origin", "why": "The $40,000 self-reported win explains why the casino begins offering comps."},
-    {"t": 497, "to": "foreknowledge-before-loss", "why": "Choe names the exact risk before repeating it, preventing the later loss from being framed as unforeseeable."},
-    {"t": 508, "to": "desert-water-risk", "why": "Harry's illness and low water make the urine joke safety-relevant rather than harmless banter."},
-    {"t": 536, "to": "railroad-labor-history", "why": "The landscape prompts a historically important but compressed claim about Chinese and Black labor."},
-    {"t": 699, "to": "gambling-harm-chronology", "why": "Win, comp, brief play, total loss, credit-card cash advance and another loss form one complete sequence."},
-    {"t": 798, "to": "lee-karaoke", "why": "A private casino worker becomes an oral-history subject through his account of karaoke's reliable backing track."},
-    {"t": 1030, "to": "hitchhiking-fear-and-projection", "why": "Choe recognizes that resentment toward drivers mirrors his own reluctance to pick up strangers."}
+    {
+      "t": 1,
+      "to": "thumbs-up-season-one",
+      "why": "The opening states the no-payment travel constraint that organizes the series."
+    },
+    {
+      "t": 25,
+      "to": "travel-risk-versus-performance",
+      "why": "Prior sexual danger is delivered as dark humor but remains real risk evidence."
+    },
+    {
+      "t": 47,
+      "to": "harry-kim-recurring-companion",
+      "why": "VICE's manual caption explicitly labels Harry, creating a potential speaker-enrollment source after audio boundary review."
+    },
+    {
+      "t": 106,
+      "to": "chicago-alias",
+      "why": "A participant alias is sufficient for scene retrieval and should not become a real-person investigation."
+    },
+    {
+      "t": 155,
+      "to": "star-trek-utopia",
+      "why": "A chance rail-yard meeting turns into a compact philosophy of work without money."
+    },
+    {
+      "t": 197,
+      "to": "trust-contradiction",
+      "why": "The warning never to trust anyone is followed by the series depending on strangers."
+    },
+    {
+      "t": 231,
+      "to": "yermo-train-risk",
+      "why": "Snake and death warnings sit beside continued freight travel."
+    },
+    {
+      "t": 317,
+      "to": "art-and-property-boundaries",
+      "why": "Leaving a mark moves from art rhetoric into admitted damage to a structure."
+    },
+    {
+      "t": 393,
+      "to": "replacement-addiction",
+      "why": "Theft, religious conversion and gambling are explicitly presented as successive responses to the same void."
+    },
+    {
+      "t": 445,
+      "to": "vegas-win-origin",
+      "why": "The $40,000 self-reported win explains why the casino begins offering comps."
+    },
+    {
+      "t": 497,
+      "to": "foreknowledge-before-loss",
+      "why": "Choe names the exact risk before repeating it, preventing the later loss from being framed as unforeseeable."
+    },
+    {
+      "t": 508,
+      "to": "desert-water-risk",
+      "why": "Harry's illness and low water make the urine joke safety-relevant rather than harmless banter."
+    },
+    {
+      "t": 536,
+      "to": "railroad-labor-history",
+      "why": "The landscape prompts a historically important but compressed claim about Chinese and Black labor."
+    },
+    {
+      "t": 699,
+      "to": "gambling-harm-chronology",
+      "why": "Win, comp, brief play, total loss, credit-card cash advance and another loss form one complete sequence."
+    },
+    {
+      "t": 798,
+      "to": "lee-karaoke",
+      "why": "A private casino worker becomes an oral-history subject through his account of karaoke's reliable backing track."
+    },
+    {
+      "t": 1030,
+      "to": "hitchhiking-fear-and-projection",
+      "why": "Choe recognizes that resentment toward drivers mirrors his own reluctance to pick up strangers."
+    }
   ],
   "source_notes": [
-    {"t": 47, "claim": "David Choe and Harry Kim are the two primary travelers.", "assessment": "VICE's manual captions explicitly label both speakers. This is strong publisher annotation for participant identity, but acoustic enrollment still requires listening-verified, non-overlapping audio windows.", "source": "https://www.youtube.com/watch?v=QO3-AAVTeDA"},
-    {"t": 559, "claim": "Railroads in the 1920s and 1930s were built on the backs of Chinese and Black workers.", "assessment": "Chinese labor was indispensable to the western portion of the first transcontinental railroad, but that history is principally from the 1860s, not the episode's stated 1920s–1930s window. The episode supplies no source tying this exact claim to Kelso.", "source": "https://www.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm"},
-    {"t": 559, "claim": "Railroads in the 1920s and 1930s were built on the backs of Chinese and Black workers.", "assessment": "Black workers built, maintained and operated railroads across different United States regions and periods; in the early twentieth century, railroad work was also racially segmented. That broader history does not validate the episode's compressed claim about one place and date range.", "source": "https://www.nps.gov/grsm/learn/historyculture/african-americans-and-the-railroad.htm"}
+    {
+      "t": 47,
+      "claim": "David Choe and Harry Kim are the two primary travelers.",
+      "assessment": "VICE's manual captions explicitly label both speakers. This is strong publisher annotation for participant identity, but acoustic enrollment still requires listening-verified, non-overlapping audio windows.",
+      "source": "https://www.youtube.com/watch?v=QO3-AAVTeDA"
+    },
+    {
+      "t": 559,
+      "claim": "Railroads in the 1920s and 1930s were built on the backs of Chinese and Black workers.",
+      "assessment": "Chinese labor was indispensable to the western portion of the first transcontinental railroad, but that history is principally from the 1860s, not the episode's stated 1920s–1930s window. The episode supplies no source tying this exact claim to Kelso.",
+      "source": "https://www.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm"
+    },
+    {
+      "t": 559,
+      "claim": "Railroads in the 1920s and 1930s were built on the backs of Chinese and Black workers.",
+      "assessment": "Black workers built, maintained and operated railroads across different United States regions and periods; in the early twentieth century, railroad work was also racially segmented. That broader history does not validate the episode's compressed claim about one place and date range.",
+      "source": "https://www.nps.gov/grsm/learn/historyculture/african-americans-and-the-railroad.htm"
+    }
   ],
   "speaker_policy": {
     "status": "publisher labels retained; model-generated named turns withheld",
     "reason": "The source is marked manual and visibly includes VICE speaker labels. Preserve those labels and anonymous MALE/FEMALE SPEAKER categories as publisher evidence. Do not claim the acoustic model produced or validated them. Before using this episode as enrollment data, isolate listening-verified non-overlapping windows and exclude offscreen ambiguity, singing, narration over montage and quoted speech."
   },
   "content_warnings": [
-    {"t": 25, "warning": "sexual violence and trauma/weight generalization"},
-    {"t": 47, "warning": "anti-Asian slur"},
-    {"t": 83, "warning": "human waste"},
-    {"t": 155, "warning": "explicit sexual anecdote"},
-    {"t": 197, "warning": "violence, hustling and categorical distrust"},
-    {"t": 231, "warning": "illegal freight hopping, snakes and death"},
-    {"t": 317, "warning": "property damage"},
-    {"t": 393, "warning": "theft and addiction"},
-    {"t": 445, "warning": "unverified death/sex-work report"},
-    {"t": 497, "warning": "gambling risk"},
-    {"t": 508, "warning": "dehydration and unsafe urine joke"},
-    {"t": 559, "warning": "racial labor-history generalization"},
-    {"t": 666, "warning": "sexual-service joke"},
-    {"t": 699, "warning": "gambling loss and credit-card cash advance"},
-    {"t": 900, "warning": "sex-worker theft stereotype"},
-    {"t": 1073, "warning": "anti-Asian slur in self-reflection"}
+    {
+      "t": 25,
+      "warning": "sexual violence and trauma/weight generalization"
+    },
+    {
+      "t": 47,
+      "warning": "anti-Asian slur"
+    },
+    {
+      "t": 83,
+      "warning": "human waste"
+    },
+    {
+      "t": 155,
+      "warning": "explicit sexual anecdote"
+    },
+    {
+      "t": 197,
+      "warning": "violence, hustling and categorical distrust"
+    },
+    {
+      "t": 231,
+      "warning": "illegal freight hopping, snakes and death"
+    },
+    {
+      "t": 317,
+      "warning": "property damage"
+    },
+    {
+      "t": 393,
+      "warning": "theft and addiction"
+    },
+    {
+      "t": 445,
+      "warning": "unverified death/sex-work report"
+    },
+    {
+      "t": 497,
+      "warning": "gambling risk"
+    },
+    {
+      "t": 508,
+      "warning": "dehydration and unsafe urine joke"
+    },
+    {
+      "t": 559,
+      "warning": "racial labor-history generalization"
+    },
+    {
+      "t": 666,
+      "warning": "sexual-service joke"
+    },
+    {
+      "t": 699,
+      "warning": "gambling loss and credit-card cash advance"
+    },
+    {
+      "t": 900,
+      "warning": "sex-worker theft stereotype"
+    },
+    {
+      "t": 1073,
+      "warning": "anti-Asian slur in self-reflection"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve all ideas and the publisher transcript; editorial context remains separate."},
-    {"t": 1, "rule": "Publisher speaker labels may be retained but must never be credited to the acoustic model."},
-    {"t": 25, "rule": "Do not isolate sexual-violence language from the surrounding risk discussion."},
-    {"t": 37, "rule": "Do not present trauma/weight rhetoric as clinical fact or diagnosis."},
-    {"t": 47, "rule": "Preserve the source slur with warning; do not use it as a navigation label."},
-    {"t": 106, "rule": "Do not unmask Chicago, Little Richard, Lee, Jack or anonymous riders."},
-    {"t": 133, "rule": "Historical fine/jail claims are not current train-yard legal guidance."},
-    {"t": 231, "rule": "Do not turn freight-hopping scenes into operational instructions."},
-    {"t": 317, "rule": "Do not celebrate or instruct property damage."},
-    {"t": 393, "rule": "Addiction and religious belief remain first-person testimony, not treatment guidance."},
-    {"t": 445, "rule": "Do not identify the fighter, sex worker or hotel from the unverified death story."},
-    {"t": 468, "rule": "Keep the casino employee out of public person indexes."},
-    {"t": 497, "rule": "Keep the pre-loss warning adjacent to the later gambling harm."},
-    {"t": 508, "rule": "Never surface urine as hydration advice."},
-    {"t": 559, "rule": "Do not reduce railroad labor history to a single racial/date claim."},
-    {"t": 699, "rule": "Publish the casino win and loss only as a complete chronology."},
-    {"t": 900, "rule": "Do not repeat the sex-worker theft stereotype as an attempted-crime fact."},
-    {"t": 1180, "rule": "Exclude the private girlfriend's name and relationship details from discovery."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve all ideas and the publisher transcript; editorial context remains separate."
+    },
+    {
+      "t": 1,
+      "rule": "Publisher speaker labels may be retained but must never be credited to the acoustic model."
+    },
+    {
+      "t": 25,
+      "rule": "Do not isolate sexual-violence language from the surrounding risk discussion."
+    },
+    {
+      "t": 37,
+      "rule": "Do not present trauma/weight rhetoric as clinical fact or diagnosis."
+    },
+    {
+      "t": 47,
+      "rule": "Preserve the source slur with warning; do not use it as a navigation label."
+    },
+    {
+      "t": 106,
+      "rule": "Do not unmask Chicago, Little Richard, Lee, Jack or anonymous riders."
+    },
+    {
+      "t": 133,
+      "rule": "Historical fine/jail claims are not current train-yard legal guidance."
+    },
+    {
+      "t": 231,
+      "rule": "Do not turn freight-hopping scenes into operational instructions."
+    },
+    {
+      "t": 317,
+      "rule": "Do not celebrate or instruct property damage."
+    },
+    {
+      "t": 393,
+      "rule": "Addiction and religious belief remain first-person testimony, not treatment guidance."
+    },
+    {
+      "t": 445,
+      "rule": "Do not identify the fighter, sex worker or hotel from the unverified death story."
+    },
+    {
+      "t": 468,
+      "rule": "Keep the casino employee out of public person indexes."
+    },
+    {
+      "t": 497,
+      "rule": "Keep the pre-loss warning adjacent to the later gambling harm."
+    },
+    {
+      "t": 508,
+      "rule": "Never surface urine as hydration advice."
+    },
+    {
+      "t": 559,
+      "rule": "Do not reduce railroad labor history to a single racial/date claim."
+    },
+    {
+      "t": 699,
+      "rule": "Publish the casino win and loss only as a complete chronology."
+    },
+    {
+      "t": 900,
+      "rule": "Do not repeat the sex-worker theft stereotype as an attempted-crime fact."
+    },
+    {
+      "t": 1180,
+      "rule": "Exclude the private girlfriend's name and relationship details from discovery."
+    }
+  ],
+  "description": "David Choe and Harry Kim begin a cross-country trip from the Los Angeles rail yard, freight-hop through Yermo and Kelso, gamble in Las Vegas, sleep beside a casino pool and finally hitch a ride east in a windowless van.",
+  "description_source": "Opening of the human-reviewed summary."
 }

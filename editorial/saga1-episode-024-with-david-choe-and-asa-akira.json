@@ -1,138 +1,581 @@
 {
   "summary": "Episode Twenty-Four begins with Yoshi Obayashi absent from DVDASA. David Choe gives a long, one-sided account of ending their professional relationship while trying to preserve the friendship: interruption during the John Cusack episode, work expectations, the Chips episode, Yoshi quitting and asking for work again, competing ideas of loyalty, and an Afghanistan charity trip become evidence in David's argument for tough love. Warehouse worker Valentin is introduced as Yoshi's practical replacement and a possible new on-air regular. The room quickly turns his job, appearance, English classes, girlfriend, sexual life, and nationality into material, often through explicit questions and stereotypes. Zell revisits the previous episode's debate over Korean han and John Cusack. Asa describes feature dancing in Hawaii, the club's no-touch rules, weather, travel logistics, and the separation between adult performance and home. The group then moves through pornography purchases, retail embarrassment, enemas and bodily functions, David's college thong bet, public exposure, and a spa story involving apparently unwanted touching. A final argument distinguishes private self-touch, exhibitionism, mooning, flashing, and sending explicit images. Trivia covers Maná, Juanes, Eve 6, Rush, Dr. Dre and Snoop Dogg, Major League, The Big Lebowski, and Friday Night Lights. Named dialogue remains withheld pending independent speaker validation.",
   "chapters": [
-    {"t": 0, "title": "Zell opens Episode Twenty-Four"},
-    {"t": 70, "title": "Yoshi is absent"},
-    {"t": 93, "title": "David says Yoshi was let go"},
-    {"t": 128, "title": "Yoshi Didn't remains his show"},
-    {"t": 150, "title": "Friendship and employment split apart"},
-    {"t": 190, "title": "Childhood loyalty and Joey's snacks"},
-    {"t": 260, "title": "Why David originally brought Yoshi on"},
-    {"t": 299, "title": "The John Cusack episode becomes the test case"},
-    {"t": 338, "title": "A Charlie Murphy story versus a flat summary"},
-    {"t": 451, "title": "Interruptions during the interview"},
-    {"t": 581, "title": "David's theory of Yoshi"},
-    {"t": 619, "title": "Television, Homeland, and attention"},
-    {"t": 760, "title": "What a co-host owes the room"},
-    {"t": 900, "title": "Production labor and resentment"},
-    {"t": 1044, "title": "The DVDASA team argument"},
-    {"t": 1077, "title": "A proposed Yoshi dating segment"},
-    {"t": 1156, "title": "The manager and the private confrontation"},
-    {"t": 1235, "title": "Phones, stats, and divided attention"},
-    {"t": 1271, "title": "Why the firing was kept off-air"},
-    {"t": 1302, "title": "Privacy, trauma, and silence"},
-    {"t": 1437, "title": "Yoshi as David's closest relationship"},
-    {"t": 1502, "title": "Being good at the role"},
-    {"t": 1553, "title": "Luke Ford, Joey, and the earlier show"},
-    {"t": 1602, "title": "The Afghanistan charity plan"},
-    {"t": 1668, "title": "Dark energy and borrowed cars"},
-    {"t": 1733, "title": "A trip becomes a loyalty dispute"},
-    {"t": 1794, "title": "Yoshi Didn't as a different interview style"},
-    {"t": 1810, "title": "Charlie Rose versus DVDASA"},
-    {"t": 1820, "title": "An apology to Yoshi's listeners"},
-    {"t": 1919, "title": "Yoshi proposes his own replacement"},
-    {"t": 1971, "title": "Valentin enters"},
-    {"t": 1990, "title": "The new Yoshi"},
-    {"t": 2008, "title": "Warehouse work with Bobby"},
-    {"t": 2030, "title": "Shipping Trapeze orders"},
-    {"t": 2090, "title": "KGB, the Chips episode, and quitting"},
-    {"t": 2252, "title": "The replacement job becomes complicated"},
-    {"t": 2280, "title": "Valentin is hired and then fired"},
-    {"t": 2350, "title": "Yoshi returns to the job"},
-    {"t": 2375, "title": "Where Valentin is from"},
-    {"t": 2456, "title": "The room invents a rivalry"},
-    {"t": 2569, "title": "Maná as romantic music"},
-    {"t": 2665, "title": "The girlfriend story becomes explicit"},
-    {"t": 2702, "title": "Birth control and responsibility"},
-    {"t": 2781, "title": "Valentin is cast as Yoshi's opposite"},
-    {"t": 2831, "title": "Janitor and guest-host duties"},
-    {"t": 2959, "title": "No versus yes as personality types"},
-    {"t": 3040, "title": "ESL classes"},
-    {"t": 3200, "title": "Welcome to the team"},
-    {"t": 3273, "title": "John Cusack and the previous episode return"},
-    {"t": 3307, "title": "Korean women and han revisited"},
-    {"t": 3323, "title": "Zell's Korean and Sri Lankan background"},
-    {"t": 3346, "title": "Cusack's defense of Zell"},
-    {"t": 3382, "title": "What would a date with John Cusack be like?"},
-    {"t": 3524, "title": "Describing Valentin for audio listeners"},
-    {"t": 3547, "title": "A proposed Valentin dating show"},
-    {"t": 3628, "title": "Height and desirability"},
-    {"t": 3725, "title": "Eye contact, touch, and imagined romance"},
-    {"t": 3839, "title": "Asa returns from Hawaii"},
-    {"t": 3863, "title": "No body-to-body contact at the club"},
-    {"t": 3897, "title": "David offers Valentin a Hawaii trip"},
-    {"t": 3917, "title": "Samoans, lap dances, and club rules"},
-    {"t": 3983, "title": "Firing Yoshi by text from Hawaii"},
-    {"t": 4011, "title": "Bodyguards and roadies"},
-    {"t": 4082, "title": "What support work actually includes"},
-    {"t": 4127, "title": "Valentine's Day travel"},
-    {"t": 4229, "title": "Pornography enters the conversation"},
-    {"t": 4380, "title": "Yoshi's former porn-shop job"},
-    {"t": 4466, "title": "Zell remembers an inattentive manager"},
-    {"t": 4503, "title": "Buying pornography at Fry's Electronics"},
-    {"t": 4660, "title": "The cashier and public embarrassment"},
-    {"t": 4860, "title": "Adult work versus home"},
-    {"t": 5047, "title": "The question fails as a Valentin test"},
-    {"t": 5200, "title": "Enemas and bodily preparation"},
-    {"t": 5328, "title": "The Fry's purchase returns"},
-    {"t": 5480, "title": "Shame, privacy, and being seen"},
-    {"t": 5600, "title": "A college thong bet"},
-    {"t": 5761, "title": "Safeway and the Oakland-to-Berkeley bus"},
-    {"t": 5907, "title": "The spa and an older man's technique"},
-    {"t": 6022, "title": "Looking to Joey for an explanation"},
-    {"t": 6120, "title": "Touching, massage, and consent"},
-    {"t": 6215, "title": "A one-finger gesture"},
-    {"t": 6243, "title": "Who would play along?"},
-    {"t": 6294, "title": "Public self-touch becomes a questionnaire"},
-    {"t": 6400, "title": "Context changes the meaning of an act"},
-    {"t": 6470, "title": "The room demonstrates boundaries"},
-    {"t": 6603, "title": "Mooning, flashing, and explicit images"},
-    {"t": 6633, "title": "Trivia With Bobby"},
-    {"t": 6670, "title": "Spanish-language music trivia"},
-    {"t": 6752, "title": "Vivir sin aire"},
-    {"t": 6765, "title": "Clavado en un bar"},
-    {"t": 6775, "title": "La Camisa Negra"},
-    {"t": 6792, "title": "Here's to the Night by Eve 6"},
-    {"t": 6857, "title": "Tom Sawyer by Rush"},
-    {"t": 6871, "title": "Nuthin' but a 'G' Thang"},
-    {"t": 6944, "title": "The Next Episode is the wrong guess"},
-    {"t": 6973, "title": "Sports-film trivia"},
-    {"t": 6977, "title": "Major League"},
-    {"t": 6985, "title": "The Big Lebowski"},
-    {"t": 7003, "title": "Friday Night Lights"},
-    {"t": 7020, "title": "Valentin gets the earlobe penalty"},
-    {"t": 7066, "title": "A closing message for Yoshi"},
-    {"t": 7090, "title": "Asa's Amazon wish list"},
-    {"t": 7182, "title": "Thanks for listening"},
-    {"t": 7203, "title": "The first separated outro vocal"},
-    {"t": 7251, "title": "A final thank-you"}
+    {
+      "t": 0,
+      "title": "Zell opens Episode Twenty-Four"
+    },
+    {
+      "t": 70,
+      "title": "Yoshi is absent"
+    },
+    {
+      "t": 93,
+      "title": "David says Yoshi was let go"
+    },
+    {
+      "t": 128,
+      "title": "Yoshi Didn't remains his show"
+    },
+    {
+      "t": 150,
+      "title": "Friendship and employment split apart"
+    },
+    {
+      "t": 190,
+      "title": "Childhood loyalty and Joey's snacks"
+    },
+    {
+      "t": 260,
+      "title": "Why David originally brought Yoshi on"
+    },
+    {
+      "t": 299,
+      "title": "The John Cusack episode becomes the test case"
+    },
+    {
+      "t": 338,
+      "title": "A Charlie Murphy story versus a flat summary"
+    },
+    {
+      "t": 451,
+      "title": "Interruptions during the interview"
+    },
+    {
+      "t": 581,
+      "title": "David's theory of Yoshi"
+    },
+    {
+      "t": 619,
+      "title": "Television, Homeland, and attention"
+    },
+    {
+      "t": 760,
+      "title": "What a co-host owes the room"
+    },
+    {
+      "t": 900,
+      "title": "Production labor and resentment"
+    },
+    {
+      "t": 1044,
+      "title": "The DVDASA team argument"
+    },
+    {
+      "t": 1077,
+      "title": "A proposed Yoshi dating segment"
+    },
+    {
+      "t": 1156,
+      "title": "The manager and the private confrontation"
+    },
+    {
+      "t": 1235,
+      "title": "Phones, stats, and divided attention"
+    },
+    {
+      "t": 1271,
+      "title": "Why the firing was kept off-air"
+    },
+    {
+      "t": 1302,
+      "title": "Privacy, trauma, and silence"
+    },
+    {
+      "t": 1437,
+      "title": "Yoshi as David's closest relationship"
+    },
+    {
+      "t": 1502,
+      "title": "Being good at the role"
+    },
+    {
+      "t": 1553,
+      "title": "Luke Ford, Joey, and the earlier show"
+    },
+    {
+      "t": 1602,
+      "title": "The Afghanistan charity plan"
+    },
+    {
+      "t": 1668,
+      "title": "Dark energy and borrowed cars"
+    },
+    {
+      "t": 1733,
+      "title": "A trip becomes a loyalty dispute"
+    },
+    {
+      "t": 1794,
+      "title": "Yoshi Didn't as a different interview style"
+    },
+    {
+      "t": 1810,
+      "title": "Charlie Rose versus DVDASA"
+    },
+    {
+      "t": 1820,
+      "title": "An apology to Yoshi's listeners"
+    },
+    {
+      "t": 1919,
+      "title": "Yoshi proposes his own replacement"
+    },
+    {
+      "t": 1971,
+      "title": "Valentin enters"
+    },
+    {
+      "t": 1990,
+      "title": "The new Yoshi"
+    },
+    {
+      "t": 2008,
+      "title": "Warehouse work with Bobby"
+    },
+    {
+      "t": 2030,
+      "title": "Shipping Trapeze orders"
+    },
+    {
+      "t": 2090,
+      "title": "KGB, the Chips episode, and quitting"
+    },
+    {
+      "t": 2252,
+      "title": "The replacement job becomes complicated"
+    },
+    {
+      "t": 2280,
+      "title": "Valentin is hired and then fired"
+    },
+    {
+      "t": 2350,
+      "title": "Yoshi returns to the job"
+    },
+    {
+      "t": 2375,
+      "title": "Where Valentin is from"
+    },
+    {
+      "t": 2456,
+      "title": "The room invents a rivalry"
+    },
+    {
+      "t": 2569,
+      "title": "Maná as romantic music"
+    },
+    {
+      "t": 2665,
+      "title": "The girlfriend story becomes explicit"
+    },
+    {
+      "t": 2702,
+      "title": "Birth control and responsibility"
+    },
+    {
+      "t": 2781,
+      "title": "Valentin is cast as Yoshi's opposite"
+    },
+    {
+      "t": 2831,
+      "title": "Janitor and guest-host duties"
+    },
+    {
+      "t": 2959,
+      "title": "No versus yes as personality types"
+    },
+    {
+      "t": 3040,
+      "title": "ESL classes"
+    },
+    {
+      "t": 3200,
+      "title": "Welcome to the team"
+    },
+    {
+      "t": 3273,
+      "title": "John Cusack and the previous episode return"
+    },
+    {
+      "t": 3307,
+      "title": "Korean women and han revisited"
+    },
+    {
+      "t": 3323,
+      "title": "Zell's Korean and Sri Lankan background"
+    },
+    {
+      "t": 3346,
+      "title": "Cusack's defense of Zell"
+    },
+    {
+      "t": 3382,
+      "title": "What would a date with John Cusack be like?"
+    },
+    {
+      "t": 3524,
+      "title": "Describing Valentin for audio listeners"
+    },
+    {
+      "t": 3547,
+      "title": "A proposed Valentin dating show"
+    },
+    {
+      "t": 3628,
+      "title": "Height and desirability"
+    },
+    {
+      "t": 3725,
+      "title": "Eye contact, touch, and imagined romance"
+    },
+    {
+      "t": 3839,
+      "title": "Asa returns from Hawaii"
+    },
+    {
+      "t": 3863,
+      "title": "No body-to-body contact at the club"
+    },
+    {
+      "t": 3897,
+      "title": "David offers Valentin a Hawaii trip"
+    },
+    {
+      "t": 3917,
+      "title": "Samoans, lap dances, and club rules"
+    },
+    {
+      "t": 3983,
+      "title": "Firing Yoshi by text from Hawaii"
+    },
+    {
+      "t": 4011,
+      "title": "Bodyguards and roadies"
+    },
+    {
+      "t": 4082,
+      "title": "What support work actually includes"
+    },
+    {
+      "t": 4127,
+      "title": "Valentine's Day travel"
+    },
+    {
+      "t": 4229,
+      "title": "Pornography enters the conversation"
+    },
+    {
+      "t": 4380,
+      "title": "Yoshi's former porn-shop job"
+    },
+    {
+      "t": 4466,
+      "title": "Zell remembers an inattentive manager"
+    },
+    {
+      "t": 4503,
+      "title": "Buying pornography at Fry's Electronics"
+    },
+    {
+      "t": 4660,
+      "title": "The cashier and public embarrassment"
+    },
+    {
+      "t": 4860,
+      "title": "Adult work versus home"
+    },
+    {
+      "t": 5047,
+      "title": "The question fails as a Valentin test"
+    },
+    {
+      "t": 5200,
+      "title": "Enemas and bodily preparation"
+    },
+    {
+      "t": 5328,
+      "title": "The Fry's purchase returns"
+    },
+    {
+      "t": 5480,
+      "title": "Shame, privacy, and being seen"
+    },
+    {
+      "t": 5600,
+      "title": "A college thong bet"
+    },
+    {
+      "t": 5761,
+      "title": "Safeway and the Oakland-to-Berkeley bus"
+    },
+    {
+      "t": 5907,
+      "title": "The spa and an older man's technique"
+    },
+    {
+      "t": 6022,
+      "title": "Looking to Joey for an explanation"
+    },
+    {
+      "t": 6120,
+      "title": "Touching, massage, and consent"
+    },
+    {
+      "t": 6215,
+      "title": "A one-finger gesture"
+    },
+    {
+      "t": 6243,
+      "title": "Who would play along?"
+    },
+    {
+      "t": 6294,
+      "title": "Public self-touch becomes a questionnaire"
+    },
+    {
+      "t": 6400,
+      "title": "Context changes the meaning of an act"
+    },
+    {
+      "t": 6470,
+      "title": "The room demonstrates boundaries"
+    },
+    {
+      "t": 6603,
+      "title": "Mooning, flashing, and explicit images"
+    },
+    {
+      "t": 6633,
+      "title": "Trivia With Bobby"
+    },
+    {
+      "t": 6670,
+      "title": "Spanish-language music trivia"
+    },
+    {
+      "t": 6752,
+      "title": "Vivir sin aire"
+    },
+    {
+      "t": 6765,
+      "title": "Clavado en un bar"
+    },
+    {
+      "t": 6775,
+      "title": "La Camisa Negra"
+    },
+    {
+      "t": 6792,
+      "title": "Here's to the Night by Eve 6"
+    },
+    {
+      "t": 6857,
+      "title": "Tom Sawyer by Rush"
+    },
+    {
+      "t": 6871,
+      "title": "Nuthin' but a 'G' Thang"
+    },
+    {
+      "t": 6944,
+      "title": "The Next Episode is the wrong guess"
+    },
+    {
+      "t": 6973,
+      "title": "Sports-film trivia"
+    },
+    {
+      "t": 6977,
+      "title": "Major League"
+    },
+    {
+      "t": 6985,
+      "title": "The Big Lebowski"
+    },
+    {
+      "t": 7003,
+      "title": "Friday Night Lights"
+    },
+    {
+      "t": 7020,
+      "title": "Valentin gets the earlobe penalty"
+    },
+    {
+      "t": 7066,
+      "title": "A closing message for Yoshi"
+    },
+    {
+      "t": 7090,
+      "title": "Asa's Amazon wish list"
+    },
+    {
+      "t": 7182,
+      "title": "Thanks for listening"
+    },
+    {
+      "t": 7203,
+      "title": "The first separated outro vocal"
+    },
+    {
+      "t": 7251,
+      "title": "A final thank-you"
+    }
   ],
-  "people": ["David Choe", "Asa Akira", "Yoshi Obayashi", "Money Mark", "Bobby Namba", "Zell", "Valentin", "John Cusack", "Luke Ford", "Joey", "Charlie Murphy", "Prince", "Rick James", "Charlie Rose", "Charlie Sheen", "Juanes", "Dr. Dre", "Snoop Dogg"],
-  "places": ["Los Angeles", "Afghanistan", "Hawaii", "Philadelphia", "Oakland", "Berkeley", "Odessa, Texas"],
-  "works": ["DVDASA", "Yoshi Didn't", "KGB", "Homeland", "Trapeze", "Vivir sin aire", "Clavado en un bar", "La Camisa Negra", "Here's to the Night", "Tom Sawyer", "Nuthin' but a 'G' Thang", "The Chronic", "The Next Episode", "Major League", "Hot Shots!", "Wild Things", "The Big Lebowski", "Friday Night Lights", "Varsity Blues"],
-  "organizations": ["Maná", "Eve 6", "Rush", "Fry's Electronics", "Safeway", "Amazon"],
-  "themes": ["friendship and employment", "firing", "loyalty", "workplace power", "interviewing", "privacy", "tough love", "replacement roles", "sexual boasting", "contraception", "national stereotypes", "adult entertainment", "performance and home", "pornography", "shame", "bodily functions", "public nudity", "sexual harassment", "consent", "trivia"],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Money Mark",
+    "Bobby Namba",
+    "Zell",
+    "Valentin",
+    "John Cusack",
+    "Luke Ford",
+    "Joey",
+    "Charlie Murphy",
+    "Prince",
+    "Rick James",
+    "Charlie Rose",
+    "Charlie Sheen",
+    "Juanes",
+    "Dr. Dre",
+    "Snoop Dogg"
+  ],
+  "places": [
+    "Los Angeles",
+    "Afghanistan",
+    "Hawaii",
+    "Philadelphia",
+    "Oakland",
+    "Berkeley",
+    "Odessa, Texas"
+  ],
+  "works": [
+    "DVDASA",
+    "Yoshi Didn't",
+    "KGB",
+    "Homeland",
+    "Trapeze",
+    "Vivir sin aire",
+    "Clavado en un bar",
+    "La Camisa Negra",
+    "Here's to the Night",
+    "Tom Sawyer",
+    "Nuthin' but a 'G' Thang",
+    "The Chronic",
+    "The Next Episode",
+    "Major League",
+    "Hot Shots!",
+    "Wild Things",
+    "The Big Lebowski",
+    "Friday Night Lights",
+    "Varsity Blues"
+  ],
+  "organizations": [
+    "Maná",
+    "Eve 6",
+    "Rush",
+    "Fry's Electronics",
+    "Safeway",
+    "Amazon"
+  ],
+  "themes": [
+    "friendship and employment",
+    "firing",
+    "loyalty",
+    "workplace power",
+    "interviewing",
+    "privacy",
+    "tough love",
+    "replacement roles",
+    "sexual boasting",
+    "contraception",
+    "national stereotypes",
+    "adult entertainment",
+    "performance and home",
+    "pornography",
+    "shame",
+    "bodily functions",
+    "public nudity",
+    "sexual harassment",
+    "consent",
+    "trivia"
+  ],
   "connections": [
-    {"label": "Friendship cannot erase a boss-worker relationship", "note": "David repeatedly says he loves Yoshi while cataloguing failures and controlling access to paid work. The episode shows that calling a workplace a family does not remove unequal power."},
-    {"label": "The John Cusack episode becomes an argument about attention", "note": "David treats interruption and phone use as proof that Yoshi did not understand the opportunity. A celebrity guest becomes a proxy for an older dispute about preparation and respect."},
-    {"label": "Tough love is narrated only by the person with leverage", "note": "David frames firing as help that may force Yoshi to grow. Because Yoshi is absent, the archive preserves the claim as David's rationale rather than a settled account of mutual benefit."},
-    {"label": "A replacement person is rapidly converted into a role", "note": "Valentin moves from warehouse worker to janitor, guest host, dating-show subject, and imagined sexual archetype. The room's needs shape the public character faster than Valentin supplies a self-description."},
-    {"label": "Yes and no become compressed personality theories", "note": "Valentin's willingness and Yoshi's resistance are reduced to opposite catchphrases. The contrast is entertaining but hides language, power, privacy, and employment context."},
-    {"label": "The han debate survives by changing targets", "note": "After John Cusack challenged the prior episode's generalizations, the panel returns to Zell and Korean women. The recurrence shows how stereotypes persist even after counterexamples complicate them."},
-    {"label": "Adult performance has negotiated boundaries", "note": "Asa distinguishes stage work, club rules, travel support, and home life. That labor frame complicates the episode's tendency to treat all sexual disclosure as equivalent entertainment."},
-    {"label": "Buying pornography makes private desire public", "note": "Retail stories focus less on the material than on the cashier, store, and imagined observers. Shame is produced by the social transaction around desire."},
-    {"label": "The thong bet reverses shame through overperformance", "note": "David answers embarrassment by extending the display into Safeway and public transit. Choosing greater exposure becomes a way to reclaim control from the original bet."},
-    {"label": "The spa story tests whether technique can disguise violation", "note": "A supposedly therapeutic or energetic gesture appears to permit unwanted touching. The room struggles to name the act, exposing how context and authority can obscure consent."},
-    {"label": "Public sexual acts are not interchangeable", "note": "The panel separates mooning, flashing, self-touch, and sending an explicit image. Audience, consent, medium, and intent—not nudity alone—change the ethical meaning."},
-    {"label": "Trivia preserves the path of mistaken recall", "note": "Selena leads toward Maná, The Next Episode toward Nuthin' but a 'G' Thang, and mangled Lebowski names toward the film. Correcting entities without deleting wrong guesses preserves how memory moved."},
-    {"label": "Text confidence and speaker confidence remain separate", "note": "Episode Twenty-Four is a strong searchable draft with 2,424 fixed-window identity embeddings. Because segmentation was deliberately skipped and held-out multi-speaker validation is unfinished, participant names remain episode metadata rather than dialogue labels."}
+    {
+      "label": "Friendship cannot erase a boss-worker relationship",
+      "note": "David repeatedly says he loves Yoshi while cataloguing failures and controlling access to paid work. The episode shows that calling a workplace a family does not remove unequal power."
+    },
+    {
+      "label": "The John Cusack episode becomes an argument about attention",
+      "note": "David treats interruption and phone use as proof that Yoshi did not understand the opportunity. A celebrity guest becomes a proxy for an older dispute about preparation and respect."
+    },
+    {
+      "label": "Tough love is narrated only by the person with leverage",
+      "note": "David frames firing as help that may force Yoshi to grow. Because Yoshi is absent, the archive preserves the claim as David's rationale rather than a settled account of mutual benefit."
+    },
+    {
+      "label": "A replacement person is rapidly converted into a role",
+      "note": "Valentin moves from warehouse worker to janitor, guest host, dating-show subject, and imagined sexual archetype. The room's needs shape the public character faster than Valentin supplies a self-description."
+    },
+    {
+      "label": "Yes and no become compressed personality theories",
+      "note": "Valentin's willingness and Yoshi's resistance are reduced to opposite catchphrases. The contrast is entertaining but hides language, power, privacy, and employment context."
+    },
+    {
+      "label": "The han debate survives by changing targets",
+      "note": "After John Cusack challenged the prior episode's generalizations, the panel returns to Zell and Korean women. The recurrence shows how stereotypes persist even after counterexamples complicate them."
+    },
+    {
+      "label": "Adult performance has negotiated boundaries",
+      "note": "Asa distinguishes stage work, club rules, travel support, and home life. That labor frame complicates the episode's tendency to treat all sexual disclosure as equivalent entertainment."
+    },
+    {
+      "label": "Buying pornography makes private desire public",
+      "note": "Retail stories focus less on the material than on the cashier, store, and imagined observers. Shame is produced by the social transaction around desire."
+    },
+    {
+      "label": "The thong bet reverses shame through overperformance",
+      "note": "David answers embarrassment by extending the display into Safeway and public transit. Choosing greater exposure becomes a way to reclaim control from the original bet."
+    },
+    {
+      "label": "The spa story tests whether technique can disguise violation",
+      "note": "A supposedly therapeutic or energetic gesture appears to permit unwanted touching. The room struggles to name the act, exposing how context and authority can obscure consent."
+    },
+    {
+      "label": "Public sexual acts are not interchangeable",
+      "note": "The panel separates mooning, flashing, self-touch, and sending an explicit image. Audience, consent, medium, and intent—not nudity alone—change the ethical meaning."
+    },
+    {
+      "label": "Trivia preserves the path of mistaken recall",
+      "note": "Selena leads toward Maná, The Next Episode toward Nuthin' but a 'G' Thang, and mangled Lebowski names toward the film. Correcting entities without deleting wrong guesses preserves how memory moved."
+    },
+    {
+      "label": "Text confidence and speaker confidence remain separate",
+      "note": "Episode Twenty-Four is a strong searchable draft with 2,424 fixed-window identity embeddings. Because segmentation was deliberately skipped and held-out multi-speaker validation is unfinished, participant names remain episode metadata rather than dialogue labels."
+    }
   ],
-  "content_warnings": ["explicit sexual discussion", "pornography", "sexual boasting", "contraception", "racial and national stereotypes", "workplace power and firing", "sexual harassment and exposure", "apparently nonconsensual touching", "public nudity", "enemas and bodily waste", "coercive humiliation"],
+  "content_warnings": [
+    "explicit sexual discussion",
+    "pornography",
+    "sexual boasting",
+    "contraception",
+    "racial and national stereotypes",
+    "workplace power and firing",
+    "sexual harassment and exposure",
+    "apparently nonconsensual touching",
+    "public nudity",
+    "enemas and bodily waste",
+    "coercive humiliation"
+  ],
   "quality": {
     "transcript_state": "strong-searchable-draft-needs-name-and-title-bake",
     "speaker_state": "six-person episode; segmentation deliberately skipped, 2,424 fixed-window identity embeddings intact, named turns withheld pending independent validation",
     "correction_fixture": "episode-024-correction-fixture.json",
     "content_note": "The episode contains a one-sided account of firing an absent colleague, explicit discussion of a private girlfriend, national and racial stereotypes, pornography, contraception, bodily functions, public exposure, sexual harassment, apparently nonconsensual touching, and coerced earlobe-smelling. Editorial metadata avoids identifying private people or turning participants' claims into established fact."
   },
-  "note": "Chapter titles and connections are editorial. Twenty-two correction records should be baked into derived text. Zero turns means segmentation was not requested; no regeneration is needed. Speaker names still require independent held-out validation."
+  "note": "Chapter titles and connections are editorial. Twenty-two correction records should be baked into derived text. Zero turns means segmentation was not requested; no regeneration is needed. Speaker names still require independent held-out validation.",
+  "description": "Episode Twenty-Four begins with Yoshi Obayashi absent from DVDASA.",
+  "description_source": "Opening of the human-reviewed summary."
 }

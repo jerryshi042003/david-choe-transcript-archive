@@ -1138,5 +1138,7 @@
   "speaker_policy": {
     "status": "all line-level turns unresolved; named turns withheld",
     "reason": "The visible program establishes Ed Piskor, Jim Rugg and David Choe, and later quoted or described participants include Frank Miller, Jock and others. But two complete caption reads found zero publisher prefixes across 2,795 segments. The source includes quotation, retrospective paraphrase, stage excerpts, a publisher advertisement, duplicate captions, overlap, audience speech and an incomplete ending. Topic ownership, grammar, visual familiarity and adjacency cannot prove every line. Only independently held-out, non-overlapping acoustic/video validation may support named turns."
-  }
+  },
+  "description": "Ed Piskor and Jim Rugg ask David Choe to reconstruct a concentrated comics week built around Brian K.",
+  "description_source": "Opening of the human-reviewed summary."
 }

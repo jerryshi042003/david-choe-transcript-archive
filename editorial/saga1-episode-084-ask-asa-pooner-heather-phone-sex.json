@@ -35,87 +35,348 @@
     "YumYumCha.com is a directly named Bill Poon blog lead already present in the written-source census."
   ],
   "chapters": [
-    {"t": 0, "title": "Damaged pre-roll and Medium decoder loop"},
-    {"t": 72, "title": "Show opening and KGB theme comparison"},
-    {"t": 120, "title": "Six-hour recording context"},
-    {"t": 200, "title": "Ask Asa returns"},
-    {"t": 280, "title": "Listener email and porn-parody question"},
-    {"t": 340, "title": "Child, genocide and slavery concepts rejected"},
-    {"t": 480, "title": "Amistad and blackface proposal"},
-    {"t": 600, "title": "I Spit on Your Grave and rape framing"},
-    {"t": 650, "title": "Best films of 2013"},
-    {"t": 720, "title": "Secretary, Avatar and parody fatigue"},
-    {"t": 840, "title": "Taken and Good Will Hunting ideas"},
-    {"t": 960, "title": "Step Brothers and performer preferences"},
-    {"t": 1080, "title": "Private fantasy versus performed pornography"},
-    {"t": 1200, "title": "Relationships, DP performance and intimacy"},
-    {"t": 1320, "title": "Breakups, memory and crying"},
-    {"t": 1440, "title": "Unnamed woman and room identification attempt"},
-    {"t": 1560, "title": "Private sexual detail and birth-control claim"},
-    {"t": 1680, "title": "Experimentation and relationship change"},
-    {"t": 1800, "title": "Driving Miss Asa and performance choice"},
-    {"t": 1920, "title": "Menstruation and on-set sponge practice"},
-    {"t": 2040, "title": "Performer anatomy and production logistics"},
-    {"t": 2160, "title": "Blood, obscenity and legal overclaims"},
-    {"t": 2280, "title": "Body variation and tampon discussion"},
-    {"t": 2400, "title": "Pooner, YumYumCha and racial preference"},
-    {"t": 2520, "title": "Quiet companionship and glue returns"},
-    {"t": 2640, "title": "Listener's ex-partner dildo question"},
-    {"t": 2760, "title": "Honesty, withholding and relationship myth"},
-    {"t": 2880, "title": "Body molds and implant sensation"},
-    {"t": 3000, "title": "Nipple preference and listening to boundaries"},
-    {"t": 3120, "title": "Weight-loss question begins"},
-    {"t": 3240, "title": "Purging, menstruation and private date"},
-    {"t": 3360, "title": "Reverse-identification and Herbalife"},
-    {"t": 3480, "title": "Extreme weight-loss claims"},
-    {"t": 3600, "title": "Depression, jail and unsafe restriction"},
-    {"t": 3720, "title": "Sexual repertoire and refusal ignored"},
-    {"t": 3840, "title": "Lingerie question and casual clothing"},
-    {"t": 3960, "title": "Sweatpants, fashion and racialization"},
-    {"t": 4080, "title": "Hormonal contraception claims"},
-    {"t": 4200, "title": "Semen, odor and infection myths"},
-    {"t": 4320, "title": "Private partner sexual details"},
-    {"t": 4440, "title": "Audience arousal and unsafe ear claim"},
-    {"t": 4560, "title": "Pooner phone-sex roleplay begins"},
-    {"t": 4680, "title": "Librarian fantasy and clothing control"},
-    {"t": 4800, "title": "Roleplay becomes adversarial"},
-    {"t": 4920, "title": "Participant invokes boyfriend and morality"},
-    {"t": 5040, "title": "Group recognizes boundary but continues"},
-    {"t": 5160, "title": "Manufactured situation and boredom analysis"},
-    {"t": 5280, "title": "Explicit roleplay ends"},
-    {"t": 5400, "title": "Decline, fetishes and bookmarks"},
-    {"t": 5520, "title": "Phone sex and named childhood acquaintance"},
-    {"t": 5640, "title": "Childhood phone bill and abuse allegation"},
-    {"t": 5760, "title": "Childhood prank and early sexual behavior"},
-    {"t": 5880, "title": "Phone-book calls and The Jerky Boys"},
-    {"t": 6000, "title": "Invented AIDS survey prank"},
-    {"t": 6120, "title": "Bobby Trivia and year-end close"}
+    {
+      "t": 0,
+      "title": "Damaged pre-roll and Medium decoder loop"
+    },
+    {
+      "t": 72,
+      "title": "Show opening and KGB theme comparison"
+    },
+    {
+      "t": 120,
+      "title": "Six-hour recording context"
+    },
+    {
+      "t": 200,
+      "title": "Ask Asa returns"
+    },
+    {
+      "t": 280,
+      "title": "Listener email and porn-parody question"
+    },
+    {
+      "t": 340,
+      "title": "Child, genocide and slavery concepts rejected"
+    },
+    {
+      "t": 480,
+      "title": "Amistad and blackface proposal"
+    },
+    {
+      "t": 600,
+      "title": "I Spit on Your Grave and rape framing"
+    },
+    {
+      "t": 650,
+      "title": "Best films of 2013"
+    },
+    {
+      "t": 720,
+      "title": "Secretary, Avatar and parody fatigue"
+    },
+    {
+      "t": 840,
+      "title": "Taken and Good Will Hunting ideas"
+    },
+    {
+      "t": 960,
+      "title": "Step Brothers and performer preferences"
+    },
+    {
+      "t": 1080,
+      "title": "Private fantasy versus performed pornography"
+    },
+    {
+      "t": 1200,
+      "title": "Relationships, DP performance and intimacy"
+    },
+    {
+      "t": 1320,
+      "title": "Breakups, memory and crying"
+    },
+    {
+      "t": 1440,
+      "title": "Unnamed woman and room identification attempt"
+    },
+    {
+      "t": 1560,
+      "title": "Private sexual detail and birth-control claim"
+    },
+    {
+      "t": 1680,
+      "title": "Experimentation and relationship change"
+    },
+    {
+      "t": 1800,
+      "title": "Driving Miss Asa and performance choice"
+    },
+    {
+      "t": 1920,
+      "title": "Menstruation and on-set sponge practice"
+    },
+    {
+      "t": 2040,
+      "title": "Performer anatomy and production logistics"
+    },
+    {
+      "t": 2160,
+      "title": "Blood, obscenity and legal overclaims"
+    },
+    {
+      "t": 2280,
+      "title": "Body variation and tampon discussion"
+    },
+    {
+      "t": 2400,
+      "title": "Pooner, YumYumCha and racial preference"
+    },
+    {
+      "t": 2520,
+      "title": "Quiet companionship and glue returns"
+    },
+    {
+      "t": 2640,
+      "title": "Listener's ex-partner dildo question"
+    },
+    {
+      "t": 2760,
+      "title": "Honesty, withholding and relationship myth"
+    },
+    {
+      "t": 2880,
+      "title": "Body molds and implant sensation"
+    },
+    {
+      "t": 3000,
+      "title": "Nipple preference and listening to boundaries"
+    },
+    {
+      "t": 3120,
+      "title": "Weight-loss question begins"
+    },
+    {
+      "t": 3240,
+      "title": "Purging, menstruation and private date"
+    },
+    {
+      "t": 3360,
+      "title": "Reverse-identification and Herbalife"
+    },
+    {
+      "t": 3480,
+      "title": "Extreme weight-loss claims"
+    },
+    {
+      "t": 3600,
+      "title": "Depression, jail and unsafe restriction"
+    },
+    {
+      "t": 3720,
+      "title": "Sexual repertoire and refusal ignored"
+    },
+    {
+      "t": 3840,
+      "title": "Lingerie question and casual clothing"
+    },
+    {
+      "t": 3960,
+      "title": "Sweatpants, fashion and racialization"
+    },
+    {
+      "t": 4080,
+      "title": "Hormonal contraception claims"
+    },
+    {
+      "t": 4200,
+      "title": "Semen, odor and infection myths"
+    },
+    {
+      "t": 4320,
+      "title": "Private partner sexual details"
+    },
+    {
+      "t": 4440,
+      "title": "Audience arousal and unsafe ear claim"
+    },
+    {
+      "t": 4560,
+      "title": "Pooner phone-sex roleplay begins"
+    },
+    {
+      "t": 4680,
+      "title": "Librarian fantasy and clothing control"
+    },
+    {
+      "t": 4800,
+      "title": "Roleplay becomes adversarial"
+    },
+    {
+      "t": 4920,
+      "title": "Participant invokes boyfriend and morality"
+    },
+    {
+      "t": 5040,
+      "title": "Group recognizes boundary but continues"
+    },
+    {
+      "t": 5160,
+      "title": "Manufactured situation and boredom analysis"
+    },
+    {
+      "t": 5280,
+      "title": "Explicit roleplay ends"
+    },
+    {
+      "t": 5400,
+      "title": "Decline, fetishes and bookmarks"
+    },
+    {
+      "t": 5520,
+      "title": "Phone sex and named childhood acquaintance"
+    },
+    {
+      "t": 5640,
+      "title": "Childhood phone bill and abuse allegation"
+    },
+    {
+      "t": 5760,
+      "title": "Childhood prank and early sexual behavior"
+    },
+    {
+      "t": 5880,
+      "title": "Phone-book calls and The Jerky Boys"
+    },
+    {
+      "t": 6000,
+      "title": "Invented AIDS survey prank"
+    },
+    {
+      "t": 6120,
+      "title": "Bobby Trivia and year-end close"
+    }
   ],
   "connections": [
-    {"from": 90, "to": "Koreans Gone Bad", "relationship": "theme-song comparison and predecessor continuity"},
-    {"from": 200, "to": "Ask Asa", "relationship": "listener-question format and audience research"},
-    {"from": 320, "to": "The House of Yes", "relationship": "parody prompt"},
-    {"from": 340, "to": "Schindler's List", "relationship": "minor sexualization rejected"},
-    {"from": 365, "to": "Training Day", "relationship": "parody proposal"},
-    {"from": 600, "to": "I Spit on Your Grave", "relationship": "rape-revenge film misused as parody premise"},
-    {"from": 650, "to": "Spring Breakers / Moonrise Kingdom / Silver Linings Playbook", "relationship": "2013 film discussion"},
-    {"from": 760, "to": "Secretary", "relationship": "sexual-cinema reference"},
-    {"from": 960, "to": "Step Brothers", "relationship": "Lee brothers casting idea"},
-    {"from": 1920, "to": "adult-industry production practice", "relationship": "first-person menstruation logistics"},
-    {"from": 2380, "to": "Mark Spiegler", "relationship": "manager and frequent conversation partner"},
-    {"from": 2400, "to": "YumYumCha.com", "relationship": "Bill Poon's dated blog and taste record"},
-    {"from": 2550, "to": "Vicky Cristina Barcelona", "relationship": "relationship/film comparison"},
-    {"from": 3120, "to": "Ask Asa health-advice boundary", "relationship": "listener weight-loss question"},
-    {"from": 3360, "to": "Herbalife", "relationship": "product claim requiring correction"},
-    {"from": 3480, "to": "eating-disorder safety", "relationship": "purging, anorexia and rapid-loss talk"},
-    {"from": 3840, "to": "Print Whisperer", "relationship": "Instagram fashion/body-outline lead"},
-    {"from": 4080, "to": "hormonal contraception", "relationship": "first-person history and misinformation"},
-    {"from": 4560, "to": "phone-sex roleplay", "relationship": "title sequence and consent boundary"},
-    {"from": 5160, "to": "manufactured podcast conflict", "relationship": "show explicitly analyzes the setup"},
-    {"from": 5520, "to": "phone-sex history", "relationship": "childhood media and billing story"},
-    {"from": 5880, "to": "The Jerky Boys", "relationship": "pre-caller-ID prank culture"},
-    {"from": 6120, "to": "Off the Sidelines and Into the Limelight", "relationship": "recurring trivia/vinyl"},
-    {"from": 6460, "to": "Episode 083 glue ritual", "relationship": "continued ritual and unsafe audience instruction"}
+    {
+      "from": 90,
+      "to": "Koreans Gone Bad",
+      "relationship": "theme-song comparison and predecessor continuity"
+    },
+    {
+      "from": 200,
+      "to": "Ask Asa",
+      "relationship": "listener-question format and audience research"
+    },
+    {
+      "from": 320,
+      "to": "The House of Yes",
+      "relationship": "parody prompt"
+    },
+    {
+      "from": 340,
+      "to": "Schindler's List",
+      "relationship": "minor sexualization rejected"
+    },
+    {
+      "from": 365,
+      "to": "Training Day",
+      "relationship": "parody proposal"
+    },
+    {
+      "from": 600,
+      "to": "I Spit on Your Grave",
+      "relationship": "rape-revenge film misused as parody premise"
+    },
+    {
+      "from": 650,
+      "to": "Spring Breakers / Moonrise Kingdom / Silver Linings Playbook",
+      "relationship": "2013 film discussion"
+    },
+    {
+      "from": 760,
+      "to": "Secretary",
+      "relationship": "sexual-cinema reference"
+    },
+    {
+      "from": 960,
+      "to": "Step Brothers",
+      "relationship": "Lee brothers casting idea"
+    },
+    {
+      "from": 1920,
+      "to": "adult-industry production practice",
+      "relationship": "first-person menstruation logistics"
+    },
+    {
+      "from": 2380,
+      "to": "Mark Spiegler",
+      "relationship": "manager and frequent conversation partner"
+    },
+    {
+      "from": 2400,
+      "to": "YumYumCha.com",
+      "relationship": "Bill Poon's dated blog and taste record"
+    },
+    {
+      "from": 2550,
+      "to": "Vicky Cristina Barcelona",
+      "relationship": "relationship/film comparison"
+    },
+    {
+      "from": 3120,
+      "to": "Ask Asa health-advice boundary",
+      "relationship": "listener weight-loss question"
+    },
+    {
+      "from": 3360,
+      "to": "Herbalife",
+      "relationship": "product claim requiring correction"
+    },
+    {
+      "from": 3480,
+      "to": "eating-disorder safety",
+      "relationship": "purging, anorexia and rapid-loss talk"
+    },
+    {
+      "from": 3840,
+      "to": "Print Whisperer",
+      "relationship": "Instagram fashion/body-outline lead"
+    },
+    {
+      "from": 4080,
+      "to": "hormonal contraception",
+      "relationship": "first-person history and misinformation"
+    },
+    {
+      "from": 4560,
+      "to": "phone-sex roleplay",
+      "relationship": "title sequence and consent boundary"
+    },
+    {
+      "from": 5160,
+      "to": "manufactured podcast conflict",
+      "relationship": "show explicitly analyzes the setup"
+    },
+    {
+      "from": 5520,
+      "to": "phone-sex history",
+      "relationship": "childhood media and billing story"
+    },
+    {
+      "from": 5880,
+      "to": "The Jerky Boys",
+      "relationship": "pre-caller-ID prank culture"
+    },
+    {
+      "from": 6120,
+      "to": "Off the Sidelines and Into the Limelight",
+      "relationship": "recurring trivia/vinyl"
+    },
+    {
+      "from": 6460,
+      "to": "Episode 083 glue ritual",
+      "relationship": "continued ritual and unsafe audience instruction"
+    }
   ],
   "content_warnings": [
     "decoder hallucination",
@@ -142,5 +403,17 @@
     "prank sexual calls",
     "anti-gay slurs",
     "third-party privacy"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Asa Akira"
+  ],
+  "places": [],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 84 restores Ask Asa as a sustained listener-question format.",
+  "description_source": "Opening of the human-reviewed summary."
 }

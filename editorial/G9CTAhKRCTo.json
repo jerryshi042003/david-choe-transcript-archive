@@ -1,0 +1,51 @@
+{
+  "episode_id": "G9CTAhKRCTo",
+  "title": "David Choe, El Mac and the Igloo Hong Super Crew Warming Up Before Painting",
+  "reviewed_on": "2026-08-13",
+  "description": "A warm-up clip names Choe, El Mac and the Igloo Hong Super Crew before painting, but the decoder yields thanks and repetition; it is cataloged as pre-painting visual context.",
+  "summary": "A warm-up clip names Choe, El Mac and the Igloo Hong Super Crew before painting, but the decoder yields thanks and repetition; it is cataloged as pre-painting visual context. Because the available transcript is sparse or corrupted, the archive deliberately limits the claim to title/provenance and recoverable words rather than inventing visual detail.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Crew warming up before painting"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "El Mac"
+  ],
+  "places": [],
+  "works": [
+    "Igloo Hong"
+  ],
+  "themes": [
+    "mural warm-up",
+    "artist crew",
+    "decoder failure"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 1,
+    "duration_seconds": 0,
+    "chapters": 1,
+    "named_turns": 0,
+    "transcript_limited": true
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

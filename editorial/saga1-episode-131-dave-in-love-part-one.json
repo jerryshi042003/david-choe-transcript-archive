@@ -33,31 +33,406 @@
   ],
   "speaker_policy": "Episode-level metadata may record the five explicitly introduced public participants. Because diarization yielded zero turns and zero identity windows, no dialogue is assigned to David Choe, Asa Akira, Valentin, Money Mark, Steve Lee, Scrotum Coat, Alex or anyone else.",
   "chapters": [
-    {"t":0,"title":"private conception plan"},{"t":60,"title":"fertility-position speculation"},{"t":120,"title":"health-podcast joke"},{"t":240,"title":"five-person introduction"},{"t":300,"title":"Asa's second printing"},{"t":360,"title":"Critter's San Francisco world"},{"t":480,"title":"audiobook performance"},{"t":540,"title":"what is a millennial"},{"t":660,"title":"wealth and quitting"},{"t":780,"title":"airport pickup"},{"t":960,"title":"all-work schedule"},{"t":1020,"title":"rich-person advice"},{"t":1080,"title":"network series collapses"},{"t":1140,"title":"Hawaii reflection"},{"t":1200,"title":"Enablers Club"},{"t":1260,"title":"Beyoncé elevator bet"},{"t":1320,"title":"therapy retreat"},{"t":1380,"title":"father's mortality"},{"t":1440,"title":"bucket-list travel"},{"t":1500,"title":"career or time together"},{"t":1560,"title":"do it before loss"},{"t":1620,"title":"fear of solitude"},{"t":1680,"title":"Mexico City relationship"},{"t":1800,"title":"staying indoors together"},{"t":1920,"title":"former lover senses Hawaii"},{"t":1980,"title":"honesty versus kindness"},{"t":2100,"title":"friendship after sex"},{"t":2160,"title":"the sister arrives"},{"t":2220,"title":"phone boundary breaks"},{"t":2280,"title":"unable to stay alone"},{"t":2340,"title":"does porn help"},{"t":2460,"title":"does the podcast help"},{"t":2520,"title":"costs of the show"},{"t":2640,"title":"MCA and growing up"},{"t":2700,"title":"service and meaning"},{"t":2760,"title":"thinking beyond oneself"},{"t":2820,"title":"three relationship models"},{"t":2880,"title":"message from Teshima's"},{"t":2940,"title":"an apparently ideal stranger"},{"t":3000,"title":"private account and checklist"},{"t":3060,"title":"sociopath stories"},{"t":3120,"title":"eight-hour call"},{"t":3180,"title":"misheard clues"},{"t":3240,"title":"butterflies and panic"},{"t":3300,"title":"agreement to wait"},{"t":3360,"title":"David's partner list"},{"t":3420,"title":"therapist may know her"},{"t":3480,"title":"accidental salon clue"},{"t":3600,"title":"imagined child"},{"t":3780,"title":"claimed breakthrough"},{"t":3840,"title":"baby sister and mortgages"},{"t":3900,"title":"insisting on a meeting"},{"t":3960,"title":"parking-lot ultimatum"},{"t":4020,"title":"she drives away"},{"t":4080,"title":"threat to wait until death"},{"t":4140,"title":"brother reports panic"},{"t":4200,"title":"eight-hour vigil"},{"t":4260,"title":"closure and police threat"},{"t":4320,"title":"catfish speculation"},{"t":4380,"title":"relationship with a voice"},{"t":4440,"title":"gender and true-love test"},{"t":4500,"title":"sociopathy debate"},{"t":4560,"title":"family meeting and stroke"},{"t":4620,"title":"girlfriend declaration"},{"t":4680,"title":"Part One break"},{"t":4740,"title":"private identity searches"},{"t":4860,"title":"Enablers Club trivia"},{"t":4980,"title":"hunger-strike paraphrase"},{"t":5040,"title":"music trivia"},{"t":5100,"title":"Scrotum Coat transition"},{"t":5160,"title":"love changes the show"},{"t":5220,"title":"Part Two setup"}
+    {
+      "t": 0,
+      "title": "private conception plan"
+    },
+    {
+      "t": 60,
+      "title": "fertility-position speculation"
+    },
+    {
+      "t": 120,
+      "title": "health-podcast joke"
+    },
+    {
+      "t": 240,
+      "title": "five-person introduction"
+    },
+    {
+      "t": 300,
+      "title": "Asa's second printing"
+    },
+    {
+      "t": 360,
+      "title": "Critter's San Francisco world"
+    },
+    {
+      "t": 480,
+      "title": "audiobook performance"
+    },
+    {
+      "t": 540,
+      "title": "what is a millennial"
+    },
+    {
+      "t": 660,
+      "title": "wealth and quitting"
+    },
+    {
+      "t": 780,
+      "title": "airport pickup"
+    },
+    {
+      "t": 960,
+      "title": "all-work schedule"
+    },
+    {
+      "t": 1020,
+      "title": "rich-person advice"
+    },
+    {
+      "t": 1080,
+      "title": "network series collapses"
+    },
+    {
+      "t": 1140,
+      "title": "Hawaii reflection"
+    },
+    {
+      "t": 1200,
+      "title": "Enablers Club"
+    },
+    {
+      "t": 1260,
+      "title": "Beyoncé elevator bet"
+    },
+    {
+      "t": 1320,
+      "title": "therapy retreat"
+    },
+    {
+      "t": 1380,
+      "title": "father's mortality"
+    },
+    {
+      "t": 1440,
+      "title": "bucket-list travel"
+    },
+    {
+      "t": 1500,
+      "title": "career or time together"
+    },
+    {
+      "t": 1560,
+      "title": "do it before loss"
+    },
+    {
+      "t": 1620,
+      "title": "fear of solitude"
+    },
+    {
+      "t": 1680,
+      "title": "Mexico City relationship"
+    },
+    {
+      "t": 1800,
+      "title": "staying indoors together"
+    },
+    {
+      "t": 1920,
+      "title": "former lover senses Hawaii"
+    },
+    {
+      "t": 1980,
+      "title": "honesty versus kindness"
+    },
+    {
+      "t": 2100,
+      "title": "friendship after sex"
+    },
+    {
+      "t": 2160,
+      "title": "the sister arrives"
+    },
+    {
+      "t": 2220,
+      "title": "phone boundary breaks"
+    },
+    {
+      "t": 2280,
+      "title": "unable to stay alone"
+    },
+    {
+      "t": 2340,
+      "title": "does porn help"
+    },
+    {
+      "t": 2460,
+      "title": "does the podcast help"
+    },
+    {
+      "t": 2520,
+      "title": "costs of the show"
+    },
+    {
+      "t": 2640,
+      "title": "MCA and growing up"
+    },
+    {
+      "t": 2700,
+      "title": "service and meaning"
+    },
+    {
+      "t": 2760,
+      "title": "thinking beyond oneself"
+    },
+    {
+      "t": 2820,
+      "title": "three relationship models"
+    },
+    {
+      "t": 2880,
+      "title": "message from Teshima's"
+    },
+    {
+      "t": 2940,
+      "title": "an apparently ideal stranger"
+    },
+    {
+      "t": 3000,
+      "title": "private account and checklist"
+    },
+    {
+      "t": 3060,
+      "title": "sociopath stories"
+    },
+    {
+      "t": 3120,
+      "title": "eight-hour call"
+    },
+    {
+      "t": 3180,
+      "title": "misheard clues"
+    },
+    {
+      "t": 3240,
+      "title": "butterflies and panic"
+    },
+    {
+      "t": 3300,
+      "title": "agreement to wait"
+    },
+    {
+      "t": 3360,
+      "title": "David's partner list"
+    },
+    {
+      "t": 3420,
+      "title": "therapist may know her"
+    },
+    {
+      "t": 3480,
+      "title": "accidental salon clue"
+    },
+    {
+      "t": 3600,
+      "title": "imagined child"
+    },
+    {
+      "t": 3780,
+      "title": "claimed breakthrough"
+    },
+    {
+      "t": 3840,
+      "title": "baby sister and mortgages"
+    },
+    {
+      "t": 3900,
+      "title": "insisting on a meeting"
+    },
+    {
+      "t": 3960,
+      "title": "parking-lot ultimatum"
+    },
+    {
+      "t": 4020,
+      "title": "she drives away"
+    },
+    {
+      "t": 4080,
+      "title": "threat to wait until death"
+    },
+    {
+      "t": 4140,
+      "title": "brother reports panic"
+    },
+    {
+      "t": 4200,
+      "title": "eight-hour vigil"
+    },
+    {
+      "t": 4260,
+      "title": "closure and police threat"
+    },
+    {
+      "t": 4320,
+      "title": "catfish speculation"
+    },
+    {
+      "t": 4380,
+      "title": "relationship with a voice"
+    },
+    {
+      "t": 4440,
+      "title": "gender and true-love test"
+    },
+    {
+      "t": 4500,
+      "title": "sociopathy debate"
+    },
+    {
+      "t": 4560,
+      "title": "family meeting and stroke"
+    },
+    {
+      "t": 4620,
+      "title": "girlfriend declaration"
+    },
+    {
+      "t": 4680,
+      "title": "Part One break"
+    },
+    {
+      "t": 4740,
+      "title": "private identity searches"
+    },
+    {
+      "t": 4860,
+      "title": "Enablers Club trivia"
+    },
+    {
+      "t": 4980,
+      "title": "hunger-strike paraphrase"
+    },
+    {
+      "t": 5040,
+      "title": "music trivia"
+    },
+    {
+      "t": 5100,
+      "title": "Scrotum Coat transition"
+    },
+    {
+      "t": 5160,
+      "title": "love changes the show"
+    },
+    {
+      "t": 5220,
+      "title": "Part Two setup"
+    }
   ],
   "connections": [
-    {"t":60,"to":"health misinformation","why":"Sexual-position and gravity talk is entertainment, not evidence-based fertility guidance."},
-    {"t":540,"to":"generational storytelling","why":"The cast's uncertainty about the definition exposes how a label becomes a moral shortcut."},
-    {"t":660,"to":"wealth and commitment","why":"Money lets David leave difficult projects, recreating the avoidance he attributes to youth."},
-    {"t":960,"to":"addiction substitution","why":"Gambling abstinence is followed by deliberate workaholism rather than a neutral end to compulsion."},
-    {"t":1080,"to":"creative control","why":"Institutional financing offers reach but conflicts with the conduct a network expected from a host."},
-    {"t":1200,"to":"therapy boundary","why":"Disclosure and friendship can help while an enabling entertainment room remains distinct from licensed treatment."},
-    {"t":1380,"to":"mortality and time","why":"An aging parent's limits turn abstract wealth into a finite scheduling decision."},
-    {"t":1620,"to":"solitude avoidance","why":"Every meaningful visitor is defensible alone, but together they erase the retreat's stated purpose."},
-    {"t":1980,"to":"honesty and care","why":"The speakers test whether truth is always kinder than a face-saving lie."},
-    {"t":2220,"to":"attention control","why":"Delegating the phone and then breaking a self-imposed check schedule mirrors other addiction loops."},
-    {"t":2340,"to":"service through entertainment","why":"Asa frames sexual performance as modest utility without claiming universal social importance."},
-    {"t":2520,"to":"archive harm accounting","why":"Employment, family and relationship losses are first-person evidence against measuring value only by audience enjoyment."},
-    {"t":2640,"to":"persona maturation","why":"MCA becomes a model for growing beyond an early transgressive identity without erasing it."},
-    {"t":2760,"to":"relationship as service","why":"Responsibility for another person is described as both marriage's burden and its benefit."},
-    {"t":2880,"to":"parasocial recognition","why":"A public figure turns being spotted into direct private contact, collapsing audience and intimacy."},
-    {"t":3180,"to":"narrative projection","why":"Two misheard phrases support an elaborate child story before basic facts are checked."},
-    {"t":3360,"to":"checklists and negative learning","why":"Desired traits are explicitly built from prior injuries and exclusions rather than this person's known reality."},
-    {"t":3900,"to":"consent and romantic scripts","why":"Intense mutual attraction does not cancel a request for time or refusal to meet."},
-    {"t":4080,"to":"coercive self-harm rhetoric","why":"Threatening to starve or die transfers responsibility and pressure to the other person."},
-    {"t":4320,"to":"identity uncertainty","why":"Voice, photos and search matches do not prove who the private person is."},
-    {"t":4620,"to":"claim versus mutual status","why":"One participant's declaration of love and relationship cannot establish the unseen person's agreement."},
-    {"t":5160,"to":"show premise and worker precarity","why":"A healthier relationship is joked about as a threat to self-destruction content and a new worker's job."}
+    {
+      "t": 60,
+      "to": "health misinformation",
+      "why": "Sexual-position and gravity talk is entertainment, not evidence-based fertility guidance."
+    },
+    {
+      "t": 540,
+      "to": "generational storytelling",
+      "why": "The cast's uncertainty about the definition exposes how a label becomes a moral shortcut."
+    },
+    {
+      "t": 660,
+      "to": "wealth and commitment",
+      "why": "Money lets David leave difficult projects, recreating the avoidance he attributes to youth."
+    },
+    {
+      "t": 960,
+      "to": "addiction substitution",
+      "why": "Gambling abstinence is followed by deliberate workaholism rather than a neutral end to compulsion."
+    },
+    {
+      "t": 1080,
+      "to": "creative control",
+      "why": "Institutional financing offers reach but conflicts with the conduct a network expected from a host."
+    },
+    {
+      "t": 1200,
+      "to": "therapy boundary",
+      "why": "Disclosure and friendship can help while an enabling entertainment room remains distinct from licensed treatment."
+    },
+    {
+      "t": 1380,
+      "to": "mortality and time",
+      "why": "An aging parent's limits turn abstract wealth into a finite scheduling decision."
+    },
+    {
+      "t": 1620,
+      "to": "solitude avoidance",
+      "why": "Every meaningful visitor is defensible alone, but together they erase the retreat's stated purpose."
+    },
+    {
+      "t": 1980,
+      "to": "honesty and care",
+      "why": "The speakers test whether truth is always kinder than a face-saving lie."
+    },
+    {
+      "t": 2220,
+      "to": "attention control",
+      "why": "Delegating the phone and then breaking a self-imposed check schedule mirrors other addiction loops."
+    },
+    {
+      "t": 2340,
+      "to": "service through entertainment",
+      "why": "Asa frames sexual performance as modest utility without claiming universal social importance."
+    },
+    {
+      "t": 2520,
+      "to": "archive harm accounting",
+      "why": "Employment, family and relationship losses are first-person evidence against measuring value only by audience enjoyment."
+    },
+    {
+      "t": 2640,
+      "to": "persona maturation",
+      "why": "MCA becomes a model for growing beyond an early transgressive identity without erasing it."
+    },
+    {
+      "t": 2760,
+      "to": "relationship as service",
+      "why": "Responsibility for another person is described as both marriage's burden and its benefit."
+    },
+    {
+      "t": 2880,
+      "to": "parasocial recognition",
+      "why": "A public figure turns being spotted into direct private contact, collapsing audience and intimacy."
+    },
+    {
+      "t": 3180,
+      "to": "narrative projection",
+      "why": "Two misheard phrases support an elaborate child story before basic facts are checked."
+    },
+    {
+      "t": 3360,
+      "to": "checklists and negative learning",
+      "why": "Desired traits are explicitly built from prior injuries and exclusions rather than this person's known reality."
+    },
+    {
+      "t": 3900,
+      "to": "consent and romantic scripts",
+      "why": "Intense mutual attraction does not cancel a request for time or refusal to meet."
+    },
+    {
+      "t": 4080,
+      "to": "coercive self-harm rhetoric",
+      "why": "Threatening to starve or die transfers responsibility and pressure to the other person."
+    },
+    {
+      "t": 4320,
+      "to": "identity uncertainty",
+      "why": "Voice, photos and search matches do not prove who the private person is."
+    },
+    {
+      "t": 4620,
+      "to": "claim versus mutual status",
+      "why": "One participant's declaration of love and relationship cannot establish the unseen person's agreement."
+    },
+    {
+      "t": 5160,
+      "to": "show premise and worker precarity",
+      "why": "A healthier relationship is joked about as a threat to self-destruction content and a new worker's job."
+    }
   ],
   "content_warnings": [
     "explicit conception and sexual-position discussion",
@@ -84,29 +459,150 @@
     "private parent's stroke"
   ],
   "publication_restrictions": [
-    {"from":0,"to":240,"rule":"Do not identify the private person/couple trying to conceive or render sexual speculation as fertility guidance."},
-    {"from":240,"to":360,"rule":"Public hosts and book may be named; exclude current travel and signing schedules."},
-    {"from":360,"to":480,"rule":"Do not index private clubs, wealthy friends, family contacts or live locations."},
-    {"from":780,"to":960,"rule":"Historical airport story may remain; exclude pickup patterns, phone state and current travel logistics."},
-    {"from":960,"to":1200,"rule":"Do not infer the unnamed network, contracts, unreleased episodes or confidential production details."},
-    {"from":1200,"to":1320,"rule":"Do not present the podcast as therapy or secretly drugging family as acceptable conduct."},
-    {"from":1320,"to":1620,"rule":"Keep exact rental, family address, health records, finances and future travel plans undiscoverable."},
-    {"from":1620,"to":1800,"rule":"Protect therapist identity, treatment location/schedule and private partner's profession/contact/travel trail."},
-    {"from":1800,"to":2280,"rule":"Preserve relationship ideas while excluding private partners' identities, messages, accounts, sex locations and addiction profiling."},
-    {"from":2340,"to":2640,"rule":"Keep sexual detail out of casual snippets; do not identify the listener suicide or affected guests/partners."},
-    {"from":2820,"to":3000,"rule":"The three private women are thematic roles, not searchable identity profiles."},
-    {"from":2880,"to":3180,"rule":"Do not combine restaurant, ethnicity, family size, residence, work, appearance or private account into an identity dossier."},
-    {"from":3180,"to":3360,"rule":"Do not publish private photos, phone number, address, family home, brother or message history."},
-    {"from":3360,"to":3600,"rule":"Preserve the discriminatory checklist as speech but do not index private people by race, tattoos, family or addiction allegations."},
-    {"from":3420,"to":3540,"rule":"Do not identify or link the salon; the speaker immediately regrets disclosing it."},
-    {"from":3600,"to":3900,"rule":"No real child exists in the account. Do not create child, disability, body or parent metadata from the misunderstanding."},
-    {"from":3900,"to":4320,"rule":"Do not expose the exact meeting site, vehicle, videos, phone records or police/security identities."},
-    {"from":3900,"to":4320,"rule":"Her refusal and panic remain authoritative; do not romanticize persistence or threatened self-harm as consent."},
-    {"from":4320,"to":4560,"rule":"Do not infer sex, gender identity, body, disability, deception or diagnosis from voice/photos/speculation."},
-    {"from":4560,"to":4680,"rule":"Protect father health, hospital/airlift trail and family identity; relationship status remains one-sided and unverified."},
-    {"from":4740,"to":4860,"rule":"Do not reproduce reverse-search results, phone lookup, charity records, accounts or other private-person OSINT."},
-    {"from":4800,"to":4860,"rule":"Do not present animal-charity involvement as evidence of abuse history or mental illness."},
-    {"from":4860,"to":5100,"rule":"Trivia paraphrases do not replace the underlying transcript wording."},
-    {"from":5100,"to":5274.24,"rule":"Production-worker aliases may remain; exclude employment contact and current job-security inferences."}
-  ]
+    {
+      "from": 0,
+      "to": 240,
+      "rule": "Do not identify the private person/couple trying to conceive or render sexual speculation as fertility guidance."
+    },
+    {
+      "from": 240,
+      "to": 360,
+      "rule": "Public hosts and book may be named; exclude current travel and signing schedules."
+    },
+    {
+      "from": 360,
+      "to": 480,
+      "rule": "Do not index private clubs, wealthy friends, family contacts or live locations."
+    },
+    {
+      "from": 780,
+      "to": 960,
+      "rule": "Historical airport story may remain; exclude pickup patterns, phone state and current travel logistics."
+    },
+    {
+      "from": 960,
+      "to": 1200,
+      "rule": "Do not infer the unnamed network, contracts, unreleased episodes or confidential production details."
+    },
+    {
+      "from": 1200,
+      "to": 1320,
+      "rule": "Do not present the podcast as therapy or secretly drugging family as acceptable conduct."
+    },
+    {
+      "from": 1320,
+      "to": 1620,
+      "rule": "Keep exact rental, family address, health records, finances and future travel plans undiscoverable."
+    },
+    {
+      "from": 1620,
+      "to": 1800,
+      "rule": "Protect therapist identity, treatment location/schedule and private partner's profession/contact/travel trail."
+    },
+    {
+      "from": 1800,
+      "to": 2280,
+      "rule": "Preserve relationship ideas while excluding private partners' identities, messages, accounts, sex locations and addiction profiling."
+    },
+    {
+      "from": 2340,
+      "to": 2640,
+      "rule": "Keep sexual detail out of casual snippets; do not identify the listener suicide or affected guests/partners."
+    },
+    {
+      "from": 2820,
+      "to": 3000,
+      "rule": "The three private women are thematic roles, not searchable identity profiles."
+    },
+    {
+      "from": 2880,
+      "to": 3180,
+      "rule": "Do not combine restaurant, ethnicity, family size, residence, work, appearance or private account into an identity dossier."
+    },
+    {
+      "from": 3180,
+      "to": 3360,
+      "rule": "Do not publish private photos, phone number, address, family home, brother or message history."
+    },
+    {
+      "from": 3360,
+      "to": 3600,
+      "rule": "Preserve the discriminatory checklist as speech but do not index private people by race, tattoos, family or addiction allegations."
+    },
+    {
+      "from": 3420,
+      "to": 3540,
+      "rule": "Do not identify or link the salon; the speaker immediately regrets disclosing it."
+    },
+    {
+      "from": 3600,
+      "to": 3900,
+      "rule": "No real child exists in the account. Do not create child, disability, body or parent metadata from the misunderstanding."
+    },
+    {
+      "from": 3900,
+      "to": 4320,
+      "rule": "Do not expose the exact meeting site, vehicle, videos, phone records or police/security identities."
+    },
+    {
+      "from": 3900,
+      "to": 4320,
+      "rule": "Her refusal and panic remain authoritative; do not romanticize persistence or threatened self-harm as consent."
+    },
+    {
+      "from": 4320,
+      "to": 4560,
+      "rule": "Do not infer sex, gender identity, body, disability, deception or diagnosis from voice/photos/speculation."
+    },
+    {
+      "from": 4560,
+      "to": 4680,
+      "rule": "Protect father health, hospital/airlift trail and family identity; relationship status remains one-sided and unverified."
+    },
+    {
+      "from": 4740,
+      "to": 4860,
+      "rule": "Do not reproduce reverse-search results, phone lookup, charity records, accounts or other private-person OSINT."
+    },
+    {
+      "from": 4800,
+      "to": 4860,
+      "rule": "Do not present animal-charity involvement as evidence of abuse history or mental illness."
+    },
+    {
+      "from": 4860,
+      "to": 5100,
+      "rule": "Trivia paraphrases do not replace the underlying transcript wording."
+    },
+    {
+      "from": 5100,
+      "to": 5274.24,
+      "rule": "Production-worker aliases may remain; exclude employment contact and current job-security inferences."
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Money Mark",
+    "Asa Akira",
+    "Harry Kim",
+    "Steve Lee",
+    "Critter"
+  ],
+  "places": [
+    "Mexico City",
+    "Hawaii",
+    "Mexico",
+    "Kona"
+  ],
+  "works": [
+    "The Network",
+    "DVDASA",
+    "Love"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "After an opening conversation about a private participant trying to conceive, David Choe, Asa Akira, Valentin, Money Mark and Steve Lee introduce the show.",
+  "description_source": "Opening of the human-reviewed summary."
 }

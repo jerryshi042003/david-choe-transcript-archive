@@ -1,46 +1,166 @@
 {
   "summary": "Episode Eight brings graffiti artist Saber and Sasha Grey into an already crowded room with David Choe, Asa Akira, Maury Showbizawitz, Yoshi Obayashi, and Bobby Namba. The opening moves from the previous donor episode and preparations for Lisa Ling into MacReady, Sasha's Doberman, biting Yoshi. Saber then supplies the episode's central arc: the Los Angeles River piece, skywritten protest against the mural moratorium, criminalization and public funding, the relationship between graffiti and childhood trauma, epilepsy and serious injuries, painting in Barcelona, and his attempt to move from an illegal name into a durable public art practice without disowning the culture that formed him. Sasha's parallel story covers adult-industry recognition, leaving porn without repudiating it, the sources of her stage name, acting, and her forthcoming novel The Juliette Society. Late sections return to fantasy, money, sex work, David's Heidi Fleiss story, race, audience promotion, and Trivia With Bobby on Entourage and Training Day.",
   "chapters": [
-    {"t": 20, "title": "A crowded intro and Maury Showbizawitz returns"},
-    {"t": 250, "title": "The donor aftermath, Lisa Ling, and Asa's work schedule"},
-    {"t": 560, "title": "MacReady bit Yoshi"},
-    {"t": 820, "title": "Saber, AWR/MSK, and risk as artistic proof"},
-    {"t": 945, "title": "The Los Angeles River piece"},
-    {"t": 990, "title": "The mural moratorium, skywriting, and Villaraigosa"},
-    {"t": 1090, "title": "Graffiti-removal money and criminalization"},
-    {"t": 1240, "title": "The personality-test aftermath and artist damage"},
-    {"t": 1450, "title": "Graffiti writers, strippers, and secret identities"},
-    {"t": 1600, "title": "Sasha and Asa on awards, recognition, and porn careers"},
-    {"t": 1990, "title": "Life After Porn, regret, dating, and industry community"},
-    {"t": 2220, "title": "Saber's epilepsy and the Barcelona seizure"},
-    {"t": 2450, "title": "Bro dates, the Montana shop, and a different graffiti culture"},
-    {"t": 2670, "title": "The Barcelona mugging and street fight"},
-    {"t": 3030, "title": "Saber as an escape from childhood trauma"},
-    {"t": 3160, "title": "The fence injury and open wound"},
-    {"t": 3290, "title": "Prostate treatment, penetration, and bodily limits"},
-    {"t": 3470, "title": "Maury's comeback, childhood memories, and the gay-party argument"},
-    {"t": 3920, "title": "Recovered memories and refusing therapeutic excavation"},
-    {"t": 4080, "title": "Why the name Saber persists"},
-    {"t": 4210, "title": "Twitter, fatherhood, and leaving illegal painting behind"},
-    {"t": 4410, "title": "From graffiti soldier to historical artist"},
-    {"t": 4520, "title": "Murals, democracy, and the limits of revolution language"},
-    {"t": 4620, "title": "Sasha Grey's name, KMFDM, Gray, and Michael Holman"},
-    {"t": 4680, "title": "The Juliette Society and Belle de Jour"},
-    {"t": 4820, "title": "Porn, friendship, fantasy, and watching people you know"},
-    {"t": 5050, "title": "Unfilmed fantasies, MDMA, and sexual performance"},
-    {"t": 5370, "title": "Guest incentives and the mock donor marketplace"},
-    {"t": 5440, "title": "David in love and the ex-girlfriend proposition"},
-    {"t": 5630, "title": "The price question and boundaries of paid sex"},
-    {"t": 5800, "title": "Heidi Fleiss and the proposed Nevada brothel"},
-    {"t": 5900, "title": "The arranged date, painting, and hidden transaction"},
-    {"t": 6030, "title": "Anal-sex language, race, and the search for a Black guest"},
-    {"t": 6160, "title": "Audience promotion, panty camera, and cardboard fandom"},
-    {"t": 6260, "title": "Trivia With Bobby: Entourage"},
-    {"t": 6480, "title": "Entourage characters, Howie Mandel, and Viking Quest"},
-    {"t": 6650, "title": "Porn abbreviations and the missing Harry Kim"},
-    {"t": 6830, "title": "Training Day trivia"},
-    {"t": 6900, "title": "Saber smells the lobe"},
-    {"t": 7030, "title": "Saber, Sasha Grey, and the closing credits"}
+    {
+      "t": 20,
+      "title": "A crowded intro and Maury Showbizawitz returns"
+    },
+    {
+      "t": 250,
+      "title": "The donor aftermath, Lisa Ling, and Asa's work schedule"
+    },
+    {
+      "t": 560,
+      "title": "MacReady bit Yoshi"
+    },
+    {
+      "t": 820,
+      "title": "Saber, AWR/MSK, and risk as artistic proof"
+    },
+    {
+      "t": 945,
+      "title": "The Los Angeles River piece"
+    },
+    {
+      "t": 990,
+      "title": "The mural moratorium, skywriting, and Villaraigosa"
+    },
+    {
+      "t": 1090,
+      "title": "Graffiti-removal money and criminalization"
+    },
+    {
+      "t": 1240,
+      "title": "The personality-test aftermath and artist damage"
+    },
+    {
+      "t": 1450,
+      "title": "Graffiti writers, strippers, and secret identities"
+    },
+    {
+      "t": 1600,
+      "title": "Sasha and Asa on awards, recognition, and porn careers"
+    },
+    {
+      "t": 1990,
+      "title": "Life After Porn, regret, dating, and industry community"
+    },
+    {
+      "t": 2220,
+      "title": "Saber's epilepsy and the Barcelona seizure"
+    },
+    {
+      "t": 2450,
+      "title": "Bro dates, the Montana shop, and a different graffiti culture"
+    },
+    {
+      "t": 2670,
+      "title": "The Barcelona mugging and street fight"
+    },
+    {
+      "t": 3030,
+      "title": "Saber as an escape from childhood trauma"
+    },
+    {
+      "t": 3160,
+      "title": "The fence injury and open wound"
+    },
+    {
+      "t": 3290,
+      "title": "Prostate treatment, penetration, and bodily limits"
+    },
+    {
+      "t": 3470,
+      "title": "Maury's comeback, childhood memories, and the gay-party argument"
+    },
+    {
+      "t": 3920,
+      "title": "Recovered memories and refusing therapeutic excavation"
+    },
+    {
+      "t": 4080,
+      "title": "Why the name Saber persists"
+    },
+    {
+      "t": 4210,
+      "title": "Twitter, fatherhood, and leaving illegal painting behind"
+    },
+    {
+      "t": 4410,
+      "title": "From graffiti soldier to historical artist"
+    },
+    {
+      "t": 4520,
+      "title": "Murals, democracy, and the limits of revolution language"
+    },
+    {
+      "t": 4620,
+      "title": "Sasha Grey's name, KMFDM, Gray, and Michael Holman"
+    },
+    {
+      "t": 4680,
+      "title": "The Juliette Society and Belle de Jour"
+    },
+    {
+      "t": 4820,
+      "title": "Porn, friendship, fantasy, and watching people you know"
+    },
+    {
+      "t": 5050,
+      "title": "Unfilmed fantasies, MDMA, and sexual performance"
+    },
+    {
+      "t": 5370,
+      "title": "Guest incentives and the mock donor marketplace"
+    },
+    {
+      "t": 5440,
+      "title": "David in love and the ex-girlfriend proposition"
+    },
+    {
+      "t": 5630,
+      "title": "The price question and boundaries of paid sex"
+    },
+    {
+      "t": 5800,
+      "title": "Heidi Fleiss and the proposed Nevada brothel"
+    },
+    {
+      "t": 5900,
+      "title": "The arranged date, painting, and hidden transaction"
+    },
+    {
+      "t": 6030,
+      "title": "Anal-sex language, race, and the search for a Black guest"
+    },
+    {
+      "t": 6160,
+      "title": "Audience promotion, panty camera, and cardboard fandom"
+    },
+    {
+      "t": 6260,
+      "title": "Trivia With Bobby: Entourage"
+    },
+    {
+      "t": 6480,
+      "title": "Entourage characters, Howie Mandel, and Viking Quest"
+    },
+    {
+      "t": 6650,
+      "title": "Porn abbreviations and the missing Harry Kim"
+    },
+    {
+      "t": 6830,
+      "title": "Training Day trivia"
+    },
+    {
+      "t": 6900,
+      "title": "Saber smells the lobe"
+    },
+    {
+      "t": 7030,
+      "title": "Saber, Sasha Grey, and the closing credits"
+    }
   ],
   "people": [
     "David Choe",
@@ -148,5 +268,7 @@
     "correction_fixture": "episode-008-correction-fixture.json",
     "content_note": "The episode contains explicit sexual material, rape-roleplay discussion, accounts of childhood trauma and possible sexual abuse, seizures and graphic injury, drug use, racial and homophobic language, transphobic slurs, violence, and discussion of sex work. Editorial labels do not diagnose participants or endorse factual policy claims."
   },
-  "note": "Chapter titles and connections are editorial. A terminal 223-word Salt decoder loop must be deleted from the derived transcript. Participant and work names receive logged high-confidence corrections; exact quotation and speaker attribution require audio validation."
+  "note": "Chapter titles and connections are editorial. A terminal 223-word Salt decoder loop must be deleted from the derived transcript. Participant and work names receive logged high-confidence corrections; exact quotation and speaker attribution require audio validation.",
+  "description": "Episode Eight brings graffiti artist Saber and Sasha Grey into an already crowded room with David Choe, Asa Akira, Maury Showbizawitz, Yoshi Obayashi, and Bobby Namba.",
+  "description_source": "Opening of the human-reviewed summary."
 }

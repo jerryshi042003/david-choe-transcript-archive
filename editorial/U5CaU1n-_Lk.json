@@ -24,120 +24,481 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 11, "title": "Day Six tension in Eugene"},
-    {"t": 31, "title": "A restaurant refusal and racism uncertainty"},
-    {"t": 109, "title": "Explicit source text beside the tracks"},
-    {"t": 124, "title": "No open boxcars and the Santa Fe line"},
-    {"t": 163, "title": "Fact-check cue and Chinese railroad labor"},
-    {"t": 194, "title": "The metal dragon"},
-    {"t": 238, "title": "Unknown location and competing drummers"},
-    {"t": 302, "title": "Day Seven in Seattle"},
-    {"t": 323, "title": "A comic border inventory"},
-    {"t": 344, "title": "Track-flattened coins"},
-    {"t": 383, "title": "Luis's amputation story"},
-    {"t": 424, "title": "Don't drink and hop trains"},
-    {"t": 438, "title": "Luis refuses the dangerous train"},
-    {"t": 470, "title": "The professional-rider disclaimer"},
-    {"t": 541, "title": "Flags at the Canadian border"},
-    {"t": 549, "title": "Youth conduct and denied entry"},
-    {"t": 603, "title": "Post-9/11 anger turns into Canada insults"},
-    {"t": 649, "title": "Attempted forest crossing and confiscated tapes"},
-    {"t": 670, "title": "The unseen high-speed chase"},
-    {"t": 692, "title": "The anti-Canada song"},
-    {"t": 724, "title": "Day Eight apology"},
-    {"t": 780, "title": "Comic relapse inside the apology"},
-    {"t": 795, "title": "Mood and medication self-disclosure"},
-    {"t": 803, "title": "Trunk, boat or train proposals"},
-    {"t": 864, "title": "Bernadette and Jerry hitchhiking north"},
-    {"t": 973, "title": "Yielding the prime hitching spot"},
-    {"t": 1038, "title": "Lost among planes and boat yards"},
-    {"t": 1063, "title": "Grant describes the pilot restaurant"},
-    {"t": 1092, "title": "Sexuality inference and private-partner disclosure"},
-    {"t": 1142, "title": "Grant refuses to profile a patron"},
-    {"t": 1162, "title": "David invents a gay-pilot etymology"},
-    {"t": 1194, "title": "Andrew and the claimed flight around Canada"}
+    {
+      "t": 11,
+      "title": "Day Six tension in Eugene"
+    },
+    {
+      "t": 31,
+      "title": "A restaurant refusal and racism uncertainty"
+    },
+    {
+      "t": 109,
+      "title": "Explicit source text beside the tracks"
+    },
+    {
+      "t": 124,
+      "title": "No open boxcars and the Santa Fe line"
+    },
+    {
+      "t": 163,
+      "title": "Fact-check cue and Chinese railroad labor"
+    },
+    {
+      "t": 194,
+      "title": "The metal dragon"
+    },
+    {
+      "t": 238,
+      "title": "Unknown location and competing drummers"
+    },
+    {
+      "t": 302,
+      "title": "Day Seven in Seattle"
+    },
+    {
+      "t": 323,
+      "title": "A comic border inventory"
+    },
+    {
+      "t": 344,
+      "title": "Track-flattened coins"
+    },
+    {
+      "t": 383,
+      "title": "Luis's amputation story"
+    },
+    {
+      "t": 424,
+      "title": "Don't drink and hop trains"
+    },
+    {
+      "t": 438,
+      "title": "Luis refuses the dangerous train"
+    },
+    {
+      "t": 470,
+      "title": "The professional-rider disclaimer"
+    },
+    {
+      "t": 541,
+      "title": "Flags at the Canadian border"
+    },
+    {
+      "t": 549,
+      "title": "Youth conduct and denied entry"
+    },
+    {
+      "t": 603,
+      "title": "Post-9/11 anger turns into Canada insults"
+    },
+    {
+      "t": 649,
+      "title": "Attempted forest crossing and confiscated tapes"
+    },
+    {
+      "t": 670,
+      "title": "The unseen high-speed chase"
+    },
+    {
+      "t": 692,
+      "title": "The anti-Canada song"
+    },
+    {
+      "t": 724,
+      "title": "Day Eight apology"
+    },
+    {
+      "t": 780,
+      "title": "Comic relapse inside the apology"
+    },
+    {
+      "t": 795,
+      "title": "Mood and medication self-disclosure"
+    },
+    {
+      "t": 803,
+      "title": "Trunk, boat or train proposals"
+    },
+    {
+      "t": 864,
+      "title": "Bernadette and Jerry hitchhiking north"
+    },
+    {
+      "t": 973,
+      "title": "Yielding the prime hitching spot"
+    },
+    {
+      "t": 1038,
+      "title": "Lost among planes and boat yards"
+    },
+    {
+      "t": 1063,
+      "title": "Grant describes the pilot restaurant"
+    },
+    {
+      "t": 1092,
+      "title": "Sexuality inference and private-partner disclosure"
+    },
+    {
+      "t": 1142,
+      "title": "Grant refuses to profile a patron"
+    },
+    {
+      "t": 1162,
+      "title": "David invents a gay-pilot etymology"
+    },
+    {
+      "t": 1194,
+      "title": "Andrew and the claimed flight around Canada"
+    }
   ],
-  "people": ["David Choe", "Harry Kim", "Luis [private]", "Bernadette [private]", "Jerry [private]", "Grant [private]", "Andrew [private]"],
-  "places": ["Eugene, Oregon", "Seattle", "Canada–United States border [exact checkpoint withheld]", "Taildraggers Restaurant & Lounge [source-era venue]", "Alaska [intended destination]"],
-  "works": ["Thumbs Up!", "Meet Your Meat", "Smells Like Teen Spirit", "The Star-Spangled Banner", "Top Gun"],
-  "themes": ["fatigue", "suspected discrimination", "freight hopping", "Chinese railroad labor", "safety contradiction", "border exclusion", "national hostility", "apology", "responsibility", "irregular entry", "housing vulnerability", "sexual stereotyping", "third-party privacy", "aviation", "speaker-label provenance"],
+  "people": [
+    "David Choe",
+    "Harry Kim",
+    "Luis [private]",
+    "Bernadette [private]",
+    "Jerry [private]",
+    "Grant [private]",
+    "Andrew [private]"
+  ],
+  "places": [
+    "Eugene, Oregon",
+    "Seattle",
+    "Canada–United States border [exact checkpoint withheld]",
+    "Taildraggers Restaurant & Lounge [source-era venue]",
+    "Alaska [intended destination]"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "Meet Your Meat",
+    "Smells Like Teen Spirit",
+    "The Star-Spangled Banner",
+    "Top Gun"
+  ],
+  "themes": [
+    "fatigue",
+    "suspected discrimination",
+    "freight hopping",
+    "Chinese railroad labor",
+    "safety contradiction",
+    "border exclusion",
+    "national hostility",
+    "apology",
+    "responsibility",
+    "irregular entry",
+    "housing vulnerability",
+    "sexual stereotyping",
+    "third-party privacy",
+    "aviation",
+    "speaker-label provenance"
+  ],
   "connections": [
-    {"t": 31, "to": "uncertainty-before-accusation", "why": "David names a disturbing restaurant refusal but explicitly stops short of proving racist motive."},
-    {"t": 40, "to": "harry-vegetarianism", "why": "Meet Your Meat is given as the immediate cause of Harry's dietary change and the restaurant conflict."},
-    {"t": 109, "to": "source-text-versus-autobiography", "why": "Graphic sexual/racial material appears without enough context to treat it as lived disclosure."},
-    {"t": 163, "to": "self-marked-uncertainty", "why": "David says he needs to fact-check before offering the Chinese railroad account."},
-    {"t": 174, "to": "railroad-labor-history", "why": "A historically important labor contribution is told through slur, stereotype and compressed chronology."},
-    {"t": 238, "to": "route-uncertainty", "why": "The freight-edit claims movement while David cannot identify the state or country."},
-    {"t": 310, "to": "seattle-music-geography", "why": "Teen Spirit and Starbucks become the two shorthand references for Seattle."},
-    {"t": 394, "to": "luis-third-party-injury", "why": "Luis's story provides the season's clearest direct warning about catastrophic freight risk."},
-    {"t": 424, "to": "warning-then-pressure", "why": "David states the lesson, then pressures Luis after Luis directly says the train is too dangerous."},
-    {"t": 470, "to": "disclaimer-versus-demonstration", "why": "The warning contains operational detail and a false-safety claim that the hosts are professionals."},
-    {"t": 549, "to": "canada-rejection-recurrence", "why": "The youth-record story recurs in later Choe sources and must remain first-person rather than complete legal history."},
-    {"t": 649, "to": "missing-footage-provenance", "why": "The forest crossing and chase exist only as David's account because he says authorities confiscated tapes."},
-    {"t": 692, "to": "anger-as-performance", "why": "The sung attack becomes a performance unit, followed by disclaimer and later apology."},
-    {"t": 740, "to": "self-correction", "why": "David accepts responsibility and labels his own prior speech ignorant, hateful and angry."},
-    {"t": 806, "to": "risk-after-warning", "why": "Trunk, boat and freight proposals continue despite the amputation story and denied crossing."},
-    {"t": 864, "to": "compassion-over-competition", "why": "David first frames the two travelers as rivals, then yields the best spot and offers help."},
-    {"t": 886, "to": "question-is-not-identity", "why": "An uncertain Lummi question cannot establish anyone's nation or enrollment."},
-    {"t": 1092, "to": "denial-over-stereotype", "why": "Grant explicitly rejects David's orientation inference, and later refuses to infer a patron's sexuality."},
-    {"t": 1103, "to": "absent-person-privacy", "why": "Pregnancy and sexual-orientation details concern people who did not participate in the interview."},
-    {"t": 1194, "to": "claimed-flight-solution", "why": "A private pilot becomes the proposed route around Canada, but this part does not prove the flight or arrival."}
+    {
+      "t": 31,
+      "to": "uncertainty-before-accusation",
+      "why": "David names a disturbing restaurant refusal but explicitly stops short of proving racist motive."
+    },
+    {
+      "t": 40,
+      "to": "harry-vegetarianism",
+      "why": "Meet Your Meat is given as the immediate cause of Harry's dietary change and the restaurant conflict."
+    },
+    {
+      "t": 109,
+      "to": "source-text-versus-autobiography",
+      "why": "Graphic sexual/racial material appears without enough context to treat it as lived disclosure."
+    },
+    {
+      "t": 163,
+      "to": "self-marked-uncertainty",
+      "why": "David says he needs to fact-check before offering the Chinese railroad account."
+    },
+    {
+      "t": 174,
+      "to": "railroad-labor-history",
+      "why": "A historically important labor contribution is told through slur, stereotype and compressed chronology."
+    },
+    {
+      "t": 238,
+      "to": "route-uncertainty",
+      "why": "The freight-edit claims movement while David cannot identify the state or country."
+    },
+    {
+      "t": 310,
+      "to": "seattle-music-geography",
+      "why": "Teen Spirit and Starbucks become the two shorthand references for Seattle."
+    },
+    {
+      "t": 394,
+      "to": "luis-third-party-injury",
+      "why": "Luis's story provides the season's clearest direct warning about catastrophic freight risk."
+    },
+    {
+      "t": 424,
+      "to": "warning-then-pressure",
+      "why": "David states the lesson, then pressures Luis after Luis directly says the train is too dangerous."
+    },
+    {
+      "t": 470,
+      "to": "disclaimer-versus-demonstration",
+      "why": "The warning contains operational detail and a false-safety claim that the hosts are professionals."
+    },
+    {
+      "t": 549,
+      "to": "canada-rejection-recurrence",
+      "why": "The youth-record story recurs in later Choe sources and must remain first-person rather than complete legal history."
+    },
+    {
+      "t": 649,
+      "to": "missing-footage-provenance",
+      "why": "The forest crossing and chase exist only as David's account because he says authorities confiscated tapes."
+    },
+    {
+      "t": 692,
+      "to": "anger-as-performance",
+      "why": "The sung attack becomes a performance unit, followed by disclaimer and later apology."
+    },
+    {
+      "t": 740,
+      "to": "self-correction",
+      "why": "David accepts responsibility and labels his own prior speech ignorant, hateful and angry."
+    },
+    {
+      "t": 806,
+      "to": "risk-after-warning",
+      "why": "Trunk, boat and freight proposals continue despite the amputation story and denied crossing."
+    },
+    {
+      "t": 864,
+      "to": "compassion-over-competition",
+      "why": "David first frames the two travelers as rivals, then yields the best spot and offers help."
+    },
+    {
+      "t": 886,
+      "to": "question-is-not-identity",
+      "why": "An uncertain Lummi question cannot establish anyone's nation or enrollment."
+    },
+    {
+      "t": 1092,
+      "to": "denial-over-stereotype",
+      "why": "Grant explicitly rejects David's orientation inference, and later refuses to infer a patron's sexuality."
+    },
+    {
+      "t": 1103,
+      "to": "absent-person-privacy",
+      "why": "Pregnancy and sexual-orientation details concern people who did not participate in the interview."
+    },
+    {
+      "t": 1194,
+      "to": "claimed-flight-solution",
+      "why": "A private pilot becomes the proposed route around Canada, but this part does not prove the flight or arrival."
+    }
   ],
   "source_notes": [
-    {"t": 163, "claim": "Chinese laborers used distinctive dangerous methods and made these train lines after railroad construction fell behind.", "assessment": "Chinese workers were indispensable to the western portion of the first transcontinental railroad and were systematically minimized in later histories. The episode's broad hiring rationale, techniques and 'all these lines' wording remain compressed and partly unsupported.", "source": "https://home.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm"},
-    {"t": 549, "claim": "Youth graffiti and shoplifting records should disappear in America but caused permanent Canadian exclusion.", "assessment": "Canadian admissibility depends on the offence, disposition, whether someone was treated as a young offender or adult, time and rehabilitation. Canada states that some people convicted under 18 may still enter; the episode's personal outcome does not establish a universal rule.", "source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5312-rehabilitation-persons-inadmissible-canada-past-criminal-activity.html"},
-    {"t": 1155, "claim": "Alaska's capital is Juneau.", "assessment": "Correct public fact; it does not validate the surrounding sexual stereotypes or claimed flight.", "source": "https://alaska.gov/Kids/learn/capitol.htm"}
+    {
+      "t": 163,
+      "claim": "Chinese laborers used distinctive dangerous methods and made these train lines after railroad construction fell behind.",
+      "assessment": "Chinese workers were indispensable to the western portion of the first transcontinental railroad and were systematically minimized in later histories. The episode's broad hiring rationale, techniques and 'all these lines' wording remain compressed and partly unsupported.",
+      "source": "https://home.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm"
+    },
+    {
+      "t": 549,
+      "claim": "Youth graffiti and shoplifting records should disappear in America but caused permanent Canadian exclusion.",
+      "assessment": "Canadian admissibility depends on the offence, disposition, whether someone was treated as a young offender or adult, time and rehabilitation. Canada states that some people convicted under 18 may still enter; the episode's personal outcome does not establish a universal rule.",
+      "source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5312-rehabilitation-persons-inadmissible-canada-past-criminal-activity.html"
+    },
+    {
+      "t": 1155,
+      "claim": "Alaska's capital is Juneau.",
+      "assessment": "Correct public fact; it does not validate the surrounding sexual stereotypes or claimed flight.",
+      "source": "https://alaska.gov/Kids/learn/capitol.htm"
+    }
   ],
   "speaker_policy": {
     "status": "publisher labels retained; model-generated named turns withheld",
     "reason": "VICE's manual captions label David, Harry, Luis, Bernadette, Jerry, Grant and Andrew. Store only their exact captioned spans with acoustic_verified=false. Unlabeled narration, promises, pilot dialogue and adjacent responses do not inherit a name. Do not enroll private participants, infer Lummi identity, back-propagate Andrew to an earlier pilot, or use stereotyped sexuality as identity evidence. David/Harry candidate windows still require listening verification and channel-separated holdouts."
   },
   "content_warnings": [
-    {"t": 31, "warning": "suspected racial discrimination"},
-    {"t": 109, "warning": "sexual violence, explicit sex and anti-Black slur"},
-    {"t": 124, "warning": "freight hopping and railroad trespass"},
-    {"t": 174, "warning": "anti-Chinese slur and labor stereotype"},
-    {"t": 323, "warning": "weapons/drugs border inventory"},
-    {"t": 394, "warning": "graphic amputation account"},
-    {"t": 424, "warning": "alcohol and dangerous train boarding"},
-    {"t": 470, "warning": "actionable freight-hopping detail"},
-    {"t": 549, "warning": "juvenile conduct and border exclusion"},
-    {"t": 603, "warning": "terrorism reference and nationality hostility"},
-    {"t": 649, "warning": "irregular border crossing"},
-    {"t": 692, "warning": "homophobic slur and anti-Canadian song"},
-    {"t": 795, "warning": "mental-health medication disclosure"},
-    {"t": 806, "warning": "trunk concealment, stowaway and freight plans"},
-    {"t": 815, "warning": "racialized/anti-Muslim stereotype"},
-    {"t": 864, "warning": "roadside sleeping and hardship"},
-    {"t": 1092, "warning": "sexual-orientation stereotyping"},
-    {"t": 1103, "warning": "pregnancy and absent-partner disclosure"},
-    {"t": 1116, "warning": "invasive sexual questioning"},
-    {"t": 1192, "warning": "derogatory sexuality labels and unverified private flight"}
+    {
+      "t": 31,
+      "warning": "suspected racial discrimination"
+    },
+    {
+      "t": 109,
+      "warning": "sexual violence, explicit sex and anti-Black slur"
+    },
+    {
+      "t": 124,
+      "warning": "freight hopping and railroad trespass"
+    },
+    {
+      "t": 174,
+      "warning": "anti-Chinese slur and labor stereotype"
+    },
+    {
+      "t": 323,
+      "warning": "weapons/drugs border inventory"
+    },
+    {
+      "t": 394,
+      "warning": "graphic amputation account"
+    },
+    {
+      "t": 424,
+      "warning": "alcohol and dangerous train boarding"
+    },
+    {
+      "t": 470,
+      "warning": "actionable freight-hopping detail"
+    },
+    {
+      "t": 549,
+      "warning": "juvenile conduct and border exclusion"
+    },
+    {
+      "t": 603,
+      "warning": "terrorism reference and nationality hostility"
+    },
+    {
+      "t": 649,
+      "warning": "irregular border crossing"
+    },
+    {
+      "t": 692,
+      "warning": "homophobic slur and anti-Canadian song"
+    },
+    {
+      "t": 795,
+      "warning": "mental-health medication disclosure"
+    },
+    {
+      "t": 806,
+      "warning": "trunk concealment, stowaway and freight plans"
+    },
+    {
+      "t": 815,
+      "warning": "racialized/anti-Muslim stereotype"
+    },
+    {
+      "t": 864,
+      "warning": "roadside sleeping and hardship"
+    },
+    {
+      "t": 1092,
+      "warning": "sexual-orientation stereotyping"
+    },
+    {
+      "t": 1103,
+      "warning": "pregnancy and absent-partner disclosure"
+    },
+    {
+      "t": 1116,
+      "warning": "invasive sexual questioning"
+    },
+    {
+      "t": 1192,
+      "warning": "derogatory sexuality labels and unverified private flight"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every idea and literal source text; corrections and context remain separate."},
-    {"t": 11, "rule": "Publisher labels are exact-span source evidence only, never acoustic-model output."},
-    {"t": 31, "rule": "Do not identify the restaurant or staff from an unresolved motive allegation."},
-    {"t": 109, "rule": "Keep explicit/slur material contextual; exclude it from titles, thumbnails, autocomplete and default snippets."},
-    {"t": 124, "rule": "Do not turn car selection, line names, speeds or enforcement claims into freight-hopping instructions."},
-    {"t": 163, "rule": "Keep David's fact-check caveat attached to the railroad-history monologue."},
-    {"t": 238, "rule": "Do not claim a precise route or completed illegal ride without video/edit verification."},
-    {"t": 323, "rule": "Do not infer possession, legality or border tactics from the comic inventory."},
-    {"t": 384, "rule": "Keep Luis private; exclude surname, acquaintance and injury trail from discovery."},
-    {"t": 394, "rule": "Do not identify the amputee, incident or records from a secondhand account."},
-    {"t": 424, "rule": "Keep Luis's refusal and safety warning adjacent to David's pressure."},
-    {"t": 470, "rule": "Foreground danger and illegality; suppress operational freight details from summaries and snippets."},
-    {"t": 549, "rule": "Do not infer David's charges, disposition or complete juvenile record."},
-    {"t": 649, "rule": "Do not publish checkpoint, forest route, officers or actionable evasion details."},
-    {"t": 666, "rule": "Treat confiscated tapes and chase as first-person provenance claims; never invent missing footage."},
-    {"t": 692, "rule": "Keep the full anger→performance→apology sequence; do not use hostile lines as promotional copy."},
-    {"t": 795, "rule": "Do not infer diagnosis or medication name."},
-    {"t": 806, "rule": "Do not operationalize trunk concealment, stowaway, boat, train or informal-flight routes."},
-    {"t": 864, "rule": "Keep Bernadette and Jerry private; no faces, surnames, sleeping-site geolocation or homelessness label."},
-    {"t": 886, "rule": "Do not tag either traveler as Lummi or Indigenous from a question without a confirming answer."},
-    {"t": 1045, "rule": "Do not convert source-era venue mention into current location or pilot-contact guidance."},
-    {"t": 1063, "rule": "Keep Grant private; exclude absent partner, pregnancy, sexuality, family and pornography details from entity search."},
-    {"t": 1092, "rule": "Never label Grant, patrons, Andrew or another pilot's orientation from narrator stereotypes."},
-    {"t": 1194, "rule": "Do not identify pilot, aircraft, tail number, airport or route; source does not prove completed flight or arrival."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every idea and literal source text; corrections and context remain separate."
+    },
+    {
+      "t": 11,
+      "rule": "Publisher labels are exact-span source evidence only, never acoustic-model output."
+    },
+    {
+      "t": 31,
+      "rule": "Do not identify the restaurant or staff from an unresolved motive allegation."
+    },
+    {
+      "t": 109,
+      "rule": "Keep explicit/slur material contextual; exclude it from titles, thumbnails, autocomplete and default snippets."
+    },
+    {
+      "t": 124,
+      "rule": "Do not turn car selection, line names, speeds or enforcement claims into freight-hopping instructions."
+    },
+    {
+      "t": 163,
+      "rule": "Keep David's fact-check caveat attached to the railroad-history monologue."
+    },
+    {
+      "t": 238,
+      "rule": "Do not claim a precise route or completed illegal ride without video/edit verification."
+    },
+    {
+      "t": 323,
+      "rule": "Do not infer possession, legality or border tactics from the comic inventory."
+    },
+    {
+      "t": 384,
+      "rule": "Keep Luis private; exclude surname, acquaintance and injury trail from discovery."
+    },
+    {
+      "t": 394,
+      "rule": "Do not identify the amputee, incident or records from a secondhand account."
+    },
+    {
+      "t": 424,
+      "rule": "Keep Luis's refusal and safety warning adjacent to David's pressure."
+    },
+    {
+      "t": 470,
+      "rule": "Foreground danger and illegality; suppress operational freight details from summaries and snippets."
+    },
+    {
+      "t": 549,
+      "rule": "Do not infer David's charges, disposition or complete juvenile record."
+    },
+    {
+      "t": 649,
+      "rule": "Do not publish checkpoint, forest route, officers or actionable evasion details."
+    },
+    {
+      "t": 666,
+      "rule": "Treat confiscated tapes and chase as first-person provenance claims; never invent missing footage."
+    },
+    {
+      "t": 692,
+      "rule": "Keep the full anger→performance→apology sequence; do not use hostile lines as promotional copy."
+    },
+    {
+      "t": 795,
+      "rule": "Do not infer diagnosis or medication name."
+    },
+    {
+      "t": 806,
+      "rule": "Do not operationalize trunk concealment, stowaway, boat, train or informal-flight routes."
+    },
+    {
+      "t": 864,
+      "rule": "Keep Bernadette and Jerry private; no faces, surnames, sleeping-site geolocation or homelessness label."
+    },
+    {
+      "t": 886,
+      "rule": "Do not tag either traveler as Lummi or Indigenous from a question without a confirming answer."
+    },
+    {
+      "t": 1045,
+      "rule": "Do not convert source-era venue mention into current location or pilot-contact guidance."
+    },
+    {
+      "t": 1063,
+      "rule": "Keep Grant private; exclude absent partner, pregnancy, sexuality, family and pornography details from entity search."
+    },
+    {
+      "t": 1092,
+      "rule": "Never label Grant, patrons, Andrew or another pilot's orientation from narrator stereotypes."
+    },
+    {
+      "t": 1194,
+      "rule": "Do not identify pilot, aircraft, tail number, airport or route; source does not prove completed flight or arrival."
+    }
+  ],
+  "description": "Day Six begins with fatigue, a suspected-but-unproven restaurant rejection and a freight ride framed by an explicit sexual/racial text performance and David's admittedly uncertain account of Chinese railroad labor.",
+  "description_source": "Opening of the human-reviewed summary."
 }

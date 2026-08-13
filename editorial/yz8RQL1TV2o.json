@@ -3,55 +3,235 @@
   "title": "The Choe Show",
   "reviewed_on": "2026-08-01",
   "summary": "A 31-second clip whose two speech captions merge what appears to be a multi-speaker mother-roleplay or mother-comparison exchange. Recoverable ideas include one person doing things “like your mother,” another resisting “Do not be my mother,” reassurance (“not you, I love you”), accusation of acting a certain way, “I don’t need a mom,” “I don’t care,” an incomplete objection, and “How was your day?” The exact turn boundaries, identities, real relationship and damaged phrase “she will pursue” remain unresolved. No idea is removed; no family biography or therapeutic narrative is invented. Zero named turns and enrollment windows ship.",
-  "quality": {"raw_segments": 3, "clean_segments": 3, "raw_words_approx": 42, "clean_words_approx": 42, "duration_seconds": 31, "accepted_context_decisions": 10, "chapters": 10, "connections": 11, "content_warnings": 7, "identity_windows": 0, "named_turns": 0, "publisher_labeled_speakers": 0, "cleaning_edits": 1, "cleaning_net_word_delta": 0, "public_restriction_spans": 16},
-  "speaker_policy": {"status": "multi-speaker exchange detected; every line-level identity unresolved", "reason": "The two captions visibly merge several clauses and probable turns but provide no prefixes. Neither title nor semantic role proves a speaker."},
-  "people": ["unidentified speaker A", "unidentified speaker B", "mother (role/comparison only; not verified participant)"],
+  "quality": {
+    "raw_segments": 3,
+    "clean_segments": 3,
+    "raw_words_approx": 42,
+    "clean_words_approx": 42,
+    "duration_seconds": 31,
+    "accepted_context_decisions": 10,
+    "chapters": 10,
+    "connections": 11,
+    "content_warnings": 7,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 1,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 16
+  },
+  "speaker_policy": {
+    "status": "multi-speaker exchange detected; every line-level identity unresolved",
+    "reason": "The two captions visibly merge several clauses and probable turns but provide no prefixes. Neither title nor semantic role proves a speaker."
+  },
+  "people": [
+    "unidentified speaker A",
+    "unidentified speaker B",
+    "mother (role/comparison only; not verified participant)"
+  ],
   "places": [],
-  "works": ["The Choe Show"],
-  "themes": ["mother-roleplay", "boundary and resistance", "care and reassurance", "emotional conflict", "role confusion", "daily check-in", "merged captions"],
+  "works": [
+    "The Choe Show"
+  ],
+  "themes": [
+    "mother-roleplay",
+    "boundary and resistance",
+    "care and reassurance",
+    "emotional conflict",
+    "role confusion",
+    "daily check-in",
+    "merged captions"
+  ],
   "chapters": [
-    {"t": 0.03, "title": "doing everything “like your mother”"},
-    {"t": 0.04, "title": "“Do not be my mother” resistance"},
-    {"t": 0.05, "title": "“not you, I love you” reassurance"},
-    {"t": 0.06, "title": "accusation trails into merged caption"},
-    {"t": 7.32, "title": "“I don’t need a mom”"},
-    {"t": 7.33, "title": "“I don’t care”"},
-    {"t": 7.34, "title": "damaged “she will pursue” phrase"},
-    {"t": 7.35, "title": "incomplete objection"},
-    {"t": 7.36, "title": "“How was your day?”"},
-    {"t": 22.9, "title": "music"}
+    {
+      "t": 0.03,
+      "title": "doing everything “like your mother”"
+    },
+    {
+      "t": 0.04,
+      "title": "“Do not be my mother” resistance"
+    },
+    {
+      "t": 0.05,
+      "title": "“not you, I love you” reassurance"
+    },
+    {
+      "t": 0.06,
+      "title": "accusation trails into merged caption"
+    },
+    {
+      "t": 7.32,
+      "title": "“I don’t need a mom”"
+    },
+    {
+      "t": 7.33,
+      "title": "“I don’t care”"
+    },
+    {
+      "t": 7.34,
+      "title": "damaged “she will pursue” phrase"
+    },
+    {
+      "t": 7.35,
+      "title": "incomplete objection"
+    },
+    {
+      "t": 7.36,
+      "title": "“How was your day?”"
+    },
+    {
+      "t": 22.9,
+      "title": "music"
+    }
   ],
   "connections": [
-    {"t": 0.03, "to": "caregiving role", "relationship": "A speaker compares their actions to a mother’s."},
-    {"t": 0.04, "to": "explicit resistance", "relationship": "Another probable voice rejects being mothered."},
-    {"t": 0.05, "to": "reassurance", "relationship": "Love is stated amid the conflict."},
-    {"t": 0.06, "to": "behavior accusation", "relationship": "A clause beginning “you’re acting…” is cut across captions."},
-    {"t": 7.32, "to": "role rejection", "relationship": "A probable speaker says they do not need a mom."},
-    {"t": 7.33, "to": "emotional conflict", "relationship": "“I don’t care” sharpens the disagreement."},
-    {"t": 7.34, "to": "listening repair", "relationship": "“She will pursue” is too uncertain for semantic expansion."},
-    {"t": 7.35, "to": "objection", "relationship": "A speaker begins “Don’t say that about…” but the object is missing."},
-    {"t": 7.36, "to": "daily check-in", "relationship": "The exchange turns or cuts to “How was your day?”"},
-    {"t": 7.37, "to": "multi-speaker diarization", "relationship": "Semantic shifts suggest multiple turns but cannot prove their boundaries or identities."},
-    {"t": 22.9, "to": "music", "relationship": "The closing marker is non-speech."}
+    {
+      "t": 0.03,
+      "to": "caregiving role",
+      "relationship": "A speaker compares their actions to a mother’s."
+    },
+    {
+      "t": 0.04,
+      "to": "explicit resistance",
+      "relationship": "Another probable voice rejects being mothered."
+    },
+    {
+      "t": 0.05,
+      "to": "reassurance",
+      "relationship": "Love is stated amid the conflict."
+    },
+    {
+      "t": 0.06,
+      "to": "behavior accusation",
+      "relationship": "A clause beginning “you’re acting…” is cut across captions."
+    },
+    {
+      "t": 7.32,
+      "to": "role rejection",
+      "relationship": "A probable speaker says they do not need a mom."
+    },
+    {
+      "t": 7.33,
+      "to": "emotional conflict",
+      "relationship": "“I don’t care” sharpens the disagreement."
+    },
+    {
+      "t": 7.34,
+      "to": "listening repair",
+      "relationship": "“She will pursue” is too uncertain for semantic expansion."
+    },
+    {
+      "t": 7.35,
+      "to": "objection",
+      "relationship": "A speaker begins “Don’t say that about…” but the object is missing."
+    },
+    {
+      "t": 7.36,
+      "to": "daily check-in",
+      "relationship": "The exchange turns or cuts to “How was your day?”"
+    },
+    {
+      "t": 7.37,
+      "to": "multi-speaker diarization",
+      "relationship": "Semantic shifts suggest multiple turns but cannot prove their boundaries or identities."
+    },
+    {
+      "t": 22.9,
+      "to": "music",
+      "relationship": "The closing marker is non-speech."
+    }
   ],
-  "source_notes": ["Short upload titled The Choe Show.", "Automatic captions contain three records / 42 words or markers / 0:31.", "Only two records contain speech.", "Both speech records merge probable turns.", "No caption speaker prefix exists.", "Mother language may be roleplay, comparison, performance or real conversation.", "The line “Do not be my mother” is explicit resistance and must remain.", "“Oh, not you. I love you” is preserved without assigning an addressee.", "“I don’t need a mom” is preserved without making a biographical claim.", "“She will pursue” remains uncertain.", "“Don’t say that about…” remains incomplete.", "Music is excluded from speech.", "Raw captions remain immutable.", "Audiovisual listening is required for exact turn boundaries."],
-  "content_warnings": ["emotionally charged conflict", "family-role ambiguity", "explicit resistance", "merged multi-speaker captions", "speaker-attribution risk", "damaged language", "music/non-speech"],
+  "source_notes": [
+    "Short upload titled The Choe Show.",
+    "Automatic captions contain three records / 42 words or markers / 0:31.",
+    "Only two records contain speech.",
+    "Both speech records merge probable turns.",
+    "No caption speaker prefix exists.",
+    "Mother language may be roleplay, comparison, performance or real conversation.",
+    "The line “Do not be my mother” is explicit resistance and must remain.",
+    "“Oh, not you. I love you” is preserved without assigning an addressee.",
+    "“I don’t need a mom” is preserved without making a biographical claim.",
+    "“She will pursue” remains uncertain.",
+    "“Don’t say that about…” remains incomplete.",
+    "Music is excluded from speech.",
+    "Raw captions remain immutable.",
+    "Audiovisual listening is required for exact turn boundaries."
+  ],
+  "content_warnings": [
+    "emotionally charged conflict",
+    "family-role ambiguity",
+    "explicit resistance",
+    "merged multi-speaker captions",
+    "speaker-attribution risk",
+    "damaged language",
+    "music/non-speech"
+  ],
   "publication_restrictions": [
-    {"t": -0.06, "rule": "publish zero named turns"},
-    {"t": -0.05, "rule": "preserve every recoverable idea including resistance and conflict"},
-    {"t": -0.04, "rule": "do not convert mother-roleplay or comparison into verified biography"},
-    {"t": -0.03, "rule": "do not infer a real maternal relationship"},
-    {"t": -0.02, "rule": "do not infer consent, diagnosis or therapy"},
-    {"t": -0.01, "rule": "exclude merged fragments from voice enrollment"},
-    {"t": 0.03, "rule": "retain comparison without naming speaker"},
-    {"t": 0.04, "rule": "retain explicit resistance without softening"},
-    {"t": 0.05, "rule": "retain reassurance without inventing addressee"},
-    {"t": 0.06, "rule": "mark clause incomplete"},
-    {"t": 7.32, "rule": "do not merge probable voices into one coherent monologue"},
-    {"t": 7.33, "rule": "retain conflict language verbatim"},
-    {"t": 7.34, "rule": "keep “she will pursue” listening-required"},
-    {"t": 7.35, "rule": "do not supply the missing object"},
-    {"t": 7.36, "rule": "probable clause split does not establish speaker identity"},
-    {"t": 22.9, "rule": "exclude music marker from dialogue and word evidence"}
-  ]
+    {
+      "t": -0.06,
+      "rule": "publish zero named turns"
+    },
+    {
+      "t": -0.05,
+      "rule": "preserve every recoverable idea including resistance and conflict"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not convert mother-roleplay or comparison into verified biography"
+    },
+    {
+      "t": -0.03,
+      "rule": "do not infer a real maternal relationship"
+    },
+    {
+      "t": -0.02,
+      "rule": "do not infer consent, diagnosis or therapy"
+    },
+    {
+      "t": -0.01,
+      "rule": "exclude merged fragments from voice enrollment"
+    },
+    {
+      "t": 0.03,
+      "rule": "retain comparison without naming speaker"
+    },
+    {
+      "t": 0.04,
+      "rule": "retain explicit resistance without softening"
+    },
+    {
+      "t": 0.05,
+      "rule": "retain reassurance without inventing addressee"
+    },
+    {
+      "t": 0.06,
+      "rule": "mark clause incomplete"
+    },
+    {
+      "t": 7.32,
+      "rule": "do not merge probable voices into one coherent monologue"
+    },
+    {
+      "t": 7.33,
+      "rule": "retain conflict language verbatim"
+    },
+    {
+      "t": 7.34,
+      "rule": "keep “she will pursue” listening-required"
+    },
+    {
+      "t": 7.35,
+      "rule": "do not supply the missing object"
+    },
+    {
+      "t": 7.36,
+      "rule": "probable clause split does not establish speaker identity"
+    },
+    {
+      "t": 22.9,
+      "rule": "exclude music marker from dialogue and word evidence"
+    }
+  ],
+  "description": "A 31-second clip whose two speech captions merge what appears to be a multi-speaker mother-roleplay or mother-comparison exchange.",
+  "description_source": "Opening of the human-reviewed summary."
 }

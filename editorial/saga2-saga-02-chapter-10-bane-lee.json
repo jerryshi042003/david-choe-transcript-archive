@@ -1,28 +1,965 @@
 {
-  "episode_id":"saga2-saga-02-chapter-10-bane-lee",
-  "title":"Saga 2 Chapter 10 — Bane Lee",
-  "reviewed_on":"2026-07-31",
-  "summary":"A 2014/15-era group recording opening with damaged music, then moving through live menstruation and intimate-object fetishization, STI misinformation, Hawaii work travel, a pseudonymous turned-cheek kiss boundary, Macau video recollection, a proposed month-long paid girlfriend experience, Sizzler outreach, relationship/fan interference, coercive mail-order-bride rhetoric, proposed filmed therapy, Poon's abandoned art career, Mangchi/employment discussion, a changing-consent menstrual-underwear performance, trivia and a damaged science-fiction song. All source ideas remain. The editorial layer separates live bodily testimony, visual claims, private media, hypothetical fantasy, direct refusal, later assent, post-event response, medical misinformation, participant work testimony, unmade production proposals, power asymmetry, reconstructed dialogue and music. K and anonymous workers remain unresolved. Named turns remain withheld.",
-  "quality":{"raw_segments":2654,"clean_segments":2502,"raw_words_approx":18621,"clean_words_approx":18379,"duration_seconds":5532.78,"accepted_context_decisions":215,"chapters":82,"connections":24,"content_warnings":37,"identity_windows":0,"named_turns":0,"cleaning_edits":157,"cleaning_edits_accepted":157,"cleaning_net_word_delta":-242,"public_restriction_spans":69,"review_queue_suggestions":0,"review_queue_suggestions_accepted":0},
-  "speaker_policy":{"status":"withhold named dialogue","reason":"No validated held-out identity windows exist. Music, overlap, gesture-dependent bodily action, accented speech, private media and crowded pressure make text-only naming unsafe."},
-  "chapters":[
-    {"t":0,"title":"Damaged music intro"},{"t":187,"title":"Studio start and trivia threats"},{"t":281,"title":"Unexpected menstrual onset"},{"t":303,"title":"Zoom request and body display"},{"t":415,"title":"Smell pressure and repeated refusals"},{"t":504,"title":"Perfume reference"},{"t":529,"title":"Fart story and Saelee callback"},{"t":605,"title":"Tampon and Bane-mask hypothetical"},{"t":717,"title":"Sixteen Candles and birthday"},{"t":757,"title":"Intimate-object fantasy"},{"t":826,"title":"Toe socks and escalating hypotheticals"},{"t":973,"title":"Prior guest bathroom search"},{"t":1003,"title":"Tampon-trash prediction"},{"t":1052,"title":"Live scent interaction"},{"t":1103,"title":"Health-podcast setup"},{"t":1124,"title":"Condomless sex and no test"},{"t":1206,"title":"HIV, cancer and kids hypotheticals"},{"t":1297,"title":"Inherited-child scenario"},{"t":1399,"title":"Corporal-punishment debate"},{"t":1457,"title":"Childhood beating account"},{"t":1470,"title":"Oʻahu work trip"},{"t":1529,"title":"Club 939 rules"},{"t":1603,"title":"Hotel pigeon story"},{"t":1754,"title":"Namba-family chicken story"},{"t":1808,"title":"Ranch birds and turkey callback"},{"t":1902,"title":"Island-fever theory"},{"t":1947,"title":"Hawaii fans and performers"},{"t":1997,"title":"Zippy's and Spam musubi"},{"t":2024,"title":"Club-owner boundary testimony"},{"t":2042,"title":"K and the turned cheek"},{"t":2102,"title":"Coercive kissing advice"},{"t":2122,"title":"Reenactment refusals"},{"t":2240,"title":"Prior kissing and present consent"},{"t":2274,"title":"Real girlfriend experience"},{"t":2309,"title":"Macau as laboratory"},{"t":2381,"title":"Private threesome video claim"},{"t":2399,"title":"Age and climax speculation"},{"t":2438,"title":"Filmed-therapy proposal"},{"t":2499,"title":"Conversational girlfriend experience"},{"t":2556,"title":"Colombia and Critter origin"},{"t":2578,"title":"Escobar legend and beauty stereotypes"},{"t":2622,"title":"Procurement network claim"},{"t":2627,"title":"Month-long paid relationship proposal"},{"t":2713,"title":"Sizzler spokesperson outreach"},{"t":2806,"title":"Beyoncé and Popeyes legend"},{"t":2871,"title":"Fans and absent partner"},{"t":3028,"title":"Third-world partner rhetoric"},{"t":3052,"title":"Mail-order-bride stereotypes"},{"t":3214,"title":"Filmed human-experiment proposal"},{"t":3250,"title":"One hundred therapy sessions"},{"t":3294,"title":"Therapy history and readiness"},{"t":3332,"title":"Speculative blocked memory"},{"t":3403,"title":"Financing public therapy"},{"t":3470,"title":"Confidentiality and broadcast harm"},{"t":3503,"title":"Unblackmailable claim"},{"t":3521,"title":"Poon's art-career regret"},{"t":3561,"title":"Comic-book ambitions"},{"t":3624,"title":"Poon Report and nail persona"},{"t":3688,"title":"Prior naked-show images"},{"t":3751,"title":"Sexual travel hypotheticals"},{"t":3884,"title":"Public-therapy ethics revisited"},{"t":4000,"title":"Private Bible-study disclosure"},{"t":4043,"title":"Employment and creative dependence"},{"t":4077,"title":"KGB and band history"},{"t":4093,"title":"Money Mark mentorship"},{"t":4223,"title":"Du-par's date with air"},{"t":4318,"title":"Eleven-album critique"},{"t":4443,"title":"Mangchi growth and exposure"},{"t":4551,"title":"Album disagreement"},{"t":4596,"title":"Transportation and dependence"},{"t":4652,"title":"Therapy-show title brainstorm"},{"t":4678,"title":"Offensive code terms"},{"t":4707,"title":"Body-hair inspection"},{"t":4764,"title":"Bane underwear request"},{"t":4790,"title":"Partner and bodily reservations"},{"t":4870,"title":"Later removal and transfer"},{"t":4889,"title":"Bane performance"},{"t":5029,"title":"Imagined partner reaction"},{"t":5094,"title":"Trivia with Bobby"},{"t":5150,"title":"Underwear-smell trivia penalty"},{"t":5217,"title":"DVDASA close"},{"t":5374,"title":"Damaged science-fiction outro"}
+  "episode_id": "saga2-saga-02-chapter-10-bane-lee",
+  "title": "Saga 2 Chapter 10 — Bane Lee",
+  "reviewed_on": "2026-07-31",
+  "summary": "A 2014/15-era group recording opening with damaged music, then moving through live menstruation and intimate-object fetishization, STI misinformation, Hawaii work travel, a pseudonymous turned-cheek kiss boundary, Macau video recollection, a proposed month-long paid girlfriend experience, Sizzler outreach, relationship/fan interference, coercive mail-order-bride rhetoric, proposed filmed therapy, Poon's abandoned art career, Mangchi/employment discussion, a changing-consent menstrual-underwear performance, trivia and a damaged science-fiction song. All source ideas remain. The editorial layer separates live bodily testimony, visual claims, private media, hypothetical fantasy, direct refusal, later assent, post-event response, medical misinformation, participant work testimony, unmade production proposals, power asymmetry, reconstructed dialogue and music. K and anonymous workers remain unresolved. Named turns remain withheld.",
+  "quality": {
+    "raw_segments": 2654,
+    "clean_segments": 2502,
+    "raw_words_approx": 18621,
+    "clean_words_approx": 18379,
+    "duration_seconds": 5532.78,
+    "accepted_context_decisions": 215,
+    "chapters": 82,
+    "connections": 24,
+    "content_warnings": 37,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 157,
+    "cleaning_edits_accepted": 157,
+    "cleaning_net_word_delta": -242,
+    "public_restriction_spans": 69,
+    "review_queue_suggestions": 0,
+    "review_queue_suggestions_accepted": 0
+  },
+  "speaker_policy": {
+    "status": "withhold named dialogue",
+    "reason": "No validated held-out identity windows exist. Music, overlap, gesture-dependent bodily action, accented speech, private media and crowded pressure make text-only naming unsafe."
+  },
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Damaged music intro"
+    },
+    {
+      "t": 187,
+      "title": "Studio start and trivia threats"
+    },
+    {
+      "t": 281,
+      "title": "Unexpected menstrual onset"
+    },
+    {
+      "t": 303,
+      "title": "Zoom request and body display"
+    },
+    {
+      "t": 415,
+      "title": "Smell pressure and repeated refusals"
+    },
+    {
+      "t": 504,
+      "title": "Perfume reference"
+    },
+    {
+      "t": 529,
+      "title": "Fart story and Saelee callback"
+    },
+    {
+      "t": 605,
+      "title": "Tampon and Bane-mask hypothetical"
+    },
+    {
+      "t": 717,
+      "title": "Sixteen Candles and birthday"
+    },
+    {
+      "t": 757,
+      "title": "Intimate-object fantasy"
+    },
+    {
+      "t": 826,
+      "title": "Toe socks and escalating hypotheticals"
+    },
+    {
+      "t": 973,
+      "title": "Prior guest bathroom search"
+    },
+    {
+      "t": 1003,
+      "title": "Tampon-trash prediction"
+    },
+    {
+      "t": 1052,
+      "title": "Live scent interaction"
+    },
+    {
+      "t": 1103,
+      "title": "Health-podcast setup"
+    },
+    {
+      "t": 1124,
+      "title": "Condomless sex and no test"
+    },
+    {
+      "t": 1206,
+      "title": "HIV, cancer and kids hypotheticals"
+    },
+    {
+      "t": 1297,
+      "title": "Inherited-child scenario"
+    },
+    {
+      "t": 1399,
+      "title": "Corporal-punishment debate"
+    },
+    {
+      "t": 1457,
+      "title": "Childhood beating account"
+    },
+    {
+      "t": 1470,
+      "title": "Oʻahu work trip"
+    },
+    {
+      "t": 1529,
+      "title": "Club 939 rules"
+    },
+    {
+      "t": 1603,
+      "title": "Hotel pigeon story"
+    },
+    {
+      "t": 1754,
+      "title": "Namba-family chicken story"
+    },
+    {
+      "t": 1808,
+      "title": "Ranch birds and turkey callback"
+    },
+    {
+      "t": 1902,
+      "title": "Island-fever theory"
+    },
+    {
+      "t": 1947,
+      "title": "Hawaii fans and performers"
+    },
+    {
+      "t": 1997,
+      "title": "Zippy's and Spam musubi"
+    },
+    {
+      "t": 2024,
+      "title": "Club-owner boundary testimony"
+    },
+    {
+      "t": 2042,
+      "title": "K and the turned cheek"
+    },
+    {
+      "t": 2102,
+      "title": "Coercive kissing advice"
+    },
+    {
+      "t": 2122,
+      "title": "Reenactment refusals"
+    },
+    {
+      "t": 2240,
+      "title": "Prior kissing and present consent"
+    },
+    {
+      "t": 2274,
+      "title": "Real girlfriend experience"
+    },
+    {
+      "t": 2309,
+      "title": "Macau as laboratory"
+    },
+    {
+      "t": 2381,
+      "title": "Private threesome video claim"
+    },
+    {
+      "t": 2399,
+      "title": "Age and climax speculation"
+    },
+    {
+      "t": 2438,
+      "title": "Filmed-therapy proposal"
+    },
+    {
+      "t": 2499,
+      "title": "Conversational girlfriend experience"
+    },
+    {
+      "t": 2556,
+      "title": "Colombia and Critter origin"
+    },
+    {
+      "t": 2578,
+      "title": "Escobar legend and beauty stereotypes"
+    },
+    {
+      "t": 2622,
+      "title": "Procurement network claim"
+    },
+    {
+      "t": 2627,
+      "title": "Month-long paid relationship proposal"
+    },
+    {
+      "t": 2713,
+      "title": "Sizzler spokesperson outreach"
+    },
+    {
+      "t": 2806,
+      "title": "Beyoncé and Popeyes legend"
+    },
+    {
+      "t": 2871,
+      "title": "Fans and absent partner"
+    },
+    {
+      "t": 3028,
+      "title": "Third-world partner rhetoric"
+    },
+    {
+      "t": 3052,
+      "title": "Mail-order-bride stereotypes"
+    },
+    {
+      "t": 3214,
+      "title": "Filmed human-experiment proposal"
+    },
+    {
+      "t": 3250,
+      "title": "One hundred therapy sessions"
+    },
+    {
+      "t": 3294,
+      "title": "Therapy history and readiness"
+    },
+    {
+      "t": 3332,
+      "title": "Speculative blocked memory"
+    },
+    {
+      "t": 3403,
+      "title": "Financing public therapy"
+    },
+    {
+      "t": 3470,
+      "title": "Confidentiality and broadcast harm"
+    },
+    {
+      "t": 3503,
+      "title": "Unblackmailable claim"
+    },
+    {
+      "t": 3521,
+      "title": "Poon's art-career regret"
+    },
+    {
+      "t": 3561,
+      "title": "Comic-book ambitions"
+    },
+    {
+      "t": 3624,
+      "title": "Poon Report and nail persona"
+    },
+    {
+      "t": 3688,
+      "title": "Prior naked-show images"
+    },
+    {
+      "t": 3751,
+      "title": "Sexual travel hypotheticals"
+    },
+    {
+      "t": 3884,
+      "title": "Public-therapy ethics revisited"
+    },
+    {
+      "t": 4000,
+      "title": "Private Bible-study disclosure"
+    },
+    {
+      "t": 4043,
+      "title": "Employment and creative dependence"
+    },
+    {
+      "t": 4077,
+      "title": "KGB and band history"
+    },
+    {
+      "t": 4093,
+      "title": "Money Mark mentorship"
+    },
+    {
+      "t": 4223,
+      "title": "Du-par's date with air"
+    },
+    {
+      "t": 4318,
+      "title": "Eleven-album critique"
+    },
+    {
+      "t": 4443,
+      "title": "Mangchi growth and exposure"
+    },
+    {
+      "t": 4551,
+      "title": "Album disagreement"
+    },
+    {
+      "t": 4596,
+      "title": "Transportation and dependence"
+    },
+    {
+      "t": 4652,
+      "title": "Therapy-show title brainstorm"
+    },
+    {
+      "t": 4678,
+      "title": "Offensive code terms"
+    },
+    {
+      "t": 4707,
+      "title": "Body-hair inspection"
+    },
+    {
+      "t": 4764,
+      "title": "Bane underwear request"
+    },
+    {
+      "t": 4790,
+      "title": "Partner and bodily reservations"
+    },
+    {
+      "t": 4870,
+      "title": "Later removal and transfer"
+    },
+    {
+      "t": 4889,
+      "title": "Bane performance"
+    },
+    {
+      "t": 5029,
+      "title": "Imagined partner reaction"
+    },
+    {
+      "t": 5094,
+      "title": "Trivia with Bobby"
+    },
+    {
+      "t": 5150,
+      "title": "Underwear-smell trivia penalty"
+    },
+    {
+      "t": 5217,
+      "title": "DVDASA close"
+    },
+    {
+      "t": 5374,
+      "title": "Damaged science-fiction outro"
+    }
   ],
-  "connections":[
-    {"t":247,"to":"trivia-with-bobby","why":"Recurring closing format is threatened and later delivered."},{"t":504,"to":"perfume-story-of-a-murderer","why":"Film/novel character explains the smell comparison."},{"t":584,"to":"saelee-oh","why":"Prior fart-on-arm anecdote returns."},{"t":643,"to":"bane-title-origin","why":"Underwear worn like Bane's mask gives episode its title."},{"t":717,"to":"sixteen-candles","why":"Used-panties birthday reference invokes the film."},{"t":1124,"to":"numbered-worker-907","why":"Earlier condomless-sex account and testing gap recur."},{"t":1118,"to":"bacterial-vaginosis-discussion","why":"Health-podcast callback requires correction."},{"t":1457,"to":"childhood-violence","why":"Direct account follows hypothetical punishment debate."},{"t":1470,"to":"hawaii-work-travel","why":"Connects Club 939 and recurring performer appearances."},{"t":1808,"to":"ranch-bird-stories","why":"Wild turkeys and animal fear reconnect to Ranch sources."},{"t":2042,"to":"comic-con-k","why":"Pseudonymous relationship account follows Comic-Con."},{"t":2309,"to":"macau-trip","why":"Prior recorded group-sex trip becomes false laboratory metaphor."},{"t":2381,"to":"private-explicit-media","why":"Speaker says a video exists but rights remain unproved."},{"t":2438,"to":"later-therapy-arcs","why":"Prefigures later sex-addiction and treatment discussions."},{"t":2499,"to":"poon-tang-clan","why":"Running companion-show/persona idea."},{"t":2556,"to":"critter-medellin-origin","why":"Narrator recalls first meeting Critter as bodyguard."},{"t":2713,"to":"sizzler-bourdain-red-suit","why":"Claimed brand outreach connects food/travel work."},{"t":2871,"to":"fan-partner-interference","why":"Parasocial comments affect private relationships."},{"t":3214,"to":"unmade-gfe-project","why":"Proposed 30-day filmed relationship remains unrealized."},{"t":3403,"to":"therapy-as-content","why":"Public therapy proposal exposes consent and confidentiality risks."},{"t":3521,"to":"poon-art-career","why":"Direct creative regret and comic ambition."},{"t":4077,"to":"mangchi-prehistory","why":"KGB/fake band discussion leads into music collaboration."},{"t":4093,"to":"money-mark-mentorship","why":"Creative guidance and production identity recur."},{"t":5374,"to":"mangchi-song-corpus","why":"Damaged sci-fi outro needs music-source alignment."}
+  "connections": [
+    {
+      "t": 247,
+      "to": "trivia-with-bobby",
+      "why": "Recurring closing format is threatened and later delivered."
+    },
+    {
+      "t": 504,
+      "to": "perfume-story-of-a-murderer",
+      "why": "Film/novel character explains the smell comparison."
+    },
+    {
+      "t": 584,
+      "to": "saelee-oh",
+      "why": "Prior fart-on-arm anecdote returns."
+    },
+    {
+      "t": 643,
+      "to": "bane-title-origin",
+      "why": "Underwear worn like Bane's mask gives episode its title."
+    },
+    {
+      "t": 717,
+      "to": "sixteen-candles",
+      "why": "Used-panties birthday reference invokes the film."
+    },
+    {
+      "t": 1124,
+      "to": "numbered-worker-907",
+      "why": "Earlier condomless-sex account and testing gap recur."
+    },
+    {
+      "t": 1118,
+      "to": "bacterial-vaginosis-discussion",
+      "why": "Health-podcast callback requires correction."
+    },
+    {
+      "t": 1457,
+      "to": "childhood-violence",
+      "why": "Direct account follows hypothetical punishment debate."
+    },
+    {
+      "t": 1470,
+      "to": "hawaii-work-travel",
+      "why": "Connects Club 939 and recurring performer appearances."
+    },
+    {
+      "t": 1808,
+      "to": "ranch-bird-stories",
+      "why": "Wild turkeys and animal fear reconnect to Ranch sources."
+    },
+    {
+      "t": 2042,
+      "to": "comic-con-k",
+      "why": "Pseudonymous relationship account follows Comic-Con."
+    },
+    {
+      "t": 2309,
+      "to": "macau-trip",
+      "why": "Prior recorded group-sex trip becomes false laboratory metaphor."
+    },
+    {
+      "t": 2381,
+      "to": "private-explicit-media",
+      "why": "Speaker says a video exists but rights remain unproved."
+    },
+    {
+      "t": 2438,
+      "to": "later-therapy-arcs",
+      "why": "Prefigures later sex-addiction and treatment discussions."
+    },
+    {
+      "t": 2499,
+      "to": "poon-tang-clan",
+      "why": "Running companion-show/persona idea."
+    },
+    {
+      "t": 2556,
+      "to": "critter-medellin-origin",
+      "why": "Narrator recalls first meeting Critter as bodyguard."
+    },
+    {
+      "t": 2713,
+      "to": "sizzler-bourdain-red-suit",
+      "why": "Claimed brand outreach connects food/travel work."
+    },
+    {
+      "t": 2871,
+      "to": "fan-partner-interference",
+      "why": "Parasocial comments affect private relationships."
+    },
+    {
+      "t": 3214,
+      "to": "unmade-gfe-project",
+      "why": "Proposed 30-day filmed relationship remains unrealized."
+    },
+    {
+      "t": 3403,
+      "to": "therapy-as-content",
+      "why": "Public therapy proposal exposes consent and confidentiality risks."
+    },
+    {
+      "t": 3521,
+      "to": "poon-art-career",
+      "why": "Direct creative regret and comic ambition."
+    },
+    {
+      "t": 4077,
+      "to": "mangchi-prehistory",
+      "why": "KGB/fake band discussion leads into music collaboration."
+    },
+    {
+      "t": 4093,
+      "to": "money-mark-mentorship",
+      "why": "Creative guidance and production identity recur."
+    },
+    {
+      "t": 5374,
+      "to": "mangchi-song-corpus",
+      "why": "Damaged sci-fi outro needs music-source alignment."
+    }
   ],
-  "content_warnings":[
-    {"t":0,"warning":"damaged explicit music"},{"t":205,"warning":"graphic threats"},{"t":281,"warning":"menstruation and intimate body display"},{"t":303,"warning":"requested intimate camera zoom"},{"t":415,"warning":"sexualized smell pressure"},{"t":443,"warning":"repeated sexual requests and refusals"},{"t":588,"warning":"private video claim"},{"t":619,"warning":"menstrual-object fetishization"},{"t":777,"warning":"explicit category involving older adult"},{"t":881,"warning":"blood/feces sexual fantasy"},{"t":973,"warning":"bathroom/trash search after guests"},{"t":1052,"warning":"bodily-fluid contact and hygiene"},{"t":1124,"warning":"condomless sex and STI-testing gap"},{"t":1206,"warning":"HIV/AIDS/cancer jokes"},{"t":1297,"warning":"child-harm hypothetical"},{"t":1352,"warning":"sexualized fictional minor scenario"},{"t":1399,"warning":"corporal punishment"},{"t":1457,"warning":"direct childhood beating account"},{"t":1543,"warning":"sex-work/legal misinformation"},{"t":1754,"warning":"private family/minor story"},{"t":2042,"warning":"pseudonymous kiss boundary"},{"t":2102,"warning":"coercive kissing advice"},{"t":2381,"warning":"private explicit media"},{"t":2622,"warning":"sex-worker procurement claim"},{"t":2627,"warning":"paid filmed relationship proposal"},{"t":3028,"warning":"racist/classist stereotypes"},{"t":3080,"warning":"coercive-control advice"},{"t":3233,"warning":"economic and recording pressure"},{"t":3332,"warning":"speculative recovered trauma"},{"t":3470,"warning":"therapy confidentiality and family allegations"},{"t":3688,"warning":"nude image discussion"},{"t":3751,"warning":"sexual quid-pro-quo and slurs"},{"t":4000,"warning":"private religious/emotional disclosure"},{"t":4043,"warning":"employment power and sexual performance"},{"t":4764,"warning":"menstrual underwear negotiation"},{"t":4889,"warning":"bodily-fluid exposure on camera"},{"t":5150,"warning":"sexualized trivia penalty"}
+  "content_warnings": [
+    {
+      "t": 0,
+      "warning": "damaged explicit music"
+    },
+    {
+      "t": 205,
+      "warning": "graphic threats"
+    },
+    {
+      "t": 281,
+      "warning": "menstruation and intimate body display"
+    },
+    {
+      "t": 303,
+      "warning": "requested intimate camera zoom"
+    },
+    {
+      "t": 415,
+      "warning": "sexualized smell pressure"
+    },
+    {
+      "t": 443,
+      "warning": "repeated sexual requests and refusals"
+    },
+    {
+      "t": 588,
+      "warning": "private video claim"
+    },
+    {
+      "t": 619,
+      "warning": "menstrual-object fetishization"
+    },
+    {
+      "t": 777,
+      "warning": "explicit category involving older adult"
+    },
+    {
+      "t": 881,
+      "warning": "blood/feces sexual fantasy"
+    },
+    {
+      "t": 973,
+      "warning": "bathroom/trash search after guests"
+    },
+    {
+      "t": 1052,
+      "warning": "bodily-fluid contact and hygiene"
+    },
+    {
+      "t": 1124,
+      "warning": "condomless sex and STI-testing gap"
+    },
+    {
+      "t": 1206,
+      "warning": "HIV/AIDS/cancer jokes"
+    },
+    {
+      "t": 1297,
+      "warning": "child-harm hypothetical"
+    },
+    {
+      "t": 1352,
+      "warning": "sexualized fictional minor scenario"
+    },
+    {
+      "t": 1399,
+      "warning": "corporal punishment"
+    },
+    {
+      "t": 1457,
+      "warning": "direct childhood beating account"
+    },
+    {
+      "t": 1543,
+      "warning": "sex-work/legal misinformation"
+    },
+    {
+      "t": 1754,
+      "warning": "private family/minor story"
+    },
+    {
+      "t": 2042,
+      "warning": "pseudonymous kiss boundary"
+    },
+    {
+      "t": 2102,
+      "warning": "coercive kissing advice"
+    },
+    {
+      "t": 2381,
+      "warning": "private explicit media"
+    },
+    {
+      "t": 2622,
+      "warning": "sex-worker procurement claim"
+    },
+    {
+      "t": 2627,
+      "warning": "paid filmed relationship proposal"
+    },
+    {
+      "t": 3028,
+      "warning": "racist/classist stereotypes"
+    },
+    {
+      "t": 3080,
+      "warning": "coercive-control advice"
+    },
+    {
+      "t": 3233,
+      "warning": "economic and recording pressure"
+    },
+    {
+      "t": 3332,
+      "warning": "speculative recovered trauma"
+    },
+    {
+      "t": 3470,
+      "warning": "therapy confidentiality and family allegations"
+    },
+    {
+      "t": 3688,
+      "warning": "nude image discussion"
+    },
+    {
+      "t": 3751,
+      "warning": "sexual quid-pro-quo and slurs"
+    },
+    {
+      "t": 4000,
+      "warning": "private religious/emotional disclosure"
+    },
+    {
+      "t": 4043,
+      "warning": "employment power and sexual performance"
+    },
+    {
+      "t": 4764,
+      "warning": "menstrual underwear negotiation"
+    },
+    {
+      "t": 4889,
+      "warning": "bodily-fluid exposure on camera"
+    },
+    {
+      "t": 5150,
+      "warning": "sexualized trivia penalty"
+    }
   ],
-  "publication_restrictions":[
-    {"t":0,"rule":"Preserve speech; keep corrections and context separate."},{"t":0,"rule":"Withhold named line-level dialogue pending acoustic validation."},{"t":0,"rule":"Do not invent or translate damaged lyrics."},{"t":281,"rule":"No intimate frames, thumbnails or body-detail search previews."},{"t":303,"rule":"A request to zoom is not publication consent."},{"t":443,"rule":"Keep every no and please adjacent to repeated requests."},{"t":480,"rule":"Intimate items remain controlled by their owner."},{"t":588,"rule":"Do not expose or reconstruct private video."},{"t":619,"rule":"Hypothetical fantasy is not participant agreement."},{"t":777,"rule":"Suppress explicit category terms from discovery facets."},{"t":973,"rule":"Do not resolve or index prior guest identities from bathroom story."},{"t":981,"rule":"Do not normalize searching guest trash as consented conduct."},{"t":1052,"rule":"Require video for physical-contact claims; do not infer source of scent."},{"t":1094,"rule":"Direct refusal remains authoritative."},{"t":1124,"rule":"Never resolve numbered worker 907."},{"t":1139,"rule":"Do not surface false STI reassurance without correction."},{"t":1157,"rule":"State that many STIs can be asymptomatic and testing is required."},{"t":1206,"rule":"Do not render jokes as HIV risk guidance."},{"t":1297,"rule":"Fictional child scenario must not entity-link to a real minor."},{"t":1352,"rule":"Suppress sexualized-minor material from promotional snippets."},{"t":1399,"rule":"Do not present corporal punishment as advice."},{"t":1457,"rule":"Direct harm account remains attributed and private."},{"t":1529,"rule":"Do not expose appearance schedules or hotel details."},{"t":1543,"rule":"Disputed legal claim requires historical verification."},{"t":1754,"rule":"Do not expand private relatives or neighbor child identities."},{"t":1824,"rule":"Do not invent accented/overlapped bird instructions."},{"t":1971,"rule":"Keep ask-before-touching distinction."},{"t":2042,"rule":"K stays pseudonymous across all sources."},{"t":2077,"rule":"Turned cheek is a present boundary; do not infer internal desire."},{"t":2102,"rule":"Never surface coercive kissing technique as guidance."},{"t":2122,"rule":"No reenactment occurred after repeated refusals."},{"t":2240,"rule":"Prior kisses do not establish current consent."},{"t":2289,"rule":"Do not identify K through career-status clues."},{"t":2309,"rule":"Do not label sexual event as health research."},{"t":2381,"rule":"Private explicit media requires every participant's rights and consent."},{"t":2438,"rule":"Filmed therapy remains a proposal, not completed series."},{"t":2556,"rule":"Do not infer current address or workplace from Colombia references."},{"t":2622,"rule":"Do not entity-link named procurement claim without verified public evidence."},{"t":2627,"rule":"No worker, agreement or labor terms are established."},{"t":2648,"rule":"Label money concealment as economic/emotional power risk."},{"t":2713,"rule":"Brand outreach is self-report until verified."},{"t":2871,"rule":"Absent partner's thoughts and routines remain unverified/private."},{"t":2931,"rule":"Do not turn cast count claim into partner biography."},{"t":3028,"rule":"Do not expose stereotypes as recommendations."},{"t":3080,"rule":"Never normalize deprivation or isolation as relationship strategy."},{"t":3214,"rule":"Product status must read proposed/unmade."},{"t":3233,"rule":"Filming/payment do not establish informed, revocable consent."},{"t":3250,"rule":"One hundred sessions is a production proposal, not treatment advice."},{"t":3332,"rule":"Never promote vague suspicion as recovered memory or abuse allegation."},{"t":3347,"rule":"Willingness for therapy is not consent to film or publish."},{"t":3403,"rule":"Therapy requires private default and post-session publication choice."},{"t":3470,"rule":"Hypothetical family allegation must not entity-link to a real father."},{"t":3503,"rule":"Unblackmailable is not a privacy waiver."},{"t":3577,"rule":"Private artwork cannot be reproduced without permission."},{"t":3688,"rule":"No nude/body thumbnails or inferred person traits."},{"t":3751,"rule":"Hypothetical sexual exchange is not an actual offer or consent."},{"t":3786,"rule":"Preserve spoken slur in transcript but never use as identity taxonomy."},{"t":3795,"rule":"Do not treat banter as consent or safe-sex guidance."},{"t":4000,"rule":"Prior releases/cameras do not waive a specific request for privacy."},{"t":4043,"rule":"Employment, pay, housing, transport and sexual pressure require power badge."},{"t":4678,"rule":"Do not use slur-code terms as search facets."},{"t":4764,"rule":"Open explicit result with full request→reluctance→concerns→later assent sequence."},{"t":4870,"rule":"Later action does not erase earlier reluctance."},{"t":4889,"rule":"No menstrual/bodily-fluid visual assets in discovery."},{"t":4970,"rule":"Item transfer is not unlimited recording or publication consent."},{"t":5029,"rule":"Imagined partner dialogue is reenactment, not actual speech."},{"t":5150,"rule":"Do not infer universal participation in trivia penalty."},{"t":5238,"rule":"Do not display decoder repetitions as dialogue."},{"t":5374,"rule":"Do not publish uncertain outro lyrics as authoritative."}
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Preserve speech; keep corrections and context separate."
+    },
+    {
+      "t": 0,
+      "rule": "Withhold named line-level dialogue pending acoustic validation."
+    },
+    {
+      "t": 0,
+      "rule": "Do not invent or translate damaged lyrics."
+    },
+    {
+      "t": 281,
+      "rule": "No intimate frames, thumbnails or body-detail search previews."
+    },
+    {
+      "t": 303,
+      "rule": "A request to zoom is not publication consent."
+    },
+    {
+      "t": 443,
+      "rule": "Keep every no and please adjacent to repeated requests."
+    },
+    {
+      "t": 480,
+      "rule": "Intimate items remain controlled by their owner."
+    },
+    {
+      "t": 588,
+      "rule": "Do not expose or reconstruct private video."
+    },
+    {
+      "t": 619,
+      "rule": "Hypothetical fantasy is not participant agreement."
+    },
+    {
+      "t": 777,
+      "rule": "Suppress explicit category terms from discovery facets."
+    },
+    {
+      "t": 973,
+      "rule": "Do not resolve or index prior guest identities from bathroom story."
+    },
+    {
+      "t": 981,
+      "rule": "Do not normalize searching guest trash as consented conduct."
+    },
+    {
+      "t": 1052,
+      "rule": "Require video for physical-contact claims; do not infer source of scent."
+    },
+    {
+      "t": 1094,
+      "rule": "Direct refusal remains authoritative."
+    },
+    {
+      "t": 1124,
+      "rule": "Never resolve numbered worker 907."
+    },
+    {
+      "t": 1139,
+      "rule": "Do not surface false STI reassurance without correction."
+    },
+    {
+      "t": 1157,
+      "rule": "State that many STIs can be asymptomatic and testing is required."
+    },
+    {
+      "t": 1206,
+      "rule": "Do not render jokes as HIV risk guidance."
+    },
+    {
+      "t": 1297,
+      "rule": "Fictional child scenario must not entity-link to a real minor."
+    },
+    {
+      "t": 1352,
+      "rule": "Suppress sexualized-minor material from promotional snippets."
+    },
+    {
+      "t": 1399,
+      "rule": "Do not present corporal punishment as advice."
+    },
+    {
+      "t": 1457,
+      "rule": "Direct harm account remains attributed and private."
+    },
+    {
+      "t": 1529,
+      "rule": "Do not expose appearance schedules or hotel details."
+    },
+    {
+      "t": 1543,
+      "rule": "Disputed legal claim requires historical verification."
+    },
+    {
+      "t": 1754,
+      "rule": "Do not expand private relatives or neighbor child identities."
+    },
+    {
+      "t": 1824,
+      "rule": "Do not invent accented/overlapped bird instructions."
+    },
+    {
+      "t": 1971,
+      "rule": "Keep ask-before-touching distinction."
+    },
+    {
+      "t": 2042,
+      "rule": "K stays pseudonymous across all sources."
+    },
+    {
+      "t": 2077,
+      "rule": "Turned cheek is a present boundary; do not infer internal desire."
+    },
+    {
+      "t": 2102,
+      "rule": "Never surface coercive kissing technique as guidance."
+    },
+    {
+      "t": 2122,
+      "rule": "No reenactment occurred after repeated refusals."
+    },
+    {
+      "t": 2240,
+      "rule": "Prior kisses do not establish current consent."
+    },
+    {
+      "t": 2289,
+      "rule": "Do not identify K through career-status clues."
+    },
+    {
+      "t": 2309,
+      "rule": "Do not label sexual event as health research."
+    },
+    {
+      "t": 2381,
+      "rule": "Private explicit media requires every participant's rights and consent."
+    },
+    {
+      "t": 2438,
+      "rule": "Filmed therapy remains a proposal, not completed series."
+    },
+    {
+      "t": 2556,
+      "rule": "Do not infer current address or workplace from Colombia references."
+    },
+    {
+      "t": 2622,
+      "rule": "Do not entity-link named procurement claim without verified public evidence."
+    },
+    {
+      "t": 2627,
+      "rule": "No worker, agreement or labor terms are established."
+    },
+    {
+      "t": 2648,
+      "rule": "Label money concealment as economic/emotional power risk."
+    },
+    {
+      "t": 2713,
+      "rule": "Brand outreach is self-report until verified."
+    },
+    {
+      "t": 2871,
+      "rule": "Absent partner's thoughts and routines remain unverified/private."
+    },
+    {
+      "t": 2931,
+      "rule": "Do not turn cast count claim into partner biography."
+    },
+    {
+      "t": 3028,
+      "rule": "Do not expose stereotypes as recommendations."
+    },
+    {
+      "t": 3080,
+      "rule": "Never normalize deprivation or isolation as relationship strategy."
+    },
+    {
+      "t": 3214,
+      "rule": "Product status must read proposed/unmade."
+    },
+    {
+      "t": 3233,
+      "rule": "Filming/payment do not establish informed, revocable consent."
+    },
+    {
+      "t": 3250,
+      "rule": "One hundred sessions is a production proposal, not treatment advice."
+    },
+    {
+      "t": 3332,
+      "rule": "Never promote vague suspicion as recovered memory or abuse allegation."
+    },
+    {
+      "t": 3347,
+      "rule": "Willingness for therapy is not consent to film or publish."
+    },
+    {
+      "t": 3403,
+      "rule": "Therapy requires private default and post-session publication choice."
+    },
+    {
+      "t": 3470,
+      "rule": "Hypothetical family allegation must not entity-link to a real father."
+    },
+    {
+      "t": 3503,
+      "rule": "Unblackmailable is not a privacy waiver."
+    },
+    {
+      "t": 3577,
+      "rule": "Private artwork cannot be reproduced without permission."
+    },
+    {
+      "t": 3688,
+      "rule": "No nude/body thumbnails or inferred person traits."
+    },
+    {
+      "t": 3751,
+      "rule": "Hypothetical sexual exchange is not an actual offer or consent."
+    },
+    {
+      "t": 3786,
+      "rule": "Preserve spoken slur in transcript but never use as identity taxonomy."
+    },
+    {
+      "t": 3795,
+      "rule": "Do not treat banter as consent or safe-sex guidance."
+    },
+    {
+      "t": 4000,
+      "rule": "Prior releases/cameras do not waive a specific request for privacy."
+    },
+    {
+      "t": 4043,
+      "rule": "Employment, pay, housing, transport and sexual pressure require power badge."
+    },
+    {
+      "t": 4678,
+      "rule": "Do not use slur-code terms as search facets."
+    },
+    {
+      "t": 4764,
+      "rule": "Open explicit result with full request→reluctance→concerns→later assent sequence."
+    },
+    {
+      "t": 4870,
+      "rule": "Later action does not erase earlier reluctance."
+    },
+    {
+      "t": 4889,
+      "rule": "No menstrual/bodily-fluid visual assets in discovery."
+    },
+    {
+      "t": 4970,
+      "rule": "Item transfer is not unlimited recording or publication consent."
+    },
+    {
+      "t": 5029,
+      "rule": "Imagined partner dialogue is reenactment, not actual speech."
+    },
+    {
+      "t": 5150,
+      "rule": "Do not infer universal participation in trivia penalty."
+    },
+    {
+      "t": 5238,
+      "rule": "Do not display decoder repetitions as dialogue."
+    },
+    {
+      "t": 5374,
+      "rule": "Do not publish uncertain outro lyrics as authoritative."
+    }
   ],
-  "source_notes":[
-    {"t":1157,"claim":"Men know when they have an STI because symptoms appear.","assessment":"Many STIs can be asymptomatic; testing is required to determine status.","source":"https://www.cdc.gov/sti/about/index.html"},
-    {"t":1220,"claim":"HIV is no longer a death sentence and only requires medicine.","assessment":"Effective antiretroviral therapy can support long, healthy lives, but HIV remains a chronic infection requiring ongoing care and prevention.","source":"https://www.hiv.gov/hiv-basics/staying-in-hiv-care/hiv-treatment/hiv-treatment-overview"},
-    {"t":1431,"claim":"Young children only understand physical punishment.","assessment":"The episode offers this as opinion; major pediatric guidance advises against spanking and harsh physical punishment.","source":"https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Whats-the-Best-Way-to-Discipline-My-Child.aspx"},
-    {"t":1543,"claim":"Police could have sex with sex workers in Hawaii.","assessment":"This is disputed in the room and must be treated as an unverified historical/legal claim, not a present rule.","source":"https://www.capitol.hawaii.gov/session2014/bills/HB1926_CD1_.HTM"},
-    {"t":2102,"claim":"Holding someone's head prevents them turning away from a kiss.","assessment":"Physical technique cannot substitute for freely given present consent; a turned face and repeated no are boundaries.","source":"https://rainn.org/articles/what-is-consent"},
-    {"t":2627,"claim":"A paid month-long girlfriend experience can be a human experiment if both people know generally.","assessment":"The proposal lacks worker terms, independent consent, labor protections, privacy controls and publication revocation; it is not research or an agreed project.","source":"https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html"}
-  ]
+  "source_notes": [
+    {
+      "t": 1157,
+      "claim": "Men know when they have an STI because symptoms appear.",
+      "assessment": "Many STIs can be asymptomatic; testing is required to determine status.",
+      "source": "https://www.cdc.gov/sti/about/index.html"
+    },
+    {
+      "t": 1220,
+      "claim": "HIV is no longer a death sentence and only requires medicine.",
+      "assessment": "Effective antiretroviral therapy can support long, healthy lives, but HIV remains a chronic infection requiring ongoing care and prevention.",
+      "source": "https://www.hiv.gov/hiv-basics/staying-in-hiv-care/hiv-treatment/hiv-treatment-overview"
+    },
+    {
+      "t": 1431,
+      "claim": "Young children only understand physical punishment.",
+      "assessment": "The episode offers this as opinion; major pediatric guidance advises against spanking and harsh physical punishment.",
+      "source": "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Whats-the-Best-Way-to-Discipline-My-Child.aspx"
+    },
+    {
+      "t": 1543,
+      "claim": "Police could have sex with sex workers in Hawaii.",
+      "assessment": "This is disputed in the room and must be treated as an unverified historical/legal claim, not a present rule.",
+      "source": "https://www.capitol.hawaii.gov/session2014/bills/HB1926_CD1_.HTM"
+    },
+    {
+      "t": 2102,
+      "claim": "Holding someone's head prevents them turning away from a kiss.",
+      "assessment": "Physical technique cannot substitute for freely given present consent; a turned face and repeated no are boundaries.",
+      "source": "https://rainn.org/articles/what-is-consent"
+    },
+    {
+      "t": 2627,
+      "claim": "A paid month-long girlfriend experience can be a human experiment if both people know generally.",
+      "assessment": "The proposal lacks worker terms, independent consent, labor protections, privacy controls and publication revocation; it is not research or an agreed project.",
+      "source": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html"
+    }
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [
+    "Hawaii",
+    "Macau"
+  ],
+  "works": [
+    "Girlfriend Experience",
+    "Mangchi",
+    "Saga"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A 2014/15-era group recording opening with damaged music, then moving through live menstruation and intimate-object fetishization, STI misinformation, Hawaii work travel, a pseudonymous turned-cheek kiss boundary, Macau video recollection, a proposed month-long paid girlfriend experience, Sizzler outreach, relationship/fan interference, coercive mail-order-bride rhetoric, proposed filmed therapy, Poon's abandoned art career, Mangchi/employment discussion, a changing-consent menstrual-underwear performance, trivia and a damaged science-fiction song.",
+  "description_source": "Opening of the human-reviewed summary."
 }

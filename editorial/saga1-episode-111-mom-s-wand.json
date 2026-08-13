@@ -33,363 +33,1448 @@
   ],
   "speaker_policy": "The recording names recurring cast and public people, but only five coarse embeddings and zero diarized turns exist. These do not pass independently held-out multispeaker validation. Named dialogue remains withheld.",
   "chapters": [
-    {"t":0,"title":"Asa asked to stand"},
-    {"t":18,"title":"Granola and baklava"},
-    {"t":24,"title":"Outfit breakdown"},
-    {"t":75,"title":"Underwear ASR repair"},
-    {"t":87,"title":"Critter joins fashion critique"},
-    {"t":149,"title":"Porn-cover comparison"},
-    {"t":167,"title":"Irritated eye, not pink eye"},
-    {"t":198,"title":"Bobby leaves for post office"},
-    {"t":217,"title":"DVDASA introduction"},
-    {"t":223,"title":"Host-name repairs"},
-    {"t":231,"title":"Val the Validator"},
-    {"t":236,"title":"Critter introduced"},
-    {"t":253,"title":"Fast-food order"},
-    {"t":303,"title":"Diet contradiction"},
-    {"t":319,"title":"Post-office trip"},
-    {"t":328,"title":"Never coming back joke"},
-    {"t":361,"title":"David says I love you"},
-    {"t":370,"title":"Not-going-to-die reassurance"},
-    {"t":376,"title":"Family affection norms"},
-    {"t":388,"title":"Car-accident proximity claim"},
-    {"t":401,"title":"Do parents say love?"},
-    {"t":432,"title":"Spanish love language"},
-    {"t":457,"title":"Rat-study memory caveat"},
-    {"t":466,"title":"This American Life attribution"},
-    {"t":482,"title":"Rat anthropomorphism"},
-    {"t":497,"title":"Human-development leap"},
-    {"t":518,"title":"Body-memory theory"},
-    {"t":524,"title":"Talking-to-plants claim"},
-    {"t":540,"title":"Ableist parenting slur"},
-    {"t":554,"title":"David's affectionate mother"},
-    {"t":575,"title":"Dumb-porn-star stereotype"},
-    {"t":588,"title":"Asa and Sasha exceptions"},
-    {"t":598,"title":"Parental suicide hyperbole"},
-    {"t":606,"title":"Private recovery claim"},
-    {"t":625,"title":"Adult-performer stereotype expands"},
-    {"t":644,"title":"Childhood causation speculation"},
-    {"t":658,"title":"Asa reports normal childhood"},
-    {"t":669,"title":"Downloaded radio episodes"},
-    {"t":696,"title":"Hunters Point report"},
-    {"t":712,"title":"Racialized inner-city framing"},
-    {"t":723,"title":"Cognitive-skill theme"},
-    {"t":752,"title":"Homework requires safety"},
-    {"t":770,"title":"Chronic-threat discussion"},
-    {"t":780,"title":"Fight-or-flight analogy"},
-    {"t":829,"title":"Alcoholic-parent hypothetical"},
-    {"t":838,"title":"Graphic abuse examples"},
-    {"t":843,"title":"Survival-mode language"},
-    {"t":850,"title":"School behavior reinterpreted"},
-    {"t":867,"title":"David's callback memory"},
-    {"t":889,"title":"Losing story threads"},
-    {"t":896,"title":"Age timeline"},
-    {"t":907,"title":"Mercury-poisoning attribution"},
-    {"t":925,"title":"Five-to-seven-year decline"},
-    {"t":941,"title":"Cancer comparison rejected"},
-    {"t":955,"title":"Mushroom timeline"},
-    {"t":986,"title":"Searching for trauma"},
-    {"t":991,"title":"Gambling proposed as stressor"},
-    {"t":1024,"title":"High-stakes gambling"},
-    {"t":1035,"title":"Chip denominations"},
-    {"t":1050,"title":"Addiction named"},
-    {"t":1070,"title":"Casino-chip psychology"},
-    {"t":1108,"title":"Family-college hypothetical"},
-    {"t":1118,"title":"Post-Vegas collapse"},
-    {"t":1155,"title":"Blackout-drinking comparison"},
-    {"t":1255,"title":"Rough performance versus rape"},
-    {"t":1281,"title":"Unstable trivia fragment"},
-    {"t":1361,"title":"Traumatizing-job analogy"},
-    {"t":1379,"title":"Bad-hands gambling line"},
-    {"t":1483,"title":"Café Gratitude"},
-    {"t":1523,"title":"Whole Paycheck"},
-    {"t":1555,"title":"Eighty-dollar honey"},
-    {"t":1576,"title":"Absurd happy-bee joke"},
-    {"t":1613,"title":"Expensive gifts"},
-    {"t":1634,"title":"Jewish-friend stereotype"},
-    {"t":1656,"title":"Gambling stopped"},
-    {"t":1678,"title":"Can intelligence be trained?"},
-    {"t":1685,"title":"Brain-training game"},
-    {"t":1699,"title":"Reading as exercise"},
-    {"t":1717,"title":"Writing surprises writer"},
-    {"t":1763,"title":"Poon Report promoted"},
-    {"t":1770,"title":"Unspecified vitamins"},
-    {"t":1778,"title":"Maybe return to college"},
-    {"t":1800,"title":"Classes without degree"},
-    {"t":1810,"title":"Sexualized student fantasy"},
-    {"t":1823,"title":"Voyeuristic campus fantasy"},
-    {"t":1837,"title":"Harry ends partnership"},
-    {"t":1856,"title":"Sidekick boundary"},
-    {"t":1870,"title":"DVDASA and projects listed"},
-    {"t":1878,"title":"Varsity Blues callback"},
-    {"t":1893,"title":"Videotape embellishment"},
-    {"t":1921,"title":"Harry's accounting plan"},
-    {"t":1933,"title":"Degree uncertainty"},
-    {"t":1960,"title":"Brother correction"},
-    {"t":1970,"title":"Follow-Harry-to-school fantasy"},
-    {"t":2019,"title":"Dirty Hands title"},
-    {"t":2023,"title":"Filming described as traumatic"},
-    {"t":2037,"title":"Harry Kim"},
-    {"t":2043,"title":"Short-film title uncertainty"},
-    {"t":2061,"title":"Harry did nearly everything"},
-    {"t":2083,"title":"How dumb are we recap"},
-    {"t":2094,"title":"Critter and attention"},
-    {"t":2112,"title":"Learning Center slur corrected"},
-    {"t":2125,"title":"ESL placement"},
-    {"t":2162,"title":"Khalyla name repair"},
-    {"t":2176,"title":"Private learning disabilities"},
-    {"t":2185,"title":"Testing into ESL"},
-    {"t":2207,"title":"Dyslexia remains a question"},
-    {"t":2262,"title":"Speech therapy history"},
-    {"t":2275,"title":"Girlfriend wrote paper"},
-    {"t":2299,"title":"Private engineer clue"},
-    {"t":2301,"title":"Mexican-student stereotype"},
-    {"t":2330,"title":"Learning strengths"},
-    {"t":2344,"title":"Learning-styles claim"},
-    {"t":2370,"title":"Learning Center president joke"},
-    {"t":2401,"title":"Popularity ranking"},
-    {"t":2453,"title":"High-school behavior theory"},
-    {"t":2497,"title":"Revenge-of-nerd success"},
-    {"t":2563,"title":"Free podcast model"},
-    {"t":2585,"title":"Passion shines through"},
-    {"t":2609,"title":"Dark Dick works unpaid"},
-    {"t":2634,"title":"Guests' lives ruined hyperbole"},
-    {"t":2639,"title":"Episode 100 reunion idea"},
-    {"t":2651,"title":"Former KGB ensemble"},
-    {"t":2659,"title":"They do not want to return"},
-    {"t":2677,"title":"Consequences of exposure"},
-    {"t":2680,"title":"Limelight burns"},
-    {"t":2704,"title":"Every guest requested edits"},
-    {"t":2717,"title":"Bill tried to quit"},
-    {"t":2735,"title":"Desired reunion declined"},
-    {"t":2767,"title":"Critter wants payment"},
-    {"t":2771,"title":"Choe method"},
-    {"t":2775,"title":"Work-first philosophy"},
-    {"t":2792,"title":"Failures acknowledged"},
-    {"t":2830,"title":"Critter withholds private talk"},
-    {"t":2859,"title":"Bill's high school"},
-    {"t":2866,"title":"Glendale High"},
-    {"t":2876,"title":"Racism question"},
-    {"t":2891,"title":"Graduation-year ambiguity"},
-    {"t":2894,"title":"Nazi-flyer rumor"},
-    {"t":2909,"title":"Popularity score"},
-    {"t":2934,"title":"Perv scale"},
-    {"t":2947,"title":"Adolescent sex history"},
-    {"t":2952,"title":"Same-age-child clarification"},
-    {"t":2963,"title":"Critter's high-school partners"},
-    {"t":2974,"title":"Eighth-grade start"},
-    {"t":2997,"title":"Girls insulted"},
-    {"t":3034,"title":"Wealthy community correction"},
-    {"t":3051,"title":"Dreyer's and Breyers"},
-    {"t":3075,"title":"Trust-fund stereotype"},
-    {"t":3084,"title":"Asa's private school"},
-    {"t":3102,"title":"Prescription-drug peers"},
-    {"t":3115,"title":"Private child addiction allegation"},
-    {"t":3134,"title":"Future Ranch child"},
-    {"t":3160,"title":"Rich-child happiness claim"},
-    {"t":3184,"title":"Critter's mother travels"},
-    {"t":3206,"title":"Unsupervised childhood"},
-    {"t":3210,"title":"Father brings food"},
-    {"t":3229,"title":"David's sibling comparison"},
-    {"t":3241,"title":"Racial parenting stereotype"},
-    {"t":3275,"title":"Acid-in-basement stereotype"},
-    {"t":3291,"title":"Permissive-drinking causation"},
-    {"t":3306,"title":"Private peers' addiction"},
-    {"t":3313,"title":"Mother's Hong Kong trips"},
-    {"t":3342,"title":"Bi-coastal friend"},
-    {"t":3380,"title":"Name explicitly withheld"},
-    {"t":3384,"title":"Private friend `Jed`"},
-    {"t":3397,"title":"Bagged and boarded comics"},
-    {"t":3403,"title":"Cherry adult comic"},
-    {"t":3421,"title":"TMNT role-playing game"},
-    {"t":3432,"title":"What people don't discuss"},
-    {"t":3442,"title":"Viagra discussion"},
-    {"t":3455,"title":"Women and off-label Viagra"},
-    {"t":3460,"title":"Simplified physiology"},
-    {"t":3477,"title":"Anecdotal reports"},
-    {"t":3483,"title":"Hitachi Magic Wand"},
-    {"t":3497,"title":"Alias Jed"},
-    {"t":3503,"title":"Friend's mother's room"},
-    {"t":3508,"title":"Object initially misidentified"},
-    {"t":3524,"title":"Actually a back massager"},
-    {"t":3530,"title":"Adolescent insertion misconception"},
-    {"t":3534,"title":"Object handled without permission"},
-    {"t":3545,"title":"Private friend Sean"},
-    {"t":3573,"title":"Massager passed around"},
-    {"t":3590,"title":"Jed discovers group"},
-    {"t":3602,"title":"Racialized house conclusion"},
-    {"t":3633,"title":"Bill lived with another family"},
-    {"t":3650,"title":"Trauma prompt"},
-    {"t":3658,"title":"Mugged twice"},
-    {"t":3660,"title":"Bought a comic book"},
-    {"t":3673,"title":"Five assailants"},
-    {"t":3705,"title":"Mother's restaurant"},
-    {"t":3711,"title":"Magic Wand bonding idea"},
-    {"t":3716,"title":"Sex-or-drugs bonding fantasy"},
-    {"t":3726,"title":"Absent people proposed"},
-    {"t":3732,"title":"Orgy proposal"},
-    {"t":3750,"title":"Bill offer"},
-    {"t":3773,"title":"Arousal experiment"},
-    {"t":3777,"title":"Touch Critter's leg"},
-    {"t":3785,"title":"Critter says no"},
-    {"t":3793,"title":"Pressure after refusal"},
-    {"t":3813,"title":"Homophobic coercive teasing"},
-    {"t":3828,"title":"Val's Veracruz school"},
-    {"t":3873,"title":"Val's adolescent history"},
-    {"t":3916,"title":"New York sports exaggeration"},
-    {"t":3949,"title":"Breakfast Club"},
-    {"t":3959,"title":"Kids film"},
-    {"t":3967,"title":"AIDS-versus-boredom hypothetical"},
-    {"t":3976,"title":"Invented ten-year timeline"},
-    {"t":4027,"title":"HIV or AIDS?"},
-    {"t":4045,"title":"Suicide endpoint"},
-    {"t":4049,"title":"False deterministic progression"},
-    {"t":4054,"title":"AIDS island"},
-    {"t":4071,"title":"Horrible-death premise"},
-    {"t":4089,"title":"Boring alternative"},
-    {"t":4120,"title":"`Truth about women`"},
-    {"t":4122,"title":"Abuse-normalization claim"},
-    {"t":4127,"title":"Beating example"},
-    {"t":4173,"title":"False scientific appeal"},
-    {"t":4178,"title":"Rape-normalization rhetoric"},
-    {"t":4182,"title":"Boredom worse than AIDS"},
-    {"t":4195,"title":"Hot Chicks with Douchebags"},
-    {"t":4205,"title":"Abusive-partner stereotype"},
-    {"t":4217,"title":"Rehab anecdote"},
-    {"t":4230,"title":"`Real women` stereotype"},
-    {"t":4245,"title":"Asa's conflict pattern"},
-    {"t":4267,"title":"Parents as explanation"},
-    {"t":4272,"title":"Mommy/daddy-issues claim"},
-    {"t":4290,"title":"Parents fought"},
-    {"t":4300,"title":"Current relationship"},
-    {"t":4331,"title":"Abuse claim repeated"},
-    {"t":4348,"title":"Body-shaming hierarchy"},
-    {"t":4383,"title":"AIDS chosen again"},
-    {"t":4391,"title":"Gym routine"},
-    {"t":4446,"title":"Critter resembles father"},
-    {"t":4496,"title":"Mother comparison"},
-    {"t":4513,"title":"Mother `chose AIDS` metaphor"},
-    {"t":4535,"title":"Littering glorified"},
-    {"t":4560,"title":"Wrapper thrown from car"},
-    {"t":4594,"title":"AIDS answer remains fictional"},
-    {"t":4615,"title":"Bobby chooses"},
-    {"t":4621,"title":"Boredom answer"},
-    {"t":4671,"title":"Hypothetical challenged"},
-    {"t":4706,"title":"Montblanc callback"},
-    {"t":4717,"title":"Bonding fantasy repeats"},
-    {"t":4729,"title":"Hypotheticals as normality test"},
-    {"t":4739,"title":"Trivia request"},
-    {"t":4752,"title":"Do not discuss typed material"},
-    {"t":4781,"title":"Abrupt ending proposed"},
-    {"t":4809,"title":"Contract claim"},
-    {"t":4818,"title":"Bill asked to recap"},
-    {"t":4826,"title":"Memory section recapped"},
-    {"t":4855,"title":"Post-office recap"},
-    {"t":4875,"title":"Food-test callback"},
-    {"t":4898,"title":"Sci-Fi with Bill Poon"},
-    {"t":4909,"title":"Timeline self-correction"},
-    {"t":4937,"title":"Glendale Community College"},
-    {"t":4945,"title":"Platonic friends"},
-    {"t":4978,"title":"Mercenary protagonist"},
-    {"t":5003,"title":"Near-future uncertainty"},
-    {"t":5020,"title":"Year 2000"},
-    {"t":5040,"title":"Soldier for hire"},
-    {"t":5097,"title":"Two-sided war"},
-    {"t":5106,"title":"Corporate-sponsored conflict"},
-    {"t":5145,"title":"Bobby's sci-fi script"},
-    {"t":5176,"title":"Podcast in the future"},
-    {"t":5214,"title":"Star Wars title"},
-    {"t":5244,"title":"Silent Running"},
-    {"t":5251,"title":"Bruce Dern and forests"},
-    {"t":5268,"title":"Astronauts killed in film"},
-    {"t":5280,"title":"Huey, Dewey and Louie"},
-    {"t":5304,"title":"Uncertain sci-fi title"},
-    {"t":5315,"title":"Infinity Gauntlet"},
-    {"t":5337,"title":"Love finally returned"},
-    {"t":5361,"title":"Bobby reads script"},
-    {"t":5389,"title":"Psych-ward opening"},
-    {"t":5397,"title":"Future David stand-in"},
-    {"t":5419,"title":"Future Asa stand-in"},
-    {"t":5423,"title":"Future Val stand-in"},
-    {"t":5442,"title":"Future Bobby stand-in"},
-    {"t":5456,"title":"Future Critter stand-in"},
-    {"t":5475,"title":"Was that us?"},
-    {"t":5487,"title":"Future setting only"},
-    {"t":5515,"title":"DVDASA sign-off"},
-    {"t":5520,"title":"The Lego Movie repeats"},
-    {"t":5543,"title":"True Detective intro"},
-    {"t":5567,"title":"Unannounced big thing"},
-    {"t":5601,"title":"Guests praised"},
-    {"t":5617,"title":"Career-benefit overclaim"},
-    {"t":5623,"title":"Association anxiety dismissed"},
-    {"t":5653,"title":"Guest edit requests normalized"},
-    {"t":5662,"title":"Private classmates shouted out"},
-    {"t":5680,"title":"Middle-school peak"},
-    {"t":5706,"title":"Peers lost to drugs"},
-    {"t":5729,"title":"Fifth-grader joke"},
-    {"t":5757,"title":"Insatiable promoted"},
-    {"t":5769,"title":"RealDoll promotion"},
-    {"t":5782,"title":"Full-body scan"},
-    {"t":5792,"title":"San Diego molding schedule"},
-    {"t":5811,"title":"Objectifying access bit"},
-    {"t":5813,"title":"Exploit weak moment"},
-    {"t":5821,"title":"Past transactions invoked"},
-    {"t":5832,"title":"Wait till bored joke"},
-    {"t":5844,"title":"Porn-scene route"},
-    {"t":5846,"title":"No new performers boundary"},
-    {"t":5854,"title":"Mind-switch route"},
-    {"t":5868,"title":"Tony body premise"},
-    {"t":5887,"title":"RealDoll route"},
-    {"t":5896,"title":"Commercial likeness"},
-    {"t":5916,"title":"Wicked RealDoll"},
-    {"t":5918,"title":"Person versus product"},
-    {"t":5927,"title":"Silent doll comparison"},
-    {"t":5943,"title":"Book as mind/soul metaphor"},
-    {"t":5958,"title":"Asa name repaired"},
-    {"t":5965,"title":"Historical quoted price"},
-    {"t":5974,"title":"Doll customization"},
-    {"t":6025,"title":"Historical product slur"},
-    {"t":6045,"title":"Episode 110 callback"},
-    {"t":6063,"title":"Strap-on option"},
-    {"t":6068,"title":"David's watercolor book"},
-    {"t":6076,"title":"Publishers wanted changes"},
-    {"t":6079,"title":"Unedited claim"},
-    {"t":6087,"title":"Make uncomfortable art"},
-    {"t":6108,"title":"Family finding journals"},
-    {"t":6124,"title":"Real honesty claim"},
-    {"t":6152,"title":"DVDASA shop"},
-    {"t":6159,"title":"Dates address"},
-    {"t":6170,"title":"Poon Report"},
-    {"t":6176,"title":"DVDASA Tumblr"},
-    {"t":6180,"title":"Twice-weekly close"},
-    {"t":6225,"title":"Male doll inspected"},
-    {"t":6253,"title":"Only two today"},
-    {"t":6263,"title":"Private-investigator teaser"},
-    {"t":6266,"title":"Still recording?"},
-    {"t":6271,"title":"Darkest-before-dawn parody"},
-    {"t":6285,"title":"Final sign-off"}
+    {
+      "t": 0,
+      "title": "Asa asked to stand"
+    },
+    {
+      "t": 18,
+      "title": "Granola and baklava"
+    },
+    {
+      "t": 24,
+      "title": "Outfit breakdown"
+    },
+    {
+      "t": 75,
+      "title": "Underwear ASR repair"
+    },
+    {
+      "t": 87,
+      "title": "Critter joins fashion critique"
+    },
+    {
+      "t": 149,
+      "title": "Porn-cover comparison"
+    },
+    {
+      "t": 167,
+      "title": "Irritated eye, not pink eye"
+    },
+    {
+      "t": 198,
+      "title": "Bobby leaves for post office"
+    },
+    {
+      "t": 217,
+      "title": "DVDASA introduction"
+    },
+    {
+      "t": 223,
+      "title": "Host-name repairs"
+    },
+    {
+      "t": 231,
+      "title": "Val the Validator"
+    },
+    {
+      "t": 236,
+      "title": "Critter introduced"
+    },
+    {
+      "t": 253,
+      "title": "Fast-food order"
+    },
+    {
+      "t": 303,
+      "title": "Diet contradiction"
+    },
+    {
+      "t": 319,
+      "title": "Post-office trip"
+    },
+    {
+      "t": 328,
+      "title": "Never coming back joke"
+    },
+    {
+      "t": 361,
+      "title": "David says I love you"
+    },
+    {
+      "t": 370,
+      "title": "Not-going-to-die reassurance"
+    },
+    {
+      "t": 376,
+      "title": "Family affection norms"
+    },
+    {
+      "t": 388,
+      "title": "Car-accident proximity claim"
+    },
+    {
+      "t": 401,
+      "title": "Do parents say love?"
+    },
+    {
+      "t": 432,
+      "title": "Spanish love language"
+    },
+    {
+      "t": 457,
+      "title": "Rat-study memory caveat"
+    },
+    {
+      "t": 466,
+      "title": "This American Life attribution"
+    },
+    {
+      "t": 482,
+      "title": "Rat anthropomorphism"
+    },
+    {
+      "t": 497,
+      "title": "Human-development leap"
+    },
+    {
+      "t": 518,
+      "title": "Body-memory theory"
+    },
+    {
+      "t": 524,
+      "title": "Talking-to-plants claim"
+    },
+    {
+      "t": 540,
+      "title": "Ableist parenting slur"
+    },
+    {
+      "t": 554,
+      "title": "David's affectionate mother"
+    },
+    {
+      "t": 575,
+      "title": "Dumb-porn-star stereotype"
+    },
+    {
+      "t": 588,
+      "title": "Asa and Sasha exceptions"
+    },
+    {
+      "t": 598,
+      "title": "Parental suicide hyperbole"
+    },
+    {
+      "t": 606,
+      "title": "Private recovery claim"
+    },
+    {
+      "t": 625,
+      "title": "Adult-performer stereotype expands"
+    },
+    {
+      "t": 644,
+      "title": "Childhood causation speculation"
+    },
+    {
+      "t": 658,
+      "title": "Asa reports normal childhood"
+    },
+    {
+      "t": 669,
+      "title": "Downloaded radio episodes"
+    },
+    {
+      "t": 696,
+      "title": "Hunters Point report"
+    },
+    {
+      "t": 712,
+      "title": "Racialized inner-city framing"
+    },
+    {
+      "t": 723,
+      "title": "Cognitive-skill theme"
+    },
+    {
+      "t": 752,
+      "title": "Homework requires safety"
+    },
+    {
+      "t": 770,
+      "title": "Chronic-threat discussion"
+    },
+    {
+      "t": 780,
+      "title": "Fight-or-flight analogy"
+    },
+    {
+      "t": 829,
+      "title": "Alcoholic-parent hypothetical"
+    },
+    {
+      "t": 838,
+      "title": "Graphic abuse examples"
+    },
+    {
+      "t": 843,
+      "title": "Survival-mode language"
+    },
+    {
+      "t": 850,
+      "title": "School behavior reinterpreted"
+    },
+    {
+      "t": 867,
+      "title": "David's callback memory"
+    },
+    {
+      "t": 889,
+      "title": "Losing story threads"
+    },
+    {
+      "t": 896,
+      "title": "Age timeline"
+    },
+    {
+      "t": 907,
+      "title": "Mercury-poisoning attribution"
+    },
+    {
+      "t": 925,
+      "title": "Five-to-seven-year decline"
+    },
+    {
+      "t": 941,
+      "title": "Cancer comparison rejected"
+    },
+    {
+      "t": 955,
+      "title": "Mushroom timeline"
+    },
+    {
+      "t": 986,
+      "title": "Searching for trauma"
+    },
+    {
+      "t": 991,
+      "title": "Gambling proposed as stressor"
+    },
+    {
+      "t": 1024,
+      "title": "High-stakes gambling"
+    },
+    {
+      "t": 1035,
+      "title": "Chip denominations"
+    },
+    {
+      "t": 1050,
+      "title": "Addiction named"
+    },
+    {
+      "t": 1070,
+      "title": "Casino-chip psychology"
+    },
+    {
+      "t": 1108,
+      "title": "Family-college hypothetical"
+    },
+    {
+      "t": 1118,
+      "title": "Post-Vegas collapse"
+    },
+    {
+      "t": 1155,
+      "title": "Blackout-drinking comparison"
+    },
+    {
+      "t": 1255,
+      "title": "Rough performance versus rape"
+    },
+    {
+      "t": 1281,
+      "title": "Unstable trivia fragment"
+    },
+    {
+      "t": 1361,
+      "title": "Traumatizing-job analogy"
+    },
+    {
+      "t": 1379,
+      "title": "Bad-hands gambling line"
+    },
+    {
+      "t": 1483,
+      "title": "Café Gratitude"
+    },
+    {
+      "t": 1523,
+      "title": "Whole Paycheck"
+    },
+    {
+      "t": 1555,
+      "title": "Eighty-dollar honey"
+    },
+    {
+      "t": 1576,
+      "title": "Absurd happy-bee joke"
+    },
+    {
+      "t": 1613,
+      "title": "Expensive gifts"
+    },
+    {
+      "t": 1634,
+      "title": "Jewish-friend stereotype"
+    },
+    {
+      "t": 1656,
+      "title": "Gambling stopped"
+    },
+    {
+      "t": 1678,
+      "title": "Can intelligence be trained?"
+    },
+    {
+      "t": 1685,
+      "title": "Brain-training game"
+    },
+    {
+      "t": 1699,
+      "title": "Reading as exercise"
+    },
+    {
+      "t": 1717,
+      "title": "Writing surprises writer"
+    },
+    {
+      "t": 1763,
+      "title": "Poon Report promoted"
+    },
+    {
+      "t": 1770,
+      "title": "Unspecified vitamins"
+    },
+    {
+      "t": 1778,
+      "title": "Maybe return to college"
+    },
+    {
+      "t": 1800,
+      "title": "Classes without degree"
+    },
+    {
+      "t": 1810,
+      "title": "Sexualized student fantasy"
+    },
+    {
+      "t": 1823,
+      "title": "Voyeuristic campus fantasy"
+    },
+    {
+      "t": 1837,
+      "title": "Harry ends partnership"
+    },
+    {
+      "t": 1856,
+      "title": "Sidekick boundary"
+    },
+    {
+      "t": 1870,
+      "title": "DVDASA and projects listed"
+    },
+    {
+      "t": 1878,
+      "title": "Varsity Blues callback"
+    },
+    {
+      "t": 1893,
+      "title": "Videotape embellishment"
+    },
+    {
+      "t": 1921,
+      "title": "Harry's accounting plan"
+    },
+    {
+      "t": 1933,
+      "title": "Degree uncertainty"
+    },
+    {
+      "t": 1960,
+      "title": "Brother correction"
+    },
+    {
+      "t": 1970,
+      "title": "Follow-Harry-to-school fantasy"
+    },
+    {
+      "t": 2019,
+      "title": "Dirty Hands title"
+    },
+    {
+      "t": 2023,
+      "title": "Filming described as traumatic"
+    },
+    {
+      "t": 2037,
+      "title": "Harry Kim"
+    },
+    {
+      "t": 2043,
+      "title": "Short-film title uncertainty"
+    },
+    {
+      "t": 2061,
+      "title": "Harry did nearly everything"
+    },
+    {
+      "t": 2083,
+      "title": "How dumb are we recap"
+    },
+    {
+      "t": 2094,
+      "title": "Critter and attention"
+    },
+    {
+      "t": 2112,
+      "title": "Learning Center slur corrected"
+    },
+    {
+      "t": 2125,
+      "title": "ESL placement"
+    },
+    {
+      "t": 2162,
+      "title": "Khalyla name repair"
+    },
+    {
+      "t": 2176,
+      "title": "Private learning disabilities"
+    },
+    {
+      "t": 2185,
+      "title": "Testing into ESL"
+    },
+    {
+      "t": 2207,
+      "title": "Dyslexia remains a question"
+    },
+    {
+      "t": 2262,
+      "title": "Speech therapy history"
+    },
+    {
+      "t": 2275,
+      "title": "Girlfriend wrote paper"
+    },
+    {
+      "t": 2299,
+      "title": "Private engineer clue"
+    },
+    {
+      "t": 2301,
+      "title": "Mexican-student stereotype"
+    },
+    {
+      "t": 2330,
+      "title": "Learning strengths"
+    },
+    {
+      "t": 2344,
+      "title": "Learning-styles claim"
+    },
+    {
+      "t": 2370,
+      "title": "Learning Center president joke"
+    },
+    {
+      "t": 2401,
+      "title": "Popularity ranking"
+    },
+    {
+      "t": 2453,
+      "title": "High-school behavior theory"
+    },
+    {
+      "t": 2497,
+      "title": "Revenge-of-nerd success"
+    },
+    {
+      "t": 2563,
+      "title": "Free podcast model"
+    },
+    {
+      "t": 2585,
+      "title": "Passion shines through"
+    },
+    {
+      "t": 2609,
+      "title": "Dark Dick works unpaid"
+    },
+    {
+      "t": 2634,
+      "title": "Guests' lives ruined hyperbole"
+    },
+    {
+      "t": 2639,
+      "title": "Episode 100 reunion idea"
+    },
+    {
+      "t": 2651,
+      "title": "Former KGB ensemble"
+    },
+    {
+      "t": 2659,
+      "title": "They do not want to return"
+    },
+    {
+      "t": 2677,
+      "title": "Consequences of exposure"
+    },
+    {
+      "t": 2680,
+      "title": "Limelight burns"
+    },
+    {
+      "t": 2704,
+      "title": "Every guest requested edits"
+    },
+    {
+      "t": 2717,
+      "title": "Bill tried to quit"
+    },
+    {
+      "t": 2735,
+      "title": "Desired reunion declined"
+    },
+    {
+      "t": 2767,
+      "title": "Critter wants payment"
+    },
+    {
+      "t": 2771,
+      "title": "Choe method"
+    },
+    {
+      "t": 2775,
+      "title": "Work-first philosophy"
+    },
+    {
+      "t": 2792,
+      "title": "Failures acknowledged"
+    },
+    {
+      "t": 2830,
+      "title": "Critter withholds private talk"
+    },
+    {
+      "t": 2859,
+      "title": "Bill's high school"
+    },
+    {
+      "t": 2866,
+      "title": "Glendale High"
+    },
+    {
+      "t": 2876,
+      "title": "Racism question"
+    },
+    {
+      "t": 2891,
+      "title": "Graduation-year ambiguity"
+    },
+    {
+      "t": 2894,
+      "title": "Nazi-flyer rumor"
+    },
+    {
+      "t": 2909,
+      "title": "Popularity score"
+    },
+    {
+      "t": 2934,
+      "title": "Perv scale"
+    },
+    {
+      "t": 2947,
+      "title": "Adolescent sex history"
+    },
+    {
+      "t": 2952,
+      "title": "Same-age-child clarification"
+    },
+    {
+      "t": 2963,
+      "title": "Critter's high-school partners"
+    },
+    {
+      "t": 2974,
+      "title": "Eighth-grade start"
+    },
+    {
+      "t": 2997,
+      "title": "Girls insulted"
+    },
+    {
+      "t": 3034,
+      "title": "Wealthy community correction"
+    },
+    {
+      "t": 3051,
+      "title": "Dreyer's and Breyers"
+    },
+    {
+      "t": 3075,
+      "title": "Trust-fund stereotype"
+    },
+    {
+      "t": 3084,
+      "title": "Asa's private school"
+    },
+    {
+      "t": 3102,
+      "title": "Prescription-drug peers"
+    },
+    {
+      "t": 3115,
+      "title": "Private child addiction allegation"
+    },
+    {
+      "t": 3134,
+      "title": "Future Ranch child"
+    },
+    {
+      "t": 3160,
+      "title": "Rich-child happiness claim"
+    },
+    {
+      "t": 3184,
+      "title": "Critter's mother travels"
+    },
+    {
+      "t": 3206,
+      "title": "Unsupervised childhood"
+    },
+    {
+      "t": 3210,
+      "title": "Father brings food"
+    },
+    {
+      "t": 3229,
+      "title": "David's sibling comparison"
+    },
+    {
+      "t": 3241,
+      "title": "Racial parenting stereotype"
+    },
+    {
+      "t": 3275,
+      "title": "Acid-in-basement stereotype"
+    },
+    {
+      "t": 3291,
+      "title": "Permissive-drinking causation"
+    },
+    {
+      "t": 3306,
+      "title": "Private peers' addiction"
+    },
+    {
+      "t": 3313,
+      "title": "Mother's Hong Kong trips"
+    },
+    {
+      "t": 3342,
+      "title": "Bi-coastal friend"
+    },
+    {
+      "t": 3380,
+      "title": "Name explicitly withheld"
+    },
+    {
+      "t": 3384,
+      "title": "Private friend `Jed`"
+    },
+    {
+      "t": 3397,
+      "title": "Bagged and boarded comics"
+    },
+    {
+      "t": 3403,
+      "title": "Cherry adult comic"
+    },
+    {
+      "t": 3421,
+      "title": "TMNT role-playing game"
+    },
+    {
+      "t": 3432,
+      "title": "What people don't discuss"
+    },
+    {
+      "t": 3442,
+      "title": "Viagra discussion"
+    },
+    {
+      "t": 3455,
+      "title": "Women and off-label Viagra"
+    },
+    {
+      "t": 3460,
+      "title": "Simplified physiology"
+    },
+    {
+      "t": 3477,
+      "title": "Anecdotal reports"
+    },
+    {
+      "t": 3483,
+      "title": "Hitachi Magic Wand"
+    },
+    {
+      "t": 3497,
+      "title": "Alias Jed"
+    },
+    {
+      "t": 3503,
+      "title": "Friend's mother's room"
+    },
+    {
+      "t": 3508,
+      "title": "Object initially misidentified"
+    },
+    {
+      "t": 3524,
+      "title": "Actually a back massager"
+    },
+    {
+      "t": 3530,
+      "title": "Adolescent insertion misconception"
+    },
+    {
+      "t": 3534,
+      "title": "Object handled without permission"
+    },
+    {
+      "t": 3545,
+      "title": "Private friend Sean"
+    },
+    {
+      "t": 3573,
+      "title": "Massager passed around"
+    },
+    {
+      "t": 3590,
+      "title": "Jed discovers group"
+    },
+    {
+      "t": 3602,
+      "title": "Racialized house conclusion"
+    },
+    {
+      "t": 3633,
+      "title": "Bill lived with another family"
+    },
+    {
+      "t": 3650,
+      "title": "Trauma prompt"
+    },
+    {
+      "t": 3658,
+      "title": "Mugged twice"
+    },
+    {
+      "t": 3660,
+      "title": "Bought a comic book"
+    },
+    {
+      "t": 3673,
+      "title": "Five assailants"
+    },
+    {
+      "t": 3705,
+      "title": "Mother's restaurant"
+    },
+    {
+      "t": 3711,
+      "title": "Magic Wand bonding idea"
+    },
+    {
+      "t": 3716,
+      "title": "Sex-or-drugs bonding fantasy"
+    },
+    {
+      "t": 3726,
+      "title": "Absent people proposed"
+    },
+    {
+      "t": 3732,
+      "title": "Orgy proposal"
+    },
+    {
+      "t": 3750,
+      "title": "Bill offer"
+    },
+    {
+      "t": 3773,
+      "title": "Arousal experiment"
+    },
+    {
+      "t": 3777,
+      "title": "Touch Critter's leg"
+    },
+    {
+      "t": 3785,
+      "title": "Critter says no"
+    },
+    {
+      "t": 3793,
+      "title": "Pressure after refusal"
+    },
+    {
+      "t": 3813,
+      "title": "Homophobic coercive teasing"
+    },
+    {
+      "t": 3828,
+      "title": "Val's Veracruz school"
+    },
+    {
+      "t": 3873,
+      "title": "Val's adolescent history"
+    },
+    {
+      "t": 3916,
+      "title": "New York sports exaggeration"
+    },
+    {
+      "t": 3949,
+      "title": "Breakfast Club"
+    },
+    {
+      "t": 3959,
+      "title": "Kids film"
+    },
+    {
+      "t": 3967,
+      "title": "AIDS-versus-boredom hypothetical"
+    },
+    {
+      "t": 3976,
+      "title": "Invented ten-year timeline"
+    },
+    {
+      "t": 4027,
+      "title": "HIV or AIDS?"
+    },
+    {
+      "t": 4045,
+      "title": "Suicide endpoint"
+    },
+    {
+      "t": 4049,
+      "title": "False deterministic progression"
+    },
+    {
+      "t": 4054,
+      "title": "AIDS island"
+    },
+    {
+      "t": 4071,
+      "title": "Horrible-death premise"
+    },
+    {
+      "t": 4089,
+      "title": "Boring alternative"
+    },
+    {
+      "t": 4120,
+      "title": "`Truth about women`"
+    },
+    {
+      "t": 4122,
+      "title": "Abuse-normalization claim"
+    },
+    {
+      "t": 4127,
+      "title": "Beating example"
+    },
+    {
+      "t": 4173,
+      "title": "False scientific appeal"
+    },
+    {
+      "t": 4178,
+      "title": "Rape-normalization rhetoric"
+    },
+    {
+      "t": 4182,
+      "title": "Boredom worse than AIDS"
+    },
+    {
+      "t": 4195,
+      "title": "Hot Chicks with Douchebags"
+    },
+    {
+      "t": 4205,
+      "title": "Abusive-partner stereotype"
+    },
+    {
+      "t": 4217,
+      "title": "Rehab anecdote"
+    },
+    {
+      "t": 4230,
+      "title": "`Real women` stereotype"
+    },
+    {
+      "t": 4245,
+      "title": "Asa's conflict pattern"
+    },
+    {
+      "t": 4267,
+      "title": "Parents as explanation"
+    },
+    {
+      "t": 4272,
+      "title": "Mommy/daddy-issues claim"
+    },
+    {
+      "t": 4290,
+      "title": "Parents fought"
+    },
+    {
+      "t": 4300,
+      "title": "Current relationship"
+    },
+    {
+      "t": 4331,
+      "title": "Abuse claim repeated"
+    },
+    {
+      "t": 4348,
+      "title": "Body-shaming hierarchy"
+    },
+    {
+      "t": 4383,
+      "title": "AIDS chosen again"
+    },
+    {
+      "t": 4391,
+      "title": "Gym routine"
+    },
+    {
+      "t": 4446,
+      "title": "Critter resembles father"
+    },
+    {
+      "t": 4496,
+      "title": "Mother comparison"
+    },
+    {
+      "t": 4513,
+      "title": "Mother `chose AIDS` metaphor"
+    },
+    {
+      "t": 4535,
+      "title": "Littering glorified"
+    },
+    {
+      "t": 4560,
+      "title": "Wrapper thrown from car"
+    },
+    {
+      "t": 4594,
+      "title": "AIDS answer remains fictional"
+    },
+    {
+      "t": 4615,
+      "title": "Bobby chooses"
+    },
+    {
+      "t": 4621,
+      "title": "Boredom answer"
+    },
+    {
+      "t": 4671,
+      "title": "Hypothetical challenged"
+    },
+    {
+      "t": 4706,
+      "title": "Montblanc callback"
+    },
+    {
+      "t": 4717,
+      "title": "Bonding fantasy repeats"
+    },
+    {
+      "t": 4729,
+      "title": "Hypotheticals as normality test"
+    },
+    {
+      "t": 4739,
+      "title": "Trivia request"
+    },
+    {
+      "t": 4752,
+      "title": "Do not discuss typed material"
+    },
+    {
+      "t": 4781,
+      "title": "Abrupt ending proposed"
+    },
+    {
+      "t": 4809,
+      "title": "Contract claim"
+    },
+    {
+      "t": 4818,
+      "title": "Bill asked to recap"
+    },
+    {
+      "t": 4826,
+      "title": "Memory section recapped"
+    },
+    {
+      "t": 4855,
+      "title": "Post-office recap"
+    },
+    {
+      "t": 4875,
+      "title": "Food-test callback"
+    },
+    {
+      "t": 4898,
+      "title": "Sci-Fi with Bill Poon"
+    },
+    {
+      "t": 4909,
+      "title": "Timeline self-correction"
+    },
+    {
+      "t": 4937,
+      "title": "Glendale Community College"
+    },
+    {
+      "t": 4945,
+      "title": "Platonic friends"
+    },
+    {
+      "t": 4978,
+      "title": "Mercenary protagonist"
+    },
+    {
+      "t": 5003,
+      "title": "Near-future uncertainty"
+    },
+    {
+      "t": 5020,
+      "title": "Year 2000"
+    },
+    {
+      "t": 5040,
+      "title": "Soldier for hire"
+    },
+    {
+      "t": 5097,
+      "title": "Two-sided war"
+    },
+    {
+      "t": 5106,
+      "title": "Corporate-sponsored conflict"
+    },
+    {
+      "t": 5145,
+      "title": "Bobby's sci-fi script"
+    },
+    {
+      "t": 5176,
+      "title": "Podcast in the future"
+    },
+    {
+      "t": 5214,
+      "title": "Star Wars title"
+    },
+    {
+      "t": 5244,
+      "title": "Silent Running"
+    },
+    {
+      "t": 5251,
+      "title": "Bruce Dern and forests"
+    },
+    {
+      "t": 5268,
+      "title": "Astronauts killed in film"
+    },
+    {
+      "t": 5280,
+      "title": "Huey, Dewey and Louie"
+    },
+    {
+      "t": 5304,
+      "title": "Uncertain sci-fi title"
+    },
+    {
+      "t": 5315,
+      "title": "Infinity Gauntlet"
+    },
+    {
+      "t": 5337,
+      "title": "Love finally returned"
+    },
+    {
+      "t": 5361,
+      "title": "Bobby reads script"
+    },
+    {
+      "t": 5389,
+      "title": "Psych-ward opening"
+    },
+    {
+      "t": 5397,
+      "title": "Future David stand-in"
+    },
+    {
+      "t": 5419,
+      "title": "Future Asa stand-in"
+    },
+    {
+      "t": 5423,
+      "title": "Future Val stand-in"
+    },
+    {
+      "t": 5442,
+      "title": "Future Bobby stand-in"
+    },
+    {
+      "t": 5456,
+      "title": "Future Critter stand-in"
+    },
+    {
+      "t": 5475,
+      "title": "Was that us?"
+    },
+    {
+      "t": 5487,
+      "title": "Future setting only"
+    },
+    {
+      "t": 5515,
+      "title": "DVDASA sign-off"
+    },
+    {
+      "t": 5520,
+      "title": "The Lego Movie repeats"
+    },
+    {
+      "t": 5543,
+      "title": "True Detective intro"
+    },
+    {
+      "t": 5567,
+      "title": "Unannounced big thing"
+    },
+    {
+      "t": 5601,
+      "title": "Guests praised"
+    },
+    {
+      "t": 5617,
+      "title": "Career-benefit overclaim"
+    },
+    {
+      "t": 5623,
+      "title": "Association anxiety dismissed"
+    },
+    {
+      "t": 5653,
+      "title": "Guest edit requests normalized"
+    },
+    {
+      "t": 5662,
+      "title": "Private classmates shouted out"
+    },
+    {
+      "t": 5680,
+      "title": "Middle-school peak"
+    },
+    {
+      "t": 5706,
+      "title": "Peers lost to drugs"
+    },
+    {
+      "t": 5729,
+      "title": "Fifth-grader joke"
+    },
+    {
+      "t": 5757,
+      "title": "Insatiable promoted"
+    },
+    {
+      "t": 5769,
+      "title": "RealDoll promotion"
+    },
+    {
+      "t": 5782,
+      "title": "Full-body scan"
+    },
+    {
+      "t": 5792,
+      "title": "San Diego molding schedule"
+    },
+    {
+      "t": 5811,
+      "title": "Objectifying access bit"
+    },
+    {
+      "t": 5813,
+      "title": "Exploit weak moment"
+    },
+    {
+      "t": 5821,
+      "title": "Past transactions invoked"
+    },
+    {
+      "t": 5832,
+      "title": "Wait till bored joke"
+    },
+    {
+      "t": 5844,
+      "title": "Porn-scene route"
+    },
+    {
+      "t": 5846,
+      "title": "No new performers boundary"
+    },
+    {
+      "t": 5854,
+      "title": "Mind-switch route"
+    },
+    {
+      "t": 5868,
+      "title": "Tony body premise"
+    },
+    {
+      "t": 5887,
+      "title": "RealDoll route"
+    },
+    {
+      "t": 5896,
+      "title": "Commercial likeness"
+    },
+    {
+      "t": 5916,
+      "title": "Wicked RealDoll"
+    },
+    {
+      "t": 5918,
+      "title": "Person versus product"
+    },
+    {
+      "t": 5927,
+      "title": "Silent doll comparison"
+    },
+    {
+      "t": 5943,
+      "title": "Book as mind/soul metaphor"
+    },
+    {
+      "t": 5958,
+      "title": "Asa name repaired"
+    },
+    {
+      "t": 5965,
+      "title": "Historical quoted price"
+    },
+    {
+      "t": 5974,
+      "title": "Doll customization"
+    },
+    {
+      "t": 6025,
+      "title": "Historical product slur"
+    },
+    {
+      "t": 6045,
+      "title": "Episode 110 callback"
+    },
+    {
+      "t": 6063,
+      "title": "Strap-on option"
+    },
+    {
+      "t": 6068,
+      "title": "David's watercolor book"
+    },
+    {
+      "t": 6076,
+      "title": "Publishers wanted changes"
+    },
+    {
+      "t": 6079,
+      "title": "Unedited claim"
+    },
+    {
+      "t": 6087,
+      "title": "Make uncomfortable art"
+    },
+    {
+      "t": 6108,
+      "title": "Family finding journals"
+    },
+    {
+      "t": 6124,
+      "title": "Real honesty claim"
+    },
+    {
+      "t": 6152,
+      "title": "DVDASA shop"
+    },
+    {
+      "t": 6159,
+      "title": "Dates address"
+    },
+    {
+      "t": 6170,
+      "title": "Poon Report"
+    },
+    {
+      "t": 6176,
+      "title": "DVDASA Tumblr"
+    },
+    {
+      "t": 6180,
+      "title": "Twice-weekly close"
+    },
+    {
+      "t": 6225,
+      "title": "Male doll inspected"
+    },
+    {
+      "t": 6253,
+      "title": "Only two today"
+    },
+    {
+      "t": 6263,
+      "title": "Private-investigator teaser"
+    },
+    {
+      "t": 6266,
+      "title": "Still recording?"
+    },
+    {
+      "t": 6271,
+      "title": "Darkest-before-dawn parody"
+    },
+    {
+      "t": 6285,
+      "title": "Final sign-off"
+    }
   ],
   "connections": [
-    {"t":167,"to":"Episode 110 eye-irritation opening","why":"Asa again explicitly corrects the cast's pink-eye label."},
-    {"t":466,"to":"This American Life","why":"David repeatedly uses an incompletely remembered radio episode as the scaffold for developmental claims."},
-    {"t":907,"to":"David Choe health timeline","why":"The memory narrative returns to self-attributed mercury poisoning and later high-stakes gambling."},
-    {"t":997,"to":"Harry Kim / Dirty Hands","why":"The gambling partner becomes the filmmaker and independent-life boundary at the episode's center."},
-    {"t":1255,"to":"DVDASA consent taxonomy","why":"The cast tries to distinguish consensual rough performance from rape but uses destabilizing language."},
-    {"t":1778,"to":"David Choe education timeline","why":"David considers taking college classes without pursuing a degree."},
-    {"t":1870,"to":"DVDASA, Koreans Gone Bad and Thumbs Up","why":"Harry's exit is framed as withdrawal from David's connected projects."},
-    {"t":2019,"to":"Dirty Hands: The Art & Life of David Choe","why":"The documentary is named as Harry Kim's principal film."},
-    {"t":2639,"to":"Episode 100 reunion gap","why":"The cast directly explains why a full former-KGB reunion did not occur."},
-    {"t":2704,"to":"Corpus publication-consent policy","why":"The on-air claim that every guest requested edits or regretted disclosure is primary policy evidence."},
-    {"t":2771,"to":"Episode 110 Choe method","why":"David carries the unpaid-passion philosophy into Critter's creative work."},
-    {"t":3384,"to":"Underground-comics childhood history","why":"The private friend's house links adult comics, role-playing games and the title story."},
-    {"t":3421,"to":"Teenage Mutant Ninja Turtles & Other Strangeness","why":"The exact tabletop title is a useful childhood-media connection."},
-    {"t":3483,"to":"Hitachi Magic Wand cultural history","why":"The episode distinguishes a named product from a misidentified back massager."},
-    {"t":3967,"to":"Kids (1995) and HIV/AIDS discourse","why":"The film prompts an inaccurate historical disease forced choice requiring correction."},
-    {"t":4729,"to":"Episodes 109–110 hypothetical method","why":"David explicitly describes extreme scenarios as tests of `normal people`."},
-    {"t":4978,"to":"Bill Poon unfinished fiction","why":"The recap becomes a full near-future corporate-war story."},
-    {"t":5145,"to":"Bobby Lee parody script","why":"Bobby reads the future-DVDASA scene instead of trivia."},
-    {"t":5757,"to":"Asa Akira, Insatiable","why":"The memoir is presented as the route to her unfiltered thought rather than access to her person."},
-    {"t":5769,"to":"Wicked RealDoll / commercial likeness","why":"The cast markets Asa's replica while repeatedly blurring product ownership and personal consent."}
+    {
+      "t": 167,
+      "to": "Episode 110 eye-irritation opening",
+      "why": "Asa again explicitly corrects the cast's pink-eye label."
+    },
+    {
+      "t": 466,
+      "to": "This American Life",
+      "why": "David repeatedly uses an incompletely remembered radio episode as the scaffold for developmental claims."
+    },
+    {
+      "t": 907,
+      "to": "David Choe health timeline",
+      "why": "The memory narrative returns to self-attributed mercury poisoning and later high-stakes gambling."
+    },
+    {
+      "t": 997,
+      "to": "Harry Kim / Dirty Hands",
+      "why": "The gambling partner becomes the filmmaker and independent-life boundary at the episode's center."
+    },
+    {
+      "t": 1255,
+      "to": "DVDASA consent taxonomy",
+      "why": "The cast tries to distinguish consensual rough performance from rape but uses destabilizing language."
+    },
+    {
+      "t": 1778,
+      "to": "David Choe education timeline",
+      "why": "David considers taking college classes without pursuing a degree."
+    },
+    {
+      "t": 1870,
+      "to": "DVDASA, Koreans Gone Bad and Thumbs Up",
+      "why": "Harry's exit is framed as withdrawal from David's connected projects."
+    },
+    {
+      "t": 2019,
+      "to": "Dirty Hands: The Art & Life of David Choe",
+      "why": "The documentary is named as Harry Kim's principal film."
+    },
+    {
+      "t": 2639,
+      "to": "Episode 100 reunion gap",
+      "why": "The cast directly explains why a full former-KGB reunion did not occur."
+    },
+    {
+      "t": 2704,
+      "to": "Corpus publication-consent policy",
+      "why": "The on-air claim that every guest requested edits or regretted disclosure is primary policy evidence."
+    },
+    {
+      "t": 2771,
+      "to": "Episode 110 Choe method",
+      "why": "David carries the unpaid-passion philosophy into Critter's creative work."
+    },
+    {
+      "t": 3384,
+      "to": "Underground-comics childhood history",
+      "why": "The private friend's house links adult comics, role-playing games and the title story."
+    },
+    {
+      "t": 3421,
+      "to": "Teenage Mutant Ninja Turtles & Other Strangeness",
+      "why": "The exact tabletop title is a useful childhood-media connection."
+    },
+    {
+      "t": 3483,
+      "to": "Hitachi Magic Wand cultural history",
+      "why": "The episode distinguishes a named product from a misidentified back massager."
+    },
+    {
+      "t": 3967,
+      "to": "Kids (1995) and HIV/AIDS discourse",
+      "why": "The film prompts an inaccurate historical disease forced choice requiring correction."
+    },
+    {
+      "t": 4729,
+      "to": "Episodes 109–110 hypothetical method",
+      "why": "David explicitly describes extreme scenarios as tests of `normal people`."
+    },
+    {
+      "t": 4978,
+      "to": "Bill Poon unfinished fiction",
+      "why": "The recap becomes a full near-future corporate-war story."
+    },
+    {
+      "t": 5145,
+      "to": "Bobby Lee parody script",
+      "why": "Bobby reads the future-DVDASA scene instead of trivia."
+    },
+    {
+      "t": 5757,
+      "to": "Asa Akira, Insatiable",
+      "why": "The memoir is presented as the route to her unfiltered thought rather than access to her person."
+    },
+    {
+      "t": 5769,
+      "to": "Wicked RealDoll / commercial likeness",
+      "why": "The cast markets Asa's replica while repeatedly blurring product ownership and personal consent."
+    }
   ],
   "content_warnings": [
     "explicit sexual discussion",
@@ -417,5 +1502,20 @@
     "commercial body scanning and replica detail",
     "private friends, relatives, schools and workplaces",
     "contact information and publication boundaries"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter"
+  ],
+  "places": [],
+  "works": [
+    "KGB"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 111 moves from Asa Akira's clothing and the cast's family-affection theories into David's memory decline, gambling addiction and back-to-school idea; Critter's learning, class and adolescent history; a private childhood friend's bedroom massager; an extended HIV/AIDS-versus-boredom hypothetical; improvised science-fiction scripts; and Asa's memoir/RealDoll promotion.",
+  "description_source": "Opening of the human-reviewed summary."
 }

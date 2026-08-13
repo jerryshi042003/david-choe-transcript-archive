@@ -33,92 +33,344 @@
   ],
   "speaker_policy": "Episode metadata may name explicitly introduced or unmistakably public participants including David Choe, Asa Akira, Bobby Lee, Kalilah, Money Mark and Steve Lee. Zero independently validated turns and zero identity windows prohibit assigning any individual line to them or to Critter, Valentin, Bill Poon or other room participants.",
   "chapters": [
-    {"t":0,"title":"decoder-noisy musical opening"},
-    {"t":36,"title":"Steve freestyle warm-up"},
-    {"t":227,"title":"Macau lyric callback"},
-    {"t":267,"title":"DVDASA introduction"},
-    {"t":318,"title":"second Big Bear show"},
-    {"t":337,"title":"funnier Lee brother"},
-    {"t":421,"title":"headband and fashion"},
-    {"t":447,"title":"Tinder origin story"},
-    {"t":496,"title":"Bobby Namba comparison"},
-    {"t":507,"title":"Vancouver discovery"},
-    {"t":551,"title":"hospital deletion promise"},
-    {"t":557,"title":"Houston reinstall"},
-    {"t":566,"title":"cheating distinguished from browsing"},
-    {"t":628,"title":"emotional promises"},
-    {"t":648,"title":"reinstallation defense"},
-    {"t":695,"title":"matches and swiping"},
-    {"t":710,"title":"reported shoulder check"},
-    {"t":717,"title":"defending Bobby"},
-    {"t":752,"title":"fantasy and monogamy"},
-    {"t":831,"title":"platform compulsion"},
-    {"t":849,"title":"domestic reality"},
-    {"t":876,"title":"balcony urine container"},
-    {"t":955,"title":"eleven-second title story"},
-    {"t":1037,"title":"sexual-noise technique"},
-    {"t":1094,"title":"awkwardness as intimacy"},
-    {"t":1226,"title":"Elliot Rodger"},
-    {"t":1270,"title":"Isla Vista victims"},
-    {"t":1312,"title":"Seung-Hui Cho"},
-    {"t":1369,"title":"violent-life counterfactual"},
-    {"t":1382,"title":"anti-murder disclaimer"},
-    {"t":1407,"title":"racial essentialism"},
-    {"t":1421,"title":"bullying and deterrence"},
-    {"t":1478,"title":"sexual roleplay returns"},
-    {"t":1506,"title":"timed eleven seconds"},
-    {"t":1552,"title":"adult death roleplay"},
-    {"t":1583,"title":"confession and humiliation fantasy"},
-    {"t":1757,"title":"fantasy terminology"},
-    {"t":1836,"title":"child-actor attraction talk"},
-    {"t":1854,"title":"minor-coded adult roleplay"},
-    {"t":1912,"title":"fictional funeral scenario"},
-    {"t":1924,"title":"forced-touch callback"},
-    {"t":1967,"title":"shared Critter accounts"},
-    {"t":2042,"title":"Tinder impersonator"},
-    {"t":2105,"title":"collective Tinder profile"},
-    {"t":2152,"title":"abstinence challenge"},
-    {"t":2214,"title":"travel-and-sex promise"},
-    {"t":2233,"title":"fan contest proposal"},
-    {"t":2318,"title":"ants and discarded semen"},
-    {"t":2382,"title":"strip-club technique"},
-    {"t":2503,"title":"Vegas abandonment"},
-    {"t":2537,"title":"private dancer's technique"},
-    {"t":2733,"title":"games versus busyness"},
-    {"t":2747,"title":"Asa's book tour"},
-    {"t":2843,"title":"social-post timing"},
-    {"t":2950,"title":"replacement slur proposal"},
-    {"t":3030,"title":"racial code-word exercise"},
-    {"t":3451,"title":"callback trivia"},
-    {"t":3691,"title":"Lee brothers defended"},
-    {"t":3742,"title":"overnight pressure"},
-    {"t":3856,"title":"Macau planning"},
-    {"t":3922,"title":"sign-off and jam"},
-    {"t":4047,"title":"indistinct musical decoder loop"}
+    {
+      "t": 0,
+      "title": "decoder-noisy musical opening"
+    },
+    {
+      "t": 36,
+      "title": "Steve freestyle warm-up"
+    },
+    {
+      "t": 227,
+      "title": "Macau lyric callback"
+    },
+    {
+      "t": 267,
+      "title": "DVDASA introduction"
+    },
+    {
+      "t": 318,
+      "title": "second Big Bear show"
+    },
+    {
+      "t": 337,
+      "title": "funnier Lee brother"
+    },
+    {
+      "t": 421,
+      "title": "headband and fashion"
+    },
+    {
+      "t": 447,
+      "title": "Tinder origin story"
+    },
+    {
+      "t": 496,
+      "title": "Bobby Namba comparison"
+    },
+    {
+      "t": 507,
+      "title": "Vancouver discovery"
+    },
+    {
+      "t": 551,
+      "title": "hospital deletion promise"
+    },
+    {
+      "t": 557,
+      "title": "Houston reinstall"
+    },
+    {
+      "t": 566,
+      "title": "cheating distinguished from browsing"
+    },
+    {
+      "t": 628,
+      "title": "emotional promises"
+    },
+    {
+      "t": 648,
+      "title": "reinstallation defense"
+    },
+    {
+      "t": 695,
+      "title": "matches and swiping"
+    },
+    {
+      "t": 710,
+      "title": "reported shoulder check"
+    },
+    {
+      "t": 717,
+      "title": "defending Bobby"
+    },
+    {
+      "t": 752,
+      "title": "fantasy and monogamy"
+    },
+    {
+      "t": 831,
+      "title": "platform compulsion"
+    },
+    {
+      "t": 849,
+      "title": "domestic reality"
+    },
+    {
+      "t": 876,
+      "title": "balcony urine container"
+    },
+    {
+      "t": 955,
+      "title": "eleven-second title story"
+    },
+    {
+      "t": 1037,
+      "title": "sexual-noise technique"
+    },
+    {
+      "t": 1094,
+      "title": "awkwardness as intimacy"
+    },
+    {
+      "t": 1226,
+      "title": "Elliot Rodger"
+    },
+    {
+      "t": 1270,
+      "title": "Isla Vista victims"
+    },
+    {
+      "t": 1312,
+      "title": "Seung-Hui Cho"
+    },
+    {
+      "t": 1369,
+      "title": "violent-life counterfactual"
+    },
+    {
+      "t": 1382,
+      "title": "anti-murder disclaimer"
+    },
+    {
+      "t": 1407,
+      "title": "racial essentialism"
+    },
+    {
+      "t": 1421,
+      "title": "bullying and deterrence"
+    },
+    {
+      "t": 1478,
+      "title": "sexual roleplay returns"
+    },
+    {
+      "t": 1506,
+      "title": "timed eleven seconds"
+    },
+    {
+      "t": 1552,
+      "title": "adult death roleplay"
+    },
+    {
+      "t": 1583,
+      "title": "confession and humiliation fantasy"
+    },
+    {
+      "t": 1757,
+      "title": "fantasy terminology"
+    },
+    {
+      "t": 1836,
+      "title": "child-actor attraction talk"
+    },
+    {
+      "t": 1854,
+      "title": "minor-coded adult roleplay"
+    },
+    {
+      "t": 1912,
+      "title": "fictional funeral scenario"
+    },
+    {
+      "t": 1924,
+      "title": "forced-touch callback"
+    },
+    {
+      "t": 1967,
+      "title": "shared Critter accounts"
+    },
+    {
+      "t": 2042,
+      "title": "Tinder impersonator"
+    },
+    {
+      "t": 2105,
+      "title": "collective Tinder profile"
+    },
+    {
+      "t": 2152,
+      "title": "abstinence challenge"
+    },
+    {
+      "t": 2214,
+      "title": "travel-and-sex promise"
+    },
+    {
+      "t": 2233,
+      "title": "fan contest proposal"
+    },
+    {
+      "t": 2318,
+      "title": "ants and discarded semen"
+    },
+    {
+      "t": 2382,
+      "title": "strip-club technique"
+    },
+    {
+      "t": 2503,
+      "title": "Vegas abandonment"
+    },
+    {
+      "t": 2537,
+      "title": "private dancer's technique"
+    },
+    {
+      "t": 2733,
+      "title": "games versus busyness"
+    },
+    {
+      "t": 2747,
+      "title": "Asa's book tour"
+    },
+    {
+      "t": 2843,
+      "title": "social-post timing"
+    },
+    {
+      "t": 2950,
+      "title": "replacement slur proposal"
+    },
+    {
+      "t": 3030,
+      "title": "racial code-word exercise"
+    },
+    {
+      "t": 3451,
+      "title": "callback trivia"
+    },
+    {
+      "t": 3691,
+      "title": "Lee brothers defended"
+    },
+    {
+      "t": 3742,
+      "title": "overnight pressure"
+    },
+    {
+      "t": 3856,
+      "title": "Macau planning"
+    },
+    {
+      "t": 3922,
+      "title": "sign-off and jam"
+    },
+    {
+      "t": 4047,
+      "title": "indistinct musical decoder loop"
+    }
   ],
   "connections": [
-    {"to":"saga1-episode-134-don-t-touch-me-there","note":"Direct Big Bear continuation: Lee-brother rivalry, masturbation challenge, Macau planning, Assassin's Creed and forced-touch consent event all return."},
-    {"to":"ranch-series","note":"Second consecutive remote Ranch session; group lodging and late-night music shape the format."},
-    {"to":"speaker-validation","note":"Public participant identities are clear at episode level, but held-out evidence does not support named turns."},
-    {"to":"consent-boundaries","note":"The Tinder disagreement, shoulder-check report, forced genital touch and pressure to stay overnight require distinct consent/boundary treatment."},
-    {"to":"relationship-check-ins","note":"Tinder deletion/reinstallation extends Episode 134's road-contact and deception discussion."},
-    {"to":"platform-compulsion","note":"Tinder, Instagram direct messages, posting times and Assassin's Creed all become attention/impulse systems."},
-    {"to":"identity-misuse","note":"Critter's photos are reportedly used for a false Tinder profile, while his social accounts are managed by multiple people."},
-    {"to":"fan-boundaries","note":"A proposed Ranch contest and collective dating profile blur audience, guest and sexual-access roles."},
-    {"to":"sexual-roleplay","note":"Adult consensual fantasy includes death, humiliation, incest and minor-coded age regression; fantasy claims are not real-world admissions."},
-    {"to":"harm-and-violence","note":"Mass-killing discussion mixes factual references, stereotypes, counterfactual self-disclosure and an explicit anti-murder stance."},
-    {"to":"racial-language","note":"The replacement-code bit preserves slurs and invents euphemisms; none become corpus taxonomy."},
-    {"to":"sibling-rivalry","note":"The show again pits Steve's natural humor against Bobby's professional career, then closes by defending both brothers."},
-    {"to":"addiction-and-avoidance","note":"David frames Tinder and Instagram direct messaging as channels he avoids because access escalates temptation."},
-    {"to":"creative-incubator","note":"Steve's freestyle and Money Mark's jam show the Ranch functioning as a low-stakes music incubator."},
-    {"to":"public-work","note":"Asa's book tour, Steve's album and Bobby's stand-up dates are promoted inside the friendship economy."},
-    {"to":"reciprocal-fandom","note":"The cast explicitly frames free shows and purchases as a symbiotic support relationship."},
-    {"to":"private-workers","note":"Restaurant, social-media and adult-entertainment workers are relevant to stories but not to public identity trails."},
-    {"to":"medical-self-report","note":"Hospitalization and diabetes are first-person/partner reports, not independently verified diagnoses."},
-    {"to":"macau-proposal","note":"Hong Kong routing and condom talk remain planning, not proof the trip happened."},
-    {"to":"editorial-accuracy","note":"Known automated false edits recur, reinforcing the separation of raw ASR, reviewed correction and interpretive metadata."},
-    {"to":"outro-structure","note":"Formal sign-off precedes a long jam, explaining sparse later dialogue without implying missing audio."},
-    {"to":"episode-title","note":"The title derives from a timed consensual-sex anecdote, not the separate nonconsensual touch callback."}
+    {
+      "to": "saga1-episode-134-don-t-touch-me-there",
+      "note": "Direct Big Bear continuation: Lee-brother rivalry, masturbation challenge, Macau planning, Assassin's Creed and forced-touch consent event all return."
+    },
+    {
+      "to": "ranch-series",
+      "note": "Second consecutive remote Ranch session; group lodging and late-night music shape the format."
+    },
+    {
+      "to": "speaker-validation",
+      "note": "Public participant identities are clear at episode level, but held-out evidence does not support named turns."
+    },
+    {
+      "to": "consent-boundaries",
+      "note": "The Tinder disagreement, shoulder-check report, forced genital touch and pressure to stay overnight require distinct consent/boundary treatment."
+    },
+    {
+      "to": "relationship-check-ins",
+      "note": "Tinder deletion/reinstallation extends Episode 134's road-contact and deception discussion."
+    },
+    {
+      "to": "platform-compulsion",
+      "note": "Tinder, Instagram direct messages, posting times and Assassin's Creed all become attention/impulse systems."
+    },
+    {
+      "to": "identity-misuse",
+      "note": "Critter's photos are reportedly used for a false Tinder profile, while his social accounts are managed by multiple people."
+    },
+    {
+      "to": "fan-boundaries",
+      "note": "A proposed Ranch contest and collective dating profile blur audience, guest and sexual-access roles."
+    },
+    {
+      "to": "sexual-roleplay",
+      "note": "Adult consensual fantasy includes death, humiliation, incest and minor-coded age regression; fantasy claims are not real-world admissions."
+    },
+    {
+      "to": "harm-and-violence",
+      "note": "Mass-killing discussion mixes factual references, stereotypes, counterfactual self-disclosure and an explicit anti-murder stance."
+    },
+    {
+      "to": "racial-language",
+      "note": "The replacement-code bit preserves slurs and invents euphemisms; none become corpus taxonomy."
+    },
+    {
+      "to": "sibling-rivalry",
+      "note": "The show again pits Steve's natural humor against Bobby's professional career, then closes by defending both brothers."
+    },
+    {
+      "to": "addiction-and-avoidance",
+      "note": "David frames Tinder and Instagram direct messaging as channels he avoids because access escalates temptation."
+    },
+    {
+      "to": "creative-incubator",
+      "note": "Steve's freestyle and Money Mark's jam show the Ranch functioning as a low-stakes music incubator."
+    },
+    {
+      "to": "public-work",
+      "note": "Asa's book tour, Steve's album and Bobby's stand-up dates are promoted inside the friendship economy."
+    },
+    {
+      "to": "reciprocal-fandom",
+      "note": "The cast explicitly frames free shows and purchases as a symbiotic support relationship."
+    },
+    {
+      "to": "private-workers",
+      "note": "Restaurant, social-media and adult-entertainment workers are relevant to stories but not to public identity trails."
+    },
+    {
+      "to": "medical-self-report",
+      "note": "Hospitalization and diabetes are first-person/partner reports, not independently verified diagnoses."
+    },
+    {
+      "to": "macau-proposal",
+      "note": "Hong Kong routing and condom talk remain planning, not proof the trip happened."
+    },
+    {
+      "to": "editorial-accuracy",
+      "note": "Known automated false edits recur, reinforcing the separation of raw ASR, reviewed correction and interpretive metadata."
+    },
+    {
+      "to": "outro-structure",
+      "note": "Formal sign-off precedes a long jam, explaining sparse later dialogue without implying missing audio."
+    },
+    {
+      "to": "episode-title",
+      "note": "The title derives from a timed consensual-sex anecdote, not the separate nonconsensual touch callback."
+    }
   ],
   "content_warnings": [
     "explicit sexual discussion",
@@ -143,27 +395,113 @@
     "bodily fluids and hygiene"
   ],
   "publication_restrictions": [
-    {"t":562,"rule":"withhold uncertain private friend's name"},
-    {"t":695,"rule":"do not expose Tinder matches or account discovery trail"},
-    {"t":710,"rule":"retain shoulder-check report without inventing intent, injury or adjudication"},
-    {"t":849,"rule":"do not expand private domestic details beyond public episode account"},
-    {"t":955,"rule":"keep intimate couple material contextual, not promotional or voyeuristically excerpted"},
-    {"t":1226,"rule":"verify historical mass-killing facts before external factual reuse"},
-    {"t":1369,"rule":"do not convert a counterfactual life-path statement into a present threat assessment"},
-    {"t":1552,"rule":"label reported adult roleplay; do not imply real corpse contact"},
-    {"t":1836,"rule":"do not isolate minor-coded fantasy as erotic material"},
-    {"t":1924,"rule":"preserve nonconsensual classification; do not infer sexual orientation"},
-    {"t":1967,"rule":"withhold private social-account operators and access details"},
-    {"t":2042,"rule":"do not reproduce impersonator profile, match identity or discovery instructions"},
-    {"t":2105,"rule":"do not reactivate or make discoverable the historical collective dating profile"},
-    {"t":2145,"rule":"withhold private restaurant worker identity"},
-    {"t":2214,"rule":"treat sexual travel as proposal, not completed conduct"},
-    {"t":2233,"rule":"do not republish fan-contest mechanics as active solicitation"},
-    {"t":2318,"rule":"do not infer current diabetes status from historical self-report"},
-    {"t":2537,"rule":"withhold private adult worker's identifying trail"},
-    {"t":2797,"rule":"do not facilitate confrontation with alleged impersonator"},
-    {"t":2950,"rule":"do not reuse invented racist/homophobic codes as metadata"},
-    {"t":3742,"rule":"retain refusals and pressure without inferring later consent or lodging outcome"},
-    {"t":3856,"rule":"do not treat Macau planning as completed travel"}
-  ]
+    {
+      "t": 562,
+      "rule": "withhold uncertain private friend's name"
+    },
+    {
+      "t": 695,
+      "rule": "do not expose Tinder matches or account discovery trail"
+    },
+    {
+      "t": 710,
+      "rule": "retain shoulder-check report without inventing intent, injury or adjudication"
+    },
+    {
+      "t": 849,
+      "rule": "do not expand private domestic details beyond public episode account"
+    },
+    {
+      "t": 955,
+      "rule": "keep intimate couple material contextual, not promotional or voyeuristically excerpted"
+    },
+    {
+      "t": 1226,
+      "rule": "verify historical mass-killing facts before external factual reuse"
+    },
+    {
+      "t": 1369,
+      "rule": "do not convert a counterfactual life-path statement into a present threat assessment"
+    },
+    {
+      "t": 1552,
+      "rule": "label reported adult roleplay; do not imply real corpse contact"
+    },
+    {
+      "t": 1836,
+      "rule": "do not isolate minor-coded fantasy as erotic material"
+    },
+    {
+      "t": 1924,
+      "rule": "preserve nonconsensual classification; do not infer sexual orientation"
+    },
+    {
+      "t": 1967,
+      "rule": "withhold private social-account operators and access details"
+    },
+    {
+      "t": 2042,
+      "rule": "do not reproduce impersonator profile, match identity or discovery instructions"
+    },
+    {
+      "t": 2105,
+      "rule": "do not reactivate or make discoverable the historical collective dating profile"
+    },
+    {
+      "t": 2145,
+      "rule": "withhold private restaurant worker identity"
+    },
+    {
+      "t": 2214,
+      "rule": "treat sexual travel as proposal, not completed conduct"
+    },
+    {
+      "t": 2233,
+      "rule": "do not republish fan-contest mechanics as active solicitation"
+    },
+    {
+      "t": 2318,
+      "rule": "do not infer current diabetes status from historical self-report"
+    },
+    {
+      "t": 2537,
+      "rule": "withhold private adult worker's identifying trail"
+    },
+    {
+      "t": 2797,
+      "rule": "do not facilitate confrontation with alleged impersonator"
+    },
+    {
+      "t": 2950,
+      "rule": "do not reuse invented racist/homophobic codes as metadata"
+    },
+    {
+      "t": 3742,
+      "rule": "retain refusals and pressure without inferring later consent or lodging outcome"
+    },
+    {
+      "t": 3856,
+      "rule": "do not treat Macau planning as completed travel"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Money Mark",
+    "Asa Akira",
+    "Bobby Lee",
+    "Steve Lee",
+    "Critter"
+  ],
+  "places": [
+    "Vancouver",
+    "Big Bear",
+    "Macau"
+  ],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A second Big Bear recording opens with Steve Lee freestyling over Money Mark's music, then returns to the Lee brothers' running comparison.",
+  "description_source": "Opening of the human-reviewed summary."
 }

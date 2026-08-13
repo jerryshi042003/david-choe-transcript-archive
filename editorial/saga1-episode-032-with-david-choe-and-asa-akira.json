@@ -1,141 +1,558 @@
 {
   "summary": "Everlast joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for DVDASA's first in-studio live-music episode. The opening makes production labor visible: Asa arrives late after directing for Elegant Angel, explains how directing differs from performing, and describes trying to construct safe, gratifying conditions from her own experience. A running “Thumbs Out” joke explicitly riffs on David's Thumbs Up! series; six automatic attempts to collapse the joke back into the title are rejected. Everlast then performs “Today (Watch Me Shine)” and “Put Your Lights On,” explaining how Whitey Ford Sings the Blues required him to learn live singing after years of rapping. The five compression alerts are real consecutive lyrics, not a decoder loop. David traces the guest's arrival through a painting session with Aryz and Estevan Oriol. Everlast recounts writing Midas, entering Ice-T's orbit, forming and leaving House of Pain, rejecting a career that felt like showing up for a check, and trusting the hybrid sound his label said would ruin him. His art collection reconnects music to graffiti through Futura, José Parlá, KAWS, Slick, Shepard Fairey, Craola, and Neck Face. Marriage becomes the center: Everlast describes choosing a long-term partner, avoiding tour situations that threaten fidelity, becoming responsible for two daughters, and understanding family stability against his father's absences. David tests that account against gambling recovery, groupies, mutually instrumental relationships, and his own fear that no run will ever feel sufficient. The editorial layer preserves their testimony while refusing the room's misogynistic language as neutral description and withholding private partners, children, and sexual acquaintances. Everlast's discussion of his daughter's cystic fibrosis and the song “65 Roses” is retained as dated family testimony, not current prognosis or medical advice. Music history sections cover Dante Ross and Brand Nubian, House of Pain's Irish presentation, DJ Muggs's “Jump Around” beat, Santana's Supernatural, the Judgment Night soundtrack, Ice-T and Slayer's “Disorder,” Tricky, Spawn, and the difference between live fulfillment and travel fatigue. Later performances include “Anyone,” “65 Roses,” “Folsom Prison Blues,” and an acoustic “Children's Story.” Trivia moves through House of Pain, “What It's Like,” American History X, Batman's Robins, and Bobby's ear punishment. The close connects artistic inspiration with discouragement, Arik and Lonnie Marshall, bad fan art, rap-rock imitators, Ross Robinson, Vanilla Ice, The Surreal Life, and the forthcoming The Life Acoustic. Three empty cleaner drops are safe; fifty-one contextual decisions materially improve retrieval; 3,272 identity windows are intact and named dialogue remains withheld.",
   "chapters": [
-    {"t": 7, "title": "DVDASA opens with its first live-performance setup"},
-    {"t": 44, "title": "Asa arrives twenty minutes late"},
-    {"t": 78, "title": "Directing and performing collide with podcast day"},
-    {"t": 131, "title": "Elegant Angel offers Asa a directing project"},
-    {"t": 192, "title": "Straight to Anal and a different directing grammar"},
-    {"t": 260, "title": "Performance experience becomes production knowledge"},
-    {"t": 311, "title": "Planning the scene is compared with planning a robbery"},
-    {"t": 373, "title": "Asa tries to reproduce a gratifying experience for another performer"},
-    {"t": 426, "title": "Safety, trust, and fantasy logistics"},
-    {"t": 568, "title": "“Thumbs Out” is invented as a Thumbs Up! joke"},
-    {"t": 610, "title": "A minor work injury changes the planned segment"},
-    {"t": 663, "title": "David races from In-N-Out"},
-    {"t": 720, "title": "Lateness, privilege, and uneven enforcement"},
-    {"t": 788, "title": "Bobby's informal labor returns"},
-    {"t": 834, "title": "Quiet C and Carol's private relationship update"},
-    {"t": 904, "title": "Money Mark is described as the glue"},
-    {"t": 923, "title": "A hoped-for introduction to Sasha Grey"},
-    {"t": 1023, "title": "Everlast enters the room"},
-    {"t": 1070, "title": "Live performance: “Today (Watch Me Shine)”"},
-    {"t": 1386, "title": "Everlast learned to sing after years of rapping"},
-    {"t": 1433, "title": "Brian and Money Mark met on the way in"},
-    {"t": 1490, "title": "Live performance: “Put Your Lights On”"},
-    {"t": 1810, "title": "The room hears the acoustic arrangement settle"},
-    {"t": 1842, "title": "Aryz, Estevan Oriol, and the painting-session origin"},
-    {"t": 1870, "title": "Mixed identity is discussed through unstable stereotypes"},
-    {"t": 1946, "title": "Estevan's club-door years"},
-    {"t": 1983, "title": "Ice-T supplies common history"},
-    {"t": 2055, "title": "David asks how to survive public dislike"},
-    {"t": 2116, "title": "Everlast left House of Pain when it became a check"},
-    {"t": 2147, "title": "Midas, RTA, and early graffiti"},
-    {"t": 2186, "title": "A homemade tape reaches Ice-T"},
-    {"t": 2271, "title": "Records traded for deli lunches"},
-    {"t": 2300, "title": "Leaving the band onstage remains the regret"},
-    {"t": 2352, "title": "Dante Ross and Brand Nubian"},
-    {"t": 2406, "title": "Guitar parts begin as sample workarounds"},
-    {"t": 2474, "title": "The Santana Grammy corrects a transcript trap"},
-    {"t": 2555, "title": "A near-collaboration could have changed David's career"},
-    {"t": 2649, "title": "A rejected song becomes a hit without him"},
-    {"t": 2719, "title": "Painting promises control that bands cannot"},
-    {"t": 2745, "title": "The label says Whitey Ford will ruin Everlast"},
-    {"t": 2799, "title": "Managing a live band adds invisible conflict"},
-    {"t": 2832, "title": "House of Pain loyalists wait for old material"},
-    {"t": 2995, "title": "Marriage and children arrive around forty"},
-    {"t": 3030, "title": "Ten years of on-and-off history precede commitment"},
-    {"t": 3180, "title": "Fidelity is debated as disclosure versus avoidance"},
-    {"t": 3300, "title": "David compares competing relationship bargains"},
-    {"t": 3480, "title": "A daughter's cystic fibrosis enters the conversation"},
-    {"t": 3600, "title": "Treatment routines and a hoped-for cure timeline"},
-    {"t": 3660, "title": "California Wine Masters fundraising"},
-    {"t": 3680, "title": "Futura, José Parlá, KAWS, Slick, Shepard Fairey, Craola, and Neck Face"},
-    {"t": 3720, "title": "A private sexual memory is excluded from people metadata"},
-    {"t": 4326, "title": "Midas is corrected against Atlas"},
-    {"t": 4380, "title": "Old paint inspires a return to the alley"},
-    {"t": 4440, "title": "Everlast chooses the relationship he might lose"},
-    {"t": 4500, "title": "Chris Rock's marriage joke becomes an argument"},
-    {"t": 4630, "title": "Howard Stern and the moral cost of groupies"},
-    {"t": 4700, "title": "Daughters reorder the example a father sets"},
-    {"t": 4780, "title": "Using and being used are treated as a false symmetry"},
-    {"t": 4880, "title": "The ultimatum is reframed as departure"},
-    {"t": 4970, "title": "Tour fidelity depends on avoiding the room"},
-    {"t": 5030, "title": "Gambling recovery supplies David's comparison"},
-    {"t": 5110, "title": "A good run and what remains undone"},
-    {"t": 5200, "title": "Madonna's “Rain” remix and anonymous partners"},
-    {"t": 5310, "title": "Little Miss Sunshine supplies the retrospective rule"},
-    {"t": 5390, "title": "Getting out ahead applies to sex and gambling"},
-    {"t": 5493, "title": "Flying J corrects Flying V"},
-    {"t": 5510, "title": "Touring exhausts; performing does not"},
-    {"t": 5562, "title": "Money Mark as calming presence"},
-    {"t": 5600, "title": "Children become responsibility rather than legacy"},
-    {"t": 5700, "title": "Everlast met his wife through a Sugar Ray show"},
-    {"t": 5834, "title": "Syndication, Rhyme Syndicate, and early white rappers"},
-    {"t": 5914, "title": "Tone Lōc's success shapes label pressure"},
-    {"t": 5960, "title": "Henry Rollins helps define House of Pain's image"},
-    {"t": 6000, "title": "Public Enemy and Irish identity"},
-    {"t": 6060, "title": "Gangs of New York is used as historical shorthand"},
-    {"t": 6110, "title": "DJ Muggs offers the passed-over “Jump Around” beat"},
-    {"t": 6189, "title": "U2's approval feels like arrival"},
-    {"t": 6250, "title": "Santana's Supernatural and the Grammy"},
-    {"t": 6344, "title": "Live performance: “Anyone”"},
-    {"t": 6600, "title": "Desperation, approval, and artistic need"},
-    {"t": 6773, "title": "Arik and Lonnie Marshall become the talent control"},
-    {"t": 6900, "title": "Desperation is attractive only when exclusive"},
-    {"t": 6962, "title": "Judgment Night and Cabrini-Green"},
-    {"t": 7060, "title": "The soundtrack pairs rap with rock"},
-    {"t": 7116, "title": "A House of Pain remix grows into a soundtrack concept"},
-    {"t": 7210, "title": "Ice-T and Slayer's “Disorder”"},
-    {"t": 7229, "title": "Lowball and refusing more bad films"},
-    {"t": 7276, "title": "Spawn tries to repeat the soundtrack formula"},
-    {"t": 7414, "title": "A near-role in American History X stays a near-role"},
-    {"t": 7530, "title": "Success requires selective delusion"},
-    {"t": 7580, "title": "Old Eminem conflict still recruits teenage antagonists"},
-    {"t": 7796, "title": "“65 Roses” and cystic fibrosis"},
-    {"t": 7825, "title": "Live performance: “65 Roses”"},
-    {"t": 8110, "title": "Live cover: “Folsom Prison Blues”"},
-    {"t": 8264, "title": "Biz Markie prompts an acoustic rap-cover idea"},
-    {"t": 8290, "title": "Live cover: Slick Rick's “Children's Story”"},
-    {"t": 8472, "title": "The first live-music episode reaches trivia"},
-    {"t": 8578, "title": "House of Pain trivia"},
-    {"t": 8675, "title": "“What It's Like” character trivia"},
-    {"t": 8798, "title": "American History X quotation trivia"},
-    {"t": 8925, "title": "Sidekicks and Batman's Robins"},
-    {"t": 9034, "title": "Brian loses and Bobby's ear becomes punishment"},
-    {"t": 9122, "title": "Calbee chips become a possible prize"},
-    {"t": 9201, "title": "Everlast reflects on small and full rooms"},
-    {"t": 9292, "title": "Putting work out matters more than being best"},
-    {"t": 9314, "title": "Arik Marshall can inspire or discourage"},
-    {"t": 9333, "title": "Fan gratitude can end in work the artist dislikes"},
-    {"t": 9372, "title": "Judgment Night's bad descendants"},
-    {"t": 9390, "title": "Ross Robinson and hard-rock Vanilla Ice"},
-    {"t": 9402, "title": "A tour encounter reverses Everlast's hostility"},
-    {"t": 9490, "title": "The Surreal Life and a missed handshake"},
-    {"t": 9630, "title": "Vanilla Ice's house-flipping life"},
-    {"t": 9694, "title": "The Life Acoustic is announced"},
-    {"t": 9706, "title": "Eat at Whitey's and the earlier Slick Rick cover"},
-    {"t": 9762, "title": "“Thumbs Out” returns at the close"}
+    {
+      "t": 7,
+      "title": "DVDASA opens with its first live-performance setup"
+    },
+    {
+      "t": 44,
+      "title": "Asa arrives twenty minutes late"
+    },
+    {
+      "t": 78,
+      "title": "Directing and performing collide with podcast day"
+    },
+    {
+      "t": 131,
+      "title": "Elegant Angel offers Asa a directing project"
+    },
+    {
+      "t": 192,
+      "title": "Straight to Anal and a different directing grammar"
+    },
+    {
+      "t": 260,
+      "title": "Performance experience becomes production knowledge"
+    },
+    {
+      "t": 311,
+      "title": "Planning the scene is compared with planning a robbery"
+    },
+    {
+      "t": 373,
+      "title": "Asa tries to reproduce a gratifying experience for another performer"
+    },
+    {
+      "t": 426,
+      "title": "Safety, trust, and fantasy logistics"
+    },
+    {
+      "t": 568,
+      "title": "“Thumbs Out” is invented as a Thumbs Up! joke"
+    },
+    {
+      "t": 610,
+      "title": "A minor work injury changes the planned segment"
+    },
+    {
+      "t": 663,
+      "title": "David races from In-N-Out"
+    },
+    {
+      "t": 720,
+      "title": "Lateness, privilege, and uneven enforcement"
+    },
+    {
+      "t": 788,
+      "title": "Bobby's informal labor returns"
+    },
+    {
+      "t": 834,
+      "title": "Quiet C and Carol's private relationship update"
+    },
+    {
+      "t": 904,
+      "title": "Money Mark is described as the glue"
+    },
+    {
+      "t": 923,
+      "title": "A hoped-for introduction to Sasha Grey"
+    },
+    {
+      "t": 1023,
+      "title": "Everlast enters the room"
+    },
+    {
+      "t": 1070,
+      "title": "Live performance: “Today (Watch Me Shine)”"
+    },
+    {
+      "t": 1386,
+      "title": "Everlast learned to sing after years of rapping"
+    },
+    {
+      "t": 1433,
+      "title": "Brian and Money Mark met on the way in"
+    },
+    {
+      "t": 1490,
+      "title": "Live performance: “Put Your Lights On”"
+    },
+    {
+      "t": 1810,
+      "title": "The room hears the acoustic arrangement settle"
+    },
+    {
+      "t": 1842,
+      "title": "Aryz, Estevan Oriol, and the painting-session origin"
+    },
+    {
+      "t": 1870,
+      "title": "Mixed identity is discussed through unstable stereotypes"
+    },
+    {
+      "t": 1946,
+      "title": "Estevan's club-door years"
+    },
+    {
+      "t": 1983,
+      "title": "Ice-T supplies common history"
+    },
+    {
+      "t": 2055,
+      "title": "David asks how to survive public dislike"
+    },
+    {
+      "t": 2116,
+      "title": "Everlast left House of Pain when it became a check"
+    },
+    {
+      "t": 2147,
+      "title": "Midas, RTA, and early graffiti"
+    },
+    {
+      "t": 2186,
+      "title": "A homemade tape reaches Ice-T"
+    },
+    {
+      "t": 2271,
+      "title": "Records traded for deli lunches"
+    },
+    {
+      "t": 2300,
+      "title": "Leaving the band onstage remains the regret"
+    },
+    {
+      "t": 2352,
+      "title": "Dante Ross and Brand Nubian"
+    },
+    {
+      "t": 2406,
+      "title": "Guitar parts begin as sample workarounds"
+    },
+    {
+      "t": 2474,
+      "title": "The Santana Grammy corrects a transcript trap"
+    },
+    {
+      "t": 2555,
+      "title": "A near-collaboration could have changed David's career"
+    },
+    {
+      "t": 2649,
+      "title": "A rejected song becomes a hit without him"
+    },
+    {
+      "t": 2719,
+      "title": "Painting promises control that bands cannot"
+    },
+    {
+      "t": 2745,
+      "title": "The label says Whitey Ford will ruin Everlast"
+    },
+    {
+      "t": 2799,
+      "title": "Managing a live band adds invisible conflict"
+    },
+    {
+      "t": 2832,
+      "title": "House of Pain loyalists wait for old material"
+    },
+    {
+      "t": 2995,
+      "title": "Marriage and children arrive around forty"
+    },
+    {
+      "t": 3030,
+      "title": "Ten years of on-and-off history precede commitment"
+    },
+    {
+      "t": 3180,
+      "title": "Fidelity is debated as disclosure versus avoidance"
+    },
+    {
+      "t": 3300,
+      "title": "David compares competing relationship bargains"
+    },
+    {
+      "t": 3480,
+      "title": "A daughter's cystic fibrosis enters the conversation"
+    },
+    {
+      "t": 3600,
+      "title": "Treatment routines and a hoped-for cure timeline"
+    },
+    {
+      "t": 3660,
+      "title": "California Wine Masters fundraising"
+    },
+    {
+      "t": 3680,
+      "title": "Futura, José Parlá, KAWS, Slick, Shepard Fairey, Craola, and Neck Face"
+    },
+    {
+      "t": 3720,
+      "title": "A private sexual memory is excluded from people metadata"
+    },
+    {
+      "t": 4326,
+      "title": "Midas is corrected against Atlas"
+    },
+    {
+      "t": 4380,
+      "title": "Old paint inspires a return to the alley"
+    },
+    {
+      "t": 4440,
+      "title": "Everlast chooses the relationship he might lose"
+    },
+    {
+      "t": 4500,
+      "title": "Chris Rock's marriage joke becomes an argument"
+    },
+    {
+      "t": 4630,
+      "title": "Howard Stern and the moral cost of groupies"
+    },
+    {
+      "t": 4700,
+      "title": "Daughters reorder the example a father sets"
+    },
+    {
+      "t": 4780,
+      "title": "Using and being used are treated as a false symmetry"
+    },
+    {
+      "t": 4880,
+      "title": "The ultimatum is reframed as departure"
+    },
+    {
+      "t": 4970,
+      "title": "Tour fidelity depends on avoiding the room"
+    },
+    {
+      "t": 5030,
+      "title": "Gambling recovery supplies David's comparison"
+    },
+    {
+      "t": 5110,
+      "title": "A good run and what remains undone"
+    },
+    {
+      "t": 5200,
+      "title": "Madonna's “Rain” remix and anonymous partners"
+    },
+    {
+      "t": 5310,
+      "title": "Little Miss Sunshine supplies the retrospective rule"
+    },
+    {
+      "t": 5390,
+      "title": "Getting out ahead applies to sex and gambling"
+    },
+    {
+      "t": 5493,
+      "title": "Flying J corrects Flying V"
+    },
+    {
+      "t": 5510,
+      "title": "Touring exhausts; performing does not"
+    },
+    {
+      "t": 5562,
+      "title": "Money Mark as calming presence"
+    },
+    {
+      "t": 5600,
+      "title": "Children become responsibility rather than legacy"
+    },
+    {
+      "t": 5700,
+      "title": "Everlast met his wife through a Sugar Ray show"
+    },
+    {
+      "t": 5834,
+      "title": "Syndication, Rhyme Syndicate, and early white rappers"
+    },
+    {
+      "t": 5914,
+      "title": "Tone Lōc's success shapes label pressure"
+    },
+    {
+      "t": 5960,
+      "title": "Henry Rollins helps define House of Pain's image"
+    },
+    {
+      "t": 6000,
+      "title": "Public Enemy and Irish identity"
+    },
+    {
+      "t": 6060,
+      "title": "Gangs of New York is used as historical shorthand"
+    },
+    {
+      "t": 6110,
+      "title": "DJ Muggs offers the passed-over “Jump Around” beat"
+    },
+    {
+      "t": 6189,
+      "title": "U2's approval feels like arrival"
+    },
+    {
+      "t": 6250,
+      "title": "Santana's Supernatural and the Grammy"
+    },
+    {
+      "t": 6344,
+      "title": "Live performance: “Anyone”"
+    },
+    {
+      "t": 6600,
+      "title": "Desperation, approval, and artistic need"
+    },
+    {
+      "t": 6773,
+      "title": "Arik and Lonnie Marshall become the talent control"
+    },
+    {
+      "t": 6900,
+      "title": "Desperation is attractive only when exclusive"
+    },
+    {
+      "t": 6962,
+      "title": "Judgment Night and Cabrini-Green"
+    },
+    {
+      "t": 7060,
+      "title": "The soundtrack pairs rap with rock"
+    },
+    {
+      "t": 7116,
+      "title": "A House of Pain remix grows into a soundtrack concept"
+    },
+    {
+      "t": 7210,
+      "title": "Ice-T and Slayer's “Disorder”"
+    },
+    {
+      "t": 7229,
+      "title": "Lowball and refusing more bad films"
+    },
+    {
+      "t": 7276,
+      "title": "Spawn tries to repeat the soundtrack formula"
+    },
+    {
+      "t": 7414,
+      "title": "A near-role in American History X stays a near-role"
+    },
+    {
+      "t": 7530,
+      "title": "Success requires selective delusion"
+    },
+    {
+      "t": 7580,
+      "title": "Old Eminem conflict still recruits teenage antagonists"
+    },
+    {
+      "t": 7796,
+      "title": "“65 Roses” and cystic fibrosis"
+    },
+    {
+      "t": 7825,
+      "title": "Live performance: “65 Roses”"
+    },
+    {
+      "t": 8110,
+      "title": "Live cover: “Folsom Prison Blues”"
+    },
+    {
+      "t": 8264,
+      "title": "Biz Markie prompts an acoustic rap-cover idea"
+    },
+    {
+      "t": 8290,
+      "title": "Live cover: Slick Rick's “Children's Story”"
+    },
+    {
+      "t": 8472,
+      "title": "The first live-music episode reaches trivia"
+    },
+    {
+      "t": 8578,
+      "title": "House of Pain trivia"
+    },
+    {
+      "t": 8675,
+      "title": "“What It's Like” character trivia"
+    },
+    {
+      "t": 8798,
+      "title": "American History X quotation trivia"
+    },
+    {
+      "t": 8925,
+      "title": "Sidekicks and Batman's Robins"
+    },
+    {
+      "t": 9034,
+      "title": "Brian loses and Bobby's ear becomes punishment"
+    },
+    {
+      "t": 9122,
+      "title": "Calbee chips become a possible prize"
+    },
+    {
+      "t": 9201,
+      "title": "Everlast reflects on small and full rooms"
+    },
+    {
+      "t": 9292,
+      "title": "Putting work out matters more than being best"
+    },
+    {
+      "t": 9314,
+      "title": "Arik Marshall can inspire or discourage"
+    },
+    {
+      "t": 9333,
+      "title": "Fan gratitude can end in work the artist dislikes"
+    },
+    {
+      "t": 9372,
+      "title": "Judgment Night's bad descendants"
+    },
+    {
+      "t": 9390,
+      "title": "Ross Robinson and hard-rock Vanilla Ice"
+    },
+    {
+      "t": 9402,
+      "title": "A tour encounter reverses Everlast's hostility"
+    },
+    {
+      "t": 9490,
+      "title": "The Surreal Life and a missed handshake"
+    },
+    {
+      "t": 9630,
+      "title": "Vanilla Ice's house-flipping life"
+    },
+    {
+      "t": 9694,
+      "title": "The Life Acoustic is announced"
+    },
+    {
+      "t": 9706,
+      "title": "Eat at Whitey's and the earlier Slick Rick cover"
+    },
+    {
+      "t": 9762,
+      "title": "“Thumbs Out” returns at the close"
+    }
   ],
   "connections": [
-    {"from_t": 78, "to_t": 373, "label": "Asa's move into directing converts performer experience into production judgment."},
-    {"from_t": 568, "to_t": 9762, "label": "The “Thumbs Out” joke frames the episode and must not be flattened into Thumbs Up! by fuzzy correction."},
-    {"from_t": 1070, "to_t": 1397, "label": "The first performance demonstrates the vocal transition Everlast then explains."},
-    {"from_t": 1490, "to_t": 6250, "label": "“Put Your Lights On” leads from live craft to the Santana collaboration and Grammy."},
-    {"from_t": 1842, "to_t": 3680, "label": "A recent wall with Aryz reconnects Everlast's visit to his graffiti roots and art collection."},
-    {"from_t": 2116, "to_t": 2745, "label": "Leaving House of Pain and resisting the label are two versions of choosing meaningful work over apparent security."},
-    {"from_t": 2147, "to_t": 5960, "label": "Midas and the Henry Rollins-inspired image show visual identity functioning alongside music."},
-    {"from_t": 3030, "to_t": 4970, "label": "Marriage is presented as a daily environmental practice, not a one-time declaration."},
-    {"from_t": 3480, "to_t": 7796, "label": "Family medical experience returns later as the context for “65 Roses.”"},
-    {"from_t": 4700, "to_t": 5600, "label": "Daughters shift Everlast's standard from personal appetite to responsibility and example."},
-    {"from_t": 5030, "to_t": 5390, "label": "David maps gambling recovery onto the problem of knowing when a pleasurable run is enough."},
-    {"from_t": 5510, "to_t": 9201, "label": "Everlast separates hatred of travel from the continuing necessity of live performance."},
-    {"from_t": 5834, "to_t": 6110, "label": "Early white-rapper categorization explains House of Pain's deliberate Irish presentation."},
-    {"from_t": 6773, "to_t": 9314, "label": "The Marshall brothers recur as evidence that talent and recognition are not equivalent."},
-    {"from_t": 6962, "to_t": 9372, "label": "Judgment Night is first treated as innovation, then as a source of unwanted imitation."},
-    {"from_t": 7414, "to_t": 7530, "label": "The near-casting story becomes a broader argument about rejection and actor delusion."},
-    {"from_t": 8290, "to_t": 9706, "label": "The acoustic Slick Rick cover connects the live experiment to Eat at Whitey's and The Life Acoustic."},
-    {"from_t": 9292, "to_t": 9358, "label": "Publishing imperfect work creates both inspiration and artifacts the originator may dislike."}
+    {
+      "from_t": 78,
+      "to_t": 373,
+      "label": "Asa's move into directing converts performer experience into production judgment."
+    },
+    {
+      "from_t": 568,
+      "to_t": 9762,
+      "label": "The “Thumbs Out” joke frames the episode and must not be flattened into Thumbs Up! by fuzzy correction."
+    },
+    {
+      "from_t": 1070,
+      "to_t": 1397,
+      "label": "The first performance demonstrates the vocal transition Everlast then explains."
+    },
+    {
+      "from_t": 1490,
+      "to_t": 6250,
+      "label": "“Put Your Lights On” leads from live craft to the Santana collaboration and Grammy."
+    },
+    {
+      "from_t": 1842,
+      "to_t": 3680,
+      "label": "A recent wall with Aryz reconnects Everlast's visit to his graffiti roots and art collection."
+    },
+    {
+      "from_t": 2116,
+      "to_t": 2745,
+      "label": "Leaving House of Pain and resisting the label are two versions of choosing meaningful work over apparent security."
+    },
+    {
+      "from_t": 2147,
+      "to_t": 5960,
+      "label": "Midas and the Henry Rollins-inspired image show visual identity functioning alongside music."
+    },
+    {
+      "from_t": 3030,
+      "to_t": 4970,
+      "label": "Marriage is presented as a daily environmental practice, not a one-time declaration."
+    },
+    {
+      "from_t": 3480,
+      "to_t": 7796,
+      "label": "Family medical experience returns later as the context for “65 Roses.”"
+    },
+    {
+      "from_t": 4700,
+      "to_t": 5600,
+      "label": "Daughters shift Everlast's standard from personal appetite to responsibility and example."
+    },
+    {
+      "from_t": 5030,
+      "to_t": 5390,
+      "label": "David maps gambling recovery onto the problem of knowing when a pleasurable run is enough."
+    },
+    {
+      "from_t": 5510,
+      "to_t": 9201,
+      "label": "Everlast separates hatred of travel from the continuing necessity of live performance."
+    },
+    {
+      "from_t": 5834,
+      "to_t": 6110,
+      "label": "Early white-rapper categorization explains House of Pain's deliberate Irish presentation."
+    },
+    {
+      "from_t": 6773,
+      "to_t": 9314,
+      "label": "The Marshall brothers recur as evidence that talent and recognition are not equivalent."
+    },
+    {
+      "from_t": 6962,
+      "to_t": 9372,
+      "label": "Judgment Night is first treated as innovation, then as a source of unwanted imitation."
+    },
+    {
+      "from_t": 7414,
+      "to_t": 7530,
+      "label": "The near-casting story becomes a broader argument about rejection and actor delusion."
+    },
+    {
+      "from_t": 8290,
+      "to_t": 9706,
+      "label": "The acoustic Slick Rick cover connects the live experiment to Eat at Whitey's and The Life Acoustic."
+    },
+    {
+      "from_t": 9292,
+      "to_t": 9358,
+      "label": "Publishing imperfect work creates both inspiration and artifacts the originator may dislike."
+    }
   ],
   "quality": {
     "text": "strong after human contextual correction",
@@ -152,5 +569,31 @@
     "race_and_identity": "Racial, ethnic, and gender stereotypes remain attributed to speakers and are not adopted as editorial description.",
     "rights_and_credits": "Near-casting, soundtrack ownership, and label-history claims remain attributed unless independently verified."
   },
-  "speaker_policy": "Everlast, David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba are episode participants. This record does not assign individual transcript turns. The 3,272 fixed-window embeddings remain available, but publication waits for independent held-out multi-speaker validation."
+  "speaker_policy": "Everlast, David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba are episode participants. This record does not assign individual transcript turns. The 3,272 fixed-window embeddings remain available, but publication waits for independent held-out multi-speaker validation.",
+  "people": [
+    "David Choe",
+    "Estevan Oriol",
+    "Bobby Namba",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+  ],
+  "places": [
+    "studio"
+  ],
+  "works": [
+    "American History X",
+    "Judgment Night",
+    "Thumbs Up!",
+    "Thumbs Up",
+    "Batman",
+    "DVDASA",
+    "Spawn"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Everlast joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for DVDASA's first in-studio live-music episode.",
+  "description_source": "Opening of the human-reviewed summary."
 }

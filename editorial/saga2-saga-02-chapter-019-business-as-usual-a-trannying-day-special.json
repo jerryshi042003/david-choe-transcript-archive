@@ -1,41 +1,734 @@
 {
-  "episode_id":"saga2-saga-02-chapter-019-business-as-usual-a-trannying-day-special",
-  "title":"Business as Usual / A Trannying Day Special",
-  "reviewed_on":"2026-07-31",
-  "summary":"Chapter 19 stages a cast-wide cross-dressing episode under a historical title containing a slur. The title and every spoken idea remain literal in the source layer; the editorial layer distinguishes gender expression from gender identity and does not infer that any participant is transgender. The comedy premise repeatedly collides with direct boundaries: one participant says he feels threatened, wants the clothes off, dislikes all of it, feels isolated, refuses Tinder and pleads not to wrestle. A photo-sharing request receives two no's. Later, sexualized attention continues after requests to stop, a shirt-removal prompt receives no, anal contact from an earlier encounter is recalled with surprise and protest, butt-contact games generate pain, and the person who caused pain apologizes. The archive keeps refusal, pressure, participation and apology in sequence rather than treating eventual participation as retroactive consent. A relationship dispute carries similarly clear publication limits: the person says his private affair is private, says stop, and repeatedly refuses to discuss it. The room then explores gaming, solitude, children, intimacy, conventional life and short-duration relationships. It contains a valuable internal argument that fulfillment is relative and that enjoying children does not create a duty to become a parent. It also contains peer diagnoses, pressure, absent-party allegations and deceptive dating tactics, none promoted as guidance. Sexual-health claims require correction. A speaker first says condoms are used every time, then explicitly describes condomless intercourse, bleeding and internal ejaculation. The room attributes a perceived change in attachment to mixed bodily fluids and oxytocin and advances a deterministic claim that women attach after a particular number of sexual encounters. Oxytocin participates in lactation and social processes, but the episode supplies no evidence for a sex-count threshold or inevitable attachment. Correct condom use reduces STI and pregnancy risk; it does not eliminate all risk. The long account of a guest's former relationship preserves her reported rejection, infidelity, age gap and difficulty leaving, while keeping the private former partner non-searchable and marking allegations as one-sided. The episode also records a reported sponsored trip to Israel and stereotypes about Israelis, women and Asian visitors. These remain attributable source speech, not archive facts. Opening and closing Mangchi lyrics are damaged and stay marked indistinct rather than being creatively completed. No idea has been censored or silently improved. No line-level speaker names publish until the recurring cast pass succeeds on held-out acoustic windows.",
-  "chapters":[
-    {"t":0,"title":"Damaged Mangchi opening performance"},{"t":204,"title":"The cross-dressing premise"},{"t":270,"title":"I felt threatened"},{"t":277,"title":"Take this off"},{"t":280,"title":"I do not like any of this"},{"t":328,"title":"Alone and isolated"},{"t":460,"title":"Feminine on-air names"},{"t":525,"title":"Employer power and costume pressure"},{"t":704,"title":"Please, I do not want to wrestle"},{"t":738,"title":"No to sending the photo"},{"t":817,"title":"A bad year and cast hostility"},{"t":853,"title":"No violence"},{"t":960,"title":"Do not discuss my girlfriend"},{"t":994,"title":"We are not talking about this"},{"t":1027,"title":"My private affair is private"},{"t":1095,"title":"I do not want to talk about it"},{"t":1160,"title":"Gaming and addiction language"},{"t":1277,"title":"Permission to repeat Steve's account"},{"t":1320,"title":"FIFA, solitude and fulfillment"},{"t":1419,"title":"Paid and condomless sex disclosure"},{"t":1490,"title":"Freedom and independence"},{"t":1698,"title":"Honesty about leaving"},{"t":1777,"title":"The third-time attachment theory"},{"t":1843,"title":"Condom claim contradicted"},{"t":1882,"title":"Bleeding and disputed cause"},{"t":1932,"title":"Chemicals as relationship explanation"},{"t":2000,"title":"Oxytocin claim"},{"t":2048,"title":"Ritz-Carlton and spending"},{"t":2122,"title":"Partners never see the residence"},{"t":2143,"title":"The hoarder-house test"},{"t":2198,"title":"Fulfillment is relative"},{"t":2244,"title":"Fear of intimacy"},{"t":2256,"title":"Past suicidal ideation"},{"t":2294,"title":"Vasectomy corrected in room"},{"t":2395,"title":"Children without parenthood"},{"t":2429,"title":"Rejecting the conventional life"},{"t":2458,"title":"A guest's heartbreak account"},{"t":2599,"title":"Rejection described as violated womanhood"},{"t":2626,"title":"Israel and alleged infidelity"},{"t":2684,"title":"Multiple alleged affairs"},{"t":2777,"title":"Tinder proposed"},{"t":2902,"title":"An asymmetric open relationship"},{"t":2935,"title":"Insults mistaken for diagnoses"},{"t":2987,"title":"Questionable posting is always no"},{"t":3010,"title":"Temporary total devotion"},{"t":3108,"title":"Unverified Prince bathing story"},{"t":3163,"title":"Dinner as intimacy"},{"t":3300,"title":"Early unrequited love"},{"t":3311,"title":"Smelling and drive-by surveillance"},{"t":3368,"title":"Photos during sleep"},{"t":3422,"title":"Weekend relationships as a drug"},{"t":3504,"title":"Blanket rejection of couples therapy"},{"t":3548,"title":"Israel, danger and partying stereotypes"},{"t":3616,"title":"Reported government publicity trip"},{"t":3701,"title":"Prior surprise anal contact"},{"t":3722,"title":"The fixed-duration relationship method"},{"t":3830,"title":"No woman wants that"},{"t":3850,"title":"Please stop looking at my ass"},{"t":3893,"title":"Hey, what are you doing?"},{"t":3959,"title":"No to removing the shirt"},{"t":4055,"title":"Revenge rejected"},{"t":4083,"title":"Unresolved rape wording"},{"t":4136,"title":"No to the trivia contact"},{"t":4163,"title":"Body-slap limits"},{"t":4202,"title":"Apology after pain"},{"t":4250,"title":"Trivia recap"},{"t":4589,"title":"Damaged closing performance"}
+  "episode_id": "saga2-saga-02-chapter-019-business-as-usual-a-trannying-day-special",
+  "title": "Business as Usual / A Trannying Day Special",
+  "reviewed_on": "2026-07-31",
+  "summary": "Chapter 19 stages a cast-wide cross-dressing episode under a historical title containing a slur. The title and every spoken idea remain literal in the source layer; the editorial layer distinguishes gender expression from gender identity and does not infer that any participant is transgender. The comedy premise repeatedly collides with direct boundaries: one participant says he feels threatened, wants the clothes off, dislikes all of it, feels isolated, refuses Tinder and pleads not to wrestle. A photo-sharing request receives two no's. Later, sexualized attention continues after requests to stop, a shirt-removal prompt receives no, anal contact from an earlier encounter is recalled with surprise and protest, butt-contact games generate pain, and the person who caused pain apologizes. The archive keeps refusal, pressure, participation and apology in sequence rather than treating eventual participation as retroactive consent. A relationship dispute carries similarly clear publication limits: the person says his private affair is private, says stop, and repeatedly refuses to discuss it. The room then explores gaming, solitude, children, intimacy, conventional life and short-duration relationships. It contains a valuable internal argument that fulfillment is relative and that enjoying children does not create a duty to become a parent. It also contains peer diagnoses, pressure, absent-party allegations and deceptive dating tactics, none promoted as guidance. Sexual-health claims require correction. A speaker first says condoms are used every time, then explicitly describes condomless intercourse, bleeding and internal ejaculation. The room attributes a perceived change in attachment to mixed bodily fluids and oxytocin and advances a deterministic claim that women attach after a particular number of sexual encounters. Oxytocin participates in lactation and social processes, but the episode supplies no evidence for a sex-count threshold or inevitable attachment. Correct condom use reduces STI and pregnancy risk; it does not eliminate all risk. The long account of a guest's former relationship preserves her reported rejection, infidelity, age gap and difficulty leaving, while keeping the private former partner non-searchable and marking allegations as one-sided. The episode also records a reported sponsored trip to Israel and stereotypes about Israelis, women and Asian visitors. These remain attributable source speech, not archive facts. Opening and closing Mangchi lyrics are damaged and stay marked indistinct rather than being creatively completed. No idea has been censored or silently improved. No line-level speaker names publish until the recurring cast pass succeeds on held-out acoustic windows.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Damaged Mangchi opening performance"
+    },
+    {
+      "t": 204,
+      "title": "The cross-dressing premise"
+    },
+    {
+      "t": 270,
+      "title": "I felt threatened"
+    },
+    {
+      "t": 277,
+      "title": "Take this off"
+    },
+    {
+      "t": 280,
+      "title": "I do not like any of this"
+    },
+    {
+      "t": 328,
+      "title": "Alone and isolated"
+    },
+    {
+      "t": 460,
+      "title": "Feminine on-air names"
+    },
+    {
+      "t": 525,
+      "title": "Employer power and costume pressure"
+    },
+    {
+      "t": 704,
+      "title": "Please, I do not want to wrestle"
+    },
+    {
+      "t": 738,
+      "title": "No to sending the photo"
+    },
+    {
+      "t": 817,
+      "title": "A bad year and cast hostility"
+    },
+    {
+      "t": 853,
+      "title": "No violence"
+    },
+    {
+      "t": 960,
+      "title": "Do not discuss my girlfriend"
+    },
+    {
+      "t": 994,
+      "title": "We are not talking about this"
+    },
+    {
+      "t": 1027,
+      "title": "My private affair is private"
+    },
+    {
+      "t": 1095,
+      "title": "I do not want to talk about it"
+    },
+    {
+      "t": 1160,
+      "title": "Gaming and addiction language"
+    },
+    {
+      "t": 1277,
+      "title": "Permission to repeat Steve's account"
+    },
+    {
+      "t": 1320,
+      "title": "FIFA, solitude and fulfillment"
+    },
+    {
+      "t": 1419,
+      "title": "Paid and condomless sex disclosure"
+    },
+    {
+      "t": 1490,
+      "title": "Freedom and independence"
+    },
+    {
+      "t": 1698,
+      "title": "Honesty about leaving"
+    },
+    {
+      "t": 1777,
+      "title": "The third-time attachment theory"
+    },
+    {
+      "t": 1843,
+      "title": "Condom claim contradicted"
+    },
+    {
+      "t": 1882,
+      "title": "Bleeding and disputed cause"
+    },
+    {
+      "t": 1932,
+      "title": "Chemicals as relationship explanation"
+    },
+    {
+      "t": 2000,
+      "title": "Oxytocin claim"
+    },
+    {
+      "t": 2048,
+      "title": "Ritz-Carlton and spending"
+    },
+    {
+      "t": 2122,
+      "title": "Partners never see the residence"
+    },
+    {
+      "t": 2143,
+      "title": "The hoarder-house test"
+    },
+    {
+      "t": 2198,
+      "title": "Fulfillment is relative"
+    },
+    {
+      "t": 2244,
+      "title": "Fear of intimacy"
+    },
+    {
+      "t": 2256,
+      "title": "Past suicidal ideation"
+    },
+    {
+      "t": 2294,
+      "title": "Vasectomy corrected in room"
+    },
+    {
+      "t": 2395,
+      "title": "Children without parenthood"
+    },
+    {
+      "t": 2429,
+      "title": "Rejecting the conventional life"
+    },
+    {
+      "t": 2458,
+      "title": "A guest's heartbreak account"
+    },
+    {
+      "t": 2599,
+      "title": "Rejection described as violated womanhood"
+    },
+    {
+      "t": 2626,
+      "title": "Israel and alleged infidelity"
+    },
+    {
+      "t": 2684,
+      "title": "Multiple alleged affairs"
+    },
+    {
+      "t": 2777,
+      "title": "Tinder proposed"
+    },
+    {
+      "t": 2902,
+      "title": "An asymmetric open relationship"
+    },
+    {
+      "t": 2935,
+      "title": "Insults mistaken for diagnoses"
+    },
+    {
+      "t": 2987,
+      "title": "Questionable posting is always no"
+    },
+    {
+      "t": 3010,
+      "title": "Temporary total devotion"
+    },
+    {
+      "t": 3108,
+      "title": "Unverified Prince bathing story"
+    },
+    {
+      "t": 3163,
+      "title": "Dinner as intimacy"
+    },
+    {
+      "t": 3300,
+      "title": "Early unrequited love"
+    },
+    {
+      "t": 3311,
+      "title": "Smelling and drive-by surveillance"
+    },
+    {
+      "t": 3368,
+      "title": "Photos during sleep"
+    },
+    {
+      "t": 3422,
+      "title": "Weekend relationships as a drug"
+    },
+    {
+      "t": 3504,
+      "title": "Blanket rejection of couples therapy"
+    },
+    {
+      "t": 3548,
+      "title": "Israel, danger and partying stereotypes"
+    },
+    {
+      "t": 3616,
+      "title": "Reported government publicity trip"
+    },
+    {
+      "t": 3701,
+      "title": "Prior surprise anal contact"
+    },
+    {
+      "t": 3722,
+      "title": "The fixed-duration relationship method"
+    },
+    {
+      "t": 3830,
+      "title": "No woman wants that"
+    },
+    {
+      "t": 3850,
+      "title": "Please stop looking at my ass"
+    },
+    {
+      "t": 3893,
+      "title": "Hey, what are you doing?"
+    },
+    {
+      "t": 3959,
+      "title": "No to removing the shirt"
+    },
+    {
+      "t": 4055,
+      "title": "Revenge rejected"
+    },
+    {
+      "t": 4083,
+      "title": "Unresolved rape wording"
+    },
+    {
+      "t": 4136,
+      "title": "No to the trivia contact"
+    },
+    {
+      "t": 4163,
+      "title": "Body-slap limits"
+    },
+    {
+      "t": 4202,
+      "title": "Apology after pain"
+    },
+    {
+      "t": 4250,
+      "title": "Trivia recap"
+    },
+    {
+      "t": 4589,
+      "title": "Damaged closing performance"
+    }
   ],
-  "connections":[
-    {"t":204,"to":"gender-expression-and-identity","why":"The premise is cross-dressing; presentation cannot establish transgender identity."},
-    {"t":270,"to":"participant-consent-boundaries","why":"Dislike, threat, isolation and refusal accumulate before later participation."},
-    {"t":860,"to":"saga2-rib-injury","why":"The reported broken rib remains active during physical threats and games."},
-    {"t":960,"to":"participant-publication-boundaries","why":"The prior relationship dispute continues despite repeated requests for privacy."},
-    {"t":1160,"to":"gaming-and-mental-health","why":"Destiny, Warcraft, FIFA, Skyrim and Oblivion become an autonomy-versus-addiction debate."},
-    {"t":1419,"to":"sexual-health-contradictions","why":"Condomless paid sex conflicts with earlier claims of consistent condom use."},
-    {"t":1777,"to":"attachment-and-oxytocin","why":"A deterministic folk theory is attached to a real hormone without supporting evidence."},
-    {"t":2198,"to":"plural-life-design","why":"The room explicitly defends different definitions of fulfillment."},
-    {"t":2256,"to":"self-harm-history","why":"Past heartbreak is linked to reported suicidal ideation."},
-    {"t":2429,"to":"reproductive-autonomy","why":"Liking children is separated from wanting one's own."},
-    {"t":2458,"to":"relationship-testimony","why":"A private guest narrates betrayal while the absent former partner cannot respond."},
-    {"t":2987,"to":"recording-consent","why":"The room articulates a useful rule: when posting is questionable, the answer is no."},
-    {"t":3398,"to":"temporary-intimacy","why":"David explains intense short-lived devotion as a chosen relationship form."},
-    {"t":3616,"to":"israel-publicity-trip","why":"A claimed government-sponsored influencer trip becomes political provenance."},
-    {"t":3701,"to":"saga2-orgy-account","why":"Earlier anal contact is revisited with surprise and protest."},
-    {"t":3893,"to":"consent-chronology","why":"Later joking does not erase the original surprised objection."}
+  "connections": [
+    {
+      "t": 204,
+      "to": "gender-expression-and-identity",
+      "why": "The premise is cross-dressing; presentation cannot establish transgender identity."
+    },
+    {
+      "t": 270,
+      "to": "participant-consent-boundaries",
+      "why": "Dislike, threat, isolation and refusal accumulate before later participation."
+    },
+    {
+      "t": 860,
+      "to": "saga2-rib-injury",
+      "why": "The reported broken rib remains active during physical threats and games."
+    },
+    {
+      "t": 960,
+      "to": "participant-publication-boundaries",
+      "why": "The prior relationship dispute continues despite repeated requests for privacy."
+    },
+    {
+      "t": 1160,
+      "to": "gaming-and-mental-health",
+      "why": "Destiny, Warcraft, FIFA, Skyrim and Oblivion become an autonomy-versus-addiction debate."
+    },
+    {
+      "t": 1419,
+      "to": "sexual-health-contradictions",
+      "why": "Condomless paid sex conflicts with earlier claims of consistent condom use."
+    },
+    {
+      "t": 1777,
+      "to": "attachment-and-oxytocin",
+      "why": "A deterministic folk theory is attached to a real hormone without supporting evidence."
+    },
+    {
+      "t": 2198,
+      "to": "plural-life-design",
+      "why": "The room explicitly defends different definitions of fulfillment."
+    },
+    {
+      "t": 2256,
+      "to": "self-harm-history",
+      "why": "Past heartbreak is linked to reported suicidal ideation."
+    },
+    {
+      "t": 2429,
+      "to": "reproductive-autonomy",
+      "why": "Liking children is separated from wanting one's own."
+    },
+    {
+      "t": 2458,
+      "to": "relationship-testimony",
+      "why": "A private guest narrates betrayal while the absent former partner cannot respond."
+    },
+    {
+      "t": 2987,
+      "to": "recording-consent",
+      "why": "The room articulates a useful rule: when posting is questionable, the answer is no."
+    },
+    {
+      "t": 3398,
+      "to": "temporary-intimacy",
+      "why": "David explains intense short-lived devotion as a chosen relationship form."
+    },
+    {
+      "t": 3616,
+      "to": "israel-publicity-trip",
+      "why": "A claimed government-sponsored influencer trip becomes political provenance."
+    },
+    {
+      "t": 3701,
+      "to": "saga2-orgy-account",
+      "why": "Earlier anal contact is revisited with surprise and protest."
+    },
+    {
+      "t": 3893,
+      "to": "consent-chronology",
+      "why": "Later joking does not erase the original surprised objection."
+    }
   ],
-  "content_warnings":[
-    {"t":0,"warning":"historical anti-trans slur in title and sexual song"},{"t":270,"warning":"threat, isolation and costume pressure"},{"t":704,"warning":"physical pressure after refusal"},{"t":960,"warning":"relationship privacy ignored"},{"t":1419,"warning":"paid and condomless sex"},{"t":1777,"warning":"sexual-health misinformation"},{"t":1852,"warning":"rape wording"},{"t":1882,"warning":"genital bleeding and bodily fluids"},{"t":2256,"warning":"past suicidal ideation"},{"t":2458,"warning":"betrayal and emotional distress"},{"t":2599,"warning":"rape metaphor"},{"t":3311,"warning":"obsessive surveillance behavior"},{"t":3548,"warning":"terrorism and ethnic/racial slurs"},{"t":3701,"warning":"surprise anal contact"},{"t":3850,"warning":"sexualized body pressure"},{"t":4083,"warning":"unresolved sexual-assault statement"},{"t":4163,"warning":"pain during body-slap game"}
+  "content_warnings": [
+    {
+      "t": 0,
+      "warning": "historical anti-trans slur in title and sexual song"
+    },
+    {
+      "t": 270,
+      "warning": "threat, isolation and costume pressure"
+    },
+    {
+      "t": 704,
+      "warning": "physical pressure after refusal"
+    },
+    {
+      "t": 960,
+      "warning": "relationship privacy ignored"
+    },
+    {
+      "t": 1419,
+      "warning": "paid and condomless sex"
+    },
+    {
+      "t": 1777,
+      "warning": "sexual-health misinformation"
+    },
+    {
+      "t": 1852,
+      "warning": "rape wording"
+    },
+    {
+      "t": 1882,
+      "warning": "genital bleeding and bodily fluids"
+    },
+    {
+      "t": 2256,
+      "warning": "past suicidal ideation"
+    },
+    {
+      "t": 2458,
+      "warning": "betrayal and emotional distress"
+    },
+    {
+      "t": 2599,
+      "warning": "rape metaphor"
+    },
+    {
+      "t": 3311,
+      "warning": "obsessive surveillance behavior"
+    },
+    {
+      "t": 3548,
+      "warning": "terrorism and ethnic/racial slurs"
+    },
+    {
+      "t": 3701,
+      "warning": "surprise anal contact"
+    },
+    {
+      "t": 3850,
+      "warning": "sexualized body pressure"
+    },
+    {
+      "t": 4083,
+      "warning": "unresolved sexual-assault statement"
+    },
+    {
+      "t": 4163,
+      "warning": "pain during body-slap game"
+    }
   ],
-  "publication_restrictions":[
-    {"t":0,"rule":"Preserve the historical title in source/provenance only; do not adopt its slur as editorial vocabulary."},{"t":204,"rule":"Do not infer transgender identity from clothing, makeup, names or performance."},{"t":270,"rule":"Keep threat, dislike, isolation and removal requests together."},{"t":460,"rule":"Do not force uncertain on-air names onto legal identities or line-level speakers."},{"t":525,"rule":"Do not treat employee acquiescence as free of workplace power."},{"t":704,"rule":"Retain the direct wrestling refusal."},{"t":738,"rule":"Do not share the refused photo."},{"t":960,"rule":"Honor repeated relationship privacy requests in discovery and excerpts."},{"t":1160,"rule":"Do not diagnose addiction from peer speculation."},{"t":1277,"rule":"Permission for one account is not blanket permission for all private details."},{"t":1380,"rule":"Do not identify the private young partner through age, ethnicity, body or location."},{"t":1419,"rule":"Do not operationalize paid-sex travel or conceal STI risk."},{"t":1490,"rule":"Do not pathologize a stated preference for solitude."},{"t":1530,"rule":"Do not present deceptive dating tactics as advice."},{"t":1630,"rule":"Withhold the ambiguous American Indian phrase pending audio."},{"t":1653,"rule":"Keep prejudicial statement and immediate retraction together."},{"t":1777,"rule":"Do not publish a third-sex attachment threshold as science."},{"t":1843,"rule":"Keep the condoms-every-time claim beside the no-condom contradiction."},{"t":1852,"rule":"Do not infer an assault from a hyperbolic demonstration line."},{"t":1882,"rule":"Do not diagnose the cause of bleeding."},{"t":1932,"rule":"Do not claim bodily-fluid mixing caused attachment."},{"t":2028,"rule":"Do not report the Kalilah identification joke as fact."},{"t":2122,"rule":"Exclude private residence clues."},{"t":2143,"rule":"Do not promote deceptive partner tests."},{"t":2244,"rule":"Attribute fear-of-intimacy language to peers, not clinicians."},{"t":2256,"rule":"Do not detach suicidal ideation from recovery/history context."},{"t":2306,"rule":"Do not identify the private vasectomy/sex-tour person or provide sourcing instructions."},{"t":2465,"rule":"Keep private sexual history out of neutral discovery."},{"t":2514,"rule":"Do not reidentify the former partner from age, sport, ethnicity, school or travel."},{"t":2599,"rule":"Do not convert a metaphor into an assault allegation."},{"t":2628,"rule":"Attribute infidelity claims to the guest; the former partner is absent."},{"t":2633,"rule":"Do not repeat Tel Aviv gender stereotypes as fact."},{"t":2708,"rule":"Do not report the 80-percent honesty claim as evidence."},{"t":2777,"rule":"Do not create or operate a dating account from this discussion."},{"t":2871,"rule":"Do not turn ethnicity-swapped messages into a template."},{"t":2935,"rule":"Insults such as crazy and delusional are not diagnoses."},{"t":2987,"rule":"Retain the internal rule that questionable posting means no."},{"t":3108,"rule":"Label the Prince story unverified."},{"t":3268,"rule":"Do not interpret the shower metaphor as evidence of rape."},{"t":3300,"rule":"Do not index private early love interests by uncertain names."},{"t":3311,"rule":"Do not romanticize surveillance or provide location clues."},{"t":3368,"rule":"Sleeping-person photography requires consent; none is established here."},{"t":3504,"rule":"Do not present avoiding couples therapy as health guidance."},{"t":3548,"rule":"Do not present danger-causes-partying stereotypes as Israeli social fact."},{"t":3576,"rule":"Racial slurs stay literal source speech only."},{"t":3616,"rule":"Treat sponsorship, itinerary and requested promotion as reported, not independently verified."},{"t":3679,"rule":"Use respectful editorial terminology; preserve dated slur only in source."},{"t":3701,"rule":"Do not infer consent to anal contact from later joking or friendship."},{"t":3722,"rule":"Present the fixed-duration method as self-report, not universally ethical guidance."},{"t":3761,"rule":"Do not treat a violent simile as a homicide admission."},{"t":3830,"rule":"Keep the participant's counterexample beside the gender generalization."},{"t":3850,"rule":"Retain the direct request to stop looking."},{"t":3893,"rule":"Keep surprise and protest with the prior anal-contact story."},{"t":3959,"rule":"Retain the direct no to removing clothing."},{"t":4055,"rule":"Retain the guest's rejection of revenge."},{"t":4083,"rule":"Restrict the unresolved rape statement from snippets until audio and context review."},{"t":4136,"rule":"Retain the direct no to intimate trivia contact."},{"t":4163,"rule":"Video is required to interpret the changing body-slap limits."},{"t":4202,"rule":"Keep pain, apology and later reaction in one chronology."},{"t":4589,"rule":"Do not invent Mangchi lyrics from decoder residue."}
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Preserve the historical title in source/provenance only; do not adopt its slur as editorial vocabulary."
+    },
+    {
+      "t": 204,
+      "rule": "Do not infer transgender identity from clothing, makeup, names or performance."
+    },
+    {
+      "t": 270,
+      "rule": "Keep threat, dislike, isolation and removal requests together."
+    },
+    {
+      "t": 460,
+      "rule": "Do not force uncertain on-air names onto legal identities or line-level speakers."
+    },
+    {
+      "t": 525,
+      "rule": "Do not treat employee acquiescence as free of workplace power."
+    },
+    {
+      "t": 704,
+      "rule": "Retain the direct wrestling refusal."
+    },
+    {
+      "t": 738,
+      "rule": "Do not share the refused photo."
+    },
+    {
+      "t": 960,
+      "rule": "Honor repeated relationship privacy requests in discovery and excerpts."
+    },
+    {
+      "t": 1160,
+      "rule": "Do not diagnose addiction from peer speculation."
+    },
+    {
+      "t": 1277,
+      "rule": "Permission for one account is not blanket permission for all private details."
+    },
+    {
+      "t": 1380,
+      "rule": "Do not identify the private young partner through age, ethnicity, body or location."
+    },
+    {
+      "t": 1419,
+      "rule": "Do not operationalize paid-sex travel or conceal STI risk."
+    },
+    {
+      "t": 1490,
+      "rule": "Do not pathologize a stated preference for solitude."
+    },
+    {
+      "t": 1530,
+      "rule": "Do not present deceptive dating tactics as advice."
+    },
+    {
+      "t": 1630,
+      "rule": "Withhold the ambiguous American Indian phrase pending audio."
+    },
+    {
+      "t": 1653,
+      "rule": "Keep prejudicial statement and immediate retraction together."
+    },
+    {
+      "t": 1777,
+      "rule": "Do not publish a third-sex attachment threshold as science."
+    },
+    {
+      "t": 1843,
+      "rule": "Keep the condoms-every-time claim beside the no-condom contradiction."
+    },
+    {
+      "t": 1852,
+      "rule": "Do not infer an assault from a hyperbolic demonstration line."
+    },
+    {
+      "t": 1882,
+      "rule": "Do not diagnose the cause of bleeding."
+    },
+    {
+      "t": 1932,
+      "rule": "Do not claim bodily-fluid mixing caused attachment."
+    },
+    {
+      "t": 2028,
+      "rule": "Do not report the Kalilah identification joke as fact."
+    },
+    {
+      "t": 2122,
+      "rule": "Exclude private residence clues."
+    },
+    {
+      "t": 2143,
+      "rule": "Do not promote deceptive partner tests."
+    },
+    {
+      "t": 2244,
+      "rule": "Attribute fear-of-intimacy language to peers, not clinicians."
+    },
+    {
+      "t": 2256,
+      "rule": "Do not detach suicidal ideation from recovery/history context."
+    },
+    {
+      "t": 2306,
+      "rule": "Do not identify the private vasectomy/sex-tour person or provide sourcing instructions."
+    },
+    {
+      "t": 2465,
+      "rule": "Keep private sexual history out of neutral discovery."
+    },
+    {
+      "t": 2514,
+      "rule": "Do not reidentify the former partner from age, sport, ethnicity, school or travel."
+    },
+    {
+      "t": 2599,
+      "rule": "Do not convert a metaphor into an assault allegation."
+    },
+    {
+      "t": 2628,
+      "rule": "Attribute infidelity claims to the guest; the former partner is absent."
+    },
+    {
+      "t": 2633,
+      "rule": "Do not repeat Tel Aviv gender stereotypes as fact."
+    },
+    {
+      "t": 2708,
+      "rule": "Do not report the 80-percent honesty claim as evidence."
+    },
+    {
+      "t": 2777,
+      "rule": "Do not create or operate a dating account from this discussion."
+    },
+    {
+      "t": 2871,
+      "rule": "Do not turn ethnicity-swapped messages into a template."
+    },
+    {
+      "t": 2935,
+      "rule": "Insults such as crazy and delusional are not diagnoses."
+    },
+    {
+      "t": 2987,
+      "rule": "Retain the internal rule that questionable posting means no."
+    },
+    {
+      "t": 3108,
+      "rule": "Label the Prince story unverified."
+    },
+    {
+      "t": 3268,
+      "rule": "Do not interpret the shower metaphor as evidence of rape."
+    },
+    {
+      "t": 3300,
+      "rule": "Do not index private early love interests by uncertain names."
+    },
+    {
+      "t": 3311,
+      "rule": "Do not romanticize surveillance or provide location clues."
+    },
+    {
+      "t": 3368,
+      "rule": "Sleeping-person photography requires consent; none is established here."
+    },
+    {
+      "t": 3504,
+      "rule": "Do not present avoiding couples therapy as health guidance."
+    },
+    {
+      "t": 3548,
+      "rule": "Do not present danger-causes-partying stereotypes as Israeli social fact."
+    },
+    {
+      "t": 3576,
+      "rule": "Racial slurs stay literal source speech only."
+    },
+    {
+      "t": 3616,
+      "rule": "Treat sponsorship, itinerary and requested promotion as reported, not independently verified."
+    },
+    {
+      "t": 3679,
+      "rule": "Use respectful editorial terminology; preserve dated slur only in source."
+    },
+    {
+      "t": 3701,
+      "rule": "Do not infer consent to anal contact from later joking or friendship."
+    },
+    {
+      "t": 3722,
+      "rule": "Present the fixed-duration method as self-report, not universally ethical guidance."
+    },
+    {
+      "t": 3761,
+      "rule": "Do not treat a violent simile as a homicide admission."
+    },
+    {
+      "t": 3830,
+      "rule": "Keep the participant's counterexample beside the gender generalization."
+    },
+    {
+      "t": 3850,
+      "rule": "Retain the direct request to stop looking."
+    },
+    {
+      "t": 3893,
+      "rule": "Keep surprise and protest with the prior anal-contact story."
+    },
+    {
+      "t": 3959,
+      "rule": "Retain the direct no to removing clothing."
+    },
+    {
+      "t": 4055,
+      "rule": "Retain the guest's rejection of revenge."
+    },
+    {
+      "t": 4083,
+      "rule": "Restrict the unresolved rape statement from snippets until audio and context review."
+    },
+    {
+      "t": 4136,
+      "rule": "Retain the direct no to intimate trivia contact."
+    },
+    {
+      "t": 4163,
+      "rule": "Video is required to interpret the changing body-slap limits."
+    },
+    {
+      "t": 4202,
+      "rule": "Keep pain, apology and later reaction in one chronology."
+    },
+    {
+      "t": 4589,
+      "rule": "Do not invent Mangchi lyrics from decoder residue."
+    }
   ],
-  "source_notes":[
-    {"t":204,"claim":"The cast's feminine presentation establishes transgender identity.","assessment":"unsupported. Gender expression is visible presentation; gender identity is an internal sense and cannot be inferred from appearance alone.","source":"https://glaad.org/whereweareontv23/glossary-of-terms/"},
-    {"t":1419,"claim":"Condomless sex can be treated only as a relationship anecdote.","assessment":"unsafe. CDC says correct condom use reduces STI and pregnancy risk, though it does not eliminate all risk.","source":"https://www.cdc.gov/condom-use/index.html"},
-    {"t":1777,"claim":"After a particular number of sexual encounters, oxytocin makes women inevitably attach.","assessment":"unsupported deterministic generalization. The episode offers no study, threshold or evidence separating hormonal effects from context, expectation and individual variation.","source":"https://www.ncbi.nlm.nih.gov/books/NBK507848/"},
-    {"t":3504,"claim":"Going to couples therapy means the relationship is already over.","assessment":"unsupported blanket claim; preserve as opinion, not clinical guidance.","source":"https://www.nimh.nih.gov/health/find-help"}
+  "source_notes": [
+    {
+      "t": 204,
+      "claim": "The cast's feminine presentation establishes transgender identity.",
+      "assessment": "unsupported. Gender expression is visible presentation; gender identity is an internal sense and cannot be inferred from appearance alone.",
+      "source": "https://glaad.org/whereweareontv23/glossary-of-terms/"
+    },
+    {
+      "t": 1419,
+      "claim": "Condomless sex can be treated only as a relationship anecdote.",
+      "assessment": "unsafe. CDC says correct condom use reduces STI and pregnancy risk, though it does not eliminate all risk.",
+      "source": "https://www.cdc.gov/condom-use/index.html"
+    },
+    {
+      "t": 1777,
+      "claim": "After a particular number of sexual encounters, oxytocin makes women inevitably attach.",
+      "assessment": "unsupported deterministic generalization. The episode offers no study, threshold or evidence separating hormonal effects from context, expectation and individual variation.",
+      "source": "https://www.ncbi.nlm.nih.gov/books/NBK507848/"
+    },
+    {
+      "t": 3504,
+      "claim": "Going to couples therapy means the relationship is already over.",
+      "assessment": "unsupported blanket claim; preserve as opinion, not clinical guidance.",
+      "source": "https://www.nimh.nih.gov/health/find-help"
+    }
   ],
-  "quality":{"raw_segments":2659,"clean_segments":2610,"raw_words_approx":15030,"clean_words_approx":14933,"duration_seconds":4780.88,"accepted_context_decisions":108,"chapters":67,"connections":16,"content_warnings":17,"identity_windows":0,"named_turns":0,"cleaning_edits":61,"cleaning_net_word_delta":-157,"clean_transcript_net_word_delta":-97,"uncertainty_marker_words_added":60,"public_restriction_spans":60,"review_queue_suggestions":0,"review_queue_suggestions_accepted":0},
-  "speaker_policy":"Public recurring cast and guests may be identified only at episode/context level when established. Feminine performance names do not establish gender identity or stable speaker identity. Private partners, relatives and sexual-history subjects remain generic. No line-level named dialogue publishes until held-out acoustic identity windows and turn assignments pass validation."
+  "quality": {
+    "raw_segments": 2659,
+    "clean_segments": 2610,
+    "raw_words_approx": 15030,
+    "clean_words_approx": 14933,
+    "duration_seconds": 4780.88,
+    "accepted_context_decisions": 108,
+    "chapters": 67,
+    "connections": 16,
+    "content_warnings": 17,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 61,
+    "cleaning_net_word_delta": -157,
+    "clean_transcript_net_word_delta": -97,
+    "uncertainty_marker_words_added": 60,
+    "public_restriction_spans": 60,
+    "review_queue_suggestions": 0,
+    "review_queue_suggestions_accepted": 0
+  },
+  "speaker_policy": "Public recurring cast and guests may be identified only at episode/context level when established. Feminine performance names do not establish gender identity or stable speaker identity. Private partners, relatives and sexual-history subjects remain generic. No line-level named dialogue publishes until held-out acoustic identity windows and turn assignments pass validation.",
+  "people": [
+    "David Choe"
+  ],
+  "places": [
+    "Israel",
+    "party"
+  ],
+  "works": [
+    "Mangchi",
+    "NON"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Chapter 19 stages a cast-wide cross-dressing episode under a historical title containing a slur.",
+  "description_source": "Opening of the human-reviewed summary."
 }

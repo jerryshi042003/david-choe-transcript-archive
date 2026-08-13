@@ -24,156 +24,638 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 0, "title": "Manila and a phone-bound low point"},
-    {"t": 35, "title": "Bobby Trivia and Filipino belonging"},
-    {"t": 55, "title": "Education insecurity and novelty credentials"},
-    {"t": 126, "title": "Celebrity identity banter"},
-    {"t": 164, "title": "Andre, Cash Man G and a private guide"},
-    {"t": 218, "title": "Fruit market and first tastes"},
-    {"t": 255, "title": "Allergy concern and durian pressure"},
-    {"t": 302, "title": "Language, religious images and celebrity comparison"},
-    {"t": 365, "title": "Palm reading as therapy analogy"},
-    {"t": 410, "title": "A prediction about mission and money"},
-    {"t": 468, "title": "Rain, work and getting closer to God"},
-    {"t": 514, "title": "Bootleg market negotiation"},
-    {"t": 586, "title": "Pokémon cards and unverified merchandise"},
-    {"t": 646, "title": "Gifts to children and toy jokes"},
-    {"t": 708, "title": "A toy powered by love"},
-    {"t": 789, "title": "Siargao, Siquijor and a location transition"},
-    {"t": 836, "title": "Midday whiskey and arrival at tattoo shops"},
-    {"t": 875, "title": "Bobby refuses a tattoo"},
-    {"t": 900, "title": "A private tattooed participant"},
-    {"t": 924, "title": "Face-tattoo proposals and pressure"},
-    {"t": 970, "title": "Past, future, now and love"},
-    {"t": 991, "title": "Exposure theories and the Jin misunderstanding"},
-    {"t": 1025, "title": "Doctor visit and sample cups"},
-    {"t": 1056, "title": "Merged dialogue and one traveler heads out"},
-    {"t": 1082, "title": "Jet skis while David is ill"},
-    {"t": 1120, "title": "Tattoo karma and recovery"},
-    {"t": 1141, "title": "Bobby objects to a recurring bed story"},
-    {"t": 1171, "title": "David's shart and comic karma"},
-    {"t": 1206, "title": "Filipino Top Gun and boat games"},
-    {"t": 1233, "title": "Sunscreen misinformation"},
-    {"t": 1255, "title": "Boat radio and likely Mam-on"},
-    {"t": 1277, "title": "Unsafe impairment rhetoric on the water"},
-    {"t": 1298, "title": "A secluded island and Mississippi callback"},
-    {"t": 1337, "title": "An unidentified organism called bayawak"},
-    {"t": 1356, "title": "Warned not to eat it, then release"},
-    {"t": 1397, "title": "An island DJ sequence"},
-    {"t": 1410, "title": "Stomach trouble and outdoor toileting"},
-    {"t": 1480, "title": "Unresolved DJ names"},
-    {"t": 1502, "title": "Sunset and the perfect-day friendship thesis"},
-    {"t": 1529, "title": "Roast pig visual jokes"},
-    {"t": 1566, "title": "Barbecue and sweetness"},
-    {"t": 1580, "title": "An inaccurate diabetes generalization"},
-    {"t": 1588, "title": "A musician interaction and ambiguous introductions"},
-    {"t": 1603, "title": "Tipping, singing and a dishwasher refrain"},
-    {"t": 1644, "title": "Miss Crispy dating-show parody"},
-    {"t": 1715, "title": "First dates, dancing and physical comedy"},
-    {"t": 1760, "title": "A comic winner and fried chicken"},
-    {"t": 1804, "title": "Borrowed shirt, family thanks and altered perception"},
-    {"t": 1902, "title": "Plant medicine and self-reproach about content"},
-    {"t": 1917, "title": "Belonging, source correction and good luck editing"}
+    {
+      "t": 0,
+      "title": "Manila and a phone-bound low point"
+    },
+    {
+      "t": 35,
+      "title": "Bobby Trivia and Filipino belonging"
+    },
+    {
+      "t": 55,
+      "title": "Education insecurity and novelty credentials"
+    },
+    {
+      "t": 126,
+      "title": "Celebrity identity banter"
+    },
+    {
+      "t": 164,
+      "title": "Andre, Cash Man G and a private guide"
+    },
+    {
+      "t": 218,
+      "title": "Fruit market and first tastes"
+    },
+    {
+      "t": 255,
+      "title": "Allergy concern and durian pressure"
+    },
+    {
+      "t": 302,
+      "title": "Language, religious images and celebrity comparison"
+    },
+    {
+      "t": 365,
+      "title": "Palm reading as therapy analogy"
+    },
+    {
+      "t": 410,
+      "title": "A prediction about mission and money"
+    },
+    {
+      "t": 468,
+      "title": "Rain, work and getting closer to God"
+    },
+    {
+      "t": 514,
+      "title": "Bootleg market negotiation"
+    },
+    {
+      "t": 586,
+      "title": "Pokémon cards and unverified merchandise"
+    },
+    {
+      "t": 646,
+      "title": "Gifts to children and toy jokes"
+    },
+    {
+      "t": 708,
+      "title": "A toy powered by love"
+    },
+    {
+      "t": 789,
+      "title": "Siargao, Siquijor and a location transition"
+    },
+    {
+      "t": 836,
+      "title": "Midday whiskey and arrival at tattoo shops"
+    },
+    {
+      "t": 875,
+      "title": "Bobby refuses a tattoo"
+    },
+    {
+      "t": 900,
+      "title": "A private tattooed participant"
+    },
+    {
+      "t": 924,
+      "title": "Face-tattoo proposals and pressure"
+    },
+    {
+      "t": 970,
+      "title": "Past, future, now and love"
+    },
+    {
+      "t": 991,
+      "title": "Exposure theories and the Jin misunderstanding"
+    },
+    {
+      "t": 1025,
+      "title": "Doctor visit and sample cups"
+    },
+    {
+      "t": 1056,
+      "title": "Merged dialogue and one traveler heads out"
+    },
+    {
+      "t": 1082,
+      "title": "Jet skis while David is ill"
+    },
+    {
+      "t": 1120,
+      "title": "Tattoo karma and recovery"
+    },
+    {
+      "t": 1141,
+      "title": "Bobby objects to a recurring bed story"
+    },
+    {
+      "t": 1171,
+      "title": "David's shart and comic karma"
+    },
+    {
+      "t": 1206,
+      "title": "Filipino Top Gun and boat games"
+    },
+    {
+      "t": 1233,
+      "title": "Sunscreen misinformation"
+    },
+    {
+      "t": 1255,
+      "title": "Boat radio and likely Mam-on"
+    },
+    {
+      "t": 1277,
+      "title": "Unsafe impairment rhetoric on the water"
+    },
+    {
+      "t": 1298,
+      "title": "A secluded island and Mississippi callback"
+    },
+    {
+      "t": 1337,
+      "title": "An unidentified organism called bayawak"
+    },
+    {
+      "t": 1356,
+      "title": "Warned not to eat it, then release"
+    },
+    {
+      "t": 1397,
+      "title": "An island DJ sequence"
+    },
+    {
+      "t": 1410,
+      "title": "Stomach trouble and outdoor toileting"
+    },
+    {
+      "t": 1480,
+      "title": "Unresolved DJ names"
+    },
+    {
+      "t": 1502,
+      "title": "Sunset and the perfect-day friendship thesis"
+    },
+    {
+      "t": 1529,
+      "title": "Roast pig visual jokes"
+    },
+    {
+      "t": 1566,
+      "title": "Barbecue and sweetness"
+    },
+    {
+      "t": 1580,
+      "title": "An inaccurate diabetes generalization"
+    },
+    {
+      "t": 1588,
+      "title": "A musician interaction and ambiguous introductions"
+    },
+    {
+      "t": 1603,
+      "title": "Tipping, singing and a dishwasher refrain"
+    },
+    {
+      "t": 1644,
+      "title": "Miss Crispy dating-show parody"
+    },
+    {
+      "t": 1715,
+      "title": "First dates, dancing and physical comedy"
+    },
+    {
+      "t": 1760,
+      "title": "A comic winner and fried chicken"
+    },
+    {
+      "t": 1804,
+      "title": "Borrowed shirt, family thanks and altered perception"
+    },
+    {
+      "t": 1902,
+      "title": "Plant medicine and self-reproach about content"
+    },
+    {
+      "t": 1917,
+      "title": "Belonging, source correction and good luck editing"
+    }
   ],
-  "people": ["David Choe", "Bobby Lee", "Andre [private episode participant]", "Cash Man G [unverified performance name]", "Micah [private participant]", "Robin [private participant]", "private doctors, vendors, guides, tattoo participants, children, boat operators, DJs and musicians"],
-  "places": ["Manila", "Siargao", "Siquijor [episode transition/claim]", "Mam-on or Mamon Island [verification pending]", "Parañaque [participant statement]", "Palawan [participant statement]", "unidentified markets, hotels, clinics, beaches, boats, islands, venues and tattoo shops"],
-  "works": ["Thumbs Up!", "Top Gun [allusion]", "Pokémon [merchandise/collector context]", "Inktober", "David's paintings and tattoos [scene context]"],
-  "themes": ["depression self-report", "phone dependence", "travel and belonging", "friendship", "bootleg markets", "food", "tattoo pressure", "consent and refusal", "illness", "privacy objections", "health misinformation", "boating risk", "wildlife uncertainty", "performance", "altered states", "spirituality", "self-critique about content", "speaker ambiguity"],
+  "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Andre [private episode participant]",
+    "Cash Man G [unverified performance name]",
+    "Micah [private participant]",
+    "Robin [private participant]",
+    "private doctors, vendors, guides, tattoo participants, children, boat operators, DJs and musicians"
+  ],
+  "places": [
+    "Manila",
+    "Siargao",
+    "Siquijor [episode transition/claim]",
+    "Mam-on or Mamon Island [verification pending]",
+    "Parañaque [participant statement]",
+    "Palawan [participant statement]",
+    "unidentified markets, hotels, clinics, beaches, boats, islands, venues and tattoo shops"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "Top Gun [allusion]",
+    "Pokémon [merchandise/collector context]",
+    "Inktober",
+    "David's paintings and tattoos [scene context]"
+  ],
+  "themes": [
+    "depression self-report",
+    "phone dependence",
+    "travel and belonging",
+    "friendship",
+    "bootleg markets",
+    "food",
+    "tattoo pressure",
+    "consent and refusal",
+    "illness",
+    "privacy objections",
+    "health misinformation",
+    "boating risk",
+    "wildlife uncertainty",
+    "performance",
+    "altered states",
+    "spirituality",
+    "self-critique about content",
+    "speaker ambiguity"
+  ],
   "connections": [
-    {"t": 18, "to": "lost-to-found", "why": "The trip begins with David describing depression and phone dependence, then closes with reconnection and welcome."},
-    {"t": 35, "to": "bobby-recurring-cast", "why": "Bobby is the principal recurring companion, but this auto transcript still cannot label his turns."},
-    {"t": 73, "to": "credential-performance", "why": "Novelty documents turn education insecurity into performance rather than achievement."},
-    {"t": 164, "to": "private-guide-boundary", "why": "The archive can retain the encounter without amplifying a private participant's handle."},
-    {"t": 255, "to": "food-pressure", "why": "Comic tasting collides with a stated allergy concern and an explicit pressure boundary."},
-    {"t": 365, "to": "therapy-analogies", "why": "David again collapses spiritual/performance practices into mental-health language."},
-    {"t": 586, "to": "art-authenticity-and-fakes", "why": "Bootleg toys and cards echo the broader archive's fascination with authorship, value and fraud."},
-    {"t": 708, "to": "comic-spiritual-physics", "why": "A batteryless toy becomes a joke about love rather than an evidentiary claim."},
-    {"t": 875, "to": "refusal-pressure-pattern", "why": "Bobby's direct no must remain visible beside David's continued persuasion."},
-    {"t": 970, "to": "meaning-remains-contradictory", "why": "Two explanations of the tattoo are both source facts; the archive should not choose one."},
-    {"t": 991, "to": "road-health-cost", "why": "Illness follows food, wounds, animals and travel, but none proves a cause."},
-    {"t": 1008, "to": "source-self-correction", "why": "The finale corrects Jin/Gin, demonstrating why corrections should backlink rather than overwrite."},
-    {"t": 1038, "to": "medical-attribution", "why": "A clinical scene contains real terms but merged captions prevent reliable diagnosis attribution."},
-    {"t": 1141, "to": "participant-objection-to-content", "why": "Bobby explicitly objects to an embarrassing story being repeatedly broadcast."},
-    {"t": 1171, "to": "narrative-karma", "why": "David frames his own bodily accident as comic repayment."},
-    {"t": 1206, "to": "format-instability", "why": "Travelogue repeatedly transforms into action-film, game-show and food-show parody."},
-    {"t": 1233, "to": "joke-versus-health-claim", "why": "Racialized sunscreen banter must remain speech without becoming health guidance."},
-    {"t": 1298, "to": "mississippi-island-callback", "why": "The present island is linked rhetorically to an earlier Thumbs Up road chapter."},
-    {"t": 1337, "to": "unresolved-visual-entity", "why": "Conflicting names show why text alone cannot safely identify an organism."},
-    {"t": 1502, "to": "friendship-thesis", "why": "Perfect days are always bros is a source-linked line, not cleaned doctrine."},
-    {"t": 1580, "to": "food-to-public-health-generalization", "why": "A sweetness observation jumps into an unsupported population ranking."},
-    {"t": 1644, "to": "people-as-format", "why": "Private participants enter an improvised dating-show frame without becoming public profiles."},
-    {"t": 1902, "to": "sacred-experience-versus-content", "why": "David criticizes himself for converting an altered spiritual experience into media."},
-    {"t": 1917, "to": "belonging-without-identity-authority", "why": "The conclusion is first-person gratitude, not an encyclopedic definition of Filipino identity."}
+    {
+      "t": 18,
+      "to": "lost-to-found",
+      "why": "The trip begins with David describing depression and phone dependence, then closes with reconnection and welcome."
+    },
+    {
+      "t": 35,
+      "to": "bobby-recurring-cast",
+      "why": "Bobby is the principal recurring companion, but this auto transcript still cannot label his turns."
+    },
+    {
+      "t": 73,
+      "to": "credential-performance",
+      "why": "Novelty documents turn education insecurity into performance rather than achievement."
+    },
+    {
+      "t": 164,
+      "to": "private-guide-boundary",
+      "why": "The archive can retain the encounter without amplifying a private participant's handle."
+    },
+    {
+      "t": 255,
+      "to": "food-pressure",
+      "why": "Comic tasting collides with a stated allergy concern and an explicit pressure boundary."
+    },
+    {
+      "t": 365,
+      "to": "therapy-analogies",
+      "why": "David again collapses spiritual/performance practices into mental-health language."
+    },
+    {
+      "t": 586,
+      "to": "art-authenticity-and-fakes",
+      "why": "Bootleg toys and cards echo the broader archive's fascination with authorship, value and fraud."
+    },
+    {
+      "t": 708,
+      "to": "comic-spiritual-physics",
+      "why": "A batteryless toy becomes a joke about love rather than an evidentiary claim."
+    },
+    {
+      "t": 875,
+      "to": "refusal-pressure-pattern",
+      "why": "Bobby's direct no must remain visible beside David's continued persuasion."
+    },
+    {
+      "t": 970,
+      "to": "meaning-remains-contradictory",
+      "why": "Two explanations of the tattoo are both source facts; the archive should not choose one."
+    },
+    {
+      "t": 991,
+      "to": "road-health-cost",
+      "why": "Illness follows food, wounds, animals and travel, but none proves a cause."
+    },
+    {
+      "t": 1008,
+      "to": "source-self-correction",
+      "why": "The finale corrects Jin/Gin, demonstrating why corrections should backlink rather than overwrite."
+    },
+    {
+      "t": 1038,
+      "to": "medical-attribution",
+      "why": "A clinical scene contains real terms but merged captions prevent reliable diagnosis attribution."
+    },
+    {
+      "t": 1141,
+      "to": "participant-objection-to-content",
+      "why": "Bobby explicitly objects to an embarrassing story being repeatedly broadcast."
+    },
+    {
+      "t": 1171,
+      "to": "narrative-karma",
+      "why": "David frames his own bodily accident as comic repayment."
+    },
+    {
+      "t": 1206,
+      "to": "format-instability",
+      "why": "Travelogue repeatedly transforms into action-film, game-show and food-show parody."
+    },
+    {
+      "t": 1233,
+      "to": "joke-versus-health-claim",
+      "why": "Racialized sunscreen banter must remain speech without becoming health guidance."
+    },
+    {
+      "t": 1298,
+      "to": "mississippi-island-callback",
+      "why": "The present island is linked rhetorically to an earlier Thumbs Up road chapter."
+    },
+    {
+      "t": 1337,
+      "to": "unresolved-visual-entity",
+      "why": "Conflicting names show why text alone cannot safely identify an organism."
+    },
+    {
+      "t": 1502,
+      "to": "friendship-thesis",
+      "why": "Perfect days are always bros is a source-linked line, not cleaned doctrine."
+    },
+    {
+      "t": 1580,
+      "to": "food-to-public-health-generalization",
+      "why": "A sweetness observation jumps into an unsupported population ranking."
+    },
+    {
+      "t": 1644,
+      "to": "people-as-format",
+      "why": "Private participants enter an improvised dating-show frame without becoming public profiles."
+    },
+    {
+      "t": 1902,
+      "to": "sacred-experience-versus-content",
+      "why": "David criticizes himself for converting an altered spiritual experience into media."
+    },
+    {
+      "t": 1917,
+      "to": "belonging-without-identity-authority",
+      "why": "The conclusion is first-person gratitude, not an encyclopedic definition of Filipino identity."
+    }
   ],
   "source_notes": [
-    {"t": 991, "claim": "One of the listed encounters caused the illness.", "assessment": "The episode offers several guesses. Travelers' diarrhea has multiple possible infectious causes and timing alone does not identify the source.", "source": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html"},
-    {"t": 1010, "claim": "A private man's leg appearance and a hug imply leprosy exposure.", "assessment": "This is unsupported speculation. WHO says diagnosis requires clinical signs and sometimes laboratory support; leprosy does not spread through casual contact such as hugging.", "source": "https://www.who.int/en/news-room/fact-sheets/detail/leprosy"},
-    {"t": 1233, "claim": "Sunblock is a myth and Asians do not need it.", "assessment": "False. Dermatologists recommend sun protection for everyone, including people with darker skin tones.", "source": "https://www.aad.org/public/diseases/skin-cancer/find/skin-of-color"},
-    {"t": 1580, "claim": "Filipinos have the highest diabetes in all Asia.", "assessment": "Unsupported and inaccurate as stated. IDF estimates the Philippines' 2024 age-standardised adult diabetes prevalence at 7.5%; multiple Asian countries are far higher.", "source": "https://diabetesatlas.org/data-by-indicator/diabetes-estimates-20-79-y/age-adjusted-comparative-prevalence-of-diabetes/"},
-    {"t": 0, "claim": "The transcript supplies named dialogue.", "assessment": "It is an auto-caption source with no publisher speaker prefixes. Generic caption markers and name mentions are not diarization.", "source": "https://www.youtube.com/watch?v=D-oSpkzPIoQ"}
+    {
+      "t": 991,
+      "claim": "One of the listed encounters caused the illness.",
+      "assessment": "The episode offers several guesses. Travelers' diarrhea has multiple possible infectious causes and timing alone does not identify the source.",
+      "source": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html"
+    },
+    {
+      "t": 1010,
+      "claim": "A private man's leg appearance and a hug imply leprosy exposure.",
+      "assessment": "This is unsupported speculation. WHO says diagnosis requires clinical signs and sometimes laboratory support; leprosy does not spread through casual contact such as hugging.",
+      "source": "https://www.who.int/en/news-room/fact-sheets/detail/leprosy"
+    },
+    {
+      "t": 1233,
+      "claim": "Sunblock is a myth and Asians do not need it.",
+      "assessment": "False. Dermatologists recommend sun protection for everyone, including people with darker skin tones.",
+      "source": "https://www.aad.org/public/diseases/skin-cancer/find/skin-of-color"
+    },
+    {
+      "t": 1580,
+      "claim": "Filipinos have the highest diabetes in all Asia.",
+      "assessment": "Unsupported and inaccurate as stated. IDF estimates the Philippines' 2024 age-standardised adult diabetes prevalence at 7.5%; multiple Asian countries are far higher.",
+      "source": "https://diabetesatlas.org/data-by-indicator/diabetes-estimates-20-79-y/age-adjusted-comparative-prevalence-of-diabetes/"
+    },
+    {
+      "t": 0,
+      "claim": "The transcript supplies named dialogue.",
+      "assessment": "It is an auto-caption source with no publisher speaker prefixes. Generic caption markers and name mentions are not diarization.",
+      "source": "https://www.youtube.com/watch?v=D-oSpkzPIoQ"
+    }
   ],
   "speaker_policy": {
     "status": "all turns unresolved; named turns withheld",
     "reason": "No segment contains a publisher-name prefix. Auto-caption boundaries and >> markers are generic. David and Bobby may be eligible for future recurring-cast acoustic enrollment only after listening-verified clean windows and a held-out multi-speaker test; private doctors, locals, children, vendors, performers and dating-show participants are excluded. No identity may be propagated by adjacency, scene logic or name mention."
   },
   "content_warnings": [
-    {"t": 18, "warning": "depression and mental-health self-description"},
-    {"t": 73, "warning": "fake/novelty credentials and passport"},
-    {"t": 140, "warning": "unsupported public-figure addiction claim"},
-    {"t": 255, "warning": "allergy concern and food pressure"},
-    {"t": 277, "warning": "heavy spiky-fruit injury risk"},
-    {"t": 325, "warning": "racial and religious stereotyping"},
-    {"t": 666, "warning": "offensive gender-identity language"},
-    {"t": 836, "warning": "alcohol use"},
-    {"t": 875, "warning": "tattoo refusal and continued pressure"},
-    {"t": 900, "warning": "eye/face tattoo imagery and pain"},
-    {"t": 991, "warning": "graphic gastrointestinal illness"},
-    {"t": 1010, "warning": "stigmatizing unsupported leprosy speculation"},
-    {"t": 1033, "warning": "insensitive Make-A-Wish comparison"},
-    {"t": 1038, "warning": "medical treatment and diagnosis ambiguity"},
-    {"t": 1141, "warning": "fecal story and explicit privacy objection"},
-    {"t": 1171, "warning": "graphic scatological content"},
-    {"t": 1233, "warning": "false sunscreen claims"},
-    {"t": 1277, "warning": "possible impaired boat operation"},
-    {"t": 1337, "warning": "wildlife handling and proposed raw consumption"},
-    {"t": 1410, "warning": "outdoor defecation"},
-    {"t": 1555, "warning": "explicit sexual food metaphor"},
-    {"t": 1580, "warning": "racialized diabetes misinformation"},
-    {"t": 1644, "warning": "dating-show framing of private participants"},
-    {"t": 1715, "warning": "physical comedy and consent ambiguity"},
-    {"t": 1804, "warning": "altered-state speech"},
-    {"t": 1902, "warning": "plant-medicine and spiritual experience"}
+    {
+      "t": 18,
+      "warning": "depression and mental-health self-description"
+    },
+    {
+      "t": 73,
+      "warning": "fake/novelty credentials and passport"
+    },
+    {
+      "t": 140,
+      "warning": "unsupported public-figure addiction claim"
+    },
+    {
+      "t": 255,
+      "warning": "allergy concern and food pressure"
+    },
+    {
+      "t": 277,
+      "warning": "heavy spiky-fruit injury risk"
+    },
+    {
+      "t": 325,
+      "warning": "racial and religious stereotyping"
+    },
+    {
+      "t": 666,
+      "warning": "offensive gender-identity language"
+    },
+    {
+      "t": 836,
+      "warning": "alcohol use"
+    },
+    {
+      "t": 875,
+      "warning": "tattoo refusal and continued pressure"
+    },
+    {
+      "t": 900,
+      "warning": "eye/face tattoo imagery and pain"
+    },
+    {
+      "t": 991,
+      "warning": "graphic gastrointestinal illness"
+    },
+    {
+      "t": 1010,
+      "warning": "stigmatizing unsupported leprosy speculation"
+    },
+    {
+      "t": 1033,
+      "warning": "insensitive Make-A-Wish comparison"
+    },
+    {
+      "t": 1038,
+      "warning": "medical treatment and diagnosis ambiguity"
+    },
+    {
+      "t": 1141,
+      "warning": "fecal story and explicit privacy objection"
+    },
+    {
+      "t": 1171,
+      "warning": "graphic scatological content"
+    },
+    {
+      "t": 1233,
+      "warning": "false sunscreen claims"
+    },
+    {
+      "t": 1277,
+      "warning": "possible impaired boat operation"
+    },
+    {
+      "t": 1337,
+      "warning": "wildlife handling and proposed raw consumption"
+    },
+    {
+      "t": 1410,
+      "warning": "outdoor defecation"
+    },
+    {
+      "t": 1555,
+      "warning": "explicit sexual food metaphor"
+    },
+    {
+      "t": 1580,
+      "warning": "racialized diabetes misinformation"
+    },
+    {
+      "t": 1644,
+      "warning": "dating-show framing of private participants"
+    },
+    {
+      "t": 1715,
+      "warning": "physical comedy and consent ambiguity"
+    },
+    {
+      "t": 1804,
+      "warning": "altered-state speech"
+    },
+    {
+      "t": 1902,
+      "warning": "plant-medicine and spiritual experience"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every source idea and literal wording; corrections and context remain separate."},
-    {"t": 0.1, "rule": "Do not publish named turns from this auto-caption source."},
-    {"t": 0.2, "rule": "Do not identity-resolve, face-search, voice-enroll or expose contact details for private participants."},
-    {"t": 18, "rule": "Do not diagnose David from self-description or altered behavior."},
-    {"t": 73, "rule": "Do not present novelty documents as credentials or provide document-fraud instructions."},
-    {"t": 140, "rule": "Do not surface public-figure addiction banter as fact."},
-    {"t": 164, "rule": "Withhold the private participant's social handle from search and snippets."},
-    {"t": 255, "rule": "Keep stated allergy concern and pressure adjacent; do not infer the allergen."},
-    {"t": 646, "rule": "No face, identity, school, family or location indexing for private children."},
-    {"t": 789, "rule": "Do not merge Siargao and Siquijor or precise-geolocate private scenes."},
-    {"t": 875, "rule": "A tattoo refusal is not converted into consent by later banter or editing."},
-    {"t": 900, "rule": "No medical diagnosis or identity search from tattoos or physical appearance."},
-    {"t": 991, "rule": "Do not identify an infection source or turn episode guesses into medical findings."},
-    {"t": 1008, "rule": "Never identify the private man as Jin or Gin; retain the finale's correction."},
-    {"t": 1010, "rule": "Block unsupported leprosy language from answer summaries and person metadata."},
-    {"t": 1038, "rule": "Do not identify the clinician/clinic or attribute a diagnosis without audio/visual evidence."},
-    {"t": 1141, "rule": "Do not reconstruct [—] text or excerpt Bobby's bed story without his objection."},
-    {"t": 1233, "rule": "Never publish sunscreen banter as health advice."},
-    {"t": 1277, "rule": "Do not normalize impaired boating as safe or legal, or infer a toxicology state."},
-    {"t": 1337, "rule": "Do not identify, handle, eat or advise about the organism from transcript text."},
-    {"t": 1410, "rule": "Do not geolocate toileting or infer sanitation/property permission."},
-    {"t": 1480, "rule": "Do not invent DJ names; performance reuse requires rights verification."},
-    {"t": 1566, "rule": "Do not link businesses until signage/source identity is verified."},
-    {"t": 1580, "rule": "Block the diabetes ranking from factual answers and cultural metadata."},
-    {"t": 1644, "rule": "No relationship, sexuality, nationality, occupation or consent inference for private participants."},
-    {"t": 1715, "rule": "Do not use sexualized or sensational thumbnails of private dating-show participants."},
-    {"t": 1804, "rule": "Do not treat altered perception as objective event or diagnosis."},
-    {"t": 1902, "rule": "Do not infer or promote substance, dose, facilitator, legality or medical effect."},
-    {"t": 1940, "rule": "Curate Filipino belonging only as David's first-person rhetoric, not a cultural definition."},
-    {"t": 1971, "rule": "Do not claim product authenticity or value without separate verification."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every source idea and literal wording; corrections and context remain separate."
+    },
+    {
+      "t": 0.1,
+      "rule": "Do not publish named turns from this auto-caption source."
+    },
+    {
+      "t": 0.2,
+      "rule": "Do not identity-resolve, face-search, voice-enroll or expose contact details for private participants."
+    },
+    {
+      "t": 18,
+      "rule": "Do not diagnose David from self-description or altered behavior."
+    },
+    {
+      "t": 73,
+      "rule": "Do not present novelty documents as credentials or provide document-fraud instructions."
+    },
+    {
+      "t": 140,
+      "rule": "Do not surface public-figure addiction banter as fact."
+    },
+    {
+      "t": 164,
+      "rule": "Withhold the private participant's social handle from search and snippets."
+    },
+    {
+      "t": 255,
+      "rule": "Keep stated allergy concern and pressure adjacent; do not infer the allergen."
+    },
+    {
+      "t": 646,
+      "rule": "No face, identity, school, family or location indexing for private children."
+    },
+    {
+      "t": 789,
+      "rule": "Do not merge Siargao and Siquijor or precise-geolocate private scenes."
+    },
+    {
+      "t": 875,
+      "rule": "A tattoo refusal is not converted into consent by later banter or editing."
+    },
+    {
+      "t": 900,
+      "rule": "No medical diagnosis or identity search from tattoos or physical appearance."
+    },
+    {
+      "t": 991,
+      "rule": "Do not identify an infection source or turn episode guesses into medical findings."
+    },
+    {
+      "t": 1008,
+      "rule": "Never identify the private man as Jin or Gin; retain the finale's correction."
+    },
+    {
+      "t": 1010,
+      "rule": "Block unsupported leprosy language from answer summaries and person metadata."
+    },
+    {
+      "t": 1038,
+      "rule": "Do not identify the clinician/clinic or attribute a diagnosis without audio/visual evidence."
+    },
+    {
+      "t": 1141,
+      "rule": "Do not reconstruct [—] text or excerpt Bobby's bed story without his objection."
+    },
+    {
+      "t": 1233,
+      "rule": "Never publish sunscreen banter as health advice."
+    },
+    {
+      "t": 1277,
+      "rule": "Do not normalize impaired boating as safe or legal, or infer a toxicology state."
+    },
+    {
+      "t": 1337,
+      "rule": "Do not identify, handle, eat or advise about the organism from transcript text."
+    },
+    {
+      "t": 1410,
+      "rule": "Do not geolocate toileting or infer sanitation/property permission."
+    },
+    {
+      "t": 1480,
+      "rule": "Do not invent DJ names; performance reuse requires rights verification."
+    },
+    {
+      "t": 1566,
+      "rule": "Do not link businesses until signage/source identity is verified."
+    },
+    {
+      "t": 1580,
+      "rule": "Block the diabetes ranking from factual answers and cultural metadata."
+    },
+    {
+      "t": 1644,
+      "rule": "No relationship, sexuality, nationality, occupation or consent inference for private participants."
+    },
+    {
+      "t": 1715,
+      "rule": "Do not use sexualized or sensational thumbnails of private dating-show participants."
+    },
+    {
+      "t": 1804,
+      "rule": "Do not treat altered perception as objective event or diagnosis."
+    },
+    {
+      "t": 1902,
+      "rule": "Do not infer or promote substance, dose, facilitator, legality or medical effect."
+    },
+    {
+      "t": 1940,
+      "rule": "Curate Filipino belonging only as David's first-person rhetoric, not a cultural definition."
+    },
+    {
+      "t": 1971,
+      "rule": "Do not claim product authenticity or value without separate verification."
+    }
+  ],
+  "description": "David and Bobby travel through the Philippines in a deliberately unstable mix of travelogue, food show, shopping comedy, tattoo pressure, medical crisis, water sports, wildlife encounter, music, dating-show parody and altered-state confession.",
+  "description_source": "Opening of the human-reviewed summary."
 }

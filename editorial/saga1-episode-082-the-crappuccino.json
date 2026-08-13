@@ -28,152 +28,614 @@
   },
   "sensitivity": "Pregnancy and family privacy; racial stereotypes; disability slurs; incest encouragement; explicit sexual content; ambiguous consent; anal injury; abortion and pregnancy loss; private partners; animal euthanasia; unsafe health claims; human waste; employee-candidate sexual questioning; financial disclosure; sex-work language; vulnerable-model recruitment; social-media compulsion; drug claims.",
   "chapters": [
-    {"t": 0, "title": "Cold open and harmonica conflict"},
-    {"t": 60, "title": "Hosts and crew"},
-    {"t": 146, "title": "Late food and responsibility"},
-    {"t": 294, "title": "Bill's driver role"},
-    {"t": 367, "title": "Resetting after testosterone-heavy episodes"},
-    {"t": 397, "title": "Women return to the room"},
-    {"t": 405, "title": "Thumbs Up! China reunion"},
-    {"t": 423, "title": "Stephanie's private details withheld"},
-    {"t": 475, "title": "Who counts as emotional"},
-    {"t": 511, "title": "Race-based acting theories"},
-    {"t": 546, "title": "Celebrity encounters on sets"},
-    {"t": 620, "title": "Asian representation claim"},
-    {"t": 626, "title": "Korean drama reach"},
-    {"t": 642, "title": "Actor head-size theory"},
-    {"t": 676, "title": "Manga eyes and racial anatomy"},
-    {"t": 699, "title": "Emotion, faces and stardom"},
-    {"t": 741, "title": "Double-eyelid surgery and tape"},
-    {"t": 779, "title": "Reading emotions from faces"},
-    {"t": 809, "title": "Angry-Asian casting stereotype"},
-    {"t": 889, "title": "Stoicism generalized"},
-    {"t": 935, "title": "Who can carry a movie"},
-    {"t": 966, "title": "Keanu Reeves and racial gatekeeping"},
-    {"t": 998, "title": "Bobby Lee as a lead"},
-    {"t": 1053, "title": "Thumbs Up! aftermath"},
-    {"t": 1114, "title": "Seasons one and two routes"},
-    {"t": 1122, "title": "China route corrected to Macau"},
-    {"t": 1146, "title": "Stephanie's essential production labor"},
-    {"t": 1183, "title": "Mustache discussion"},
-    {"t": 1320, "title": "Puberty and body-hair generalizations"},
-    {"t": 1691, "title": "Christmas cousin-incest segment"},
-    {"t": 1768, "title": "Childhood questions and adult encouragement"},
-    {"t": 1805, "title": "After Stephanie left China"},
-    {"t": 1831, "title": "Season 4 San Francisco to New York"},
-    {"t": 1887, "title": "When did you last cry"},
-    {"t": 2024, "title": "Private Mexican partner withheld"},
-    {"t": 2124, "title": "Hymen myth"},
-    {"t": 2150, "title": "Private pregnancy and sex withheld"},
-    {"t": 2200, "title": "Violent abortion jokes"},
-    {"t": 2243, "title": "Anal injury discussion"},
-    {"t": 2299, "title": "Private partner sex withheld"},
-    {"t": 2324, "title": "No cannot be permanently pre-negotiated"},
-    {"t": 2377, "title": "Lubrication and injury"},
-    {"t": 2396, "title": "Nuru photo-shoot question"},
-    {"t": 2785, "title": "Clothing and hygiene disclosure"},
-    {"t": 2950, "title": "Public bathroom delays"},
-    {"t": 3035, "title": "A Starbucks bathroom emergency"},
-    {"t": 3057, "title": "No time left to wait"},
-    {"t": 3130, "title": "Defecating into a cup"},
-    {"t": 3200, "title": "Placement and discovery"},
-    {"t": 3303, "title": "Three possible outcomes"},
-    {"t": 3312, "title": "Worker and sanitation cost"},
-    {"t": 3368, "title": "The Crappuccino title"},
-    {"t": 3392, "title": "Why not dispose of it"},
-    {"t": 3581, "title": "Shart stories"},
-    {"t": 3641, "title": "What gets told to a partner"},
-    {"t": 3671, "title": "Private pregnancy-loss story withheld"},
-    {"t": 3696, "title": "First-person abortion experience"},
-    {"t": 3708, "title": "Heavy bleeding and tissue uncertainty"},
-    {"t": 3724, "title": "What abortion care actually involves"},
-    {"t": 3765, "title": "Imaginary laser and sonic methods"},
-    {"t": 3787, "title": "Cup aim revisited"},
-    {"t": 3817, "title": "Bedroom urine bottles"},
-    {"t": 3830, "title": "Road-trip bottles mistaken for drinks"},
-    {"t": 3864, "title": "Urine health myths"},
-    {"t": 3894, "title": "Placenta discussion"},
-    {"t": 3909, "title": "Unverified Japanese blood treatment"},
-    {"t": 3966, "title": "Private partners and dog withheld"},
-    {"t": 4275, "title": "Commitment to being single"},
-    {"t": 4322, "title": "DVDASA magazine work"},
-    {"t": 4476, "title": "Yen enters"},
-    {"t": 4531, "title": "Avoiding situations that threaten commitments"},
-    {"t": 4635, "title": "Relationship structure discussion"},
-    {"t": 4707, "title": "Van Styles at Disneyland"},
-    {"t": 4726, "title": "The Hundreds and Van Styles"},
-    {"t": 4750, "title": "How photographers recruit models"},
-    {"t": 4783, "title": "Vulnerable-model recruitment risk"},
-    {"t": 5457, "title": "Candidate spending and housing"},
-    {"t": 5581, "title": "Candidate finances withheld"},
-    {"t": 5673, "title": "Sexualized job interview withheld"},
-    {"t": 5743, "title": "Yen's stated ambition"},
-    {"t": 5801, "title": "Sexual promise crossed with employment"},
-    {"t": 5842, "title": "Yakuza Boy poncho"},
-    {"t": 5858, "title": "Warehouse planning meeting"},
-    {"t": 5899, "title": "Pregnancy speculation about a partner"},
-    {"t": 5933, "title": "One year since the podcast began"},
-    {"t": 5992, "title": "Is that it"},
-    {"t": 6007, "title": "Not just another podcast"},
-    {"t": 6032, "title": "Early ambition and later withdrawal"},
-    {"t": 6060, "title": "The show consumes you"},
-    {"t": 6079, "title": "Instagram feedback loop"},
-    {"t": 6151, "title": "Ten emails and endless checking"},
-    {"t": 6167, "title": "Creative work without Wi-Fi"},
-    {"t": 6208, "title": "A new managerial confidence"},
-    {"t": 6235, "title": "Delegating decisions"},
-    {"t": 6273, "title": "Bob Coleman auditions"},
-    {"t": 6301, "title": "Scrotum Coat Tumblr origin"},
-    {"t": 6355, "title": "Taste expressed through curation"},
-    {"t": 6396, "title": "South Park source of the name"},
-    {"t": 6419, "title": "Tanuki reference"},
-    {"t": 6454, "title": "Hayward and Tumblr"},
-    {"t": 6481, "title": "Candidate fandom"},
-    {"t": 6507, "title": "Can taste be learned"},
-    {"t": 6545, "title": "Skype failure interpreted as lateness"},
-    {"t": 6576, "title": "Problem-solving expectation"},
-    {"t": 6616, "title": "Hidden hiring criteria"},
-    {"t": 6709, "title": "Candidates judge the Crappuccino"},
-    {"t": 6844, "title": "Possible bowel-control issue"},
-    {"t": 7224, "title": "Cocaine laxative claim"},
-    {"t": 7567, "title": "Private family question minimized"},
-    {"t": 7667, "title": "The Godfather analogy"},
-    {"t": 7781, "title": "Best-man conflict"},
-    {"t": 8173, "title": "Phone use and trivia"},
-    {"t": 8269, "title": "Closing music"},
-    {"t": 8377, "title": "Private family location withheld"}
+    {
+      "t": 0,
+      "title": "Cold open and harmonica conflict"
+    },
+    {
+      "t": 60,
+      "title": "Hosts and crew"
+    },
+    {
+      "t": 146,
+      "title": "Late food and responsibility"
+    },
+    {
+      "t": 294,
+      "title": "Bill's driver role"
+    },
+    {
+      "t": 367,
+      "title": "Resetting after testosterone-heavy episodes"
+    },
+    {
+      "t": 397,
+      "title": "Women return to the room"
+    },
+    {
+      "t": 405,
+      "title": "Thumbs Up! China reunion"
+    },
+    {
+      "t": 423,
+      "title": "Stephanie's private details withheld"
+    },
+    {
+      "t": 475,
+      "title": "Who counts as emotional"
+    },
+    {
+      "t": 511,
+      "title": "Race-based acting theories"
+    },
+    {
+      "t": 546,
+      "title": "Celebrity encounters on sets"
+    },
+    {
+      "t": 620,
+      "title": "Asian representation claim"
+    },
+    {
+      "t": 626,
+      "title": "Korean drama reach"
+    },
+    {
+      "t": 642,
+      "title": "Actor head-size theory"
+    },
+    {
+      "t": 676,
+      "title": "Manga eyes and racial anatomy"
+    },
+    {
+      "t": 699,
+      "title": "Emotion, faces and stardom"
+    },
+    {
+      "t": 741,
+      "title": "Double-eyelid surgery and tape"
+    },
+    {
+      "t": 779,
+      "title": "Reading emotions from faces"
+    },
+    {
+      "t": 809,
+      "title": "Angry-Asian casting stereotype"
+    },
+    {
+      "t": 889,
+      "title": "Stoicism generalized"
+    },
+    {
+      "t": 935,
+      "title": "Who can carry a movie"
+    },
+    {
+      "t": 966,
+      "title": "Keanu Reeves and racial gatekeeping"
+    },
+    {
+      "t": 998,
+      "title": "Bobby Lee as a lead"
+    },
+    {
+      "t": 1053,
+      "title": "Thumbs Up! aftermath"
+    },
+    {
+      "t": 1114,
+      "title": "Seasons one and two routes"
+    },
+    {
+      "t": 1122,
+      "title": "China route corrected to Macau"
+    },
+    {
+      "t": 1146,
+      "title": "Stephanie's essential production labor"
+    },
+    {
+      "t": 1183,
+      "title": "Mustache discussion"
+    },
+    {
+      "t": 1320,
+      "title": "Puberty and body-hair generalizations"
+    },
+    {
+      "t": 1691,
+      "title": "Christmas cousin-incest segment"
+    },
+    {
+      "t": 1768,
+      "title": "Childhood questions and adult encouragement"
+    },
+    {
+      "t": 1805,
+      "title": "After Stephanie left China"
+    },
+    {
+      "t": 1831,
+      "title": "Season 4 San Francisco to New York"
+    },
+    {
+      "t": 1887,
+      "title": "When did you last cry"
+    },
+    {
+      "t": 2024,
+      "title": "Private Mexican partner withheld"
+    },
+    {
+      "t": 2124,
+      "title": "Hymen myth"
+    },
+    {
+      "t": 2150,
+      "title": "Private pregnancy and sex withheld"
+    },
+    {
+      "t": 2200,
+      "title": "Violent abortion jokes"
+    },
+    {
+      "t": 2243,
+      "title": "Anal injury discussion"
+    },
+    {
+      "t": 2299,
+      "title": "Private partner sex withheld"
+    },
+    {
+      "t": 2324,
+      "title": "No cannot be permanently pre-negotiated"
+    },
+    {
+      "t": 2377,
+      "title": "Lubrication and injury"
+    },
+    {
+      "t": 2396,
+      "title": "Nuru photo-shoot question"
+    },
+    {
+      "t": 2785,
+      "title": "Clothing and hygiene disclosure"
+    },
+    {
+      "t": 2950,
+      "title": "Public bathroom delays"
+    },
+    {
+      "t": 3035,
+      "title": "A Starbucks bathroom emergency"
+    },
+    {
+      "t": 3057,
+      "title": "No time left to wait"
+    },
+    {
+      "t": 3130,
+      "title": "Defecating into a cup"
+    },
+    {
+      "t": 3200,
+      "title": "Placement and discovery"
+    },
+    {
+      "t": 3303,
+      "title": "Three possible outcomes"
+    },
+    {
+      "t": 3312,
+      "title": "Worker and sanitation cost"
+    },
+    {
+      "t": 3368,
+      "title": "The Crappuccino title"
+    },
+    {
+      "t": 3392,
+      "title": "Why not dispose of it"
+    },
+    {
+      "t": 3581,
+      "title": "Shart stories"
+    },
+    {
+      "t": 3641,
+      "title": "What gets told to a partner"
+    },
+    {
+      "t": 3671,
+      "title": "Private pregnancy-loss story withheld"
+    },
+    {
+      "t": 3696,
+      "title": "First-person abortion experience"
+    },
+    {
+      "t": 3708,
+      "title": "Heavy bleeding and tissue uncertainty"
+    },
+    {
+      "t": 3724,
+      "title": "What abortion care actually involves"
+    },
+    {
+      "t": 3765,
+      "title": "Imaginary laser and sonic methods"
+    },
+    {
+      "t": 3787,
+      "title": "Cup aim revisited"
+    },
+    {
+      "t": 3817,
+      "title": "Bedroom urine bottles"
+    },
+    {
+      "t": 3830,
+      "title": "Road-trip bottles mistaken for drinks"
+    },
+    {
+      "t": 3864,
+      "title": "Urine health myths"
+    },
+    {
+      "t": 3894,
+      "title": "Placenta discussion"
+    },
+    {
+      "t": 3909,
+      "title": "Unverified Japanese blood treatment"
+    },
+    {
+      "t": 3966,
+      "title": "Private partners and dog withheld"
+    },
+    {
+      "t": 4275,
+      "title": "Commitment to being single"
+    },
+    {
+      "t": 4322,
+      "title": "DVDASA magazine work"
+    },
+    {
+      "t": 4476,
+      "title": "Yen enters"
+    },
+    {
+      "t": 4531,
+      "title": "Avoiding situations that threaten commitments"
+    },
+    {
+      "t": 4635,
+      "title": "Relationship structure discussion"
+    },
+    {
+      "t": 4707,
+      "title": "Van Styles at Disneyland"
+    },
+    {
+      "t": 4726,
+      "title": "The Hundreds and Van Styles"
+    },
+    {
+      "t": 4750,
+      "title": "How photographers recruit models"
+    },
+    {
+      "t": 4783,
+      "title": "Vulnerable-model recruitment risk"
+    },
+    {
+      "t": 5457,
+      "title": "Candidate spending and housing"
+    },
+    {
+      "t": 5581,
+      "title": "Candidate finances withheld"
+    },
+    {
+      "t": 5673,
+      "title": "Sexualized job interview withheld"
+    },
+    {
+      "t": 5743,
+      "title": "Yen's stated ambition"
+    },
+    {
+      "t": 5801,
+      "title": "Sexual promise crossed with employment"
+    },
+    {
+      "t": 5842,
+      "title": "Yakuza Boy poncho"
+    },
+    {
+      "t": 5858,
+      "title": "Warehouse planning meeting"
+    },
+    {
+      "t": 5899,
+      "title": "Pregnancy speculation about a partner"
+    },
+    {
+      "t": 5933,
+      "title": "One year since the podcast began"
+    },
+    {
+      "t": 5992,
+      "title": "Is that it"
+    },
+    {
+      "t": 6007,
+      "title": "Not just another podcast"
+    },
+    {
+      "t": 6032,
+      "title": "Early ambition and later withdrawal"
+    },
+    {
+      "t": 6060,
+      "title": "The show consumes you"
+    },
+    {
+      "t": 6079,
+      "title": "Instagram feedback loop"
+    },
+    {
+      "t": 6151,
+      "title": "Ten emails and endless checking"
+    },
+    {
+      "t": 6167,
+      "title": "Creative work without Wi-Fi"
+    },
+    {
+      "t": 6208,
+      "title": "A new managerial confidence"
+    },
+    {
+      "t": 6235,
+      "title": "Delegating decisions"
+    },
+    {
+      "t": 6273,
+      "title": "Bob Coleman auditions"
+    },
+    {
+      "t": 6301,
+      "title": "Scrotum Coat Tumblr origin"
+    },
+    {
+      "t": 6355,
+      "title": "Taste expressed through curation"
+    },
+    {
+      "t": 6396,
+      "title": "South Park source of the name"
+    },
+    {
+      "t": 6419,
+      "title": "Tanuki reference"
+    },
+    {
+      "t": 6454,
+      "title": "Hayward and Tumblr"
+    },
+    {
+      "t": 6481,
+      "title": "Candidate fandom"
+    },
+    {
+      "t": 6507,
+      "title": "Can taste be learned"
+    },
+    {
+      "t": 6545,
+      "title": "Skype failure interpreted as lateness"
+    },
+    {
+      "t": 6576,
+      "title": "Problem-solving expectation"
+    },
+    {
+      "t": 6616,
+      "title": "Hidden hiring criteria"
+    },
+    {
+      "t": 6709,
+      "title": "Candidates judge the Crappuccino"
+    },
+    {
+      "t": 6844,
+      "title": "Possible bowel-control issue"
+    },
+    {
+      "t": 7224,
+      "title": "Cocaine laxative claim"
+    },
+    {
+      "t": 7567,
+      "title": "Private family question minimized"
+    },
+    {
+      "t": 7667,
+      "title": "The Godfather analogy"
+    },
+    {
+      "t": 7781,
+      "title": "Best-man conflict"
+    },
+    {
+      "t": 8173,
+      "title": "Phone use and trivia"
+    },
+    {
+      "t": 8269,
+      "title": "Closing music"
+    },
+    {
+      "t": 8377,
+      "title": "Private family location withheld"
+    }
   ],
   "connections": [
-    {"from": 405, "to": "Thumbs Up! Season 3 — China", "relationship": "Stephanie reunion and production recollection"},
-    {"from": 418, "to": "Stephanie production record", "relationship": "Translation, navigation and ride-finding labor"},
-    {"from": 479, "to": "Race-stereotype correction ledger", "relationship": "Emotion and acting are racialized"},
-    {"from": 676, "to": "Manga/art-history research lead", "relationship": "Visual convention is incorrectly converted into anatomy"},
-    {"from": 945, "to": "Asian screen-representation timeline", "relationship": "Period list of performers and perceived star scarcity"},
-    {"from": 1114, "to": "Thumbs Up! route map", "relationship": "Los Angeles–Miami, Tijuana–Alaska and China/Macau"},
-    {"from": 1831, "to": "Thumbs Up! Season 4", "relationship": "San Francisco–New York route and later short-form release"},
-    {"from": 2024, "to": "Mexico City relationship/privacy ledger", "relationship": "Absent partner details withheld while Choe's avoidance pattern remains"},
-    {"from": 2299, "to": "Consent-principles ledger", "relationship": "Marriage and prior play cannot make every future no nonliteral"},
-    {"from": 2377, "to": "Sexual-health evidence note", "relationship": "Planned Parenthood safer-sex guidance corrects no-lube advice"},
-    {"from": 3035, "to": "Crappuccino title ledger", "relationship": "Emergency story supplies the episode title"},
-    {"from": 3312, "to": "Service-worker dignity ledger", "relationship": "Abandoned waste transfers risk and cleanup to workers"},
-    {"from": 3671, "to": "Pregnancy-loss privacy ledger", "relationship": "Private third-party medical story withheld"},
-    {"from": 3696, "to": "Abortion evidence note", "relationship": "First-person experience paired with ACOG methods and warning signs"},
-    {"from": 3909, "to": "Good Smile Company lead", "relationship": "Unnamed colleague's alleged treatment remains unverified"},
-    {"from": 3966, "to": "Animal-care and relationship privacy ledger", "relationship": "Private family and veterinary details withheld"},
-    {"from": 4275, "to": "David Choe relationship philosophy", "relationship": "Commitment to singledom framed as active emotional avoidance"},
-    {"from": 4322, "to": "DVDASA magazine", "relationship": "Editing work becomes an excuse and a source lead"},
-    {"from": 4707, "to": "The Hundreds 2013 anniversary", "relationship": "Disneyland event independently documented by the brand"},
-    {"from": 4726, "to": "Van Styles creative timeline", "relationship": "The Hundreds collaboration and photographer exchange"},
-    {"from": 4783, "to": "Model labor and consent ledger", "relationship": "Recruitment from Skid Row/strip clubs requires safeguards"},
-    {"from": 5581, "to": "Yen producer-candidate record", "relationship": "Job-relevant ambition separated from private finances and sex"},
-    {"from": 5842, "to": "DVDASA merchandise archive", "relationship": "Yakuza Boy poncho placement"},
-    {"from": 5933, "to": "DVDASA origin timeline", "relationship": "Late January 2013 start date"},
-    {"from": 6007, "to": "DVDASA product philosophy", "relationship": "Early refusal to be a generic podcast"},
-    {"from": 6060, "to": "Creator-wellbeing ledger", "relationship": "Good and bad feedback both consume attention"},
-    {"from": 6167, "to": "David Choe creative-practice ledger", "relationship": "Wi-Fi absence linked to substantial 2013 output"},
-    {"from": 6235, "to": "DVDASA management timeline", "relationship": "Decision rights move away from the creator"},
-    {"from": 6301, "to": "Scrotum Coat / Tumblr source map", "relationship": "Fan curation becomes a producer-candidate pathway"},
-    {"from": 6507, "to": "Fan-to-employee hiring framework", "relationship": "Fandom, taste, skill, problem solving and explicit criteria separated"}
+    {
+      "from": 405,
+      "to": "Thumbs Up! Season 3 — China",
+      "relationship": "Stephanie reunion and production recollection"
+    },
+    {
+      "from": 418,
+      "to": "Stephanie production record",
+      "relationship": "Translation, navigation and ride-finding labor"
+    },
+    {
+      "from": 479,
+      "to": "Race-stereotype correction ledger",
+      "relationship": "Emotion and acting are racialized"
+    },
+    {
+      "from": 676,
+      "to": "Manga/art-history research lead",
+      "relationship": "Visual convention is incorrectly converted into anatomy"
+    },
+    {
+      "from": 945,
+      "to": "Asian screen-representation timeline",
+      "relationship": "Period list of performers and perceived star scarcity"
+    },
+    {
+      "from": 1114,
+      "to": "Thumbs Up! route map",
+      "relationship": "Los Angeles–Miami, Tijuana–Alaska and China/Macau"
+    },
+    {
+      "from": 1831,
+      "to": "Thumbs Up! Season 4",
+      "relationship": "San Francisco–New York route and later short-form release"
+    },
+    {
+      "from": 2024,
+      "to": "Mexico City relationship/privacy ledger",
+      "relationship": "Absent partner details withheld while Choe's avoidance pattern remains"
+    },
+    {
+      "from": 2299,
+      "to": "Consent-principles ledger",
+      "relationship": "Marriage and prior play cannot make every future no nonliteral"
+    },
+    {
+      "from": 2377,
+      "to": "Sexual-health evidence note",
+      "relationship": "Planned Parenthood safer-sex guidance corrects no-lube advice"
+    },
+    {
+      "from": 3035,
+      "to": "Crappuccino title ledger",
+      "relationship": "Emergency story supplies the episode title"
+    },
+    {
+      "from": 3312,
+      "to": "Service-worker dignity ledger",
+      "relationship": "Abandoned waste transfers risk and cleanup to workers"
+    },
+    {
+      "from": 3671,
+      "to": "Pregnancy-loss privacy ledger",
+      "relationship": "Private third-party medical story withheld"
+    },
+    {
+      "from": 3696,
+      "to": "Abortion evidence note",
+      "relationship": "First-person experience paired with ACOG methods and warning signs"
+    },
+    {
+      "from": 3909,
+      "to": "Good Smile Company lead",
+      "relationship": "Unnamed colleague's alleged treatment remains unverified"
+    },
+    {
+      "from": 3966,
+      "to": "Animal-care and relationship privacy ledger",
+      "relationship": "Private family and veterinary details withheld"
+    },
+    {
+      "from": 4275,
+      "to": "David Choe relationship philosophy",
+      "relationship": "Commitment to singledom framed as active emotional avoidance"
+    },
+    {
+      "from": 4322,
+      "to": "DVDASA magazine",
+      "relationship": "Editing work becomes an excuse and a source lead"
+    },
+    {
+      "from": 4707,
+      "to": "The Hundreds 2013 anniversary",
+      "relationship": "Disneyland event independently documented by the brand"
+    },
+    {
+      "from": 4726,
+      "to": "Van Styles creative timeline",
+      "relationship": "The Hundreds collaboration and photographer exchange"
+    },
+    {
+      "from": 4783,
+      "to": "Model labor and consent ledger",
+      "relationship": "Recruitment from Skid Row/strip clubs requires safeguards"
+    },
+    {
+      "from": 5581,
+      "to": "Yen producer-candidate record",
+      "relationship": "Job-relevant ambition separated from private finances and sex"
+    },
+    {
+      "from": 5842,
+      "to": "DVDASA merchandise archive",
+      "relationship": "Yakuza Boy poncho placement"
+    },
+    {
+      "from": 5933,
+      "to": "DVDASA origin timeline",
+      "relationship": "Late January 2013 start date"
+    },
+    {
+      "from": 6007,
+      "to": "DVDASA product philosophy",
+      "relationship": "Early refusal to be a generic podcast"
+    },
+    {
+      "from": 6060,
+      "to": "Creator-wellbeing ledger",
+      "relationship": "Good and bad feedback both consume attention"
+    },
+    {
+      "from": 6167,
+      "to": "David Choe creative-practice ledger",
+      "relationship": "Wi-Fi absence linked to substantial 2013 output"
+    },
+    {
+      "from": 6235,
+      "to": "DVDASA management timeline",
+      "relationship": "Decision rights move away from the creator"
+    },
+    {
+      "from": 6301,
+      "to": "Scrotum Coat / Tumblr source map",
+      "relationship": "Fan curation becomes a producer-candidate pathway"
+    },
+    {
+      "from": 6507,
+      "to": "Fan-to-employee hiring framework",
+      "relationship": "Fandom, taste, skill, problem solving and explicit criteria separated"
+    }
   ],
   "content_warnings": [
     "pregnancy and family privacy",
@@ -203,5 +665,22 @@
     "housing threats",
     "private family finances",
     "graphic bodily functions"
-  ]
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [
+    "China"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "Thumbs Up",
+    "Love"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 82 combines a Thumbs Up!",
+  "description_source": "Opening of the human-reviewed summary."
 }

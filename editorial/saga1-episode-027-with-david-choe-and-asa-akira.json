@@ -1,137 +1,582 @@
 {
   "summary": "Episode Twenty-Seven is organized around virginity and the stories people build around sexual initiation. Before that theme begins, Bobby wears his Coyotes hockey jersey and revisits David Choe's Montblanc gift, while David extends his Kabul trip into an imagined purchase of an Afghan Premier League team. He describes Saad Mohseni, TOLO TV, the documentary The Network, and a fantasy of importing celebrity players and American sports spectacle. Asa Akira and Valentin then describe early sexual experiences. Valentin says his father arranged paid sex when he was thirteen; editorially, that is child sexual exploitation, not a harmless rite of passage. David's much longer account starts with check and credit-card fraud, juvenile work service, a secret hand-drawn pornography archive, Christian parental anxiety, adolescent shame, and his unexpected popularity with an older student. He reconstructs first love, social rejection, violence against a romantic rival, a later relationship with a Las Vegas transfer student, prom-night intoxication, and the narrow event he counts as losing his virginity. The story's epilogues show status and wealth changing how former classmates approach him. Bobby resists telling his own story, and the room detours into a private superfan's access through Yoshi. The final third returns to the Middle East trip: a North Korean overseas restaurant in Dubai whose performers David reads as coerced, armed hospitality and illness in Afghanistan, communal eating, starving dogs and cave tourism in Cappadocia, and jokingly aggressive treatment of a Turkish guide who performs as TA7A. A viral story about Omar Borkan Al Gala being deported for being too handsome is repeated as fact even though later reporting says it was false. Bobby ends the episode too tired to prepare trivia, replacing it with a fart. The transcript is highly usable for search after contextual repairs, but five terminal decoder hallucinations and invalid NaN serialization require regeneration. Named dialogue remains withheld.",
   "chapters": [
-    {"t": 9, "title": "A custom profanity intro"},
-    {"t": 21, "title": "DVDASA, Asa Akira, Valentin, and Critter"},
-    {"t": 28, "title": "“Clitter” is an intentional joke"},
-    {"t": 37, "title": "Bobby's Coyotes home jersey"},
-    {"t": 56, "title": "Montblanc, not a Rolex"},
-    {"t": 75, "title": "A gambling-win gift"},
-    {"t": 110, "title": "Sponsoring Bobby's hockey team"},
-    {"t": 205, "title": "Afghanistan stays in the room"},
-    {"t": 243, "title": "Saad Mohseni and TOLO TV"},
-    {"t": 300, "title": "The Network documentary"},
-    {"t": 350, "title": "The Afghan Premier League"},
-    {"t": 420, "title": "Chivas and neighborhood football"},
-    {"t": 500, "title": "David Beckham and the LA Galaxy"},
-    {"t": 600, "title": "Buying the league's worst team"},
-    {"t": 720, "title": "Imported stars and American spectacle"},
-    {"t": 840, "title": "A football team for Los Angeles"},
-    {"t": 930, "title": "The white-tiger tangent"},
-    {"t": 1050, "title": "Pat Riley and imagined coaching"},
-    {"t": 1120, "title": "The episode turns to virginity"},
-    {"t": 1200, "title": "Asa's first account"},
-    {"t": 1500, "title": "Valentin was thirteen"},
-    {"t": 1620, "title": "A father arranges paid sex"},
-    {"t": 1800, "title": "Repetition, attachment, and adult reinterpretation"},
-    {"t": 2050, "title": "David begins with adolescent crime"},
-    {"t": 2140, "title": "Checks, credit cards, and forgery"},
-    {"t": 2240, "title": "Juvenile Alternative Work Service"},
-    {"t": 2350, "title": "Community service in South Central"},
-    {"t": 2500, "title": "A hand-drawn pornography archive"},
-    {"t": 2680, "title": "Christian parents discover the drawings"},
-    {"t": 2820, "title": "The failed puberty talk"},
-    {"t": 3000, "title": "Being caught masturbating"},
-    {"t": 3180, "title": "A room-sized private ritual"},
-    {"t": 3295, "title": "Heathers and a Christian Slater voice"},
-    {"t": 3378, "title": "Elizabeth and Christina remain private"},
-    {"t": 3410, "title": "An innocent first relationship"},
-    {"t": 3500, "title": "Peer mythology outruns experience"},
-    {"t": 3600, "title": "Sexual energy becomes butterfly drawings"},
-    {"t": 3640, "title": "High school changes the hierarchy"},
-    {"t": 3680, "title": "The prom queen ends the relationship"},
-    {"t": 3800, "title": "A rival and public humiliation"},
-    {"t": 3895, "title": "A wallet chain becomes a weapon"},
-    {"t": 3957, "title": "Kim arrives from Las Vegas"},
-    {"t": 3983, "title": "Writing about the Los Angeles uprising"},
-    {"t": 4000, "title": "Selling classmates' homework"},
-    {"t": 4100, "title": "A relationship begins in creative writing"},
-    {"t": 4200, "title": "Reading about sex without guidance"},
-    {"t": 4300, "title": "A first attempt turns humiliating"},
-    {"t": 4496, "title": "Two weeks of silence"},
-    {"t": 4543, "title": "Prom is still expected"},
-    {"t": 4571, "title": "She says she is falling in love"},
-    {"t": 4592, "title": "Prom night and a hotel"},
-    {"t": 4700, "title": "Jell-O in the bathtub"},
-    {"t": 4798, "title": "Intoxication stops the planned night"},
-    {"t": 4845, "title": "Checkout time arrives"},
-    {"t": 4892, "title": "The event David counts as losing virginity"},
-    {"t": 5108, "title": "The relationship fades"},
-    {"t": 5144, "title": "A double epilogue begins"},
-    {"t": 5174, "title": "An encounter at LAX"},
-    {"t": 5300, "title": "A failed attempt to reconnect"},
-    {"t": 5423, "title": "Facebook wealth changes the messages"},
-    {"t": 5470, "title": "Victory remains mixed with resentment"},
-    {"t": 5500, "title": "Bobby still will not share"},
-    {"t": 5704, "title": "Bobby knew the younger sister"},
-    {"t": 5740, "title": "A horror-movie voice actor remains unnamed"},
-    {"t": 5795, "title": "Born-again virginity becomes a dodge"},
-    {"t": 5900, "title": "The private fan-access story begins"},
-    {"t": 5997, "title": "“Ed” is an on-air pseudonym"},
-    {"t": 6019, "title": "Yoshi provided an airport ride"},
-    {"t": 6022, "title": "Bobby jokes about John Lennon"},
-    {"t": 6082, "title": "A UCLA stand-up appearance"},
-    {"t": 6120, "title": "Audience access and privacy boundaries"},
-    {"t": 6300, "title": "A North Korean restaurant in Dubai"},
-    {"t": 6420, "title": "No-photo signs and a staged performance"},
-    {"t": 6600, "title": "Perceived coercion remains an interpretation"},
-    {"t": 6750, "title": "A tip becomes a rescue fantasy"},
-    {"t": 6900, "title": "Back to Afghanistan"},
-    {"t": 7050, "title": "A mujahid host and armed protection"},
-    {"t": 7200, "title": "Illness overwhelms hospitality"},
-    {"t": 7350, "title": "A toilet story inside a guarded visit"},
-    {"t": 7480, "title": "Communal eating with the right hand"},
-    {"t": 7600, "title": "Cappadocia and cave tourism"},
-    {"t": 7720, "title": "Starving dogs follow the group"},
-    {"t": 7840, "title": "Critter gives away his shirt"},
-    {"t": 7920, "title": "David regurgitates food for dogs"},
-    {"t": 8000, "title": "Nicolas Cage in Cappadocia"},
-    {"t": 8080, "title": "Tom Cruise becomes the comparison"},
-    {"t": 8170, "title": "The guide performs as TA7A"},
-    {"t": 8280, "title": "A rap alias is spelled aloud"},
-    {"t": 8380, "title": "The cast turns the guide into a target"},
-    {"t": 8460, "title": "“Reverse molestation” is their joke"},
-    {"t": 8580, "title": "Tyra Banks and the fat-suit comparison"},
-    {"t": 8720, "title": "The viral handsome-man story"},
-    {"t": 8840, "title": "Omar Borkan Al Gala was not deported for beauty"},
-    {"t": 8999, "title": "Bobby is tired"},
-    {"t": 9019, "title": "No Trivia With Bobby"},
-    {"t": 9058, "title": "A fart replaces the game"},
-    {"t": 9107, "title": "The improvised close"},
-    {"t": 9147, "title": "Cast roll call"},
-    {"t": 9166, "title": "Recorded outro"},
-    {"t": 9215, "title": "Five terminal “ilian” decoder hallucinations"},
-    {"t": 9222, "title": "A final legitimate thank-you"}
+    {
+      "t": 9,
+      "title": "A custom profanity intro"
+    },
+    {
+      "t": 21,
+      "title": "DVDASA, Asa Akira, Valentin, and Critter"
+    },
+    {
+      "t": 28,
+      "title": "“Clitter” is an intentional joke"
+    },
+    {
+      "t": 37,
+      "title": "Bobby's Coyotes home jersey"
+    },
+    {
+      "t": 56,
+      "title": "Montblanc, not a Rolex"
+    },
+    {
+      "t": 75,
+      "title": "A gambling-win gift"
+    },
+    {
+      "t": 110,
+      "title": "Sponsoring Bobby's hockey team"
+    },
+    {
+      "t": 205,
+      "title": "Afghanistan stays in the room"
+    },
+    {
+      "t": 243,
+      "title": "Saad Mohseni and TOLO TV"
+    },
+    {
+      "t": 300,
+      "title": "The Network documentary"
+    },
+    {
+      "t": 350,
+      "title": "The Afghan Premier League"
+    },
+    {
+      "t": 420,
+      "title": "Chivas and neighborhood football"
+    },
+    {
+      "t": 500,
+      "title": "David Beckham and the LA Galaxy"
+    },
+    {
+      "t": 600,
+      "title": "Buying the league's worst team"
+    },
+    {
+      "t": 720,
+      "title": "Imported stars and American spectacle"
+    },
+    {
+      "t": 840,
+      "title": "A football team for Los Angeles"
+    },
+    {
+      "t": 930,
+      "title": "The white-tiger tangent"
+    },
+    {
+      "t": 1050,
+      "title": "Pat Riley and imagined coaching"
+    },
+    {
+      "t": 1120,
+      "title": "The episode turns to virginity"
+    },
+    {
+      "t": 1200,
+      "title": "Asa's first account"
+    },
+    {
+      "t": 1500,
+      "title": "Valentin was thirteen"
+    },
+    {
+      "t": 1620,
+      "title": "A father arranges paid sex"
+    },
+    {
+      "t": 1800,
+      "title": "Repetition, attachment, and adult reinterpretation"
+    },
+    {
+      "t": 2050,
+      "title": "David begins with adolescent crime"
+    },
+    {
+      "t": 2140,
+      "title": "Checks, credit cards, and forgery"
+    },
+    {
+      "t": 2240,
+      "title": "Juvenile Alternative Work Service"
+    },
+    {
+      "t": 2350,
+      "title": "Community service in South Central"
+    },
+    {
+      "t": 2500,
+      "title": "A hand-drawn pornography archive"
+    },
+    {
+      "t": 2680,
+      "title": "Christian parents discover the drawings"
+    },
+    {
+      "t": 2820,
+      "title": "The failed puberty talk"
+    },
+    {
+      "t": 3000,
+      "title": "Being caught masturbating"
+    },
+    {
+      "t": 3180,
+      "title": "A room-sized private ritual"
+    },
+    {
+      "t": 3295,
+      "title": "Heathers and a Christian Slater voice"
+    },
+    {
+      "t": 3378,
+      "title": "Elizabeth and Christina remain private"
+    },
+    {
+      "t": 3410,
+      "title": "An innocent first relationship"
+    },
+    {
+      "t": 3500,
+      "title": "Peer mythology outruns experience"
+    },
+    {
+      "t": 3600,
+      "title": "Sexual energy becomes butterfly drawings"
+    },
+    {
+      "t": 3640,
+      "title": "High school changes the hierarchy"
+    },
+    {
+      "t": 3680,
+      "title": "The prom queen ends the relationship"
+    },
+    {
+      "t": 3800,
+      "title": "A rival and public humiliation"
+    },
+    {
+      "t": 3895,
+      "title": "A wallet chain becomes a weapon"
+    },
+    {
+      "t": 3957,
+      "title": "Kim arrives from Las Vegas"
+    },
+    {
+      "t": 3983,
+      "title": "Writing about the Los Angeles uprising"
+    },
+    {
+      "t": 4000,
+      "title": "Selling classmates' homework"
+    },
+    {
+      "t": 4100,
+      "title": "A relationship begins in creative writing"
+    },
+    {
+      "t": 4200,
+      "title": "Reading about sex without guidance"
+    },
+    {
+      "t": 4300,
+      "title": "A first attempt turns humiliating"
+    },
+    {
+      "t": 4496,
+      "title": "Two weeks of silence"
+    },
+    {
+      "t": 4543,
+      "title": "Prom is still expected"
+    },
+    {
+      "t": 4571,
+      "title": "She says she is falling in love"
+    },
+    {
+      "t": 4592,
+      "title": "Prom night and a hotel"
+    },
+    {
+      "t": 4700,
+      "title": "Jell-O in the bathtub"
+    },
+    {
+      "t": 4798,
+      "title": "Intoxication stops the planned night"
+    },
+    {
+      "t": 4845,
+      "title": "Checkout time arrives"
+    },
+    {
+      "t": 4892,
+      "title": "The event David counts as losing virginity"
+    },
+    {
+      "t": 5108,
+      "title": "The relationship fades"
+    },
+    {
+      "t": 5144,
+      "title": "A double epilogue begins"
+    },
+    {
+      "t": 5174,
+      "title": "An encounter at LAX"
+    },
+    {
+      "t": 5300,
+      "title": "A failed attempt to reconnect"
+    },
+    {
+      "t": 5423,
+      "title": "Facebook wealth changes the messages"
+    },
+    {
+      "t": 5470,
+      "title": "Victory remains mixed with resentment"
+    },
+    {
+      "t": 5500,
+      "title": "Bobby still will not share"
+    },
+    {
+      "t": 5704,
+      "title": "Bobby knew the younger sister"
+    },
+    {
+      "t": 5740,
+      "title": "A horror-movie voice actor remains unnamed"
+    },
+    {
+      "t": 5795,
+      "title": "Born-again virginity becomes a dodge"
+    },
+    {
+      "t": 5900,
+      "title": "The private fan-access story begins"
+    },
+    {
+      "t": 5997,
+      "title": "“Ed” is an on-air pseudonym"
+    },
+    {
+      "t": 6019,
+      "title": "Yoshi provided an airport ride"
+    },
+    {
+      "t": 6022,
+      "title": "Bobby jokes about John Lennon"
+    },
+    {
+      "t": 6082,
+      "title": "A UCLA stand-up appearance"
+    },
+    {
+      "t": 6120,
+      "title": "Audience access and privacy boundaries"
+    },
+    {
+      "t": 6300,
+      "title": "A North Korean restaurant in Dubai"
+    },
+    {
+      "t": 6420,
+      "title": "No-photo signs and a staged performance"
+    },
+    {
+      "t": 6600,
+      "title": "Perceived coercion remains an interpretation"
+    },
+    {
+      "t": 6750,
+      "title": "A tip becomes a rescue fantasy"
+    },
+    {
+      "t": 6900,
+      "title": "Back to Afghanistan"
+    },
+    {
+      "t": 7050,
+      "title": "A mujahid host and armed protection"
+    },
+    {
+      "t": 7200,
+      "title": "Illness overwhelms hospitality"
+    },
+    {
+      "t": 7350,
+      "title": "A toilet story inside a guarded visit"
+    },
+    {
+      "t": 7480,
+      "title": "Communal eating with the right hand"
+    },
+    {
+      "t": 7600,
+      "title": "Cappadocia and cave tourism"
+    },
+    {
+      "t": 7720,
+      "title": "Starving dogs follow the group"
+    },
+    {
+      "t": 7840,
+      "title": "Critter gives away his shirt"
+    },
+    {
+      "t": 7920,
+      "title": "David regurgitates food for dogs"
+    },
+    {
+      "t": 8000,
+      "title": "Nicolas Cage in Cappadocia"
+    },
+    {
+      "t": 8080,
+      "title": "Tom Cruise becomes the comparison"
+    },
+    {
+      "t": 8170,
+      "title": "The guide performs as TA7A"
+    },
+    {
+      "t": 8280,
+      "title": "A rap alias is spelled aloud"
+    },
+    {
+      "t": 8380,
+      "title": "The cast turns the guide into a target"
+    },
+    {
+      "t": 8460,
+      "title": "“Reverse molestation” is their joke"
+    },
+    {
+      "t": 8580,
+      "title": "Tyra Banks and the fat-suit comparison"
+    },
+    {
+      "t": 8720,
+      "title": "The viral handsome-man story"
+    },
+    {
+      "t": 8840,
+      "title": "Omar Borkan Al Gala was not deported for beauty"
+    },
+    {
+      "t": 8999,
+      "title": "Bobby is tired"
+    },
+    {
+      "t": 9019,
+      "title": "No Trivia With Bobby"
+    },
+    {
+      "t": 9058,
+      "title": "A fart replaces the game"
+    },
+    {
+      "t": 9107,
+      "title": "The improvised close"
+    },
+    {
+      "t": 9147,
+      "title": "Cast roll call"
+    },
+    {
+      "t": 9166,
+      "title": "Recorded outro"
+    },
+    {
+      "t": 9215,
+      "title": "Five terminal “ilian” decoder hallucinations"
+    },
+    {
+      "t": 9222,
+      "title": "A final legitimate thank-you"
+    }
   ],
-  "people": ["David Choe", "Asa Akira", "Critter", "Valentin", "Bobby Namba", "Yoshi Obayashi", "Saad Mohseni", "David Beckham", "Pat Riley", "Christian Slater", "John Lennon", "Nicolas Cage", "Tom Cruise", "RZA", "Tyra Banks", "Omar Borkan Al Gala"],
-  "places": ["Los Angeles", "Beverly Hills", "Rodeo Drive", "Afghanistan", "Kabul", "Mexico", "Spain", "Las Vegas", "LAX", "Torrance", "UCLA", "Dubai", "Turkey", "Cappadocia", "Saudi Arabia"],
-  "works": ["DVDASA", "The Network", "Heathers", "Clueless", "Mean Girls", "10 Things I Hate About You"],
-  "organizations": ["Montblanc", "Rolex", "TOLO TV", "MOBY Group", "Afghan Premier League", "Chivas", "LA Galaxy", "Facebook", "The New York Times"],
-  "themes": ["sports ownership fantasy", "media power", "virginity", "child sexual exploitation", "adolescent crime", "pornography", "religious shame", "first love", "social hierarchy", "violence", "intoxication", "sexual consent", "private-person disclosure", "wealth and status", "fan boundaries", "travel storytelling", "overseas labor coercion", "cultural stereotypes", "hospitality", "illness", "animal suffering", "tourism", "harassment framed as comedy", "viral misinformation", "podcast labor"],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Yoshi Obayashi",
+    "Saad Mohseni",
+    "David Beckham",
+    "Pat Riley",
+    "Christian Slater",
+    "John Lennon",
+    "Nicolas Cage",
+    "Tom Cruise",
+    "RZA",
+    "Tyra Banks",
+    "Omar Borkan Al Gala"
+  ],
+  "places": [
+    "Los Angeles",
+    "Beverly Hills",
+    "Rodeo Drive",
+    "Afghanistan",
+    "Kabul",
+    "Mexico",
+    "Spain",
+    "Las Vegas",
+    "LAX",
+    "Torrance",
+    "UCLA",
+    "Dubai",
+    "Turkey",
+    "Cappadocia",
+    "Saudi Arabia"
+  ],
+  "works": [
+    "DVDASA",
+    "The Network",
+    "Heathers",
+    "Clueless",
+    "Mean Girls",
+    "10 Things I Hate About You"
+  ],
+  "organizations": [
+    "Montblanc",
+    "Rolex",
+    "TOLO TV",
+    "MOBY Group",
+    "Afghan Premier League",
+    "Chivas",
+    "LA Galaxy",
+    "Facebook",
+    "The New York Times"
+  ],
+  "themes": [
+    "sports ownership fantasy",
+    "media power",
+    "virginity",
+    "child sexual exploitation",
+    "adolescent crime",
+    "pornography",
+    "religious shame",
+    "first love",
+    "social hierarchy",
+    "violence",
+    "intoxication",
+    "sexual consent",
+    "private-person disclosure",
+    "wealth and status",
+    "fan boundaries",
+    "travel storytelling",
+    "overseas labor coercion",
+    "cultural stereotypes",
+    "hospitality",
+    "illness",
+    "animal suffering",
+    "tourism",
+    "harassment framed as comedy",
+    "viral misinformation",
+    "podcast labor"
+  ],
   "connections": [
-    {"label": "Ownership fantasies turn access into control", "note": "The Afghan soccer league inspires a fantasy of buying the worst team, importing talent, and redesigning local spectacle. The joke echoes David's broader tendency to answer unfamiliar systems by imagining personal ownership."},
-    {"label": "The Network complicates the travel monologue", "note": "Saad Mohseni is not only a powerful host but part of a family media institution. TOLO TV and the Afghan Premier League show entertainment, civic identity, and concentrated media power operating together."},
-    {"label": "Virginity stories are retrospective constructions", "note": "Each participant selects a different event, age, and emotional frame as the meaningful beginning. The episode reveals how later identity reorganizes ambiguous early experiences."},
-    {"label": "Paid sex involving a thirteen-year-old is exploitation", "note": "The room sometimes treats Valentin's account as a cultural initiation. Editorial framing restores the basic power fact: a child could not consent to a commercial arrangement organized by a parent."},
-    {"label": "Drawing functions as both privacy and regulation", "note": "David's hand-made pornography archive and many-winged butterflies convert arousal, ignorance, and social frustration into exhaustive image-making before public art becomes his identity."},
-    {"label": "Knowledge without guidance produces performance panic", "note": "Reading extensively about sex gives David a checklist but not judgment, communication, or comfort. The gap between information and relational skill drives the first-encounter story."},
-    {"label": "Humiliation and violence share an audience", "note": "A breakup, a fight, school reputation, and sexual inexperience matter partly because peers are imagined as witnesses. Private pain becomes a public status emergency."},
-    {"label": "Wealth rewrites the apparent meaning of old relationships", "note": "After Facebook publicity, messages from former classmates feel to David like proof that status—not intimacy—changed their interest. Whether or not that interpretation is complete, it becomes a victory story."},
-    {"label": "The private fan story tests the archive's own ethics", "note": "The cast turns a listener's proximity into content while fearing unwanted access. The editorial layer therefore keeps “Ed” a pseudonym and does not index the listener's location."},
-    {"label": "Observation and rescue fantasy collapse at the restaurant", "note": "David notices restrictions and possible surveillance, then converts one worker into a personal rescue scenario. Stronger public evidence supports concern about coercive overseas DPRK labor, but not every claim he makes about the individual woman."},
-    {"label": "Hospitality becomes most visible when the body fails", "note": "Armed protection, communal meals, and ceremonial hosting are interrupted by severe gastrointestinal illness. The comic account also shows the burden of being cared for in an unfamiliar setting."},
-    {"label": "Compassion and spectacle coexist around the dogs", "note": "Critter gives away clothing and David feeds starving animals in a physically extreme way, while the suffering also becomes memorable travel entertainment."},
-    {"label": "The guide is denied the boundaries the cast demands from fans", "note": "After defending privacy from a superfan, the group describes persistent sexual joking and physical pressure toward a guide. The contradiction is important even when the sequence is framed as comedy."},
-    {"label": "A viral myth enters the archive as lived fact", "note": "The “too handsome” deportation story was circulating in 2013 and is repeated without skepticism. Later reporting and Al Gala's own account say he was not deported for beauty; the transcript preserves the claim while metadata corrects it."},
-    {"label": "Text quality and speaker quality are separate gates", "note": "Episode Twenty-Seven has strong words and 3,073 fixed-window embeddings, but zero turns is deliberate configuration and no independently validated multi-speaker naming exists. Corrections may ship; dialogue names may not."},
-    {"label": "Strict serialization is part of transcript quality", "note": "The words can look readable while literal NaN values make the artifacts fail ordinary JSON parsers. Five post-outro decoder fragments also survive cleaning, so valid files require regeneration rather than an editorial footnote alone."}
+    {
+      "label": "Ownership fantasies turn access into control",
+      "note": "The Afghan soccer league inspires a fantasy of buying the worst team, importing talent, and redesigning local spectacle. The joke echoes David's broader tendency to answer unfamiliar systems by imagining personal ownership."
+    },
+    {
+      "label": "The Network complicates the travel monologue",
+      "note": "Saad Mohseni is not only a powerful host but part of a family media institution. TOLO TV and the Afghan Premier League show entertainment, civic identity, and concentrated media power operating together."
+    },
+    {
+      "label": "Virginity stories are retrospective constructions",
+      "note": "Each participant selects a different event, age, and emotional frame as the meaningful beginning. The episode reveals how later identity reorganizes ambiguous early experiences."
+    },
+    {
+      "label": "Paid sex involving a thirteen-year-old is exploitation",
+      "note": "The room sometimes treats Valentin's account as a cultural initiation. Editorial framing restores the basic power fact: a child could not consent to a commercial arrangement organized by a parent."
+    },
+    {
+      "label": "Drawing functions as both privacy and regulation",
+      "note": "David's hand-made pornography archive and many-winged butterflies convert arousal, ignorance, and social frustration into exhaustive image-making before public art becomes his identity."
+    },
+    {
+      "label": "Knowledge without guidance produces performance panic",
+      "note": "Reading extensively about sex gives David a checklist but not judgment, communication, or comfort. The gap between information and relational skill drives the first-encounter story."
+    },
+    {
+      "label": "Humiliation and violence share an audience",
+      "note": "A breakup, a fight, school reputation, and sexual inexperience matter partly because peers are imagined as witnesses. Private pain becomes a public status emergency."
+    },
+    {
+      "label": "Wealth rewrites the apparent meaning of old relationships",
+      "note": "After Facebook publicity, messages from former classmates feel to David like proof that status—not intimacy—changed their interest. Whether or not that interpretation is complete, it becomes a victory story."
+    },
+    {
+      "label": "The private fan story tests the archive's own ethics",
+      "note": "The cast turns a listener's proximity into content while fearing unwanted access. The editorial layer therefore keeps “Ed” a pseudonym and does not index the listener's location."
+    },
+    {
+      "label": "Observation and rescue fantasy collapse at the restaurant",
+      "note": "David notices restrictions and possible surveillance, then converts one worker into a personal rescue scenario. Stronger public evidence supports concern about coercive overseas DPRK labor, but not every claim he makes about the individual woman."
+    },
+    {
+      "label": "Hospitality becomes most visible when the body fails",
+      "note": "Armed protection, communal meals, and ceremonial hosting are interrupted by severe gastrointestinal illness. The comic account also shows the burden of being cared for in an unfamiliar setting."
+    },
+    {
+      "label": "Compassion and spectacle coexist around the dogs",
+      "note": "Critter gives away clothing and David feeds starving animals in a physically extreme way, while the suffering also becomes memorable travel entertainment."
+    },
+    {
+      "label": "The guide is denied the boundaries the cast demands from fans",
+      "note": "After defending privacy from a superfan, the group describes persistent sexual joking and physical pressure toward a guide. The contradiction is important even when the sequence is framed as comedy."
+    },
+    {
+      "label": "A viral myth enters the archive as lived fact",
+      "note": "The “too handsome” deportation story was circulating in 2013 and is repeated without skepticism. Later reporting and Al Gala's own account say he was not deported for beauty; the transcript preserves the claim while metadata corrects it."
+    },
+    {
+      "label": "Text quality and speaker quality are separate gates",
+      "note": "Episode Twenty-Seven has strong words and 3,073 fixed-window embeddings, but zero turns is deliberate configuration and no independently validated multi-speaker naming exists. Corrections may ship; dialogue names may not."
+    },
+    {
+      "label": "Strict serialization is part of transcript quality",
+      "note": "The words can look readable while literal NaN values make the artifacts fail ordinary JSON parsers. Five post-outro decoder fragments also survive cleaning, so valid files require regeneration rather than an editorial footnote alone."
+    }
   ],
-  "content_warnings": ["explicit sexual discussion", "sexual experiences involving minors", "child sexual exploitation", "private-person sexual disclosure", "adolescent crime and fraud", "religious shame", "pornography", "violence and choking", "intoxication and impaired consent", "racial, national, gender, and sexual stereotypes", "possible forced labor", "illness and fecal detail", "animal suffering", "sexual harassment framed as comedy", "viral misinformation"],
+  "content_warnings": [
+    "explicit sexual discussion",
+    "sexual experiences involving minors",
+    "child sexual exploitation",
+    "private-person sexual disclosure",
+    "adolescent crime and fraud",
+    "religious shame",
+    "pornography",
+    "violence and choking",
+    "intoxication and impaired consent",
+    "racial, national, gender, and sexual stereotypes",
+    "possible forced labor",
+    "illness and fecal detail",
+    "animal suffering",
+    "sexual harassment framed as comedy",
+    "viral misinformation"
+  ],
   "quality": {
     "transcript_state": "strong-searchable-draft-regeneration-required",
     "speaker_state": "five-person episode; segmentation deliberately skipped, 3,073 fixed-window identity embeddings intact, named turns withheld pending independent validation",
     "correction_fixture": "episode-027-correction-fixture.json",
     "content_note": "Sensitive material involving people who were minors is summarized neutrally rather than made explicit searchable metadata. Private partners, classmates, a listener, hosts, workers, and guides remain unidentified. Cultural and labor claims stay attributed; the Omar Borkan Al Gala viral story is corrected in metadata."
   },
-  "note": "Chapter titles and connections are editorial. Thirty-two contextual correction records should be baked into derived text. Claude should serialize non-finite metrics as null, remove five terminal “ilian” fragments at 9215.35–9222.43, preserve the final legitimate thank-you, and regenerate downstream files. Speaker names still require independent held-out validation."
+  "note": "Chapter titles and connections are editorial. Thirty-two contextual correction records should be baked into derived text. Claude should serialize non-finite metrics as null, remove five terminal “ilian” fragments at 9215.35–9222.43, preserve the final legitimate thank-you, and regenerate downstream files. Speaker names still require independent held-out validation.",
+  "description": "Episode Twenty-Seven is organized around virginity and the stories people build around sexual initiation.",
+  "description_source": "Opening of the human-reviewed summary."
 }

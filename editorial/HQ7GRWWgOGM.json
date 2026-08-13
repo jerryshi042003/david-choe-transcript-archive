@@ -24,126 +24,503 @@
     "review_queue_suggestions_accepted": 0
   },
   "chapters": [
-    {"t": 13, "title": "Season Three opens in Beijing"},
-    {"t": 47, "title": "First China exhibition and artist identity"},
-    {"t": 89, "title": "Studio tour and visual sources"},
-    {"t": 126, "title": "Explicit autobiography behind the paintings"},
-    {"t": 181, "title": "Rust, an old-man image and the pervert painting"},
-    {"t": 242, "title": "Mia on hitchhiking in China"},
-    {"t": 280, "title": "Artist sign versus sexual signs"},
-    {"t": 304, "title": "Stephanie joins the trip"},
-    {"t": 339, "title": "A participant who can bridge languages"},
-    {"t": 406, "title": "First private driver and an unidentified building"},
-    {"t": 431, "title": "Gallery dispute and improvised camp"},
-    {"t": 448, "title": "Day Three and the roadside"},
-    {"t": 493, "title": "David sexualizes Stephanie's role"},
-    {"t": 532, "title": "An apparently empty tour bus stops"},
-    {"t": 581, "title": "Music, snacks and bus hospitality"},
-    {"t": 621, "title": "First-ride metaphor and a retracted reading"},
-    {"t": 650, "title": "Marriage banter and Chinese-language singing"},
-    {"t": 705, "title": "Arrival at Badaling"},
-    {"t": 722, "title": "The lifelong Great Wall fantasy"},
-    {"t": 749, "title": "Stephanie corrects the geography"},
-    {"t": 789, "title": "One brick is enough"},
-    {"t": 809, "title": "Scatological jokes at the wall"},
-    {"t": 823, "title": "Restaurant attention around Harry"},
-    {"t": 857, "title": "Touching, photos, food and a kiss request"},
-    {"t": 875, "title": "Day Four recap"},
-    {"t": 917, "title": "Datong, Mongolia and the Yellow River"},
-    {"t": 933, "title": "Local repair for a torn suit"},
-    {"t": 987, "title": "Illness and diarrhea self-report"},
-    {"t": 1010, "title": "Meeting Mr. Huang"},
-    {"t": 1044, "title": "Flattery, a ride and explicit commentary"},
-    {"t": 1075, "title": "A slow ride with Mr. Zhao"},
-    {"t": 1110, "title": "Painting at an ambiguous stop"},
-    {"t": 1133, "title": "A terse demolition-work translation"},
-    {"t": 1169, "title": "Market claims about food and sexual power"},
-    {"t": 1217, "title": "Untranslated ride conditions"},
-    {"t": 1232, "title": "Sexualized celebration of another ride"},
-    {"t": 1256, "title": "Mr. Xi's reported age and name"},
-    {"t": 1280, "title": "Farewell and sweater compliment"}
+    {
+      "t": 13,
+      "title": "Season Three opens in Beijing"
+    },
+    {
+      "t": 47,
+      "title": "First China exhibition and artist identity"
+    },
+    {
+      "t": 89,
+      "title": "Studio tour and visual sources"
+    },
+    {
+      "t": 126,
+      "title": "Explicit autobiography behind the paintings"
+    },
+    {
+      "t": 181,
+      "title": "Rust, an old-man image and the pervert painting"
+    },
+    {
+      "t": 242,
+      "title": "Mia on hitchhiking in China"
+    },
+    {
+      "t": 280,
+      "title": "Artist sign versus sexual signs"
+    },
+    {
+      "t": 304,
+      "title": "Stephanie joins the trip"
+    },
+    {
+      "t": 339,
+      "title": "A participant who can bridge languages"
+    },
+    {
+      "t": 406,
+      "title": "First private driver and an unidentified building"
+    },
+    {
+      "t": 431,
+      "title": "Gallery dispute and improvised camp"
+    },
+    {
+      "t": 448,
+      "title": "Day Three and the roadside"
+    },
+    {
+      "t": 493,
+      "title": "David sexualizes Stephanie's role"
+    },
+    {
+      "t": 532,
+      "title": "An apparently empty tour bus stops"
+    },
+    {
+      "t": 581,
+      "title": "Music, snacks and bus hospitality"
+    },
+    {
+      "t": 621,
+      "title": "First-ride metaphor and a retracted reading"
+    },
+    {
+      "t": 650,
+      "title": "Marriage banter and Chinese-language singing"
+    },
+    {
+      "t": 705,
+      "title": "Arrival at Badaling"
+    },
+    {
+      "t": 722,
+      "title": "The lifelong Great Wall fantasy"
+    },
+    {
+      "t": 749,
+      "title": "Stephanie corrects the geography"
+    },
+    {
+      "t": 789,
+      "title": "One brick is enough"
+    },
+    {
+      "t": 809,
+      "title": "Scatological jokes at the wall"
+    },
+    {
+      "t": 823,
+      "title": "Restaurant attention around Harry"
+    },
+    {
+      "t": 857,
+      "title": "Touching, photos, food and a kiss request"
+    },
+    {
+      "t": 875,
+      "title": "Day Four recap"
+    },
+    {
+      "t": 917,
+      "title": "Datong, Mongolia and the Yellow River"
+    },
+    {
+      "t": 933,
+      "title": "Local repair for a torn suit"
+    },
+    {
+      "t": 987,
+      "title": "Illness and diarrhea self-report"
+    },
+    {
+      "t": 1010,
+      "title": "Meeting Mr. Huang"
+    },
+    {
+      "t": 1044,
+      "title": "Flattery, a ride and explicit commentary"
+    },
+    {
+      "t": 1075,
+      "title": "A slow ride with Mr. Zhao"
+    },
+    {
+      "t": 1110,
+      "title": "Painting at an ambiguous stop"
+    },
+    {
+      "t": 1133,
+      "title": "A terse demolition-work translation"
+    },
+    {
+      "t": 1169,
+      "title": "Market claims about food and sexual power"
+    },
+    {
+      "t": 1217,
+      "title": "Untranslated ride conditions"
+    },
+    {
+      "t": 1232,
+      "title": "Sexualized celebration of another ride"
+    },
+    {
+      "t": 1256,
+      "title": "Mr. Xi's reported age and name"
+    },
+    {
+      "t": 1280,
+      "title": "Farewell and sweater compliment"
+    }
   ],
-  "people": ["David Choe", "Harry Kim", "Mia [publisher label]", "Stephanie [publisher label]", "Mr. Huang [private/publisher label]", "Mr. Zhao [private/publisher label]", "Mr. Xi [private/publisher label]", "unidentified bus, restaurant, repair and market participants"],
-  "places": ["Beijing", "Badaling", "Great Wall of China", "Datong", "Mongolia [proposed direction]", "Yellow River [proposed route]", "unidentified roads, studio, gallery, restaurant, market and stops"],
-  "works": ["Thumbs Up!", "David's China exhibition and paintings [episode claims]"],
-  "themes": ["art and autobiography", "hitchhiking", "language brokerage", "translation uncertainty", "hospitality", "sexual objectification", "private strangers", "property and heritage boundaries", "stereotyping", "illness self-report", "food-health misinformation", "friendship", "speaker-label provenance"],
+  "people": [
+    "David Choe",
+    "Harry Kim",
+    "Mia [publisher label]",
+    "Stephanie [publisher label]",
+    "Mr. Huang [private/publisher label]",
+    "Mr. Zhao [private/publisher label]",
+    "Mr. Xi [private/publisher label]",
+    "unidentified bus, restaurant, repair and market participants"
+  ],
+  "places": [
+    "Beijing",
+    "Badaling",
+    "Great Wall of China",
+    "Datong",
+    "Mongolia [proposed direction]",
+    "Yellow River [proposed route]",
+    "unidentified roads, studio, gallery, restaurant, market and stops"
+  ],
+  "works": [
+    "Thumbs Up!",
+    "David's China exhibition and paintings [episode claims]"
+  ],
+  "themes": [
+    "art and autobiography",
+    "hitchhiking",
+    "language brokerage",
+    "translation uncertainty",
+    "hospitality",
+    "sexual objectification",
+    "private strangers",
+    "property and heritage boundaries",
+    "stereotyping",
+    "illness self-report",
+    "food-health misinformation",
+    "friendship",
+    "speaker-label provenance"
+  ],
   "connections": [
-    {"t": 13, "to": "thumbs-up-season-three", "why": "The road format moves from North America to China."},
-    {"t": 47, "to": "artist-before-traveler", "why": "The season begins with an exhibition and studio rather than the roadside."},
-    {"t": 126, "to": "art-from-admitted-behavior", "why": "David explicitly ties uncomfortable sexual behavior to paintings instead of letting a later archive interpretation invent the link."},
-    {"t": 242, "to": "local-knowledge-challenges-format", "why": "Mia says the show's hitchhiking premise is not customary in China."},
-    {"t": 304, "to": "participant-versus-production-role", "why": "Stephanie joins as Harry's sister and traveler while also bridging languages."},
-    {"t": 406, "to": "private-driver-boundary", "why": "The first ride introduces the season-long need to retain scenes without resolving strangers' identities."},
-    {"t": 431, "to": "art-world-conflict", "why": "The exhibition context turns into David's one-sided account of being removed by a gallery."},
-    {"t": 493, "to": "language-broker-sexualized", "why": "David repeatedly reframes Stephanie's practical participation as sexual leverage."},
-    {"t": 581, "to": "music-for-hospitality", "why": "Harry's performances continue the series' exchange of art for rides and connection."},
-    {"t": 632, "to": "narrator-corrects-himself", "why": "David retracts his assumption that a bus passenger is angry; both claims belong together."},
-    {"t": 650, "to": "untranslated-source-layer", "why": "Chinese speech cannot be reconstructed from surrounding English banter."},
-    {"t": 722, "to": "art-and-property-boundaries", "why": "A painting fantasy becomes physical marking of cultural heritage without demonstrated permission."},
-    {"t": 749, "to": "participant-correction", "why": "Stephanie corrects David rather than serving as a frictionless narrator."},
-    {"t": 823, "to": "harry-as-comic-object", "why": "The season again makes Harry's body and performance a spectacle, now through David's Buddha framing."},
-    {"t": 861, "to": "request-versus-consent", "why": "David's instruction to kiss a woman cannot stand in for either person's agreement or an event."},
-    {"t": 917, "to": "route-as-proposal", "why": "Datong is reached, while Mongolia and the Yellow River remain planning language."},
-    {"t": 987, "to": "road-health-cost", "why": "David's illness mirrors earlier seasons' recurring bodily consequences without proving a diagnosis."},
-    {"t": 1044, "to": "translation-versus-objectification", "why": "Stephanie's language work is immediately surrounded by David's sexual commentary."},
-    {"t": 1110, "to": "art-for-ride", "why": "David again appears to exchange painting for hospitality, but object and permission need video verification."},
-    {"t": 1169, "to": "joke-versus-health-claim", "why": "Translated or improvised claims about sexual effects of food must not become factual archive metadata."}
+    {
+      "t": 13,
+      "to": "thumbs-up-season-three",
+      "why": "The road format moves from North America to China."
+    },
+    {
+      "t": 47,
+      "to": "artist-before-traveler",
+      "why": "The season begins with an exhibition and studio rather than the roadside."
+    },
+    {
+      "t": 126,
+      "to": "art-from-admitted-behavior",
+      "why": "David explicitly ties uncomfortable sexual behavior to paintings instead of letting a later archive interpretation invent the link."
+    },
+    {
+      "t": 242,
+      "to": "local-knowledge-challenges-format",
+      "why": "Mia says the show's hitchhiking premise is not customary in China."
+    },
+    {
+      "t": 304,
+      "to": "participant-versus-production-role",
+      "why": "Stephanie joins as Harry's sister and traveler while also bridging languages."
+    },
+    {
+      "t": 406,
+      "to": "private-driver-boundary",
+      "why": "The first ride introduces the season-long need to retain scenes without resolving strangers' identities."
+    },
+    {
+      "t": 431,
+      "to": "art-world-conflict",
+      "why": "The exhibition context turns into David's one-sided account of being removed by a gallery."
+    },
+    {
+      "t": 493,
+      "to": "language-broker-sexualized",
+      "why": "David repeatedly reframes Stephanie's practical participation as sexual leverage."
+    },
+    {
+      "t": 581,
+      "to": "music-for-hospitality",
+      "why": "Harry's performances continue the series' exchange of art for rides and connection."
+    },
+    {
+      "t": 632,
+      "to": "narrator-corrects-himself",
+      "why": "David retracts his assumption that a bus passenger is angry; both claims belong together."
+    },
+    {
+      "t": 650,
+      "to": "untranslated-source-layer",
+      "why": "Chinese speech cannot be reconstructed from surrounding English banter."
+    },
+    {
+      "t": 722,
+      "to": "art-and-property-boundaries",
+      "why": "A painting fantasy becomes physical marking of cultural heritage without demonstrated permission."
+    },
+    {
+      "t": 749,
+      "to": "participant-correction",
+      "why": "Stephanie corrects David rather than serving as a frictionless narrator."
+    },
+    {
+      "t": 823,
+      "to": "harry-as-comic-object",
+      "why": "The season again makes Harry's body and performance a spectacle, now through David's Buddha framing."
+    },
+    {
+      "t": 861,
+      "to": "request-versus-consent",
+      "why": "David's instruction to kiss a woman cannot stand in for either person's agreement or an event."
+    },
+    {
+      "t": 917,
+      "to": "route-as-proposal",
+      "why": "Datong is reached, while Mongolia and the Yellow River remain planning language."
+    },
+    {
+      "t": 987,
+      "to": "road-health-cost",
+      "why": "David's illness mirrors earlier seasons' recurring bodily consequences without proving a diagnosis."
+    },
+    {
+      "t": 1044,
+      "to": "translation-versus-objectification",
+      "why": "Stephanie's language work is immediately surrounded by David's sexual commentary."
+    },
+    {
+      "t": 1110,
+      "to": "art-for-ride",
+      "why": "David again appears to exchange painting for hospitality, but object and permission need video verification."
+    },
+    {
+      "t": 1169,
+      "to": "joke-versus-health-claim",
+      "why": "Translated or improvised claims about sexual effects of food must not become factual archive metadata."
+    }
   ],
   "source_notes": [
-    {"t": 705, "claim": "Badaling is a Great Wall location.", "assessment": "Badaling is a recognized section of the Great Wall. The episode's marking scene still requires its own permission and conservation context.", "source": "https://whc.unesco.org/en/list/438/"},
-    {"t": 987, "claim": "David has the flu because he reports diarrhea and feeling ill.", "assessment": "This is David's self-diagnosis. Gastrointestinal symptoms have many causes; preserve his words without converting them into a medical finding.", "source": "https://wwwnc.cdc.gov/travel/yellowbook/2026/preparing/travelers-diarrhea"},
-    {"t": 0, "claim": "Nine speaker categories occur in the manual captions.", "assessment": "VICE supplies exact-span labels for David Choe, Harry Kim, Mia, Stephanie, Mr. Huang, Mr. Zhao, Mr. Xi and generic male/female speakers. None is credited to an acoustic model.", "source": "https://www.youtube.com/watch?v=HQ7GRWWgOGM"}
+    {
+      "t": 705,
+      "claim": "Badaling is a Great Wall location.",
+      "assessment": "Badaling is a recognized section of the Great Wall. The episode's marking scene still requires its own permission and conservation context.",
+      "source": "https://whc.unesco.org/en/list/438/"
+    },
+    {
+      "t": 987,
+      "claim": "David has the flu because he reports diarrhea and feeling ill.",
+      "assessment": "This is David's self-diagnosis. Gastrointestinal symptoms have many causes; preserve his words without converting them into a medical finding.",
+      "source": "https://wwwnc.cdc.gov/travel/yellowbook/2026/preparing/travelers-diarrhea"
+    },
+    {
+      "t": 0,
+      "claim": "Nine speaker categories occur in the manual captions.",
+      "assessment": "VICE supplies exact-span labels for David Choe, Harry Kim, Mia, Stephanie, Mr. Huang, Mr. Zhao, Mr. Xi and generic male/female speakers. None is credited to an acoustic model.",
+      "source": "https://www.youtube.com/watch?v=HQ7GRWWgOGM"
+    }
   ],
   "speaker_policy": {
     "status": "publisher labels retained; model-generated named turns withheld",
     "reason": "Exact manual-caption prefixes are candidates with acoustic_verified=false. Labels never propagate to adjacent unlabeled spans. Mia, Stephanie and all private local participants are excluded from durable voice/face identity claims until independently listening-verified and policy-eligible; private strangers remain excluded from enrollment. Chinese-language identity and translation cannot be inferred from neighboring English captions."
   },
   "content_warnings": [
-    {"t": 27, "warning": "sexual and cultural stereotyping"},
-    {"t": 126, "warning": "explicit masturbation account"},
-    {"t": 153, "warning": "admitted voyeuristic behavior"},
-    {"t": 321, "warning": "gendered/sexual slur framing"},
-    {"t": 406, "warning": "racialized description of private driver"},
-    {"t": 431, "warning": "property access/permission ambiguity"},
-    {"t": 441, "warning": "racialized language joke"},
-    {"t": 477, "warning": "roadside/freeway danger"},
-    {"t": 493, "warning": "sexual objectification and pressure"},
-    {"t": 621, "warning": "sexual metaphor"},
-    {"t": 722, "warning": "cultural-heritage/property marking"},
-    {"t": 753, "warning": "ableist slur"},
-    {"t": 809, "warning": "graphic scatological language"},
-    {"t": 823, "warning": "body, ethnic and religious stereotyping"},
-    {"t": 836, "warning": "touching/consent context"},
-    {"t": 987, "warning": "acute illness and explicit diarrhea"},
-    {"t": 1050, "warning": "graphic sexual objectification"},
-    {"t": 1110, "warning": "property marking/permission ambiguity"},
-    {"t": 1169, "warning": "unsupported aphrodisiac/health claims"},
-    {"t": 1232, "warning": "graphic sexualized language"}
+    {
+      "t": 27,
+      "warning": "sexual and cultural stereotyping"
+    },
+    {
+      "t": 126,
+      "warning": "explicit masturbation account"
+    },
+    {
+      "t": 153,
+      "warning": "admitted voyeuristic behavior"
+    },
+    {
+      "t": 321,
+      "warning": "gendered/sexual slur framing"
+    },
+    {
+      "t": 406,
+      "warning": "racialized description of private driver"
+    },
+    {
+      "t": 431,
+      "warning": "property access/permission ambiguity"
+    },
+    {
+      "t": 441,
+      "warning": "racialized language joke"
+    },
+    {
+      "t": 477,
+      "warning": "roadside/freeway danger"
+    },
+    {
+      "t": 493,
+      "warning": "sexual objectification and pressure"
+    },
+    {
+      "t": 621,
+      "warning": "sexual metaphor"
+    },
+    {
+      "t": 722,
+      "warning": "cultural-heritage/property marking"
+    },
+    {
+      "t": 753,
+      "warning": "ableist slur"
+    },
+    {
+      "t": 809,
+      "warning": "graphic scatological language"
+    },
+    {
+      "t": 823,
+      "warning": "body, ethnic and religious stereotyping"
+    },
+    {
+      "t": 836,
+      "warning": "touching/consent context"
+    },
+    {
+      "t": 987,
+      "warning": "acute illness and explicit diarrhea"
+    },
+    {
+      "t": 1050,
+      "warning": "graphic sexual objectification"
+    },
+    {
+      "t": 1110,
+      "warning": "property marking/permission ambiguity"
+    },
+    {
+      "t": 1169,
+      "warning": "unsupported aphrodisiac/health claims"
+    },
+    {
+      "t": 1232,
+      "warning": "graphic sexualized language"
+    }
   ],
   "publication_restrictions": [
-    {"t": 0, "rule": "Preserve every source idea and literal wording; corrections and context remain separate."},
-    {"t": 0.1, "rule": "Publisher speaker labels are exact-span provenance only, never acoustic-model output."},
-    {"t": 0.2, "rule": "Do not propagate a label across unlabeled speech or infer a speaker from adjacency."},
-    {"t": 47, "rule": "Keep exhibition chronology attributed until independent records verify it."},
-    {"t": 126, "rule": "Do not sanitize explicit autobiography or extract it as decontextualized promotional copy."},
-    {"t": 242, "rule": "Do not infer Mia's private identity, contact trail or relationship beyond the episode."},
-    {"t": 304, "rule": "Do not reduce Stephanie to translator, sexual leverage or a voice-enrollment target."},
-    {"t": 339, "rule": "Do not invent Chinese translations or claim fluency from the edited episode."},
-    {"t": 406, "rule": "No face, plate, route, employer, ethnicity or identity search for private drivers."},
-    {"t": 431, "rule": "Do not geolocate the gallery/building/camp or assert property rights absent evidence."},
-    {"t": 477, "rule": "Do not turn roadside/freeway scenes into route or evasion instructions."},
-    {"t": 493, "rule": "Keep Stephanie's participation and David's objectification distinct; narration is not consent."},
-    {"t": 581, "rule": "Music/performance cues require rights and exact-work verification before reuse."},
-    {"t": 632, "rule": "Keep David's retraction adjacent to his unsupported reading of a private woman."},
-    {"t": 650, "rule": "All Chinese-language spans remain unresolved until native-language listening review."},
-    {"t": 722, "rule": "Describe only what the episode depicts/claims; do not celebrate, instruct, legalize or criminalize the Great Wall marking without evidence."},
-    {"t": 823, "rule": "Do not use Buddha/body framing as participant belief, ethnicity metadata, thumbnail text or archive voice."},
-    {"t": 836, "rule": "No face extraction or consent inference for restaurant participants."},
-    {"t": 917, "rule": "Distinguish reached places from proposed destinations and subjective regional language."},
-    {"t": 933, "rule": "Do not identify repair workers, shop or location from visual clues."},
-    {"t": 987, "rule": "Do not diagnose David or create medical profiles for participants."},
-    {"t": 1019, "rule": "Huang, Zhao and Xi remain scene-only publisher labels; no surname expansion or notable-person linking."},
-    {"t": 1110, "rule": "Do not infer what was painted, ownership or permission without video review."},
-    {"t": 1169, "rule": "Never publish food/sexual-potency banter as medical, sexual-health or nutrition guidance."}
-  ]
+    {
+      "t": 0,
+      "rule": "Preserve every source idea and literal wording; corrections and context remain separate."
+    },
+    {
+      "t": 0.1,
+      "rule": "Publisher speaker labels are exact-span provenance only, never acoustic-model output."
+    },
+    {
+      "t": 0.2,
+      "rule": "Do not propagate a label across unlabeled speech or infer a speaker from adjacency."
+    },
+    {
+      "t": 47,
+      "rule": "Keep exhibition chronology attributed until independent records verify it."
+    },
+    {
+      "t": 126,
+      "rule": "Do not sanitize explicit autobiography or extract it as decontextualized promotional copy."
+    },
+    {
+      "t": 242,
+      "rule": "Do not infer Mia's private identity, contact trail or relationship beyond the episode."
+    },
+    {
+      "t": 304,
+      "rule": "Do not reduce Stephanie to translator, sexual leverage or a voice-enrollment target."
+    },
+    {
+      "t": 339,
+      "rule": "Do not invent Chinese translations or claim fluency from the edited episode."
+    },
+    {
+      "t": 406,
+      "rule": "No face, plate, route, employer, ethnicity or identity search for private drivers."
+    },
+    {
+      "t": 431,
+      "rule": "Do not geolocate the gallery/building/camp or assert property rights absent evidence."
+    },
+    {
+      "t": 477,
+      "rule": "Do not turn roadside/freeway scenes into route or evasion instructions."
+    },
+    {
+      "t": 493,
+      "rule": "Keep Stephanie's participation and David's objectification distinct; narration is not consent."
+    },
+    {
+      "t": 581,
+      "rule": "Music/performance cues require rights and exact-work verification before reuse."
+    },
+    {
+      "t": 632,
+      "rule": "Keep David's retraction adjacent to his unsupported reading of a private woman."
+    },
+    {
+      "t": 650,
+      "rule": "All Chinese-language spans remain unresolved until native-language listening review."
+    },
+    {
+      "t": 722,
+      "rule": "Describe only what the episode depicts/claims; do not celebrate, instruct, legalize or criminalize the Great Wall marking without evidence."
+    },
+    {
+      "t": 823,
+      "rule": "Do not use Buddha/body framing as participant belief, ethnicity metadata, thumbnail text or archive voice."
+    },
+    {
+      "t": 836,
+      "rule": "No face extraction or consent inference for restaurant participants."
+    },
+    {
+      "t": 917,
+      "rule": "Distinguish reached places from proposed destinations and subjective regional language."
+    },
+    {
+      "t": 933,
+      "rule": "Do not identify repair workers, shop or location from visual clues."
+    },
+    {
+      "t": 987,
+      "rule": "Do not diagnose David or create medical profiles for participants."
+    },
+    {
+      "t": 1019,
+      "rule": "Huang, Zhao and Xi remain scene-only publisher labels; no surname expansion or notable-person linking."
+    },
+    {
+      "t": 1110,
+      "rule": "Do not infer what was painted, ownership or permission without video review."
+    },
+    {
+      "t": 1169,
+      "rule": "Never publish food/sexual-potency banter as medical, sexual-health or nutrition guidance."
+    }
+  ],
+  "description": "Season Three begins in Beijing with David preparing for a China exhibition, describing explicit sources for his paintings and recruiting Mia and Stephanie before beginning the trip with Harry.",
+  "description_source": "Opening of the human-reviewed summary."
 }

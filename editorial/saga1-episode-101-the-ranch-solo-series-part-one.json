@@ -1,21 +1,82 @@
 {
   "summary": "David Choe records alone at the Ranch and turns the episode into an unsystematic art-school lecture. He argues that creative growth requires risk, honest self-assessment, daily drawing, travel, financial austerity, and a willingness to choose the work over comfort. The advice repeatedly collides with its costs: hunger, unstable relationships, jealousy, isolation, bluntness, and the danger of treating total commitment as a universal rule.",
   "chapters": [
-    {"t": 0, "title": "Opening montage: risk and “fuck it”"},
-    {"t": 900, "title": "Intro credits and the Ranch setup"},
-    {"t": 2302, "title": "The “Choe method” and brutal self-assessment"},
-    {"t": 3600, "title": "Fear, imitation, and finding a voice"},
-    {"t": 4500, "title": "Starving-artist economics and reinvestment"},
-    {"t": 5251, "title": "Art school, daily drawing, and self-education"},
-    {"t": 6300, "title": "Travel as an unedited education"},
-    {"t": 7195, "title": "Commitment, relationships, and jealousy"},
-    {"t": 7472, "title": "Business, collecting, and supporting young artists"},
-    {"t": 8925, "title": "Honesty, DVDASA, and doors closing"}
+    {
+      "t": 0,
+      "title": "Opening montage: risk and “fuck it”"
+    },
+    {
+      "t": 900,
+      "title": "Intro credits and the Ranch setup"
+    },
+    {
+      "t": 2302,
+      "title": "The “Choe method” and brutal self-assessment"
+    },
+    {
+      "t": 3600,
+      "title": "Fear, imitation, and finding a voice"
+    },
+    {
+      "t": 4500,
+      "title": "Starving-artist economics and reinvestment"
+    },
+    {
+      "t": 5251,
+      "title": "Art school, daily drawing, and self-education"
+    },
+    {
+      "t": 6300,
+      "title": "Travel as an unedited education"
+    },
+    {
+      "t": 7195,
+      "title": "Commitment, relationships, and jealousy"
+    },
+    {
+      "t": 7472,
+      "title": "Business, collecting, and supporting young artists"
+    },
+    {
+      "t": 8925,
+      "title": "Honesty, DVDASA, and doors closing"
+    }
   ],
-  "people": ["David Choe", "Asa Akira", "Nosaj Thing", "Geoff Darrow", "James Jean", "Jim Lee", "Howard Stern", "Jerry Seinfeld", "Saber"],
-  "places": ["the Ranch", "Los Angeles", "Spain", "France", "Barstow"],
-  "works": ["DVDASA", "The Punisher", "Lord of the Rings"],
-  "themes": ["art practice", "risk", "self-assessment", "creative voice", "money", "education", "travel", "relationships", "jealousy", "honesty"],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Nosaj Thing",
+    "Geoff Darrow",
+    "James Jean",
+    "Jim Lee",
+    "Howard Stern",
+    "Jerry Seinfeld",
+    "Saber"
+  ],
+  "places": [
+    "the Ranch",
+    "Los Angeles",
+    "Spain",
+    "France",
+    "Barstow"
+  ],
+  "works": [
+    "DVDASA",
+    "The Punisher",
+    "Lord of the Rings"
+  ],
+  "themes": [
+    "art practice",
+    "risk",
+    "self-assessment",
+    "creative voice",
+    "money",
+    "education",
+    "travel",
+    "relationships",
+    "jealousy",
+    "honesty"
+  ],
   "connections": [
     {
       "label": "Motion as education and escape",
@@ -35,5 +96,7 @@
     "speaker_state": "solo body verified by release context; opening montage contains multiple inserted voices and must not be enrolled as David",
     "correction_fixture": "ranch-part-one-correction-fixture.json"
   },
-  "note": "Chapter labels, summary, themes, and connections are editorial commentary over the timestamped transcript. The first ~15 minutes contain montage, music, and inserted voices despite the solo-series title. Exact quotations require checking the recording."
+  "note": "Chapter labels, summary, themes, and connections are editorial commentary over the timestamped transcript. The first ~15 minutes contain montage, music, and inserted voices despite the solo-series title. Exact quotations require checking the recording.",
+  "description": "David Choe records alone at the Ranch and turns the episode into an unsystematic art-school lecture.",
+  "description_source": "Opening of the human-reviewed summary."
 }

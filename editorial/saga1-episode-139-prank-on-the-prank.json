@@ -1,10 +1,25 @@
 {
-  "episode_id":"saga1-episode-139-prank-on-the-prank",
-  "title":"Prank on the Prank",
-  "reviewed_on":"2026-07-31",
-  "summary":"At the Ranch, David Choe, Steve Lee, Money Mark and Ceci move between music, food, identity, work and family stories. The episode immediately changes the provenance state of Episodes 136–137: David says the earlier affair allegation was true and that the subsequent JK/no-sex correction was itself a second prank. He supplies a new alleged chronology and says fake planning texts were created to sell the denial. This is a first-person re-allegation, not independent proof, so the archive records alleged → denied → denial repeated → re-alleged and leaves every layer timestamped. Ceci and Steve develop music while David repeatedly proposes a provocative stage image. Steve refuses exposed buttocks and genitals, later agreeing only to consider a giant cowboy-hat or prosthetic-lizard concept; the narrower consideration does not erase the refusals. The group discusses post-traumatic growth, but David calls it a disorder, invents percentages and makes unverified claims about public figures and military research. Steve's wrestling regret remains a personal account, not a PTSD diagnosis. The middle of the episode includes a viral child-abuse video, elder abuse, family violence, Hurricane Andrew, childhood bullying and racial stereotypes. The archive preserves these ideas and the source language while distinguishing satire, allegation, memory and advice from verified fact. The family accounts include parents beating children and a later shift in power when sons could resist. Names of private childhood witnesses and peers are withheld. Money Mark describes fitting into a majority-Black school, using martial-arts stereotypes defensively and breaking a gumball machine; these are first-person memories, not generalized guidance. Episode 137's voyeuristic living-room encounter is recapped explicitly, again without resolving every consent or contraception detail. Work stories connect dishwashing, kitchen injury and sandwich preparation to the fear-driven motivation to make art. Ceci leads Don't Go All Alone, while the others overlay the recurring Penis Thong joke; authorship and parody are kept separate. The final hour becomes a dense film canon spanning Napoleon Dynamite, Revenge of the Nerds, Breakfast Club, Taxi Driver, Korean cinema, Paul Thomas Anderson and others, with obvious title/name errors corrected but opinions left intact. Conversation gives way to music around 2:18:30; repeated Thank you tokens in the instrumental tail are treated as decoder artifacts, and no ending is invented.",
-  "quality":{"raw_segments":4198,"clean_segments":4106,"raw_words_approx":26666,"clean_words_approx":26671,"duration_seconds":8454.28,"accepted_context_decisions":149,"chapters":103,"connections":26,"content_warnings":22,"identity_windows":0,"named_turns":0,"cleaning_edits":95,"cleaning_net_reduction":92,"public_restriction_spans":25},
-  "source_notes":[
+  "episode_id": "saga1-episode-139-prank-on-the-prank",
+  "title": "Prank on the Prank",
+  "reviewed_on": "2026-07-31",
+  "summary": "At the Ranch, David Choe, Steve Lee, Money Mark and Ceci move between music, food, identity, work and family stories. The episode immediately changes the provenance state of Episodes 136–137: David says the earlier affair allegation was true and that the subsequent JK/no-sex correction was itself a second prank. He supplies a new alleged chronology and says fake planning texts were created to sell the denial. This is a first-person re-allegation, not independent proof, so the archive records alleged → denied → denial repeated → re-alleged and leaves every layer timestamped. Ceci and Steve develop music while David repeatedly proposes a provocative stage image. Steve refuses exposed buttocks and genitals, later agreeing only to consider a giant cowboy-hat or prosthetic-lizard concept; the narrower consideration does not erase the refusals. The group discusses post-traumatic growth, but David calls it a disorder, invents percentages and makes unverified claims about public figures and military research. Steve's wrestling regret remains a personal account, not a PTSD diagnosis. The middle of the episode includes a viral child-abuse video, elder abuse, family violence, Hurricane Andrew, childhood bullying and racial stereotypes. The archive preserves these ideas and the source language while distinguishing satire, allegation, memory and advice from verified fact. The family accounts include parents beating children and a later shift in power when sons could resist. Names of private childhood witnesses and peers are withheld. Money Mark describes fitting into a majority-Black school, using martial-arts stereotypes defensively and breaking a gumball machine; these are first-person memories, not generalized guidance. Episode 137's voyeuristic living-room encounter is recapped explicitly, again without resolving every consent or contraception detail. Work stories connect dishwashing, kitchen injury and sandwich preparation to the fear-driven motivation to make art. Ceci leads Don't Go All Alone, while the others overlay the recurring Penis Thong joke; authorship and parody are kept separate. The final hour becomes a dense film canon spanning Napoleon Dynamite, Revenge of the Nerds, Breakfast Club, Taxi Driver, Korean cinema, Paul Thomas Anderson and others, with obvious title/name errors corrected but opinions left intact. Conversation gives way to music around 2:18:30; repeated Thank you tokens in the instrumental tail are treated as decoder artifacts, and no ending is invented.",
+  "quality": {
+    "raw_segments": 4198,
+    "clean_segments": 4106,
+    "raw_words_approx": 26666,
+    "clean_words_approx": 26671,
+    "duration_seconds": 8454.28,
+    "accepted_context_decisions": 149,
+    "chapters": 103,
+    "connections": 26,
+    "content_warnings": 22,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 95,
+    "cleaning_net_reduction": 92,
+    "public_restriction_spans": 25
+  },
+  "source_notes": [
     "The cleaner records 95 edits: 90 empty drops and five degenerate-run removals. It makes no non-empty lexical substitution; this editorial fixture supplies the human corrections.",
     "Episode 139 explicitly re-alleges the Episode 136 affair after Episodes 136 and 137 denied it. The archive preserves all four states and does not select a hidden final truth.",
     "Ceci is a Psychic Mirrors collaborator. Her surname remains withheld until independently verified; her song is distinguished from the Penis Thong parody.",
@@ -15,15 +30,671 @@
     "Family violence, childhood bullying, sexual content and racial language remain in the transcript. Restrictions prevent targeting, decontextualization and false factual reuse; they do not censor ideas.",
     "The music tail begins around 8310 seconds. Repeated isolated Thank you tokens are treated as decoder artifacts, not named speech."
   ],
-  "speaker_policy":"Episode metadata may name David Choe, Steve Lee and Money Mark; Ceci may be named only by the public name used in the source. There are zero independently validated speaker windows, so no line-level speaker names are published. Private partners, relatives, childhood peers, workers and bystanders are never inferred from voice or context.",
-  "chapters":[
-    {"t":18,"title":"Ranch music"},{"t":175,"title":"fake Thai iced tea"},{"t":230,"title":"Ceci and Psychic Mirrors"},{"t":289,"title":"prank on the prank"},{"t":330,"title":"affair re-alleged"},{"t":390,"title":"fake texts"},{"t":430,"title":"staged reveal"},{"t":520,"title":"relationship conventions"},{"t":610,"title":"Macau fantasy"},{"t":720,"title":"informal sex advice"},{"t":805,"title":"feelings joke"},{"t":900,"title":"written versus freestyle"},{"t":1080,"title":"Ranch isolation"},{"t":1180,"title":"renting the Ranch"},{"t":1290,"title":"Stevie Weeby"},{"t":1420,"title":"stage image"},{"t":1510,"title":"chaps refused"},{"t":1590,"title":"penis thong refused"},{"t":1680,"title":"cowboy hat considered"},{"t":1800,"title":"Kwang-gu name"},{"t":2030,"title":"lizard persona"},{"t":2170,"title":"Ceci's song"},{"t":2380,"title":"Money Mark goes for it"},{"t":2610,"title":"Poon expected"},{"t":2700,"title":"bath refusal callback"},{"t":2810,"title":"threesome discomfort"},{"t":2940,"title":"voyeurism recap"},{"t":3090,"title":"post-traumatic growth"},{"t":3140,"title":"invented statistics"},{"t":3200,"title":"public-figure examples"},{"t":3280,"title":"military research claim"},{"t":3330,"title":"racial slur"},{"t":3410,"title":"wrestling regret"},{"t":3510,"title":"Greg Louganis"},{"t":3570,"title":"Harold Hunter and Ricky Powell"},{"t":3600,"title":"hard work and art"},{"t":3650,"title":"Bobby Trivia"},{"t":3680,"title":"stage boundary repeated"},{"t":3757,"title":"restaurant work"},{"t":3904,"title":"open-format philosophy"},{"t":4040,"title":"process over product"},{"t":4140,"title":"birthdays and aging"},{"t":4180,"title":"senior discounts"},{"t":4251,"title":"Social Security claim"},{"t":4266,"title":"shoplifting joke"},{"t":4289,"title":"elder abuse"},{"t":4314,"title":"viral abuse video"},{"t":4389,"title":"hot-car memory"},{"t":4492,"title":"granny cams"},{"t":4525,"title":"hurt listeners joke"},{"t":4603,"title":"baby-blaming satire"},{"t":4672,"title":"Faces of Death"},{"t":4702,"title":"UFC and wrestling"},{"t":4765,"title":"Hurricane Andrew"},{"t":4810,"title":"child sparring"},{"t":4846,"title":"unwanted touch alleged"},{"t":4891,"title":"posed photograph"},{"t":4997,"title":"sibling wrestling"},{"t":5086,"title":"father's temper"},{"t":5114,"title":"Casio keyboard"},{"t":5124,"title":"child beating account"},{"t":5212,"title":"friend's household"},{"t":5277,"title":"Bobby fights back"},{"t":5404,"title":"puberty changes power"},{"t":5623,"title":"mother's beating account"},{"t":5800,"title":"purple bicycles"},{"t":5888,"title":"rainbow search"},{"t":5942,"title":"missing children return"},{"t":5981,"title":"Japanese and Mexican identity"},{"t":6020,"title":"school belonging"},{"t":6042,"title":"racial bullying"},{"t":6060,"title":"martial-arts stereotype"},{"t":6196,"title":"violent joke advice"},{"t":6243,"title":"gumball machine"},{"t":6304,"title":"Bennie and the Jets"},{"t":6347,"title":"peacocking bit"},{"t":6490,"title":"cyberbullying"},{"t":6544,"title":"Episode 137 recap"},{"t":6670,"title":"sandwich prep"},{"t":6736,"title":"fear-driven art"},{"t":6772,"title":"kitchen burn"},{"t":6850,"title":"Israel farm work"},{"t":6902,"title":"short-lived jobs"},{"t":6970,"title":"artichokes"},{"t":7026,"title":"Don't Go All Alone"},{"t":7059,"title":"Penis Thong parody"},{"t":7091,"title":"fame hypothetical"},{"t":7139,"title":"Napoleon Dynamite"},{"t":7245,"title":"Revenge of the Nerds"},{"t":7370,"title":"1980s films"},{"t":7412,"title":"Breakfast Club TV edit"},{"t":7443,"title":"Repo Man"},{"t":7531,"title":"favorite movies"},{"t":7554,"title":"Taxi Driver"},{"t":7654,"title":"Let the Right One In"},{"t":7756,"title":"The Raid 2"},{"t":7890,"title":"Korean cinema"},{"t":7997,"title":"The Accused"},{"t":8111,"title":"Paul Thomas Anderson"},{"t":8173,"title":"Happiness"},{"t":8240,"title":"Cast Away"},{"t":8277,"title":"25th Hour"},{"t":8310,"title":"music outro"}
+  "speaker_policy": "Episode metadata may name David Choe, Steve Lee and Money Mark; Ceci may be named only by the public name used in the source. There are zero independently validated speaker windows, so no line-level speaker names are published. Private partners, relatives, childhood peers, workers and bystanders are never inferred from voice or context.",
+  "chapters": [
+    {
+      "t": 18,
+      "title": "Ranch music"
+    },
+    {
+      "t": 175,
+      "title": "fake Thai iced tea"
+    },
+    {
+      "t": 230,
+      "title": "Ceci and Psychic Mirrors"
+    },
+    {
+      "t": 289,
+      "title": "prank on the prank"
+    },
+    {
+      "t": 330,
+      "title": "affair re-alleged"
+    },
+    {
+      "t": 390,
+      "title": "fake texts"
+    },
+    {
+      "t": 430,
+      "title": "staged reveal"
+    },
+    {
+      "t": 520,
+      "title": "relationship conventions"
+    },
+    {
+      "t": 610,
+      "title": "Macau fantasy"
+    },
+    {
+      "t": 720,
+      "title": "informal sex advice"
+    },
+    {
+      "t": 805,
+      "title": "feelings joke"
+    },
+    {
+      "t": 900,
+      "title": "written versus freestyle"
+    },
+    {
+      "t": 1080,
+      "title": "Ranch isolation"
+    },
+    {
+      "t": 1180,
+      "title": "renting the Ranch"
+    },
+    {
+      "t": 1290,
+      "title": "Stevie Weeby"
+    },
+    {
+      "t": 1420,
+      "title": "stage image"
+    },
+    {
+      "t": 1510,
+      "title": "chaps refused"
+    },
+    {
+      "t": 1590,
+      "title": "penis thong refused"
+    },
+    {
+      "t": 1680,
+      "title": "cowboy hat considered"
+    },
+    {
+      "t": 1800,
+      "title": "Kwang-gu name"
+    },
+    {
+      "t": 2030,
+      "title": "lizard persona"
+    },
+    {
+      "t": 2170,
+      "title": "Ceci's song"
+    },
+    {
+      "t": 2380,
+      "title": "Money Mark goes for it"
+    },
+    {
+      "t": 2610,
+      "title": "Poon expected"
+    },
+    {
+      "t": 2700,
+      "title": "bath refusal callback"
+    },
+    {
+      "t": 2810,
+      "title": "threesome discomfort"
+    },
+    {
+      "t": 2940,
+      "title": "voyeurism recap"
+    },
+    {
+      "t": 3090,
+      "title": "post-traumatic growth"
+    },
+    {
+      "t": 3140,
+      "title": "invented statistics"
+    },
+    {
+      "t": 3200,
+      "title": "public-figure examples"
+    },
+    {
+      "t": 3280,
+      "title": "military research claim"
+    },
+    {
+      "t": 3330,
+      "title": "racial slur"
+    },
+    {
+      "t": 3410,
+      "title": "wrestling regret"
+    },
+    {
+      "t": 3510,
+      "title": "Greg Louganis"
+    },
+    {
+      "t": 3570,
+      "title": "Harold Hunter and Ricky Powell"
+    },
+    {
+      "t": 3600,
+      "title": "hard work and art"
+    },
+    {
+      "t": 3650,
+      "title": "Bobby Trivia"
+    },
+    {
+      "t": 3680,
+      "title": "stage boundary repeated"
+    },
+    {
+      "t": 3757,
+      "title": "restaurant work"
+    },
+    {
+      "t": 3904,
+      "title": "open-format philosophy"
+    },
+    {
+      "t": 4040,
+      "title": "process over product"
+    },
+    {
+      "t": 4140,
+      "title": "birthdays and aging"
+    },
+    {
+      "t": 4180,
+      "title": "senior discounts"
+    },
+    {
+      "t": 4251,
+      "title": "Social Security claim"
+    },
+    {
+      "t": 4266,
+      "title": "shoplifting joke"
+    },
+    {
+      "t": 4289,
+      "title": "elder abuse"
+    },
+    {
+      "t": 4314,
+      "title": "viral abuse video"
+    },
+    {
+      "t": 4389,
+      "title": "hot-car memory"
+    },
+    {
+      "t": 4492,
+      "title": "granny cams"
+    },
+    {
+      "t": 4525,
+      "title": "hurt listeners joke"
+    },
+    {
+      "t": 4603,
+      "title": "baby-blaming satire"
+    },
+    {
+      "t": 4672,
+      "title": "Faces of Death"
+    },
+    {
+      "t": 4702,
+      "title": "UFC and wrestling"
+    },
+    {
+      "t": 4765,
+      "title": "Hurricane Andrew"
+    },
+    {
+      "t": 4810,
+      "title": "child sparring"
+    },
+    {
+      "t": 4846,
+      "title": "unwanted touch alleged"
+    },
+    {
+      "t": 4891,
+      "title": "posed photograph"
+    },
+    {
+      "t": 4997,
+      "title": "sibling wrestling"
+    },
+    {
+      "t": 5086,
+      "title": "father's temper"
+    },
+    {
+      "t": 5114,
+      "title": "Casio keyboard"
+    },
+    {
+      "t": 5124,
+      "title": "child beating account"
+    },
+    {
+      "t": 5212,
+      "title": "friend's household"
+    },
+    {
+      "t": 5277,
+      "title": "Bobby fights back"
+    },
+    {
+      "t": 5404,
+      "title": "puberty changes power"
+    },
+    {
+      "t": 5623,
+      "title": "mother's beating account"
+    },
+    {
+      "t": 5800,
+      "title": "purple bicycles"
+    },
+    {
+      "t": 5888,
+      "title": "rainbow search"
+    },
+    {
+      "t": 5942,
+      "title": "missing children return"
+    },
+    {
+      "t": 5981,
+      "title": "Japanese and Mexican identity"
+    },
+    {
+      "t": 6020,
+      "title": "school belonging"
+    },
+    {
+      "t": 6042,
+      "title": "racial bullying"
+    },
+    {
+      "t": 6060,
+      "title": "martial-arts stereotype"
+    },
+    {
+      "t": 6196,
+      "title": "violent joke advice"
+    },
+    {
+      "t": 6243,
+      "title": "gumball machine"
+    },
+    {
+      "t": 6304,
+      "title": "Bennie and the Jets"
+    },
+    {
+      "t": 6347,
+      "title": "peacocking bit"
+    },
+    {
+      "t": 6490,
+      "title": "cyberbullying"
+    },
+    {
+      "t": 6544,
+      "title": "Episode 137 recap"
+    },
+    {
+      "t": 6670,
+      "title": "sandwich prep"
+    },
+    {
+      "t": 6736,
+      "title": "fear-driven art"
+    },
+    {
+      "t": 6772,
+      "title": "kitchen burn"
+    },
+    {
+      "t": 6850,
+      "title": "Israel farm work"
+    },
+    {
+      "t": 6902,
+      "title": "short-lived jobs"
+    },
+    {
+      "t": 6970,
+      "title": "artichokes"
+    },
+    {
+      "t": 7026,
+      "title": "Don't Go All Alone"
+    },
+    {
+      "t": 7059,
+      "title": "Penis Thong parody"
+    },
+    {
+      "t": 7091,
+      "title": "fame hypothetical"
+    },
+    {
+      "t": 7139,
+      "title": "Napoleon Dynamite"
+    },
+    {
+      "t": 7245,
+      "title": "Revenge of the Nerds"
+    },
+    {
+      "t": 7370,
+      "title": "1980s films"
+    },
+    {
+      "t": 7412,
+      "title": "Breakfast Club TV edit"
+    },
+    {
+      "t": 7443,
+      "title": "Repo Man"
+    },
+    {
+      "t": 7531,
+      "title": "favorite movies"
+    },
+    {
+      "t": 7554,
+      "title": "Taxi Driver"
+    },
+    {
+      "t": 7654,
+      "title": "Let the Right One In"
+    },
+    {
+      "t": 7756,
+      "title": "The Raid 2"
+    },
+    {
+      "t": 7890,
+      "title": "Korean cinema"
+    },
+    {
+      "t": 7997,
+      "title": "The Accused"
+    },
+    {
+      "t": 8111,
+      "title": "Paul Thomas Anderson"
+    },
+    {
+      "t": 8173,
+      "title": "Happiness"
+    },
+    {
+      "t": 8240,
+      "title": "Cast Away"
+    },
+    {
+      "t": 8277,
+      "title": "25th Hour"
+    },
+    {
+      "t": 8310,
+      "title": "music outro"
+    }
   ],
-  "connections":[
-    {"to":"saga1-episode-136-irresistible","note":"The affair claim is re-alleged after the episode's staged denial."},{"to":"saga1-episode-137-double-headed-dragon","note":"The denial is repeated there, while its separate voyeurism account is recapped here."},{"to":"claim-provenance","note":"Allegation, denial, repeated denial and re-allegation require timestamped supersession edges."},{"to":"consent-boundaries","note":"Stage-image refusals and sexual-participation refusals remain distinct from later limited consideration."},{"to":"creative-incubator","note":"Music, cooking, image development and conversation share Ranch space."},{"to":"source-philosophy","note":"David describes the show as unedited ambient company rather than a topic-led program."},{"to":"speaker-validation","note":"Recurring voices do not justify names until held-out validation succeeds."},{"to":"post-traumatic-growth","note":"The correct concept is post-traumatic growth, not a disorder."},{"to":"misinformation","note":"Psychology statistics, military research, legal outcomes and policy predictions are unsourced."},{"to":"family-violence","note":"Multiple speakers recount parental beatings and later resistance."},{"to":"child-safety","note":"A viral abuse video is discussed without reproducing or identifying it."},{"to":"elder-abuse","note":"Helplessness and surveillance are debated through nursing-home examples."},{"to":"racial-identity","note":"Japanese/Mexican and Asian/Black-school experiences shape belonging stories."},{"to":"racial-stereotypes","note":"Martial-arts and genital stereotypes are used, challenged or played for comedy."},{"to":"bullying","note":"Physical bullying is compared with persistent cyberbullying."},{"to":"labor-and-art","note":"Kitchen, dishwashing and sandwich work become motivation to make art."},{"to":"music-authorship","note":"Ceci's authored refrain must not be overwritten by the cast's parody."},{"to":"stage-persona","note":"Stevie Weeby and proposed costumes explore identity without overriding refusal."},{"to":"film-canon","note":"The final hour supplies dense taste and influence connections."},{"to":"private-workers","note":"Restaurant, shop and childhood bystanders remain non-searchable."},{"to":"privacy-by-composition","note":"Birth dates, workplaces, family names and travel trails should not be joined."},{"to":"medical-context","note":"A self-described third-degree burn and trauma language are not diagnoses."},{"to":"violence-context","note":"Comic fighting advice must not be surfaced as real safety guidance."},{"to":"ranch-series","note":"The episode continues the four-part Ranch residency chronology."},{"to":"ui-evidence-pattern","note":"A claim-state timeline and boundary-event sequence are stronger than badges."},{"to":"transcript-quality","note":"Film titles and public names can be corrected while indistinct syntax remains marked uncertain."}
+  "connections": [
+    {
+      "to": "saga1-episode-136-irresistible",
+      "note": "The affair claim is re-alleged after the episode's staged denial."
+    },
+    {
+      "to": "saga1-episode-137-double-headed-dragon",
+      "note": "The denial is repeated there, while its separate voyeurism account is recapped here."
+    },
+    {
+      "to": "claim-provenance",
+      "note": "Allegation, denial, repeated denial and re-allegation require timestamped supersession edges."
+    },
+    {
+      "to": "consent-boundaries",
+      "note": "Stage-image refusals and sexual-participation refusals remain distinct from later limited consideration."
+    },
+    {
+      "to": "creative-incubator",
+      "note": "Music, cooking, image development and conversation share Ranch space."
+    },
+    {
+      "to": "source-philosophy",
+      "note": "David describes the show as unedited ambient company rather than a topic-led program."
+    },
+    {
+      "to": "speaker-validation",
+      "note": "Recurring voices do not justify names until held-out validation succeeds."
+    },
+    {
+      "to": "post-traumatic-growth",
+      "note": "The correct concept is post-traumatic growth, not a disorder."
+    },
+    {
+      "to": "misinformation",
+      "note": "Psychology statistics, military research, legal outcomes and policy predictions are unsourced."
+    },
+    {
+      "to": "family-violence",
+      "note": "Multiple speakers recount parental beatings and later resistance."
+    },
+    {
+      "to": "child-safety",
+      "note": "A viral abuse video is discussed without reproducing or identifying it."
+    },
+    {
+      "to": "elder-abuse",
+      "note": "Helplessness and surveillance are debated through nursing-home examples."
+    },
+    {
+      "to": "racial-identity",
+      "note": "Japanese/Mexican and Asian/Black-school experiences shape belonging stories."
+    },
+    {
+      "to": "racial-stereotypes",
+      "note": "Martial-arts and genital stereotypes are used, challenged or played for comedy."
+    },
+    {
+      "to": "bullying",
+      "note": "Physical bullying is compared with persistent cyberbullying."
+    },
+    {
+      "to": "labor-and-art",
+      "note": "Kitchen, dishwashing and sandwich work become motivation to make art."
+    },
+    {
+      "to": "music-authorship",
+      "note": "Ceci's authored refrain must not be overwritten by the cast's parody."
+    },
+    {
+      "to": "stage-persona",
+      "note": "Stevie Weeby and proposed costumes explore identity without overriding refusal."
+    },
+    {
+      "to": "film-canon",
+      "note": "The final hour supplies dense taste and influence connections."
+    },
+    {
+      "to": "private-workers",
+      "note": "Restaurant, shop and childhood bystanders remain non-searchable."
+    },
+    {
+      "to": "privacy-by-composition",
+      "note": "Birth dates, workplaces, family names and travel trails should not be joined."
+    },
+    {
+      "to": "medical-context",
+      "note": "A self-described third-degree burn and trauma language are not diagnoses."
+    },
+    {
+      "to": "violence-context",
+      "note": "Comic fighting advice must not be surfaced as real safety guidance."
+    },
+    {
+      "to": "ranch-series",
+      "note": "The episode continues the four-part Ranch residency chronology."
+    },
+    {
+      "to": "ui-evidence-pattern",
+      "note": "A claim-state timeline and boundary-event sequence are stronger than badges."
+    },
+    {
+      "to": "transcript-quality",
+      "note": "Film titles and public names can be corrected while indistinct syntax remains marked uncertain."
+    }
   ],
-  "content_warnings":["explicit sexual activity","uncertain consent and repeated pressure","voyeurism","family violence and child abuse","viral child-abuse video discussion","elder abuse","severe burn and injury description","racial slurs and stereotypes","homophobic language","genital and body jokes","prostitution and sex-tour fantasy","informal medical and psychological claims","suicide mention","bullying and cyberbullying","violent joking and fighting advice","vandalism admission","drug and pornography references","sexual violence in film discussion","minor sexual-abuse film content","private-person allegations","shoplifting joke","bodily fluids and feces"],
-  "publication_restrictions":[
-    {"t":247,"rule":"verify Ceci's public identity before adding a surname"},{"t":289,"rule":"show every affair claim state; do not label any layer independently proven"},{"t":475,"rule":"do not infer private marital status"},{"t":610,"rule":"do not optimize Macau or adult venues as travel advice"},{"t":675,"rule":"retain adult-only clarification and never excerpt toward minors"},{"t":1080,"rule":"withhold Ranch name, address, owner and access trail"},{"t":1420,"rule":"preserve every costume refusal and later narrower consideration"},{"t":2470,"rule":"do not seek or publish private nude imagery"},{"t":2940,"rule":"do not flatten Episode 137 consent sequence"},{"t":3090,"rule":"correct terminology and label statistics/medical claims unsourced"},{"t":3330,"rule":"keep racial slur contextualized rather than searchable highlight"},{"t":3757,"rule":"withhold active private workplace"},{"t":4144,"rule":"withhold exact private birth date"},{"t":4266,"rule":"do not operationalize shoplifting joke"},{"t":4314,"rule":"do not link, reproduce or identify child-abuse video"},{"t":4389,"rule":"do not expand private family identity"},{"t":4810,"rule":"withhold childhood peer identity"},{"t":4857,"rule":"do not seek or rehost intimate social-media image"},{"t":5114,"rule":"withhold private childhood witness surname"},{"t":5212,"rule":"withhold friend's family identity"},{"t":6042,"rule":"do not turn racial bullying story into generalized racial claim"},{"t":6196,"rule":"do not surface throat-punch joke as self-defense advice"},{"t":6525,"rule":"withhold private childhood peer name"},{"t":6544,"rule":"do not isolate private sexual detail as erotic excerpt"},{"t":8173,"rule":"do not excerpt or index minor sexual-abuse film content"}
-  ]
+  "content_warnings": [
+    "explicit sexual activity",
+    "uncertain consent and repeated pressure",
+    "voyeurism",
+    "family violence and child abuse",
+    "viral child-abuse video discussion",
+    "elder abuse",
+    "severe burn and injury description",
+    "racial slurs and stereotypes",
+    "homophobic language",
+    "genital and body jokes",
+    "prostitution and sex-tour fantasy",
+    "informal medical and psychological claims",
+    "suicide mention",
+    "bullying and cyberbullying",
+    "violent joking and fighting advice",
+    "vandalism admission",
+    "drug and pornography references",
+    "sexual violence in film discussion",
+    "minor sexual-abuse film content",
+    "private-person allegations",
+    "shoplifting joke",
+    "bodily fluids and feces"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 247,
+      "rule": "verify Ceci's public identity before adding a surname"
+    },
+    {
+      "t": 289,
+      "rule": "show every affair claim state; do not label any layer independently proven"
+    },
+    {
+      "t": 475,
+      "rule": "do not infer private marital status"
+    },
+    {
+      "t": 610,
+      "rule": "do not optimize Macau or adult venues as travel advice"
+    },
+    {
+      "t": 675,
+      "rule": "retain adult-only clarification and never excerpt toward minors"
+    },
+    {
+      "t": 1080,
+      "rule": "withhold Ranch name, address, owner and access trail"
+    },
+    {
+      "t": 1420,
+      "rule": "preserve every costume refusal and later narrower consideration"
+    },
+    {
+      "t": 2470,
+      "rule": "do not seek or publish private nude imagery"
+    },
+    {
+      "t": 2940,
+      "rule": "do not flatten Episode 137 consent sequence"
+    },
+    {
+      "t": 3090,
+      "rule": "correct terminology and label statistics/medical claims unsourced"
+    },
+    {
+      "t": 3330,
+      "rule": "keep racial slur contextualized rather than searchable highlight"
+    },
+    {
+      "t": 3757,
+      "rule": "withhold active private workplace"
+    },
+    {
+      "t": 4144,
+      "rule": "withhold exact private birth date"
+    },
+    {
+      "t": 4266,
+      "rule": "do not operationalize shoplifting joke"
+    },
+    {
+      "t": 4314,
+      "rule": "do not link, reproduce or identify child-abuse video"
+    },
+    {
+      "t": 4389,
+      "rule": "do not expand private family identity"
+    },
+    {
+      "t": 4810,
+      "rule": "withhold childhood peer identity"
+    },
+    {
+      "t": 4857,
+      "rule": "do not seek or rehost intimate social-media image"
+    },
+    {
+      "t": 5114,
+      "rule": "withhold private childhood witness surname"
+    },
+    {
+      "t": 5212,
+      "rule": "withhold friend's family identity"
+    },
+    {
+      "t": 6042,
+      "rule": "do not turn racial bullying story into generalized racial claim"
+    },
+    {
+      "t": 6196,
+      "rule": "do not surface throat-punch joke as self-defense advice"
+    },
+    {
+      "t": 6525,
+      "rule": "withhold private childhood peer name"
+    },
+    {
+      "t": 6544,
+      "rule": "do not isolate private sexual detail as erotic excerpt"
+    },
+    {
+      "t": 8173,
+      "rule": "do not excerpt or index minor sexual-abuse film content"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Money Mark",
+    "Steve Lee"
+  ],
+  "places": [
+    "the Ranch"
+  ],
+  "works": [
+    "Napoleon Dynamite",
+    "Taxi Driver",
+    "Revenge",
+    "Cowboy"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "At the Ranch, David Choe, Steve Lee, Money Mark and Ceci move between music, food, identity, work and family stories.",
+  "description_source": "Opening of the human-reviewed summary."
 }

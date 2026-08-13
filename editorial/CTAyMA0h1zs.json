@@ -3,146 +3,659 @@
   "title": "My Mom Tried to Sabotage My Birthday Party... Again",
   "reviewed_on": "2026-08-01",
   "summary": "A 2:42 birthday-party story whose uploader title calls the mother’s behavior sabotage, while the transcript is more layered. An unresolved storyteller turns fifty; friends including spoken references to Julia and Ali Wong organize a party with mahjong chips, mushroom tea and a USC marching band. Parents in their eighties arrive; the father reportedly had a stroke seven years earlier and uses a wheelchair. The speaker performs his mother offering Korean foods and a hanbok despite an explicit no/boundary. She films herself cooking for the family chat, drops mandu amid broken glass and tries to salvage dumplings; he rejects contaminated food. Guests reportedly prefer her food, then a sister-in-law says an assistant actually made it. The speaker concludes “lies upon lies,” some truth, and “I tell lies to tell the truth.” Every care, conflict, hazard, hidden-labor and storytelling idea remains. Sabotage intent, private identities, medical details, guest consensus, assistant credit/employment and line-level voices remain unverified.",
-  "quality": {"raw_segments": 78, "clean_segments": 78, "raw_words_approx": 522, "clean_words_approx": 522, "duration_seconds": 162, "accepted_context_decisions": 78, "chapters": 54, "connections": 30, "content_warnings": 16, "identity_windows": 0, "named_turns": 0, "publisher_labeled_speakers": 0, "cleaning_edits": 7, "cleaning_net_word_delta": 0, "public_restriction_spans": 44},
-  "speaker_policy": {"status": "primary storyteller plus probable reacting voice; mother/sister-in-law dialogue is performed quotation; all line-level identities unresolved", "reason": "Generic >> markers expose turn boundaries but no names. Title, kinship roles, quoted performance and semantic content do not prove acoustic identity."},
-  "people": ["unidentified primary storyteller", "Julia (spoken friend reference; exact role damaged)", "Ali Wong (spoken friend/soul-sister/bro reference; exact syntax damaged)", "storyteller’s mother (private, performed quotation)", "storyteller’s father (private health/disability reference)", "storyteller’s sister-in-law (private, reported dialogue)", "mother’s assistant (private, reported labor claim)", "unidentified party guests", "unidentified reacting voice/editor"],
-  "places": ["unidentified catered birthday party", "private family group chat", "Uber arrival (no location)", "USC marching band (institutional reference)"],
-  "works": ["My Mom Tried to Sabotage My Birthday Party... Again", "family cooking video (private, reported)", "hanbok (traditional Korean clothing)", "birthday party"],
-  "themes": ["turning fifty", "friend-organized celebration", "family care and boundary conflict", "aging parents and disability", "Korean food and clothing", "hanbok", "family group-chat performance", "broken-glass food hazard", "guest preference", "hidden assistant labor and credit", "lying to tell truth", "comic family storytelling", "uploader-title intent overclaim"],
+  "quality": {
+    "raw_segments": 78,
+    "clean_segments": 78,
+    "raw_words_approx": 522,
+    "clean_words_approx": 522,
+    "duration_seconds": 162,
+    "accepted_context_decisions": 78,
+    "chapters": 54,
+    "connections": 30,
+    "content_warnings": 16,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 7,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 44
+  },
+  "speaker_policy": {
+    "status": "primary storyteller plus probable reacting voice; mother/sister-in-law dialogue is performed quotation; all line-level identities unresolved",
+    "reason": "Generic >> markers expose turn boundaries but no names. Title, kinship roles, quoted performance and semantic content do not prove acoustic identity."
+  },
+  "people": [
+    "unidentified primary storyteller",
+    "Julia (spoken friend reference; exact role damaged)",
+    "Ali Wong (spoken friend/soul-sister/bro reference; exact syntax damaged)",
+    "storyteller’s mother (private, performed quotation)",
+    "storyteller’s father (private health/disability reference)",
+    "storyteller’s sister-in-law (private, reported dialogue)",
+    "mother’s assistant (private, reported labor claim)",
+    "unidentified party guests",
+    "unidentified reacting voice/editor"
+  ],
+  "places": [
+    "unidentified catered birthday party",
+    "private family group chat",
+    "Uber arrival (no location)",
+    "USC marching band (institutional reference)"
+  ],
+  "works": [
+    "My Mom Tried to Sabotage My Birthday Party... Again",
+    "family cooking video (private, reported)",
+    "hanbok (traditional Korean clothing)",
+    "birthday party"
+  ],
+  "themes": [
+    "turning fifty",
+    "friend-organized celebration",
+    "family care and boundary conflict",
+    "aging parents and disability",
+    "Korean food and clothing",
+    "hanbok",
+    "family group-chat performance",
+    "broken-glass food hazard",
+    "guest preference",
+    "hidden assistant labor and credit",
+    "lying to tell truth",
+    "comic family storytelling",
+    "uploader-title intent overclaim"
+  ],
   "chapters": [
-    {"t": 2, "title": "turning fifty"},
-    {"t": 4.16, "title": "friends throw a party"},
-    {"t": 6.24, "title": "Julia and damaged role syntax"},
-    {"t": 8.44, "title": "Ali Wong and matching birthdays"},
-    {"t": 15.56, "title": "flying mahjong chips"},
-    {"t": 18.44, "title": "mushroom tea"},
-    {"t": 22.04, "title": "USC marching band"},
-    {"t": 24.6, "title": "parents arrive"},
-    {"t": 25.96, "title": "parents in their eighties"},
-    {"t": 27.96, "title": "father’s stroke and wheelchair"},
-    {"t": 31, "title": "mother sees him as baby boy"},
-    {"t": 34.6, "title": "mandu offer"},
-    {"t": 36.84, "title": "tofu and gimbap offers"},
-    {"t": 39.16, "title": "kimchi jjigae offer"},
-    {"t": 41.08, "title": "speaker says no"},
-    {"t": 44.12, "title": "“No is a complete sentence”"},
-    {"t": 46.08, "title": "boundary named"},
-    {"t": 47.44, "title": "party already catered"},
-    {"t": 49.2, "title": "request to show up and enjoy"},
-    {"t": 52.56, "title": "nothing to make or bring"},
-    {"t": 56.6, "title": "family as insight into self"},
-    {"t": 60.84, "title": "mother brings hanbok"},
-    {"t": 65, "title": "night-before cooking video"},
-    {"t": 66.68, "title": "family group chat"},
-    {"t": 68.84, "title": "five frying pans"},
-    {"t": 73.88, "title": "production address to editor"},
-    {"t": 75.8, "title": "relationship metaphor"},
-    {"t": 79.08, "title": "Uber arrival"},
-    {"t": 80.84, "title": "mandu trays dropped"},
-    {"t": 83.44, "title": "broken glass everywhere"},
-    {"t": 85.4, "title": "paper plates and salvage attempt"},
-    {"t": 88.76, "title": "glass-contaminated dumplings"},
-    {"t": 90.56, "title": "brushing glass off"},
-    {"t": 92.24, "title": "speaker confronts mother"},
-    {"t": 94.2, "title": "rejecting glass dumplings"},
-    {"t": 96.12, "title": "second explicit no"},
-    {"t": 98.64, "title": "remaining food enters"},
-    {"t": 102.24, "title": "fried chicken-wing comparison"},
-    {"t": 109.44, "title": "trays of Korean food"},
-    {"t": 111.32, "title": "dumplings and kimchi pancakes"},
-    {"t": 117.2, "title": "reported guest preference"},
-    {"t": 120.56, "title": "catered food loses comparison"},
-    {"t": 122.28, "title": "mother says “See?”"},
-    {"t": 124.56, "title": "“I was right”"},
-    {"t": 127.04, "title": "sister-in-law conversation"},
-    {"t": 128.84, "title": "mother reportedly made none of it"},
-    {"t": 130.52, "title": "two-second filming reveal"},
-    {"t": 133.92, "title": "assistant reportedly cooked"},
-    {"t": 135.586, "title": "laughter"},
-    {"t": 136.36, "title": "“lies upon lies upon lies”"},
-    {"t": 138.6, "title": "some truth remains"},
-    {"t": 140.2, "title": "mother cooked for two seconds"},
-    {"t": 142.32, "title": "“tell lies to tell the truth”"},
-    {"t": 144.52, "title": "reaction and closing production talk"}
+    {
+      "t": 2,
+      "title": "turning fifty"
+    },
+    {
+      "t": 4.16,
+      "title": "friends throw a party"
+    },
+    {
+      "t": 6.24,
+      "title": "Julia and damaged role syntax"
+    },
+    {
+      "t": 8.44,
+      "title": "Ali Wong and matching birthdays"
+    },
+    {
+      "t": 15.56,
+      "title": "flying mahjong chips"
+    },
+    {
+      "t": 18.44,
+      "title": "mushroom tea"
+    },
+    {
+      "t": 22.04,
+      "title": "USC marching band"
+    },
+    {
+      "t": 24.6,
+      "title": "parents arrive"
+    },
+    {
+      "t": 25.96,
+      "title": "parents in their eighties"
+    },
+    {
+      "t": 27.96,
+      "title": "father’s stroke and wheelchair"
+    },
+    {
+      "t": 31,
+      "title": "mother sees him as baby boy"
+    },
+    {
+      "t": 34.6,
+      "title": "mandu offer"
+    },
+    {
+      "t": 36.84,
+      "title": "tofu and gimbap offers"
+    },
+    {
+      "t": 39.16,
+      "title": "kimchi jjigae offer"
+    },
+    {
+      "t": 41.08,
+      "title": "speaker says no"
+    },
+    {
+      "t": 44.12,
+      "title": "“No is a complete sentence”"
+    },
+    {
+      "t": 46.08,
+      "title": "boundary named"
+    },
+    {
+      "t": 47.44,
+      "title": "party already catered"
+    },
+    {
+      "t": 49.2,
+      "title": "request to show up and enjoy"
+    },
+    {
+      "t": 52.56,
+      "title": "nothing to make or bring"
+    },
+    {
+      "t": 56.6,
+      "title": "family as insight into self"
+    },
+    {
+      "t": 60.84,
+      "title": "mother brings hanbok"
+    },
+    {
+      "t": 65,
+      "title": "night-before cooking video"
+    },
+    {
+      "t": 66.68,
+      "title": "family group chat"
+    },
+    {
+      "t": 68.84,
+      "title": "five frying pans"
+    },
+    {
+      "t": 73.88,
+      "title": "production address to editor"
+    },
+    {
+      "t": 75.8,
+      "title": "relationship metaphor"
+    },
+    {
+      "t": 79.08,
+      "title": "Uber arrival"
+    },
+    {
+      "t": 80.84,
+      "title": "mandu trays dropped"
+    },
+    {
+      "t": 83.44,
+      "title": "broken glass everywhere"
+    },
+    {
+      "t": 85.4,
+      "title": "paper plates and salvage attempt"
+    },
+    {
+      "t": 88.76,
+      "title": "glass-contaminated dumplings"
+    },
+    {
+      "t": 90.56,
+      "title": "brushing glass off"
+    },
+    {
+      "t": 92.24,
+      "title": "speaker confronts mother"
+    },
+    {
+      "t": 94.2,
+      "title": "rejecting glass dumplings"
+    },
+    {
+      "t": 96.12,
+      "title": "second explicit no"
+    },
+    {
+      "t": 98.64,
+      "title": "remaining food enters"
+    },
+    {
+      "t": 102.24,
+      "title": "fried chicken-wing comparison"
+    },
+    {
+      "t": 109.44,
+      "title": "trays of Korean food"
+    },
+    {
+      "t": 111.32,
+      "title": "dumplings and kimchi pancakes"
+    },
+    {
+      "t": 117.2,
+      "title": "reported guest preference"
+    },
+    {
+      "t": 120.56,
+      "title": "catered food loses comparison"
+    },
+    {
+      "t": 122.28,
+      "title": "mother says “See?”"
+    },
+    {
+      "t": 124.56,
+      "title": "“I was right”"
+    },
+    {
+      "t": 127.04,
+      "title": "sister-in-law conversation"
+    },
+    {
+      "t": 128.84,
+      "title": "mother reportedly made none of it"
+    },
+    {
+      "t": 130.52,
+      "title": "two-second filming reveal"
+    },
+    {
+      "t": 133.92,
+      "title": "assistant reportedly cooked"
+    },
+    {
+      "t": 135.586,
+      "title": "laughter"
+    },
+    {
+      "t": 136.36,
+      "title": "“lies upon lies upon lies”"
+    },
+    {
+      "t": 138.6,
+      "title": "some truth remains"
+    },
+    {
+      "t": 140.2,
+      "title": "mother cooked for two seconds"
+    },
+    {
+      "t": 142.32,
+      "title": "“tell lies to tell the truth”"
+    },
+    {
+      "t": 144.52,
+      "title": "reaction and closing production talk"
+    }
   ],
   "connections": [
-    {"t": 2, "to": "age milestone", "relationship": "The story is framed by the speaker’s fiftieth birthday."},
-    {"t": 6.24, "to": "friend labor", "relationship": "Friends are credited with organizing the party, though syntax around Julia/Ali Wong is damaged."},
-    {"t": 15.56, "to": "spectacle", "relationship": "Mahjong chips, mushroom tea and marching band establish an extravagant party."},
-    {"t": 25.96, "to": "aging family", "relationship": "Parents are said to be in their eighties."},
-    {"t": 27.96, "to": "health/disability", "relationship": "Father’s reported stroke and wheelchair use contextualize arrival without supporting further medical inference."},
-    {"t": 31, "to": "performed mother role", "relationship": "All mother dialogue is narrated performance, not separately captured audio."},
-    {"t": 34.6, "to": "Korean food", "relationship": "Mandu, tofu, gimbap and kimchi jjigae represent care through cooking."},
-    {"t": 41.08, "to": "explicit boundary", "relationship": "The speaker says no before explaining catering and asking the mother not to make/bring anything."},
-    {"t": 44.12, "to": "portable principle", "relationship": "“No is a complete sentence” makes the boundary explicit."},
-    {"t": 60.84, "to": "hanbok", "relationship": "Traditional Korean clothing is another maternal/cultural offering, exact garment context unresolved."},
-    {"t": 66.68, "to": "family performance", "relationship": "The cooking video is posted to a private family chat."},
-    {"t": 75.8, "to": "whole-relationship metaphor", "relationship": "The storyteller explicitly treats the cooking performance as a metaphor for their life together."},
-    {"t": 80.84, "to": "care meets accident", "relationship": "Food labor is followed by dropped trays and broken glass."},
-    {"t": 83.44, "to": "food contamination", "relationship": "The story presents a clear broken-glass hazard."},
-    {"t": 90.56, "to": "salvage impulse", "relationship": "The mother-role tries brushing glass away rather than discarding dumplings."},
-    {"t": 94.2, "to": "safety boundary", "relationship": "The storyteller explicitly rejects anyone eating glass dumplings."},
-    {"t": 102.24, "to": "food preference", "relationship": "Chicken-wing cooling is a personal comparison, not food-safety instruction."},
-    {"t": 109.44, "to": "abundance", "relationship": "Trays of Korean food arrive despite the prior no."},
-    {"t": 118.72, "to": "reported audience judgment", "relationship": "Party guests are said to prefer the mother’s food; no direct guest data exists."},
-    {"t": 122.28, "to": "vindication", "relationship": "The mother-role frames guest preference as proof she was right."},
-    {"t": 128.84, "to": "authorship reversal", "relationship": "Sister-in-law reportedly says the mother did not make the food."},
-    {"t": 132.24, "to": "performed labor", "relationship": "Mother films two seconds of cooking while an assistant reportedly performs the rest."},
-    {"t": 133.92, "to": "hidden labor/credit", "relationship": "Assistant labor complicates whose food received praise."},
-    {"t": 136.36, "to": "deception framing", "relationship": "The storyteller calls the layers lies but immediately retains some truth."},
-    {"t": 138.6, "to": "partial truth", "relationship": "Two seconds of cooking prevents a simple all-false interpretation."},
-    {"t": 142.32, "to": "artistic storytelling", "relationship": "“Tell lies to tell the truth” generalizes the family anecdote into a method."},
-    {"t": 142.33, "to": "archive epistemology", "relationship": "The principle supports preserving performance and attribution, not treating every story detail as verified fact."},
-    {"t": 144.52, "to": "probable interview reaction", "relationship": "A generic marked turn praises the line without identifying the reacting person."},
-    {"t": 149.88, "to": "caption uncertainty", "relationship": "The closing “I’m on baby” phrase lacks enough context to interpret."},
-    {"t": 152.616, "to": "music/edit", "relationship": "Music closes the excerpt and separates it from any parent source."}
+    {
+      "t": 2,
+      "to": "age milestone",
+      "relationship": "The story is framed by the speaker’s fiftieth birthday."
+    },
+    {
+      "t": 6.24,
+      "to": "friend labor",
+      "relationship": "Friends are credited with organizing the party, though syntax around Julia/Ali Wong is damaged."
+    },
+    {
+      "t": 15.56,
+      "to": "spectacle",
+      "relationship": "Mahjong chips, mushroom tea and marching band establish an extravagant party."
+    },
+    {
+      "t": 25.96,
+      "to": "aging family",
+      "relationship": "Parents are said to be in their eighties."
+    },
+    {
+      "t": 27.96,
+      "to": "health/disability",
+      "relationship": "Father’s reported stroke and wheelchair use contextualize arrival without supporting further medical inference."
+    },
+    {
+      "t": 31,
+      "to": "performed mother role",
+      "relationship": "All mother dialogue is narrated performance, not separately captured audio."
+    },
+    {
+      "t": 34.6,
+      "to": "Korean food",
+      "relationship": "Mandu, tofu, gimbap and kimchi jjigae represent care through cooking."
+    },
+    {
+      "t": 41.08,
+      "to": "explicit boundary",
+      "relationship": "The speaker says no before explaining catering and asking the mother not to make/bring anything."
+    },
+    {
+      "t": 44.12,
+      "to": "portable principle",
+      "relationship": "“No is a complete sentence” makes the boundary explicit."
+    },
+    {
+      "t": 60.84,
+      "to": "hanbok",
+      "relationship": "Traditional Korean clothing is another maternal/cultural offering, exact garment context unresolved."
+    },
+    {
+      "t": 66.68,
+      "to": "family performance",
+      "relationship": "The cooking video is posted to a private family chat."
+    },
+    {
+      "t": 75.8,
+      "to": "whole-relationship metaphor",
+      "relationship": "The storyteller explicitly treats the cooking performance as a metaphor for their life together."
+    },
+    {
+      "t": 80.84,
+      "to": "care meets accident",
+      "relationship": "Food labor is followed by dropped trays and broken glass."
+    },
+    {
+      "t": 83.44,
+      "to": "food contamination",
+      "relationship": "The story presents a clear broken-glass hazard."
+    },
+    {
+      "t": 90.56,
+      "to": "salvage impulse",
+      "relationship": "The mother-role tries brushing glass away rather than discarding dumplings."
+    },
+    {
+      "t": 94.2,
+      "to": "safety boundary",
+      "relationship": "The storyteller explicitly rejects anyone eating glass dumplings."
+    },
+    {
+      "t": 102.24,
+      "to": "food preference",
+      "relationship": "Chicken-wing cooling is a personal comparison, not food-safety instruction."
+    },
+    {
+      "t": 109.44,
+      "to": "abundance",
+      "relationship": "Trays of Korean food arrive despite the prior no."
+    },
+    {
+      "t": 118.72,
+      "to": "reported audience judgment",
+      "relationship": "Party guests are said to prefer the mother’s food; no direct guest data exists."
+    },
+    {
+      "t": 122.28,
+      "to": "vindication",
+      "relationship": "The mother-role frames guest preference as proof she was right."
+    },
+    {
+      "t": 128.84,
+      "to": "authorship reversal",
+      "relationship": "Sister-in-law reportedly says the mother did not make the food."
+    },
+    {
+      "t": 132.24,
+      "to": "performed labor",
+      "relationship": "Mother films two seconds of cooking while an assistant reportedly performs the rest."
+    },
+    {
+      "t": 133.92,
+      "to": "hidden labor/credit",
+      "relationship": "Assistant labor complicates whose food received praise."
+    },
+    {
+      "t": 136.36,
+      "to": "deception framing",
+      "relationship": "The storyteller calls the layers lies but immediately retains some truth."
+    },
+    {
+      "t": 138.6,
+      "to": "partial truth",
+      "relationship": "Two seconds of cooking prevents a simple all-false interpretation."
+    },
+    {
+      "t": 142.32,
+      "to": "artistic storytelling",
+      "relationship": "“Tell lies to tell the truth” generalizes the family anecdote into a method."
+    },
+    {
+      "t": 142.33,
+      "to": "archive epistemology",
+      "relationship": "The principle supports preserving performance and attribution, not treating every story detail as verified fact."
+    },
+    {
+      "t": 144.52,
+      "to": "probable interview reaction",
+      "relationship": "A generic marked turn praises the line without identifying the reacting person."
+    },
+    {
+      "t": 149.88,
+      "to": "caption uncertainty",
+      "relationship": "The closing “I’m on baby” phrase lacks enough context to interpret."
+    },
+    {
+      "t": 152.616,
+      "to": "music/edit",
+      "relationship": "Music closes the excerpt and separates it from any parent source."
+    }
   ],
-  "source_notes": ["Short upload titled My Mom Tried to Sabotage My Birthday Party... Again.", "Automatic/manual-style captions contain 78 records / 522 words or markers / 2:42.", "Generic >> turn markers exist but carry no names.", "The uploader title’s sabotage intent is not established by the transcript.", "The speaker says he turned fifty.", "Julia and Ali Wong are spoken references in damaged role syntax.", "No exact birthday date is established.", "Parents’ ages, father’s stroke timing and wheelchair use are storyteller claims.", "No medical diagnosis, care or current status is expanded.", "Mandu, tofu, gimbap and kimchi jjigae are preserved as named foods.", "Hanbok is described generically; exact garment/ceremony is unresolved.", "Meow and hey phrases remain uncertain.", "The no/boundary request is explicit and repeated.", "The cooking video is private family-chat context and is not reproduced.", "Uber/party location and driver are not identified.", "Broken-glass contamination is explicit.", "The storyteller rejects eating contaminated dumplings.", "Guest food preference is narrator report, not measured consensus.", "Mother’s ‘I was right’ is performed quotation.", "Assistant-made-food claim comes through sister-in-law as reported speech.", "Assistant identity, employment and work arrangement are private/unverified.", "Lies/truth ending complicates literal biography.", "No mother/sister-in-law/assistant/interviewer line labels are accepted.", "No voice-enrollment windows are accepted.", "Raw captions remain immutable.", "Editorial context protects private family while retaining every idea."],
-  "content_warnings": ["family boundary conflict", "private family health/disability", "stroke reference", "broken glass and contaminated food", "censored profanity", "food-safety imitation risk", "private group-chat context", "private assistant labor/credit", "deception/lying language", "cultural generalization risk", "sabotage-intent overclaim risk", "speaker-attribution risk", "medical-detail expansion risk", "private-person identification risk", "guest-consensus overclaim risk", "caption damage/music interruptions"],
+  "source_notes": [
+    "Short upload titled My Mom Tried to Sabotage My Birthday Party... Again.",
+    "Automatic/manual-style captions contain 78 records / 522 words or markers / 2:42.",
+    "Generic >> turn markers exist but carry no names.",
+    "The uploader title’s sabotage intent is not established by the transcript.",
+    "The speaker says he turned fifty.",
+    "Julia and Ali Wong are spoken references in damaged role syntax.",
+    "No exact birthday date is established.",
+    "Parents’ ages, father’s stroke timing and wheelchair use are storyteller claims.",
+    "No medical diagnosis, care or current status is expanded.",
+    "Mandu, tofu, gimbap and kimchi jjigae are preserved as named foods.",
+    "Hanbok is described generically; exact garment/ceremony is unresolved.",
+    "Meow and hey phrases remain uncertain.",
+    "The no/boundary request is explicit and repeated.",
+    "The cooking video is private family-chat context and is not reproduced.",
+    "Uber/party location and driver are not identified.",
+    "Broken-glass contamination is explicit.",
+    "The storyteller rejects eating contaminated dumplings.",
+    "Guest food preference is narrator report, not measured consensus.",
+    "Mother’s ‘I was right’ is performed quotation.",
+    "Assistant-made-food claim comes through sister-in-law as reported speech.",
+    "Assistant identity, employment and work arrangement are private/unverified.",
+    "Lies/truth ending complicates literal biography.",
+    "No mother/sister-in-law/assistant/interviewer line labels are accepted.",
+    "No voice-enrollment windows are accepted.",
+    "Raw captions remain immutable.",
+    "Editorial context protects private family while retaining every idea."
+  ],
+  "content_warnings": [
+    "family boundary conflict",
+    "private family health/disability",
+    "stroke reference",
+    "broken glass and contaminated food",
+    "censored profanity",
+    "food-safety imitation risk",
+    "private group-chat context",
+    "private assistant labor/credit",
+    "deception/lying language",
+    "cultural generalization risk",
+    "sabotage-intent overclaim risk",
+    "speaker-attribution risk",
+    "medical-detail expansion risk",
+    "private-person identification risk",
+    "guest-consensus overclaim risk",
+    "caption damage/music interruptions"
+  ],
   "publication_restrictions": [
-    {"t": -0.15, "rule": "publish zero named line-level turns or voice-enrollment windows"},
-    {"t": -0.14, "rule": "preserve every family, boundary, health, cultural, hazard, labor and truth/lying idea"},
-    {"t": -0.13, "rule": "do not treat sabotage title as verified maternal intent"},
-    {"t": -0.12, "rule": "protect private parents, sister-in-law and assistant"},
-    {"t": -0.11, "rule": "do not expand medical diagnosis, current status, care or location"},
-    {"t": -0.1, "rule": "do not reproduce or expose private group-chat media"},
-    {"t": -0.09, "rule": "do not infer assistant employment, payment, consent or exact authorship share"},
-    {"t": -0.08, "rule": "do not treat guest preference as measured consensus"},
-    {"t": -0.07, "rule": "do not turn food/glass actions into safety guidance"},
-    {"t": -0.06, "rule": "do not assign mother/sister-in-law/interviewer voices from performed roles or generic markers"},
-    {"t": -0.05, "rule": "do not infer exact hanbok type, ceremony or cultural representativeness"},
-    {"t": -0.04, "rule": "do not make hidden-labor allegation a verified legal/credit claim"},
-    {"t": -0.03, "rule": "tell-lies principle does not make unverified biography true"},
-    {"t": -0.02, "rule": "retain censored and uncertain tokens"},
-    {"t": -0.01, "rule": "do not identify party/home/driver or private attendees"},
-    {"t": 6.24, "rule": "do not resolve Julia/Ali Wong role syntax beyond spoken names"},
-    {"t": 11.36, "rule": "matching birthdays does not establish date"},
-    {"t": 18.44, "rule": "do not infer mushroom-tea composition or effects"},
-    {"t": 25.96, "rule": "parents’ ages remain approximate storyteller claim"},
-    {"t": 27.96, "rule": "do not expand father’s stroke/disability details"},
-    {"t": 31, "rule": "mother dialogue is storyteller performance"},
-    {"t": 41.08, "rule": "retain explicit no and uncertain meow"},
-    {"t": 44.12, "rule": "do not soften or erase boundary language"},
-    {"t": 47.44, "rule": "keep hey phrase uncertain"},
-    {"t": 60.84, "rule": "hanbok reference does not establish exact garment context"},
-    {"t": 66.68, "rule": "protect family group-chat privacy"},
-    {"t": 73.88, "rule": "production address does not make video public evidence"},
-    {"t": 75.8, "rule": "whole-relationship metaphor is speaker interpretation"},
-    {"t": 79.08, "rule": "do not identify Uber driver or location"},
-    {"t": 83.44, "rule": "do not understate broken-glass hazard"},
-    {"t": 88.76, "rule": "do not imply brushing makes contaminated food safe"},
-    {"t": 92.24, "rule": "retain censored expletive"},
-    {"t": 94.2, "rule": "preserve explicit rejection of glass dumplings"},
-    {"t": 102.24, "rule": "chicken-wing temperature is preference, not safety rule"},
-    {"t": 109.44, "rule": "trays-and-trays is speaker’s scale description"},
-    {"t": 118.72, "rule": "do not present guest preference as direct survey"},
-    {"t": 122.28, "rule": "mother quotation is performed, not separate audio"},
-    {"t": 128.84, "rule": "assistant-food claim remains reported speech"},
-    {"t": 130.52, "rule": "do not identify sister-in-law voice"},
-    {"t": 133.92, "rule": "protect assistant identity and work arrangement"},
-    {"t": 136.36, "rule": "do not turn lies rhetoric into verified character diagnosis"},
-    {"t": 142.32, "rule": "preserve artistic principle without using it to certify facts"},
-    {"t": 144.52, "rule": "do not identify reacting voice"},
-    {"t": 149.88, "rule": "keep closing phrase uncertain"}
-  ]
+    {
+      "t": -0.15,
+      "rule": "publish zero named line-level turns or voice-enrollment windows"
+    },
+    {
+      "t": -0.14,
+      "rule": "preserve every family, boundary, health, cultural, hazard, labor and truth/lying idea"
+    },
+    {
+      "t": -0.13,
+      "rule": "do not treat sabotage title as verified maternal intent"
+    },
+    {
+      "t": -0.12,
+      "rule": "protect private parents, sister-in-law and assistant"
+    },
+    {
+      "t": -0.11,
+      "rule": "do not expand medical diagnosis, current status, care or location"
+    },
+    {
+      "t": -0.1,
+      "rule": "do not reproduce or expose private group-chat media"
+    },
+    {
+      "t": -0.09,
+      "rule": "do not infer assistant employment, payment, consent or exact authorship share"
+    },
+    {
+      "t": -0.08,
+      "rule": "do not treat guest preference as measured consensus"
+    },
+    {
+      "t": -0.07,
+      "rule": "do not turn food/glass actions into safety guidance"
+    },
+    {
+      "t": -0.06,
+      "rule": "do not assign mother/sister-in-law/interviewer voices from performed roles or generic markers"
+    },
+    {
+      "t": -0.05,
+      "rule": "do not infer exact hanbok type, ceremony or cultural representativeness"
+    },
+    {
+      "t": -0.04,
+      "rule": "do not make hidden-labor allegation a verified legal/credit claim"
+    },
+    {
+      "t": -0.03,
+      "rule": "tell-lies principle does not make unverified biography true"
+    },
+    {
+      "t": -0.02,
+      "rule": "retain censored and uncertain tokens"
+    },
+    {
+      "t": -0.01,
+      "rule": "do not identify party/home/driver or private attendees"
+    },
+    {
+      "t": 6.24,
+      "rule": "do not resolve Julia/Ali Wong role syntax beyond spoken names"
+    },
+    {
+      "t": 11.36,
+      "rule": "matching birthdays does not establish date"
+    },
+    {
+      "t": 18.44,
+      "rule": "do not infer mushroom-tea composition or effects"
+    },
+    {
+      "t": 25.96,
+      "rule": "parents’ ages remain approximate storyteller claim"
+    },
+    {
+      "t": 27.96,
+      "rule": "do not expand father’s stroke/disability details"
+    },
+    {
+      "t": 31,
+      "rule": "mother dialogue is storyteller performance"
+    },
+    {
+      "t": 41.08,
+      "rule": "retain explicit no and uncertain meow"
+    },
+    {
+      "t": 44.12,
+      "rule": "do not soften or erase boundary language"
+    },
+    {
+      "t": 47.44,
+      "rule": "keep hey phrase uncertain"
+    },
+    {
+      "t": 60.84,
+      "rule": "hanbok reference does not establish exact garment context"
+    },
+    {
+      "t": 66.68,
+      "rule": "protect family group-chat privacy"
+    },
+    {
+      "t": 73.88,
+      "rule": "production address does not make video public evidence"
+    },
+    {
+      "t": 75.8,
+      "rule": "whole-relationship metaphor is speaker interpretation"
+    },
+    {
+      "t": 79.08,
+      "rule": "do not identify Uber driver or location"
+    },
+    {
+      "t": 83.44,
+      "rule": "do not understate broken-glass hazard"
+    },
+    {
+      "t": 88.76,
+      "rule": "do not imply brushing makes contaminated food safe"
+    },
+    {
+      "t": 92.24,
+      "rule": "retain censored expletive"
+    },
+    {
+      "t": 94.2,
+      "rule": "preserve explicit rejection of glass dumplings"
+    },
+    {
+      "t": 102.24,
+      "rule": "chicken-wing temperature is preference, not safety rule"
+    },
+    {
+      "t": 109.44,
+      "rule": "trays-and-trays is speaker’s scale description"
+    },
+    {
+      "t": 118.72,
+      "rule": "do not present guest preference as direct survey"
+    },
+    {
+      "t": 122.28,
+      "rule": "mother quotation is performed, not separate audio"
+    },
+    {
+      "t": 128.84,
+      "rule": "assistant-food claim remains reported speech"
+    },
+    {
+      "t": 130.52,
+      "rule": "do not identify sister-in-law voice"
+    },
+    {
+      "t": 133.92,
+      "rule": "protect assistant identity and work arrangement"
+    },
+    {
+      "t": 136.36,
+      "rule": "do not turn lies rhetoric into verified character diagnosis"
+    },
+    {
+      "t": 142.32,
+      "rule": "preserve artistic principle without using it to certify facts"
+    },
+    {
+      "t": 144.52,
+      "rule": "do not identify reacting voice"
+    },
+    {
+      "t": 149.88,
+      "rule": "keep closing phrase uncertain"
+    }
+  ],
+  "description": "A 2:42 birthday-party story whose uploader title calls the mother’s behavior sabotage, while the transcript is more layered.",
+  "description_source": "Opening of the human-reviewed summary."
 }

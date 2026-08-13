@@ -35,57 +35,515 @@
   ],
   "speaker_policy": "The diarization file contains zero turns. Fixed-window embeddings have not passed independently held-out multispeaker validation, so named dialogue remains withheld.",
   "chapters": [
-    {"t": 22, "title": "uncertain museum mural opening"}, {"t": 126, "title": "recording already active"}, {"t": 167, "title": "DVDASA introduction"}, {"t": 173, "title": "Asa represented by prop"},
-    {"t": 252, "title": "respiratory symptom account"}, {"t": 270, "title": "headstand drainage suggestion"}, {"t": 323, "title": "mask and isolation discussion"}, {"t": 404, "title": "Headcrumbs fan art"},
-    {"t": 471, "title": "attempted call to Asa"}, {"t": 575, "title": "Chang previous-episode continuity"}, {"t": 588, "title": "Money Mark London project"}, {"t": 786, "title": "Steve freestyle"},
-    {"t": 902, "title": "character-song album"}, {"t": 918, "title": "assimilation and suicide song"}, {"t": 940, "title": "Reptilians Are Real"}, {"t": 962, "title": "Loner Seagull"},
-    {"t": 1008, "title": "back-and-forth songwriting process"}, {"t": 1120, "title": "Vegas and gambling recovery"}, {"t": 1147, "title": "the Bellagio retained"}, {"t": 1375, "title": "Fat Sal's service work"},
-    {"t": 1498, "title": "work as creative material"}, {"t": 1668, "title": "sex-toy addiction self-description"}, {"t": 1717, "title": "Tenga products"}, {"t": 1785, "title": "Keith Haring collaboration"},
-    {"t": 1884, "title": "The Awesomes"}, {"t": 1974, "title": "Rikki Six"}, {"t": 2084, "title": "intimate audio replay"}, {"t": 2135, "title": "next-episode provenance cue"},
-    {"t": 2177, "title": "intimate-image request"}, {"t": 2202, "title": "face and voice publication statement"}, {"t": 2211, "title": "unpaid-encounter account"}, {"t": 2226, "title": "promotional motive attributed"},
-    {"t": 2260, "title": "pornographic filming realization"}, {"t": 2287, "title": "blanket-permission bravado"}, {"t": 2435, "title": "review-count claim"}, {"t": 2513, "title": "adult-performer preferences"},
-    {"t": 2570, "title": "private-worker history"}, {"t": 2586, "title": "no-edits/no-take-backs claim"}, {"t": 2614, "title": "Poon experience recap"}, {"t": 2744, "title": "uncertain escort-review site"},
-    {"t": 2767, "title": "LV Princess stage name"}, {"t": 2800, "title": "condom provenance"}, {"t": 2841, "title": "face-toy callback"}, {"t": 2876, "title": "irritation mislabeled as STI"},
-    {"t": 2955, "title": "toy cleaning discussion"}, {"t": 2968, "title": "use without lubricant"}, {"t": 3030, "title": "used toy given away"}, {"t": 3052, "title": "private woman calls back"},
-    {"t": 3076, "title": "sex without condom"}, {"t": 3094, "title": "garbled condom preference"}, {"t": 3162, "title": "private orientation speculation"}, {"t": 3239, "title": "photograph boundary"},
-    {"t": 3297, "title": "sleep-context penetration account"}, {"t": 3318, "title": "anal-sex risk discussion"}, {"t": 3330, "title": "no lubricant or barrier"}, {"t": 3409, "title": "teledildonics"},
-    {"t": 3430, "title": "lambskin condoms"}, {"t": 3485, "title": "bleaching joke"}, {"t": 3521, "title": "Alan Yang"}, {"t": 3546, "title": "David Chang enters"},
-    {"t": 3590, "title": "Fat Sal's recap"}, {"t": 3631, "title": "aging and temper control"}, {"t": 3694, "title": "STI limitation understood"}, {"t": 3703, "title": "pregnancy-violence joke"},
-    {"t": 3722, "title": "health self-report"}, {"t": 3748, "title": "diabetes diagnosis self-report"}, {"t": 3771, "title": "Chang blamed for diabetes"}, {"t": 3893, "title": "personal responsibility restored"},
-    {"t": 3917, "title": "firearm purchase discussion"}, {"t": 3937, "title": "skateboarding as exercise"}, {"t": 3981, "title": "Korean restaurant tour"}, {"t": 3998, "title": "uncertain restaurant name"},
-    {"t": 4055, "title": "no-carbs advice"}, {"t": 4065, "title": "diabetes remission language"}, {"t": 4079, "title": "exercise-must-hurt claim"}, {"t": 4116, "title": "walking and weight loss"},
-    {"t": 4132, "title": "father stopped medication"}, {"t": 4160, "title": "smoking-after-cancer analogy"}, {"t": 4173, "title": "diabetes complications"}, {"t": 4204, "title": "canceled work opens a month"},
-    {"t": 4211, "title": "Hawaii rehab plan"}, {"t": 4213, "title": "getting out of control"}, {"t": 4221, "title": "one month versus ten years"}, {"t": 4233, "title": "move-to-Hawaii suggestion"}
+    {
+      "t": 22,
+      "title": "uncertain museum mural opening"
+    },
+    {
+      "t": 126,
+      "title": "recording already active"
+    },
+    {
+      "t": 167,
+      "title": "DVDASA introduction"
+    },
+    {
+      "t": 173,
+      "title": "Asa represented by prop"
+    },
+    {
+      "t": 252,
+      "title": "respiratory symptom account"
+    },
+    {
+      "t": 270,
+      "title": "headstand drainage suggestion"
+    },
+    {
+      "t": 323,
+      "title": "mask and isolation discussion"
+    },
+    {
+      "t": 404,
+      "title": "Headcrumbs fan art"
+    },
+    {
+      "t": 471,
+      "title": "attempted call to Asa"
+    },
+    {
+      "t": 575,
+      "title": "Chang previous-episode continuity"
+    },
+    {
+      "t": 588,
+      "title": "Money Mark London project"
+    },
+    {
+      "t": 786,
+      "title": "Steve freestyle"
+    },
+    {
+      "t": 902,
+      "title": "character-song album"
+    },
+    {
+      "t": 918,
+      "title": "assimilation and suicide song"
+    },
+    {
+      "t": 940,
+      "title": "Reptilians Are Real"
+    },
+    {
+      "t": 962,
+      "title": "Loner Seagull"
+    },
+    {
+      "t": 1008,
+      "title": "back-and-forth songwriting process"
+    },
+    {
+      "t": 1120,
+      "title": "Vegas and gambling recovery"
+    },
+    {
+      "t": 1147,
+      "title": "the Bellagio retained"
+    },
+    {
+      "t": 1375,
+      "title": "Fat Sal's service work"
+    },
+    {
+      "t": 1498,
+      "title": "work as creative material"
+    },
+    {
+      "t": 1668,
+      "title": "sex-toy addiction self-description"
+    },
+    {
+      "t": 1717,
+      "title": "Tenga products"
+    },
+    {
+      "t": 1785,
+      "title": "Keith Haring collaboration"
+    },
+    {
+      "t": 1884,
+      "title": "The Awesomes"
+    },
+    {
+      "t": 1974,
+      "title": "Rikki Six"
+    },
+    {
+      "t": 2084,
+      "title": "intimate audio replay"
+    },
+    {
+      "t": 2135,
+      "title": "next-episode provenance cue"
+    },
+    {
+      "t": 2177,
+      "title": "intimate-image request"
+    },
+    {
+      "t": 2202,
+      "title": "face and voice publication statement"
+    },
+    {
+      "t": 2211,
+      "title": "unpaid-encounter account"
+    },
+    {
+      "t": 2226,
+      "title": "promotional motive attributed"
+    },
+    {
+      "t": 2260,
+      "title": "pornographic filming realization"
+    },
+    {
+      "t": 2287,
+      "title": "blanket-permission bravado"
+    },
+    {
+      "t": 2435,
+      "title": "review-count claim"
+    },
+    {
+      "t": 2513,
+      "title": "adult-performer preferences"
+    },
+    {
+      "t": 2570,
+      "title": "private-worker history"
+    },
+    {
+      "t": 2586,
+      "title": "no-edits/no-take-backs claim"
+    },
+    {
+      "t": 2614,
+      "title": "Poon experience recap"
+    },
+    {
+      "t": 2744,
+      "title": "uncertain escort-review site"
+    },
+    {
+      "t": 2767,
+      "title": "LV Princess stage name"
+    },
+    {
+      "t": 2800,
+      "title": "condom provenance"
+    },
+    {
+      "t": 2841,
+      "title": "face-toy callback"
+    },
+    {
+      "t": 2876,
+      "title": "irritation mislabeled as STI"
+    },
+    {
+      "t": 2955,
+      "title": "toy cleaning discussion"
+    },
+    {
+      "t": 2968,
+      "title": "use without lubricant"
+    },
+    {
+      "t": 3030,
+      "title": "used toy given away"
+    },
+    {
+      "t": 3052,
+      "title": "private woman calls back"
+    },
+    {
+      "t": 3076,
+      "title": "sex without condom"
+    },
+    {
+      "t": 3094,
+      "title": "garbled condom preference"
+    },
+    {
+      "t": 3162,
+      "title": "private orientation speculation"
+    },
+    {
+      "t": 3239,
+      "title": "photograph boundary"
+    },
+    {
+      "t": 3297,
+      "title": "sleep-context penetration account"
+    },
+    {
+      "t": 3318,
+      "title": "anal-sex risk discussion"
+    },
+    {
+      "t": 3330,
+      "title": "no lubricant or barrier"
+    },
+    {
+      "t": 3409,
+      "title": "teledildonics"
+    },
+    {
+      "t": 3430,
+      "title": "lambskin condoms"
+    },
+    {
+      "t": 3485,
+      "title": "bleaching joke"
+    },
+    {
+      "t": 3521,
+      "title": "Alan Yang"
+    },
+    {
+      "t": 3546,
+      "title": "David Chang enters"
+    },
+    {
+      "t": 3590,
+      "title": "Fat Sal's recap"
+    },
+    {
+      "t": 3631,
+      "title": "aging and temper control"
+    },
+    {
+      "t": 3694,
+      "title": "STI limitation understood"
+    },
+    {
+      "t": 3703,
+      "title": "pregnancy-violence joke"
+    },
+    {
+      "t": 3722,
+      "title": "health self-report"
+    },
+    {
+      "t": 3748,
+      "title": "diabetes diagnosis self-report"
+    },
+    {
+      "t": 3771,
+      "title": "Chang blamed for diabetes"
+    },
+    {
+      "t": 3893,
+      "title": "personal responsibility restored"
+    },
+    {
+      "t": 3917,
+      "title": "firearm purchase discussion"
+    },
+    {
+      "t": 3937,
+      "title": "skateboarding as exercise"
+    },
+    {
+      "t": 3981,
+      "title": "Korean restaurant tour"
+    },
+    {
+      "t": 3998,
+      "title": "uncertain restaurant name"
+    },
+    {
+      "t": 4055,
+      "title": "no-carbs advice"
+    },
+    {
+      "t": 4065,
+      "title": "diabetes remission language"
+    },
+    {
+      "t": 4079,
+      "title": "exercise-must-hurt claim"
+    },
+    {
+      "t": 4116,
+      "title": "walking and weight loss"
+    },
+    {
+      "t": 4132,
+      "title": "father stopped medication"
+    },
+    {
+      "t": 4160,
+      "title": "smoking-after-cancer analogy"
+    },
+    {
+      "t": 4173,
+      "title": "diabetes complications"
+    },
+    {
+      "t": 4204,
+      "title": "canceled work opens a month"
+    },
+    {
+      "t": 4211,
+      "title": "Hawaii rehab plan"
+    },
+    {
+      "t": 4213,
+      "title": "getting out of control"
+    },
+    {
+      "t": 4221,
+      "title": "one month versus ten years"
+    },
+    {
+      "t": 4233,
+      "title": "move-to-Hawaii suggestion"
+    }
   ],
   "connections": [
-    {"t": 575, "to": "Episode 118 David Chang visit", "why": "The room explicitly identifies Chang as the prior episode's guest before he arrives again."},
-    {"t": 588, "to": "Money Mark collaboration ledger", "why": "Steve and David describe a topical character-song project built by passing beats and songs back and forth."},
-    {"t": 902, "to": "Creative repetition over inspiration", "why": "The song list and exchange process show iterative production rather than a single inspired artifact."},
-    {"t": 1120, "to": "Corpus gambling-recovery arc", "why": "The Vegas trip is defended as supervised work but still recognized as enabling a person who identifies gambling as the problem."},
-    {"t": 1375, "to": "Service labor as creative fieldwork", "why": "Restaurant work supplies routine, social exposure and character material while producing workplace conflict."},
-    {"t": 2084, "to": "Corpus recording-consent ledger", "why": "Intimate audio is replayed to a person who was not part of the encounter."},
-    {"t": 2177, "to": "Corpus intimate-image boundary", "why": "Requests to show photographs make image consent distinct from participation in the original encounter."},
-    {"t": 2202, "to": "Publicity versus consent", "why": "Permission not to conceal face or voice cannot silently expand into consent to every act, image or reuse."},
-    {"t": 2226, "to": "Attributed motives ledger", "why": "The host infers promotion and advertising as the guest's motive; the recording does not independently establish it."},
-    {"t": 2586, "to": "DVDASA unedited-show identity", "why": "The no-take-backs claim explains the show's self-image but not a waiver of participant rights."},
-    {"t": 2968, "to": "Sexual-device safety ledger", "why": "Irritation follows use without lubricant; cleaning and material compatibility remain product-specific."},
-    {"t": 3030, "to": "Private-person and hygiene boundary", "why": "A used intimate device is passed to a private friend, joining privacy and health concerns."},
-    {"t": 3076, "to": "Barrier-use evidence", "why": "The account includes sex without a condom and an unclear later exchange about preference."},
-    {"t": 3239, "to": "Affirmative image refusal", "why": "The speaker says he could not take a photograph, providing a clear boundary amid pressure to show one."},
-    {"t": 3297, "to": "Corpus sleep-consent ledger", "why": "Movement and failure to stop are treated as permission after penetration begins; neither supplies explicit prior agreement."},
-    {"t": 3330, "to": "Anal-sex health ledger", "why": "No barrier and little or no lubricant increase STI and tissue-injury risk beyond the fecal concern discussed in-room."},
-    {"t": 3430, "to": "Episode 117 lambskin discussion", "why": "The Vegas arc again distinguishes pregnancy prevention from STI protection."},
-    {"t": 3546, "to": "David Chang recurring-person node", "why": "Chang's late entrance turns the episode into a direct continuation of the prior discussion."},
-    {"t": 3631, "to": "Rage and aging theme", "why": "Older cast members contrast youthful snapping with present workplace and legal consequences."},
-    {"t": 3748, "to": "David Choe health timeline", "why": "A prior pre-diabetes self-report becomes a reported A1C-threshold diabetes diagnosis."},
-    {"t": 3771, "to": "Food, friendship and responsibility", "why": "Chang is blamed through comedy before David explicitly restores responsibility to his own diet and inactivity."},
-    {"t": 3917, "to": "Firearm-access safety ledger", "why": "Existing rifle ownership and desire for a handgun appear alongside recent loss-of-control language."},
-    {"t": 3937, "to": "Play as exercise", "why": "Skateboarding is proposed as movement that feels intrinsically rewarding rather than punitive."},
-    {"t": 4055, "to": "Corpus medical-claim corrections", "why": "Carbohydrate elimination, painful exercise and `reversal` are presented too absolutely."},
-    {"t": 4211, "to": "Hawaii rehab chronology", "why": "David proposes returning to prior clinicians after recognizing current behavior as out of control."},
-    {"t": 4233, "to": "Escape-versus-recovery theme", "why": "The room shifts from clinical reconnection to a fantasy of leaving work, moving and starting a family."}
+    {
+      "t": 575,
+      "to": "Episode 118 David Chang visit",
+      "why": "The room explicitly identifies Chang as the prior episode's guest before he arrives again."
+    },
+    {
+      "t": 588,
+      "to": "Money Mark collaboration ledger",
+      "why": "Steve and David describe a topical character-song project built by passing beats and songs back and forth."
+    },
+    {
+      "t": 902,
+      "to": "Creative repetition over inspiration",
+      "why": "The song list and exchange process show iterative production rather than a single inspired artifact."
+    },
+    {
+      "t": 1120,
+      "to": "Corpus gambling-recovery arc",
+      "why": "The Vegas trip is defended as supervised work but still recognized as enabling a person who identifies gambling as the problem."
+    },
+    {
+      "t": 1375,
+      "to": "Service labor as creative fieldwork",
+      "why": "Restaurant work supplies routine, social exposure and character material while producing workplace conflict."
+    },
+    {
+      "t": 2084,
+      "to": "Corpus recording-consent ledger",
+      "why": "Intimate audio is replayed to a person who was not part of the encounter."
+    },
+    {
+      "t": 2177,
+      "to": "Corpus intimate-image boundary",
+      "why": "Requests to show photographs make image consent distinct from participation in the original encounter."
+    },
+    {
+      "t": 2202,
+      "to": "Publicity versus consent",
+      "why": "Permission not to conceal face or voice cannot silently expand into consent to every act, image or reuse."
+    },
+    {
+      "t": 2226,
+      "to": "Attributed motives ledger",
+      "why": "The host infers promotion and advertising as the guest's motive; the recording does not independently establish it."
+    },
+    {
+      "t": 2586,
+      "to": "DVDASA unedited-show identity",
+      "why": "The no-take-backs claim explains the show's self-image but not a waiver of participant rights."
+    },
+    {
+      "t": 2968,
+      "to": "Sexual-device safety ledger",
+      "why": "Irritation follows use without lubricant; cleaning and material compatibility remain product-specific."
+    },
+    {
+      "t": 3030,
+      "to": "Private-person and hygiene boundary",
+      "why": "A used intimate device is passed to a private friend, joining privacy and health concerns."
+    },
+    {
+      "t": 3076,
+      "to": "Barrier-use evidence",
+      "why": "The account includes sex without a condom and an unclear later exchange about preference."
+    },
+    {
+      "t": 3239,
+      "to": "Affirmative image refusal",
+      "why": "The speaker says he could not take a photograph, providing a clear boundary amid pressure to show one."
+    },
+    {
+      "t": 3297,
+      "to": "Corpus sleep-consent ledger",
+      "why": "Movement and failure to stop are treated as permission after penetration begins; neither supplies explicit prior agreement."
+    },
+    {
+      "t": 3330,
+      "to": "Anal-sex health ledger",
+      "why": "No barrier and little or no lubricant increase STI and tissue-injury risk beyond the fecal concern discussed in-room."
+    },
+    {
+      "t": 3430,
+      "to": "Episode 117 lambskin discussion",
+      "why": "The Vegas arc again distinguishes pregnancy prevention from STI protection."
+    },
+    {
+      "t": 3546,
+      "to": "David Chang recurring-person node",
+      "why": "Chang's late entrance turns the episode into a direct continuation of the prior discussion."
+    },
+    {
+      "t": 3631,
+      "to": "Rage and aging theme",
+      "why": "Older cast members contrast youthful snapping with present workplace and legal consequences."
+    },
+    {
+      "t": 3748,
+      "to": "David Choe health timeline",
+      "why": "A prior pre-diabetes self-report becomes a reported A1C-threshold diabetes diagnosis."
+    },
+    {
+      "t": 3771,
+      "to": "Food, friendship and responsibility",
+      "why": "Chang is blamed through comedy before David explicitly restores responsibility to his own diet and inactivity."
+    },
+    {
+      "t": 3917,
+      "to": "Firearm-access safety ledger",
+      "why": "Existing rifle ownership and desire for a handgun appear alongside recent loss-of-control language."
+    },
+    {
+      "t": 3937,
+      "to": "Play as exercise",
+      "why": "Skateboarding is proposed as movement that feels intrinsically rewarding rather than punitive."
+    },
+    {
+      "t": 4055,
+      "to": "Corpus medical-claim corrections",
+      "why": "Carbohydrate elimination, painful exercise and `reversal` are presented too absolutely."
+    },
+    {
+      "t": 4211,
+      "to": "Hawaii rehab chronology",
+      "why": "David proposes returning to prior clinicians after recognizing current behavior as out of control."
+    },
+    {
+      "t": 4233,
+      "to": "Escape-versus-recovery theme",
+      "why": "The room shifts from clinical reconnection to a fantasy of leaving work, moving and starting a family."
+    }
   ],
   "content_warnings": [
-    "explicit sexual descriptions", "sex-work discussion", "intimate audio and image privacy", "sleep-context sexual activity and consent ambiguity", "unprotected sex and STI risk", "unsafe anal-sex claims", "unsafe sex-toy use and sharing", "gambling addiction and relapse risk", "suicide in a song narrative", "racial slurs and racist framing", "violence against a pregnant partner", "diabetes and medical misinformation", "respiratory illness misinformation", "firearm ownership and acquisition", "workplace conflict and temper", "private-person sexual and relationship details", "unsupported sexual-orientation speculation", "substance use", "rehab and loss-of-control discussion", "coercive group pressure"
-  ]
+    "explicit sexual descriptions",
+    "sex-work discussion",
+    "intimate audio and image privacy",
+    "sleep-context sexual activity and consent ambiguity",
+    "unprotected sex and STI risk",
+    "unsafe anal-sex claims",
+    "unsafe sex-toy use and sharing",
+    "gambling addiction and relapse risk",
+    "suicide in a song narrative",
+    "racial slurs and racist framing",
+    "violence against a pregnant partner",
+    "diabetes and medical misinformation",
+    "respiratory illness misinformation",
+    "firearm ownership and acquisition",
+    "workplace conflict and temper",
+    "private-person sexual and relationship details",
+    "unsupported sexual-orientation speculation",
+    "substance use",
+    "rehab and loss-of-control discussion",
+    "coercive group pressure"
+  ],
+  "people": [
+    "David Choe",
+    "Bobby Trivia",
+    "David Chang",
+    "Money Mark",
+    "Steve Lee",
+    "Critter"
+  ],
+  "places": [
+    "Hawaii"
+  ],
+  "works": [
+    "Bravado"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 120 follows the Vegas run with Steve Lee, Bill, Val, Critter, Bobby Trivia and a late David Chang arrival.",
+  "description_source": "Opening of the human-reviewed summary."
 }

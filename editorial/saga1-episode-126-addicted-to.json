@@ -31,125 +31,506 @@
   ],
   "speaker_policy": "Names in the editorial layer identify explicitly introduced public participants, works and contextual references only. Zero turns and zero voice windows cannot support named transcript dialogue.",
   "chapters": [
-    {"t": 0, "title": "Silicon Valley cold open"},
-    {"t": 60, "title": "Hyapatia Lee and Asia Carrera"},
-    {"t": 120, "title": "team-building prompt"},
-    {"t": 180, "title": "Critter's station boundary"},
-    {"t": 300, "title": "birthday freestyle"},
-    {"t": 420, "title": "formal introduction"},
-    {"t": 480, "title": "Dark Dick goes live action"},
-    {"t": 540, "title": "anonymous-identity speculation"},
-    {"t": 660, "title": "piercing discharge"},
-    {"t": 780, "title": "unicorn taxonomy"},
-    {"t": 900, "title": "plastic mattress and hotel sheet"},
-    {"t": 1080, "title": "diabetes symptoms"},
-    {"t": 1140, "title": "college bed-wetting"},
-    {"t": 1260, "title": "sleepwalking urination"},
-    {"t": 1380, "title": "diarrhea couch story"},
-    {"t": 1500, "title": "shopping-cart stunt"},
-    {"t": 1560, "title": "germophobia contradiction"},
-    {"t": 1680, "title": "Bay Area violence tour"},
-    {"t": 1740, "title": "unwanted bar contact"},
-    {"t": 1860, "title": "upper decking and feces pranks"},
-    {"t": 1980, "title": "Dark Dick story resumes"},
-    {"t": 2100, "title": "K-Town reality series"},
-    {"t": 2160, "title": "Tyrese production recollection"},
-    {"t": 2220, "title": "culture and self-disgust"},
-    {"t": 2280, "title": "celebrity partner requests"},
-    {"t": 2340, "title": "racialized sexual stereotypes"},
-    {"t": 2400, "title": "addicted to DVDASA"},
-    {"t": 2460, "title": "every-episode listener"},
-    {"t": 2520, "title": "number-one health branding"},
-    {"t": 2580, "title": "birthday gifts and diet pills"},
-    {"t": 2640, "title": "black-card phone call"},
-    {"t": 2760, "title": "handmade gifts"},
-    {"t": 2820, "title": "fan art as burden"},
-    {"t": 2940, "title": "birthday aversion"},
-    {"t": 3000, "title": "gold chain and status"},
-    {"t": 3060, "title": "fear of loss"},
-    {"t": 3120, "title": "hoarded home"},
-    {"t": 3180, "title": "everything and nothing"},
-    {"t": 3240, "title": "hang on tightly"},
-    {"t": 3300, "title": "surprise party"},
-    {"t": 3360, "title": "the show as gift"},
-    {"t": 3420, "title": "one unicorn"},
-    {"t": 3480, "title": "private almost-cast member"},
-    {"t": 3540, "title": "Jazzy Chang"},
-    {"t": 3660, "title": "reality characters"},
-    {"t": 3780, "title": "unnatural six-hour format"},
-    {"t": 3840, "title": "anti-technology family"},
-    {"t": 3900, "title": "heightened self"},
-    {"t": 3960, "title": "disclosure versus manufactured drama"},
-    {"t": 4020, "title": "health-rank origin"},
-    {"t": 4140, "title": "masturbating to the show"},
-    {"t": 4200, "title": "shorts and body display"},
-    {"t": 4320, "title": "partner privacy"},
-    {"t": 4380, "title": "K-Town binge"},
-    {"t": 4500, "title": "performance exaggeration"},
-    {"t": 4560, "title": "rewatchable television"},
-    {"t": 4680, "title": "computer birthday gift"},
-    {"t": 4800, "title": "Quiet C recognized"},
-    {"t": 4860, "title": "future partners should not listen"},
-    {"t": 4920, "title": "cutting history"},
-    {"t": 4980, "title": "Dirty Hands self-injury"},
-    {"t": 5040, "title": "shooting-self ideation"},
-    {"t": 5100, "title": "asphyxiation rejected"},
-    {"t": 5160, "title": "verbal self-harm"},
-    {"t": 5220, "title": "pain into art"},
-    {"t": 5280, "title": "freedom and career doors"},
-    {"t": 5340, "title": "podcast influences"},
-    {"t": 5400, "title": "ignorant investigator"},
-    {"t": 5460, "title": "birthday gratitude"},
-    {"t": 5520, "title": "old contact resurfaces"},
-    {"t": 5580, "title": "birthday dinner"},
-    {"t": 5700, "title": "pro-ana and pro-mia"},
-    {"t": 5760, "title": "starvation tips"},
-    {"t": 5820, "title": "binge and purge attempt"},
-    {"t": 5940, "title": "vomiting and reflux"},
-    {"t": 6060, "title": "past purging"},
-    {"t": 6120, "title": "chew and spit"},
-    {"t": 6180, "title": "imagined eating"},
-    {"t": 6240, "title": "onion STI joke"},
-    {"t": 6300, "title": "trivia"},
-    {"t": 6420, "title": "touching boundary"},
-    {"t": 6480, "title": "private spouse anecdote"},
-    {"t": 6540, "title": "book promotion"},
-    {"t": 6600, "title": "fan asks for anonymity"},
-    {"t": 6660, "title": "birthday astrology"},
-    {"t": 6780, "title": "merchandise outro"},
-    {"t": 6900, "title": "never stop"}
+    {
+      "t": 0,
+      "title": "Silicon Valley cold open"
+    },
+    {
+      "t": 60,
+      "title": "Hyapatia Lee and Asia Carrera"
+    },
+    {
+      "t": 120,
+      "title": "team-building prompt"
+    },
+    {
+      "t": 180,
+      "title": "Critter's station boundary"
+    },
+    {
+      "t": 300,
+      "title": "birthday freestyle"
+    },
+    {
+      "t": 420,
+      "title": "formal introduction"
+    },
+    {
+      "t": 480,
+      "title": "Dark Dick goes live action"
+    },
+    {
+      "t": 540,
+      "title": "anonymous-identity speculation"
+    },
+    {
+      "t": 660,
+      "title": "piercing discharge"
+    },
+    {
+      "t": 780,
+      "title": "unicorn taxonomy"
+    },
+    {
+      "t": 900,
+      "title": "plastic mattress and hotel sheet"
+    },
+    {
+      "t": 1080,
+      "title": "diabetes symptoms"
+    },
+    {
+      "t": 1140,
+      "title": "college bed-wetting"
+    },
+    {
+      "t": 1260,
+      "title": "sleepwalking urination"
+    },
+    {
+      "t": 1380,
+      "title": "diarrhea couch story"
+    },
+    {
+      "t": 1500,
+      "title": "shopping-cart stunt"
+    },
+    {
+      "t": 1560,
+      "title": "germophobia contradiction"
+    },
+    {
+      "t": 1680,
+      "title": "Bay Area violence tour"
+    },
+    {
+      "t": 1740,
+      "title": "unwanted bar contact"
+    },
+    {
+      "t": 1860,
+      "title": "upper decking and feces pranks"
+    },
+    {
+      "t": 1980,
+      "title": "Dark Dick story resumes"
+    },
+    {
+      "t": 2100,
+      "title": "K-Town reality series"
+    },
+    {
+      "t": 2160,
+      "title": "Tyrese production recollection"
+    },
+    {
+      "t": 2220,
+      "title": "culture and self-disgust"
+    },
+    {
+      "t": 2280,
+      "title": "celebrity partner requests"
+    },
+    {
+      "t": 2340,
+      "title": "racialized sexual stereotypes"
+    },
+    {
+      "t": 2400,
+      "title": "addicted to DVDASA"
+    },
+    {
+      "t": 2460,
+      "title": "every-episode listener"
+    },
+    {
+      "t": 2520,
+      "title": "number-one health branding"
+    },
+    {
+      "t": 2580,
+      "title": "birthday gifts and diet pills"
+    },
+    {
+      "t": 2640,
+      "title": "black-card phone call"
+    },
+    {
+      "t": 2760,
+      "title": "handmade gifts"
+    },
+    {
+      "t": 2820,
+      "title": "fan art as burden"
+    },
+    {
+      "t": 2940,
+      "title": "birthday aversion"
+    },
+    {
+      "t": 3000,
+      "title": "gold chain and status"
+    },
+    {
+      "t": 3060,
+      "title": "fear of loss"
+    },
+    {
+      "t": 3120,
+      "title": "hoarded home"
+    },
+    {
+      "t": 3180,
+      "title": "everything and nothing"
+    },
+    {
+      "t": 3240,
+      "title": "hang on tightly"
+    },
+    {
+      "t": 3300,
+      "title": "surprise party"
+    },
+    {
+      "t": 3360,
+      "title": "the show as gift"
+    },
+    {
+      "t": 3420,
+      "title": "one unicorn"
+    },
+    {
+      "t": 3480,
+      "title": "private almost-cast member"
+    },
+    {
+      "t": 3540,
+      "title": "Jazzy Chang"
+    },
+    {
+      "t": 3660,
+      "title": "reality characters"
+    },
+    {
+      "t": 3780,
+      "title": "unnatural six-hour format"
+    },
+    {
+      "t": 3840,
+      "title": "anti-technology family"
+    },
+    {
+      "t": 3900,
+      "title": "heightened self"
+    },
+    {
+      "t": 3960,
+      "title": "disclosure versus manufactured drama"
+    },
+    {
+      "t": 4020,
+      "title": "health-rank origin"
+    },
+    {
+      "t": 4140,
+      "title": "masturbating to the show"
+    },
+    {
+      "t": 4200,
+      "title": "shorts and body display"
+    },
+    {
+      "t": 4320,
+      "title": "partner privacy"
+    },
+    {
+      "t": 4380,
+      "title": "K-Town binge"
+    },
+    {
+      "t": 4500,
+      "title": "performance exaggeration"
+    },
+    {
+      "t": 4560,
+      "title": "rewatchable television"
+    },
+    {
+      "t": 4680,
+      "title": "computer birthday gift"
+    },
+    {
+      "t": 4800,
+      "title": "Quiet C recognized"
+    },
+    {
+      "t": 4860,
+      "title": "future partners should not listen"
+    },
+    {
+      "t": 4920,
+      "title": "cutting history"
+    },
+    {
+      "t": 4980,
+      "title": "Dirty Hands self-injury"
+    },
+    {
+      "t": 5040,
+      "title": "shooting-self ideation"
+    },
+    {
+      "t": 5100,
+      "title": "asphyxiation rejected"
+    },
+    {
+      "t": 5160,
+      "title": "verbal self-harm"
+    },
+    {
+      "t": 5220,
+      "title": "pain into art"
+    },
+    {
+      "t": 5280,
+      "title": "freedom and career doors"
+    },
+    {
+      "t": 5340,
+      "title": "podcast influences"
+    },
+    {
+      "t": 5400,
+      "title": "ignorant investigator"
+    },
+    {
+      "t": 5460,
+      "title": "birthday gratitude"
+    },
+    {
+      "t": 5520,
+      "title": "old contact resurfaces"
+    },
+    {
+      "t": 5580,
+      "title": "birthday dinner"
+    },
+    {
+      "t": 5700,
+      "title": "pro-ana and pro-mia"
+    },
+    {
+      "t": 5760,
+      "title": "starvation tips"
+    },
+    {
+      "t": 5820,
+      "title": "binge and purge attempt"
+    },
+    {
+      "t": 5940,
+      "title": "vomiting and reflux"
+    },
+    {
+      "t": 6060,
+      "title": "past purging"
+    },
+    {
+      "t": 6120,
+      "title": "chew and spit"
+    },
+    {
+      "t": 6180,
+      "title": "imagined eating"
+    },
+    {
+      "t": 6240,
+      "title": "onion STI joke"
+    },
+    {
+      "t": 6300,
+      "title": "trivia"
+    },
+    {
+      "t": 6420,
+      "title": "touching boundary"
+    },
+    {
+      "t": 6480,
+      "title": "private spouse anecdote"
+    },
+    {
+      "t": 6540,
+      "title": "book promotion"
+    },
+    {
+      "t": 6600,
+      "title": "fan asks for anonymity"
+    },
+    {
+      "t": 6660,
+      "title": "birthday astrology"
+    },
+    {
+      "t": 6780,
+      "title": "merchandise outro"
+    },
+    {
+      "t": 6900,
+      "title": "never stop"
+    }
   ],
   "connections": [
-    {"t": 0, "to": "Silicon Valley", "why": "The cold open turns Choe's public Facebook-stock story and controversy into fictional dialogue."},
-    {"t": 180, "to": "Property and workplace boundaries", "why": "A recurring participant asks that others not use his headphones/station when absent."},
-    {"t": 480, "to": "Anonymous creator protection", "why": "Dark Dick's public work is celebrated while the show repeatedly tries to infer his identity."},
-    {"t": 1080, "to": "Diabetes medical layer", "why": "Frequent urination, hunger and ED are real possible symptoms/complications but not certainties."},
-    {"t": 1560, "to": "Control versus blackout", "why": "Meticulous sanitation coexists with stories of alcohol-related loss of control."},
-    {"t": 1740, "to": "Unwanted sexual contact", "why": "Approachability and a joking pass do not authorize touching or climbing on someone."},
-    {"t": 2100, "to": "K-Town cultural self-image", "why": "The cast sees the reality series as both addictive and degrading representation."},
-    {"t": 2400, "to": "Title theme", "why": "A participant explicitly says he is addicted to DVDASA and binges its surrounding ecosystem."},
-    {"t": 2520, "to": "Health branding versus authority", "why": "The show's old category ranking is a joke/identity, not medical accreditation."},
-    {"t": 2640, "to": "Delegated identity and finance", "why": "An assistant represents the artist on a card call, exposing impersonation and account-boundary risk."},
-    {"t": 2760, "to": "Creative value versus monetary value", "why": "Handmade gifts matter more than purchasable luxury to someone who can buy objects."},
-    {"t": 2820, "to": "Fan labor as burden", "why": "Gratitude for handmade work coexists with storage, obligation and inability to discard."},
-    {"t": 2940, "to": "Celebration and deservedness", "why": "Birthday avoidance is linked to attention, disappointment and feeling undeserving."},
-    {"t": 3000, "to": "Wealth and scarcity", "why": "A gold chain and luxury vehicles are framed as loss targets rather than security."},
-    {"t": 3120, "to": "Hoarding and attachment", "why": "Refusal to discard objects contradicts the stated readiness to walk away from anything."},
-    {"t": 3180, "to": "Everything and nothing", "why": "The episode's philosophical center joins intense care with radical impermanence."},
-    {"t": 3660, "to": "Persona versus person", "why": "Reality actors and DVDASA participants are described as heightened versions of themselves."},
-    {"t": 3900, "to": "Performance and evidentiary caution", "why": "Provocation creates discussion but does not make all statements fictional or literal."},
-    {"t": 4140, "to": "Compulsive consumption", "why": "Listening, watching, commenting and masturbating fold the audience into the show's world."},
-    {"t": 4800, "to": "Pseudonym and fan recognition", "why": "A private partner becomes recognizable from relationship context despite never appearing."},
-    {"t": 4920, "to": "Self-harm history", "why": "Cutting and self-punching are described as attempts to feel and make material."},
-    {"t": 4980, "to": "Dirty Hands", "why": "Public film footage documents self-injury while also turning it into an aesthetic object."},
-    {"t": 5040, "to": "Ideation versus action", "why": "Shooting oneself for art is historical ideation, not a completed act or instruction."},
-    {"t": 5160, "to": "Show as self-harm", "why": "A therapist's reported interpretation connects provocative disclosure to cutting/shooting metaphors."},
-    {"t": 5220, "to": "Pain into art", "why": "The creative thesis preserves transformation without making injury necessary for creativity."},
-    {"t": 5400, "to": "Ignorance as reporting device", "why": "The speaker treats lack of expertise as a prompt for explanation, not as expertise itself."},
-    {"t": 5700, "to": "Eating-disorder hazard", "why": "Pro-ana/pro-mia communities turn starvation, purging and shame into techniques."},
-    {"t": 5820, "to": "Binge-purge cycle", "why": "A large private meal is followed by forced vomiting, pain, reflux and renewed temptation."},
-    {"t": 6120, "to": "Diabetes and restriction", "why": "Chew-and-spit behavior is presented as food control but is not diabetes care."},
-    {"t": 6900, "to": "Durability versus destruction", "why": "The episode closes with `never stop` after framing the show as both gift and verbal self-harm."}
+    {
+      "t": 0,
+      "to": "Silicon Valley",
+      "why": "The cold open turns Choe's public Facebook-stock story and controversy into fictional dialogue."
+    },
+    {
+      "t": 180,
+      "to": "Property and workplace boundaries",
+      "why": "A recurring participant asks that others not use his headphones/station when absent."
+    },
+    {
+      "t": 480,
+      "to": "Anonymous creator protection",
+      "why": "Dark Dick's public work is celebrated while the show repeatedly tries to infer his identity."
+    },
+    {
+      "t": 1080,
+      "to": "Diabetes medical layer",
+      "why": "Frequent urination, hunger and ED are real possible symptoms/complications but not certainties."
+    },
+    {
+      "t": 1560,
+      "to": "Control versus blackout",
+      "why": "Meticulous sanitation coexists with stories of alcohol-related loss of control."
+    },
+    {
+      "t": 1740,
+      "to": "Unwanted sexual contact",
+      "why": "Approachability and a joking pass do not authorize touching or climbing on someone."
+    },
+    {
+      "t": 2100,
+      "to": "K-Town cultural self-image",
+      "why": "The cast sees the reality series as both addictive and degrading representation."
+    },
+    {
+      "t": 2400,
+      "to": "Title theme",
+      "why": "A participant explicitly says he is addicted to DVDASA and binges its surrounding ecosystem."
+    },
+    {
+      "t": 2520,
+      "to": "Health branding versus authority",
+      "why": "The show's old category ranking is a joke/identity, not medical accreditation."
+    },
+    {
+      "t": 2640,
+      "to": "Delegated identity and finance",
+      "why": "An assistant represents the artist on a card call, exposing impersonation and account-boundary risk."
+    },
+    {
+      "t": 2760,
+      "to": "Creative value versus monetary value",
+      "why": "Handmade gifts matter more than purchasable luxury to someone who can buy objects."
+    },
+    {
+      "t": 2820,
+      "to": "Fan labor as burden",
+      "why": "Gratitude for handmade work coexists with storage, obligation and inability to discard."
+    },
+    {
+      "t": 2940,
+      "to": "Celebration and deservedness",
+      "why": "Birthday avoidance is linked to attention, disappointment and feeling undeserving."
+    },
+    {
+      "t": 3000,
+      "to": "Wealth and scarcity",
+      "why": "A gold chain and luxury vehicles are framed as loss targets rather than security."
+    },
+    {
+      "t": 3120,
+      "to": "Hoarding and attachment",
+      "why": "Refusal to discard objects contradicts the stated readiness to walk away from anything."
+    },
+    {
+      "t": 3180,
+      "to": "Everything and nothing",
+      "why": "The episode's philosophical center joins intense care with radical impermanence."
+    },
+    {
+      "t": 3660,
+      "to": "Persona versus person",
+      "why": "Reality actors and DVDASA participants are described as heightened versions of themselves."
+    },
+    {
+      "t": 3900,
+      "to": "Performance and evidentiary caution",
+      "why": "Provocation creates discussion but does not make all statements fictional or literal."
+    },
+    {
+      "t": 4140,
+      "to": "Compulsive consumption",
+      "why": "Listening, watching, commenting and masturbating fold the audience into the show's world."
+    },
+    {
+      "t": 4800,
+      "to": "Pseudonym and fan recognition",
+      "why": "A private partner becomes recognizable from relationship context despite never appearing."
+    },
+    {
+      "t": 4920,
+      "to": "Self-harm history",
+      "why": "Cutting and self-punching are described as attempts to feel and make material."
+    },
+    {
+      "t": 4980,
+      "to": "Dirty Hands",
+      "why": "Public film footage documents self-injury while also turning it into an aesthetic object."
+    },
+    {
+      "t": 5040,
+      "to": "Ideation versus action",
+      "why": "Shooting oneself for art is historical ideation, not a completed act or instruction."
+    },
+    {
+      "t": 5160,
+      "to": "Show as self-harm",
+      "why": "A therapist's reported interpretation connects provocative disclosure to cutting/shooting metaphors."
+    },
+    {
+      "t": 5220,
+      "to": "Pain into art",
+      "why": "The creative thesis preserves transformation without making injury necessary for creativity."
+    },
+    {
+      "t": 5400,
+      "to": "Ignorance as reporting device",
+      "why": "The speaker treats lack of expertise as a prompt for explanation, not as expertise itself."
+    },
+    {
+      "t": 5700,
+      "to": "Eating-disorder hazard",
+      "why": "Pro-ana/pro-mia communities turn starvation, purging and shame into techniques."
+    },
+    {
+      "t": 5820,
+      "to": "Binge-purge cycle",
+      "why": "A large private meal is followed by forced vomiting, pain, reflux and renewed temptation."
+    },
+    {
+      "t": 6120,
+      "to": "Diabetes and restriction",
+      "why": "Chew-and-spit behavior is presented as food control but is not diabetes care."
+    },
+    {
+      "t": 6900,
+      "to": "Durability versus destruction",
+      "why": "The episode closes with `never stop` after framing the show as both gift and verbal self-harm."
+    }
   ],
   "content_warnings": [
     "self-harm and cutting",
@@ -180,5 +561,18 @@
     "medical misinformation",
     "copyrighted book excerpt",
     "copyrighted television/audio excerpts"
-  ]
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [],
+  "works": [
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "A birthday episode framed by a Silicon Valley cold open and the phrase `addicted to DVDASA`.",
+  "description_source": "Opening of the human-reviewed summary."
 }

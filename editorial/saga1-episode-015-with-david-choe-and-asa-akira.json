@@ -1,96 +1,434 @@
 {
   "summary": "Episode Fifteen introduces Eddie Huang shortly before publication of Fresh Off the Boat and during production of its food-and-travel video series. The conversation moves from fashion, cooking, pornography, wrestling, and immigrant parents into a long argument about Asian American visibility, masculinity, racial desire, stereotypes, representation, sudden fame, and the burden of being treated as a spokesperson. Eddie and David describe an immediate affinity built from parallel experiences but different creative paths; Anthony Bourdain and David Chang appear as older examples of public access and responsibility. A recap of the previous episode also makes an important correction to its spectacle: Yoshi says Veruca James was not ready when simulated contact became actual contact, illustrating why participation cannot be generalized into blanket consent. Later sections move through restaurant work, relationships, creative ambition, celebrity encounters, graffiti, travel, history trivia, television, and music before Eddie loses Trivia With Bobby and completes an earlobe-smelling punishment. The editorial layer preserves racialized and explicit source material as context without treating panel claims as fact or naming Eddie's private partner.",
   "chapters": [
-    {"t": 3, "title": "Produced opening and the full room"},
-    {"t": 23, "title": "Asa, Maury, Bobby, and Yoshi"},
-    {"t": 56, "title": "Eddie Huang enters through a name joke"},
-    {"t": 67, "title": "Fashion, a leopard garment, and parallel style"},
-    {"t": 90, "title": "The intro keeps getting interrupted"},
-    {"t": 120, "title": "Fresh Off the Boat: book and video series"},
-    {"t": 165, "title": "Asian identity and refusing a prescribed box"},
-    {"t": 230, "title": "A talk about representation becomes group debate"},
-    {"t": 310, "title": "Episode Fourteen is retold from Yoshi's perspective"},
-    {"t": 370, "title": "Simulated contact crossed into contact before Veruca was ready"},
-    {"t": 430, "title": "Apology, intent, and the action threshold"},
-    {"t": 500, "title": "Fond becomes a metaphor for bodily residue"},
-    {"t": 570, "title": "Cooking in a Reverse Bang Bus"},
-    {"t": 620, "title": "Jimmy “Superfly” Snuka and wrestling personas"},
-    {"t": 690, "title": "Jada Stevens and food-show staging"},
-    {"t": 750, "title": "Miami and the frita"},
-    {"t": 810, "title": "Epic Meal Time and The Human Centipede"},
-    {"t": 880, "title": "Pornography as work versus the fantasy of reality"},
-    {"t": 970, "title": "Parents, FOB language, and the book's audience"},
-    {"t": 1040, "title": "Translation and distance inside immigrant families"},
-    {"t": 1120, "title": "Onions, food memory, and a generational joke"},
-    {"t": 1190, "title": "Bodies become racial categories"},
-    {"t": 1270, "title": "Preference, objectification, and Asian masculinity"},
-    {"t": 1370, "title": "Interracial desire is generalized and disputed"},
-    {"t": 1480, "title": "Taiwanese, Chinese, Japanese, and Korean histories enter the room"},
-    {"t": 1580, "title": "Political claims remain participant claims"},
-    {"t": 1690, "title": "Sex ratios, one-child policy, and unsupported certainty"},
-    {"t": 1810, "title": "Asa explains sequencing and health risk"},
-    {"t": 1940, "title": "Performance knowledge meets panel speculation"},
-    {"t": 2080, "title": "Racialized attraction returns through celebrity names"},
-    {"t": 2220, "title": "Salma Hayek, Skin Diamond, Persia Monir, and Rocky Roads"},
-    {"t": 2310, "title": "Portland strip clubs and a Wiccan story"},
-    {"t": 2410, "title": "Union Jack's and the city's club culture"},
-    {"t": 2510, "title": "Iggy Azalea and the instability of racial reading"},
-    {"t": 2640, "title": "Native Taiwanese identity and historical compression"},
-    {"t": 2790, "title": "Eddie and David as creative doppelgängers"},
-    {"t": 2900, "title": "Sudden fame and relationships formed before it"},
-    {"t": 3020, "title": "Groupies, trust, and timing"},
-    {"t": 3150, "title": "Baohaus and restaurant life"},
-    {"t": 3220, "title": "Emeril Lagasse, David Chang, and Anthony Bourdain"},
-    {"t": 3340, "title": "A private singer partner remains unnamed"},
-    {"t": 3450, "title": "Fresh Off the Boat's first chapter makes David cry"},
-    {"t": 3540, "title": "Rejecting the model-minority and herb stereotypes"},
-    {"t": 3660, "title": "Visible Asian Americans and the demand to represent"},
-    {"t": 3780, "title": "Overpaying and overtipping against stereotype"},
-    {"t": 3900, "title": "Baohaus as hospitality and proof"},
-    {"t": 3990, "title": "Goals, abundance, and playing with house money"},
-    {"t": 4100, "title": "Dinner with Bourdain and Chang"},
-    {"t": 4200, "title": "The obligation and impossibility of representation"},
-    {"t": 4300, "title": "The ODB of Asians"},
-    {"t": 4390, "title": "Sammy Salami and the sperm-donor callback"},
-    {"t": 4470, "title": "Nas and “Represent”"},
-    {"t": 4550, "title": "A cuckold film pitch and yellow peril"},
-    {"t": 4640, "title": "This Ain't Iron Chef"},
-    {"t": 4710, "title": "Morimoto, Bobby Flay, and parody casting"},
-    {"t": 4790, "title": "Julia, John Cusack, and a celebrity dinner"},
-    {"t": 4860, "title": "Cusack wants to paint"},
-    {"t": 4910, "title": "Damien Hirst and the dangerous proof challenge"},
-    {"t": 4960, "title": "MS-13, Koreatown, and Training Day"},
-    {"t": 5010, "title": "Future plans, Mongolia, and Genghis Khan"},
-    {"t": 5050, "title": "Trivia With Bobby begins"},
-    {"t": 5080, "title": "Khrushchev, Castro, and the Cuban Missile Crisis"},
-    {"t": 5100, "title": "Iran, hostages, Cambodia, and Argo"},
-    {"t": 5120, "title": "American History X and Edward Norton"},
-    {"t": 5140, "title": "Knight Rider, Charles in Charge, and The Facts of Life"},
-    {"t": 5150, "title": "Sledge Hammer!, Alien Nation, and V"},
-    {"t": 5160, "title": "LL Cool J and MTV Unplugged"},
-    {"t": 5170, "title": "Wonderwall, Ryan Adams, and Tears in Heaven"},
-    {"t": 5180, "title": "Eddie loses and smells Bobby's earlobe"},
-    {"t": 5190, "title": "Fresh Off the Boat promotion"},
-    {"t": 5210, "title": "Baohaus and the spoken Twitter handle"},
-    {"t": 5230, "title": "Thanks, departures, and the closing ritual"},
-    {"t": 5272, "title": "Produced Namaste outro"}
+    {
+      "t": 3,
+      "title": "Produced opening and the full room"
+    },
+    {
+      "t": 23,
+      "title": "Asa, Maury, Bobby, and Yoshi"
+    },
+    {
+      "t": 56,
+      "title": "Eddie Huang enters through a name joke"
+    },
+    {
+      "t": 67,
+      "title": "Fashion, a leopard garment, and parallel style"
+    },
+    {
+      "t": 90,
+      "title": "The intro keeps getting interrupted"
+    },
+    {
+      "t": 120,
+      "title": "Fresh Off the Boat: book and video series"
+    },
+    {
+      "t": 165,
+      "title": "Asian identity and refusing a prescribed box"
+    },
+    {
+      "t": 230,
+      "title": "A talk about representation becomes group debate"
+    },
+    {
+      "t": 310,
+      "title": "Episode Fourteen is retold from Yoshi's perspective"
+    },
+    {
+      "t": 370,
+      "title": "Simulated contact crossed into contact before Veruca was ready"
+    },
+    {
+      "t": 430,
+      "title": "Apology, intent, and the action threshold"
+    },
+    {
+      "t": 500,
+      "title": "Fond becomes a metaphor for bodily residue"
+    },
+    {
+      "t": 570,
+      "title": "Cooking in a Reverse Bang Bus"
+    },
+    {
+      "t": 620,
+      "title": "Jimmy “Superfly” Snuka and wrestling personas"
+    },
+    {
+      "t": 690,
+      "title": "Jada Stevens and food-show staging"
+    },
+    {
+      "t": 750,
+      "title": "Miami and the frita"
+    },
+    {
+      "t": 810,
+      "title": "Epic Meal Time and The Human Centipede"
+    },
+    {
+      "t": 880,
+      "title": "Pornography as work versus the fantasy of reality"
+    },
+    {
+      "t": 970,
+      "title": "Parents, FOB language, and the book's audience"
+    },
+    {
+      "t": 1040,
+      "title": "Translation and distance inside immigrant families"
+    },
+    {
+      "t": 1120,
+      "title": "Onions, food memory, and a generational joke"
+    },
+    {
+      "t": 1190,
+      "title": "Bodies become racial categories"
+    },
+    {
+      "t": 1270,
+      "title": "Preference, objectification, and Asian masculinity"
+    },
+    {
+      "t": 1370,
+      "title": "Interracial desire is generalized and disputed"
+    },
+    {
+      "t": 1480,
+      "title": "Taiwanese, Chinese, Japanese, and Korean histories enter the room"
+    },
+    {
+      "t": 1580,
+      "title": "Political claims remain participant claims"
+    },
+    {
+      "t": 1690,
+      "title": "Sex ratios, one-child policy, and unsupported certainty"
+    },
+    {
+      "t": 1810,
+      "title": "Asa explains sequencing and health risk"
+    },
+    {
+      "t": 1940,
+      "title": "Performance knowledge meets panel speculation"
+    },
+    {
+      "t": 2080,
+      "title": "Racialized attraction returns through celebrity names"
+    },
+    {
+      "t": 2220,
+      "title": "Salma Hayek, Skin Diamond, Persia Monir, and Rocky Roads"
+    },
+    {
+      "t": 2310,
+      "title": "Portland strip clubs and a Wiccan story"
+    },
+    {
+      "t": 2410,
+      "title": "Union Jack's and the city's club culture"
+    },
+    {
+      "t": 2510,
+      "title": "Iggy Azalea and the instability of racial reading"
+    },
+    {
+      "t": 2640,
+      "title": "Native Taiwanese identity and historical compression"
+    },
+    {
+      "t": 2790,
+      "title": "Eddie and David as creative doppelgängers"
+    },
+    {
+      "t": 2900,
+      "title": "Sudden fame and relationships formed before it"
+    },
+    {
+      "t": 3020,
+      "title": "Groupies, trust, and timing"
+    },
+    {
+      "t": 3150,
+      "title": "Baohaus and restaurant life"
+    },
+    {
+      "t": 3220,
+      "title": "Emeril Lagasse, David Chang, and Anthony Bourdain"
+    },
+    {
+      "t": 3340,
+      "title": "A private singer partner remains unnamed"
+    },
+    {
+      "t": 3450,
+      "title": "Fresh Off the Boat's first chapter makes David cry"
+    },
+    {
+      "t": 3540,
+      "title": "Rejecting the model-minority and herb stereotypes"
+    },
+    {
+      "t": 3660,
+      "title": "Visible Asian Americans and the demand to represent"
+    },
+    {
+      "t": 3780,
+      "title": "Overpaying and overtipping against stereotype"
+    },
+    {
+      "t": 3900,
+      "title": "Baohaus as hospitality and proof"
+    },
+    {
+      "t": 3990,
+      "title": "Goals, abundance, and playing with house money"
+    },
+    {
+      "t": 4100,
+      "title": "Dinner with Bourdain and Chang"
+    },
+    {
+      "t": 4200,
+      "title": "The obligation and impossibility of representation"
+    },
+    {
+      "t": 4300,
+      "title": "The ODB of Asians"
+    },
+    {
+      "t": 4390,
+      "title": "Sammy Salami and the sperm-donor callback"
+    },
+    {
+      "t": 4470,
+      "title": "Nas and “Represent”"
+    },
+    {
+      "t": 4550,
+      "title": "A cuckold film pitch and yellow peril"
+    },
+    {
+      "t": 4640,
+      "title": "This Ain't Iron Chef"
+    },
+    {
+      "t": 4710,
+      "title": "Morimoto, Bobby Flay, and parody casting"
+    },
+    {
+      "t": 4790,
+      "title": "Julia, John Cusack, and a celebrity dinner"
+    },
+    {
+      "t": 4860,
+      "title": "Cusack wants to paint"
+    },
+    {
+      "t": 4910,
+      "title": "Damien Hirst and the dangerous proof challenge"
+    },
+    {
+      "t": 4960,
+      "title": "MS-13, Koreatown, and Training Day"
+    },
+    {
+      "t": 5010,
+      "title": "Future plans, Mongolia, and Genghis Khan"
+    },
+    {
+      "t": 5050,
+      "title": "Trivia With Bobby begins"
+    },
+    {
+      "t": 5080,
+      "title": "Khrushchev, Castro, and the Cuban Missile Crisis"
+    },
+    {
+      "t": 5100,
+      "title": "Iran, hostages, Cambodia, and Argo"
+    },
+    {
+      "t": 5120,
+      "title": "American History X and Edward Norton"
+    },
+    {
+      "t": 5140,
+      "title": "Knight Rider, Charles in Charge, and The Facts of Life"
+    },
+    {
+      "t": 5150,
+      "title": "Sledge Hammer!, Alien Nation, and V"
+    },
+    {
+      "t": 5160,
+      "title": "LL Cool J and MTV Unplugged"
+    },
+    {
+      "t": 5170,
+      "title": "Wonderwall, Ryan Adams, and Tears in Heaven"
+    },
+    {
+      "t": 5180,
+      "title": "Eddie loses and smells Bobby's earlobe"
+    },
+    {
+      "t": 5190,
+      "title": "Fresh Off the Boat promotion"
+    },
+    {
+      "t": 5210,
+      "title": "Baohaus and the spoken Twitter handle"
+    },
+    {
+      "t": 5230,
+      "title": "Thanks, departures, and the closing ritual"
+    },
+    {
+      "t": 5272,
+      "title": "Produced Namaste outro"
+    }
   ],
-  "people": ["David Choe", "Asa Akira", "Eddie Huang", "Yoshi Obayashi", "Bobby Namba", "Maury Showbizawitz", "Veruca James", "Jada Stevens", "Jimmy Snuka", "Jim Duggan", "Roddy Piper", "André the Giant", "George Steele", "Salma Hayek", "Skin Diamond", "Persia Monir", "Rocky Roads", "Vanessa del Rio", "Iggy Azalea", "Emeril Lagasse", "David Chang", "Anthony Bourdain", "Nas", "Masaharu Morimoto", "Bobby Flay", "John Cusack", "Damien Hirst", "Nikita Khrushchev", "Fidel Castro", "Edward Norton", "LL Cool J", "Ryan Adams", "Eric Clapton"],
-  "places": ["Los Angeles", "New York", "Miami", "Portland", "Taiwan", "China", "Japan", "Korea", "Koreatown", "Mongolia", "Cuba", "Iran", "Cambodia"],
-  "works": ["DVDASA", "Fresh Off the Boat", "Epic Meal Time", "The Human Centipede", "This Ain't Iron Chef", "Training Day", "How Stella Got Her Groove Back", "Argo", "American History X", "Knight Rider", "Charles in Charge", "The Facts of Life", "Sledge Hammer!", "Alien Nation", "V", "Mama Said Knock You Out", "Wonderwall", "Tears in Heaven", "Represent"],
-  "organizations": ["Baohaus", "Vice", "TED", "Union Jack's", "MTV"],
-  "themes": ["Asian American identity", "representation burden", "immigrant families", "model-minority stereotype", "racial desire", "masculinity", "consent specificity", "pornography as work", "food and memory", "fame and trust", "creative kinship", "restaurant work", "celebrity access", "historical trivia"],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Eddie Huang",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Maury Showbizawitz",
+    "Veruca James",
+    "Jada Stevens",
+    "Jimmy Snuka",
+    "Jim Duggan",
+    "Roddy Piper",
+    "André the Giant",
+    "George Steele",
+    "Salma Hayek",
+    "Skin Diamond",
+    "Persia Monir",
+    "Rocky Roads",
+    "Vanessa del Rio",
+    "Iggy Azalea",
+    "Emeril Lagasse",
+    "David Chang",
+    "Anthony Bourdain",
+    "Nas",
+    "Masaharu Morimoto",
+    "Bobby Flay",
+    "John Cusack",
+    "Damien Hirst",
+    "Nikita Khrushchev",
+    "Fidel Castro",
+    "Edward Norton",
+    "LL Cool J",
+    "Ryan Adams",
+    "Eric Clapton"
+  ],
+  "places": [
+    "Los Angeles",
+    "New York",
+    "Miami",
+    "Portland",
+    "Taiwan",
+    "China",
+    "Japan",
+    "Korea",
+    "Koreatown",
+    "Mongolia",
+    "Cuba",
+    "Iran",
+    "Cambodia"
+  ],
+  "works": [
+    "DVDASA",
+    "Fresh Off the Boat",
+    "Epic Meal Time",
+    "The Human Centipede",
+    "This Ain't Iron Chef",
+    "Training Day",
+    "How Stella Got Her Groove Back",
+    "Argo",
+    "American History X",
+    "Knight Rider",
+    "Charles in Charge",
+    "The Facts of Life",
+    "Sledge Hammer!",
+    "Alien Nation",
+    "V",
+    "Mama Said Knock You Out",
+    "Wonderwall",
+    "Tears in Heaven",
+    "Represent"
+  ],
+  "organizations": [
+    "Baohaus",
+    "Vice",
+    "TED",
+    "Union Jack's",
+    "MTV"
+  ],
+  "themes": [
+    "Asian American identity",
+    "representation burden",
+    "immigrant families",
+    "model-minority stereotype",
+    "racial desire",
+    "masculinity",
+    "consent specificity",
+    "pornography as work",
+    "food and memory",
+    "fame and trust",
+    "creative kinship",
+    "restaurant work",
+    "celebrity access",
+    "historical trivia"
+  ],
   "connections": [
-    {"label": "Participation does not erase the moment consent changes", "note": "The Episode Fourteen recap supplies missing action-level context: Yoshi says Veruca was not ready when simulated contact became actual contact. That distinction prevents the archive from using her other explicit choices as blanket authorization."},
-    {"label": "Food is both cultural memory and public vehicle", "note": "Fritas, pork buns, onions, immigrant parents, Baohaus, and Fresh Off the Boat turn eating into autobiography. Cooking provides a form that can carry identity without pretending any one person represents an entire group."},
-    {"label": "Visibility creates access and an impossible constituency", "note": "Eddie, David, Asa, David Chang, and Anthony Bourdain are discussed as people whose visibility opens doors. The same visibility produces pressure to speak correctly for Asians, artists, chefs, immigrants, or sex workers who do not share one position."},
-    {"label": "Stereotype resistance can become another performance", "note": "The panel rejects submissive, cheap, model-minority, and sexually undesirable stereotypes, then describes overpaying, overtipping, aggression, fame, and sexual conquest as corrective proof. Refusal liberates them while also creating a new script to satisfy."},
-    {"label": "Creative kinship precedes collaboration", "note": "Eddie and David recognize parallel instincts in fashion, storytelling, appetite, and antagonism toward assigned roles. Their doppelgänger language is less about identical biography than immediate permission to be excessive around each other."},
-    {"label": "Pornography is repeatedly mistaken for unmediated truth", "note": "The Reverse Bang Bus and performer discussion show production, work, safety, and staging. The room nevertheless treats explicit visibility as proof of authentic preference, repeating the same error it makes when reading racialized bodies."},
-    {"label": "Private relationships are evidence only at the boundary supplied", "note": "Eddie discusses a girlfriend who knew him before increased fame and describes why timing matters. The archive keeps that relationship insight but does not infer or index her identity from profession clues."},
-    {"label": "Celebrity access encourages dangerous demonstrations of authenticity", "note": "The John Cusack and Damien Hirst sequence moves from cross-disciplinary curiosity to a proposed graffiti proof in gang territory. The story connects creative access, bravado, and the pressure to make authenticity physically costly."},
-    {"label": "Trivia exposes confidence more reliably than knowledge", "note": "Cold War, Iran, Cambodia, television, and music answers arrive through fragments, jokes, corrections, and guesses. Chapters preserve the game as performance rather than silently upgrading every claim into a historical fact."},
-    {"label": "Raw and editorial layers serve different truths", "note": "The raw layer keeps slurs, explicit language, contradiction, and uncertain words. The editorial layer corrects verified entities, labels claims, withholds weak speaker assignments and private identities, and removes only a demonstrable decoder hallucination."}
+    {
+      "label": "Participation does not erase the moment consent changes",
+      "note": "The Episode Fourteen recap supplies missing action-level context: Yoshi says Veruca was not ready when simulated contact became actual contact. That distinction prevents the archive from using her other explicit choices as blanket authorization."
+    },
+    {
+      "label": "Food is both cultural memory and public vehicle",
+      "note": "Fritas, pork buns, onions, immigrant parents, Baohaus, and Fresh Off the Boat turn eating into autobiography. Cooking provides a form that can carry identity without pretending any one person represents an entire group."
+    },
+    {
+      "label": "Visibility creates access and an impossible constituency",
+      "note": "Eddie, David, Asa, David Chang, and Anthony Bourdain are discussed as people whose visibility opens doors. The same visibility produces pressure to speak correctly for Asians, artists, chefs, immigrants, or sex workers who do not share one position."
+    },
+    {
+      "label": "Stereotype resistance can become another performance",
+      "note": "The panel rejects submissive, cheap, model-minority, and sexually undesirable stereotypes, then describes overpaying, overtipping, aggression, fame, and sexual conquest as corrective proof. Refusal liberates them while also creating a new script to satisfy."
+    },
+    {
+      "label": "Creative kinship precedes collaboration",
+      "note": "Eddie and David recognize parallel instincts in fashion, storytelling, appetite, and antagonism toward assigned roles. Their doppelgänger language is less about identical biography than immediate permission to be excessive around each other."
+    },
+    {
+      "label": "Pornography is repeatedly mistaken for unmediated truth",
+      "note": "The Reverse Bang Bus and performer discussion show production, work, safety, and staging. The room nevertheless treats explicit visibility as proof of authentic preference, repeating the same error it makes when reading racialized bodies."
+    },
+    {
+      "label": "Private relationships are evidence only at the boundary supplied",
+      "note": "Eddie discusses a girlfriend who knew him before increased fame and describes why timing matters. The archive keeps that relationship insight but does not infer or index her identity from profession clues."
+    },
+    {
+      "label": "Celebrity access encourages dangerous demonstrations of authenticity",
+      "note": "The John Cusack and Damien Hirst sequence moves from cross-disciplinary curiosity to a proposed graffiti proof in gang territory. The story connects creative access, bravado, and the pressure to make authenticity physically costly."
+    },
+    {
+      "label": "Trivia exposes confidence more reliably than knowledge",
+      "note": "Cold War, Iran, Cambodia, television, and music answers arrive through fragments, jokes, corrections, and guesses. Chapters preserve the game as performance rather than silently upgrading every claim into a historical fact."
+    },
+    {
+      "label": "Raw and editorial layers serve different truths",
+      "note": "The raw layer keeps slurs, explicit language, contradiction, and uncertain words. The editorial layer corrects verified entities, labels claims, withholds weak speaker assignments and private identities, and removes only a demonstrable decoder hallucination."
+    }
   ],
   "quality": {
     "transcript_state": "strong-searchable-draft-needs-correction-bake",
@@ -98,5 +436,7 @@
     "correction_fixture": "episode-015-correction-fixture.json",
     "content_note": "The episode contains explicit sexual discussion, pornography and sex-work discussion, racial and ethnic slurs, racialized sexual generalizations, consent and boundary violations, violent jokes, private relationship clues, contested historical claims, and graphic bodily material. Editorial summaries preserve context without endorsing claims or exposing private identities."
   },
-  "note": "Chapter titles and connections are editorial. Nine correction groups should be baked into derived text, and the terminal CastingWords hallucination should be removed. Exact quotation and named speaker turns require audio validation."
+  "note": "Chapter titles and connections are editorial. Nine correction groups should be baked into derived text, and the terminal CastingWords hallucination should be removed. Exact quotation and named speaker turns require audio validation.",
+  "description": "Episode Fifteen introduces Eddie Huang shortly before publication of Fresh Off the Boat and during production of its food-and-travel video series.",
+  "description_source": "Opening of the human-reviewed summary."
 }

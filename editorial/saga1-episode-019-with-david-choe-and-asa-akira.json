@@ -1,120 +1,489 @@
 {
   "summary": "Episode Nineteen is framed as a Marvel Team-Up between DVDASA and Yoshi Didn't, with Lilit Arvahi joining the core room. Fan mail, food sent by strangers, irritable-bowel claims, sex-robot proposals, and the new possibility that a trivia loser must look at Bobby's body establish recurring tensions between audience intimacy and distrust. A long discussion asks whether commercial handjobs count as sex, whether relationship rules can be made symmetrical, and why novelty and anonymity matter. Yoshi then describes suppressing tears, seeing his father cry once, his mother's removal of him and his brother from Japan, childhood fighting, and the cultural and family scripts that made male emotion frightening. David responds by offering therapy and other mental-health resources, then argues that Yoshi knows he self-sabotages creative opportunities and can no longer use ignorance as an explanation. Lilit distinguishes therapy from friendship, professional boundaries from social access, personality-disorder testing from general expertise, and advice from diagnosis. Relationship discussion connects marriage, projection, divorce, self-relationship, rebound fantasy, and the way tragic love stories avoid ordinary deterioration through death. Trivia covers Dragon: The Bruce Lee Story, Michael Mann films, Poison, and John Lennon before the group replaces the earlobe penalty with a visual punishment. Turn segmentation was deliberately skipped; named dialogue remains withheld pending independent speaker-range validation.",
   "chapters": [
-    {"t": 0, "title": "DVDASA meets Yoshi Didn't"},
-    {"t": 20, "title": "Lilit Arvahi and Yoshi Obayashi join"},
-    {"t": 42, "title": "A Marvel Team-Up for podcasts"},
-    {"t": 60, "title": "Lilit is called the star"},
-    {"t": 75, "title": "Informed comedy without David's interruptions"},
-    {"t": 100, "title": "The door, the room, and a threatened new trivia penalty"},
-    {"t": 140, "title": "David says he loves Bobby"},
-    {"t": 220, "title": "The audience sends food and mail"},
-    {"t": 320, "title": "Trusting strangers who know the show"},
-    {"t": 420, "title": "Packages become a contamination thought experiment"},
-    {"t": 520, "title": "Cake pops and the evidence of smell"},
-    {"t": 620, "title": "Eating bodies but distrusting fan food"},
-    {"t": 700, "title": "Lilit calls the distinction discriminatory"},
-    {"t": 820, "title": "Taste, fetish, and selective disgust"},
-    {"t": 960, "title": "Opening a backlog of fan mail"},
-    {"t": 1100, "title": "A poem is read into the room"},
-    {"t": 1240, "title": "A fan says IBS can be cured"},
-    {"t": 1255, "title": "Gluten, processed food, and probiotics remain a personal claim"},
-    {"t": 1320, "title": "Wi-Fi-operated sex robots"},
-    {"t": 1400, "title": "Technology as companionship and sexual substitution"},
-    {"t": 1510, "title": "Lilit is asked to define relationship limits"},
-    {"t": 1630, "title": "Does a commercial handjob count as sex?"},
-    {"t": 1760, "title": "The panel tries to make a universal rule"},
-    {"t": 1840, "title": "Would the same rule apply to a wife being touched?"},
-    {"t": 1940, "title": "Penetration, clitoral touch, and invented thresholds"},
-    {"t": 2050, "title": "Novelty and anonymity are part of the appeal"},
-    {"t": 2160, "title": "A partner cannot recreate being a stranger"},
-    {"t": 2290, "title": "Yoshi is asked about crying"},
-    {"t": 2400, "title": "Stopping tears through physical interruption"},
-    {"t": 2440, "title": "The only remembered time Yoshi's father cried"},
-    {"t": 2520, "title": "Male emotion and Japanese family scripts"},
-    {"t": 2600, "title": "Seeing a parent cry becomes traumatic"},
-    {"t": 2700, "title": "A family rupture in Japan"},
-    {"t": 2800, "title": "A mother removes Yoshi and his brother"},
-    {"t": 2910, "title": "Childhood fighting and the ban on tears"},
-    {"t": 2960, "title": "Mickey Mouse turns a painful memory comic"},
-    {"t": 3030, "title": "A proposed drawing of eight-year-old Yoshi"},
-    {"t": 3070, "title": "David shifts into a serious mental-health offer"},
-    {"t": 3140, "title": "Retreats, facilities, treatment, and therapy"},
-    {"t": 3240, "title": "Helping friends rather than abstract strangers"},
-    {"t": 3340, "title": "Care can become pressure"},
-    {"t": 3440, "title": "Joe Rogan is asked for advice about Yoshi"},
-    {"t": 3540, "title": "From psychopathic to merely creepy is framed as progress"},
-    {"t": 3600, "title": "Podcast-network offers and Vice pitches"},
-    {"t": 3700, "title": "Self-destructive artists and unrealized ability"},
-    {"t": 3820, "title": "David lists steps his friends will not take"},
-    {"t": 3920, "title": "Knowing the pattern removes one excuse"},
-    {"t": 4020, "title": "Does everyone deserve happiness?"},
-    {"t": 4100, "title": "Contentment versus happiness"},
-    {"t": 4200, "title": "Therapy, massage, and a Freudian slip"},
-    {"t": 4260, "title": "The room questions Lilit's credentials"},
-    {"t": 4270, "title": "Personality-disorder testing had a narrow scope"},
-    {"t": 4340, "title": "A therapist is not an all-purpose oracle"},
-    {"t": 4420, "title": "Professional boundaries and social relationships"},
-    {"t": 4510, "title": "Advice, diagnosis, and entertainment"},
-    {"t": 4620, "title": "Can a therapist treat a friend?"},
-    {"t": 4730, "title": "Marriage across generations"},
-    {"t": 4800, "title": "Divorce, options, and dissatisfaction"},
-    {"t": 4840, "title": "Projection creates a false object of love"},
-    {"t": 4890, "title": "Titanic works because Jack dies"},
-    {"t": 4920, "title": "Romeo and Juliet avoid ordinary marriage"},
-    {"t": 5000, "title": "Tragedy preserves an ideal by ending time"},
-    {"t": 5100, "title": "A lasting relationship must survive projection"},
-    {"t": 5220, "title": "The room speculates about whether Lilit wants marriage"},
-    {"t": 5340, "title": "Stress, body symptoms, and unsupported generalization"},
-    {"t": 5410, "title": "Lilit's boutique handbag job"},
-    {"t": 5460, "title": "Workplace proximity and relationship odds"},
-    {"t": 5475, "title": "Trivia With Bobby begins"},
-    {"t": 5510, "title": "Dragon: The Bruce Lee Story"},
-    {"t": 5523, "title": "Who played Linda Lee Cadwell?"},
-    {"t": 5530, "title": "Molly, Mary, and other wrong guesses"},
-    {"t": 5580, "title": "Lauren Holly is finally recovered"},
-    {"t": 5600, "title": "The interracial-family scene"},
-    {"t": 5650, "title": "Bruce Lee's San Francisco birth"},
-    {"t": 5670, "title": "Dishwashing and Jeet Kune Do"},
-    {"t": 5710, "title": "Michael Mann and Heat"},
-    {"t": 5727, "title": "The tobacco-industry clues for The Insider"},
-    {"t": 5775, "title": "Tom Cruise, Jamie Foxx, and Collateral"},
-    {"t": 5800, "title": "The proposed butthole penalty returns"},
-    {"t": 5835, "title": "Music trivia begins"},
-    {"t": 5855, "title": "Poison's Every Rose Has Its Thorn"},
-    {"t": 5887, "title": "Imagine is John Lennon, not the Beatles"},
-    {"t": 5929, "title": "Choosing between the lobe and the visual penalty"},
-    {"t": 5960, "title": "Bobby prepares and Lilit looks"},
-    {"t": 5980, "title": "The new punishment is declared a shared victory"},
-    {"t": 6000, "title": "Yoshi tweets immediately"},
-    {"t": 6030, "title": "Yoshi's sweetie habit"},
-    {"t": 6050, "title": "Yoshi Didn't offers Dave-free interruptions"},
-    {"t": 6092, "title": "Produced Namaste"},
-    {"t": 6116, "title": "Two separated vocals in the outro"}
+    {
+      "t": 0,
+      "title": "DVDASA meets Yoshi Didn't"
+    },
+    {
+      "t": 20,
+      "title": "Lilit Arvahi and Yoshi Obayashi join"
+    },
+    {
+      "t": 42,
+      "title": "A Marvel Team-Up for podcasts"
+    },
+    {
+      "t": 60,
+      "title": "Lilit is called the star"
+    },
+    {
+      "t": 75,
+      "title": "Informed comedy without David's interruptions"
+    },
+    {
+      "t": 100,
+      "title": "The door, the room, and a threatened new trivia penalty"
+    },
+    {
+      "t": 140,
+      "title": "David says he loves Bobby"
+    },
+    {
+      "t": 220,
+      "title": "The audience sends food and mail"
+    },
+    {
+      "t": 320,
+      "title": "Trusting strangers who know the show"
+    },
+    {
+      "t": 420,
+      "title": "Packages become a contamination thought experiment"
+    },
+    {
+      "t": 520,
+      "title": "Cake pops and the evidence of smell"
+    },
+    {
+      "t": 620,
+      "title": "Eating bodies but distrusting fan food"
+    },
+    {
+      "t": 700,
+      "title": "Lilit calls the distinction discriminatory"
+    },
+    {
+      "t": 820,
+      "title": "Taste, fetish, and selective disgust"
+    },
+    {
+      "t": 960,
+      "title": "Opening a backlog of fan mail"
+    },
+    {
+      "t": 1100,
+      "title": "A poem is read into the room"
+    },
+    {
+      "t": 1240,
+      "title": "A fan says IBS can be cured"
+    },
+    {
+      "t": 1255,
+      "title": "Gluten, processed food, and probiotics remain a personal claim"
+    },
+    {
+      "t": 1320,
+      "title": "Wi-Fi-operated sex robots"
+    },
+    {
+      "t": 1400,
+      "title": "Technology as companionship and sexual substitution"
+    },
+    {
+      "t": 1510,
+      "title": "Lilit is asked to define relationship limits"
+    },
+    {
+      "t": 1630,
+      "title": "Does a commercial handjob count as sex?"
+    },
+    {
+      "t": 1760,
+      "title": "The panel tries to make a universal rule"
+    },
+    {
+      "t": 1840,
+      "title": "Would the same rule apply to a wife being touched?"
+    },
+    {
+      "t": 1940,
+      "title": "Penetration, clitoral touch, and invented thresholds"
+    },
+    {
+      "t": 2050,
+      "title": "Novelty and anonymity are part of the appeal"
+    },
+    {
+      "t": 2160,
+      "title": "A partner cannot recreate being a stranger"
+    },
+    {
+      "t": 2290,
+      "title": "Yoshi is asked about crying"
+    },
+    {
+      "t": 2400,
+      "title": "Stopping tears through physical interruption"
+    },
+    {
+      "t": 2440,
+      "title": "The only remembered time Yoshi's father cried"
+    },
+    {
+      "t": 2520,
+      "title": "Male emotion and Japanese family scripts"
+    },
+    {
+      "t": 2600,
+      "title": "Seeing a parent cry becomes traumatic"
+    },
+    {
+      "t": 2700,
+      "title": "A family rupture in Japan"
+    },
+    {
+      "t": 2800,
+      "title": "A mother removes Yoshi and his brother"
+    },
+    {
+      "t": 2910,
+      "title": "Childhood fighting and the ban on tears"
+    },
+    {
+      "t": 2960,
+      "title": "Mickey Mouse turns a painful memory comic"
+    },
+    {
+      "t": 3030,
+      "title": "A proposed drawing of eight-year-old Yoshi"
+    },
+    {
+      "t": 3070,
+      "title": "David shifts into a serious mental-health offer"
+    },
+    {
+      "t": 3140,
+      "title": "Retreats, facilities, treatment, and therapy"
+    },
+    {
+      "t": 3240,
+      "title": "Helping friends rather than abstract strangers"
+    },
+    {
+      "t": 3340,
+      "title": "Care can become pressure"
+    },
+    {
+      "t": 3440,
+      "title": "Joe Rogan is asked for advice about Yoshi"
+    },
+    {
+      "t": 3540,
+      "title": "From psychopathic to merely creepy is framed as progress"
+    },
+    {
+      "t": 3600,
+      "title": "Podcast-network offers and Vice pitches"
+    },
+    {
+      "t": 3700,
+      "title": "Self-destructive artists and unrealized ability"
+    },
+    {
+      "t": 3820,
+      "title": "David lists steps his friends will not take"
+    },
+    {
+      "t": 3920,
+      "title": "Knowing the pattern removes one excuse"
+    },
+    {
+      "t": 4020,
+      "title": "Does everyone deserve happiness?"
+    },
+    {
+      "t": 4100,
+      "title": "Contentment versus happiness"
+    },
+    {
+      "t": 4200,
+      "title": "Therapy, massage, and a Freudian slip"
+    },
+    {
+      "t": 4260,
+      "title": "The room questions Lilit's credentials"
+    },
+    {
+      "t": 4270,
+      "title": "Personality-disorder testing had a narrow scope"
+    },
+    {
+      "t": 4340,
+      "title": "A therapist is not an all-purpose oracle"
+    },
+    {
+      "t": 4420,
+      "title": "Professional boundaries and social relationships"
+    },
+    {
+      "t": 4510,
+      "title": "Advice, diagnosis, and entertainment"
+    },
+    {
+      "t": 4620,
+      "title": "Can a therapist treat a friend?"
+    },
+    {
+      "t": 4730,
+      "title": "Marriage across generations"
+    },
+    {
+      "t": 4800,
+      "title": "Divorce, options, and dissatisfaction"
+    },
+    {
+      "t": 4840,
+      "title": "Projection creates a false object of love"
+    },
+    {
+      "t": 4890,
+      "title": "Titanic works because Jack dies"
+    },
+    {
+      "t": 4920,
+      "title": "Romeo and Juliet avoid ordinary marriage"
+    },
+    {
+      "t": 5000,
+      "title": "Tragedy preserves an ideal by ending time"
+    },
+    {
+      "t": 5100,
+      "title": "A lasting relationship must survive projection"
+    },
+    {
+      "t": 5220,
+      "title": "The room speculates about whether Lilit wants marriage"
+    },
+    {
+      "t": 5340,
+      "title": "Stress, body symptoms, and unsupported generalization"
+    },
+    {
+      "t": 5410,
+      "title": "Lilit's boutique handbag job"
+    },
+    {
+      "t": 5460,
+      "title": "Workplace proximity and relationship odds"
+    },
+    {
+      "t": 5475,
+      "title": "Trivia With Bobby begins"
+    },
+    {
+      "t": 5510,
+      "title": "Dragon: The Bruce Lee Story"
+    },
+    {
+      "t": 5523,
+      "title": "Who played Linda Lee Cadwell?"
+    },
+    {
+      "t": 5530,
+      "title": "Molly, Mary, and other wrong guesses"
+    },
+    {
+      "t": 5580,
+      "title": "Lauren Holly is finally recovered"
+    },
+    {
+      "t": 5600,
+      "title": "The interracial-family scene"
+    },
+    {
+      "t": 5650,
+      "title": "Bruce Lee's San Francisco birth"
+    },
+    {
+      "t": 5670,
+      "title": "Dishwashing and Jeet Kune Do"
+    },
+    {
+      "t": 5710,
+      "title": "Michael Mann and Heat"
+    },
+    {
+      "t": 5727,
+      "title": "The tobacco-industry clues for The Insider"
+    },
+    {
+      "t": 5775,
+      "title": "Tom Cruise, Jamie Foxx, and Collateral"
+    },
+    {
+      "t": 5800,
+      "title": "The proposed butthole penalty returns"
+    },
+    {
+      "t": 5835,
+      "title": "Music trivia begins"
+    },
+    {
+      "t": 5855,
+      "title": "Poison's Every Rose Has Its Thorn"
+    },
+    {
+      "t": 5887,
+      "title": "Imagine is John Lennon, not the Beatles"
+    },
+    {
+      "t": 5929,
+      "title": "Choosing between the lobe and the visual penalty"
+    },
+    {
+      "t": 5960,
+      "title": "Bobby prepares and Lilit looks"
+    },
+    {
+      "t": 5980,
+      "title": "The new punishment is declared a shared victory"
+    },
+    {
+      "t": 6000,
+      "title": "Yoshi tweets immediately"
+    },
+    {
+      "t": 6030,
+      "title": "Yoshi's sweetie habit"
+    },
+    {
+      "t": 6050,
+      "title": "Yoshi Didn't offers Dave-free interruptions"
+    },
+    {
+      "t": 6092,
+      "title": "Produced Namaste"
+    },
+    {
+      "t": 6116,
+      "title": "Two separated vocals in the outro"
+    }
   ],
-  "people": ["David Choe", "Asa Akira", "Yoshi Obayashi", "Bobby Namba", "Lilit Arvahi", "Joe Rogan", "Bruce Lee", "Jason Scott Lee", "Linda Lee Cadwell", "Lauren Holly", "Michael Mann", "Russell Crowe", "Al Pacino", "Tom Cruise", "Jamie Foxx", "The Notorious B.I.G.", "Poison", "John Lennon"],
-  "places": ["Los Angeles", "Japan", "San Francisco"],
-  "works": ["DVDASA", "Yoshi Didn't", "Marvel Team-Up", "Dragon: The Bruce Lee Story", "Heat", "The Insider", "Collateral", "Every Rose Has Its Thorn", "Imagine", "Titanic", "Romeo and Juliet"],
-  "organizations": ["Vice", "7-Eleven", "iTunes"],
-  "themes": ["audience intimacy", "fan mail", "food trust", "health claims", "technology and companionship", "commercial sexual contact", "relationship symmetry", "male emotion", "Japanese family scripts", "childhood memory", "mental-health help", "care versus pressure", "creative self-sabotage", "therapy boundaries", "projection", "marriage", "tragic love", "trivia"],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lilit Arvahi",
+    "Joe Rogan",
+    "Bruce Lee",
+    "Jason Scott Lee",
+    "Linda Lee Cadwell",
+    "Lauren Holly",
+    "Michael Mann",
+    "Russell Crowe",
+    "Al Pacino",
+    "Tom Cruise",
+    "Jamie Foxx",
+    "The Notorious B.I.G.",
+    "Poison",
+    "John Lennon"
+  ],
+  "places": [
+    "Los Angeles",
+    "Japan",
+    "San Francisco"
+  ],
+  "works": [
+    "DVDASA",
+    "Yoshi Didn't",
+    "Marvel Team-Up",
+    "Dragon: The Bruce Lee Story",
+    "Heat",
+    "The Insider",
+    "Collateral",
+    "Every Rose Has Its Thorn",
+    "Imagine",
+    "Titanic",
+    "Romeo and Juliet"
+  ],
+  "organizations": [
+    "Vice",
+    "7-Eleven",
+    "iTunes"
+  ],
+  "themes": [
+    "audience intimacy",
+    "fan mail",
+    "food trust",
+    "health claims",
+    "technology and companionship",
+    "commercial sexual contact",
+    "relationship symmetry",
+    "male emotion",
+    "Japanese family scripts",
+    "childhood memory",
+    "mental-health help",
+    "care versus pressure",
+    "creative self-sabotage",
+    "therapy boundaries",
+    "projection",
+    "marriage",
+    "tragic love",
+    "trivia"
+  ],
   "connections": [
-    {"label": "A crossover makes the production differences visible", "note": "DVDASA frames Yoshi Didn't as similarly explicit but more orderly and less interrupted. Lilit and Yoshi bring therapeutic and comedic structure into a room that repeatedly turns structure into spectacle."},
-    {"label": "Audience intimacy produces both nourishment and suspicion", "note": "Fans send food, health advice, poems, technology fantasies, and affection. The hosts want the relationship but cannot verify the sender's handling, expertise, or motives; direct community does not erase provenance."},
-    {"label": "Symmetry is a useful test but not a complete relationship rule", "note": "The handjob debate asks whether equivalent contact by a wife should also be permitted. Gender reversal exposes double standards, yet consent still depends on the actual couple rather than a universal taxonomy of acts."},
-    {"label": "Crying threatens an inherited model of fatherhood", "note": "Yoshi's single memory of his father crying destabilizes a lifelong image of male passivity and control. The distress is tied not only to death but to seeing an authority violate the family's emotional script."},
-    {"label": "Care becomes coercive when the helper owns the timetable", "note": "David offers costly resources and sincerely wants Yoshi to benefit, then argues that knowing one's pattern eliminates excuses. The same care can feel like pressure when readiness and method belong to the helper."},
-    {"label": "Creative infrastructure cannot supply permission to succeed", "note": "Podcast networks, Vice pitches, peers, advice, and concrete career steps are available. David argues that self-sabotage survives because opportunity does not automatically change the belief that one deserves an outcome."},
-    {"label": "A therapist's scope is part of the evidence", "note": "Lilit had administered a personality-disorder exercise, not claimed expertise in every relationship, sexual, or medical question. The episode's credential debate demonstrates why a reader must display role, context, and limits beside advice."},
-    {"label": "Tragic romance stops before projection can decay", "note": "Titanic and Romeo and Juliet are used to argue that death preserves ideal love by preventing aging, boredom, betrayal, and negotiation. The insight is narratively sharp even when the room overgeneralizes it to relationships."},
-    {"label": "Trivia is valuable because wrong retrieval remains visible", "note": "Lauren Holly emerges through a chain of Molly and Mary guesses; The Insider through several inside titles; Imagine through a Beatles correction. A polished answer-only transcript would delete the actual cognitive event."},
-    {"label": "Transcript quality and speaker validation remain separate", "note": "Episode Nineteen's words are strongly searchable and its 2,053 fixed-window identity embeddings are intact. Turn segmentation was deliberately skipped. The product must represent text quality, configured stages, and held-out speaker evidence as separate states rather than one confidence badge."}
+    {
+      "label": "A crossover makes the production differences visible",
+      "note": "DVDASA frames Yoshi Didn't as similarly explicit but more orderly and less interrupted. Lilit and Yoshi bring therapeutic and comedic structure into a room that repeatedly turns structure into spectacle."
+    },
+    {
+      "label": "Audience intimacy produces both nourishment and suspicion",
+      "note": "Fans send food, health advice, poems, technology fantasies, and affection. The hosts want the relationship but cannot verify the sender's handling, expertise, or motives; direct community does not erase provenance."
+    },
+    {
+      "label": "Symmetry is a useful test but not a complete relationship rule",
+      "note": "The handjob debate asks whether equivalent contact by a wife should also be permitted. Gender reversal exposes double standards, yet consent still depends on the actual couple rather than a universal taxonomy of acts."
+    },
+    {
+      "label": "Crying threatens an inherited model of fatherhood",
+      "note": "Yoshi's single memory of his father crying destabilizes a lifelong image of male passivity and control. The distress is tied not only to death but to seeing an authority violate the family's emotional script."
+    },
+    {
+      "label": "Care becomes coercive when the helper owns the timetable",
+      "note": "David offers costly resources and sincerely wants Yoshi to benefit, then argues that knowing one's pattern eliminates excuses. The same care can feel like pressure when readiness and method belong to the helper."
+    },
+    {
+      "label": "Creative infrastructure cannot supply permission to succeed",
+      "note": "Podcast networks, Vice pitches, peers, advice, and concrete career steps are available. David argues that self-sabotage survives because opportunity does not automatically change the belief that one deserves an outcome."
+    },
+    {
+      "label": "A therapist's scope is part of the evidence",
+      "note": "Lilit had administered a personality-disorder exercise, not claimed expertise in every relationship, sexual, or medical question. The episode's credential debate demonstrates why a reader must display role, context, and limits beside advice."
+    },
+    {
+      "label": "Tragic romance stops before projection can decay",
+      "note": "Titanic and Romeo and Juliet are used to argue that death preserves ideal love by preventing aging, boredom, betrayal, and negotiation. The insight is narratively sharp even when the room overgeneralizes it to relationships."
+    },
+    {
+      "label": "Trivia is valuable because wrong retrieval remains visible",
+      "note": "Lauren Holly emerges through a chain of Molly and Mary guesses; The Insider through several inside titles; Imagine through a Beatles correction. A polished answer-only transcript would delete the actual cognitive event."
+    },
+    {
+      "label": "Transcript quality and speaker validation remain separate",
+      "note": "Episode Nineteen's words are strongly searchable and its 2,053 fixed-window identity embeddings are intact. Turn segmentation was deliberately skipped. The product must represent text quality, configured stages, and held-out speaker evidence as separate states rather than one confidence badge."
+    }
   ],
-  "content_warnings": ["explicit sexual discussion", "commercial sexual services", "family separation", "childhood violence", "mental-health discussion", "unverified health claims", "ableist slurs", "coerced visual exposure"],
+  "content_warnings": [
+    "explicit sexual discussion",
+    "commercial sexual services",
+    "family separation",
+    "childhood violence",
+    "mental-health discussion",
+    "unverified health claims",
+    "ableist slurs",
+    "coerced visual exposure"
+  ],
   "quality": {
     "transcript_state": "strong-searchable-draft-needs-name-and-title-bake",
     "speaker_state": "five-person episode; segmentation deliberately skipped, 2,053 fixed-window identity embeddings intact, named turns withheld pending independent validation",
     "correction_fixture": "episode-019-correction-fixture.json",
     "content_note": "The episode contains explicit sexual and bodily language, food contamination fears, unverified IBS advice, sex-robot discussion, commercial sexual contact, relationship double standards, slurs, childhood violence, parental separation, suppressed emotion, mental-health treatment, therapy credential challenges, speculation about private relationships, disability slurs, and coerced visual exposure as a trivia punishment. Editorial summaries preserve participant accounts without diagnosing, endorsing health claims, or identifying private people."
   },
-  "note": "Chapter titles and connections are editorial. Thirteen correction records should be baked into derived text. Zero turns means segmentation was not requested; no regeneration is needed. Speaker names still require independent held-out validation."
+  "note": "Chapter titles and connections are editorial. Thirteen correction records should be baked into derived text. Zero turns means segmentation was not requested; no regeneration is needed. Speaker names still require independent held-out validation.",
+  "description": "Episode Nineteen is framed as a Marvel Team-Up between DVDASA and Yoshi Didn't, with Lilit Arvahi joining the core room.",
+  "description_source": "Opening of the human-reviewed summary."
 }

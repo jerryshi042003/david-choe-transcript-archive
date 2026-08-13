@@ -1,22 +1,78 @@
 {
   "summary": "The third Ranch blueprint begins in a heightened state of isolation and moves from killing and attempting to cook a rat into a broad manual about generosity, business, survival, observation, altered states, and making oneself the product. David Choe’s advice is often practical—give work away strategically, negotiate without desperation, learn to live cheaply, watch patiently, and report what others miss—but it also contains intentionally provocative and harmful formulations that need context rather than conversion into clean aphorisms.",
   "chapters": [
-    {"t": 0, "title": "Entering the Choe Matrix: Part Three"},
-    {"t": 600, "title": "The perfect circle and the dead rat"},
-    {"t": 1200, "title": "Giving when you think you have nothing"},
-    {"t": 1800, "title": "Let go lightly; give possessions away now"},
-    {"t": 2400, "title": "Gambling, desperation, and negotiating as your own manager"},
-    {"t": 2607, "title": "The drug is you: giving creative work away"},
-    {"t": 3000, "title": "Pricing, persistence, and the danger inside “never take no”"},
-    {"t": 3600, "title": "Dumpster diving and manufactured hardship"},
-    {"t": 4200, "title": "The artist as patient observer and reporter"},
-    {"t": 4800, "title": "Impatience, disconnection, and altered states"},
-    {"t": 5400, "title": "Last blueprint part for a while; guitar sign-off"}
+    {
+      "t": 0,
+      "title": "Entering the Choe Matrix: Part Three"
+    },
+    {
+      "t": 600,
+      "title": "The perfect circle and the dead rat"
+    },
+    {
+      "t": 1200,
+      "title": "Giving when you think you have nothing"
+    },
+    {
+      "t": 1800,
+      "title": "Let go lightly; give possessions away now"
+    },
+    {
+      "t": 2400,
+      "title": "Gambling, desperation, and negotiating as your own manager"
+    },
+    {
+      "t": 2607,
+      "title": "The drug is you: giving creative work away"
+    },
+    {
+      "t": 3000,
+      "title": "Pricing, persistence, and the danger inside “never take no”"
+    },
+    {
+      "t": 3600,
+      "title": "Dumpster diving and manufactured hardship"
+    },
+    {
+      "t": 4200,
+      "title": "The artist as patient observer and reporter"
+    },
+    {
+      "t": 4800,
+      "title": "Impatience, disconnection, and altered states"
+    },
+    {
+      "t": 5400,
+      "title": "Last blueprint part for a while; guitar sign-off"
+    }
   ],
-  "people": ["David Choe", "Bill Poon", "Kiefer Sutherland"],
-  "places": ["the Ranch", "Los Angeles", "Big Bear"],
-  "works": ["DVDASA", "The Poon Report", "24"],
-  "themes": ["isolation", "generosity", "detachment", "negotiation", "creative work", "pricing", "survival", "observation", "altered states", "risk"],
+  "people": [
+    "David Choe",
+    "Bill Poon",
+    "Kiefer Sutherland"
+  ],
+  "places": [
+    "the Ranch",
+    "Los Angeles",
+    "Big Bear"
+  ],
+  "works": [
+    "DVDASA",
+    "The Poon Report",
+    "24"
+  ],
+  "themes": [
+    "isolation",
+    "generosity",
+    "detachment",
+    "negotiation",
+    "creative work",
+    "pricing",
+    "survival",
+    "observation",
+    "altered states",
+    "risk"
+  ],
   "connections": [
     {
       "label": "The trilogy closes its own loop",
@@ -37,5 +93,7 @@
     "correction_fixture": "ranch-part-three-correction-fixture.json",
     "content_note": "Provocative statements are described in context and are not editorially converted into recommendations."
   },
-  "note": "Chapter labels, summary, themes, and connections are editorial commentary. The cleaner incorrectly removed one complete sentence at 43:44; the correction fixture restores it. Exact quotations require checking the recording."
+  "note": "Chapter labels, summary, themes, and connections are editorial commentary. The cleaner incorrectly removed one complete sentence at 43:44; the correction fixture restores it. Exact quotations require checking the recording.",
+  "description": "The third Ranch blueprint begins in a heightened state of isolation and moves from killing and attempting to cook a rat into a broad manual about generosity, business, survival, observation, altered states, and making oneself the product.",
+  "description_source": "Opening of the human-reviewed summary."
 }

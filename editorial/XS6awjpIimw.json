@@ -713,5 +713,7 @@
   "speaker_policy": {
     "status": "all line-level turns unresolved; named turns withheld",
     "reason": "The program visibly establishes David Choe, Howard Stern, Robin Quivers and staff context, but the extracted captions contain zero publisher speaker prefixes across 2,826 segments. The artifact includes pre-interview briefing, formal interview, quotation, jokes, possible overlap, a farewell, post-interview staff speech and an abrupt ending. Topic ownership, grammar, visual familiarity and adjacency are insufficient. Named turns require independently held-out, non-overlapping acoustic/video validation."
-  }
+  },
+  "description": "A third-party capture preserves a long Howard Stern interview with David Choe and a post-interview green-room painting sequence, but begins and ends mid-sentence and is not an official complete broadcast master.",
+  "description_source": "Opening of the human-reviewed summary."
 }

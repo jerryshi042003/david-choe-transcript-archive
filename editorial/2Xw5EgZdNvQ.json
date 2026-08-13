@@ -1,69 +1,1984 @@
 {
-  "episode_id":"2Xw5EgZdNvQ",
-  "title":"Joe Rogan Experience #563 - David Choe",
-  "reviewed_on":"2026-07-31",
-  "summary":"A 2014 conversation about creative independence, public speech, work, health, money, sex, race and the consequences of turning private provocation into a broadcast. David Choe begins with Hong Dynasty and the prior proposed MMA fight, then recounts making Steve Lee wrestle for continued employment, filming paid-sex travel in Macau, diabetes and heavy-metal fears, disordered eating, Critter's training and injury, Regenokine and Asian-American male representation. Choe and Joe Rogan compare adolescent drawing, watercolor, publishing, television crews and independent media before tracing Choe's commercial-art experience on Vertical Limit and 28 Days. The second half covers Thumbs Up in Detroit, gambling treatment, private sexual and financial negotiations and an extended response to the DVDASA sexual-violence controversy. Choe denies the underlying event happened as narrated, says he exaggerated, accepts responsibility for publishing a story that sounded horrible, apologizes in part and also minimizes; Rogan states he cannot know the underlying fact and explains why listeners understood the account as assault. A separate Las Vegas story contains Steve Lee's direct refusal before Choe reports touching him; it is not absorbed into the earlier controversy. The episode closes with DVDASA production, doxxing, an unmade deceptive Girlfriend Experience proposal, the 2012 Reddit AMA, creative misery, sex-work/labor claims, han and ethnic essentialism, stand-up experiments and Bobby Lee recollections. Every explicit, offensive, contradictory and self-critical idea remains. Corrections, factual context, privacy, consent, medical caution and publication restrictions are separate metadata. No named line-level turns are published.",
-  "quality":{"raw_segments":4293,"clean_segments":4293,"raw_words_approx":33440,"clean_words_approx":33440,"duration_seconds":9094.479,"accepted_context_decisions":297,"chapters":271,"connections":30,"content_warnings":32,"identity_windows":0,"named_turns":0,"publisher_labeled_speakers":0,"cleaning_edits":0,"cleaning_net_word_delta":0,"public_restriction_spans":116},
-  "chapters":[
-    {"t":4,"title":"Hong Dynasty and short-form video"},{"t":27,"title":"public Facebook wealth"},{"t":79,"title":"prior fight proposal revisited"},{"t":112,"title":"Steve Lee and almost-state-champion story"},{"t":134,"title":"Fat Sal's and employment"},{"t":148,"title":"wrestling for continued work"},{"t":206,"title":"Macau Brothers assignment"},{"t":229,"title":"Bill Poon transportation account"},{"t":286,"title":"filmed paid-sex project"},{"t":301,"title":"undefined grappling rules"},{"t":374,"title":"Choe loses to Steve"},{"t":410,"title":"MMA commitment versus dabbling"},{"t":473,"title":"diabetes self-report"},{"t":483,"title":"diet, exercise and remission wording"},{"t":530,"title":"hiring and firing friends"},{"t":583,"title":"racialized hiring account"},{"t":636,"title":"Critter as trainer and bodyguard"},{"t":663,"title":"wealth and restaurant pleasure"},{"t":704,"title":"sushi and mercury"},{"t":741,"title":"sardines and arsenic"},{"t":778,"title":"memory and hair-loss attribution"},{"t":810,"title":"permission for forced training"},{"t":868,"title":"rib and neck injuries"},{"t":928,"title":"professional food preparation"},{"t":949,"title":"prepared-meal failure"},{"t":1018,"title":"chewing and spitting"},{"t":1117,"title":"sexualized trainer proposal"},{"t":1133,"title":"eating-disorder stereotypes"},{"t":1182,"title":"Good Smile blood-treatment claim"},{"t":1214,"title":"Regenokine"},{"t":1245,"title":"Dana White and Ménière's disease"},{"t":1284,"title":"historic Santa Monica clinic"},{"t":1301,"title":"future technology and behavior"},{"t":1332,"title":"healthy eating and cheat days"},{"t":1360,"title":"explicit breakfast joke"},{"t":1398,"title":"vegetable-shake argument"},{"t":1481,"title":"artists and indulgence"},{"t":1504,"title":"first UCLA performance"},{"t":1533,"title":"DVDASA platform moderation"},{"t":1545,"title":"wiki-like fan editing"},{"t":1587,"title":"show pause and racial essay"},{"t":1604,"title":"Asian-American male sexuality"},{"t":1693,"title":"meeting Critter on adult-film set"},{"t":1771,"title":"Romeo Must Die and Rush Hour"},{"t":1870,"title":"Steven Yeun example"},{"t":1889,"title":"vid.me plug"},{"t":1943,"title":"Rogan's adolescent drawings"},{"t":1992,"title":"discouraging art teacher"},{"t":2008,"title":"Conan and fairy-tale drawings"},{"t":2038,"title":"Rogan leaves art for fighting"},{"t":2078,"title":"school humiliation and wrestling"},{"t":2162,"title":"cross-hatching and ballpoint pen"},{"t":2217,"title":"spray paint, acrylic and oil"},{"t":2249,"title":"watercolor as irreversible medium"},{"t":2264,"title":"300-page watercolor book"},{"t":2293,"title":"publisher bidding and requested cuts"},{"t":2344,"title":"self-publication"},{"t":2384,"title":"freedom and approval"},{"t":2440,"title":"Parts Unknown and VICE on HBO"},{"t":2470,"title":"television offers and unfree executives"},{"t":2517,"title":"marriage, children and independence"},{"t":2584,"title":"production infrastructure versus control"},{"t":2644,"title":"manager proposal"},{"t":2697,"title":"reluctant entrepreneurship"},{"t":2712,"title":"big-budget film disappointment"},{"t":2737,"title":"advertisers and Fear Factor"},{"t":2781,"title":"podcast independence"},{"t":2817,"title":"UFC versus uncensored work"},{"t":2858,"title":"Fight Companion"},{"t":2923,"title":"using fuck-you money"},{"t":2969,"title":"Dave Chappelle example"},{"t":3050,"title":"network incentives"},{"t":3080,"title":"DVDASA no-profit doctrine"},{"t":3117,"title":"lottery fantasies and enough"},{"t":3155,"title":"artist control and criticism"},{"t":3217,"title":"refusal to sell the podcast"},{"t":3276,"title":"media hierarchy"},{"t":3317,"title":"painting as direct expression"},{"t":3356,"title":"wealth expands media opportunities"},{"t":3402,"title":"Rogan's art teacher and diaper example"},{"t":3444,"title":"leaving high-school art"},{"t":3466,"title":"portfolio day"},{"t":3489,"title":"CalArts event recollection"},{"t":3513,"title":"bathroom approach to art reviewer"},{"t":3544,"title":"Beverly Hills agency"},{"t":3594,"title":"Vertical Limit resolves avalanche film"},{"t":3624,"title":"Chris O'Donnell and Scott Glenn poster"},{"t":3678,"title":"28 Days"},{"t":3691,"title":"quitting commercial art"},{"t":3746,"title":"Drew Struzan-like muscle memory"},{"t":3806,"title":"Larry Flynt publication work"},{"t":3842,"title":"unique work can make money"},{"t":3888,"title":"Rogan's child's landscape"},{"t":3933,"title":"Hitler's paintings"},{"t":4017,"title":"Hitler medication history"},{"t":4088,"title":"Jack Kevorkian art"},{"t":4098,"title":"George W. Bush art"},{"t":4170,"title":"art as therapeutic creation"},{"t":4237,"title":"advice to young people"},{"t":4305,"title":"IHOP work ethic"},{"t":4348,"title":"chefs and craft"},{"t":4382,"title":"MAD Symposium"},{"t":4447,"title":"student debt"},{"t":4500,"title":"choosing a life at eighteen"},{"t":4529,"title":"immigrant-family pressure"},{"t":4555,"title":"North Korea joke corrected"},{"t":4577,"title":"Thumbs Up Season 4 status"},{"t":4605,"title":"hitchhiking and near-assault self-report"},{"t":4630,"title":"Harry Kim visual reference"},{"t":4642,"title":"displayed $100,000"},{"t":4666,"title":"MGM Grand Detroit"},{"t":4703,"title":"hiding casino winnings"},{"t":4731,"title":"game versus direct giving"},{"t":4775,"title":"hoarding and small home"},{"t":4796,"title":"gambling treatment and heart attack"},{"t":4815,"title":"raised blackjack limits"},{"t":4833,"title":"Vegas high-roller period"},{"t":4865,"title":"$10,000 private sexual offer"},{"t":4903,"title":"watercolor book and private messages"},{"t":4932,"title":"alleged billionaire exchange"},{"t":5002,"title":"money image and rejection"},{"t":5022,"title":"later inquiry"},{"t":5032,"title":"changed offer"},{"t":5130,"title":"later sex and declined payment"},{"t":5153,"title":"time and relationships as cost"},{"t":5170,"title":"DVDASA controversy introduced"},{"t":5184,"title":"Rogan summarizes published account"},{"t":5209,"title":"VICE fact-check comparison"},{"t":5243,"title":"Choe says he fucked up"},{"t":5277,"title":"self-disclosure without a line"},{"t":5303,"title":"reaction-seeking question"},{"t":5333,"title":"third parties object to publication"},{"t":5342,"title":"guest edit requests"},{"t":5352,"title":"identity-masking advice"},{"t":5399,"title":"exaggeration to regain attention"},{"t":5401,"title":"responsibility for telling it that way"},{"t":5411,"title":"Choe denial"},{"t":5466,"title":"manager recommended cutting account"},{"t":5477,"title":"publication despite warning"},{"t":5493,"title":"Stern and Walters origins of DVDASA"},{"t":5518,"title":"no-victim minimization"},{"t":5534,"title":"private-woman claim"},{"t":5547,"title":"resistance myth"},{"t":5562,"title":"provocation and tired-room explanation"},{"t":5604,"title":"listener perspective and rape culture"},{"t":5623,"title":"Rogan states uncertainty"},{"t":5650,"title":"Rogan criticizes narration"},{"t":5666,"title":"Choe sees listeners' point"},{"t":5671,"title":"sounds horrible on replay"},{"t":5676,"title":"partial apology"},{"t":5717,"title":"Patrice O'Neal and failed provocation"},{"t":5743,"title":"responsibility beyond private banter"},{"t":5759,"title":"Asa Akira and room norms"},{"t":5805,"title":"Macau Brothers returns"},{"t":5810,"title":"Mangchi and Steve Lee"},{"t":5840,"title":"Vegas sexual encounter"},{"t":5881,"title":"filming for Steve"},{"t":5918,"title":"direct exit-only refusal"},{"t":5922,"title":"reported touching after refusal"},{"t":5931,"title":"homophobic license joke"},{"t":5950,"title":"Bill Poon sexual-health disclosure"},{"t":5991,"title":"unmade Girlfriend Experience proposal"},{"t":6011,"title":"planned payment deception"},{"t":6024,"title":"closed-room normalization"},{"t":6094,"title":"artist persona and public limits"},{"t":6119,"title":"unwanted touching directed at Choe"},{"t":6149,"title":"later pleasure does not erase refusal"},{"t":6174,"title":"quoted rapist provocation and denial"},{"t":6237,"title":"harm of public label"},{"t":6248,"title":"Rogan challenges certainty"},{"t":6260,"title":"responsibility for what was published"},{"t":6281,"title":"boundary pushing versus harm"},{"t":6328,"title":"Vegas cash in pillowcase"},{"t":6355,"title":"found cash in hoarded home"},{"t":6413,"title":"cross-country contest mechanics"},{"t":6441,"title":"Critter's Cross Country Cash Contest"},{"t":6483,"title":"DHS color-coded threat system"},{"t":6511,"title":"why releases paused"},{"t":6564,"title":"fan doxxing of private women"},{"t":6606,"title":"Big Bear location complaint"},{"t":6659,"title":"taking a public break"},{"t":6677,"title":"unreleased episode backlog"},{"t":6710,"title":"persona and unsavory attention"},{"t":6753,"title":"critics, targets and violence"},{"t":6787,"title":"martial arts and character"},{"t":6812,"title":"Velasquez and Lesnar example"},{"t":6833,"title":"humiliation as resilience"},{"t":6871,"title":"growth after controversy"},{"t":6880,"title":"virtual-rapist label"},{"t":6893,"title":"learning to perform publicly"},{"t":6962,"title":"Bobby Lee and dark private jokes"},{"t":6983,"title":"broadcast invites strangers"},{"t":7010,"title":"proposal for context review"},{"t":7044,"title":"psychiatric-facility setting"},{"t":7077,"title":"Saga 2 page"},{"t":7088,"title":"Ranch Part One and Sardines"},{"t":7116,"title":"censored and uncensored editions"},{"t":7147,"title":"lawyer-review alternative"},{"t":7167,"title":"Mangchi lyric and father's objection"},{"t":7200,"title":"setting is not a disclaimer"},{"t":7247,"title":"Facebook wealth and work"},{"t":7288,"title":"money before Facebook"},{"t":7321,"title":"public wealth and requests"},{"t":7353,"title":"clues rather than hidden cash"},{"t":7381,"title":"November 2 event"},{"t":7388,"title":"2012 Reddit AMA"},{"t":7411,"title":"twenty-four-hour video response"},{"t":7447,"title":"distributed platform copies"},{"t":7457,"title":"removals and suppression perception"},{"t":7494,"title":"announced new marathon"},{"t":7561,"title":"chaos as chosen life"},{"t":7580,"title":"manufactured misery"},{"t":7608,"title":"how much Choe paints"},{"t":7621,"title":"Japan and China isolation"},{"t":7640,"title":"cold, offline creative environment"},{"t":7670,"title":"attention versus sustained drawing"},{"t":7693,"title":"creation and sex"},{"t":7716,"title":"does great art require misery"},{"t":7723,"title":"Rogan rejects requirement"},{"t":7737,"title":"Choe's rejection-driven work"},{"t":7785,"title":"Rogan's enlightenment trap"},{"t":7811,"title":"warehouse versus comfort"},{"t":7844,"title":"comfort-kills-creativity thesis"},{"t":7858,"title":"Asa Akira and work identity"},{"t":7870,"title":"memory-gap speculation"},{"t":7888,"title":"declined therapy offer"},{"t":7902,"title":"adaptation and stable states"},{"t":7922,"title":"paid sex instead of relationships"},{"t":7952,"title":"labor, money and affection"},{"t":8028,"title":"blanket voluntariness claim"},{"t":8041,"title":"sex-work legal policy"},{"t":8052,"title":"offers to acquaintances"},{"t":8092,"title":"time and relationship cost"},{"t":8128,"title":"Chris Rock and being first"},{"t":8149,"title":"Asian representation burden"},{"t":8179,"title":"opposition as identity"},{"t":8241,"title":"palm-reader anecdote"},{"t":8285,"title":"Larry David and Woody Allen influence"},{"t":8311,"title":"Korean conflict stereotype"},{"t":8322,"title":"han as cultural concept"},{"t":8324,"title":"genetic anger claim"},{"t":8327,"title":"adopted child used as evidence"},{"t":8346,"title":"David Chang comparison"},{"t":8376,"title":"Korea-not-an-island correction"},{"t":8380,"title":"invasion and innate-hate theory"},{"t":8427,"title":"private physician-athlete friend"},{"t":8464,"title":"ethnicity and comedy"},{"t":8478,"title":"Bobby Lee and Ken Jeong"},{"t":8507,"title":"persecution-comedy theory"},{"t":8514,"title":"Stern, Seinfeld and David"},{"t":8561,"title":"Rogan encourages stand-up"},{"t":8610,"title":"drawing during podcast"},{"t":8649,"title":"humiliation as no-lose experiment"},{"t":8688,"title":"UCLA invitation"},{"t":8731,"title":"choosing stand-up over lecture"},{"t":8753,"title":"Hawaii show with Bobby Lee"},{"t":8801,"title":"threat to perform Bobby's act"},{"t":8813,"title":"Bobby refuses"},{"t":8833,"title":"Choe agrees not to copy"},{"t":8858,"title":"improvising with Steve"},{"t":8892,"title":"Rogan first meets Bobby"},{"t":8904,"title":"Comedy Store La Jolla"},{"t":8914,"title":"strip-club confrontation"},{"t":8930,"title":"appearance-based homicide guess"},{"t":8959,"title":"Jimmy Shubert and escape"},{"t":8988,"title":"Mexico drug-and-knife recollection"},{"t":9017,"title":"do not lose rebellion"},{"t":9021,"title":"DVDASA and contest close"},{"t":9030,"title":"closing controversy reflection"},{"t":9054,"title":"episode and book claims"},{"t":9077,"title":"diabetes and do-not-change farewell"}
+  "episode_id": "2Xw5EgZdNvQ",
+  "title": "Joe Rogan Experience #563 - David Choe",
+  "reviewed_on": "2026-07-31",
+  "summary": "A 2014 conversation about creative independence, public speech, work, health, money, sex, race and the consequences of turning private provocation into a broadcast. David Choe begins with Hong Dynasty and the prior proposed MMA fight, then recounts making Steve Lee wrestle for continued employment, filming paid-sex travel in Macau, diabetes and heavy-metal fears, disordered eating, Critter's training and injury, Regenokine and Asian-American male representation. Choe and Joe Rogan compare adolescent drawing, watercolor, publishing, television crews and independent media before tracing Choe's commercial-art experience on Vertical Limit and 28 Days. The second half covers Thumbs Up in Detroit, gambling treatment, private sexual and financial negotiations and an extended response to the DVDASA sexual-violence controversy. Choe denies the underlying event happened as narrated, says he exaggerated, accepts responsibility for publishing a story that sounded horrible, apologizes in part and also minimizes; Rogan states he cannot know the underlying fact and explains why listeners understood the account as assault. A separate Las Vegas story contains Steve Lee's direct refusal before Choe reports touching him; it is not absorbed into the earlier controversy. The episode closes with DVDASA production, doxxing, an unmade deceptive Girlfriend Experience proposal, the 2012 Reddit AMA, creative misery, sex-work/labor claims, han and ethnic essentialism, stand-up experiments and Bobby Lee recollections. Every explicit, offensive, contradictory and self-critical idea remains. Corrections, factual context, privacy, consent, medical caution and publication restrictions are separate metadata. No named line-level turns are published.",
+  "quality": {
+    "raw_segments": 4293,
+    "clean_segments": 4293,
+    "raw_words_approx": 33440,
+    "clean_words_approx": 33440,
+    "duration_seconds": 9094.479,
+    "accepted_context_decisions": 297,
+    "chapters": 271,
+    "connections": 30,
+    "content_warnings": 32,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "publisher_labeled_speakers": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_word_delta": 0,
+    "public_restriction_spans": 116
+  },
+  "chapters": [
+    {
+      "t": 4,
+      "title": "Hong Dynasty and short-form video"
+    },
+    {
+      "t": 27,
+      "title": "public Facebook wealth"
+    },
+    {
+      "t": 79,
+      "title": "prior fight proposal revisited"
+    },
+    {
+      "t": 112,
+      "title": "Steve Lee and almost-state-champion story"
+    },
+    {
+      "t": 134,
+      "title": "Fat Sal's and employment"
+    },
+    {
+      "t": 148,
+      "title": "wrestling for continued work"
+    },
+    {
+      "t": 206,
+      "title": "Macau Brothers assignment"
+    },
+    {
+      "t": 229,
+      "title": "Bill Poon transportation account"
+    },
+    {
+      "t": 286,
+      "title": "filmed paid-sex project"
+    },
+    {
+      "t": 301,
+      "title": "undefined grappling rules"
+    },
+    {
+      "t": 374,
+      "title": "Choe loses to Steve"
+    },
+    {
+      "t": 410,
+      "title": "MMA commitment versus dabbling"
+    },
+    {
+      "t": 473,
+      "title": "diabetes self-report"
+    },
+    {
+      "t": 483,
+      "title": "diet, exercise and remission wording"
+    },
+    {
+      "t": 530,
+      "title": "hiring and firing friends"
+    },
+    {
+      "t": 583,
+      "title": "racialized hiring account"
+    },
+    {
+      "t": 636,
+      "title": "Critter as trainer and bodyguard"
+    },
+    {
+      "t": 663,
+      "title": "wealth and restaurant pleasure"
+    },
+    {
+      "t": 704,
+      "title": "sushi and mercury"
+    },
+    {
+      "t": 741,
+      "title": "sardines and arsenic"
+    },
+    {
+      "t": 778,
+      "title": "memory and hair-loss attribution"
+    },
+    {
+      "t": 810,
+      "title": "permission for forced training"
+    },
+    {
+      "t": 868,
+      "title": "rib and neck injuries"
+    },
+    {
+      "t": 928,
+      "title": "professional food preparation"
+    },
+    {
+      "t": 949,
+      "title": "prepared-meal failure"
+    },
+    {
+      "t": 1018,
+      "title": "chewing and spitting"
+    },
+    {
+      "t": 1117,
+      "title": "sexualized trainer proposal"
+    },
+    {
+      "t": 1133,
+      "title": "eating-disorder stereotypes"
+    },
+    {
+      "t": 1182,
+      "title": "Good Smile blood-treatment claim"
+    },
+    {
+      "t": 1214,
+      "title": "Regenokine"
+    },
+    {
+      "t": 1245,
+      "title": "Dana White and Ménière's disease"
+    },
+    {
+      "t": 1284,
+      "title": "historic Santa Monica clinic"
+    },
+    {
+      "t": 1301,
+      "title": "future technology and behavior"
+    },
+    {
+      "t": 1332,
+      "title": "healthy eating and cheat days"
+    },
+    {
+      "t": 1360,
+      "title": "explicit breakfast joke"
+    },
+    {
+      "t": 1398,
+      "title": "vegetable-shake argument"
+    },
+    {
+      "t": 1481,
+      "title": "artists and indulgence"
+    },
+    {
+      "t": 1504,
+      "title": "first UCLA performance"
+    },
+    {
+      "t": 1533,
+      "title": "DVDASA platform moderation"
+    },
+    {
+      "t": 1545,
+      "title": "wiki-like fan editing"
+    },
+    {
+      "t": 1587,
+      "title": "show pause and racial essay"
+    },
+    {
+      "t": 1604,
+      "title": "Asian-American male sexuality"
+    },
+    {
+      "t": 1693,
+      "title": "meeting Critter on adult-film set"
+    },
+    {
+      "t": 1771,
+      "title": "Romeo Must Die and Rush Hour"
+    },
+    {
+      "t": 1870,
+      "title": "Steven Yeun example"
+    },
+    {
+      "t": 1889,
+      "title": "vid.me plug"
+    },
+    {
+      "t": 1943,
+      "title": "Rogan's adolescent drawings"
+    },
+    {
+      "t": 1992,
+      "title": "discouraging art teacher"
+    },
+    {
+      "t": 2008,
+      "title": "Conan and fairy-tale drawings"
+    },
+    {
+      "t": 2038,
+      "title": "Rogan leaves art for fighting"
+    },
+    {
+      "t": 2078,
+      "title": "school humiliation and wrestling"
+    },
+    {
+      "t": 2162,
+      "title": "cross-hatching and ballpoint pen"
+    },
+    {
+      "t": 2217,
+      "title": "spray paint, acrylic and oil"
+    },
+    {
+      "t": 2249,
+      "title": "watercolor as irreversible medium"
+    },
+    {
+      "t": 2264,
+      "title": "300-page watercolor book"
+    },
+    {
+      "t": 2293,
+      "title": "publisher bidding and requested cuts"
+    },
+    {
+      "t": 2344,
+      "title": "self-publication"
+    },
+    {
+      "t": 2384,
+      "title": "freedom and approval"
+    },
+    {
+      "t": 2440,
+      "title": "Parts Unknown and VICE on HBO"
+    },
+    {
+      "t": 2470,
+      "title": "television offers and unfree executives"
+    },
+    {
+      "t": 2517,
+      "title": "marriage, children and independence"
+    },
+    {
+      "t": 2584,
+      "title": "production infrastructure versus control"
+    },
+    {
+      "t": 2644,
+      "title": "manager proposal"
+    },
+    {
+      "t": 2697,
+      "title": "reluctant entrepreneurship"
+    },
+    {
+      "t": 2712,
+      "title": "big-budget film disappointment"
+    },
+    {
+      "t": 2737,
+      "title": "advertisers and Fear Factor"
+    },
+    {
+      "t": 2781,
+      "title": "podcast independence"
+    },
+    {
+      "t": 2817,
+      "title": "UFC versus uncensored work"
+    },
+    {
+      "t": 2858,
+      "title": "Fight Companion"
+    },
+    {
+      "t": 2923,
+      "title": "using fuck-you money"
+    },
+    {
+      "t": 2969,
+      "title": "Dave Chappelle example"
+    },
+    {
+      "t": 3050,
+      "title": "network incentives"
+    },
+    {
+      "t": 3080,
+      "title": "DVDASA no-profit doctrine"
+    },
+    {
+      "t": 3117,
+      "title": "lottery fantasies and enough"
+    },
+    {
+      "t": 3155,
+      "title": "artist control and criticism"
+    },
+    {
+      "t": 3217,
+      "title": "refusal to sell the podcast"
+    },
+    {
+      "t": 3276,
+      "title": "media hierarchy"
+    },
+    {
+      "t": 3317,
+      "title": "painting as direct expression"
+    },
+    {
+      "t": 3356,
+      "title": "wealth expands media opportunities"
+    },
+    {
+      "t": 3402,
+      "title": "Rogan's art teacher and diaper example"
+    },
+    {
+      "t": 3444,
+      "title": "leaving high-school art"
+    },
+    {
+      "t": 3466,
+      "title": "portfolio day"
+    },
+    {
+      "t": 3489,
+      "title": "CalArts event recollection"
+    },
+    {
+      "t": 3513,
+      "title": "bathroom approach to art reviewer"
+    },
+    {
+      "t": 3544,
+      "title": "Beverly Hills agency"
+    },
+    {
+      "t": 3594,
+      "title": "Vertical Limit resolves avalanche film"
+    },
+    {
+      "t": 3624,
+      "title": "Chris O'Donnell and Scott Glenn poster"
+    },
+    {
+      "t": 3678,
+      "title": "28 Days"
+    },
+    {
+      "t": 3691,
+      "title": "quitting commercial art"
+    },
+    {
+      "t": 3746,
+      "title": "Drew Struzan-like muscle memory"
+    },
+    {
+      "t": 3806,
+      "title": "Larry Flynt publication work"
+    },
+    {
+      "t": 3842,
+      "title": "unique work can make money"
+    },
+    {
+      "t": 3888,
+      "title": "Rogan's child's landscape"
+    },
+    {
+      "t": 3933,
+      "title": "Hitler's paintings"
+    },
+    {
+      "t": 4017,
+      "title": "Hitler medication history"
+    },
+    {
+      "t": 4088,
+      "title": "Jack Kevorkian art"
+    },
+    {
+      "t": 4098,
+      "title": "George W. Bush art"
+    },
+    {
+      "t": 4170,
+      "title": "art as therapeutic creation"
+    },
+    {
+      "t": 4237,
+      "title": "advice to young people"
+    },
+    {
+      "t": 4305,
+      "title": "IHOP work ethic"
+    },
+    {
+      "t": 4348,
+      "title": "chefs and craft"
+    },
+    {
+      "t": 4382,
+      "title": "MAD Symposium"
+    },
+    {
+      "t": 4447,
+      "title": "student debt"
+    },
+    {
+      "t": 4500,
+      "title": "choosing a life at eighteen"
+    },
+    {
+      "t": 4529,
+      "title": "immigrant-family pressure"
+    },
+    {
+      "t": 4555,
+      "title": "North Korea joke corrected"
+    },
+    {
+      "t": 4577,
+      "title": "Thumbs Up Season 4 status"
+    },
+    {
+      "t": 4605,
+      "title": "hitchhiking and near-assault self-report"
+    },
+    {
+      "t": 4630,
+      "title": "Harry Kim visual reference"
+    },
+    {
+      "t": 4642,
+      "title": "displayed $100,000"
+    },
+    {
+      "t": 4666,
+      "title": "MGM Grand Detroit"
+    },
+    {
+      "t": 4703,
+      "title": "hiding casino winnings"
+    },
+    {
+      "t": 4731,
+      "title": "game versus direct giving"
+    },
+    {
+      "t": 4775,
+      "title": "hoarding and small home"
+    },
+    {
+      "t": 4796,
+      "title": "gambling treatment and heart attack"
+    },
+    {
+      "t": 4815,
+      "title": "raised blackjack limits"
+    },
+    {
+      "t": 4833,
+      "title": "Vegas high-roller period"
+    },
+    {
+      "t": 4865,
+      "title": "$10,000 private sexual offer"
+    },
+    {
+      "t": 4903,
+      "title": "watercolor book and private messages"
+    },
+    {
+      "t": 4932,
+      "title": "alleged billionaire exchange"
+    },
+    {
+      "t": 5002,
+      "title": "money image and rejection"
+    },
+    {
+      "t": 5022,
+      "title": "later inquiry"
+    },
+    {
+      "t": 5032,
+      "title": "changed offer"
+    },
+    {
+      "t": 5130,
+      "title": "later sex and declined payment"
+    },
+    {
+      "t": 5153,
+      "title": "time and relationships as cost"
+    },
+    {
+      "t": 5170,
+      "title": "DVDASA controversy introduced"
+    },
+    {
+      "t": 5184,
+      "title": "Rogan summarizes published account"
+    },
+    {
+      "t": 5209,
+      "title": "VICE fact-check comparison"
+    },
+    {
+      "t": 5243,
+      "title": "Choe says he fucked up"
+    },
+    {
+      "t": 5277,
+      "title": "self-disclosure without a line"
+    },
+    {
+      "t": 5303,
+      "title": "reaction-seeking question"
+    },
+    {
+      "t": 5333,
+      "title": "third parties object to publication"
+    },
+    {
+      "t": 5342,
+      "title": "guest edit requests"
+    },
+    {
+      "t": 5352,
+      "title": "identity-masking advice"
+    },
+    {
+      "t": 5399,
+      "title": "exaggeration to regain attention"
+    },
+    {
+      "t": 5401,
+      "title": "responsibility for telling it that way"
+    },
+    {
+      "t": 5411,
+      "title": "Choe denial"
+    },
+    {
+      "t": 5466,
+      "title": "manager recommended cutting account"
+    },
+    {
+      "t": 5477,
+      "title": "publication despite warning"
+    },
+    {
+      "t": 5493,
+      "title": "Stern and Walters origins of DVDASA"
+    },
+    {
+      "t": 5518,
+      "title": "no-victim minimization"
+    },
+    {
+      "t": 5534,
+      "title": "private-woman claim"
+    },
+    {
+      "t": 5547,
+      "title": "resistance myth"
+    },
+    {
+      "t": 5562,
+      "title": "provocation and tired-room explanation"
+    },
+    {
+      "t": 5604,
+      "title": "listener perspective and rape culture"
+    },
+    {
+      "t": 5623,
+      "title": "Rogan states uncertainty"
+    },
+    {
+      "t": 5650,
+      "title": "Rogan criticizes narration"
+    },
+    {
+      "t": 5666,
+      "title": "Choe sees listeners' point"
+    },
+    {
+      "t": 5671,
+      "title": "sounds horrible on replay"
+    },
+    {
+      "t": 5676,
+      "title": "partial apology"
+    },
+    {
+      "t": 5717,
+      "title": "Patrice O'Neal and failed provocation"
+    },
+    {
+      "t": 5743,
+      "title": "responsibility beyond private banter"
+    },
+    {
+      "t": 5759,
+      "title": "Asa Akira and room norms"
+    },
+    {
+      "t": 5805,
+      "title": "Macau Brothers returns"
+    },
+    {
+      "t": 5810,
+      "title": "Mangchi and Steve Lee"
+    },
+    {
+      "t": 5840,
+      "title": "Vegas sexual encounter"
+    },
+    {
+      "t": 5881,
+      "title": "filming for Steve"
+    },
+    {
+      "t": 5918,
+      "title": "direct exit-only refusal"
+    },
+    {
+      "t": 5922,
+      "title": "reported touching after refusal"
+    },
+    {
+      "t": 5931,
+      "title": "homophobic license joke"
+    },
+    {
+      "t": 5950,
+      "title": "Bill Poon sexual-health disclosure"
+    },
+    {
+      "t": 5991,
+      "title": "unmade Girlfriend Experience proposal"
+    },
+    {
+      "t": 6011,
+      "title": "planned payment deception"
+    },
+    {
+      "t": 6024,
+      "title": "closed-room normalization"
+    },
+    {
+      "t": 6094,
+      "title": "artist persona and public limits"
+    },
+    {
+      "t": 6119,
+      "title": "unwanted touching directed at Choe"
+    },
+    {
+      "t": 6149,
+      "title": "later pleasure does not erase refusal"
+    },
+    {
+      "t": 6174,
+      "title": "quoted rapist provocation and denial"
+    },
+    {
+      "t": 6237,
+      "title": "harm of public label"
+    },
+    {
+      "t": 6248,
+      "title": "Rogan challenges certainty"
+    },
+    {
+      "t": 6260,
+      "title": "responsibility for what was published"
+    },
+    {
+      "t": 6281,
+      "title": "boundary pushing versus harm"
+    },
+    {
+      "t": 6328,
+      "title": "Vegas cash in pillowcase"
+    },
+    {
+      "t": 6355,
+      "title": "found cash in hoarded home"
+    },
+    {
+      "t": 6413,
+      "title": "cross-country contest mechanics"
+    },
+    {
+      "t": 6441,
+      "title": "Critter's Cross Country Cash Contest"
+    },
+    {
+      "t": 6483,
+      "title": "DHS color-coded threat system"
+    },
+    {
+      "t": 6511,
+      "title": "why releases paused"
+    },
+    {
+      "t": 6564,
+      "title": "fan doxxing of private women"
+    },
+    {
+      "t": 6606,
+      "title": "Big Bear location complaint"
+    },
+    {
+      "t": 6659,
+      "title": "taking a public break"
+    },
+    {
+      "t": 6677,
+      "title": "unreleased episode backlog"
+    },
+    {
+      "t": 6710,
+      "title": "persona and unsavory attention"
+    },
+    {
+      "t": 6753,
+      "title": "critics, targets and violence"
+    },
+    {
+      "t": 6787,
+      "title": "martial arts and character"
+    },
+    {
+      "t": 6812,
+      "title": "Velasquez and Lesnar example"
+    },
+    {
+      "t": 6833,
+      "title": "humiliation as resilience"
+    },
+    {
+      "t": 6871,
+      "title": "growth after controversy"
+    },
+    {
+      "t": 6880,
+      "title": "virtual-rapist label"
+    },
+    {
+      "t": 6893,
+      "title": "learning to perform publicly"
+    },
+    {
+      "t": 6962,
+      "title": "Bobby Lee and dark private jokes"
+    },
+    {
+      "t": 6983,
+      "title": "broadcast invites strangers"
+    },
+    {
+      "t": 7010,
+      "title": "proposal for context review"
+    },
+    {
+      "t": 7044,
+      "title": "psychiatric-facility setting"
+    },
+    {
+      "t": 7077,
+      "title": "Saga 2 page"
+    },
+    {
+      "t": 7088,
+      "title": "Ranch Part One and Sardines"
+    },
+    {
+      "t": 7116,
+      "title": "censored and uncensored editions"
+    },
+    {
+      "t": 7147,
+      "title": "lawyer-review alternative"
+    },
+    {
+      "t": 7167,
+      "title": "Mangchi lyric and father's objection"
+    },
+    {
+      "t": 7200,
+      "title": "setting is not a disclaimer"
+    },
+    {
+      "t": 7247,
+      "title": "Facebook wealth and work"
+    },
+    {
+      "t": 7288,
+      "title": "money before Facebook"
+    },
+    {
+      "t": 7321,
+      "title": "public wealth and requests"
+    },
+    {
+      "t": 7353,
+      "title": "clues rather than hidden cash"
+    },
+    {
+      "t": 7381,
+      "title": "November 2 event"
+    },
+    {
+      "t": 7388,
+      "title": "2012 Reddit AMA"
+    },
+    {
+      "t": 7411,
+      "title": "twenty-four-hour video response"
+    },
+    {
+      "t": 7447,
+      "title": "distributed platform copies"
+    },
+    {
+      "t": 7457,
+      "title": "removals and suppression perception"
+    },
+    {
+      "t": 7494,
+      "title": "announced new marathon"
+    },
+    {
+      "t": 7561,
+      "title": "chaos as chosen life"
+    },
+    {
+      "t": 7580,
+      "title": "manufactured misery"
+    },
+    {
+      "t": 7608,
+      "title": "how much Choe paints"
+    },
+    {
+      "t": 7621,
+      "title": "Japan and China isolation"
+    },
+    {
+      "t": 7640,
+      "title": "cold, offline creative environment"
+    },
+    {
+      "t": 7670,
+      "title": "attention versus sustained drawing"
+    },
+    {
+      "t": 7693,
+      "title": "creation and sex"
+    },
+    {
+      "t": 7716,
+      "title": "does great art require misery"
+    },
+    {
+      "t": 7723,
+      "title": "Rogan rejects requirement"
+    },
+    {
+      "t": 7737,
+      "title": "Choe's rejection-driven work"
+    },
+    {
+      "t": 7785,
+      "title": "Rogan's enlightenment trap"
+    },
+    {
+      "t": 7811,
+      "title": "warehouse versus comfort"
+    },
+    {
+      "t": 7844,
+      "title": "comfort-kills-creativity thesis"
+    },
+    {
+      "t": 7858,
+      "title": "Asa Akira and work identity"
+    },
+    {
+      "t": 7870,
+      "title": "memory-gap speculation"
+    },
+    {
+      "t": 7888,
+      "title": "declined therapy offer"
+    },
+    {
+      "t": 7902,
+      "title": "adaptation and stable states"
+    },
+    {
+      "t": 7922,
+      "title": "paid sex instead of relationships"
+    },
+    {
+      "t": 7952,
+      "title": "labor, money and affection"
+    },
+    {
+      "t": 8028,
+      "title": "blanket voluntariness claim"
+    },
+    {
+      "t": 8041,
+      "title": "sex-work legal policy"
+    },
+    {
+      "t": 8052,
+      "title": "offers to acquaintances"
+    },
+    {
+      "t": 8092,
+      "title": "time and relationship cost"
+    },
+    {
+      "t": 8128,
+      "title": "Chris Rock and being first"
+    },
+    {
+      "t": 8149,
+      "title": "Asian representation burden"
+    },
+    {
+      "t": 8179,
+      "title": "opposition as identity"
+    },
+    {
+      "t": 8241,
+      "title": "palm-reader anecdote"
+    },
+    {
+      "t": 8285,
+      "title": "Larry David and Woody Allen influence"
+    },
+    {
+      "t": 8311,
+      "title": "Korean conflict stereotype"
+    },
+    {
+      "t": 8322,
+      "title": "han as cultural concept"
+    },
+    {
+      "t": 8324,
+      "title": "genetic anger claim"
+    },
+    {
+      "t": 8327,
+      "title": "adopted child used as evidence"
+    },
+    {
+      "t": 8346,
+      "title": "David Chang comparison"
+    },
+    {
+      "t": 8376,
+      "title": "Korea-not-an-island correction"
+    },
+    {
+      "t": 8380,
+      "title": "invasion and innate-hate theory"
+    },
+    {
+      "t": 8427,
+      "title": "private physician-athlete friend"
+    },
+    {
+      "t": 8464,
+      "title": "ethnicity and comedy"
+    },
+    {
+      "t": 8478,
+      "title": "Bobby Lee and Ken Jeong"
+    },
+    {
+      "t": 8507,
+      "title": "persecution-comedy theory"
+    },
+    {
+      "t": 8514,
+      "title": "Stern, Seinfeld and David"
+    },
+    {
+      "t": 8561,
+      "title": "Rogan encourages stand-up"
+    },
+    {
+      "t": 8610,
+      "title": "drawing during podcast"
+    },
+    {
+      "t": 8649,
+      "title": "humiliation as no-lose experiment"
+    },
+    {
+      "t": 8688,
+      "title": "UCLA invitation"
+    },
+    {
+      "t": 8731,
+      "title": "choosing stand-up over lecture"
+    },
+    {
+      "t": 8753,
+      "title": "Hawaii show with Bobby Lee"
+    },
+    {
+      "t": 8801,
+      "title": "threat to perform Bobby's act"
+    },
+    {
+      "t": 8813,
+      "title": "Bobby refuses"
+    },
+    {
+      "t": 8833,
+      "title": "Choe agrees not to copy"
+    },
+    {
+      "t": 8858,
+      "title": "improvising with Steve"
+    },
+    {
+      "t": 8892,
+      "title": "Rogan first meets Bobby"
+    },
+    {
+      "t": 8904,
+      "title": "Comedy Store La Jolla"
+    },
+    {
+      "t": 8914,
+      "title": "strip-club confrontation"
+    },
+    {
+      "t": 8930,
+      "title": "appearance-based homicide guess"
+    },
+    {
+      "t": 8959,
+      "title": "Jimmy Shubert and escape"
+    },
+    {
+      "t": 8988,
+      "title": "Mexico drug-and-knife recollection"
+    },
+    {
+      "t": 9017,
+      "title": "do not lose rebellion"
+    },
+    {
+      "t": 9021,
+      "title": "DVDASA and contest close"
+    },
+    {
+      "t": 9030,
+      "title": "closing controversy reflection"
+    },
+    {
+      "t": 9054,
+      "title": "episode and book claims"
+    },
+    {
+      "t": 9077,
+      "title": "diabetes and do-not-change farewell"
+    }
   ],
-  "people":["David Choe","Joe Rogan","Brian Redban","Bobby Lee","Steve Lee","Bill Poon","Critter","David Chang","Jason Statham","Kevin James","Diego Sanchez","Dana White","Bernie Wrightson","Jet Li","Aaliyah","Steven Yeun","Anthony Bourdain","Dave Chappelle","Drew Struzan","Chris O'Donnell","Scott Glenn","Sandra Bullock","Larry Flynt","Bob Ross","Jack Kevorkian","George W. Bush","Patrice O'Neal","Asa Akira","Money Mark","Sofía Vergara","Cain Velasquez","Brock Lesnar","Chris Rock","Jackie Robinson","Darryl Strawberry","Larry David","Woody Allen","Ken Jeong","Howard Stern","Jerry Seinfeld","Tony Robbins","Tom Vu","Bill Clinton","Michael Moore","Jimmy Shubert"],
-  "places":["Los Angeles","Hollywood","Macau","Santa Monica","UCLA","Japan","China","Copenhagen","Detroit","Big Bear","Las Vegas","Colombia","Koreatown","Hawaii","San Diego","La Jolla","Mexico"],
-  "works":["Hong Dynasty","DVDASA","Macau Brothers","The Transporter","Romeo Must Die","Rush Hour","The Walking Dead","Conan the Barbarian","Vertical Limit","28 Days","Asian Fever","Anthony Bourdain: Parts Unknown","VICE on HBO","Fear Factor","Fight Companion","Chappelle's Show","Thumbs Up!","Mangchi","Seinfeld","Girlfriend Experience","Critter's Cross Country Cash Contest","DVDASA Saga 2","Ranch Part One","Sardines","MADtv"],
-  "themes":["creative independence","platform moderation","publishing","commercial art","employment power","consent","privacy","public controversy","exaggeration","accountability","medical misinformation","diabetes","disordered eating","gambling","sex work","financial pressure","doxxing","identity","Asian-American representation","ethnic essentialism","han","misery and creativity","performance","speaker uncertainty"],
-  "connections":[
-    {"t":79,"to":"i8cDwucTSbo","relationship":"The prior proposed-fight arc ends JRE #392; #563 opens by revisiting and largely rejecting it."},
-    {"t":148,"to":"saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee","relationship":"The job-contingent wrestling account is a direct precursor to the Redzone chapter and must retain employment pressure."},
-    {"t":206,"to":"dvdasa","relationship":"The Macau Brothers proposal belongs to the broader DVDASA project history, not an isolated travel anecdote."},
-    {"t":473,"to":"i8cDwucTSbo","relationship":"Diabetes and food discipline extend health themes from JRE #392."},
-    {"t":636,"to":"i8cDwucTSbo","relationship":"Critter returns as trainer/bodyguard after the hiking-threat story in #392; roles do not resolve private conduct."},
-    {"t":1504,"to":"david-choe-performance-history","relationship":"The UCLA appearance anchors Choe's transition from visual art into live monologue and comedy."},
-    {"t":1533,"to":"dvdasa-platform-history","relationship":"Platform flags and the wiki-like site explain edition loss, mirrors and fan-catalog challenges."},
-    {"t":1604,"to":"asian-american-representation","relationship":"The Jackie Chan/Jet Li/Steven Yeun thread connects Choe's persona to a substantive media-representation critique."},
-    {"t":1889,"to":"vidme-archive","relationship":"vid.me is described as an uncensored distribution home; surviving versions require archive verification."},
-    {"t":2264,"to":"david-choe-books","relationship":"The watercolor book is both an art object and a container for private-message claims, requiring catalogue and privacy layers."},
-    {"t":2440,"to":"thumbs-up","relationship":"Bourdain and VICE production help frame why Choe wants institutional crews without institutional control."},
-    {"t":2969,"to":"creative-control","relationship":"The Chappelle example becomes a cautionary analogy, but its compressed biography needs independent correction."},
-    {"t":3594,"to":"commercial-art-history","relationship":"Vertical Limit and 28 Days resolve a previously vague early career episode."},
-    {"t":4382,"to":"i8cDwucTSbo","relationship":"MAD Symposium and David Chang recur from JRE #392, now supporting the work-as-craft argument."},
-    {"t":4577,"to":"thumbs-up-season-4","relationship":"Choe's time-specific claim that Season 4 remained in editing helps explain incomplete surviving editions."},
-    {"t":4796,"to":"gambling-history","relationship":"Treatment, high limits and public cash contests show gambling as harm, identity and spectacle rather than simple wealth."},
-    {"t":5170,"to":"dvdasa-controversy","relationship":"The extended primary response must be paired with the original episode and later public record, never used alone."},
-    {"t":5918,"to":"saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee","relationship":"Steve's direct refusal before reported contact continues the employment/body-boundary record."},
-    {"t":5991,"to":"dvdasa-unmade-projects","relationship":"Girlfriend Experience is an explicitly unmade deceptive proposal, useful for separating brainstorms from completed works."},
-    {"t":6413,"to":"2014-cash-contest","relationship":"The contest links the fan site, public wealth, travel, doxxing and the November 2 event."},
-    {"t":6564,"to":"privacy-and-fandom","relationship":"Fan clue-composition is direct evidence for keeping private identity clues out of search."},
-    {"t":7044,"to":"ranch-solo-series","relationship":"The psychiatric-facility setting leads into Saga 2 Ranch material but never licenses patient identification."},
-    {"t":7388,"to":"2012-reddit-ama","relationship":"The AMA is a major provenance node for Choe's independent internet performance and lost copies."},
-    {"t":7640,"to":"creative-misery","relationship":"Choe's deprivation thesis should be read beside Rogan's explicit rejection and later treatment/recovery material."},
-    {"t":7858,"to":"asa-akira","relationship":"Asa's work and treatment refusal are reported by Choe; her own sources remain authoritative for her perspective."},
-    {"t":8028,"to":"sex-work-and-consent","relationship":"Blanket voluntariness claims cannot replace person- and act-specific labor/consent evidence."},
-    {"t":8322,"to":"korean-american-identity","relationship":"Han is invoked as culture and then incorrectly geneticized, requiring history without biological essentialism."},
-    {"t":8346,"to":"david-chang","relationship":"Chang appears as close friend, craft analogue and target of Korean work/anger generalization."},
-    {"t":8753,"to":"bobby-lee","relationship":"The Hawaii show connects Choe, Steve and Bobby's performance histories while preserving Bobby's refusal about copied material."},
-    {"t":9030,"to":"dvdasa-controversy","relationship":"The closing claim that listeners may understand Choe better is not a factual resolution of the disputed event."}
+  "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Brian Redban",
+    "Bobby Lee",
+    "Steve Lee",
+    "Bill Poon",
+    "Critter",
+    "David Chang",
+    "Jason Statham",
+    "Kevin James",
+    "Diego Sanchez",
+    "Dana White",
+    "Bernie Wrightson",
+    "Jet Li",
+    "Aaliyah",
+    "Steven Yeun",
+    "Anthony Bourdain",
+    "Dave Chappelle",
+    "Drew Struzan",
+    "Chris O'Donnell",
+    "Scott Glenn",
+    "Sandra Bullock",
+    "Larry Flynt",
+    "Bob Ross",
+    "Jack Kevorkian",
+    "George W. Bush",
+    "Patrice O'Neal",
+    "Asa Akira",
+    "Money Mark",
+    "Sofía Vergara",
+    "Cain Velasquez",
+    "Brock Lesnar",
+    "Chris Rock",
+    "Jackie Robinson",
+    "Darryl Strawberry",
+    "Larry David",
+    "Woody Allen",
+    "Ken Jeong",
+    "Howard Stern",
+    "Jerry Seinfeld",
+    "Tony Robbins",
+    "Tom Vu",
+    "Bill Clinton",
+    "Michael Moore",
+    "Jimmy Shubert"
   ],
-  "source_notes":[
-    {"t":0,"claim":"The captions label Joe Rogan, David Choe or Brian Redban per line.","assessment":"They do not. Episode context names participants, but line labels require held-out acoustic/video validation.","source":"https://www.youtube.com/watch?v=2Xw5EgZdNvQ"},
-    {"t":483,"claim":"Diet and exercise simply return diabetes to non-diabetes.","assessment":"Type, diagnostic thresholds and remission criteria matter; preserve Choe's self-report without promising a cure.","source":"https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes"},
-    {"t":1018,"claim":"Chewing and spitting is a workable shortcut.","assessment":"It is disordered-eating behavior and should not be presented as weight-management guidance.","source":"https://www.nationaleatingdisorders.org/"},
-    {"t":1214,"claim":"Regenokine totally cured Ménière's disease.","assessment":"This is Rogan's account of another person's outcome, not general clinical evidence.","source":"https://www.nidcd.nih.gov/health/menieres-disease"},
-    {"t":1771,"claim":"Romeo Must Die scripted a kiss that was changed to dancing.","assessment":"Verify through production interviews or screenplay evidence before presenting the claim as settled film history.","source":"https://www.warnerbros.com/movies/romeo-must-die"},
-    {"t":3594,"claim":"The avalanche movie was probably titled Avalanche.","assessment":"The conversation itself resolves it to Vertical Limit; 28 Days is the following Sandra Bullock project.","source":"https://www.sonypictures.com/movies/verticallimit"},
-    {"t":4017,"claim":"Methamphetamine explains Hitler's judgment and genocide.","assessment":"Medication history may be documented, but the causal explanation is reductive and unsupported.","source":"https://www.archives.gov/research/holocaust"},
-    {"t":4577,"claim":"Three Thumbs Up seasons were out and Season 4 remained editing in 2014.","assessment":"This is valuable time-specific production evidence; surviving official and fan editions still require grouping.","source":"https://www.vice.com/en/topic/thumbs-up"},
-    {"t":5170,"claim":"This episode proves the original event occurred or did not occur.","assessment":"It proves Choe's later contradictory public response. The original recording, later statements and reporting must remain distinct.","source":"https://www.youtube.com/watch?v=2Xw5EgZdNvQ"},
-    {"t":5918,"claim":"Ongoing intercourse or paid workers imply consent to the new act.","assessment":"The direct refusal is act-specific and precedes the reported touching; context cannot reverse it.","source":"https://rainn.org/articles/what-is-consent"},
-    {"t":7044,"claim":"Broadcasting from a psychiatric facility licenses participant identification.","assessment":"Setting and visible presence do not establish patient status or publication consent.","source":"https://www.hhs.gov/hipaa/for-professionals/privacy/index.html"},
-    {"t":7388,"claim":"The November 2, 2012 AMA lasted 24 hours and used 200 participants.","assessment":"Treat scale as Choe's retrospective claim until contemporaneous Reddit/video archives are reconciled.","source":"https://www.reddit.com/r/IAmA/"},
-    {"t":7716,"claim":"Great art requires misery.","assessment":"This is Choe's personal thesis, explicitly disputed by Rogan; never publish it as mental-health or creative advice.","source":"https://www.nimh.nih.gov/health"},
-    {"t":7870,"claim":"Memory gaps indicate childhood assault.","assessment":"Memory gaps alone do not establish trauma history; do not infer or diagnose an event.","source":"https://www.apa.org/topics/trauma"},
-    {"t":8041,"claim":"The discussion states current sex-work law.","assessment":"It is a policy opinion and personal account; laws vary by place and time.","source":"https://www.justice.gov/"},
-    {"t":8322,"claim":"Han is genetic and Korean children inherit anger.","assessment":"Han is a contested cultural/historical concept, not a demonstrated gene or diagnostic trait.","source":"https://www.loc.gov/collections/korean-bibliography/about-this-collection/"}
+  "places": [
+    "Los Angeles",
+    "Hollywood",
+    "Macau",
+    "Santa Monica",
+    "UCLA",
+    "Japan",
+    "China",
+    "Copenhagen",
+    "Detroit",
+    "Big Bear",
+    "Las Vegas",
+    "Colombia",
+    "Koreatown",
+    "Hawaii",
+    "San Diego",
+    "La Jolla",
+    "Mexico"
   ],
-  "content_warnings":["sexual violence and disputed assault account","direct refusal followed by reported touching","rape myths and minimization","explicit sexual content","sex work and financial pressure","employment coercion","filmed sexual activity","planned relationship deception","private messages and partners","doxxing and stalking","psychiatric-facility privacy","gambling addiction and high-stakes losses","heart attack and diabetes self-reports","disordered eating","medical misinformation","heavy-metal exposure claims","physical injury","homophobic language","racial slurs and stereotypes","Asian-American sexual stereotypes","ethnic essentialism","gender stereotypes","body shaming","incarceration and threatened prison rape","drug use","suicidal and violent hyperbole","weapons","child privacy","treatment and uncertain trauma memories","unsafe creative-misery advice","advertising and platform claims","publisher-masked profanity"],
-  "publication_restrictions":[
-    {"t":0,"rule":"publish no named turns without held-out validation"},{"t":0.1,"rule":"never reconstruct publisher-masked profanity or slurs"},{"t":89,"rule":"do not diagnose Choe from health self-reports"},{"t":148,"rule":"retain employment pressure around wrestling"},{"t":206,"rule":"do not identify workers or infer their consent"},{"t":286,"rule":"keep filming, sex, labor and travel consent separate"},{"t":374,"rule":"require video for the physical contest"},{"t":410,"rule":"never describe the proposal as a scheduled fight"},{"t":483,"rule":"attach diabetes/remission context"},{"t":530,"rule":"protect staff and relatives"},{"t":583,"rule":"preserve racialized speech without endorsing hiring discrimination"},{"t":636,"rule":"withhold home, access and security details"},{"t":704,"rule":"do not generalize fish exposure from the anecdote"},{"t":741,"rule":"attach arsenic/food-safety context"},{"t":810,"rule":"specific training permission is not blanket consent"},{"t":868,"rule":"do not diagnose injuries from audio"},{"t":1018,"rule":"do not publish chewing-and-spitting as advice"},{"t":1133,"rule":"do not generalize eating disorders by gender"},{"t":1182,"rule":"do not identify the private business partner"},{"t":1214,"rule":"do not advertise unproven treatment outcomes"},{"t":1284,"rule":"do not expose or recommend a time-sensitive clinic"},{"t":1360,"rule":"do not infer a private partner's health condition"},{"t":1693,"rule":"protect private adult performers and set participants"},{"t":1703,"rule":"verify adult-film first claims"},{"t":1992,"rule":"withhold private teacher and classmates"},{"t":2085,"rule":"do not identify school peer from race/school clues"},{"t":2264,"rule":"verify the released book and exact edition"},{"t":2304,"rule":"artwork content is not off-page conduct"},{"t":2448,"rule":"verify Emmy wording and credit"},{"t":2644,"rule":"do not turn religious stereotype into hiring advice"},{"t":2969,"rule":"attach primary Chappelle chronology"},{"t":3449,"rule":"do not search uncertain classmates"},{"t":3594,"rule":"use Vertical Limit and 28 Days; preserve credit uncertainty"},{"t":3888,"rule":"protect Rogan's minor child and verify art visually"},{"t":4017,"rule":"do not use drugs as monocausal genocide explanation"},{"t":4133,"rule":"video required for artwork descriptions"},{"t":4454,"rule":"do not universalize debt amounts"},{"t":4540,"rule":"retain Choe's immediate North Korea correction"},{"t":4577,"rule":"do not call surviving Season 4 material complete from this claim"},{"t":4605,"rule":"do not sensationalize near-assault self-report"},{"t":4630,"rule":"do not expose private bag/object or participant details"},{"t":4642,"rule":"do not publish current cash/security trails"},{"t":4703,"rule":"withhold money locations and recipients"},{"t":4775,"rule":"hoarder is self-description, not archive diagnosis"},{"t":4796,"rule":"protect treatment and medical details"},{"t":4815,"rule":"do not present high-limit gambling as strategy"},{"t":4865,"rule":"protect the private woman and retain initial rejection"},{"t":4903,"rule":"publication of messages does not waive discovery expansion"},{"t":4932,"rule":"withhold alleged billionaire and spouse"},{"t":5002,"rule":"do not publish private message/contact trail"},{"t":5130,"rule":"do not infer motive or global consent"},{"t":5170,"rule":"pair original account, this response and later reporting"},{"t":5184,"rule":"Rogan's summary is not an independent finding"},{"t":5243,"rule":"responsibility statement is not an admission to the underlying act"},{"t":5333,"rule":"honor third-party objections and edit requests"},{"t":5399,"rule":"exaggeration claim does not alone prove fabrication"},{"t":5411,"rule":"denial does not alone prove exoneration"},{"t":5466,"rule":"retain manager warning and publication choice"},{"t":5518,"rule":"do not treat no public complainant as no harm"},{"t":5534,"rule":"protect the unidentified woman"},{"t":5547,"rule":"attach correction: resistance is not required"},{"t":5623,"rule":"retain Rogan's explicit uncertainty"},{"t":5676,"rule":"preserve scope of apology and minimization"},{"t":5759,"rule":"private room norms do not govern public consent"},{"t":5881,"rule":"withhold explicit video and worker identities"},{"t":5918,"rule":"retain direct refusal verbatim"},{"t":5922,"rule":"do not infer consent from ongoing intercourse, payment or friendship"},{"t":5950,"rule":"protect Bill Poon's sexual and health details"},{"t":5991,"rule":"label Girlfriend Experience as unmade proposal"},{"t":6011,"rule":"do not normalize planned financial deception"},{"t":6119,"rule":"gender does not invalidate Choe's own refusal"},{"t":6149,"rule":"later pleasure does not retroactively create consent"},{"t":6174,"rule":"never isolate quoted provocation from immediate denial"},{"t":6237,"rule":"public-label harm does not resolve underlying evidence"},{"t":6328,"rule":"do not turn cash claims into wealth fact"},{"t":6355,"rule":"withhold home/security information"},{"t":6413,"rule":"do not republish actionable contest clues"},{"t":6483,"rule":"historic threat system requires time context"},{"t":6495,"rule":"do not associate ethnicity with terrorism"},{"t":6564,"rule":"never compose private identity clues"},{"t":6606,"rule":"withhold Big Bear address and manager"},{"t":6677,"rule":"do not count uncertain backlog as completed episodes"},{"t":6812,"rule":"fight example is not violence advice"},{"t":6880,"rule":"virtual rapist is rhetoric, not a legal category"},{"t":7010,"rule":"context review does not replace participant consent"},{"t":7044,"rule":"protect psychiatric-facility participants and health status"},{"t":7116,"rule":"verify editions before claiming censorship"},{"t":7167,"rule":"native-language audio required for lyric"},{"t":7247,"rule":"verify Facebook compensation and art history"},{"t":7288,"rule":"do not publish an unaudited net worth"},{"t":7353,"rule":"do not expose clue locations"},{"t":7388,"rule":"verify AMA scale and surviving copies"},{"t":7457,"rule":"do not infer coordinated platform suppression"},{"t":7580,"rule":"do not prescribe unsanitary housing or misery"},{"t":7621,"rule":"separate place, incarceration and creative-output claims"},{"t":7716,"rule":"retain Rogan's explicit disagreement"},{"t":7870,"rule":"do not infer assault from memory gaps"},{"t":7888,"rule":"protect treatment choices and history"},{"t":7922,"rule":"protect paid workers and partners"},{"t":8028,"rule":"blanket voluntariness claim is not person-specific evidence"},{"t":8041,"rule":"do not present policy opinion as current law"},{"t":8052,"rule":"reject ownership language and protect acquaintances"},{"t":8241,"rule":"protect private partner"},{"t":8322,"rule":"contextualize han without geneticizing it"},{"t":8327,"rule":"exclude adopted minor from identity search"},{"t":8427,"rule":"withhold uncertain private physician/athlete identity"},{"t":8507,"rule":"do not present ethnicity as comedy causation"},{"t":8610,"rule":"video required for podcast drawing"},{"t":8723,"rule":"verify UCLA program and speaker comparison"},{"t":8753,"rule":"verify Hawaii bill/video"},{"t":8813,"rule":"retain Bobby's direct refusal"},{"t":8833,"rule":"retain Choe's agreement not to copy"},{"t":8930,"rule":"appearance does not establish homicide or gang status"},{"t":8988,"rule":"Rogan recollection is not verified criminal history"},{"t":9030,"rule":"closing empathy is not factual resolution"},{"t":9054,"rule":"verify episode and book counts"}
+  "works": [
+    "Hong Dynasty",
+    "DVDASA",
+    "Macau Brothers",
+    "The Transporter",
+    "Romeo Must Die",
+    "Rush Hour",
+    "The Walking Dead",
+    "Conan the Barbarian",
+    "Vertical Limit",
+    "28 Days",
+    "Asian Fever",
+    "Anthony Bourdain: Parts Unknown",
+    "VICE on HBO",
+    "Fear Factor",
+    "Fight Companion",
+    "Chappelle's Show",
+    "Thumbs Up!",
+    "Mangchi",
+    "Seinfeld",
+    "Girlfriend Experience",
+    "Critter's Cross Country Cash Contest",
+    "DVDASA Saga 2",
+    "Ranch Part One",
+    "Sardines",
+    "MADtv"
   ],
-  "speaker_policy":{"status":"all line-level turns unresolved; named turns withheld","reason":"Episode context identifies Joe Rogan, David Choe and Brian Redban, but 4,293 automatic-caption segments have no publisher name prefixes and include quotation, imitation, visual media, laughter and overlapping dialogue. Topic ownership, name address and adjacency do not establish voice identity. Only independently listening/video-verified, non-overlapping held-out windows may support an experiment."}
+  "themes": [
+    "creative independence",
+    "platform moderation",
+    "publishing",
+    "commercial art",
+    "employment power",
+    "consent",
+    "privacy",
+    "public controversy",
+    "exaggeration",
+    "accountability",
+    "medical misinformation",
+    "diabetes",
+    "disordered eating",
+    "gambling",
+    "sex work",
+    "financial pressure",
+    "doxxing",
+    "identity",
+    "Asian-American representation",
+    "ethnic essentialism",
+    "han",
+    "misery and creativity",
+    "performance",
+    "speaker uncertainty"
+  ],
+  "connections": [
+    {
+      "t": 79,
+      "to": "i8cDwucTSbo",
+      "relationship": "The prior proposed-fight arc ends JRE #392; #563 opens by revisiting and largely rejecting it."
+    },
+    {
+      "t": 148,
+      "to": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
+      "relationship": "The job-contingent wrestling account is a direct precursor to the Redzone chapter and must retain employment pressure."
+    },
+    {
+      "t": 206,
+      "to": "dvdasa",
+      "relationship": "The Macau Brothers proposal belongs to the broader DVDASA project history, not an isolated travel anecdote."
+    },
+    {
+      "t": 473,
+      "to": "i8cDwucTSbo",
+      "relationship": "Diabetes and food discipline extend health themes from JRE #392."
+    },
+    {
+      "t": 636,
+      "to": "i8cDwucTSbo",
+      "relationship": "Critter returns as trainer/bodyguard after the hiking-threat story in #392; roles do not resolve private conduct."
+    },
+    {
+      "t": 1504,
+      "to": "david-choe-performance-history",
+      "relationship": "The UCLA appearance anchors Choe's transition from visual art into live monologue and comedy."
+    },
+    {
+      "t": 1533,
+      "to": "dvdasa-platform-history",
+      "relationship": "Platform flags and the wiki-like site explain edition loss, mirrors and fan-catalog challenges."
+    },
+    {
+      "t": 1604,
+      "to": "asian-american-representation",
+      "relationship": "The Jackie Chan/Jet Li/Steven Yeun thread connects Choe's persona to a substantive media-representation critique."
+    },
+    {
+      "t": 1889,
+      "to": "vidme-archive",
+      "relationship": "vid.me is described as an uncensored distribution home; surviving versions require archive verification."
+    },
+    {
+      "t": 2264,
+      "to": "david-choe-books",
+      "relationship": "The watercolor book is both an art object and a container for private-message claims, requiring catalogue and privacy layers."
+    },
+    {
+      "t": 2440,
+      "to": "thumbs-up",
+      "relationship": "Bourdain and VICE production help frame why Choe wants institutional crews without institutional control."
+    },
+    {
+      "t": 2969,
+      "to": "creative-control",
+      "relationship": "The Chappelle example becomes a cautionary analogy, but its compressed biography needs independent correction."
+    },
+    {
+      "t": 3594,
+      "to": "commercial-art-history",
+      "relationship": "Vertical Limit and 28 Days resolve a previously vague early career episode."
+    },
+    {
+      "t": 4382,
+      "to": "i8cDwucTSbo",
+      "relationship": "MAD Symposium and David Chang recur from JRE #392, now supporting the work-as-craft argument."
+    },
+    {
+      "t": 4577,
+      "to": "thumbs-up-season-4",
+      "relationship": "Choe's time-specific claim that Season 4 remained in editing helps explain incomplete surviving editions."
+    },
+    {
+      "t": 4796,
+      "to": "gambling-history",
+      "relationship": "Treatment, high limits and public cash contests show gambling as harm, identity and spectacle rather than simple wealth."
+    },
+    {
+      "t": 5170,
+      "to": "dvdasa-controversy",
+      "relationship": "The extended primary response must be paired with the original episode and later public record, never used alone."
+    },
+    {
+      "t": 5918,
+      "to": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
+      "relationship": "Steve's direct refusal before reported contact continues the employment/body-boundary record."
+    },
+    {
+      "t": 5991,
+      "to": "dvdasa-unmade-projects",
+      "relationship": "Girlfriend Experience is an explicitly unmade deceptive proposal, useful for separating brainstorms from completed works."
+    },
+    {
+      "t": 6413,
+      "to": "2014-cash-contest",
+      "relationship": "The contest links the fan site, public wealth, travel, doxxing and the November 2 event."
+    },
+    {
+      "t": 6564,
+      "to": "privacy-and-fandom",
+      "relationship": "Fan clue-composition is direct evidence for keeping private identity clues out of search."
+    },
+    {
+      "t": 7044,
+      "to": "ranch-solo-series",
+      "relationship": "The psychiatric-facility setting leads into Saga 2 Ranch material but never licenses patient identification."
+    },
+    {
+      "t": 7388,
+      "to": "2012-reddit-ama",
+      "relationship": "The AMA is a major provenance node for Choe's independent internet performance and lost copies."
+    },
+    {
+      "t": 7640,
+      "to": "creative-misery",
+      "relationship": "Choe's deprivation thesis should be read beside Rogan's explicit rejection and later treatment/recovery material."
+    },
+    {
+      "t": 7858,
+      "to": "asa-akira",
+      "relationship": "Asa's work and treatment refusal are reported by Choe; her own sources remain authoritative for her perspective."
+    },
+    {
+      "t": 8028,
+      "to": "sex-work-and-consent",
+      "relationship": "Blanket voluntariness claims cannot replace person- and act-specific labor/consent evidence."
+    },
+    {
+      "t": 8322,
+      "to": "korean-american-identity",
+      "relationship": "Han is invoked as culture and then incorrectly geneticized, requiring history without biological essentialism."
+    },
+    {
+      "t": 8346,
+      "to": "david-chang",
+      "relationship": "Chang appears as close friend, craft analogue and target of Korean work/anger generalization."
+    },
+    {
+      "t": 8753,
+      "to": "bobby-lee",
+      "relationship": "The Hawaii show connects Choe, Steve and Bobby's performance histories while preserving Bobby's refusal about copied material."
+    },
+    {
+      "t": 9030,
+      "to": "dvdasa-controversy",
+      "relationship": "The closing claim that listeners may understand Choe better is not a factual resolution of the disputed event."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 0,
+      "claim": "The captions label Joe Rogan, David Choe or Brian Redban per line.",
+      "assessment": "They do not. Episode context names participants, but line labels require held-out acoustic/video validation.",
+      "source": "https://www.youtube.com/watch?v=2Xw5EgZdNvQ"
+    },
+    {
+      "t": 483,
+      "claim": "Diet and exercise simply return diabetes to non-diabetes.",
+      "assessment": "Type, diagnostic thresholds and remission criteria matter; preserve Choe's self-report without promising a cure.",
+      "source": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes"
+    },
+    {
+      "t": 1018,
+      "claim": "Chewing and spitting is a workable shortcut.",
+      "assessment": "It is disordered-eating behavior and should not be presented as weight-management guidance.",
+      "source": "https://www.nationaleatingdisorders.org/"
+    },
+    {
+      "t": 1214,
+      "claim": "Regenokine totally cured Ménière's disease.",
+      "assessment": "This is Rogan's account of another person's outcome, not general clinical evidence.",
+      "source": "https://www.nidcd.nih.gov/health/menieres-disease"
+    },
+    {
+      "t": 1771,
+      "claim": "Romeo Must Die scripted a kiss that was changed to dancing.",
+      "assessment": "Verify through production interviews or screenplay evidence before presenting the claim as settled film history.",
+      "source": "https://www.warnerbros.com/movies/romeo-must-die"
+    },
+    {
+      "t": 3594,
+      "claim": "The avalanche movie was probably titled Avalanche.",
+      "assessment": "The conversation itself resolves it to Vertical Limit; 28 Days is the following Sandra Bullock project.",
+      "source": "https://www.sonypictures.com/movies/verticallimit"
+    },
+    {
+      "t": 4017,
+      "claim": "Methamphetamine explains Hitler's judgment and genocide.",
+      "assessment": "Medication history may be documented, but the causal explanation is reductive and unsupported.",
+      "source": "https://www.archives.gov/research/holocaust"
+    },
+    {
+      "t": 4577,
+      "claim": "Three Thumbs Up seasons were out and Season 4 remained editing in 2014.",
+      "assessment": "This is valuable time-specific production evidence; surviving official and fan editions still require grouping.",
+      "source": "https://www.vice.com/en/topic/thumbs-up"
+    },
+    {
+      "t": 5170,
+      "claim": "This episode proves the original event occurred or did not occur.",
+      "assessment": "It proves Choe's later contradictory public response. The original recording, later statements and reporting must remain distinct.",
+      "source": "https://www.youtube.com/watch?v=2Xw5EgZdNvQ"
+    },
+    {
+      "t": 5918,
+      "claim": "Ongoing intercourse or paid workers imply consent to the new act.",
+      "assessment": "The direct refusal is act-specific and precedes the reported touching; context cannot reverse it.",
+      "source": "https://rainn.org/articles/what-is-consent"
+    },
+    {
+      "t": 7044,
+      "claim": "Broadcasting from a psychiatric facility licenses participant identification.",
+      "assessment": "Setting and visible presence do not establish patient status or publication consent.",
+      "source": "https://www.hhs.gov/hipaa/for-professionals/privacy/index.html"
+    },
+    {
+      "t": 7388,
+      "claim": "The November 2, 2012 AMA lasted 24 hours and used 200 participants.",
+      "assessment": "Treat scale as Choe's retrospective claim until contemporaneous Reddit/video archives are reconciled.",
+      "source": "https://www.reddit.com/r/IAmA/"
+    },
+    {
+      "t": 7716,
+      "claim": "Great art requires misery.",
+      "assessment": "This is Choe's personal thesis, explicitly disputed by Rogan; never publish it as mental-health or creative advice.",
+      "source": "https://www.nimh.nih.gov/health"
+    },
+    {
+      "t": 7870,
+      "claim": "Memory gaps indicate childhood assault.",
+      "assessment": "Memory gaps alone do not establish trauma history; do not infer or diagnose an event.",
+      "source": "https://www.apa.org/topics/trauma"
+    },
+    {
+      "t": 8041,
+      "claim": "The discussion states current sex-work law.",
+      "assessment": "It is a policy opinion and personal account; laws vary by place and time.",
+      "source": "https://www.justice.gov/"
+    },
+    {
+      "t": 8322,
+      "claim": "Han is genetic and Korean children inherit anger.",
+      "assessment": "Han is a contested cultural/historical concept, not a demonstrated gene or diagnostic trait.",
+      "source": "https://www.loc.gov/collections/korean-bibliography/about-this-collection/"
+    }
+  ],
+  "content_warnings": [
+    "sexual violence and disputed assault account",
+    "direct refusal followed by reported touching",
+    "rape myths and minimization",
+    "explicit sexual content",
+    "sex work and financial pressure",
+    "employment coercion",
+    "filmed sexual activity",
+    "planned relationship deception",
+    "private messages and partners",
+    "doxxing and stalking",
+    "psychiatric-facility privacy",
+    "gambling addiction and high-stakes losses",
+    "heart attack and diabetes self-reports",
+    "disordered eating",
+    "medical misinformation",
+    "heavy-metal exposure claims",
+    "physical injury",
+    "homophobic language",
+    "racial slurs and stereotypes",
+    "Asian-American sexual stereotypes",
+    "ethnic essentialism",
+    "gender stereotypes",
+    "body shaming",
+    "incarceration and threatened prison rape",
+    "drug use",
+    "suicidal and violent hyperbole",
+    "weapons",
+    "child privacy",
+    "treatment and uncertain trauma memories",
+    "unsafe creative-misery advice",
+    "advertising and platform claims",
+    "publisher-masked profanity"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "publish no named turns without held-out validation"
+    },
+    {
+      "t": 0.1,
+      "rule": "never reconstruct publisher-masked profanity or slurs"
+    },
+    {
+      "t": 89,
+      "rule": "do not diagnose Choe from health self-reports"
+    },
+    {
+      "t": 148,
+      "rule": "retain employment pressure around wrestling"
+    },
+    {
+      "t": 206,
+      "rule": "do not identify workers or infer their consent"
+    },
+    {
+      "t": 286,
+      "rule": "keep filming, sex, labor and travel consent separate"
+    },
+    {
+      "t": 374,
+      "rule": "require video for the physical contest"
+    },
+    {
+      "t": 410,
+      "rule": "never describe the proposal as a scheduled fight"
+    },
+    {
+      "t": 483,
+      "rule": "attach diabetes/remission context"
+    },
+    {
+      "t": 530,
+      "rule": "protect staff and relatives"
+    },
+    {
+      "t": 583,
+      "rule": "preserve racialized speech without endorsing hiring discrimination"
+    },
+    {
+      "t": 636,
+      "rule": "withhold home, access and security details"
+    },
+    {
+      "t": 704,
+      "rule": "do not generalize fish exposure from the anecdote"
+    },
+    {
+      "t": 741,
+      "rule": "attach arsenic/food-safety context"
+    },
+    {
+      "t": 810,
+      "rule": "specific training permission is not blanket consent"
+    },
+    {
+      "t": 868,
+      "rule": "do not diagnose injuries from audio"
+    },
+    {
+      "t": 1018,
+      "rule": "do not publish chewing-and-spitting as advice"
+    },
+    {
+      "t": 1133,
+      "rule": "do not generalize eating disorders by gender"
+    },
+    {
+      "t": 1182,
+      "rule": "do not identify the private business partner"
+    },
+    {
+      "t": 1214,
+      "rule": "do not advertise unproven treatment outcomes"
+    },
+    {
+      "t": 1284,
+      "rule": "do not expose or recommend a time-sensitive clinic"
+    },
+    {
+      "t": 1360,
+      "rule": "do not infer a private partner's health condition"
+    },
+    {
+      "t": 1693,
+      "rule": "protect private adult performers and set participants"
+    },
+    {
+      "t": 1703,
+      "rule": "verify adult-film first claims"
+    },
+    {
+      "t": 1992,
+      "rule": "withhold private teacher and classmates"
+    },
+    {
+      "t": 2085,
+      "rule": "do not identify school peer from race/school clues"
+    },
+    {
+      "t": 2264,
+      "rule": "verify the released book and exact edition"
+    },
+    {
+      "t": 2304,
+      "rule": "artwork content is not off-page conduct"
+    },
+    {
+      "t": 2448,
+      "rule": "verify Emmy wording and credit"
+    },
+    {
+      "t": 2644,
+      "rule": "do not turn religious stereotype into hiring advice"
+    },
+    {
+      "t": 2969,
+      "rule": "attach primary Chappelle chronology"
+    },
+    {
+      "t": 3449,
+      "rule": "do not search uncertain classmates"
+    },
+    {
+      "t": 3594,
+      "rule": "use Vertical Limit and 28 Days; preserve credit uncertainty"
+    },
+    {
+      "t": 3888,
+      "rule": "protect Rogan's minor child and verify art visually"
+    },
+    {
+      "t": 4017,
+      "rule": "do not use drugs as monocausal genocide explanation"
+    },
+    {
+      "t": 4133,
+      "rule": "video required for artwork descriptions"
+    },
+    {
+      "t": 4454,
+      "rule": "do not universalize debt amounts"
+    },
+    {
+      "t": 4540,
+      "rule": "retain Choe's immediate North Korea correction"
+    },
+    {
+      "t": 4577,
+      "rule": "do not call surviving Season 4 material complete from this claim"
+    },
+    {
+      "t": 4605,
+      "rule": "do not sensationalize near-assault self-report"
+    },
+    {
+      "t": 4630,
+      "rule": "do not expose private bag/object or participant details"
+    },
+    {
+      "t": 4642,
+      "rule": "do not publish current cash/security trails"
+    },
+    {
+      "t": 4703,
+      "rule": "withhold money locations and recipients"
+    },
+    {
+      "t": 4775,
+      "rule": "hoarder is self-description, not archive diagnosis"
+    },
+    {
+      "t": 4796,
+      "rule": "protect treatment and medical details"
+    },
+    {
+      "t": 4815,
+      "rule": "do not present high-limit gambling as strategy"
+    },
+    {
+      "t": 4865,
+      "rule": "protect the private woman and retain initial rejection"
+    },
+    {
+      "t": 4903,
+      "rule": "publication of messages does not waive discovery expansion"
+    },
+    {
+      "t": 4932,
+      "rule": "withhold alleged billionaire and spouse"
+    },
+    {
+      "t": 5002,
+      "rule": "do not publish private message/contact trail"
+    },
+    {
+      "t": 5130,
+      "rule": "do not infer motive or global consent"
+    },
+    {
+      "t": 5170,
+      "rule": "pair original account, this response and later reporting"
+    },
+    {
+      "t": 5184,
+      "rule": "Rogan's summary is not an independent finding"
+    },
+    {
+      "t": 5243,
+      "rule": "responsibility statement is not an admission to the underlying act"
+    },
+    {
+      "t": 5333,
+      "rule": "honor third-party objections and edit requests"
+    },
+    {
+      "t": 5399,
+      "rule": "exaggeration claim does not alone prove fabrication"
+    },
+    {
+      "t": 5411,
+      "rule": "denial does not alone prove exoneration"
+    },
+    {
+      "t": 5466,
+      "rule": "retain manager warning and publication choice"
+    },
+    {
+      "t": 5518,
+      "rule": "do not treat no public complainant as no harm"
+    },
+    {
+      "t": 5534,
+      "rule": "protect the unidentified woman"
+    },
+    {
+      "t": 5547,
+      "rule": "attach correction: resistance is not required"
+    },
+    {
+      "t": 5623,
+      "rule": "retain Rogan's explicit uncertainty"
+    },
+    {
+      "t": 5676,
+      "rule": "preserve scope of apology and minimization"
+    },
+    {
+      "t": 5759,
+      "rule": "private room norms do not govern public consent"
+    },
+    {
+      "t": 5881,
+      "rule": "withhold explicit video and worker identities"
+    },
+    {
+      "t": 5918,
+      "rule": "retain direct refusal verbatim"
+    },
+    {
+      "t": 5922,
+      "rule": "do not infer consent from ongoing intercourse, payment or friendship"
+    },
+    {
+      "t": 5950,
+      "rule": "protect Bill Poon's sexual and health details"
+    },
+    {
+      "t": 5991,
+      "rule": "label Girlfriend Experience as unmade proposal"
+    },
+    {
+      "t": 6011,
+      "rule": "do not normalize planned financial deception"
+    },
+    {
+      "t": 6119,
+      "rule": "gender does not invalidate Choe's own refusal"
+    },
+    {
+      "t": 6149,
+      "rule": "later pleasure does not retroactively create consent"
+    },
+    {
+      "t": 6174,
+      "rule": "never isolate quoted provocation from immediate denial"
+    },
+    {
+      "t": 6237,
+      "rule": "public-label harm does not resolve underlying evidence"
+    },
+    {
+      "t": 6328,
+      "rule": "do not turn cash claims into wealth fact"
+    },
+    {
+      "t": 6355,
+      "rule": "withhold home/security information"
+    },
+    {
+      "t": 6413,
+      "rule": "do not republish actionable contest clues"
+    },
+    {
+      "t": 6483,
+      "rule": "historic threat system requires time context"
+    },
+    {
+      "t": 6495,
+      "rule": "do not associate ethnicity with terrorism"
+    },
+    {
+      "t": 6564,
+      "rule": "never compose private identity clues"
+    },
+    {
+      "t": 6606,
+      "rule": "withhold Big Bear address and manager"
+    },
+    {
+      "t": 6677,
+      "rule": "do not count uncertain backlog as completed episodes"
+    },
+    {
+      "t": 6812,
+      "rule": "fight example is not violence advice"
+    },
+    {
+      "t": 6880,
+      "rule": "virtual rapist is rhetoric, not a legal category"
+    },
+    {
+      "t": 7010,
+      "rule": "context review does not replace participant consent"
+    },
+    {
+      "t": 7044,
+      "rule": "protect psychiatric-facility participants and health status"
+    },
+    {
+      "t": 7116,
+      "rule": "verify editions before claiming censorship"
+    },
+    {
+      "t": 7167,
+      "rule": "native-language audio required for lyric"
+    },
+    {
+      "t": 7247,
+      "rule": "verify Facebook compensation and art history"
+    },
+    {
+      "t": 7288,
+      "rule": "do not publish an unaudited net worth"
+    },
+    {
+      "t": 7353,
+      "rule": "do not expose clue locations"
+    },
+    {
+      "t": 7388,
+      "rule": "verify AMA scale and surviving copies"
+    },
+    {
+      "t": 7457,
+      "rule": "do not infer coordinated platform suppression"
+    },
+    {
+      "t": 7580,
+      "rule": "do not prescribe unsanitary housing or misery"
+    },
+    {
+      "t": 7621,
+      "rule": "separate place, incarceration and creative-output claims"
+    },
+    {
+      "t": 7716,
+      "rule": "retain Rogan's explicit disagreement"
+    },
+    {
+      "t": 7870,
+      "rule": "do not infer assault from memory gaps"
+    },
+    {
+      "t": 7888,
+      "rule": "protect treatment choices and history"
+    },
+    {
+      "t": 7922,
+      "rule": "protect paid workers and partners"
+    },
+    {
+      "t": 8028,
+      "rule": "blanket voluntariness claim is not person-specific evidence"
+    },
+    {
+      "t": 8041,
+      "rule": "do not present policy opinion as current law"
+    },
+    {
+      "t": 8052,
+      "rule": "reject ownership language and protect acquaintances"
+    },
+    {
+      "t": 8241,
+      "rule": "protect private partner"
+    },
+    {
+      "t": 8322,
+      "rule": "contextualize han without geneticizing it"
+    },
+    {
+      "t": 8327,
+      "rule": "exclude adopted minor from identity search"
+    },
+    {
+      "t": 8427,
+      "rule": "withhold uncertain private physician/athlete identity"
+    },
+    {
+      "t": 8507,
+      "rule": "do not present ethnicity as comedy causation"
+    },
+    {
+      "t": 8610,
+      "rule": "video required for podcast drawing"
+    },
+    {
+      "t": 8723,
+      "rule": "verify UCLA program and speaker comparison"
+    },
+    {
+      "t": 8753,
+      "rule": "verify Hawaii bill/video"
+    },
+    {
+      "t": 8813,
+      "rule": "retain Bobby's direct refusal"
+    },
+    {
+      "t": 8833,
+      "rule": "retain Choe's agreement not to copy"
+    },
+    {
+      "t": 8930,
+      "rule": "appearance does not establish homicide or gang status"
+    },
+    {
+      "t": 8988,
+      "rule": "Rogan recollection is not verified criminal history"
+    },
+    {
+      "t": 9030,
+      "rule": "closing empathy is not factual resolution"
+    },
+    {
+      "t": 9054,
+      "rule": "verify episode and book counts"
+    }
+  ],
+  "speaker_policy": {
+    "status": "all line-level turns unresolved; named turns withheld",
+    "reason": "Episode context identifies Joe Rogan, David Choe and Brian Redban, but 4,293 automatic-caption segments have no publisher name prefixes and include quotation, imitation, visual media, laughter and overlapping dialogue. Topic ownership, name address and adjacency do not establish voice identity. Only independently listening/video-verified, non-overlapping held-out windows may support an experiment."
+  },
+  "description": "A 2014 conversation about creative independence, public speech, work, health, money, sex, race and the consequences of turning private provocation into a broadcast.",
+  "description_source": "Opening of the human-reviewed summary."
 }

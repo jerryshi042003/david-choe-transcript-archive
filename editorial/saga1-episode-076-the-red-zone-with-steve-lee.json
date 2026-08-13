@@ -19,219 +19,876 @@
   "sensitivity": "Surprise recording and publication consent; childhood sexual abuse and alleged grooming; disability slurs and guessed diagnosis; sibling violence, knives and assault; threats toward children and fans; recovery and substance use; suicide statements and statistics; unhoused-person sexual coercion, expulsion, assault and arson; private partners and family medical history; explicit sexual content; minors' sexual history; racial and orientation slurs; informal family labor and financial dependence.",
   "speaker_policy": "Named dialogue remains withheld. Episode 76 has zero diarized turns and five coarse window embeddings for a changing ensemble. Public participants are contextually known, but no independently held-out multispeaker validation has passed.",
   "source_notes": [
-    {"claim": "Steve Lee's statement that he did not expect to appear or disclose intimate history is the primary evidence for the episode's publication-consent boundary", "source": "local immutable Episode 76 ASR at 1911–1930 and 3437–3476 seconds", "use": "makes continued participation insufficient to erase lack of advance informed agreement"},
-    {"claim": "Consent is valid only when freely given without pressure, manipulation or threats", "source": "https://rainn.org/strategies-to-reduce-risk-increase-safety/how-to-respond-if-someone-is-pressuring-you/", "use": "grounds rejection of the friend-zone rape joke and sex-for-shelter ultimatum"},
-    {"claim": "DOJ identifies demands for sex in order to obtain or continue housing as sexual harassment in housing", "source": "https://www.justice.gov/crt/what-sexual-harassment-housing", "use": "supports the rule that shelter cannot be conditioned on sexual access"},
-    {"claim": "The 2013 PolicyMic article Are Asian Men Undateable? discusses dating-platform and speed-dating data plus stereotypes around Asian men", "source": "https://www.mic.com/articles/74135/are-asian-men-undateable", "use": "resolves the article and distinguishes its argument from the cast's summary"},
-    {"claim": "Cataract surgery removes the cloudy lens and replaces it with an artificial lens; surgery is the only way to remove a cataract", "source": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/cataracts/cataract-surgery", "use": "corrects the episode's Lasix/LASIK description"},
-    {"claim": "Sex toys can pass infections when shared; cleaning and a new condom between people or body sites reduce risk", "source": "https://www.plannedparenthood.org/learn/stds-hiv-safer-sex/safer-sex", "use": "corrects the used-toy, genital-bump and reuse discussion"},
-    {"claim": "Masturbation does not inherently damage genitals or ruin other kinds of sex", "source": "https://www.plannedparenthood.org/learn/sex-pleasure-and-sexual-dysfunction/masturbation", "use": "corrects the claim that masturbation itself causes lost sensitivity and sexual dysfunction"},
-    {"claim": "U.S. male suicide death rates were three to four times female rates from 2003 through 2023", "source": "https://www.cdc.gov/nchs/products/databriefs/db541.htm", "use": "replaces the episode's unsupported attempt-versus-death ratio with a comparable official measure"},
-    {"claim": "Suicide attempts and deaths are different measures; many more people think about, plan or attempt suicide than die", "source": "https://www.cdc.gov/suicide/data/index.html", "use": "prevents a gender slogan from collapsing nonfatal and fatal behavior"},
-    {"claim": "Sexual coercion can leverage housing and finances, and lack of physical resistance is not consent", "source": "https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-intimate-partner-sexual-violence/", "use": "supports the vulnerable-housing and barrier/refusal analysis"}
+    {
+      "claim": "Steve Lee's statement that he did not expect to appear or disclose intimate history is the primary evidence for the episode's publication-consent boundary",
+      "source": "local immutable Episode 76 ASR at 1911–1930 and 3437–3476 seconds",
+      "use": "makes continued participation insufficient to erase lack of advance informed agreement"
+    },
+    {
+      "claim": "Consent is valid only when freely given without pressure, manipulation or threats",
+      "source": "https://rainn.org/strategies-to-reduce-risk-increase-safety/how-to-respond-if-someone-is-pressuring-you/",
+      "use": "grounds rejection of the friend-zone rape joke and sex-for-shelter ultimatum"
+    },
+    {
+      "claim": "DOJ identifies demands for sex in order to obtain or continue housing as sexual harassment in housing",
+      "source": "https://www.justice.gov/crt/what-sexual-harassment-housing",
+      "use": "supports the rule that shelter cannot be conditioned on sexual access"
+    },
+    {
+      "claim": "The 2013 PolicyMic article Are Asian Men Undateable? discusses dating-platform and speed-dating data plus stereotypes around Asian men",
+      "source": "https://www.mic.com/articles/74135/are-asian-men-undateable",
+      "use": "resolves the article and distinguishes its argument from the cast's summary"
+    },
+    {
+      "claim": "Cataract surgery removes the cloudy lens and replaces it with an artificial lens; surgery is the only way to remove a cataract",
+      "source": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/cataracts/cataract-surgery",
+      "use": "corrects the episode's Lasix/LASIK description"
+    },
+    {
+      "claim": "Sex toys can pass infections when shared; cleaning and a new condom between people or body sites reduce risk",
+      "source": "https://www.plannedparenthood.org/learn/stds-hiv-safer-sex/safer-sex",
+      "use": "corrects the used-toy, genital-bump and reuse discussion"
+    },
+    {
+      "claim": "Masturbation does not inherently damage genitals or ruin other kinds of sex",
+      "source": "https://www.plannedparenthood.org/learn/sex-pleasure-and-sexual-dysfunction/masturbation",
+      "use": "corrects the claim that masturbation itself causes lost sensitivity and sexual dysfunction"
+    },
+    {
+      "claim": "U.S. male suicide death rates were three to four times female rates from 2003 through 2023",
+      "source": "https://www.cdc.gov/nchs/products/databriefs/db541.htm",
+      "use": "replaces the episode's unsupported attempt-versus-death ratio with a comparable official measure"
+    },
+    {
+      "claim": "Suicide attempts and deaths are different measures; many more people think about, plan or attempt suicide than die",
+      "source": "https://www.cdc.gov/suicide/data/index.html",
+      "use": "prevents a gender slogan from collapsing nonfatal and fatal behavior"
+    },
+    {
+      "claim": "Sexual coercion can leverage housing and finances, and lack of physical resistance is not consent",
+      "source": "https://rainn.org/what-counts-as-sexual-violence/get-the-facts-about-intimate-partner-sexual-violence/",
+      "use": "supports the vulnerable-housing and barrier/refusal analysis"
+    }
   ],
   "chapters": [
-    {"t": 0.0, "title": "Cold-open threat"},
-    {"t": 43.0, "title": "DVDASA begins"},
-    {"t": 78.0, "title": "Changed room and absent cast"},
-    {"t": 161.0, "title": "Money Mark and Asa Akira absent"},
-    {"t": 209.0, "title": "Babasa nickname"},
-    {"t": 214.0, "title": "Steve Lee arrives"},
-    {"t": 227.0, "title": "Private partner details minimized"},
-    {"t": 273.0, "title": "Older and younger brothers"},
-    {"t": 309.0, "title": "Unhoused young woman introduced"},
-    {"t": 317.0, "title": "Diagnosis cannot be inferred"},
-    {"t": 330.0, "title": "Steve's active-use period"},
-    {"t": 353.0, "title": "Two recovery timelines"},
-    {"t": 358.0, "title": "Arizona State University"},
-    {"t": 363.0, "title": "LSD visual experiences"},
-    {"t": 394.0, "title": "Reptilian belief"},
-    {"t": 437.0, "title": "David Icke"},
-    {"t": 469.0, "title": "The Sixth Sense analogy"},
-    {"t": 478.0, "title": "Persistent perception needs care, not validation"},
-    {"t": 550.0, "title": "Recovery-program privacy"},
-    {"t": 570.0, "title": "Conflicting knife accounts"},
-    {"t": 597.0, "title": "Knockout Kings 2001"},
-    {"t": 636.0, "title": "A cheap move triggers rage"},
-    {"t": 697.0, "title": "Knife display acknowledged"},
-    {"t": 714.0, "title": "Repeated-threat count unresolved"},
-    {"t": 757.0, "title": "Gaming and impairment"},
-    {"t": 769.0, "title": "World of Warcraft"},
-    {"t": 797.0, "title": "Threats toward a child"},
-    {"t": 840.0, "title": "The red zone defined"},
-    {"t": 844.0, "title": "Call of Duty"},
-    {"t": 863.0, "title": "Threatening knife display"},
-    {"t": 910.0, "title": "Relationship loss attributed to gaming"},
-    {"t": 918.0, "title": "Older-brother hierarchy"},
-    {"t": 954.0, "title": "Used sex-toy dispute"},
-    {"t": 961.0, "title": "Genital bump is not a diagnosis"},
-    {"t": 1017.0, "title": "Wicket tattoo"},
-    {"t": 1077.0, "title": "Korean name romanization uncertain"},
-    {"t": 1098.0, "title": "Financial disparity"},
-    {"t": 1134.0, "title": "Three months into stand-up"},
-    {"t": 1145.0, "title": "Pig 'n Whistle open mic"},
-    {"t": 1180.0, "title": "Cowboy-rap setup"},
-    {"t": 1226.0, "title": "Lil Ray and Cousin Cooter"},
-    {"t": 1290.0, "title": "Rapid lyrics partly unresolved"},
-    {"t": 1344.0, "title": "Meltdown Comics open mic"},
-    {"t": 1362.0, "title": "Setup–punch style"},
-    {"t": 1435.0, "title": "Parents and creative work"},
-    {"t": 1492.0, "title": "Not a Korean-family rule"},
-    {"t": 1554.0, "title": "Shared-toy infection risk"},
-    {"t": 1606.0, "title": "Fleshlight correction"},
-    {"t": 1667.0, "title": "AVN expo reference"},
-    {"t": 1748.0, "title": "Porn and avoidance"},
-    {"t": 1797.0, "title": "Feeling like a burden"},
-    {"t": 1831.0, "title": "Stand-up as independent road"},
-    {"t": 1847.0, "title": "Comedy workshop comparison"},
-    {"t": 1894.0, "title": "Support exchanged for house care"},
-    {"t": 1911.0, "title": "I did not think I would be on the podcast"},
-    {"t": 1920.0, "title": "The garage is not consent"},
-    {"t": 1926.0, "title": "Baring his soul was unexpected"},
-    {"t": 1938.0, "title": "Amoeba Music job"},
-    {"t": 1949.0, "title": "Explicit workplace speech and firing"},
-    {"t": 1984.0, "title": "Multiple jobs, absolute claim rejected"},
-    {"t": 2044.0, "title": "Dependence versus workplace dignity"},
-    {"t": 2106.0, "title": "Informal codependency discussion"},
-    {"t": 2117.0, "title": "Family care is labor"},
-    {"t": 2137.0, "title": "Stage nudity and audience context"},
-    {"t": 2210.0, "title": "Childhood-abuse account"},
-    {"t": 2236.0, "title": "Disability does not explain abuse"},
-    {"t": 2241.0, "title": "Rocky Dennis and Mask"},
-    {"t": 2259.0, "title": "Do not pressure a relative to disclose"},
-    {"t": 2289.0, "title": "Let's not talk about that"},
-    {"t": 2316.0, "title": "Some details should not be out"},
-    {"t": 2339.0, "title": "Diagnosis cannot come from appearance"},
-    {"t": 2380.0, "title": "Return to dating insecurity"},
-    {"t": 2435.0, "title": "Celebrity proximity creates no access"},
-    {"t": 2455.0, "title": "House-sitting and private woman"},
-    {"t": 2465.0, "title": "Bedding and bodily fluids"},
-    {"t": 2537.0, "title": "Disability slur corrected"},
-    {"t": 2573.0, "title": "Asian friend-zone stereotype"},
-    {"t": 2605.0, "title": "Rape is never a dating strategy"},
-    {"t": 2620.0, "title": "Respectful interest and acceptance"},
-    {"t": 2653.0, "title": "Objectification is not required"},
-    {"t": 2660.0, "title": "Accept disinterest"},
-    {"t": 2693.0, "title": "Tinder changes initial uncertainty"},
-    {"t": 2708.0, "title": "Jackson Perdue advice"},
-    {"t": 2726.0, "title": "A compliment is not consent"},
-    {"t": 2784.0, "title": "Desperation creates no entitlement"},
-    {"t": 2815.0, "title": "New York article story"},
-    {"t": 2834.0, "title": "Are Asian Men Undateable?"},
-    {"t": 2868.0, "title": "Thrown through a window"},
-    {"t": 2893.0, "title": "Recent-punch memories conflict"},
-    {"t": 2906.0, "title": "ArcLight birthday"},
-    {"t": 2916.0, "title": "The Master"},
-    {"t": 2964.0, "title": "The theater red zone"},
-    {"t": 3017.0, "title": "Anger does not excuse intimidation"},
-    {"t": 3052.0, "title": "Philip Seymour Hoffman comparison"},
-    {"t": 3132.0, "title": "Dependence pattern returns"},
-    {"t": 3195.0, "title": "CIF wrestling history"},
-    {"t": 3209.0, "title": "Critter fight claims remain attributed"},
-    {"t": 3294.0, "title": "State-title expectations"},
-    {"t": 3322.0, "title": "Fear and freezing"},
-    {"t": 3362.0, "title": "A loss becomes a life story"},
-    {"t": 3371.0, "title": "Se7en and Bible-covered room"},
-    {"t": 3394.0, "title": "Arizona State aftermath"},
-    {"t": 3437.0, "title": "The intimate scope was unexpected"},
-    {"t": 3459.0, "title": "I didn't sign up; too late is rejected"},
-    {"t": 3475.0, "title": "A podcast is not therapy"},
-    {"t": 3500.0, "title": "Steve wants to change"},
-    {"t": 3537.0, "title": "Brothers say they love each other"},
-    {"t": 3557.0, "title": "Kiss prompt and bodily consent"},
-    {"t": 3623.0, "title": "Severe clouded vision"},
-    {"t": 3654.0, "title": "Cataract surgery, not LASIK"},
-    {"t": 3715.0, "title": "Five years in recovery"},
-    {"t": 3749.0, "title": "Father's stroke"},
-    {"t": 3753.0, "title": "Months of family caregiving"},
-    {"t": 3779.0, "title": "End-of-life vision"},
-    {"t": 3852.0, "title": "Activity can help but is not a cure"},
-    {"t": 3908.0, "title": "Kwangwoo comedy handle"},
-    {"t": 4017.0, "title": "Choi Min-sik in Oldboy"},
-    {"t": 4093.0, "title": "Assumption corrected to dinner"},
-    {"t": 4230.0, "title": "Kalilah named on air"},
-    {"t": 4248.0, "title": "Context identified her already"},
-    {"t": 4280.0, "title": "Fan threat"},
-    {"t": 4300.0, "title": "Do not name or mobilize against the fan"},
-    {"t": 4331.0, "title": "Negative-feedback estimate"},
-    {"t": 4382.0, "title": "Repeated-threat report"},
-    {"t": 4388.0, "title": "Do not invite confrontation"},
-    {"t": 4406.0, "title": "Whole Foods fan encounter"},
-    {"t": 4448.0, "title": "Yoshi rules drive-by"},
-    {"t": 4461.0, "title": "MADtv, Chelsea Lately and DVDASA"},
-    {"t": 4509.0, "title": "What the article actually argued"},
-    {"t": 4522.0, "title": "Reported Twitter exchange"},
-    {"t": 4568.0, "title": "Bias is real; impossibility is not"},
-    {"t": 4598.0, "title": "What's the use of living"},
-    {"t": 4628.0, "title": "Unhoused woman protected"},
-    {"t": 4643.0, "title": "Blanket barrier stops contact"},
-    {"t": 4705.0, "title": "Shelter creates no sexual debt"},
-    {"t": 4721.0, "title": "No expulsion for refusing sex"},
-    {"t": 4738.0, "title": "What do I get is rejected"},
-    {"t": 4756.0, "title": "Advance notice does not erase coercion"},
-    {"t": 4790.0, "title": "Coercive ultimatum rejected"},
-    {"t": 4817.0, "title": "Street danger cannot be leverage"},
-    {"t": 4864.0, "title": "Hypothetical threat escalation"},
-    {"t": 4870.0, "title": "No red zone against a guest"},
-    {"t": 4890.0, "title": "Removal techniques withheld"},
-    {"t": 4923.0, "title": "Assault instructions withheld"},
-    {"t": 4949.0, "title": "Clear expectations and safer boundaries"},
-    {"t": 4963.0, "title": "Arson-murder joke"},
-    {"t": 5002.0, "title": "Sex-for-shelter slogan rejected"},
-    {"t": 5035.0, "title": "Guests leave; show continues"},
-    {"t": 5059.0, "title": "Steve Lee's open-mic plug"},
-    {"t": 5194.0, "title": "Father-son sex education"},
-    {"t": 5224.0, "title": "Condom advice"},
-    {"t": 5316.0, "title": "Suicide statistic corrected"},
-    {"t": 5392.0, "title": "Minor sexual history minimized"},
-    {"t": 5451.0, "title": "Premature-ejaculation advice needs care"},
-    {"t": 5525.0, "title": "Masturbation myth corrected"},
-    {"t": 5627.0, "title": "Oral-sex risk is not certainty"},
-    {"t": 5669.0, "title": "Safer sex-toy sharing"},
-    {"t": 5715.0, "title": "Hitachi Magic Wand"},
-    {"t": 5788.0, "title": "Porn and imagination"},
-    {"t": 5831.0, "title": "Bobby Trivia begins"},
-    {"t": 5940.0, "title": "Better Man"},
-    {"t": 5975.0, "title": "I'll Stand by You"},
-    {"t": 6006.0, "title": "Into the Limelight vinyl"},
-    {"t": 6032.0, "title": "Episode-era DVDASA store"},
-    {"t": 6046.0, "title": "Giveaway terms not finalized"},
-    {"t": 6093.0, "title": "BOBASA alternate name"},
-    {"t": 6111.0, "title": "No hood-pass immunity"},
-    {"t": 6142.0, "title": "Five hundred copies"},
-    {"t": 6210.0, "title": "Coyotes hockey storyline"},
-    {"t": 6231.0, "title": "Five points, not five goals"},
-    {"t": 6256.0, "title": "Critter learns to skate"},
-    {"t": 6352.0, "title": "The Mighty Ducks dream"},
-    {"t": 6466.0, "title": "One-take Jigga comparison"},
-    {"t": 6577.0, "title": "Taking Back Sunday song"},
-    {"t": 6725.0, "title": "Oldboy trivia callback"},
-    {"t": 6751.0, "title": "Coercive callback not normalized"},
-    {"t": 6801.0, "title": "Trivia smelling and hygiene"},
-    {"t": 6841.0, "title": "DVDASA close"},
-    {"t": 6914.0, "title": "Into the Limelight promotion"}
+    {
+      "t": 0,
+      "title": "Cold-open threat"
+    },
+    {
+      "t": 43,
+      "title": "DVDASA begins"
+    },
+    {
+      "t": 78,
+      "title": "Changed room and absent cast"
+    },
+    {
+      "t": 161,
+      "title": "Money Mark and Asa Akira absent"
+    },
+    {
+      "t": 209,
+      "title": "Babasa nickname"
+    },
+    {
+      "t": 214,
+      "title": "Steve Lee arrives"
+    },
+    {
+      "t": 227,
+      "title": "Private partner details minimized"
+    },
+    {
+      "t": 273,
+      "title": "Older and younger brothers"
+    },
+    {
+      "t": 309,
+      "title": "Unhoused young woman introduced"
+    },
+    {
+      "t": 317,
+      "title": "Diagnosis cannot be inferred"
+    },
+    {
+      "t": 330,
+      "title": "Steve's active-use period"
+    },
+    {
+      "t": 353,
+      "title": "Two recovery timelines"
+    },
+    {
+      "t": 358,
+      "title": "Arizona State University"
+    },
+    {
+      "t": 363,
+      "title": "LSD visual experiences"
+    },
+    {
+      "t": 394,
+      "title": "Reptilian belief"
+    },
+    {
+      "t": 437,
+      "title": "David Icke"
+    },
+    {
+      "t": 469,
+      "title": "The Sixth Sense analogy"
+    },
+    {
+      "t": 478,
+      "title": "Persistent perception needs care, not validation"
+    },
+    {
+      "t": 550,
+      "title": "Recovery-program privacy"
+    },
+    {
+      "t": 570,
+      "title": "Conflicting knife accounts"
+    },
+    {
+      "t": 597,
+      "title": "Knockout Kings 2001"
+    },
+    {
+      "t": 636,
+      "title": "A cheap move triggers rage"
+    },
+    {
+      "t": 697,
+      "title": "Knife display acknowledged"
+    },
+    {
+      "t": 714,
+      "title": "Repeated-threat count unresolved"
+    },
+    {
+      "t": 757,
+      "title": "Gaming and impairment"
+    },
+    {
+      "t": 769,
+      "title": "World of Warcraft"
+    },
+    {
+      "t": 797,
+      "title": "Threats toward a child"
+    },
+    {
+      "t": 840,
+      "title": "The red zone defined"
+    },
+    {
+      "t": 844,
+      "title": "Call of Duty"
+    },
+    {
+      "t": 863,
+      "title": "Threatening knife display"
+    },
+    {
+      "t": 910,
+      "title": "Relationship loss attributed to gaming"
+    },
+    {
+      "t": 918,
+      "title": "Older-brother hierarchy"
+    },
+    {
+      "t": 954,
+      "title": "Used sex-toy dispute"
+    },
+    {
+      "t": 961,
+      "title": "Genital bump is not a diagnosis"
+    },
+    {
+      "t": 1017,
+      "title": "Wicket tattoo"
+    },
+    {
+      "t": 1077,
+      "title": "Korean name romanization uncertain"
+    },
+    {
+      "t": 1098,
+      "title": "Financial disparity"
+    },
+    {
+      "t": 1134,
+      "title": "Three months into stand-up"
+    },
+    {
+      "t": 1145,
+      "title": "Pig 'n Whistle open mic"
+    },
+    {
+      "t": 1180,
+      "title": "Cowboy-rap setup"
+    },
+    {
+      "t": 1226,
+      "title": "Lil Ray and Cousin Cooter"
+    },
+    {
+      "t": 1290,
+      "title": "Rapid lyrics partly unresolved"
+    },
+    {
+      "t": 1344,
+      "title": "Meltdown Comics open mic"
+    },
+    {
+      "t": 1362,
+      "title": "Setup–punch style"
+    },
+    {
+      "t": 1435,
+      "title": "Parents and creative work"
+    },
+    {
+      "t": 1492,
+      "title": "Not a Korean-family rule"
+    },
+    {
+      "t": 1554,
+      "title": "Shared-toy infection risk"
+    },
+    {
+      "t": 1606,
+      "title": "Fleshlight correction"
+    },
+    {
+      "t": 1667,
+      "title": "AVN expo reference"
+    },
+    {
+      "t": 1748,
+      "title": "Porn and avoidance"
+    },
+    {
+      "t": 1797,
+      "title": "Feeling like a burden"
+    },
+    {
+      "t": 1831,
+      "title": "Stand-up as independent road"
+    },
+    {
+      "t": 1847,
+      "title": "Comedy workshop comparison"
+    },
+    {
+      "t": 1894,
+      "title": "Support exchanged for house care"
+    },
+    {
+      "t": 1911,
+      "title": "I did not think I would be on the podcast"
+    },
+    {
+      "t": 1920,
+      "title": "The garage is not consent"
+    },
+    {
+      "t": 1926,
+      "title": "Baring his soul was unexpected"
+    },
+    {
+      "t": 1938,
+      "title": "Amoeba Music job"
+    },
+    {
+      "t": 1949,
+      "title": "Explicit workplace speech and firing"
+    },
+    {
+      "t": 1984,
+      "title": "Multiple jobs, absolute claim rejected"
+    },
+    {
+      "t": 2044,
+      "title": "Dependence versus workplace dignity"
+    },
+    {
+      "t": 2106,
+      "title": "Informal codependency discussion"
+    },
+    {
+      "t": 2117,
+      "title": "Family care is labor"
+    },
+    {
+      "t": 2137,
+      "title": "Stage nudity and audience context"
+    },
+    {
+      "t": 2210,
+      "title": "Childhood-abuse account"
+    },
+    {
+      "t": 2236,
+      "title": "Disability does not explain abuse"
+    },
+    {
+      "t": 2241,
+      "title": "Rocky Dennis and Mask"
+    },
+    {
+      "t": 2259,
+      "title": "Do not pressure a relative to disclose"
+    },
+    {
+      "t": 2289,
+      "title": "Let's not talk about that"
+    },
+    {
+      "t": 2316,
+      "title": "Some details should not be out"
+    },
+    {
+      "t": 2339,
+      "title": "Diagnosis cannot come from appearance"
+    },
+    {
+      "t": 2380,
+      "title": "Return to dating insecurity"
+    },
+    {
+      "t": 2435,
+      "title": "Celebrity proximity creates no access"
+    },
+    {
+      "t": 2455,
+      "title": "House-sitting and private woman"
+    },
+    {
+      "t": 2465,
+      "title": "Bedding and bodily fluids"
+    },
+    {
+      "t": 2537,
+      "title": "Disability slur corrected"
+    },
+    {
+      "t": 2573,
+      "title": "Asian friend-zone stereotype"
+    },
+    {
+      "t": 2605,
+      "title": "Rape is never a dating strategy"
+    },
+    {
+      "t": 2620,
+      "title": "Respectful interest and acceptance"
+    },
+    {
+      "t": 2653,
+      "title": "Objectification is not required"
+    },
+    {
+      "t": 2660,
+      "title": "Accept disinterest"
+    },
+    {
+      "t": 2693,
+      "title": "Tinder changes initial uncertainty"
+    },
+    {
+      "t": 2708,
+      "title": "Jackson Perdue advice"
+    },
+    {
+      "t": 2726,
+      "title": "A compliment is not consent"
+    },
+    {
+      "t": 2784,
+      "title": "Desperation creates no entitlement"
+    },
+    {
+      "t": 2815,
+      "title": "New York article story"
+    },
+    {
+      "t": 2834,
+      "title": "Are Asian Men Undateable?"
+    },
+    {
+      "t": 2868,
+      "title": "Thrown through a window"
+    },
+    {
+      "t": 2893,
+      "title": "Recent-punch memories conflict"
+    },
+    {
+      "t": 2906,
+      "title": "ArcLight birthday"
+    },
+    {
+      "t": 2916,
+      "title": "The Master"
+    },
+    {
+      "t": 2964,
+      "title": "The theater red zone"
+    },
+    {
+      "t": 3017,
+      "title": "Anger does not excuse intimidation"
+    },
+    {
+      "t": 3052,
+      "title": "Philip Seymour Hoffman comparison"
+    },
+    {
+      "t": 3132,
+      "title": "Dependence pattern returns"
+    },
+    {
+      "t": 3195,
+      "title": "CIF wrestling history"
+    },
+    {
+      "t": 3209,
+      "title": "Critter fight claims remain attributed"
+    },
+    {
+      "t": 3294,
+      "title": "State-title expectations"
+    },
+    {
+      "t": 3322,
+      "title": "Fear and freezing"
+    },
+    {
+      "t": 3362,
+      "title": "A loss becomes a life story"
+    },
+    {
+      "t": 3371,
+      "title": "Se7en and Bible-covered room"
+    },
+    {
+      "t": 3394,
+      "title": "Arizona State aftermath"
+    },
+    {
+      "t": 3437,
+      "title": "The intimate scope was unexpected"
+    },
+    {
+      "t": 3459,
+      "title": "I didn't sign up; too late is rejected"
+    },
+    {
+      "t": 3475,
+      "title": "A podcast is not therapy"
+    },
+    {
+      "t": 3500,
+      "title": "Steve wants to change"
+    },
+    {
+      "t": 3537,
+      "title": "Brothers say they love each other"
+    },
+    {
+      "t": 3557,
+      "title": "Kiss prompt and bodily consent"
+    },
+    {
+      "t": 3623,
+      "title": "Severe clouded vision"
+    },
+    {
+      "t": 3654,
+      "title": "Cataract surgery, not LASIK"
+    },
+    {
+      "t": 3715,
+      "title": "Five years in recovery"
+    },
+    {
+      "t": 3749,
+      "title": "Father's stroke"
+    },
+    {
+      "t": 3753,
+      "title": "Months of family caregiving"
+    },
+    {
+      "t": 3779,
+      "title": "End-of-life vision"
+    },
+    {
+      "t": 3852,
+      "title": "Activity can help but is not a cure"
+    },
+    {
+      "t": 3908,
+      "title": "Kwangwoo comedy handle"
+    },
+    {
+      "t": 4017,
+      "title": "Choi Min-sik in Oldboy"
+    },
+    {
+      "t": 4093,
+      "title": "Assumption corrected to dinner"
+    },
+    {
+      "t": 4230,
+      "title": "Kalilah named on air"
+    },
+    {
+      "t": 4248,
+      "title": "Context identified her already"
+    },
+    {
+      "t": 4280,
+      "title": "Fan threat"
+    },
+    {
+      "t": 4300,
+      "title": "Do not name or mobilize against the fan"
+    },
+    {
+      "t": 4331,
+      "title": "Negative-feedback estimate"
+    },
+    {
+      "t": 4382,
+      "title": "Repeated-threat report"
+    },
+    {
+      "t": 4388,
+      "title": "Do not invite confrontation"
+    },
+    {
+      "t": 4406,
+      "title": "Whole Foods fan encounter"
+    },
+    {
+      "t": 4448,
+      "title": "Yoshi rules drive-by"
+    },
+    {
+      "t": 4461,
+      "title": "MADtv, Chelsea Lately and DVDASA"
+    },
+    {
+      "t": 4509,
+      "title": "What the article actually argued"
+    },
+    {
+      "t": 4522,
+      "title": "Reported Twitter exchange"
+    },
+    {
+      "t": 4568,
+      "title": "Bias is real; impossibility is not"
+    },
+    {
+      "t": 4598,
+      "title": "What's the use of living"
+    },
+    {
+      "t": 4628,
+      "title": "Unhoused woman protected"
+    },
+    {
+      "t": 4643,
+      "title": "Blanket barrier stops contact"
+    },
+    {
+      "t": 4705,
+      "title": "Shelter creates no sexual debt"
+    },
+    {
+      "t": 4721,
+      "title": "No expulsion for refusing sex"
+    },
+    {
+      "t": 4738,
+      "title": "What do I get is rejected"
+    },
+    {
+      "t": 4756,
+      "title": "Advance notice does not erase coercion"
+    },
+    {
+      "t": 4790,
+      "title": "Coercive ultimatum rejected"
+    },
+    {
+      "t": 4817,
+      "title": "Street danger cannot be leverage"
+    },
+    {
+      "t": 4864,
+      "title": "Hypothetical threat escalation"
+    },
+    {
+      "t": 4870,
+      "title": "No red zone against a guest"
+    },
+    {
+      "t": 4890,
+      "title": "Removal techniques withheld"
+    },
+    {
+      "t": 4923,
+      "title": "Assault instructions withheld"
+    },
+    {
+      "t": 4949,
+      "title": "Clear expectations and safer boundaries"
+    },
+    {
+      "t": 4963,
+      "title": "Arson-murder joke"
+    },
+    {
+      "t": 5002,
+      "title": "Sex-for-shelter slogan rejected"
+    },
+    {
+      "t": 5035,
+      "title": "Guests leave; show continues"
+    },
+    {
+      "t": 5059,
+      "title": "Steve Lee's open-mic plug"
+    },
+    {
+      "t": 5194,
+      "title": "Father-son sex education"
+    },
+    {
+      "t": 5224,
+      "title": "Condom advice"
+    },
+    {
+      "t": 5316,
+      "title": "Suicide statistic corrected"
+    },
+    {
+      "t": 5392,
+      "title": "Minor sexual history minimized"
+    },
+    {
+      "t": 5451,
+      "title": "Premature-ejaculation advice needs care"
+    },
+    {
+      "t": 5525,
+      "title": "Masturbation myth corrected"
+    },
+    {
+      "t": 5627,
+      "title": "Oral-sex risk is not certainty"
+    },
+    {
+      "t": 5669,
+      "title": "Safer sex-toy sharing"
+    },
+    {
+      "t": 5715,
+      "title": "Hitachi Magic Wand"
+    },
+    {
+      "t": 5788,
+      "title": "Porn and imagination"
+    },
+    {
+      "t": 5831,
+      "title": "Bobby Trivia begins"
+    },
+    {
+      "t": 5940,
+      "title": "Better Man"
+    },
+    {
+      "t": 5975,
+      "title": "I'll Stand by You"
+    },
+    {
+      "t": 6006,
+      "title": "Into the Limelight vinyl"
+    },
+    {
+      "t": 6032,
+      "title": "Episode-era DVDASA store"
+    },
+    {
+      "t": 6046,
+      "title": "Giveaway terms not finalized"
+    },
+    {
+      "t": 6093,
+      "title": "BOBASA alternate name"
+    },
+    {
+      "t": 6111,
+      "title": "No hood-pass immunity"
+    },
+    {
+      "t": 6142,
+      "title": "Five hundred copies"
+    },
+    {
+      "t": 6210,
+      "title": "Coyotes hockey storyline"
+    },
+    {
+      "t": 6231,
+      "title": "Five points, not five goals"
+    },
+    {
+      "t": 6256,
+      "title": "Critter learns to skate"
+    },
+    {
+      "t": 6352,
+      "title": "The Mighty Ducks dream"
+    },
+    {
+      "t": 6466,
+      "title": "One-take Jigga comparison"
+    },
+    {
+      "t": 6577,
+      "title": "Taking Back Sunday song"
+    },
+    {
+      "t": 6725,
+      "title": "Oldboy trivia callback"
+    },
+    {
+      "t": 6751,
+      "title": "Coercive callback not normalized"
+    },
+    {
+      "t": 6801,
+      "title": "Trivia smelling and hygiene"
+    },
+    {
+      "t": 6841,
+      "title": "DVDASA close"
+    },
+    {
+      "t": 6914,
+      "title": "Into the Limelight promotion"
+    }
   ],
   "connections": [
-    {"from": 209, "to": "DVDASA show-development timeline", "relationship": "BOBASA/Babasa returns as the cast imagines Bobby taking over the title"},
-    {"from": 353, "to": "Bobby Lee recovery timeline", "relationship": "Bobby reports nearly eleven years sober while Steve reports five"},
-    {"from": 840, "to": "anger and red-zone ledger", "relationship": "Gaming rage supplies the episode's term for later sibling, theater and housing escalation"},
-    {"from": 1134, "to": "Steve Lee creative timeline", "relationship": "Steve dates his open-mic stand-up start to roughly three months before recording"},
-    {"from": 1180, "to": "Steve Lee early comedy work", "relationship": "The full cowboy-rap character routine becomes the episode's clearest creative artifact"},
-    {"from": 1911, "to": "DVDASA publication-consent ledger", "relationship": "A guest says he did not know he would be on the podcast after intimate disclosure had already begun"},
-    {"from": 1926, "to": "scope-of-consent ledger", "relationship": "Steve distinguishes meeting the group from unexpectedly baring his soul"},
-    {"from": 2210, "to": "Bobby Lee childhood testimony timeline", "relationship": "A public comedy account is re-opened through a relative who asks to stop and limit details"},
-    {"from": 2605, "to": "consent-misinformation ledger", "relationship": "Rape is framed as a route out of friendship before being explicitly rejected"},
-    {"from": 2834, "to": "Asian American media and written-source census", "relationship": "Justin Chan's 2013 PolicyMic article is the exact source that triggered the New York exchange"},
-    {"from": 2964, "to": "anger and red-zone ledger", "relationship": "A theater correction escalates into intimidation and ruins a birthday outing"},
-    {"from": 3294, "to": "Steve Lee wrestling timeline", "relationship": "State-level fear and freezing become the family's explanation for a major life turn"},
-    {"from": 3459, "to": "Episode 74–76 publication-governance timeline", "relationship": "The room answers lack of consent with 'too late,' directly continuing the prior episodes' waiver and editing conflict"},
-    {"from": 3654, "to": "Bobby–Steve Lee care timeline", "relationship": "Bobby's support for cataract surgery complicates the dependence and resentment story"},
-    {"from": 3753, "to": "Lee family care-labor timeline", "relationship": "Steve's months caring for his father show reciprocal family contribution beyond formal employment"},
-    {"from": 4230, "to": "Bobby Lee–Kalilah relationship timeline", "relationship": "Kalilah's first name is deliberately spoken after earlier episodes relied on contextual anonymity"},
-    {"from": 4280, "to": "DVDASA fan-risk ledger", "relationship": "A listener threatens Steve for appearing, and the room nearly moves toward public identification and retaliation"},
-    {"from": 4705, "to": "housing and sexual-coercion ledger", "relationship": "The show converts emergency shelter into a claimed sexual exchange; the archive rejects the premise"},
-    {"from": 5316, "to": "men's mental-health claim ledger", "relationship": "A gendered suicide slogan is replaced with comparable official attempt and death measures"},
-    {"from": 6006, "to": "DVDASA release and merchandise timeline", "relationship": "The 500-copy Into the Limelight vinyl becomes a shop-linked, initially free promotional artifact"}
+    {
+      "from": 209,
+      "to": "DVDASA show-development timeline",
+      "relationship": "BOBASA/Babasa returns as the cast imagines Bobby taking over the title"
+    },
+    {
+      "from": 353,
+      "to": "Bobby Lee recovery timeline",
+      "relationship": "Bobby reports nearly eleven years sober while Steve reports five"
+    },
+    {
+      "from": 840,
+      "to": "anger and red-zone ledger",
+      "relationship": "Gaming rage supplies the episode's term for later sibling, theater and housing escalation"
+    },
+    {
+      "from": 1134,
+      "to": "Steve Lee creative timeline",
+      "relationship": "Steve dates his open-mic stand-up start to roughly three months before recording"
+    },
+    {
+      "from": 1180,
+      "to": "Steve Lee early comedy work",
+      "relationship": "The full cowboy-rap character routine becomes the episode's clearest creative artifact"
+    },
+    {
+      "from": 1911,
+      "to": "DVDASA publication-consent ledger",
+      "relationship": "A guest says he did not know he would be on the podcast after intimate disclosure had already begun"
+    },
+    {
+      "from": 1926,
+      "to": "scope-of-consent ledger",
+      "relationship": "Steve distinguishes meeting the group from unexpectedly baring his soul"
+    },
+    {
+      "from": 2210,
+      "to": "Bobby Lee childhood testimony timeline",
+      "relationship": "A public comedy account is re-opened through a relative who asks to stop and limit details"
+    },
+    {
+      "from": 2605,
+      "to": "consent-misinformation ledger",
+      "relationship": "Rape is framed as a route out of friendship before being explicitly rejected"
+    },
+    {
+      "from": 2834,
+      "to": "Asian American media and written-source census",
+      "relationship": "Justin Chan's 2013 PolicyMic article is the exact source that triggered the New York exchange"
+    },
+    {
+      "from": 2964,
+      "to": "anger and red-zone ledger",
+      "relationship": "A theater correction escalates into intimidation and ruins a birthday outing"
+    },
+    {
+      "from": 3294,
+      "to": "Steve Lee wrestling timeline",
+      "relationship": "State-level fear and freezing become the family's explanation for a major life turn"
+    },
+    {
+      "from": 3459,
+      "to": "Episode 74–76 publication-governance timeline",
+      "relationship": "The room answers lack of consent with 'too late,' directly continuing the prior episodes' waiver and editing conflict"
+    },
+    {
+      "from": 3654,
+      "to": "Bobby–Steve Lee care timeline",
+      "relationship": "Bobby's support for cataract surgery complicates the dependence and resentment story"
+    },
+    {
+      "from": 3753,
+      "to": "Lee family care-labor timeline",
+      "relationship": "Steve's months caring for his father show reciprocal family contribution beyond formal employment"
+    },
+    {
+      "from": 4230,
+      "to": "Bobby Lee–Kalilah relationship timeline",
+      "relationship": "Kalilah's first name is deliberately spoken after earlier episodes relied on contextual anonymity"
+    },
+    {
+      "from": 4280,
+      "to": "DVDASA fan-risk ledger",
+      "relationship": "A listener threatens Steve for appearing, and the room nearly moves toward public identification and retaliation"
+    },
+    {
+      "from": 4705,
+      "to": "housing and sexual-coercion ledger",
+      "relationship": "The show converts emergency shelter into a claimed sexual exchange; the archive rejects the premise"
+    },
+    {
+      "from": 5316,
+      "to": "men's mental-health claim ledger",
+      "relationship": "A gendered suicide slogan is replaced with comparable official attempt and death measures"
+    },
+    {
+      "from": 6006,
+      "to": "DVDASA release and merchandise timeline",
+      "relationship": "The 500-copy Into the Limelight vinyl becomes a shop-linked, initially free promotional artifact"
+    }
   ],
   "content_warnings": [
     "surprise recording and publication-consent failure",
@@ -254,5 +911,20 @@
     "racial and orientation slurs",
     "employment and financial dependence",
     "bodily fluids and sex-toy hygiene"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Steve Lee",
+    "Critter"
+  ],
+  "places": [],
+  "works": [
+    "Cowboy"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 76 is both Steve Lee's early public creative record and a case study in consent that occurs too late.",
+  "description_source": "Opening of the human-reviewed summary."
 }

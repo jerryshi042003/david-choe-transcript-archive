@@ -41,65 +41,571 @@
   ],
   "speaker_policy": "The diarization file contains zero turns and five fixed-window embeddings. Neither supports named turn publication; named dialogue remains withheld pending independently held-out multispeaker validation.",
   "chapters": [
-    {"t": 0, "title": "hockey cold open"}, {"t": 100, "title": "freestyle preparation"}, {"t": 177, "title": "first freestyle"}, {"t": 250, "title": "Asa Akira sung hook"},
-    {"t": 275, "title": "collaborative hooks"}, {"t": 331, "title": "decoder-defective music span"}, {"t": 400, "title": "DVDASA introduction"}, {"t": 460, "title": "identical-twin disclosure"},
-    {"t": 480, "title": "sexual speculation about twin"}, {"t": 588, "title": "Asa expected back"}, {"t": 616, "title": "New York helper"}, {"t": 680, "title": "Seattle work plan"},
-    {"t": 775, "title": "invisible-man fantasy"}, {"t": 812, "title": "accidental exposure response"}, {"t": 850, "title": "changing-room access"}, {"t": 900, "title": "workers changing"},
-    {"t": 975, "title": "Seattle memorials"}, {"t": 1002, "title": "professionalism versus perversion"}, {"t": 1050, "title": "travel ritual logistics"}, {"t": 1075, "title": "persistent source hum"},
-    {"t": 1138, "title": "bath/shower method"}, {"t": 1170, "title": "orgy negotiation resumes"}, {"t": 1200, "title": "Viagra fear"}, {"t": 1220, "title": "prolonged erection minimized"},
-    {"t": 1230, "title": "heart-attack anecdote"}, {"t": 1310, "title": "planned false ED claim"}, {"t": 1335, "title": "sobriety question"}, {"t": 1360, "title": "boyfriend consent presumed"},
-    {"t": 1380, "title": "don't-ask-first method"}, {"t": 1400, "title": "observation-window fantasy"}, {"t": 1455, "title": "group Viagra plan"}, {"t": 1508, "title": "escort-site reference"},
-    {"t": 1550, "title": "listener recruitment"}, {"t": 1575, "title": "racial selection"}, {"t": 1620, "title": "four-women fantasy"}, {"t": 1650, "title": "photograph permission gap"},
-    {"t": 1700, "title": "momentary assent"}, {"t": 1725, "title": "unwanted leg-licking account"}, {"t": 1800, "title": "meal and medication planning"}, {"t": 1855, "title": "roofie party"},
-    {"t": 1870, "title": "incapacitated body offered"}, {"t": 1925, "title": "men's discomfort problem-solved"}, {"t": 1988, "title": "Vegas audio replay"}, {"t": 2050, "title": "one-on-one boundary dismissed"},
-    {"t": 2125, "title": "condom switching"}, {"t": 2160, "title": "Val says no"}, {"t": 2200, "title": "women's experience dismissed"}, {"t": 2225, "title": "public solicitation"},
-    {"t": 2300, "title": "withdrawal and reversal"}, {"t": 2350, "title": "prior same-room sex"}, {"t": 2400, "title": "proposed genital handling"}, {"t": 2450, "title": "withdrawal again"},
-    {"t": 2525, "title": "alcohol and cocaine proposed"}, {"t": 2580, "title": "uncertain substance term"}, {"t": 2625, "title": "Seattle fan proposed"}, {"t": 2650, "title": "deceptive hotel scenario"},
-    {"t": 2675, "title": "Heather declines"}, {"t": 2725, "title": "past swinging account"}, {"t": 2800, "title": "sobriety boundary"}, {"t": 2825, "title": "sister-in-law refused"},
-    {"t": 2850, "title": "audio recording proposed"}, {"t": 2900, "title": "stop-talking-about-sex challenge"}, {"t": 2950, "title": "Hong Kong spa account"}, {"t": 2990, "title": "surprise genital touching"},
-    {"t": 3125, "title": "married sex-life interrogation"}, {"t": 3225, "title": "privacy boundary"}, {"t": 3250, "title": "AIDS joke"}, {"t": 3275, "title": "recognition from show"},
-    {"t": 3390, "title": "recording schedule provenance"}, {"t": 3420, "title": "warehouse danger"}, {"t": 3500, "title": "fan approaches in dark"}, {"t": 3520, "title": "Roland from In the Mix"},
-    {"t": 3580, "title": "not-taking-no pursuit"}, {"t": 3600, "title": "unannounced visit rejected"}, {"t": 3640, "title": "do you want some pizza"}, {"t": 3780, "title": "parasocial friendship boundary"},
-    {"t": 3875, "title": "PO box and private-studio rule"}, {"t": 3925, "title": "firearm access"}, {"t": 3940, "title": "mistaken-threat shooting risk"}, {"t": 3970, "title": "Bourdain and Chang fame advice"},
-    {"t": 4000, "title": "Vice/HBO interactive homework"}, {"t": 4025, "title": "Trivia with Bobby"}, {"t": 4170, "title": "Africa idea"}, {"t": 4220, "title": "music trivia"},
-    {"t": 4590, "title": "trivia punishment"}, {"t": 4650, "title": "closing promotions"}, {"t": 4720, "title": "twin name disclosed"}, {"t": 4740, "title": "twins proposed"},
-    {"t": 4750, "title": "three-on-one scenario"}, {"t": 4820, "title": "sex-topic self-assessment"}
+    {
+      "t": 0,
+      "title": "hockey cold open"
+    },
+    {
+      "t": 100,
+      "title": "freestyle preparation"
+    },
+    {
+      "t": 177,
+      "title": "first freestyle"
+    },
+    {
+      "t": 250,
+      "title": "Asa Akira sung hook"
+    },
+    {
+      "t": 275,
+      "title": "collaborative hooks"
+    },
+    {
+      "t": 331,
+      "title": "decoder-defective music span"
+    },
+    {
+      "t": 400,
+      "title": "DVDASA introduction"
+    },
+    {
+      "t": 460,
+      "title": "identical-twin disclosure"
+    },
+    {
+      "t": 480,
+      "title": "sexual speculation about twin"
+    },
+    {
+      "t": 588,
+      "title": "Asa expected back"
+    },
+    {
+      "t": 616,
+      "title": "New York helper"
+    },
+    {
+      "t": 680,
+      "title": "Seattle work plan"
+    },
+    {
+      "t": 775,
+      "title": "invisible-man fantasy"
+    },
+    {
+      "t": 812,
+      "title": "accidental exposure response"
+    },
+    {
+      "t": 850,
+      "title": "changing-room access"
+    },
+    {
+      "t": 900,
+      "title": "workers changing"
+    },
+    {
+      "t": 975,
+      "title": "Seattle memorials"
+    },
+    {
+      "t": 1002,
+      "title": "professionalism versus perversion"
+    },
+    {
+      "t": 1050,
+      "title": "travel ritual logistics"
+    },
+    {
+      "t": 1075,
+      "title": "persistent source hum"
+    },
+    {
+      "t": 1138,
+      "title": "bath/shower method"
+    },
+    {
+      "t": 1170,
+      "title": "orgy negotiation resumes"
+    },
+    {
+      "t": 1200,
+      "title": "Viagra fear"
+    },
+    {
+      "t": 1220,
+      "title": "prolonged erection minimized"
+    },
+    {
+      "t": 1230,
+      "title": "heart-attack anecdote"
+    },
+    {
+      "t": 1310,
+      "title": "planned false ED claim"
+    },
+    {
+      "t": 1335,
+      "title": "sobriety question"
+    },
+    {
+      "t": 1360,
+      "title": "boyfriend consent presumed"
+    },
+    {
+      "t": 1380,
+      "title": "don't-ask-first method"
+    },
+    {
+      "t": 1400,
+      "title": "observation-window fantasy"
+    },
+    {
+      "t": 1455,
+      "title": "group Viagra plan"
+    },
+    {
+      "t": 1508,
+      "title": "escort-site reference"
+    },
+    {
+      "t": 1550,
+      "title": "listener recruitment"
+    },
+    {
+      "t": 1575,
+      "title": "racial selection"
+    },
+    {
+      "t": 1620,
+      "title": "four-women fantasy"
+    },
+    {
+      "t": 1650,
+      "title": "photograph permission gap"
+    },
+    {
+      "t": 1700,
+      "title": "momentary assent"
+    },
+    {
+      "t": 1725,
+      "title": "unwanted leg-licking account"
+    },
+    {
+      "t": 1800,
+      "title": "meal and medication planning"
+    },
+    {
+      "t": 1855,
+      "title": "roofie party"
+    },
+    {
+      "t": 1870,
+      "title": "incapacitated body offered"
+    },
+    {
+      "t": 1925,
+      "title": "men's discomfort problem-solved"
+    },
+    {
+      "t": 1988,
+      "title": "Vegas audio replay"
+    },
+    {
+      "t": 2050,
+      "title": "one-on-one boundary dismissed"
+    },
+    {
+      "t": 2125,
+      "title": "condom switching"
+    },
+    {
+      "t": 2160,
+      "title": "Val says no"
+    },
+    {
+      "t": 2200,
+      "title": "women's experience dismissed"
+    },
+    {
+      "t": 2225,
+      "title": "public solicitation"
+    },
+    {
+      "t": 2300,
+      "title": "withdrawal and reversal"
+    },
+    {
+      "t": 2350,
+      "title": "prior same-room sex"
+    },
+    {
+      "t": 2400,
+      "title": "proposed genital handling"
+    },
+    {
+      "t": 2450,
+      "title": "withdrawal again"
+    },
+    {
+      "t": 2525,
+      "title": "alcohol and cocaine proposed"
+    },
+    {
+      "t": 2580,
+      "title": "uncertain substance term"
+    },
+    {
+      "t": 2625,
+      "title": "Seattle fan proposed"
+    },
+    {
+      "t": 2650,
+      "title": "deceptive hotel scenario"
+    },
+    {
+      "t": 2675,
+      "title": "Heather declines"
+    },
+    {
+      "t": 2725,
+      "title": "past swinging account"
+    },
+    {
+      "t": 2800,
+      "title": "sobriety boundary"
+    },
+    {
+      "t": 2825,
+      "title": "sister-in-law refused"
+    },
+    {
+      "t": 2850,
+      "title": "audio recording proposed"
+    },
+    {
+      "t": 2900,
+      "title": "stop-talking-about-sex challenge"
+    },
+    {
+      "t": 2950,
+      "title": "Hong Kong spa account"
+    },
+    {
+      "t": 2990,
+      "title": "surprise genital touching"
+    },
+    {
+      "t": 3125,
+      "title": "married sex-life interrogation"
+    },
+    {
+      "t": 3225,
+      "title": "privacy boundary"
+    },
+    {
+      "t": 3250,
+      "title": "AIDS joke"
+    },
+    {
+      "t": 3275,
+      "title": "recognition from show"
+    },
+    {
+      "t": 3390,
+      "title": "recording schedule provenance"
+    },
+    {
+      "t": 3420,
+      "title": "warehouse danger"
+    },
+    {
+      "t": 3500,
+      "title": "fan approaches in dark"
+    },
+    {
+      "t": 3520,
+      "title": "Roland from In the Mix"
+    },
+    {
+      "t": 3580,
+      "title": "not-taking-no pursuit"
+    },
+    {
+      "t": 3600,
+      "title": "unannounced visit rejected"
+    },
+    {
+      "t": 3640,
+      "title": "do you want some pizza"
+    },
+    {
+      "t": 3780,
+      "title": "parasocial friendship boundary"
+    },
+    {
+      "t": 3875,
+      "title": "PO box and private-studio rule"
+    },
+    {
+      "t": 3925,
+      "title": "firearm access"
+    },
+    {
+      "t": 3940,
+      "title": "mistaken-threat shooting risk"
+    },
+    {
+      "t": 3970,
+      "title": "Bourdain and Chang fame advice"
+    },
+    {
+      "t": 4000,
+      "title": "Vice/HBO interactive homework"
+    },
+    {
+      "t": 4025,
+      "title": "Trivia with Bobby"
+    },
+    {
+      "t": 4170,
+      "title": "Africa idea"
+    },
+    {
+      "t": 4220,
+      "title": "music trivia"
+    },
+    {
+      "t": 4590,
+      "title": "trivia punishment"
+    },
+    {
+      "t": 4650,
+      "title": "closing promotions"
+    },
+    {
+      "t": 4720,
+      "title": "twin name disclosed"
+    },
+    {
+      "t": 4740,
+      "title": "twins proposed"
+    },
+    {
+      "t": 4750,
+      "title": "three-on-one scenario"
+    },
+    {
+      "t": 4820,
+      "title": "sex-topic self-assessment"
+    }
   ],
   "connections": [
-    {"t": 331, "to": "Transcript regeneration queue", "why": "The cleaner removes empty records but leaves a high-compression decoder loop and nonsensical fragments."},
-    {"t": 588, "to": "Asa Akira absence/book arc", "why": "The episode expects the co-host's return after book and feature-dance work."},
-    {"t": 775, "to": "Corpus voyeurism ledger", "why": "Invisible access and private changing are eroticized precisely because the subjects do not expect observation."},
-    {"t": 1170, "to": "Episode 122 orgy negotiation", "why": "The prior hypothetical becomes the dominant topic and a proposed real event."},
-    {"t": 1220, "to": "Episode 122 sildenafil correction", "why": "A prolonged erection is again framed as harmless despite emergency-care guidance."},
-    {"t": 1310, "to": "Healthcare honesty and prescription safety", "why": "The plan explicitly contemplates fabricating a symptom to obtain medication."},
-    {"t": 1335, "to": "Recovery boundary", "why": "A sober participant asks whether prescription use conflicts with recovery and receives no reliable guidance."},
-    {"t": 1380, "to": "Corpus affirmative-consent ledger", "why": "The `do it first` method knowingly replaces prior agreement with after-the-fact objection."},
-    {"t": 1455, "to": "Unscreened group medication", "why": "Multiple people plan simultaneous sildenafil use without individualized prescribing."},
-    {"t": 1550, "to": "Parasocial sexual recruitment", "why": "Listeners and groupies are treated as a pool for a private sex event."},
-    {"t": 1700, "to": "Consent as changeable state", "why": "Assent appears after pressure and is later withdrawn, restored and withdrawn again."},
-    {"t": 1855, "to": "Incapacitation and consent", "why": "The fantasy offers an unconscious body to unspecified acts; incapacity defeats contemporaneous permission."},
-    {"t": 1925, "to": "Gendered consent asymmetry", "why": "The room carefully negotiates men's eye contact and touching while largely ignoring women's boundaries."},
-    {"t": 1988, "to": "Episodes 116, 120 and 122 intimate-audio ledger", "why": "The same Vegas recording is replayed yet again as entertainment and pressure."},
-    {"t": 2050, "to": "Stated sexual boundary dismissed", "why": "A participant's one-on-one preference is treated as an obstacle to the desired format."},
-    {"t": 2125, "to": "Barrier-use evidence", "why": "The episode correctly notices that switching partners or acts requires changing condoms."},
-    {"t": 2160, "to": "Explicit-no ledger", "why": "Val gives a direct refusal rather than joining the hypothetical."},
-    {"t": 2200, "to": "Pleasure and consent distinction", "why": "The host explicitly says he does not care whether the women enjoy the event."},
-    {"t": 2300, "to": "Unstable participation", "why": "The organizer exits and re-enters within moments as pressure and fantasy escalate."},
-    {"t": 2525, "to": "Intoxication risk", "why": "Alcohol and cocaine are introduced as ways to extend the event, undermining clear consent and safety."},
-    {"t": 2650, "to": "Deception versus informed consent", "why": "A woman expecting one person is imagined arriving to three nude men."},
-    {"t": 2675, "to": "Heather sobriety/relationship boundary", "why": "Her refusal is mocked as a personality change before her past experience is solicited."},
-    {"t": 2850, "to": "Recording-consent ledger", "why": "Sexual consent, audio capture and podcast publication are separate permissions."},
-    {"t": 2990, "to": "Surprise sexual contact", "why": "A spa worker touches genitals without the described recipient expecting or requesting it."},
-    {"t": 3225, "to": "Quiet C privacy ledger", "why": "A participant explicitly says his wife's intimate medical details should not be discussed."},
-    {"t": 3275, "to": "Public persona feedback", "why": "Multiple cast members describe recognition at work and in public."},
-    {"t": 3500, "to": "Fan affection versus private-space safety", "why": "A known supportive fan is initially perceived as a nighttime attacker because he approaches unannounced."},
-    {"t": 3580, "to": "Choe method boundary failure", "why": "Persistence that is celebrated in creative work becomes intrusive when applied to private access."},
-    {"t": 3640, "to": "Title/provenance node", "why": "The pizza offer embodies sincere hospitality delivered through an unacceptable surprise visit."},
-    {"t": 3780, "to": "Parasocial friendship", "why": "The host distinguishes listeners' sense of intimacy from reciprocal personal knowledge."},
-    {"t": 3875, "to": "Safe fan interface", "why": "The PO box and no-studio-visit rule provide an explicit alternative to private-space access."},
-    {"t": 3940, "to": "Firearm mistaken-threat risk", "why": "An unexpected fan approach is paired with a stated possibility of shooting before identification."}
+    {
+      "t": 331,
+      "to": "Transcript regeneration queue",
+      "why": "The cleaner removes empty records but leaves a high-compression decoder loop and nonsensical fragments."
+    },
+    {
+      "t": 588,
+      "to": "Asa Akira absence/book arc",
+      "why": "The episode expects the co-host's return after book and feature-dance work."
+    },
+    {
+      "t": 775,
+      "to": "Corpus voyeurism ledger",
+      "why": "Invisible access and private changing are eroticized precisely because the subjects do not expect observation."
+    },
+    {
+      "t": 1170,
+      "to": "Episode 122 orgy negotiation",
+      "why": "The prior hypothetical becomes the dominant topic and a proposed real event."
+    },
+    {
+      "t": 1220,
+      "to": "Episode 122 sildenafil correction",
+      "why": "A prolonged erection is again framed as harmless despite emergency-care guidance."
+    },
+    {
+      "t": 1310,
+      "to": "Healthcare honesty and prescription safety",
+      "why": "The plan explicitly contemplates fabricating a symptom to obtain medication."
+    },
+    {
+      "t": 1335,
+      "to": "Recovery boundary",
+      "why": "A sober participant asks whether prescription use conflicts with recovery and receives no reliable guidance."
+    },
+    {
+      "t": 1380,
+      "to": "Corpus affirmative-consent ledger",
+      "why": "The `do it first` method knowingly replaces prior agreement with after-the-fact objection."
+    },
+    {
+      "t": 1455,
+      "to": "Unscreened group medication",
+      "why": "Multiple people plan simultaneous sildenafil use without individualized prescribing."
+    },
+    {
+      "t": 1550,
+      "to": "Parasocial sexual recruitment",
+      "why": "Listeners and groupies are treated as a pool for a private sex event."
+    },
+    {
+      "t": 1700,
+      "to": "Consent as changeable state",
+      "why": "Assent appears after pressure and is later withdrawn, restored and withdrawn again."
+    },
+    {
+      "t": 1855,
+      "to": "Incapacitation and consent",
+      "why": "The fantasy offers an unconscious body to unspecified acts; incapacity defeats contemporaneous permission."
+    },
+    {
+      "t": 1925,
+      "to": "Gendered consent asymmetry",
+      "why": "The room carefully negotiates men's eye contact and touching while largely ignoring women's boundaries."
+    },
+    {
+      "t": 1988,
+      "to": "Episodes 116, 120 and 122 intimate-audio ledger",
+      "why": "The same Vegas recording is replayed yet again as entertainment and pressure."
+    },
+    {
+      "t": 2050,
+      "to": "Stated sexual boundary dismissed",
+      "why": "A participant's one-on-one preference is treated as an obstacle to the desired format."
+    },
+    {
+      "t": 2125,
+      "to": "Barrier-use evidence",
+      "why": "The episode correctly notices that switching partners or acts requires changing condoms."
+    },
+    {
+      "t": 2160,
+      "to": "Explicit-no ledger",
+      "why": "Val gives a direct refusal rather than joining the hypothetical."
+    },
+    {
+      "t": 2200,
+      "to": "Pleasure and consent distinction",
+      "why": "The host explicitly says he does not care whether the women enjoy the event."
+    },
+    {
+      "t": 2300,
+      "to": "Unstable participation",
+      "why": "The organizer exits and re-enters within moments as pressure and fantasy escalate."
+    },
+    {
+      "t": 2525,
+      "to": "Intoxication risk",
+      "why": "Alcohol and cocaine are introduced as ways to extend the event, undermining clear consent and safety."
+    },
+    {
+      "t": 2650,
+      "to": "Deception versus informed consent",
+      "why": "A woman expecting one person is imagined arriving to three nude men."
+    },
+    {
+      "t": 2675,
+      "to": "Heather sobriety/relationship boundary",
+      "why": "Her refusal is mocked as a personality change before her past experience is solicited."
+    },
+    {
+      "t": 2850,
+      "to": "Recording-consent ledger",
+      "why": "Sexual consent, audio capture and podcast publication are separate permissions."
+    },
+    {
+      "t": 2990,
+      "to": "Surprise sexual contact",
+      "why": "A spa worker touches genitals without the described recipient expecting or requesting it."
+    },
+    {
+      "t": 3225,
+      "to": "Quiet C privacy ledger",
+      "why": "A participant explicitly says his wife's intimate medical details should not be discussed."
+    },
+    {
+      "t": 3275,
+      "to": "Public persona feedback",
+      "why": "Multiple cast members describe recognition at work and in public."
+    },
+    {
+      "t": 3500,
+      "to": "Fan affection versus private-space safety",
+      "why": "A known supportive fan is initially perceived as a nighttime attacker because he approaches unannounced."
+    },
+    {
+      "t": 3580,
+      "to": "Choe method boundary failure",
+      "why": "Persistence that is celebrated in creative work becomes intrusive when applied to private access."
+    },
+    {
+      "t": 3640,
+      "to": "Title/provenance node",
+      "why": "The pizza offer embodies sincere hospitality delivered through an unacceptable surprise visit."
+    },
+    {
+      "t": 3780,
+      "to": "Parasocial friendship",
+      "why": "The host distinguishes listeners' sense of intimacy from reciprocal personal knowledge."
+    },
+    {
+      "t": 3875,
+      "to": "Safe fan interface",
+      "why": "The PO box and no-studio-visit rule provide an explicit alternative to private-space access."
+    },
+    {
+      "t": 3940,
+      "to": "Firearm mistaken-threat risk",
+      "why": "An unexpected fan approach is paired with a stated possibility of shooting before identification."
+    }
   ],
   "content_warnings": [
-    "explicit sexual descriptions", "group-sex planning", "sexual pressure and unstable consent", "roofie/incapacitation fantasy", "prescription-drug misuse", "heart attack and prolonged erection", "alcohol and cocaine proposal", "voyeurism and accidental nudity", "worker changing-room privacy", "listener/groupie sexual recruitment", "racial sexual objectification", "recording intimate activity", "bodily-fluid and STI risk", "surprise genital touching", "private partner medical details", "AIDS stigma", "fan boundary and private-workspace intrusion", "firearm access and mistaken-threat shooting", "violence anecdotes", "parasocial attachment", "private relatives sexualized", "homophobic, racial and ableist slurs", "sex-work references", "sobriety pressure", "deceptive sexual setup", "workplace recognition", "copyrighted song excerpts", "hygiene-based trivia punishment"
-  ]
+    "explicit sexual descriptions",
+    "group-sex planning",
+    "sexual pressure and unstable consent",
+    "roofie/incapacitation fantasy",
+    "prescription-drug misuse",
+    "heart attack and prolonged erection",
+    "alcohol and cocaine proposal",
+    "voyeurism and accidental nudity",
+    "worker changing-room privacy",
+    "listener/groupie sexual recruitment",
+    "racial sexual objectification",
+    "recording intimate activity",
+    "bodily-fluid and STI risk",
+    "surprise genital touching",
+    "private partner medical details",
+    "AIDS stigma",
+    "fan boundary and private-workspace intrusion",
+    "firearm access and mistaken-threat shooting",
+    "violence anecdotes",
+    "parasocial attachment",
+    "private relatives sexualized",
+    "homophobic, racial and ableist slurs",
+    "sex-work references",
+    "sobriety pressure",
+    "deceptive sexual setup",
+    "workplace recognition",
+    "copyrighted song excerpts",
+    "hygiene-based trivia punishment"
+  ],
+  "people": [
+    "David Choe",
+    "Asa Akira"
+  ],
+  "places": [
+    "studio"
+  ],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 123 opens with hockey, freestyle experiments and Asa Akira's continued absence, then spends most of its first hour negotiating a proposed group-sex event.",
+  "description_source": "Opening of the human-reviewed summary."
 }

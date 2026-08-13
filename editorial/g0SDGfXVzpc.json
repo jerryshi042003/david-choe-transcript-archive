@@ -1,0 +1,66 @@
+{
+  "episode_id": "g0SDGfXVzpc",
+  "title": "George Wasn't Invited To The Choe Show",
+  "reviewed_on": "2026-08-13",
+  "description": "A TigerBelly clip follows George Kimmel’s complaint that Khalyla attended The Choe Show while he was not invited, questions whether he applied seriously and ends with an attempt to arrange a remaining-week visit.",
+  "summary": "A TigerBelly clip follows George Kimmel’s complaint that Khalyla attended The Choe Show while he was not invited, questions whether he applied seriously and ends with an attempt to arrange a remaining-week visit. The chapter map follows the recoverable route timeline; lyrics and visually dependent action remain limited where the automatic transcript is damaged.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Khalyla went; George was not invited"
+    },
+    {
+      "t": 77,
+      "title": "Who would watch the show?"
+    },
+    {
+      "t": 140,
+      "title": "Trying to set up a visit"
+    }
+  ],
+  "people": [
+    "George Kimmel",
+    "Khalyla",
+    "David Choe",
+    "Rainn Wilson"
+  ],
+  "places": [],
+  "works": [
+    "TigerBelly",
+    "The Choe Show",
+    "The Office",
+    "Creed"
+  ],
+  "themes": [
+    "invitation",
+    "application",
+    "podcast banter"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [
+    "explicit language"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 13,
+    "duration_seconds": 139.8,
+    "chapters": 3,
+    "named_turns": 0,
+    "transcript_limited": false
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

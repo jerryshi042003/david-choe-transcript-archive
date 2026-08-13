@@ -1,175 +1,737 @@
 {
   "summary": "Kevin Hayes joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode nominally framed around DVDASA's first Black guest. The editorial layer resists that reduction: Kevin discusses being Black and Jewish, his iPhone photography and digital collage practice, plus-size subjects, long relationships, unreturned feelings, and a friendship with Bobby, while the cast repeatedly turns his identity into stereotype and sexual provocation. Valentin opens with a bus romance that prompts more ethnic generalization. David then revisits Pamela Adlon's visit and discloses an explicit encounter with a private partner whose identity stays out of metadata. The middle reconstructs David and Asa's friendship and first sexual encounter, followed by arguments about off-camera intimacy, performance, jealousy, wealth, press attention, and the feeling of being emotionally spoiled. Kevin's strip-club story is notable because he talks with a dancer rather than purchasing a performance. The final third becomes a workplace document: David describes screening assistants with a McDonald's order, invents the “Reuben” and “Sci-Fi Reuben” archetypes, and confronts Juan for using proximity to pitch a film. Juan and Asa push back, distinguishing a reasonable collaboration request from entitlement. David describes money and access as a flood of meetings that prevents painting. The close turns Bobby's missing trivia into prolonged public pressure to perform; only afterward does he reveal exhaustion and a hockey concussion. Three empty cleaner drops are safe, the text is strong after thirty contextual corrections, and 2,778 identity windows are intact. Named dialogue remains withheld.",
   "chapters": [
-    {"t": 7, "title": "DVDASA opens with the regular room"},
-    {"t": 43, "title": "Money Mark, Valentin, Critter, and Bobby"},
-    {"t": 66, "title": "Eric Estrada becomes the first comparison"},
-    {"t": 92, "title": "Valentin met someone on bus 603"},
-    {"t": 132, "title": "A trip toward Glendale becomes a date"},
-    {"t": 188, "title": "Shopping supplies the first shared activity"},
-    {"t": 237, "title": "The Americana and Glendale Galleria"},
-    {"t": 280, "title": "A relationship begins within a week"},
-    {"t": 330, "title": "Condom negotiation enters the account"},
-    {"t": 405, "title": "The room generalizes from one Salvadoran woman"},
-    {"t": 490, "title": "Valentin resists the cast's interpretation"},
-    {"t": 557, "title": "Yoshi's earlier appearance is recalled"},
-    {"t": 606, "title": "Kevin Hayes joins the episode"},
-    {"t": 630, "title": "A John Mayer quote frames racial preference"},
-    {"t": 645, "title": "Kevin is introduced as a photographer"},
-    {"t": 652, "title": "The Dirtiest Little Rainbow on Instagram"},
-    {"t": 670, "title": "Bobby first noticed Kevin's images"},
-    {"t": 699, "title": "A friendship begins through photography"},
-    {"t": 718, "title": "Kevin does not drive"},
-    {"t": 735, "title": "A motorcycle sidecar memory"},
-    {"t": 780, "title": "Black and Jewish identity in Kevin's family"},
-    {"t": 842, "title": "The room turns identity into shoe stereotypes"},
-    {"t": 930, "title": "Hawaii prompts another water stereotype"},
-    {"t": 1010, "title": "Kevin answers rather than endorses the premise"},
-    {"t": 1090, "title": "Plus-size white women become a photographic subject"},
-    {"t": 1160, "title": "Photography, attraction, and looking"},
-    {"t": 1200, "title": "Pamela Adlon's episode is revisited"},
-    {"t": 1260, "title": "A private partner's politics and identity"},
-    {"t": 1350, "title": "A racial slur appears inside a sexual account"},
-    {"t": 1450, "title": "The room mistakes disclosure for permission"},
-    {"t": 1560, "title": "Kevin is pulled into the hypothetical"},
-    {"t": 1660, "title": "Public storytelling exposes a private person"},
-    {"t": 1760, "title": "Kevin returns the conversation to relationships"},
-    {"t": 1840, "title": "Two five-year relationships between fifteen and twenty-five"},
-    {"t": 1920, "title": "Kevin says he did not cheat"},
-    {"t": 2010, "title": "A Christmas party and a Snuggie"},
-    {"t": 2100, "title": "Photography becomes a route toward intimacy"},
-    {"t": 2180, "title": "A crush is not returned"},
-    {"t": 2254, "title": "Yoshi and older relationship history"},
-    {"t": 2328, "title": "David first met Asa through Yoshi"},
-    {"t": 2380, "title": "A day together before an adult-film scene"},
-    {"t": 2450, "title": "Industry pay mythology is challenged"},
-    {"t": 2550, "title": "Asa corrects the racialized rate claim"},
-    {"t": 2650, "title": "Friendship survives an awkward beginning"},
-    {"t": 2721, "title": "Pamela Adlon receives the compressed history"},
-    {"t": 2800, "title": "Letting feelings go is described as han"},
-    {"t": 2890, "title": "David claims Kevin as a son"},
-    {"t": 3003, "title": "Dinner at Soho House"},
-    {"t": 3070, "title": "A sleepover changes a long friendship"},
-    {"t": 3160, "title": "The first encounter is reconstructed collectively"},
-    {"t": 3276, "title": "Sasha Grey supplies a friendship comparison"},
-    {"t": 3370, "title": "Porn performance differs from private intimacy"},
-    {"t": 3450, "title": "Asa suppresses a performed sound"},
-    {"t": 3560, "title": "A bodily claim remains personal testimony"},
-    {"t": 3593, "title": "Sasha Grey and Japanese businessmen"},
-    {"t": 3700, "title": "David says Asa changed his sexual expectations"},
-    {"t": 3790, "title": "Feeling spoiled becomes emotional deadness"},
-    {"t": 3860, "title": "Miami and a hand-on-heart exercise"},
-    {"t": 3924, "title": "NBC and American Idol requests arrive"},
-    {"t": 3932, "title": "Telemundo and Adult Swim join the wave"},
-    {"t": 3937, "title": "Howard Stern becomes the desired interview"},
-    {"t": 3980, "title": "CNN marks another scale of recognition"},
-    {"t": 4050, "title": "Kevin describes watching news spread"},
-    {"t": 4199, "title": "David's mother defines irreversible spoiling"},
-    {"t": 4280, "title": "Money and sexual access become the analogy"},
-    {"t": 4333, "title": "David describes himself as dead inside"},
-    {"t": 4380, "title": "The room hears a seduction pitch"},
-    {"t": 4426, "title": "No partner can hold scarcity over him"},
-    {"t": 4454, "title": "Critter is asked whether the phase ends"},
-    {"t": 4481, "title": "Marriage is framed as timing"},
-    {"t": 4513, "title": "Painting outdoors with a young Spanish artist"},
-    {"t": 4517, "title": "Everlast recognizes DVDASA"},
-    {"t": 4541, "title": "Anthony Bourdain becomes a later-life model"},
-    {"t": 4573, "title": "Marriage after thirty or forty"},
-    {"t": 4596, "title": "Immigrant wives become another stereotype"},
-    {"t": 4643, "title": "Asa argues readiness is not gender-exclusive"},
-    {"t": 4697, "title": "Kevin remembers a North Carolina strip club"},
-    {"t": 4724, "title": "A BYOB club feels absurd"},
-    {"t": 4784, "title": "Friends dance with each other instead"},
-    {"t": 4860, "title": "Conversation replaces a lap dance"},
-    {"t": 4970, "title": "The dancer's charm is interpreted"},
-    {"t": 5107, "title": "Seventh Veil is recalled"},
-    {"t": 5120, "title": "Charmane Star and Black Dynamite"},
-    {"t": 5227, "title": "A text from Pamela interrupts"},
-    {"t": 5350, "title": "Valentin tells a graphic jacuzzi story"},
-    {"t": 5570, "title": "Private partners remain outside the index"},
-    {"t": 5695, "title": "Quiet C and social-media courtship"},
-    {"t": 5800, "title": "Air travel and Eric Estrada return"},
-    {"t": 5928, "title": "Howard Stern and Bourdain as media models"},
-    {"t": 6000, "title": "An assistant applicant enters the workplace story"},
-    {"t": 6040, "title": "An offensive environment makes an applicant cry"},
-    {"t": 6094, "title": "McDonald's becomes a personality test"},
-    {"t": 6145, "title": "A Big Mac order is treated as evidence"},
-    {"t": 6208, "title": "The Reuben assistant archetype"},
-    {"t": 6272, "title": "A pattern is invented from a tiny sample"},
-    {"t": 6350, "title": "Scripts arrive through proximity"},
-    {"t": 6388, "title": "Blade Runner becomes shorthand"},
-    {"t": 6450, "title": "The Sci-Fi Reuben label"},
-    {"t": 6550, "title": "David wants assistants without growth"},
-    {"t": 6650, "title": "Juan is called into the dispute"},
-    {"t": 6740, "title": "A warehouse-set film pitch is reconstructed"},
-    {"t": 6840, "title": "Juan describes himself as a musician and composer"},
-    {"t": 6940, "title": "Art direction is mistaken for a small request"},
-    {"t": 7040, "title": "Time and attention are the scarce resources"},
-    {"t": 7120, "title": "Imported chips and Yoshi interrupt"},
-    {"t": 7200, "title": "One girlfriend and painting was a simpler life"},
-    {"t": 7280, "title": "Television, animation, film, and an unfinished album"},
-    {"t": 7360, "title": "Juan argues that films require collaboration"},
-    {"t": 7455, "title": "David labels the rant a rich-guy problem"},
-    {"t": 7484, "title": "Lunch is blamed for not painting"},
-    {"t": 7527, "title": "A Giant Robot event explains reconnection"},
-    {"t": 7559, "title": "Some people are too close to deflect"},
-    {"t": 7569, "title": "A restaurant becomes unusable after a pitch"},
-    {"t": 7600, "title": "Money Mark recognizes the access problem"},
-    {"t": 7643, "title": "Advice and access are not interchangeable"},
-    {"t": 7681, "title": "Others ask Money Mark to reach David"},
-    {"t": 7692, "title": "Asa says Juan was not rude"},
-    {"t": 7721, "title": "A boundary can be real without being crossed"},
-    {"t": 7737, "title": "Bobby has little to add"},
-    {"t": 7753, "title": "Missing trivia becomes a recurring grievance"},
-    {"t": 7765, "title": "Kevin's race is proposed as trivia material"},
-    {"t": 7781, "title": "Bobby is asked whether he is in or out"},
-    {"t": 7804, "title": "Quiet B becomes his new nickname"},
-    {"t": 7823, "title": "Pamela's Bobby Hill voice is invoked"},
-    {"t": 7848, "title": "Money Mark supplies an improvised beat"},
-    {"t": 7885, "title": "The beat sounds like Ace of Base"},
-    {"t": 7892, "title": "Lyrics are texted to Bobby"},
-    {"t": 7926, "title": "Valentin is pressured to sing instead"},
-    {"t": 7952, "title": "The bus story becomes a song prompt"},
-    {"t": 7998, "title": "Bobby repeatedly says he cannot perform"},
-    {"t": 8041, "title": "He has been awake since three"},
-    {"t": 8070, "title": "The group invokes weekly obligation"},
-    {"t": 8098, "title": "Bobby was finishing a print"},
-    {"t": 8118, "title": "A hockey concussion is disclosed"},
-    {"t": 8132, "title": "The room recognizes the care failure"},
-    {"t": 8145, "title": "The show attempts to close"},
-    {"t": 8163, "title": "Trivia restarts anyway"},
-    {"t": 8185, "title": "I Got 5 on It and Luniz"},
-    {"t": 8198, "title": "Too $hort wins another answer"},
-    {"t": 8211, "title": "Critter is declared the replacement"},
-    {"t": 8230, "title": "Kevin is applauded through racial framing"},
-    {"t": 8245, "title": "Money Mark plays the episode out"},
-    {"t": 8253, "title": "The DVDASA wish list"},
-    {"t": 8293, "title": "Recorded credits supply the formal close"}
+    {
+      "t": 7,
+      "title": "DVDASA opens with the regular room"
+    },
+    {
+      "t": 43,
+      "title": "Money Mark, Valentin, Critter, and Bobby"
+    },
+    {
+      "t": 66,
+      "title": "Eric Estrada becomes the first comparison"
+    },
+    {
+      "t": 92,
+      "title": "Valentin met someone on bus 603"
+    },
+    {
+      "t": 132,
+      "title": "A trip toward Glendale becomes a date"
+    },
+    {
+      "t": 188,
+      "title": "Shopping supplies the first shared activity"
+    },
+    {
+      "t": 237,
+      "title": "The Americana and Glendale Galleria"
+    },
+    {
+      "t": 280,
+      "title": "A relationship begins within a week"
+    },
+    {
+      "t": 330,
+      "title": "Condom negotiation enters the account"
+    },
+    {
+      "t": 405,
+      "title": "The room generalizes from one Salvadoran woman"
+    },
+    {
+      "t": 490,
+      "title": "Valentin resists the cast's interpretation"
+    },
+    {
+      "t": 557,
+      "title": "Yoshi's earlier appearance is recalled"
+    },
+    {
+      "t": 606,
+      "title": "Kevin Hayes joins the episode"
+    },
+    {
+      "t": 630,
+      "title": "A John Mayer quote frames racial preference"
+    },
+    {
+      "t": 645,
+      "title": "Kevin is introduced as a photographer"
+    },
+    {
+      "t": 652,
+      "title": "The Dirtiest Little Rainbow on Instagram"
+    },
+    {
+      "t": 670,
+      "title": "Bobby first noticed Kevin's images"
+    },
+    {
+      "t": 699,
+      "title": "A friendship begins through photography"
+    },
+    {
+      "t": 718,
+      "title": "Kevin does not drive"
+    },
+    {
+      "t": 735,
+      "title": "A motorcycle sidecar memory"
+    },
+    {
+      "t": 780,
+      "title": "Black and Jewish identity in Kevin's family"
+    },
+    {
+      "t": 842,
+      "title": "The room turns identity into shoe stereotypes"
+    },
+    {
+      "t": 930,
+      "title": "Hawaii prompts another water stereotype"
+    },
+    {
+      "t": 1010,
+      "title": "Kevin answers rather than endorses the premise"
+    },
+    {
+      "t": 1090,
+      "title": "Plus-size white women become a photographic subject"
+    },
+    {
+      "t": 1160,
+      "title": "Photography, attraction, and looking"
+    },
+    {
+      "t": 1200,
+      "title": "Pamela Adlon's episode is revisited"
+    },
+    {
+      "t": 1260,
+      "title": "A private partner's politics and identity"
+    },
+    {
+      "t": 1350,
+      "title": "A racial slur appears inside a sexual account"
+    },
+    {
+      "t": 1450,
+      "title": "The room mistakes disclosure for permission"
+    },
+    {
+      "t": 1560,
+      "title": "Kevin is pulled into the hypothetical"
+    },
+    {
+      "t": 1660,
+      "title": "Public storytelling exposes a private person"
+    },
+    {
+      "t": 1760,
+      "title": "Kevin returns the conversation to relationships"
+    },
+    {
+      "t": 1840,
+      "title": "Two five-year relationships between fifteen and twenty-five"
+    },
+    {
+      "t": 1920,
+      "title": "Kevin says he did not cheat"
+    },
+    {
+      "t": 2010,
+      "title": "A Christmas party and a Snuggie"
+    },
+    {
+      "t": 2100,
+      "title": "Photography becomes a route toward intimacy"
+    },
+    {
+      "t": 2180,
+      "title": "A crush is not returned"
+    },
+    {
+      "t": 2254,
+      "title": "Yoshi and older relationship history"
+    },
+    {
+      "t": 2328,
+      "title": "David first met Asa through Yoshi"
+    },
+    {
+      "t": 2380,
+      "title": "A day together before an adult-film scene"
+    },
+    {
+      "t": 2450,
+      "title": "Industry pay mythology is challenged"
+    },
+    {
+      "t": 2550,
+      "title": "Asa corrects the racialized rate claim"
+    },
+    {
+      "t": 2650,
+      "title": "Friendship survives an awkward beginning"
+    },
+    {
+      "t": 2721,
+      "title": "Pamela Adlon receives the compressed history"
+    },
+    {
+      "t": 2800,
+      "title": "Letting feelings go is described as han"
+    },
+    {
+      "t": 2890,
+      "title": "David claims Kevin as a son"
+    },
+    {
+      "t": 3003,
+      "title": "Dinner at Soho House"
+    },
+    {
+      "t": 3070,
+      "title": "A sleepover changes a long friendship"
+    },
+    {
+      "t": 3160,
+      "title": "The first encounter is reconstructed collectively"
+    },
+    {
+      "t": 3276,
+      "title": "Sasha Grey supplies a friendship comparison"
+    },
+    {
+      "t": 3370,
+      "title": "Porn performance differs from private intimacy"
+    },
+    {
+      "t": 3450,
+      "title": "Asa suppresses a performed sound"
+    },
+    {
+      "t": 3560,
+      "title": "A bodily claim remains personal testimony"
+    },
+    {
+      "t": 3593,
+      "title": "Sasha Grey and Japanese businessmen"
+    },
+    {
+      "t": 3700,
+      "title": "David says Asa changed his sexual expectations"
+    },
+    {
+      "t": 3790,
+      "title": "Feeling spoiled becomes emotional deadness"
+    },
+    {
+      "t": 3860,
+      "title": "Miami and a hand-on-heart exercise"
+    },
+    {
+      "t": 3924,
+      "title": "NBC and American Idol requests arrive"
+    },
+    {
+      "t": 3932,
+      "title": "Telemundo and Adult Swim join the wave"
+    },
+    {
+      "t": 3937,
+      "title": "Howard Stern becomes the desired interview"
+    },
+    {
+      "t": 3980,
+      "title": "CNN marks another scale of recognition"
+    },
+    {
+      "t": 4050,
+      "title": "Kevin describes watching news spread"
+    },
+    {
+      "t": 4199,
+      "title": "David's mother defines irreversible spoiling"
+    },
+    {
+      "t": 4280,
+      "title": "Money and sexual access become the analogy"
+    },
+    {
+      "t": 4333,
+      "title": "David describes himself as dead inside"
+    },
+    {
+      "t": 4380,
+      "title": "The room hears a seduction pitch"
+    },
+    {
+      "t": 4426,
+      "title": "No partner can hold scarcity over him"
+    },
+    {
+      "t": 4454,
+      "title": "Critter is asked whether the phase ends"
+    },
+    {
+      "t": 4481,
+      "title": "Marriage is framed as timing"
+    },
+    {
+      "t": 4513,
+      "title": "Painting outdoors with a young Spanish artist"
+    },
+    {
+      "t": 4517,
+      "title": "Everlast recognizes DVDASA"
+    },
+    {
+      "t": 4541,
+      "title": "Anthony Bourdain becomes a later-life model"
+    },
+    {
+      "t": 4573,
+      "title": "Marriage after thirty or forty"
+    },
+    {
+      "t": 4596,
+      "title": "Immigrant wives become another stereotype"
+    },
+    {
+      "t": 4643,
+      "title": "Asa argues readiness is not gender-exclusive"
+    },
+    {
+      "t": 4697,
+      "title": "Kevin remembers a North Carolina strip club"
+    },
+    {
+      "t": 4724,
+      "title": "A BYOB club feels absurd"
+    },
+    {
+      "t": 4784,
+      "title": "Friends dance with each other instead"
+    },
+    {
+      "t": 4860,
+      "title": "Conversation replaces a lap dance"
+    },
+    {
+      "t": 4970,
+      "title": "The dancer's charm is interpreted"
+    },
+    {
+      "t": 5107,
+      "title": "Seventh Veil is recalled"
+    },
+    {
+      "t": 5120,
+      "title": "Charmane Star and Black Dynamite"
+    },
+    {
+      "t": 5227,
+      "title": "A text from Pamela interrupts"
+    },
+    {
+      "t": 5350,
+      "title": "Valentin tells a graphic jacuzzi story"
+    },
+    {
+      "t": 5570,
+      "title": "Private partners remain outside the index"
+    },
+    {
+      "t": 5695,
+      "title": "Quiet C and social-media courtship"
+    },
+    {
+      "t": 5800,
+      "title": "Air travel and Eric Estrada return"
+    },
+    {
+      "t": 5928,
+      "title": "Howard Stern and Bourdain as media models"
+    },
+    {
+      "t": 6000,
+      "title": "An assistant applicant enters the workplace story"
+    },
+    {
+      "t": 6040,
+      "title": "An offensive environment makes an applicant cry"
+    },
+    {
+      "t": 6094,
+      "title": "McDonald's becomes a personality test"
+    },
+    {
+      "t": 6145,
+      "title": "A Big Mac order is treated as evidence"
+    },
+    {
+      "t": 6208,
+      "title": "The Reuben assistant archetype"
+    },
+    {
+      "t": 6272,
+      "title": "A pattern is invented from a tiny sample"
+    },
+    {
+      "t": 6350,
+      "title": "Scripts arrive through proximity"
+    },
+    {
+      "t": 6388,
+      "title": "Blade Runner becomes shorthand"
+    },
+    {
+      "t": 6450,
+      "title": "The Sci-Fi Reuben label"
+    },
+    {
+      "t": 6550,
+      "title": "David wants assistants without growth"
+    },
+    {
+      "t": 6650,
+      "title": "Juan is called into the dispute"
+    },
+    {
+      "t": 6740,
+      "title": "A warehouse-set film pitch is reconstructed"
+    },
+    {
+      "t": 6840,
+      "title": "Juan describes himself as a musician and composer"
+    },
+    {
+      "t": 6940,
+      "title": "Art direction is mistaken for a small request"
+    },
+    {
+      "t": 7040,
+      "title": "Time and attention are the scarce resources"
+    },
+    {
+      "t": 7120,
+      "title": "Imported chips and Yoshi interrupt"
+    },
+    {
+      "t": 7200,
+      "title": "One girlfriend and painting was a simpler life"
+    },
+    {
+      "t": 7280,
+      "title": "Television, animation, film, and an unfinished album"
+    },
+    {
+      "t": 7360,
+      "title": "Juan argues that films require collaboration"
+    },
+    {
+      "t": 7455,
+      "title": "David labels the rant a rich-guy problem"
+    },
+    {
+      "t": 7484,
+      "title": "Lunch is blamed for not painting"
+    },
+    {
+      "t": 7527,
+      "title": "A Giant Robot event explains reconnection"
+    },
+    {
+      "t": 7559,
+      "title": "Some people are too close to deflect"
+    },
+    {
+      "t": 7569,
+      "title": "A restaurant becomes unusable after a pitch"
+    },
+    {
+      "t": 7600,
+      "title": "Money Mark recognizes the access problem"
+    },
+    {
+      "t": 7643,
+      "title": "Advice and access are not interchangeable"
+    },
+    {
+      "t": 7681,
+      "title": "Others ask Money Mark to reach David"
+    },
+    {
+      "t": 7692,
+      "title": "Asa says Juan was not rude"
+    },
+    {
+      "t": 7721,
+      "title": "A boundary can be real without being crossed"
+    },
+    {
+      "t": 7737,
+      "title": "Bobby has little to add"
+    },
+    {
+      "t": 7753,
+      "title": "Missing trivia becomes a recurring grievance"
+    },
+    {
+      "t": 7765,
+      "title": "Kevin's race is proposed as trivia material"
+    },
+    {
+      "t": 7781,
+      "title": "Bobby is asked whether he is in or out"
+    },
+    {
+      "t": 7804,
+      "title": "Quiet B becomes his new nickname"
+    },
+    {
+      "t": 7823,
+      "title": "Pamela's Bobby Hill voice is invoked"
+    },
+    {
+      "t": 7848,
+      "title": "Money Mark supplies an improvised beat"
+    },
+    {
+      "t": 7885,
+      "title": "The beat sounds like Ace of Base"
+    },
+    {
+      "t": 7892,
+      "title": "Lyrics are texted to Bobby"
+    },
+    {
+      "t": 7926,
+      "title": "Valentin is pressured to sing instead"
+    },
+    {
+      "t": 7952,
+      "title": "The bus story becomes a song prompt"
+    },
+    {
+      "t": 7998,
+      "title": "Bobby repeatedly says he cannot perform"
+    },
+    {
+      "t": 8041,
+      "title": "He has been awake since three"
+    },
+    {
+      "t": 8070,
+      "title": "The group invokes weekly obligation"
+    },
+    {
+      "t": 8098,
+      "title": "Bobby was finishing a print"
+    },
+    {
+      "t": 8118,
+      "title": "A hockey concussion is disclosed"
+    },
+    {
+      "t": 8132,
+      "title": "The room recognizes the care failure"
+    },
+    {
+      "t": 8145,
+      "title": "The show attempts to close"
+    },
+    {
+      "t": 8163,
+      "title": "Trivia restarts anyway"
+    },
+    {
+      "t": 8185,
+      "title": "I Got 5 on It and Luniz"
+    },
+    {
+      "t": 8198,
+      "title": "Too $hort wins another answer"
+    },
+    {
+      "t": 8211,
+      "title": "Critter is declared the replacement"
+    },
+    {
+      "t": 8230,
+      "title": "Kevin is applauded through racial framing"
+    },
+    {
+      "t": 8245,
+      "title": "Money Mark plays the episode out"
+    },
+    {
+      "t": 8253,
+      "title": "The DVDASA wish list"
+    },
+    {
+      "t": 8293,
+      "title": "Recorded credits supply the formal close"
+    }
   ],
-  "people": ["David Choe", "Asa Akira", "Kevin Hayes", "Money Mark", "Critter", "Valentin", "Bobby Namba", "Juan", "Yoshi", "Eric Estrada", "John Mayer", "Pamela Adlon", "Sasha Grey", "Everlast", "Anthony Bourdain", "Charmane Star", "Howard Stern", "Donna Summer", "Too $hort"],
-  "places": ["Los Angeles", "Glendale", "The Americana at Brand", "Glendale Galleria", "Hawaii", "Miami", "Soho House", "North Carolina", "Seventh Veil", "Sunset Boulevard", "Dubai"],
-  "works": ["The Dirtiest Little Rainbow", "Black Dynamite", "Blade Runner", "American Idol", "I Got 5 on It"],
-  "organizations": ["DVDASA", "NBC", "Telemundo", "Adult Swim", "CNN", "House of Pain", "Giant Robot", "McDonald's"],
-  "themes": ["photography", "digital collage", "Black and Jewish identity", "racial stereotyping", "ethnic stereotyping", "friendship", "unreturned love", "adult performance", "private intimacy", "wealth", "publicity", "emotional scarcity", "marriage timing", "creative attention", "assistant labor", "workplace power", "unsolicited pitches", "collaboration", "boundaries", "painting", "public humiliation", "concussion", "care failure", "improvised music"],
+  "people": [
+    "David Choe",
+    "Asa Akira",
+    "Kevin Hayes",
+    "Money Mark",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Juan",
+    "Yoshi",
+    "Eric Estrada",
+    "John Mayer",
+    "Pamela Adlon",
+    "Sasha Grey",
+    "Everlast",
+    "Anthony Bourdain",
+    "Charmane Star",
+    "Howard Stern",
+    "Donna Summer",
+    "Too $hort"
+  ],
+  "places": [
+    "Los Angeles",
+    "Glendale",
+    "The Americana at Brand",
+    "Glendale Galleria",
+    "Hawaii",
+    "Miami",
+    "Soho House",
+    "North Carolina",
+    "Seventh Veil",
+    "Sunset Boulevard",
+    "Dubai"
+  ],
+  "works": [
+    "The Dirtiest Little Rainbow",
+    "Black Dynamite",
+    "Blade Runner",
+    "American Idol",
+    "I Got 5 on It"
+  ],
+  "organizations": [
+    "DVDASA",
+    "NBC",
+    "Telemundo",
+    "Adult Swim",
+    "CNN",
+    "House of Pain",
+    "Giant Robot",
+    "McDonald's"
+  ],
+  "themes": [
+    "photography",
+    "digital collage",
+    "Black and Jewish identity",
+    "racial stereotyping",
+    "ethnic stereotyping",
+    "friendship",
+    "unreturned love",
+    "adult performance",
+    "private intimacy",
+    "wealth",
+    "publicity",
+    "emotional scarcity",
+    "marriage timing",
+    "creative attention",
+    "assistant labor",
+    "workplace power",
+    "unsolicited pitches",
+    "collaboration",
+    "boundaries",
+    "painting",
+    "public humiliation",
+    "concussion",
+    "care failure",
+    "improvised music"
+  ],
   "connections": [
-    {"label": "Kevin's work is larger than the episode title", "note": "The show markets him as its first Black guest, but his own material concerns photography, collage, attraction, loyalty, and emotional risk. The reader should surface that authorship before the cast's racial frame."},
-    {"label": "The cast turns identity into an engine", "note": "Black, Jewish, Salvadoran, immigrant, and interracial identities repeatedly become prompts for jokes or sexual generalization. These statements remain attributed evidence of the room, not descriptive metadata about groups."},
-    {"label": "Photography joins desire to attention", "note": "Kevin photographs plus-size women and describes attraction alongside image-making. The account connects the archive's recurring artist-model questions to digital collage and early Instagram rather than painting alone."},
-    {"label": "Friendship can outlast sexual asymmetry", "note": "Kevin describes unreturned feelings without presenting betrayal, while David and Asa reconstruct a friendship that later became sexual and then remained collaborative. The two accounts offer different ways intimacy changes a working relationship."},
-    {"label": "Publicity converts every contact into access", "note": "The Facebook windfall brings television requests, while ordinary friends, restaurant workers, assistants, and event acquaintances later arrive with projects. David experiences recognition as a collapse of the boundary between social time and work solicitation."},
-    {"label": "Spoiling is the episode's theory of abundance", "note": "David borrows his mother's consumer metaphor to describe money, sexual options, and emotional numbness. The connection is revealing but not causal proof."},
-    {"label": "Older famous men become imagined futures", "note": "Everlast and Anthony Bourdain are treated as models for moving from excess toward marriage. Their lives are compressed into advice symbols, so the archive should distinguish David's projection from biography."},
-    {"label": "Kevin refuses the expected strip-club script", "note": "He laughs, talks, and becomes curious about a dancer instead of consuming the setting as designed. This echoes his photographic interest in people the room otherwise reduces to bodies."},
-    {"label": "The Reuben theory is folk management science", "note": "David generalizes from lunch orders and unsolicited scripts into assistant personality types. It documents his hiring intuition, not a defensible assessment method."},
-    {"label": "Assistant growth is framed as disloyalty", "note": "David says he wants help without ambition, then uses servant and slave language. That reveals a conflict between his need for protected creative time and an employee's right to develop."},
-    {"label": "Juan exposes two valid boundaries", "note": "David reasonably treats time and attention as scarce; Juan and Asa reasonably reject the claim that one collaboration request was inherently rude. The episode is strongest when both boundaries remain visible."},
-    {"label": "Lunch becomes the antagonist to painting", "note": "David explains reduced output through meetings and social obligation. The archive can test this claim against earlier and later accounts of distraction, money, television, travel, and relationship density."},
-    {"label": "Bobby's role is labor even when informal", "note": "The room expects weekly trivia, participation, and availability, yet the role's authority and care obligations are unclear. Humiliation substitutes for a direct agreement about the job."},
-    {"label": "The concussion changes the ending retroactively", "note": "Only after sustained pressure does Bobby disclose exhaustion and a hockey concussion. The group's immediate reversal shows how little context it sought before treating nonperformance as defiance."},
-    {"label": "Improvisation can become coercion", "note": "Money Mark's beats create genuine play, but repeated demands that Bobby and Valentin sing continue after refusal. The same format can generate collaboration or public pressure depending on consent."},
-    {"label": "Text confidence and speaker confidence remain separate", "note": "Episode Twenty-Nine has a strong transcript, three safe empty-only cleaner drops, and 2,778 fixed-window identity embeddings. It still lacks independently validated multi-speaker naming, so people remain episode metadata rather than dialogue labels."}
+    {
+      "label": "Kevin's work is larger than the episode title",
+      "note": "The show markets him as its first Black guest, but his own material concerns photography, collage, attraction, loyalty, and emotional risk. The reader should surface that authorship before the cast's racial frame."
+    },
+    {
+      "label": "The cast turns identity into an engine",
+      "note": "Black, Jewish, Salvadoran, immigrant, and interracial identities repeatedly become prompts for jokes or sexual generalization. These statements remain attributed evidence of the room, not descriptive metadata about groups."
+    },
+    {
+      "label": "Photography joins desire to attention",
+      "note": "Kevin photographs plus-size women and describes attraction alongside image-making. The account connects the archive's recurring artist-model questions to digital collage and early Instagram rather than painting alone."
+    },
+    {
+      "label": "Friendship can outlast sexual asymmetry",
+      "note": "Kevin describes unreturned feelings without presenting betrayal, while David and Asa reconstruct a friendship that later became sexual and then remained collaborative. The two accounts offer different ways intimacy changes a working relationship."
+    },
+    {
+      "label": "Publicity converts every contact into access",
+      "note": "The Facebook windfall brings television requests, while ordinary friends, restaurant workers, assistants, and event acquaintances later arrive with projects. David experiences recognition as a collapse of the boundary between social time and work solicitation."
+    },
+    {
+      "label": "Spoiling is the episode's theory of abundance",
+      "note": "David borrows his mother's consumer metaphor to describe money, sexual options, and emotional numbness. The connection is revealing but not causal proof."
+    },
+    {
+      "label": "Older famous men become imagined futures",
+      "note": "Everlast and Anthony Bourdain are treated as models for moving from excess toward marriage. Their lives are compressed into advice symbols, so the archive should distinguish David's projection from biography."
+    },
+    {
+      "label": "Kevin refuses the expected strip-club script",
+      "note": "He laughs, talks, and becomes curious about a dancer instead of consuming the setting as designed. This echoes his photographic interest in people the room otherwise reduces to bodies."
+    },
+    {
+      "label": "The Reuben theory is folk management science",
+      "note": "David generalizes from lunch orders and unsolicited scripts into assistant personality types. It documents his hiring intuition, not a defensible assessment method."
+    },
+    {
+      "label": "Assistant growth is framed as disloyalty",
+      "note": "David says he wants help without ambition, then uses servant and slave language. That reveals a conflict between his need for protected creative time and an employee's right to develop."
+    },
+    {
+      "label": "Juan exposes two valid boundaries",
+      "note": "David reasonably treats time and attention as scarce; Juan and Asa reasonably reject the claim that one collaboration request was inherently rude. The episode is strongest when both boundaries remain visible."
+    },
+    {
+      "label": "Lunch becomes the antagonist to painting",
+      "note": "David explains reduced output through meetings and social obligation. The archive can test this claim against earlier and later accounts of distraction, money, television, travel, and relationship density."
+    },
+    {
+      "label": "Bobby's role is labor even when informal",
+      "note": "The room expects weekly trivia, participation, and availability, yet the role's authority and care obligations are unclear. Humiliation substitutes for a direct agreement about the job."
+    },
+    {
+      "label": "The concussion changes the ending retroactively",
+      "note": "Only after sustained pressure does Bobby disclose exhaustion and a hockey concussion. The group's immediate reversal shows how little context it sought before treating nonperformance as defiance."
+    },
+    {
+      "label": "Improvisation can become coercion",
+      "note": "Money Mark's beats create genuine play, but repeated demands that Bobby and Valentin sing continue after refusal. The same format can generate collaboration or public pressure depending on consent."
+    },
+    {
+      "label": "Text confidence and speaker confidence remain separate",
+      "note": "Episode Twenty-Nine has a strong transcript, three safe empty-only cleaner drops, and 2,778 fixed-window identity embeddings. It still lacks independently validated multi-speaker naming, so people remain episode metadata rather than dialogue labels."
+    }
   ],
-  "content_warnings": ["explicit sexual discussion", "racial slurs and stereotyping", "ethnic stereotyping", "homophobic slurs", "private-person sexual disclosure", "adolescent sexual contact", "workplace degradation", "public pressure after refusal", "concussion"],
+  "content_warnings": [
+    "explicit sexual discussion",
+    "racial slurs and stereotyping",
+    "ethnic stereotyping",
+    "homophobic slurs",
+    "private-person sexual disclosure",
+    "adolescent sexual contact",
+    "workplace degradation",
+    "public pressure after refusal",
+    "concussion"
+  ],
   "quality": {
     "text": "strong after human contextual correction",
     "cleaning": "accepted; three empty zero-duration records only",
@@ -177,5 +739,7 @@
     "identity_windows": 2778,
     "corrections": 30
   },
-  "note": "Kevin Hayes's public identity is supported by a contemporaneous profile of an iPhone photographer with matching collage practice. The spoken Instagram/project title is retained at lower confidence. Private partners, minors, applicants, and undeveloped creative work are excluded from searchable people metadata."
+  "note": "Kevin Hayes's public identity is supported by a contemporaneous profile of an iPhone photographer with matching collage practice. The spoken Instagram/project title is retained at lower confidence. Private partners, minors, applicants, and undeveloped creative work are excluded from searchable people metadata.",
+  "description": "Kevin Hayes joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode nominally framed around DVDASA's first Black guest.",
+  "description_source": "Opening of the human-reviewed summary."
 }

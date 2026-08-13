@@ -1,0 +1,59 @@
+{
+  "episode_id": "DInFITDqmkA",
+  "title": "MANGCHI",
+  "reviewed_on": "2026-08-13",
+  "description": "A short upload titled Mangchi contains conversation about favorite songs and video-game weapons rather than a clearly recoverable performance; the mismatch is retained instead of forcing it into band history.",
+  "summary": "A short upload titled Mangchi contains conversation about favorite songs and video-game weapons rather than a clearly recoverable performance; the mismatch is retained instead of forcing it into band history. The chapter map follows the recoverable route timeline; lyrics and visually dependent action remain limited where the automatic transcript is damaged.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "Favorite song and game loadout"
+    },
+    {
+      "t": 127,
+      "title": "Scout rifle and Häkke weapon talk"
+    },
+    {
+      "t": 143,
+      "title": "Brief close"
+    }
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [],
+  "works": [
+    "Mangchi",
+    "Destiny"
+  ],
+  "themes": [
+    "source mismatch",
+    "video games",
+    "transcript uncertainty"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 3,
+    "duration_seconds": 142.7,
+    "chapters": 3,
+    "named_turns": 0,
+    "transcript_limited": false
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

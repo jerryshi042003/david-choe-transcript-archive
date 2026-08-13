@@ -18,120 +18,478 @@
   "sensitivity": "Explicit sexual content; sexual assault and murder jokes; spouse coercion and marital rape; private partners and wedding logistics; possible-minor age ambiguity; HIV/STI and vaginal-health misinformation; unsafe insertion remedy; unknown topical substance; animal sexual abuse; catfishing and unauthorized account access; disability, racial, gender, orientation, body and housing stereotypes; exploitative reality-show concepts; piracy references; adult-workplace privacy; imposed bodily contact.",
   "speaker_policy": "Named dialogue remains withheld. Episode 73 has zero diarized turns and five coarse window embeddings for a large ensemble. Public guests and recurring cast are contextually known, but no independently held-out multispeaker validation has passed.",
   "source_notes": [
-    {"claim": "A1C below 5.7% is normal, 5.7–6.4% is prediabetes, and 6.5% or above is in the diabetes range", "source": "https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html", "use": "corrects the episode's compressed A1C claim while avoiding diagnosis"},
-    {"claim": "No HIV test detects infection immediately; typical windows range from 10–33 days for NAT to 23–90 days for antibody tests", "source": "https://www.cdc.gov/hiv/testing/index.html", "use": "rejects the claim that five days can provide 100% certainty"},
-    {"claim": "Vaginal yeast symptoms overlap with BV and STIs and appropriate treatment uses antifungal medicine after correct identification", "source": "https://womenshealth.gov/a-z-topics/vaginal-yeast-infections", "use": "rejects the garlic insertion remedy and casual diagnosis"},
-    {"claim": "Dust-mite control emphasizes hot-washing bedding, dust-proof covers and lower humidity", "source": "https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm", "use": "corrects the suede-or-leather clothing claim"},
-    {"claim": "Mike White wrote School of Rock and Nacho Libre and competed on The Amazing Race before his later Survivor appearance", "source": "https://www.tvinsider.com/people/mike-white/", "use": "corrects creator credits and preserves episode-era chronology"},
-    {"claim": "The Awesomes was co-created by Seth Meyers and Mike Shoemaker and includes Bobby Lee in its voice cast", "source": "https://theawesomes.com/", "use": "grounds Bobby's public career update"},
-    {"claim": "A historical DVDASA episode index dates Episode 73 to November 19, 2013 and identifies Phoebe Lovatt, Bobby Lee, Bill Poon and others", "source": "https://en.everybodywiki.com/DVDASA", "use": "fan-maintained corroboration only; not treated as authoritative transcript"},
-    {"claim": "The same fan index identifies The Poon Report and YumYumCha as separate Bill Poon blogs", "source": "https://en.everybodywiki.com/DVDASA", "use": "adds a written-source census lead that still requires archive-level capture and provenance"}
+    {
+      "claim": "A1C below 5.7% is normal, 5.7–6.4% is prediabetes, and 6.5% or above is in the diabetes range",
+      "source": "https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html",
+      "use": "corrects the episode's compressed A1C claim while avoiding diagnosis"
+    },
+    {
+      "claim": "No HIV test detects infection immediately; typical windows range from 10–33 days for NAT to 23–90 days for antibody tests",
+      "source": "https://www.cdc.gov/hiv/testing/index.html",
+      "use": "rejects the claim that five days can provide 100% certainty"
+    },
+    {
+      "claim": "Vaginal yeast symptoms overlap with BV and STIs and appropriate treatment uses antifungal medicine after correct identification",
+      "source": "https://womenshealth.gov/a-z-topics/vaginal-yeast-infections",
+      "use": "rejects the garlic insertion remedy and casual diagnosis"
+    },
+    {
+      "claim": "Dust-mite control emphasizes hot-washing bedding, dust-proof covers and lower humidity",
+      "source": "https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm",
+      "use": "corrects the suede-or-leather clothing claim"
+    },
+    {
+      "claim": "Mike White wrote School of Rock and Nacho Libre and competed on The Amazing Race before his later Survivor appearance",
+      "source": "https://www.tvinsider.com/people/mike-white/",
+      "use": "corrects creator credits and preserves episode-era chronology"
+    },
+    {
+      "claim": "The Awesomes was co-created by Seth Meyers and Mike Shoemaker and includes Bobby Lee in its voice cast",
+      "source": "https://theawesomes.com/",
+      "use": "grounds Bobby's public career update"
+    },
+    {
+      "claim": "A historical DVDASA episode index dates Episode 73 to November 19, 2013 and identifies Phoebe Lovatt, Bobby Lee, Bill Poon and others",
+      "source": "https://en.everybodywiki.com/DVDASA",
+      "use": "fan-maintained corroboration only; not treated as authoritative transcript"
+    },
+    {
+      "claim": "The same fan index identifies The Poon Report and YumYumCha as separate Bill Poon blogs",
+      "source": "https://en.everybodywiki.com/DVDASA",
+      "use": "adds a written-source census lead that still requires archive-level capture and provenance"
+    }
   ],
   "chapters": [
-    {"t": 0.0, "title": "Cold open and ensemble setup"},
-    {"t": 17.0, "title": "DVDASA begins"},
-    {"t": 72.0, "title": "Phoebe Lovatt and The Hundreds"},
-    {"t": 145.0, "title": "Fat Thor body nickname"},
-    {"t": 220.0, "title": "Super Soaker painting idea"},
-    {"t": 270.0, "title": "Unknown pheromone oil arrives"},
-    {"t": 305.0, "title": "Applying a substance requires permission"},
-    {"t": 320.0, "title": "A chemical cannot create consent"},
-    {"t": 345.0, "title": "Skin reaction is a stop signal"},
-    {"t": 390.0, "title": "Irréversible referenced"},
-    {"t": 430.0, "title": "Animal-abuse claims minimized"},
-    {"t": 510.0, "title": "A1C ranges corrected"},
-    {"t": 580.0, "title": "Flu vaccination nuance"},
-    {"t": 620.0, "title": "Dust-mite control is not suede"},
-    {"t": 660.0, "title": "Sexual-health examination"},
-    {"t": 705.0, "title": "Yeast, BV, UTI and STI are distinct"},
-    {"t": 820.0, "title": "Housing-status stereotype rejected"},
-    {"t": 881.0, "title": "Rape-and-murder law joke"},
-    {"t": 907.0, "title": "Five days cannot rule out HIV"},
-    {"t": 912.0, "title": "Unresolved cheese test"},
-    {"t": 927.0, "title": "Private sexual dossier withheld"},
-    {"t": 999.0, "title": "Height and sexual-position debate"},
-    {"t": 1118.0, "title": "Condom-use discussion"},
-    {"t": 1127.0, "title": "Ethnicity does not prevent HIV"},
-    {"t": 1160.0, "title": "A reporter does not authorize disclosure"},
-    {"t": 1241.0, "title": "One person cannot represent Koreans"},
-    {"t": 1299.0, "title": "Physical demonstration minimized"},
-    {"t": 1311.0, "title": "Phoebe is asked for preferences"},
-    {"t": 1422.0, "title": "No universal gender preference"},
-    {"t": 1493.0, "title": "Physicality requires agreement"},
-    {"t": 1571.0, "title": "The cast objects to fat labels"},
-    {"t": 1700.0, "title": "Phoebe states her interview boundary"},
-    {"t": 1770.0, "title": "Sebastian Maniscalco and subject matter"},
-    {"t": 1900.0, "title": "Private long-term partner withheld"},
-    {"t": 1980.0, "title": "Am I gonna get that ring?"},
-    {"t": 2070.0, "title": "Marriage plan without private logistics"},
-    {"t": 2160.0, "title": "Workplace proposal pressure"},
-    {"t": 2240.0, "title": "Fake breakup proposal rejected"},
-    {"t": 2350.0, "title": "Prenup ASR correction"},
-    {"t": 2500.0, "title": "Workplace and family withheld"},
-    {"t": 2670.0, "title": "Private best-man identity withheld"},
-    {"t": 2890.0, "title": "Accidental partner-name expansion blocked"},
-    {"t": 3100.0, "title": "Private former partner withheld"},
-    {"t": 3363.0, "title": "The cast asks not to discuss the friend"},
-    {"t": 3430.0, "title": "A spouse's no remains no"},
-    {"t": 3480.0, "title": "The coercive premise is called marital rape"},
-    {"t": 3540.0, "title": "Rape is not a self-discipline metaphor"},
-    {"t": 3650.0, "title": "Feelings, boundaries and obligations"},
-    {"t": 3693.0, "title": "Peeing after sex is not a guarantee"},
-    {"t": 3707.0, "title": "Do not insert garlic"},
-    {"t": 3765.0, "title": "Marriage requires two willing people"},
-    {"t": 3850.0, "title": "Divorce does not prove the vow was a lie"},
-    {"t": 4026.0, "title": "The Four Agreements"},
-    {"t": 4110.0, "title": "Chuck Close on showing up"},
-    {"t": 4123.0, "title": "Motivation does not override consent"},
-    {"t": 4300.0, "title": "Earlier Survivor audition"},
-    {"t": 4410.0, "title": "Mike White credit correction"},
-    {"t": 4450.0, "title": "Amazing Race before Survivor"},
-    {"t": 4500.0, "title": "Yul Kwon identified"},
-    {"t": 4580.0, "title": "Mike White responds to Thumbs Up"},
-    {"t": 4620.0, "title": "Competitive travel-show pitch"},
-    {"t": 4660.0, "title": "Vulnerable people are not spectacle"},
-    {"t": 4720.0, "title": "Crime and deprivation are not game mechanics"},
-    {"t": 4800.0, "title": "Running Man and Battle Royale"},
-    {"t": 4840.0, "title": "The Hunger Games"},
-    {"t": 4920.0, "title": "Competition integrity"},
-    {"t": 5010.0, "title": "Private newer date withheld"},
-    {"t": 5070.0, "title": "No ethnic sexual representative"},
-    {"t": 5150.0, "title": "Nudity requires explicit agreement"},
-    {"t": 5230.0, "title": "Sean Saves the World"},
-    {"t": 5260.0, "title": "The Awesomes season update"},
-    {"t": 5350.0, "title": "Piracy references without instructions"},
-    {"t": 5515.0, "title": "The deceptive Facebook identity"},
-    {"t": 5560.0, "title": "Name and age are material"},
-    {"t": 5781.0, "title": "Possible-minor age ambiguity"},
-    {"t": 5790.0, "title": "Private travel plan withheld"},
-    {"t": 5814.0, "title": "Unauthorized phone and account access"},
-    {"t": 5940.0, "title": "The private person leaves after discovery"},
-    {"t": 5952.0, "title": "Undisclosed concurrent relationships"},
-    {"t": 5977.0, "title": "Material facts do need telling"},
-    {"t": 6400.0, "title": "YumYumCha written-source lead"},
-    {"t": 6730.0, "title": "Trivia consequence needed consent"}
+    {
+      "t": 0,
+      "title": "Cold open and ensemble setup"
+    },
+    {
+      "t": 17,
+      "title": "DVDASA begins"
+    },
+    {
+      "t": 72,
+      "title": "Phoebe Lovatt and The Hundreds"
+    },
+    {
+      "t": 145,
+      "title": "Fat Thor body nickname"
+    },
+    {
+      "t": 220,
+      "title": "Super Soaker painting idea"
+    },
+    {
+      "t": 270,
+      "title": "Unknown pheromone oil arrives"
+    },
+    {
+      "t": 305,
+      "title": "Applying a substance requires permission"
+    },
+    {
+      "t": 320,
+      "title": "A chemical cannot create consent"
+    },
+    {
+      "t": 345,
+      "title": "Skin reaction is a stop signal"
+    },
+    {
+      "t": 390,
+      "title": "Irréversible referenced"
+    },
+    {
+      "t": 430,
+      "title": "Animal-abuse claims minimized"
+    },
+    {
+      "t": 510,
+      "title": "A1C ranges corrected"
+    },
+    {
+      "t": 580,
+      "title": "Flu vaccination nuance"
+    },
+    {
+      "t": 620,
+      "title": "Dust-mite control is not suede"
+    },
+    {
+      "t": 660,
+      "title": "Sexual-health examination"
+    },
+    {
+      "t": 705,
+      "title": "Yeast, BV, UTI and STI are distinct"
+    },
+    {
+      "t": 820,
+      "title": "Housing-status stereotype rejected"
+    },
+    {
+      "t": 881,
+      "title": "Rape-and-murder law joke"
+    },
+    {
+      "t": 907,
+      "title": "Five days cannot rule out HIV"
+    },
+    {
+      "t": 912,
+      "title": "Unresolved cheese test"
+    },
+    {
+      "t": 927,
+      "title": "Private sexual dossier withheld"
+    },
+    {
+      "t": 999,
+      "title": "Height and sexual-position debate"
+    },
+    {
+      "t": 1118,
+      "title": "Condom-use discussion"
+    },
+    {
+      "t": 1127,
+      "title": "Ethnicity does not prevent HIV"
+    },
+    {
+      "t": 1160,
+      "title": "A reporter does not authorize disclosure"
+    },
+    {
+      "t": 1241,
+      "title": "One person cannot represent Koreans"
+    },
+    {
+      "t": 1299,
+      "title": "Physical demonstration minimized"
+    },
+    {
+      "t": 1311,
+      "title": "Phoebe is asked for preferences"
+    },
+    {
+      "t": 1422,
+      "title": "No universal gender preference"
+    },
+    {
+      "t": 1493,
+      "title": "Physicality requires agreement"
+    },
+    {
+      "t": 1571,
+      "title": "The cast objects to fat labels"
+    },
+    {
+      "t": 1700,
+      "title": "Phoebe states her interview boundary"
+    },
+    {
+      "t": 1770,
+      "title": "Sebastian Maniscalco and subject matter"
+    },
+    {
+      "t": 1900,
+      "title": "Private long-term partner withheld"
+    },
+    {
+      "t": 1980,
+      "title": "Am I gonna get that ring?"
+    },
+    {
+      "t": 2070,
+      "title": "Marriage plan without private logistics"
+    },
+    {
+      "t": 2160,
+      "title": "Workplace proposal pressure"
+    },
+    {
+      "t": 2240,
+      "title": "Fake breakup proposal rejected"
+    },
+    {
+      "t": 2350,
+      "title": "Prenup ASR correction"
+    },
+    {
+      "t": 2500,
+      "title": "Workplace and family withheld"
+    },
+    {
+      "t": 2670,
+      "title": "Private best-man identity withheld"
+    },
+    {
+      "t": 2890,
+      "title": "Accidental partner-name expansion blocked"
+    },
+    {
+      "t": 3100,
+      "title": "Private former partner withheld"
+    },
+    {
+      "t": 3363,
+      "title": "The cast asks not to discuss the friend"
+    },
+    {
+      "t": 3430,
+      "title": "A spouse's no remains no"
+    },
+    {
+      "t": 3480,
+      "title": "The coercive premise is called marital rape"
+    },
+    {
+      "t": 3540,
+      "title": "Rape is not a self-discipline metaphor"
+    },
+    {
+      "t": 3650,
+      "title": "Feelings, boundaries and obligations"
+    },
+    {
+      "t": 3693,
+      "title": "Peeing after sex is not a guarantee"
+    },
+    {
+      "t": 3707,
+      "title": "Do not insert garlic"
+    },
+    {
+      "t": 3765,
+      "title": "Marriage requires two willing people"
+    },
+    {
+      "t": 3850,
+      "title": "Divorce does not prove the vow was a lie"
+    },
+    {
+      "t": 4026,
+      "title": "The Four Agreements"
+    },
+    {
+      "t": 4110,
+      "title": "Chuck Close on showing up"
+    },
+    {
+      "t": 4123,
+      "title": "Motivation does not override consent"
+    },
+    {
+      "t": 4300,
+      "title": "Earlier Survivor audition"
+    },
+    {
+      "t": 4410,
+      "title": "Mike White credit correction"
+    },
+    {
+      "t": 4450,
+      "title": "Amazing Race before Survivor"
+    },
+    {
+      "t": 4500,
+      "title": "Yul Kwon identified"
+    },
+    {
+      "t": 4580,
+      "title": "Mike White responds to Thumbs Up"
+    },
+    {
+      "t": 4620,
+      "title": "Competitive travel-show pitch"
+    },
+    {
+      "t": 4660,
+      "title": "Vulnerable people are not spectacle"
+    },
+    {
+      "t": 4720,
+      "title": "Crime and deprivation are not game mechanics"
+    },
+    {
+      "t": 4800,
+      "title": "Running Man and Battle Royale"
+    },
+    {
+      "t": 4840,
+      "title": "The Hunger Games"
+    },
+    {
+      "t": 4920,
+      "title": "Competition integrity"
+    },
+    {
+      "t": 5010,
+      "title": "Private newer date withheld"
+    },
+    {
+      "t": 5070,
+      "title": "No ethnic sexual representative"
+    },
+    {
+      "t": 5150,
+      "title": "Nudity requires explicit agreement"
+    },
+    {
+      "t": 5230,
+      "title": "Sean Saves the World"
+    },
+    {
+      "t": 5260,
+      "title": "The Awesomes season update"
+    },
+    {
+      "t": 5350,
+      "title": "Piracy references without instructions"
+    },
+    {
+      "t": 5515,
+      "title": "The deceptive Facebook identity"
+    },
+    {
+      "t": 5560,
+      "title": "Name and age are material"
+    },
+    {
+      "t": 5781,
+      "title": "Possible-minor age ambiguity"
+    },
+    {
+      "t": 5790,
+      "title": "Private travel plan withheld"
+    },
+    {
+      "t": 5814,
+      "title": "Unauthorized phone and account access"
+    },
+    {
+      "t": 5940,
+      "title": "The private person leaves after discovery"
+    },
+    {
+      "t": 5952,
+      "title": "Undisclosed concurrent relationships"
+    },
+    {
+      "t": 5977,
+      "title": "Material facts do need telling"
+    },
+    {
+      "t": 6400,
+      "title": "YumYumCha written-source lead"
+    },
+    {
+      "t": 6730,
+      "title": "Trivia consequence needed consent"
+    }
   ],
   "connections": [
-    {"from": 72, "to": "The Hundreds written-source census", "relationship": "Phoebe Lovatt identifies the appearance as an assignment and potential published source"},
-    {"from": 270, "to": "unknown-product safety ledger", "relationship": "An unverified topical oil is placed on participants while efficacy and ingredients remain unknown"},
-    {"from": 907, "to": "sexual-health misinformation ledger", "relationship": "The episode makes an acutely false five-day HIV certainty claim"},
-    {"from": 1700, "to": "interview-consent ledger", "relationship": "Phoebe explicitly limits the sexual questions, giving the archive a clear participant boundary"},
-    {"from": 1980, "to": "Bobby Lee relationship timeline", "relationship": "A private long-term partner asks whether the relationship is moving toward marriage"},
-    {"from": 2070, "to": "Bobby Lee marriage timeline", "relationship": "Bobby publicly announces an intention to marry while proposal and logistics remain unresolved"},
-    {"from": 2890, "to": "privacy alias ledger", "relationship": "An accidental first-name disclosure demonstrates why the archive must not expand the Quiet C alias"},
-    {"from": 3430, "to": "spousal-consent ledger", "relationship": "The motivation argument crosses into sex after a spouse says no"},
-    {"from": 3480, "to": "self-correction ledger", "relationship": "A participant correctly names the coercive scenario as marital rape"},
-    {"from": 3693, "to": "sexual-health misinformation ledger", "relationship": "Urination after sex is promoted as a complete bacterial flush"},
-    {"from": 3707, "to": "dangerous-medical-misinformation ledger", "relationship": "Garlic is recommended for vaginal and urethral insertion"},
-    {"from": 4300, "to": "David Choe television-development timeline", "relationship": "Choe recalls an earlier Survivor audition before the later Mike White pitch"},
-    {"from": 4580, "to": "Thumbs Up creator timeline", "relationship": "Mike White's response to Thumbs Up leads to a competitive travel-format pitch"},
-    {"from": 4660, "to": "participant-exploitation ledger", "relationship": "The pitch treats people facing severe vulnerability as humiliation-ready casting categories"},
-    {"from": 4920, "to": "competition-integrity ledger", "relationship": "Friends and fans are proposed as favored contestants"},
-    {"from": 5230, "to": "Bobby Lee career timeline", "relationship": "Bobby discusses an episode role on Sean Saves the World"},
-    {"from": 5260, "to": "Bobby Lee career timeline", "relationship": "The Awesomes renewal and voice work are discussed"},
-    {"from": 5515, "to": "digital-deception ledger", "relationship": "Valentin's false Facebook identity becomes a detailed case of material dating deception"},
-    {"from": 5977, "to": "Episode 73 central thesis correction", "relationship": "The cast says people do not need to know while the concealed facts directly affect informed choice"},
-    {"from": 6400, "to": "Bill Poon written-source census", "relationship": "YumYumCha.com is named in the episode and fan indexes separately identify The Poon Report"}
+    {
+      "from": 72,
+      "to": "The Hundreds written-source census",
+      "relationship": "Phoebe Lovatt identifies the appearance as an assignment and potential published source"
+    },
+    {
+      "from": 270,
+      "to": "unknown-product safety ledger",
+      "relationship": "An unverified topical oil is placed on participants while efficacy and ingredients remain unknown"
+    },
+    {
+      "from": 907,
+      "to": "sexual-health misinformation ledger",
+      "relationship": "The episode makes an acutely false five-day HIV certainty claim"
+    },
+    {
+      "from": 1700,
+      "to": "interview-consent ledger",
+      "relationship": "Phoebe explicitly limits the sexual questions, giving the archive a clear participant boundary"
+    },
+    {
+      "from": 1980,
+      "to": "Bobby Lee relationship timeline",
+      "relationship": "A private long-term partner asks whether the relationship is moving toward marriage"
+    },
+    {
+      "from": 2070,
+      "to": "Bobby Lee marriage timeline",
+      "relationship": "Bobby publicly announces an intention to marry while proposal and logistics remain unresolved"
+    },
+    {
+      "from": 2890,
+      "to": "privacy alias ledger",
+      "relationship": "An accidental first-name disclosure demonstrates why the archive must not expand the Quiet C alias"
+    },
+    {
+      "from": 3430,
+      "to": "spousal-consent ledger",
+      "relationship": "The motivation argument crosses into sex after a spouse says no"
+    },
+    {
+      "from": 3480,
+      "to": "self-correction ledger",
+      "relationship": "A participant correctly names the coercive scenario as marital rape"
+    },
+    {
+      "from": 3693,
+      "to": "sexual-health misinformation ledger",
+      "relationship": "Urination after sex is promoted as a complete bacterial flush"
+    },
+    {
+      "from": 3707,
+      "to": "dangerous-medical-misinformation ledger",
+      "relationship": "Garlic is recommended for vaginal and urethral insertion"
+    },
+    {
+      "from": 4300,
+      "to": "David Choe television-development timeline",
+      "relationship": "Choe recalls an earlier Survivor audition before the later Mike White pitch"
+    },
+    {
+      "from": 4580,
+      "to": "Thumbs Up creator timeline",
+      "relationship": "Mike White's response to Thumbs Up leads to a competitive travel-format pitch"
+    },
+    {
+      "from": 4660,
+      "to": "participant-exploitation ledger",
+      "relationship": "The pitch treats people facing severe vulnerability as humiliation-ready casting categories"
+    },
+    {
+      "from": 4920,
+      "to": "competition-integrity ledger",
+      "relationship": "Friends and fans are proposed as favored contestants"
+    },
+    {
+      "from": 5230,
+      "to": "Bobby Lee career timeline",
+      "relationship": "Bobby discusses an episode role on Sean Saves the World"
+    },
+    {
+      "from": 5260,
+      "to": "Bobby Lee career timeline",
+      "relationship": "The Awesomes renewal and voice work are discussed"
+    },
+    {
+      "from": 5515,
+      "to": "digital-deception ledger",
+      "relationship": "Valentin's false Facebook identity becomes a detailed case of material dating deception"
+    },
+    {
+      "from": 5977,
+      "to": "Episode 73 central thesis correction",
+      "relationship": "The cast says people do not need to know while the concealed facts directly affect informed choice"
+    },
+    {
+      "from": 6400,
+      "to": "Bill Poon written-source census",
+      "relationship": "YumYumCha.com is named in the episode and fan indexes separately identify The Poon Report"
+    }
   ],
   "content_warnings": [
     "explicit sexual content",
@@ -154,5 +512,24 @@
     "piracy references",
     "adult-workplace privacy",
     "unexpected bodily-contact game"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Mike White",
+    "Bill Poon",
+    "Bobby Lee"
+  ],
+  "places": [],
+  "works": [
+    "The Hundreds",
+    "Thumbs Up",
+    "Facebook",
+    "Survivor"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 73 contains four different archival stories that should not be flattened into banter.",
+  "description_source": "Opening of the human-reviewed summary."
 }

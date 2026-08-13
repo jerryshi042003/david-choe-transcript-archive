@@ -1,25 +1,788 @@
 {
-  "episode_id":"saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
-  "title":"At Comic-Con 2013 with David Choe and Asa Akira",
-  "reviewed_on":"2026-07-31",
-  "summary":"DVDASA's first live show is recorded at San Diego Comic-Con amid severe microphone problems, crowd overlap and visually dependent bits. David Choe, Asa Akira, Bobby NAMBLA, Money Mark and Critter interact with costumed fans, test Ask Asa, distribute stickers and prints, and run audience trivia. A recurring opening joke speculates about pedophiles in the crowd. It is neither a census nor an allegation against identifiable attendees; child-related language must not become a discovery surface. The central event is a medically and ethically reckless giveaway: an audience member called Edgar is encouraged to lick an open lesion on Bobby's hand, nicknamed Persephone, for a print. The cast openly says they are not clinicians, speculates incorrectly about warts, HPV and HIV, and later learns the participant brushed his teeth. The archive preserves what occurred without endorsing it and does not identify or contact the audience member. The relevant lesson is direct: do not expose another person to an undiagnosed lesion, and do not use this comedy as medical guidance. A second audience segment debates transgender sex using dated slurs and reductive claims. One speaker briefly objects to casual slur use, but the substitute term and 'third gender' framing are also historically incomplete. Metadata uses respectful modern language while retaining source wording in the transcript. Ask Asa covers bacterial vaginosis, douching, anal preparation, sexual preferences and performer identity. Several medical claims and hydrogen-peroxide/douching suggestions are unreliable and potentially harmful. A particularly important consent failure appears when speakers say a man who answers no to anal contact secretly likes it; another participant explicitly asks, 'what about asking?' The archive rejects the no-means-yes generalization and retains direct communication as the safe interpretation. Later advice about bargaining for sexual acts, sitting on a sleeping partner's face, or using pornography to manipulate desire is joke/advice in the source, not consent. An audience participant and Asa voluntarily touch nipples while cameras are present; the moment does not authorize republishing private photographs or constructing an erotic excerpt. The show also captures fan culture: Thumbs Up costumes, a Choe-bot contest winner dressed as Critter, handmade props, a self-described pornography reviewer, merchandise prompts and trivia callbacks. Private fans receive pseudonymous treatment even when first names are spoken onstage. The episode ends with the public cast sign-off, though the ASR again corrupts David Choe and Asa Akira's names.",
-  "quality":{"raw_segments":1946,"clean_segments":1945,"raw_words_approx":11049,"clean_words_approx":11049,"duration_seconds":3778.3,"accepted_context_decisions":160,"chapters":125,"connections":26,"content_warnings":26,"identity_windows":0,"named_turns":0,"cleaning_edits":1,"cleaning_net_reduction":1,"public_restriction_spans":25},
-  "source_notes":[
+  "episode_id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
+  "title": "At Comic-Con 2013 with David Choe and Asa Akira",
+  "reviewed_on": "2026-07-31",
+  "summary": "DVDASA's first live show is recorded at San Diego Comic-Con amid severe microphone problems, crowd overlap and visually dependent bits. David Choe, Asa Akira, Bobby NAMBLA, Money Mark and Critter interact with costumed fans, test Ask Asa, distribute stickers and prints, and run audience trivia. A recurring opening joke speculates about pedophiles in the crowd. It is neither a census nor an allegation against identifiable attendees; child-related language must not become a discovery surface. The central event is a medically and ethically reckless giveaway: an audience member called Edgar is encouraged to lick an open lesion on Bobby's hand, nicknamed Persephone, for a print. The cast openly says they are not clinicians, speculates incorrectly about warts, HPV and HIV, and later learns the participant brushed his teeth. The archive preserves what occurred without endorsing it and does not identify or contact the audience member. The relevant lesson is direct: do not expose another person to an undiagnosed lesion, and do not use this comedy as medical guidance. A second audience segment debates transgender sex using dated slurs and reductive claims. One speaker briefly objects to casual slur use, but the substitute term and 'third gender' framing are also historically incomplete. Metadata uses respectful modern language while retaining source wording in the transcript. Ask Asa covers bacterial vaginosis, douching, anal preparation, sexual preferences and performer identity. Several medical claims and hydrogen-peroxide/douching suggestions are unreliable and potentially harmful. A particularly important consent failure appears when speakers say a man who answers no to anal contact secretly likes it; another participant explicitly asks, 'what about asking?' The archive rejects the no-means-yes generalization and retains direct communication as the safe interpretation. Later advice about bargaining for sexual acts, sitting on a sleeping partner's face, or using pornography to manipulate desire is joke/advice in the source, not consent. An audience participant and Asa voluntarily touch nipples while cameras are present; the moment does not authorize republishing private photographs or constructing an erotic excerpt. The show also captures fan culture: Thumbs Up costumes, a Choe-bot contest winner dressed as Critter, handmade props, a self-described pornography reviewer, merchandise prompts and trivia callbacks. Private fans receive pseudonymous treatment even when first names are spoken onstage. The episode ends with the public cast sign-off, though the ASR again corrupts David Choe and Asa Akira's names.",
+  "quality": {
+    "raw_segments": 1946,
+    "clean_segments": 1945,
+    "raw_words_approx": 11049,
+    "clean_words_approx": 11049,
+    "duration_seconds": 3778.3,
+    "accepted_context_decisions": 160,
+    "chapters": 125,
+    "connections": 26,
+    "content_warnings": 26,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 1,
+    "cleaning_net_reduction": 1,
+    "public_restriction_spans": 25
+  },
+  "source_notes": [
     "The single automatic cleaner edit removes an empty record; all meaningful corrections are human-authored.",
     "Microphone failure, crowd speech, applause, visual demonstrations and names shouted from the floor make this less reliable than a studio transcript.",
     "Audience first names and descriptions are performance context, not permission to build identity profiles.",
     "Medical and consent claims are preserved as claims, not silently repaired into authoritative advice.",
     "No held-out acoustic speaker validation exists; line-level speakers remain unnamed."
   ],
-  "speaker_policy":"Public stage metadata may name David Choe, Asa Akira, Bobby NAMBLA, Money Mark and Critter Fleming. Audience members, partners and fans remain private or pseudonymous even when a first name is audible. Stage address and costume do not validate acoustic identity.",
-  "chapters":[
-    {"t":15,"title":"live-show introduction"},{"t":29,"title":"technical difficulties"},{"t":38,"title":"first Comic-Con live show"},{"t":63,"title":"experiment and audience support"},{"t":83,"title":"attendance estimate"},{"t":90,"title":"pedophile-count joke"},{"t":128,"title":"audio cuts out"},{"t":153,"title":"raised-hands misunderstanding"},{"t":197,"title":"invented prevalence guesses"},{"t":216,"title":"registry/app idea"},{"t":230,"title":"Comic-Con history"},{"t":240,"title":"upskirt claim"},{"t":277,"title":"more audio trouble"},{"t":291,"title":"Persephone introduced"},{"t":310,"title":"hand lesion shown"},{"t":368,"title":"Mercury retrograde joke"},{"t":391,"title":"lesion revisited"},{"t":418,"title":"print giveaway"},{"t":438,"title":"lick-the-lesion challenge"},{"t":480,"title":"wart types confused"},{"t":491,"title":"medical ignorance admitted"},{"t":500,"title":"HPV speculation"},{"t":516,"title":"prison-sex joke"},{"t":542,"title":"volunteers gathered"},{"t":552,"title":"rock-paper-scissors"},{"t":638,"title":"audience member licks lesion"},{"t":682,"title":"wart-disappearance joke"},{"t":727,"title":"Critter costume fan"},{"t":746,"title":"tickets hustled"},{"t":757,"title":"Choe-bot contest"},{"t":780,"title":"admission methods discussed"},{"t":806,"title":"HIV speculation"},{"t":822,"title":"open wound noted"},{"t":836,"title":"Thumbs Up costumes"},{"t":880,"title":"fans describe discovery route"},{"t":899,"title":"Ask Asa preview"},{"t":915,"title":"transgender-sex question"},{"t":955,"title":"slur challenged"},{"t":980,"title":"third-gender framing"},{"t":1024,"title":"online couple"},{"t":1060,"title":"forum relationship"},{"t":1133,"title":"online love"},{"t":1146,"title":"The Fall of Troy"},{"t":1153,"title":"shared-music theory"},{"t":1200,"title":"Leon misidentification"},{"t":1229,"title":"Canadian fan message"},{"t":1272,"title":"Ask Asa opens"},{"t":1318,"title":"odor and scene refusal"},{"t":1331,"title":"syphilis smell joke"},{"t":1347,"title":"BV discussion"},{"t":1382,"title":"hydrogen peroxide advice"},{"t":1390,"title":"douching practice"},{"t":1419,"title":"fan artwork"},{"t":1437,"title":"anal-contact question"},{"t":1450,"title":"just try it advice"},{"t":1484,"title":"preference disagreement"},{"t":1503,"title":"what about asking"},{"t":1511,"title":"no means yes claim"},{"t":1525,"title":"bidet analogy"},{"t":1573,"title":"analogy rejected"},{"t":1595,"title":"personal preference"},{"t":1602,"title":"another giveaway proposed"},{"t":1645,"title":"older fan question"},{"t":1675,"title":"AVN attendance"},{"t":1679,"title":"scene preparation"},{"t":1708,"title":"anal preparation"},{"t":1736,"title":"AVN versus Comic-Con"},{"t":1772,"title":"two fantasy worlds"},{"t":1827,"title":"date question"},{"t":1903,"title":"champagne-room callback"},{"t":1920,"title":"Carol question"},{"t":1937,"title":"teeth brushed after exposure"},{"t":1963,"title":"bathroom account"},{"t":2006,"title":"after-show invitation"},{"t":2025,"title":"partner privacy boundary"},{"t":2044,"title":"ass-licking question"},{"t":2086,"title":"girlfriend said no"},{"t":2092,"title":"sleeping-partner joke"},{"t":2100,"title":"grooming suggestion"},{"t":2129,"title":"sexual barter"},{"t":2153,"title":"anal tolerance claim"},{"t":2172,"title":"pornography persuasion advice"},{"t":2202,"title":"asking for desired act"},{"t":2248,"title":"Filipino stereotype"},{"t":2262,"title":"balut"},{"t":2274,"title":"nipple preference question"},{"t":2347,"title":"lactation interest"},{"t":2408,"title":"private partner questioned"},{"t":2433,"title":"nipple-touch proposal"},{"t":2470,"title":"voluntary stage contact"},{"t":2483,"title":"fan gives sticker"},{"t":2497,"title":"crowd reaction"},{"t":2517,"title":"Cammy costume claim"},{"t":2532,"title":"Galactus misnamed"},{"t":2551,"title":"handmade foam props"},{"t":2592,"title":"caller meets host"},{"t":2644,"title":"limo arrival"},{"t":2665,"title":"burger anecdote"},{"t":2709,"title":"lactose intolerance"},{"t":2760,"title":"costume-contest print"},{"t":2809,"title":"performer versus self"},{"t":2881,"title":"audience sexual-technique question"},{"t":2944,"title":"short-arms answer"},{"t":2960,"title":"performance versus practicality"},{"t":2970,"title":"sticker distribution"},{"t":3022,"title":"rape-defense joke"},{"t":3054,"title":"lesion uncovered again"},{"t":3089,"title":"visual overload"},{"t":3106,"title":"audience trivia"},{"t":3146,"title":"ailment question"},{"t":3154,"title":"informal diagnoses"},{"t":3211,"title":"show-lore questions"},{"t":3245,"title":"Valentine wash location"},{"t":3264,"title":"superfan question"},{"t":3308,"title":"risk versus sexuality"},{"t":3344,"title":"fan-art tiebreak"},{"t":3380,"title":"first caller question"},{"t":3416,"title":"earlobe prize"},{"t":3459,"title":"photo requested"},{"t":3474,"title":"contact boundary"},{"t":3522,"title":"last audience question"},{"t":3575,"title":"sexuality at sixty-two"},{"t":3613,"title":"porn-review discussion"},{"t":3671,"title":"personal blog review"},{"t":3693,"title":"cast sign-off"}
+  "speaker_policy": "Public stage metadata may name David Choe, Asa Akira, Bobby NAMBLA, Money Mark and Critter Fleming. Audience members, partners and fans remain private or pseudonymous even when a first name is audible. Stage address and costume do not validate acoustic identity.",
+  "chapters": [
+    {
+      "t": 15,
+      "title": "live-show introduction"
+    },
+    {
+      "t": 29,
+      "title": "technical difficulties"
+    },
+    {
+      "t": 38,
+      "title": "first Comic-Con live show"
+    },
+    {
+      "t": 63,
+      "title": "experiment and audience support"
+    },
+    {
+      "t": 83,
+      "title": "attendance estimate"
+    },
+    {
+      "t": 90,
+      "title": "pedophile-count joke"
+    },
+    {
+      "t": 128,
+      "title": "audio cuts out"
+    },
+    {
+      "t": 153,
+      "title": "raised-hands misunderstanding"
+    },
+    {
+      "t": 197,
+      "title": "invented prevalence guesses"
+    },
+    {
+      "t": 216,
+      "title": "registry/app idea"
+    },
+    {
+      "t": 230,
+      "title": "Comic-Con history"
+    },
+    {
+      "t": 240,
+      "title": "upskirt claim"
+    },
+    {
+      "t": 277,
+      "title": "more audio trouble"
+    },
+    {
+      "t": 291,
+      "title": "Persephone introduced"
+    },
+    {
+      "t": 310,
+      "title": "hand lesion shown"
+    },
+    {
+      "t": 368,
+      "title": "Mercury retrograde joke"
+    },
+    {
+      "t": 391,
+      "title": "lesion revisited"
+    },
+    {
+      "t": 418,
+      "title": "print giveaway"
+    },
+    {
+      "t": 438,
+      "title": "lick-the-lesion challenge"
+    },
+    {
+      "t": 480,
+      "title": "wart types confused"
+    },
+    {
+      "t": 491,
+      "title": "medical ignorance admitted"
+    },
+    {
+      "t": 500,
+      "title": "HPV speculation"
+    },
+    {
+      "t": 516,
+      "title": "prison-sex joke"
+    },
+    {
+      "t": 542,
+      "title": "volunteers gathered"
+    },
+    {
+      "t": 552,
+      "title": "rock-paper-scissors"
+    },
+    {
+      "t": 638,
+      "title": "audience member licks lesion"
+    },
+    {
+      "t": 682,
+      "title": "wart-disappearance joke"
+    },
+    {
+      "t": 727,
+      "title": "Critter costume fan"
+    },
+    {
+      "t": 746,
+      "title": "tickets hustled"
+    },
+    {
+      "t": 757,
+      "title": "Choe-bot contest"
+    },
+    {
+      "t": 780,
+      "title": "admission methods discussed"
+    },
+    {
+      "t": 806,
+      "title": "HIV speculation"
+    },
+    {
+      "t": 822,
+      "title": "open wound noted"
+    },
+    {
+      "t": 836,
+      "title": "Thumbs Up costumes"
+    },
+    {
+      "t": 880,
+      "title": "fans describe discovery route"
+    },
+    {
+      "t": 899,
+      "title": "Ask Asa preview"
+    },
+    {
+      "t": 915,
+      "title": "transgender-sex question"
+    },
+    {
+      "t": 955,
+      "title": "slur challenged"
+    },
+    {
+      "t": 980,
+      "title": "third-gender framing"
+    },
+    {
+      "t": 1024,
+      "title": "online couple"
+    },
+    {
+      "t": 1060,
+      "title": "forum relationship"
+    },
+    {
+      "t": 1133,
+      "title": "online love"
+    },
+    {
+      "t": 1146,
+      "title": "The Fall of Troy"
+    },
+    {
+      "t": 1153,
+      "title": "shared-music theory"
+    },
+    {
+      "t": 1200,
+      "title": "Leon misidentification"
+    },
+    {
+      "t": 1229,
+      "title": "Canadian fan message"
+    },
+    {
+      "t": 1272,
+      "title": "Ask Asa opens"
+    },
+    {
+      "t": 1318,
+      "title": "odor and scene refusal"
+    },
+    {
+      "t": 1331,
+      "title": "syphilis smell joke"
+    },
+    {
+      "t": 1347,
+      "title": "BV discussion"
+    },
+    {
+      "t": 1382,
+      "title": "hydrogen peroxide advice"
+    },
+    {
+      "t": 1390,
+      "title": "douching practice"
+    },
+    {
+      "t": 1419,
+      "title": "fan artwork"
+    },
+    {
+      "t": 1437,
+      "title": "anal-contact question"
+    },
+    {
+      "t": 1450,
+      "title": "just try it advice"
+    },
+    {
+      "t": 1484,
+      "title": "preference disagreement"
+    },
+    {
+      "t": 1503,
+      "title": "what about asking"
+    },
+    {
+      "t": 1511,
+      "title": "no means yes claim"
+    },
+    {
+      "t": 1525,
+      "title": "bidet analogy"
+    },
+    {
+      "t": 1573,
+      "title": "analogy rejected"
+    },
+    {
+      "t": 1595,
+      "title": "personal preference"
+    },
+    {
+      "t": 1602,
+      "title": "another giveaway proposed"
+    },
+    {
+      "t": 1645,
+      "title": "older fan question"
+    },
+    {
+      "t": 1675,
+      "title": "AVN attendance"
+    },
+    {
+      "t": 1679,
+      "title": "scene preparation"
+    },
+    {
+      "t": 1708,
+      "title": "anal preparation"
+    },
+    {
+      "t": 1736,
+      "title": "AVN versus Comic-Con"
+    },
+    {
+      "t": 1772,
+      "title": "two fantasy worlds"
+    },
+    {
+      "t": 1827,
+      "title": "date question"
+    },
+    {
+      "t": 1903,
+      "title": "champagne-room callback"
+    },
+    {
+      "t": 1920,
+      "title": "Carol question"
+    },
+    {
+      "t": 1937,
+      "title": "teeth brushed after exposure"
+    },
+    {
+      "t": 1963,
+      "title": "bathroom account"
+    },
+    {
+      "t": 2006,
+      "title": "after-show invitation"
+    },
+    {
+      "t": 2025,
+      "title": "partner privacy boundary"
+    },
+    {
+      "t": 2044,
+      "title": "ass-licking question"
+    },
+    {
+      "t": 2086,
+      "title": "girlfriend said no"
+    },
+    {
+      "t": 2092,
+      "title": "sleeping-partner joke"
+    },
+    {
+      "t": 2100,
+      "title": "grooming suggestion"
+    },
+    {
+      "t": 2129,
+      "title": "sexual barter"
+    },
+    {
+      "t": 2153,
+      "title": "anal tolerance claim"
+    },
+    {
+      "t": 2172,
+      "title": "pornography persuasion advice"
+    },
+    {
+      "t": 2202,
+      "title": "asking for desired act"
+    },
+    {
+      "t": 2248,
+      "title": "Filipino stereotype"
+    },
+    {
+      "t": 2262,
+      "title": "balut"
+    },
+    {
+      "t": 2274,
+      "title": "nipple preference question"
+    },
+    {
+      "t": 2347,
+      "title": "lactation interest"
+    },
+    {
+      "t": 2408,
+      "title": "private partner questioned"
+    },
+    {
+      "t": 2433,
+      "title": "nipple-touch proposal"
+    },
+    {
+      "t": 2470,
+      "title": "voluntary stage contact"
+    },
+    {
+      "t": 2483,
+      "title": "fan gives sticker"
+    },
+    {
+      "t": 2497,
+      "title": "crowd reaction"
+    },
+    {
+      "t": 2517,
+      "title": "Cammy costume claim"
+    },
+    {
+      "t": 2532,
+      "title": "Galactus misnamed"
+    },
+    {
+      "t": 2551,
+      "title": "handmade foam props"
+    },
+    {
+      "t": 2592,
+      "title": "caller meets host"
+    },
+    {
+      "t": 2644,
+      "title": "limo arrival"
+    },
+    {
+      "t": 2665,
+      "title": "burger anecdote"
+    },
+    {
+      "t": 2709,
+      "title": "lactose intolerance"
+    },
+    {
+      "t": 2760,
+      "title": "costume-contest print"
+    },
+    {
+      "t": 2809,
+      "title": "performer versus self"
+    },
+    {
+      "t": 2881,
+      "title": "audience sexual-technique question"
+    },
+    {
+      "t": 2944,
+      "title": "short-arms answer"
+    },
+    {
+      "t": 2960,
+      "title": "performance versus practicality"
+    },
+    {
+      "t": 2970,
+      "title": "sticker distribution"
+    },
+    {
+      "t": 3022,
+      "title": "rape-defense joke"
+    },
+    {
+      "t": 3054,
+      "title": "lesion uncovered again"
+    },
+    {
+      "t": 3089,
+      "title": "visual overload"
+    },
+    {
+      "t": 3106,
+      "title": "audience trivia"
+    },
+    {
+      "t": 3146,
+      "title": "ailment question"
+    },
+    {
+      "t": 3154,
+      "title": "informal diagnoses"
+    },
+    {
+      "t": 3211,
+      "title": "show-lore questions"
+    },
+    {
+      "t": 3245,
+      "title": "Valentine wash location"
+    },
+    {
+      "t": 3264,
+      "title": "superfan question"
+    },
+    {
+      "t": 3308,
+      "title": "risk versus sexuality"
+    },
+    {
+      "t": 3344,
+      "title": "fan-art tiebreak"
+    },
+    {
+      "t": 3380,
+      "title": "first caller question"
+    },
+    {
+      "t": 3416,
+      "title": "earlobe prize"
+    },
+    {
+      "t": 3459,
+      "title": "photo requested"
+    },
+    {
+      "t": 3474,
+      "title": "contact boundary"
+    },
+    {
+      "t": 3522,
+      "title": "last audience question"
+    },
+    {
+      "t": 3575,
+      "title": "sexuality at sixty-two"
+    },
+    {
+      "t": 3613,
+      "title": "porn-review discussion"
+    },
+    {
+      "t": 3671,
+      "title": "personal blog review"
+    },
+    {
+      "t": 3693,
+      "title": "cast sign-off"
+    }
   ],
-  "connections":[
-    {"to":"live-recording-quality","note":"Crowd overlap, visual action and broken amplification lower transcript certainty."},{"to":"Comic-Con-2013","note":"The convention provides costume, fan and merchandise context."},{"to":"Persephone-lesion","note":"An undiagnosed open hand lesion becomes a dangerous audience stunt."},{"to":"medical-misinformation","note":"Wart, HPV, HIV, BV, douching and sexual-health claims require correction labels."},{"to":"consent-boundaries","note":"No-means-yes language conflicts with the explicit question 'what about asking?'"},{"to":"audience-participation","note":"Giveaways and direct questioning blur entertainment and pressure."},{"to":"fan-safety","note":"First names, costumes and sexual disclosures must not become identity trails."},{"to":"transgender-language","note":"Dated slurs and third-gender framing are historical source speech, not taxonomy."},{"to":"minors-boundary","note":"Pedophile jokes are never attendee allegations or discoverable child-sex content."},{"to":"Ask-Asa","note":"The segment moves from studio concept to live audience format."},{"to":"sexual-health","note":"Personal performer practice is not universal clinical advice."},{"to":"pornography-labor","note":"Preparation, performer identity and on-camera practicality are discussed."},{"to":"Thumbs-Up","note":"Fans dressed as Harry describe finding DVDASA through the Vice series."},{"to":"Choe-bot","note":"A contest winner appears in a Critter costume."},{"to":"merchandise-history","note":"Early stickers, prints and handmade fan objects are distributed onstage."},{"to":"Bobby-trivia","note":"Audience trivia tests knowledge of ailments, callers and recurring bits."},{"to":"private-partners","note":"Carol and Quiet C are discussed but did not consent to identity expansion."},{"to":"recording-consent","note":"Voluntary stage contact does not authorize unrestricted photo reuse."},{"to":"public-health-risk","note":"The open-lesion stunt exposes uncertainty that should have stopped the act."},{"to":"harmful-advice","note":"Hydrogen peroxide, douching and sexual manipulation must not be operationalized."},{"to":"racial-stereotypes","note":"Leon and Filipino/balut jokes require source context."},{"to":"disability-and-age","note":"Older audience member is sexualized and ridiculed but also describes continuing desire."},{"to":"speaker-validation","note":"Stage presence and introductions still do not validate line-level acoustics."},{"to":"privacy-by-composition","note":"Fan name, costume, city and sexual answer cannot be combined into profiles."},{"to":"ui-evidence-pattern","note":"Live transcript UI needs visible crowd/visual/uncertain-medical state, unlike studio prose."},{"to":"saga1-episode-001-with-david-choe-and-asa-akira","note":"Repeats early debates about transgender sex, Nuru, AVN and health claims."}
+  "connections": [
+    {
+      "to": "live-recording-quality",
+      "note": "Crowd overlap, visual action and broken amplification lower transcript certainty."
+    },
+    {
+      "to": "Comic-Con-2013",
+      "note": "The convention provides costume, fan and merchandise context."
+    },
+    {
+      "to": "Persephone-lesion",
+      "note": "An undiagnosed open hand lesion becomes a dangerous audience stunt."
+    },
+    {
+      "to": "medical-misinformation",
+      "note": "Wart, HPV, HIV, BV, douching and sexual-health claims require correction labels."
+    },
+    {
+      "to": "consent-boundaries",
+      "note": "No-means-yes language conflicts with the explicit question 'what about asking?'"
+    },
+    {
+      "to": "audience-participation",
+      "note": "Giveaways and direct questioning blur entertainment and pressure."
+    },
+    {
+      "to": "fan-safety",
+      "note": "First names, costumes and sexual disclosures must not become identity trails."
+    },
+    {
+      "to": "transgender-language",
+      "note": "Dated slurs and third-gender framing are historical source speech, not taxonomy."
+    },
+    {
+      "to": "minors-boundary",
+      "note": "Pedophile jokes are never attendee allegations or discoverable child-sex content."
+    },
+    {
+      "to": "Ask-Asa",
+      "note": "The segment moves from studio concept to live audience format."
+    },
+    {
+      "to": "sexual-health",
+      "note": "Personal performer practice is not universal clinical advice."
+    },
+    {
+      "to": "pornography-labor",
+      "note": "Preparation, performer identity and on-camera practicality are discussed."
+    },
+    {
+      "to": "Thumbs-Up",
+      "note": "Fans dressed as Harry describe finding DVDASA through the Vice series."
+    },
+    {
+      "to": "Choe-bot",
+      "note": "A contest winner appears in a Critter costume."
+    },
+    {
+      "to": "merchandise-history",
+      "note": "Early stickers, prints and handmade fan objects are distributed onstage."
+    },
+    {
+      "to": "Bobby-trivia",
+      "note": "Audience trivia tests knowledge of ailments, callers and recurring bits."
+    },
+    {
+      "to": "private-partners",
+      "note": "Carol and Quiet C are discussed but did not consent to identity expansion."
+    },
+    {
+      "to": "recording-consent",
+      "note": "Voluntary stage contact does not authorize unrestricted photo reuse."
+    },
+    {
+      "to": "public-health-risk",
+      "note": "The open-lesion stunt exposes uncertainty that should have stopped the act."
+    },
+    {
+      "to": "harmful-advice",
+      "note": "Hydrogen peroxide, douching and sexual manipulation must not be operationalized."
+    },
+    {
+      "to": "racial-stereotypes",
+      "note": "Leon and Filipino/balut jokes require source context."
+    },
+    {
+      "to": "disability-and-age",
+      "note": "Older audience member is sexualized and ridiculed but also describes continuing desire."
+    },
+    {
+      "to": "speaker-validation",
+      "note": "Stage presence and introductions still do not validate line-level acoustics."
+    },
+    {
+      "to": "privacy-by-composition",
+      "note": "Fan name, costume, city and sexual answer cannot be combined into profiles."
+    },
+    {
+      "to": "ui-evidence-pattern",
+      "note": "Live transcript UI needs visible crowd/visual/uncertain-medical state, unlike studio prose."
+    },
+    {
+      "to": "saga1-episode-001-with-david-choe-and-asa-akira",
+      "note": "Repeats early debates about transgender sex, Nuru, AVN and health claims."
+    }
   ],
-  "content_warnings":["open-lesion exposure","HPV and HIV misinformation","unsafe medical advice","sexual consent failure","pornography","explicit sexual discussion","pedophilia jokes","minor-safety context","transgender slurs","homophobic language","racial stereotypes","rape jokes","prison sexual violence","audience humiliation","private sexual disclosures","douching and hydrogen peroxide","bacterial vaginosis","bodily fluids and blood","public nudity","coercive giveaway","relationship pressure","age-based ridicule","upskirt claim","ticket-access circumvention","ableist slur","private-photo request"],
-  "publication_restrictions":[
-    {"t":90,"rule":"do not treat pedophile joke as prevalence estimate or allegation against attendees"},{"t":216,"rule":"do not use registry/app idea to identify or target people"},{"t":240,"rule":"do not seek or publish nonconsensual upskirt imagery"},{"t":291,"rule":"do not diagnose lesion from transcript"},{"t":438,"rule":"do not recreate or promote open-lesion licking challenge"},{"t":500,"rule":"do not present HPV/wart speculation as medical fact"},{"t":516,"rule":"do not isolate prison sexual-violence joke as advice"},{"t":638,"rule":"protect audience participant identity and retain exposure context"},{"t":746,"rule":"do not operationalize convention-entry circumvention"},{"t":806,"rule":"do not imply HIV status from appearance or lesion contact"},{"t":836,"rule":"do not identify costumed fans through city/costume details"},{"t":955,"rule":"use respectful transgender metadata; retain slurs only as source speech"},{"t":1229,"rule":"do not expose fan handle or private message trail"},{"t":1347,"rule":"do not diagnose BV by smell from this account"},{"t":1382,"rule":"do not recommend hydrogen peroxide or douching as treatment"},{"t":1450,"rule":"reject 'just try it' where consent has not been obtained"},{"t":1511,"rule":"do not treat no as concealed consent"},{"t":1602,"rule":"do not recreate sexual-act giveaway"},{"t":1645,"rule":"protect older audience member identity"},{"t":1937,"rule":"do not infer HIV transmission from lesion stunt; direct medical follow-up would be required"},{"t":2025,"rule":"do not identify or pressure private partner to appear"},{"t":2092,"rule":"do not normalize sexual contact with sleeping person"},{"t":2172,"rule":"do not operationalize pornography as coercive persuasion"},{"t":2433,"rule":"do not isolate voluntary stage contact as erotic excerpt or republish private photo"},{"t":3474,"rule":"do not expose exchanged contact information"}
-  ]
+  "content_warnings": [
+    "open-lesion exposure",
+    "HPV and HIV misinformation",
+    "unsafe medical advice",
+    "sexual consent failure",
+    "pornography",
+    "explicit sexual discussion",
+    "pedophilia jokes",
+    "minor-safety context",
+    "transgender slurs",
+    "homophobic language",
+    "racial stereotypes",
+    "rape jokes",
+    "prison sexual violence",
+    "audience humiliation",
+    "private sexual disclosures",
+    "douching and hydrogen peroxide",
+    "bacterial vaginosis",
+    "bodily fluids and blood",
+    "public nudity",
+    "coercive giveaway",
+    "relationship pressure",
+    "age-based ridicule",
+    "upskirt claim",
+    "ticket-access circumvention",
+    "ableist slur",
+    "private-photo request"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 90,
+      "rule": "do not treat pedophile joke as prevalence estimate or allegation against attendees"
+    },
+    {
+      "t": 216,
+      "rule": "do not use registry/app idea to identify or target people"
+    },
+    {
+      "t": 240,
+      "rule": "do not seek or publish nonconsensual upskirt imagery"
+    },
+    {
+      "t": 291,
+      "rule": "do not diagnose lesion from transcript"
+    },
+    {
+      "t": 438,
+      "rule": "do not recreate or promote open-lesion licking challenge"
+    },
+    {
+      "t": 500,
+      "rule": "do not present HPV/wart speculation as medical fact"
+    },
+    {
+      "t": 516,
+      "rule": "do not isolate prison sexual-violence joke as advice"
+    },
+    {
+      "t": 638,
+      "rule": "protect audience participant identity and retain exposure context"
+    },
+    {
+      "t": 746,
+      "rule": "do not operationalize convention-entry circumvention"
+    },
+    {
+      "t": 806,
+      "rule": "do not imply HIV status from appearance or lesion contact"
+    },
+    {
+      "t": 836,
+      "rule": "do not identify costumed fans through city/costume details"
+    },
+    {
+      "t": 955,
+      "rule": "use respectful transgender metadata; retain slurs only as source speech"
+    },
+    {
+      "t": 1229,
+      "rule": "do not expose fan handle or private message trail"
+    },
+    {
+      "t": 1347,
+      "rule": "do not diagnose BV by smell from this account"
+    },
+    {
+      "t": 1382,
+      "rule": "do not recommend hydrogen peroxide or douching as treatment"
+    },
+    {
+      "t": 1450,
+      "rule": "reject 'just try it' where consent has not been obtained"
+    },
+    {
+      "t": 1511,
+      "rule": "do not treat no as concealed consent"
+    },
+    {
+      "t": 1602,
+      "rule": "do not recreate sexual-act giveaway"
+    },
+    {
+      "t": 1645,
+      "rule": "protect older audience member identity"
+    },
+    {
+      "t": 1937,
+      "rule": "do not infer HIV transmission from lesion stunt; direct medical follow-up would be required"
+    },
+    {
+      "t": 2025,
+      "rule": "do not identify or pressure private partner to appear"
+    },
+    {
+      "t": 2092,
+      "rule": "do not normalize sexual contact with sleeping person"
+    },
+    {
+      "t": 2172,
+      "rule": "do not operationalize pornography as coercive persuasion"
+    },
+    {
+      "t": 2433,
+      "rule": "do not isolate voluntary stage contact as erotic excerpt or republish private photo"
+    },
+    {
+      "t": 3474,
+      "rule": "do not expose exchanged contact information"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+  ],
+  "places": [
+    "San Diego Comic-Con",
+    "San Diego"
+  ],
+  "works": [
+    "Thumbs Up",
+    "DVDASA"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "DVDASA's first live show is recorded at San Diego Comic-Con amid severe microphone problems, crowd overlap and visually dependent bits.",
+  "description_source": "Opening of the human-reviewed summary."
 }

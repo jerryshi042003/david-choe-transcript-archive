@@ -10,6 +10,7 @@ const catalog = JSON.parse(fs.readFileSync(path.join(DATA, 'catalog.json'), 'utf
 const items = [...new Map(catalog.items.map((item) => [item.id, item])).values()];
 const fields = ['summary', 'description', 'chapters', 'people', 'places', 'works', 'themes', 'connections'];
 const coverage = Object.fromEntries(fields.map((field) => [field, 0]));
+const reviewedCoverage = Object.fromEntries(fields.map((field) => [field, 0]));
 const missing = [];
 const byGroup = {};
 let editorial = 0;
@@ -42,6 +43,10 @@ for (const item of items) {
   const missingFields = [];
   for (const field of fields) {
     if (present(ed[field])) coverage[field] += 1;
+    const reviewed = ['people', 'places', 'works', 'themes'].includes(field)
+      ? Array.isArray(ed[field]) && (field !== 'people' || ed[field].length > 0)
+      : present(ed[field]);
+    if (reviewed) reviewedCoverage[field] += 1;
     else missingFields.push(field);
   }
   if (present(ed.chapters) && present(ed.connections)) context += 1;
@@ -53,6 +58,7 @@ const report = {
   generated_from: 'data/catalog.json plus the 421 unique reader-route records',
   denominator: { catalog_cards: catalog.items.length, unique_reader_routes: items.length },
   coverage: { editorial, context, ...coverage },
+  reviewed_coverage: reviewedCoverage,
   known_signal_checks: {
     exact_word_trivia: {
       all_routes: triviaAll,

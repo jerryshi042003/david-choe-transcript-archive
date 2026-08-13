@@ -1,0 +1,50 @@
+{
+  "episode_id": "p2E_8DhelKQ",
+  "title": "David Choe's Incredible & Unexpected Connection Made During Thumbs Up Season 4",
+  "reviewed_on": "2026-08-13",
+  "description": "A Thumbs Up Season 4 connection clip has an entirely corrupted decoder segment; the title identifies an unexpected connection, but who connected and how require the source video.",
+  "summary": "A Thumbs Up Season 4 connection clip has an entirely corrupted decoder segment; the title identifies an unexpected connection, but who connected and how require the source video. Because the available transcript is sparse or corrupted, the archive deliberately limits the claim to title/provenance and recoverable words rather than inventing visual detail.",
+  "chapters": [
+    {
+      "t": 20,
+      "title": "Unexpected-connection visual clip"
+    }
+  ],
+  "people": [
+    "David Choe"
+  ],
+  "places": [],
+  "works": [
+    "Thumbs Up Season 4"
+  ],
+  "themes": [
+    "unexpected connection",
+    "travel clip",
+    "decoder failure"
+  ],
+  "connections": [
+    {
+      "to": "David Choe visual and performance archive",
+      "note": "This route remains independently addressable even when speech is sparse; its limitation is part of the editorial record."
+    }
+  ],
+  "content_warnings": [],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "Do not infer untranscribed actions, identities or lyrics from title metadata alone; consult the source video."
+    }
+  ],
+  "quality": {
+    "aggregate_segments": 1,
+    "duration_seconds": 19.7,
+    "chapters": 1,
+    "named_turns": 0,
+    "transcript_limited": true
+  },
+  "source_notes": [
+    "Focus and chapter labels use only route title/provenance and recoverable transcript evidence.",
+    "Sparse or looped decoder output is recorded as a limitation, not repaired by guessing."
+  ],
+  "speaker_policy": "Public route-level people may be listed from stable source metadata. No line-level speaker labels are assigned."
+}

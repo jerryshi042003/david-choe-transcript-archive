@@ -70,209 +70,847 @@
     "named_turns": 0
   },
   "chapters": [
-    {"t": 0, "title": "DMX-derived DVDASA opening"},
-    {"t": 47, "title": "Cast introduction with corrupted names"},
-    {"t": 76, "title": "Persephone wart recap"},
-    {"t": 81, "title": "Munchausen-by-proxy joke"},
-    {"t": 108, "title": "New facial lesion and no-touch advice"},
-    {"t": 136, "title": "Episode 60 recap begins"},
-    {"t": 150, "title": "Dodgers game with David Arquette nearby"},
-    {"t": 178, "title": "Hollywood standoff over who approaches"},
-    {"t": 195, "title": "Impromptu Arquette recording"},
-    {"t": 237, "title": "Sam's Hofbrau after the recording"},
-    {"t": 245, "title": "Prison floss made from braided hair"},
-    {"t": 307, "title": "First visit to Sam's Hofbrau"},
-    {"t": 363, "title": "Cypress Hill comparison and club atmosphere"},
-    {"t": 377, "title": "Entering with a recognizable actor"},
-    {"t": 420, "title": "Unidentified celebrity and Keanu Reeves tattoo story"},
-    {"t": 449, "title": "Uninvited physical contact in a strip club"},
-    {"t": 475, "title": "Money placement and tail-feather technique"},
-    {"t": 502, "title": "Regional strip-club tipping customs"},
-    {"t": 563, "title": "Older gangsters and bundled cash"},
-    {"t": 663, "title": "The Library Gentlemen's Club"},
-    {"t": 683, "title": "Making it rain as technique"},
-    {"t": 716, "title": "Charmane Star and the dollar-arrow story"},
-    {"t": 747, "title": "Onstage versus offstage money throwing"},
-    {"t": 785, "title": "Conditional permission and minimum bill joke"},
-    {"t": 843, "title": "Critter's informal publicist role"},
-    {"t": 895, "title": "Choe's loss of sexual interest"},
-    {"t": 930, "title": "Private Mexico partner story resumes"},
-    {"t": 965, "title": "Paint-covered hands and UTI joke"},
-    {"t": 1016, "title": "Prolonged anatomy speculation"},
-    {"t": 1070, "title": "Violent reaction imagined as a prank outcome"},
-    {"t": 1100, "title": "New tastes used as analogy for identity"},
-    {"t": 1161, "title": "Episode 53 and Kevin Smith cross-reference"},
-    {"t": 1195, "title": "How the private partner first made contact"},
-    {"t": 1240, "title": "Questioning whether she hears the podcast"},
-    {"t": 1280, "title": "Private text message read aloud"},
-    {"t": 1362, "title": "Aubrey Plaza arrives"},
-    {"t": 1400, "title": "Guest enters without knowing the format"},
-    {"t": 1436, "title": "Outside opinion requested"},
-    {"t": 1454, "title": "The private anatomy story retold"},
-    {"t": 1512, "title": "Plaza calls the paint detail unrelated"},
-    {"t": 1556, "title": "Tiny-penis punchline"},
-    {"t": 1588, "title": "Delayed joke or lie"},
-    {"t": 1630, "title": "Message grammar and partner's denial"},
-    {"t": 1688, "title": "Photo shoot and companion"},
-    {"t": 1740, "title": "Commission request revealed"},
-    {"t": 1764, "title": "Aubrey Plaza and Amy Poehler painting brief"},
-    {"t": 1790, "title": "Choe resists portraiture"},
-    {"t": 1804, "title": "Six Flags caricature comparison"},
-    {"t": 1840, "title": "Portraits as restrictive homework"},
-    {"t": 1880, "title": "Painting friends despite discomfort"},
-    {"t": 1918, "title": "Trade versus money"},
-    {"t": 1950, "title": "Private-partner question returns"},
-    {"t": 2000, "title": "STI jokes and anatomy misinformation"},
-    {"t": 2050, "title": "Intersex images treated as internet research"},
-    {"t": 2110, "title": "Would a partner listen to the podcast"},
-    {"t": 2165, "title": "Asa's boundary around work and private life"},
-    {"t": 2200, "title": "Plaza's then-partner and privacy"},
-    {"t": 2230, "title": "Phone number pressure"},
-    {"t": 2265, "title": "Auditions and role typecasting"},
-    {"t": 2300, "title": "Unrealized television project"},
-    {"t": 2324, "title": "Harris Wittels opioid disclosure"},
-    {"t": 2334, "title": "Scott Rudin and the stalled deal"},
-    {"t": 2352, "title": "TOTALLYNOTGAY.COM first-date reference"},
-    {"t": 2395, "title": "Home Depot in Mexico joke"},
-    {"t": 2450, "title": "Painting price and friendship favor"},
-    {"t": 2485, "title": "Art-market scarcity explanation"},
-    {"t": 2525, "title": "Pricing as demand and belief"},
-    {"t": 2580, "title": "Sizzler birthday gathering revisited"},
-    {"t": 2618, "title": "Pee-wee Herman approached"},
-    {"t": 2645, "title": "Sacha Baron Cohen at the table"},
-    {"t": 2661, "title": "Gary Panter and Pee-wee's Playhouse"},
-    {"t": 2690, "title": "Email as first access tier"},
-    {"t": 2720, "title": "Phone number as second access tier"},
-    {"t": 2760, "title": "Email, texting, and trust"},
-    {"t": 2800, "title": "Fast friendship in Los Angeles"},
-    {"t": 2850, "title": "Are Choe and Plaza already friends"},
-    {"t": 2875, "title": "Residence knowledge and flowers"},
-    {"t": 2915, "title": "Pornographic painting mistaken for Plaza"},
-    {"t": 2960, "title": "Honesty proposed as friendship condition"},
-    {"t": 2992, "title": "Parks and Recreation season six"},
-    {"t": 3020, "title": "The Office versus Parks and Recreation"},
-    {"t": 3038, "title": "Amy Poehler's role misstated"},
-    {"t": 3060, "title": "Plaza and Poehler's close friendship"},
-    {"t": 3110, "title": "The price of the commissioned painting"},
-    {"t": 3130, "title": "Best-friend exchange proposed"},
-    {"t": 3170, "title": "Delayed email response creates anxiety"},
-    {"t": 3210, "title": "Work and personal email accounts"},
-    {"t": 3236, "title": "Old Nicolas Cage movie pitch"},
-    {"t": 3296, "title": "Gender-affirming surgery hearsay"},
-    {"t": 3335, "title": "Cuckold-film and Kabul project pitches"},
-    {"t": 3374, "title": "Colin Trevorrow and actor-friendly directors"},
-    {"t": 3410, "title": "Best-friend list begins"},
-    {"t": 3421, "title": "Harboring-a-fugitive hypothetical"},
-    {"t": 3450, "title": "Digging a hole without questions"},
-    {"t": 3500, "title": "Adult graffiti addiction"},
-    {"t": 3540, "title": "Planned kissing to evade police"},
-    {"t": 3580, "title": "Plaza declines the planned kiss"},
-    {"t": 3600, "title": "Social-media engagement requirement"},
-    {"t": 3650, "title": "Shared wardrobe and permanent access"},
-    {"t": 3670, "title": "Advance forgiveness for deception"},
-    {"t": 3700, "title": "Wingman and food requirements"},
-    {"t": 3735, "title": "Pimple-popping refusal"},
-    {"t": 3760, "title": "AIDS deathbed and eulogy joke"},
-    {"t": 3790, "title": "Racist jokes and unlimited secrets"},
-    {"t": 3820, "title": "Privacy loss and relationship risk"},
-    {"t": 3850, "title": "Travel, fame, and money conditions"},
-    {"t": 3890, "title": "Five platonic female friends claim"},
-    {"t": 3940, "title": "Actor or comedian identity"},
-    {"t": 3965, "title": "Funny People brought Plaza to Los Angeles"},
-    {"t": 4015, "title": "Nicolas Cage goal"},
-    {"t": 4045, "title": "Veruca James as the easier booking"},
-    {"t": 4080, "title": "Why Cage fascinates the room"},
-    {"t": 4140, "title": "Cage family racialized"},
-    {"t": 4153, "title": "Kal-El misidentified as Jor-El"},
-    {"t": 4178, "title": "False bankruptcy claim"},
-    {"t": 4190, "title": "Korean spouse blamed for finances"},
-    {"t": 4260, "title": "Ghost Rider titles repaired"},
-    {"t": 4320, "title": "Friendship list accepted with exceptions"},
-    {"t": 4400, "title": "Heartbreak and having been dumped"},
-    {"t": 4480, "title": "Plaza distinguishes regret from abandonment"},
-    {"t": 4560, "title": "First heartbreak as inoculation theory"},
-    {"t": 4630, "title": "Painting exchange declared complete"},
-    {"t": 4700, "title": "Critter says the commitment lacks effort"},
-    {"t": 4750, "title": "Silence while digging the hole"},
-    {"t": 4800, "title": "Comfortable silence as intimacy"},
-    {"t": 4870, "title": "Kissing parents and cultural stereotypes"},
-    {"t": 4920, "title": "Mother's money requests and residence clues"},
-    {"t": 4980, "title": "Plaza recruited as buffer with Choe's mother"},
-    {"t": 5050, "title": "Painting brief restated"},
-    {"t": 5100, "title": "Painting reveal begins"},
-    {"t": 5162, "title": "Bat-bodied Plaza and horse-bodied Poehler"},
-    {"t": 5230, "title": "Violence and sexual imagery interpreted"},
-    {"t": 5305, "title": "Whether the pictured act is consensual"},
-    {"t": 5360, "title": "Forced fingering wrongly minimized"},
-    {"t": 5410, "title": "Hiking rape threat disclosed"},
-    {"t": 5450, "title": "False rape and erection requirements"},
-    {"t": 5500, "title": "Survival-response myths"},
-    {"t": 5540, "title": "Assault turned into painting concept"},
-    {"t": 5580, "title": "Fictional rape and ratings discussion"},
-    {"t": 5620, "title": "New friendship confirmed"},
-    {"t": 5640, "title": "Shane introduced as new engineer"},
-    {"t": 5670, "title": "Wallet chain and coerced relationship history"},
-    {"t": 5700, "title": "Plaza's friends recruited for matchmaking"},
-    {"t": 5750, "title": "Work hours and emergency podcasts"},
-    {"t": 5775, "title": "Ministry as a dating clue"},
-    {"t": 5800, "title": "Guest invited back to the studio"},
-    {"t": 5830, "title": "Air quality and treated-wart speculation"},
-    {"t": 5860, "title": "Trivia with Bobby begins"},
-    {"t": 5888, "title": "Blur's Song 2"},
-    {"t": 5920, "title": "Matchbox Twenty's Push"},
-    {"t": 5970, "title": "Dashboard Confessional's Vindicated"},
-    {"t": 6020, "title": "Are You Listening subsegment"},
-    {"t": 6058, "title": "Aubrey's name written wrong"},
-    {"t": 6100, "title": "Hollywood standoff trivia"},
-    {"t": 6170, "title": "Ali G questions"},
-    {"t": 6220, "title": "Jealousy as the imaginary cologne odor"},
-    {"t": 6250, "title": "Forced wart-smelling penalty"},
-    {"t": 6279, "title": "Hollywood Game Night band recollection"},
-    {"t": 6284, "title": "Chris Bosh exchange"},
-    {"t": 6309, "title": "Racialized dating questions"},
-    {"t": 6335, "title": "Plaza joins Money Mark on drums"},
-    {"t": 6384, "title": "Armie-to-Aubrey closing correction"},
-    {"t": 6400, "title": "Formal cast outro"},
-    {"t": 6421, "title": "Post-outro hurt refrain"},
-    {"t": 6454.82, "title": "Repeated Let us pray coda"}
+    {
+      "t": 0,
+      "title": "DMX-derived DVDASA opening"
+    },
+    {
+      "t": 47,
+      "title": "Cast introduction with corrupted names"
+    },
+    {
+      "t": 76,
+      "title": "Persephone wart recap"
+    },
+    {
+      "t": 81,
+      "title": "Munchausen-by-proxy joke"
+    },
+    {
+      "t": 108,
+      "title": "New facial lesion and no-touch advice"
+    },
+    {
+      "t": 136,
+      "title": "Episode 60 recap begins"
+    },
+    {
+      "t": 150,
+      "title": "Dodgers game with David Arquette nearby"
+    },
+    {
+      "t": 178,
+      "title": "Hollywood standoff over who approaches"
+    },
+    {
+      "t": 195,
+      "title": "Impromptu Arquette recording"
+    },
+    {
+      "t": 237,
+      "title": "Sam's Hofbrau after the recording"
+    },
+    {
+      "t": 245,
+      "title": "Prison floss made from braided hair"
+    },
+    {
+      "t": 307,
+      "title": "First visit to Sam's Hofbrau"
+    },
+    {
+      "t": 363,
+      "title": "Cypress Hill comparison and club atmosphere"
+    },
+    {
+      "t": 377,
+      "title": "Entering with a recognizable actor"
+    },
+    {
+      "t": 420,
+      "title": "Unidentified celebrity and Keanu Reeves tattoo story"
+    },
+    {
+      "t": 449,
+      "title": "Uninvited physical contact in a strip club"
+    },
+    {
+      "t": 475,
+      "title": "Money placement and tail-feather technique"
+    },
+    {
+      "t": 502,
+      "title": "Regional strip-club tipping customs"
+    },
+    {
+      "t": 563,
+      "title": "Older gangsters and bundled cash"
+    },
+    {
+      "t": 663,
+      "title": "The Library Gentlemen's Club"
+    },
+    {
+      "t": 683,
+      "title": "Making it rain as technique"
+    },
+    {
+      "t": 716,
+      "title": "Charmane Star and the dollar-arrow story"
+    },
+    {
+      "t": 747,
+      "title": "Onstage versus offstage money throwing"
+    },
+    {
+      "t": 785,
+      "title": "Conditional permission and minimum bill joke"
+    },
+    {
+      "t": 843,
+      "title": "Critter's informal publicist role"
+    },
+    {
+      "t": 895,
+      "title": "Choe's loss of sexual interest"
+    },
+    {
+      "t": 930,
+      "title": "Private Mexico partner story resumes"
+    },
+    {
+      "t": 965,
+      "title": "Paint-covered hands and UTI joke"
+    },
+    {
+      "t": 1016,
+      "title": "Prolonged anatomy speculation"
+    },
+    {
+      "t": 1070,
+      "title": "Violent reaction imagined as a prank outcome"
+    },
+    {
+      "t": 1100,
+      "title": "New tastes used as analogy for identity"
+    },
+    {
+      "t": 1161,
+      "title": "Episode 53 and Kevin Smith cross-reference"
+    },
+    {
+      "t": 1195,
+      "title": "How the private partner first made contact"
+    },
+    {
+      "t": 1240,
+      "title": "Questioning whether she hears the podcast"
+    },
+    {
+      "t": 1280,
+      "title": "Private text message read aloud"
+    },
+    {
+      "t": 1362,
+      "title": "Aubrey Plaza arrives"
+    },
+    {
+      "t": 1400,
+      "title": "Guest enters without knowing the format"
+    },
+    {
+      "t": 1436,
+      "title": "Outside opinion requested"
+    },
+    {
+      "t": 1454,
+      "title": "The private anatomy story retold"
+    },
+    {
+      "t": 1512,
+      "title": "Plaza calls the paint detail unrelated"
+    },
+    {
+      "t": 1556,
+      "title": "Tiny-penis punchline"
+    },
+    {
+      "t": 1588,
+      "title": "Delayed joke or lie"
+    },
+    {
+      "t": 1630,
+      "title": "Message grammar and partner's denial"
+    },
+    {
+      "t": 1688,
+      "title": "Photo shoot and companion"
+    },
+    {
+      "t": 1740,
+      "title": "Commission request revealed"
+    },
+    {
+      "t": 1764,
+      "title": "Aubrey Plaza and Amy Poehler painting brief"
+    },
+    {
+      "t": 1790,
+      "title": "Choe resists portraiture"
+    },
+    {
+      "t": 1804,
+      "title": "Six Flags caricature comparison"
+    },
+    {
+      "t": 1840,
+      "title": "Portraits as restrictive homework"
+    },
+    {
+      "t": 1880,
+      "title": "Painting friends despite discomfort"
+    },
+    {
+      "t": 1918,
+      "title": "Trade versus money"
+    },
+    {
+      "t": 1950,
+      "title": "Private-partner question returns"
+    },
+    {
+      "t": 2000,
+      "title": "STI jokes and anatomy misinformation"
+    },
+    {
+      "t": 2050,
+      "title": "Intersex images treated as internet research"
+    },
+    {
+      "t": 2110,
+      "title": "Would a partner listen to the podcast"
+    },
+    {
+      "t": 2165,
+      "title": "Asa's boundary around work and private life"
+    },
+    {
+      "t": 2200,
+      "title": "Plaza's then-partner and privacy"
+    },
+    {
+      "t": 2230,
+      "title": "Phone number pressure"
+    },
+    {
+      "t": 2265,
+      "title": "Auditions and role typecasting"
+    },
+    {
+      "t": 2300,
+      "title": "Unrealized television project"
+    },
+    {
+      "t": 2324,
+      "title": "Harris Wittels opioid disclosure"
+    },
+    {
+      "t": 2334,
+      "title": "Scott Rudin and the stalled deal"
+    },
+    {
+      "t": 2352,
+      "title": "TOTALLYNOTGAY.COM first-date reference"
+    },
+    {
+      "t": 2395,
+      "title": "Home Depot in Mexico joke"
+    },
+    {
+      "t": 2450,
+      "title": "Painting price and friendship favor"
+    },
+    {
+      "t": 2485,
+      "title": "Art-market scarcity explanation"
+    },
+    {
+      "t": 2525,
+      "title": "Pricing as demand and belief"
+    },
+    {
+      "t": 2580,
+      "title": "Sizzler birthday gathering revisited"
+    },
+    {
+      "t": 2618,
+      "title": "Pee-wee Herman approached"
+    },
+    {
+      "t": 2645,
+      "title": "Sacha Baron Cohen at the table"
+    },
+    {
+      "t": 2661,
+      "title": "Gary Panter and Pee-wee's Playhouse"
+    },
+    {
+      "t": 2690,
+      "title": "Email as first access tier"
+    },
+    {
+      "t": 2720,
+      "title": "Phone number as second access tier"
+    },
+    {
+      "t": 2760,
+      "title": "Email, texting, and trust"
+    },
+    {
+      "t": 2800,
+      "title": "Fast friendship in Los Angeles"
+    },
+    {
+      "t": 2850,
+      "title": "Are Choe and Plaza already friends"
+    },
+    {
+      "t": 2875,
+      "title": "Residence knowledge and flowers"
+    },
+    {
+      "t": 2915,
+      "title": "Pornographic painting mistaken for Plaza"
+    },
+    {
+      "t": 2960,
+      "title": "Honesty proposed as friendship condition"
+    },
+    {
+      "t": 2992,
+      "title": "Parks and Recreation season six"
+    },
+    {
+      "t": 3020,
+      "title": "The Office versus Parks and Recreation"
+    },
+    {
+      "t": 3038,
+      "title": "Amy Poehler's role misstated"
+    },
+    {
+      "t": 3060,
+      "title": "Plaza and Poehler's close friendship"
+    },
+    {
+      "t": 3110,
+      "title": "The price of the commissioned painting"
+    },
+    {
+      "t": 3130,
+      "title": "Best-friend exchange proposed"
+    },
+    {
+      "t": 3170,
+      "title": "Delayed email response creates anxiety"
+    },
+    {
+      "t": 3210,
+      "title": "Work and personal email accounts"
+    },
+    {
+      "t": 3236,
+      "title": "Old Nicolas Cage movie pitch"
+    },
+    {
+      "t": 3296,
+      "title": "Gender-affirming surgery hearsay"
+    },
+    {
+      "t": 3335,
+      "title": "Cuckold-film and Kabul project pitches"
+    },
+    {
+      "t": 3374,
+      "title": "Colin Trevorrow and actor-friendly directors"
+    },
+    {
+      "t": 3410,
+      "title": "Best-friend list begins"
+    },
+    {
+      "t": 3421,
+      "title": "Harboring-a-fugitive hypothetical"
+    },
+    {
+      "t": 3450,
+      "title": "Digging a hole without questions"
+    },
+    {
+      "t": 3500,
+      "title": "Adult graffiti addiction"
+    },
+    {
+      "t": 3540,
+      "title": "Planned kissing to evade police"
+    },
+    {
+      "t": 3580,
+      "title": "Plaza declines the planned kiss"
+    },
+    {
+      "t": 3600,
+      "title": "Social-media engagement requirement"
+    },
+    {
+      "t": 3650,
+      "title": "Shared wardrobe and permanent access"
+    },
+    {
+      "t": 3670,
+      "title": "Advance forgiveness for deception"
+    },
+    {
+      "t": 3700,
+      "title": "Wingman and food requirements"
+    },
+    {
+      "t": 3735,
+      "title": "Pimple-popping refusal"
+    },
+    {
+      "t": 3760,
+      "title": "AIDS deathbed and eulogy joke"
+    },
+    {
+      "t": 3790,
+      "title": "Racist jokes and unlimited secrets"
+    },
+    {
+      "t": 3820,
+      "title": "Privacy loss and relationship risk"
+    },
+    {
+      "t": 3850,
+      "title": "Travel, fame, and money conditions"
+    },
+    {
+      "t": 3890,
+      "title": "Five platonic female friends claim"
+    },
+    {
+      "t": 3940,
+      "title": "Actor or comedian identity"
+    },
+    {
+      "t": 3965,
+      "title": "Funny People brought Plaza to Los Angeles"
+    },
+    {
+      "t": 4015,
+      "title": "Nicolas Cage goal"
+    },
+    {
+      "t": 4045,
+      "title": "Veruca James as the easier booking"
+    },
+    {
+      "t": 4080,
+      "title": "Why Cage fascinates the room"
+    },
+    {
+      "t": 4140,
+      "title": "Cage family racialized"
+    },
+    {
+      "t": 4153,
+      "title": "Kal-El misidentified as Jor-El"
+    },
+    {
+      "t": 4178,
+      "title": "False bankruptcy claim"
+    },
+    {
+      "t": 4190,
+      "title": "Korean spouse blamed for finances"
+    },
+    {
+      "t": 4260,
+      "title": "Ghost Rider titles repaired"
+    },
+    {
+      "t": 4320,
+      "title": "Friendship list accepted with exceptions"
+    },
+    {
+      "t": 4400,
+      "title": "Heartbreak and having been dumped"
+    },
+    {
+      "t": 4480,
+      "title": "Plaza distinguishes regret from abandonment"
+    },
+    {
+      "t": 4560,
+      "title": "First heartbreak as inoculation theory"
+    },
+    {
+      "t": 4630,
+      "title": "Painting exchange declared complete"
+    },
+    {
+      "t": 4700,
+      "title": "Critter says the commitment lacks effort"
+    },
+    {
+      "t": 4750,
+      "title": "Silence while digging the hole"
+    },
+    {
+      "t": 4800,
+      "title": "Comfortable silence as intimacy"
+    },
+    {
+      "t": 4870,
+      "title": "Kissing parents and cultural stereotypes"
+    },
+    {
+      "t": 4920,
+      "title": "Mother's money requests and residence clues"
+    },
+    {
+      "t": 4980,
+      "title": "Plaza recruited as buffer with Choe's mother"
+    },
+    {
+      "t": 5050,
+      "title": "Painting brief restated"
+    },
+    {
+      "t": 5100,
+      "title": "Painting reveal begins"
+    },
+    {
+      "t": 5162,
+      "title": "Bat-bodied Plaza and horse-bodied Poehler"
+    },
+    {
+      "t": 5230,
+      "title": "Violence and sexual imagery interpreted"
+    },
+    {
+      "t": 5305,
+      "title": "Whether the pictured act is consensual"
+    },
+    {
+      "t": 5360,
+      "title": "Forced fingering wrongly minimized"
+    },
+    {
+      "t": 5410,
+      "title": "Hiking rape threat disclosed"
+    },
+    {
+      "t": 5450,
+      "title": "False rape and erection requirements"
+    },
+    {
+      "t": 5500,
+      "title": "Survival-response myths"
+    },
+    {
+      "t": 5540,
+      "title": "Assault turned into painting concept"
+    },
+    {
+      "t": 5580,
+      "title": "Fictional rape and ratings discussion"
+    },
+    {
+      "t": 5620,
+      "title": "New friendship confirmed"
+    },
+    {
+      "t": 5640,
+      "title": "Shane introduced as new engineer"
+    },
+    {
+      "t": 5670,
+      "title": "Wallet chain and coerced relationship history"
+    },
+    {
+      "t": 5700,
+      "title": "Plaza's friends recruited for matchmaking"
+    },
+    {
+      "t": 5750,
+      "title": "Work hours and emergency podcasts"
+    },
+    {
+      "t": 5775,
+      "title": "Ministry as a dating clue"
+    },
+    {
+      "t": 5800,
+      "title": "Guest invited back to the studio"
+    },
+    {
+      "t": 5830,
+      "title": "Air quality and treated-wart speculation"
+    },
+    {
+      "t": 5860,
+      "title": "Trivia with Bobby begins"
+    },
+    {
+      "t": 5888,
+      "title": "Blur's Song 2"
+    },
+    {
+      "t": 5920,
+      "title": "Matchbox Twenty's Push"
+    },
+    {
+      "t": 5970,
+      "title": "Dashboard Confessional's Vindicated"
+    },
+    {
+      "t": 6020,
+      "title": "Are You Listening subsegment"
+    },
+    {
+      "t": 6058,
+      "title": "Aubrey's name written wrong"
+    },
+    {
+      "t": 6100,
+      "title": "Hollywood standoff trivia"
+    },
+    {
+      "t": 6170,
+      "title": "Ali G questions"
+    },
+    {
+      "t": 6220,
+      "title": "Jealousy as the imaginary cologne odor"
+    },
+    {
+      "t": 6250,
+      "title": "Forced wart-smelling penalty"
+    },
+    {
+      "t": 6279,
+      "title": "Hollywood Game Night band recollection"
+    },
+    {
+      "t": 6284,
+      "title": "Chris Bosh exchange"
+    },
+    {
+      "t": 6309,
+      "title": "Racialized dating questions"
+    },
+    {
+      "t": 6335,
+      "title": "Plaza joins Money Mark on drums"
+    },
+    {
+      "t": 6384,
+      "title": "Armie-to-Aubrey closing correction"
+    },
+    {
+      "t": 6400,
+      "title": "Formal cast outro"
+    },
+    {
+      "t": 6421,
+      "title": "Post-outro hurt refrain"
+    },
+    {
+      "t": 6454.82,
+      "title": "Repeated Let us pray coda"
+    }
   ],
   "connections": [
-    {"from": 136, "to": "Episode 60", "relationship": "Direct recap of the David Arquette recording and subsequent strip-club visit"},
-    {"from": 930, "to": "Episodes 53–54 private-partner ledger", "relationship": "The same Mexico partner is again subjected to anatomy, gender, and orientation inference"},
-    {"from": 1161, "to": "Episode 53 Kevin Smith", "relationship": "The cast explicitly dates the prior disclosure to that episode"},
-    {"from": 1740, "to": "David Choe commission ledger", "relationship": "Aubrey Plaza directly requests the Plaza/Poehler work"},
-    {"from": 1790, "to": "creative-process themes", "relationship": "Choe distinguishes free painting from representational homework"},
-    {"from": 2324, "to": "Episode 31 Harris Wittels", "relationship": "Third-party disclosure here should be read beside Wittels's own later account, not instead of it"},
-    {"from": 2352, "to": "prior Choe/Plaza video", "relationship": "Upper Playground preserves a contemporary pointer to the dead TOTALLYNOTGAY.COM page"},
-    {"from": 2450, "to": "wealth and art-market ledger", "relationship": "Gift, price, scarcity, friendship, and access become intertwined"},
-    {"from": 2580, "to": "Episodes 58 and 60", "relationship": "The Sizzler gathering and Reubens/Cohen table recur across accounts"},
-    {"from": 3038, "to": "Parks and Recreation production", "relationship": "The series creator claim requires correction while preserving Poehler's central role"},
-    {"from": 3296, "to": "health misinformation ledger", "relationship": "Transgender postoperative hearsay requires authoritative context"},
-    {"from": 3410, "to": "DVDASA friendship contracts", "relationship": "The list turns affection into access, labor, secrecy, risk, and advance forgiveness"},
-    {"from": 3540, "to": "consent ledger", "relationship": "Plaza explicitly rejects planned kissing and offers a nonsexual alternative"},
-    {"from": 4015, "to": "DVDASA booking ambitions", "relationship": "Nicolas Cage functions as the aspirational guest"},
-    {"from": 4178, "to": "celebrity fact-check ledger", "relationship": "Real debt is turned into a false bankruptcy statement and racist spouse-blame"},
-    {"from": 5100, "to": "object provenance", "relationship": "The episode contains a first-person recipient reaction to the commissioned painting"},
-    {"from": 5360, "to": "sexual-assault correction ledger", "relationship": "Gender-neutral nonconsensual penetration meets the FBI rape definition"},
-    {"from": 5410, "to": "workplace and friendship safety", "relationship": "A rape threat made during a hike cannot be normalized as banter"},
-    {"from": 5640, "to": "Episodes 55–60 Shane labor ledger", "relationship": "Engineering employment expands into public intimate matchmaking"},
-    {"from": 6279, "to": "Hollywood Game Night", "relationship": "External credits support keeping the low-confidence Money Mark band line"}
+    {
+      "from": 136,
+      "to": "Episode 60",
+      "relationship": "Direct recap of the David Arquette recording and subsequent strip-club visit"
+    },
+    {
+      "from": 930,
+      "to": "Episodes 53–54 private-partner ledger",
+      "relationship": "The same Mexico partner is again subjected to anatomy, gender, and orientation inference"
+    },
+    {
+      "from": 1161,
+      "to": "Episode 53 Kevin Smith",
+      "relationship": "The cast explicitly dates the prior disclosure to that episode"
+    },
+    {
+      "from": 1740,
+      "to": "David Choe commission ledger",
+      "relationship": "Aubrey Plaza directly requests the Plaza/Poehler work"
+    },
+    {
+      "from": 1790,
+      "to": "creative-process themes",
+      "relationship": "Choe distinguishes free painting from representational homework"
+    },
+    {
+      "from": 2324,
+      "to": "Episode 31 Harris Wittels",
+      "relationship": "Third-party disclosure here should be read beside Wittels's own later account, not instead of it"
+    },
+    {
+      "from": 2352,
+      "to": "prior Choe/Plaza video",
+      "relationship": "Upper Playground preserves a contemporary pointer to the dead TOTALLYNOTGAY.COM page"
+    },
+    {
+      "from": 2450,
+      "to": "wealth and art-market ledger",
+      "relationship": "Gift, price, scarcity, friendship, and access become intertwined"
+    },
+    {
+      "from": 2580,
+      "to": "Episodes 58 and 60",
+      "relationship": "The Sizzler gathering and Reubens/Cohen table recur across accounts"
+    },
+    {
+      "from": 3038,
+      "to": "Parks and Recreation production",
+      "relationship": "The series creator claim requires correction while preserving Poehler's central role"
+    },
+    {
+      "from": 3296,
+      "to": "health misinformation ledger",
+      "relationship": "Transgender postoperative hearsay requires authoritative context"
+    },
+    {
+      "from": 3410,
+      "to": "DVDASA friendship contracts",
+      "relationship": "The list turns affection into access, labor, secrecy, risk, and advance forgiveness"
+    },
+    {
+      "from": 3540,
+      "to": "consent ledger",
+      "relationship": "Plaza explicitly rejects planned kissing and offers a nonsexual alternative"
+    },
+    {
+      "from": 4015,
+      "to": "DVDASA booking ambitions",
+      "relationship": "Nicolas Cage functions as the aspirational guest"
+    },
+    {
+      "from": 4178,
+      "to": "celebrity fact-check ledger",
+      "relationship": "Real debt is turned into a false bankruptcy statement and racist spouse-blame"
+    },
+    {
+      "from": 5100,
+      "to": "object provenance",
+      "relationship": "The episode contains a first-person recipient reaction to the commissioned painting"
+    },
+    {
+      "from": 5360,
+      "to": "sexual-assault correction ledger",
+      "relationship": "Gender-neutral nonconsensual penetration meets the FBI rape definition"
+    },
+    {
+      "from": 5410,
+      "to": "workplace and friendship safety",
+      "relationship": "A rape threat made during a hike cannot be normalized as banter"
+    },
+    {
+      "from": 5640,
+      "to": "Episodes 55–60 Shane labor ledger",
+      "relationship": "Engineering employment expands into public intimate matchmaking"
+    },
+    {
+      "from": 6279,
+      "to": "Hollywood Game Night",
+      "relationship": "External credits support keeping the low-confidence Money Mark band line"
+    }
   ],
   "content_warnings": [
-    {"t": 76, "warning": "treated wart and lesion exposure"},
-    {"t": 420, "warning": "third-party sexual gossip"},
-    {"t": 449, "warning": "uninvited sexual contact"},
-    {"t": 930, "warning": "private anatomy, gender, and sexual-health speculation"},
-    {"t": 1070, "warning": "suicide and homicide invoked as reaction to gender disclosure"},
-    {"t": 1280, "warning": "private intimate messages read aloud"},
-    {"t": 2324, "warning": "third-party opioid-dependence disclosure"},
-    {"t": 3296, "warning": "transgender medical misinformation and stigmatizing language"},
-    {"t": 3410, "warning": "criminal favors and coercive friendship conditions"},
-    {"t": 3760, "warning": "AIDS stigma"},
-    {"t": 4140, "warning": "anti-Korean racism, misogyny, and family financial allegations"},
-    {"t": 5230, "warning": "sexual violence represented in artwork"},
-    {"t": 5360, "warning": "rape and forced penetration discussion"},
-    {"t": 5410, "warning": "rape threat and harmful survival-response myths"},
-    {"t": 5640, "warning": "employee sexual history and public matchmaking pressure"}
-  ]
+    {
+      "t": 76,
+      "warning": "treated wart and lesion exposure"
+    },
+    {
+      "t": 420,
+      "warning": "third-party sexual gossip"
+    },
+    {
+      "t": 449,
+      "warning": "uninvited sexual contact"
+    },
+    {
+      "t": 930,
+      "warning": "private anatomy, gender, and sexual-health speculation"
+    },
+    {
+      "t": 1070,
+      "warning": "suicide and homicide invoked as reaction to gender disclosure"
+    },
+    {
+      "t": 1280,
+      "warning": "private intimate messages read aloud"
+    },
+    {
+      "t": 2324,
+      "warning": "third-party opioid-dependence disclosure"
+    },
+    {
+      "t": 3296,
+      "warning": "transgender medical misinformation and stigmatizing language"
+    },
+    {
+      "t": 3410,
+      "warning": "criminal favors and coercive friendship conditions"
+    },
+    {
+      "t": 3760,
+      "warning": "AIDS stigma"
+    },
+    {
+      "t": 4140,
+      "warning": "anti-Korean racism, misogyny, and family financial allegations"
+    },
+    {
+      "t": 5230,
+      "warning": "sexual violence represented in artwork"
+    },
+    {
+      "t": 5360,
+      "warning": "rape and forced penetration discussion"
+    },
+    {
+      "t": 5410,
+      "warning": "rape threat and harmful survival-response myths"
+    },
+    {
+      "t": 5640,
+      "warning": "employee sexual history and public matchmaking pressure"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "David Arquette",
+    "Aubrey Plaza",
+    "Nicolas Cage"
+  ],
+  "places": [
+    "Hollywood",
+    "Mexico",
+    "party"
+  ],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 61 opens by recapping the David Arquette night, strip-club etiquette, and Choe's invasive speculation about a private Mexico partner.",
+  "description_source": "Opening of the human-reviewed summary."
 }

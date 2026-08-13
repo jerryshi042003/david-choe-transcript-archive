@@ -1,10 +1,26 @@
 {
-  "episode_id":"zHyvVajsqMw",
-  "title":"David Choe: Embracing Vulnerability & Conquering Addiction | Huberman Lab",
-  "reviewed_on":"2026-07-31",
-  "summary":"A nearly four-hour conversation about compulsive motion: gambling, graffiti, travel, sex, work and danger as ways David Choe says he avoided sitting with himself. Choe repeatedly resists the familiar Facebook windfall story, then uses it to explain the mismatch between external success and internal shame. The account moves through South Bay childhood, punk and skate culture, family poverty and war memory, Japan incarceration and debt, early magazine and commercial work, Facebook murals, adult-media illustration, Vice and Thumbs Up!, DVDASA, Anthony Bourdain and The Choe Show. Its strongest arc is not celebrity chronology but a theory of addiction: the object changes while the underlying cycle of anticipation, victory, loss, shame and escape persists. Choe describes childhood abuse, a father's murder-suicide threat, pornography, self-harm, suicidal ideation, gambling, workaholism, relationship harm, treatment and learning to ask friends for help. Huberman responds with neuroscience, care and occasional broad causal claims. The close shifts from inherited trauma and fear of becoming a father toward repair, friendship, men's work, sobriety and choosing not to pass harm forward. All graphic, offensive and contradictory ideas remain in the archive. Editorial notes correct names and claims without rewriting the speakers' ideas or treating recollection, diagnosis, allegation, metaphor or performance as verified fact.",
-  "quality":{"raw_segments":6246,"clean_segments":6246,"raw_words_approx":45015,"clean_words_approx":45015,"duration_seconds":14034.246,"accepted_context_decisions":272,"chapters":95,"connections":30,"content_warnings":38,"generic_turn_prefixes":366,"identity_windows":0,"named_turns":0,"cleaning_edits":0,"cleaning_net_reduction":0,"public_restriction_spans":47},
-  "source_notes":[
+  "episode_id": "zHyvVajsqMw",
+  "title": "David Choe: Embracing Vulnerability & Conquering Addiction | Huberman Lab",
+  "reviewed_on": "2026-07-31",
+  "summary": "A nearly four-hour conversation about compulsive motion: gambling, graffiti, travel, sex, work and danger as ways David Choe says he avoided sitting with himself. Choe repeatedly resists the familiar Facebook windfall story, then uses it to explain the mismatch between external success and internal shame. The account moves through South Bay childhood, punk and skate culture, family poverty and war memory, Japan incarceration and debt, early magazine and commercial work, Facebook murals, adult-media illustration, Vice and Thumbs Up!, DVDASA, Anthony Bourdain and The Choe Show. Its strongest arc is not celebrity chronology but a theory of addiction: the object changes while the underlying cycle of anticipation, victory, loss, shame and escape persists. Choe describes childhood abuse, a father's murder-suicide threat, pornography, self-harm, suicidal ideation, gambling, workaholism, relationship harm, treatment and learning to ask friends for help. Huberman responds with neuroscience, care and occasional broad causal claims. The close shifts from inherited trauma and fear of becoming a father toward repair, friendship, men's work, sobriety and choosing not to pass harm forward. All graphic, offensive and contradictory ideas remain in the archive. Editorial notes correct names and claims without rewriting the speakers' ideas or treating recollection, diagnosis, allegation, metaphor or performance as verified fact.",
+  "quality": {
+    "raw_segments": 6246,
+    "clean_segments": 6246,
+    "raw_words_approx": 45015,
+    "clean_words_approx": 45015,
+    "duration_seconds": 14034.246,
+    "accepted_context_decisions": 272,
+    "chapters": 95,
+    "connections": 30,
+    "content_warnings": 38,
+    "generic_turn_prefixes": 366,
+    "identity_windows": 0,
+    "named_turns": 0,
+    "cleaning_edits": 0,
+    "cleaning_net_reduction": 0,
+    "public_restriction_spans": 47
+  },
+  "source_notes": [
     "The source contains 6,246 timestamped segments covering 0.08–14,034.246 seconds. Every segment was read in six chronological tranches; the separate correction fixture contains 272 sorted decisions.",
     "The 366 generic >> prefixes mark a change of voice but never name that voice. They cannot support line-level Huberman/Choe labels without independently held-out acoustic or video validation.",
     "Official Huberman Lab material confirms the spelling Ryan Soave, LMHC, and his trauma/addiction-treatment role; this supports correcting Ryan Suave, not claims about Choe's private treatment.",
@@ -16,15 +32,762 @@
     "Autobiographical memory is preserved as testimony, not proof. Choe explicitly discusses date drift, exaggeration, clipping, performance and the instability of his own recall.",
     "No wording repair may remove offensive, sexual, violent, suicidal, addiction, family or consent-related ideas. Context and publication limits are separate metadata layers."
   ],
-  "speaker_policy":"Episode-level metadata identifies Andrew Huberman and David Choe as the two interview participants. The transcript also contains a cold-open excerpt, four publisher/ad blocks, music, quotations and imitated voices. Generic turn prefixes establish only that a turn changed. Publish no named line-level dialogue until a held-out two-speaker test verifies non-overlapping clean windows against video or independently labeled audio; never propagate a label through unlabeled adjacency, montage, quotation or overlap.",
-  "chapters":[
-    {"t":0,"title":"addiction and constant motion"},{"t":53,"title":"introduction and biography"},{"t":189,"title":"first meeting through anatomy drawing"},{"t":294,"title":"head-to-heart creativity"},{"t":397,"title":"podcast anxiety and mortality"},{"t":576,"title":"projection, care and parasocial affection"},{"t":773,"title":"childhood and amends"},{"t":814,"title":"Palo Alto punk and skate lineage"},{"t":910,"title":"Facebook offices and memory disclaimer"},{"t":980,"title":"truth, lies and subjective recollection"},{"t":1346,"title":"editing, masks and misunderstanding"},{"t":1501,"title":"narcissistic oscillation and hidden work"},{"t":1725,"title":"mother, faith and greatness prophecy"},{"t":1822,"title":"abuse, shame and trickster identity"},{"t":1969,"title":"poverty, performance and stereotype"},{"t":2119,"title":"Sean Parker and collected artifacts"},{"t":2253,"title":"self-hatred, pornography and graffiti"},{"t":2402,"title":"Facebook, Zuckerberg and vandalism"},{"t":2490,"title":"craft, creativity and deprivation"},{"t":2642,"title":"Japan jail, debt and mural offer"},{"t":2716,"title":"unpaid work and employer grievances"},{"t":2780,"title":"Vice assignments and fabricated bylines"},{"t":2927,"title":"speaking anxiety and public failure"},{"t":3055,"title":"violence versus diary exposure"},{"t":3128,"title":"AG1 advertisement"},{"t":3210,"title":"belief, Santa and shame"},{"t":3331,"title":"betrayal and childhood journal"},{"t":3511,"title":"imitation, rejection and artistic change"},{"t":3616,"title":"Facebook commission and unsafe fumes"},{"t":3680,"title":"Daft Punk, hackathons and idealism"},{"t":3823,"title":"The Social Network versus memory"},{"t":3907,"title":"theft, gambling and asking for equity"},{"t":4177,"title":"belief, limits and adaptation"},{"t":4217,"title":"hitchhiking, trains and jail rhetoric"},{"t":4353,"title":"racial taunts and shapeshifting"},{"t":4453,"title":"translation, accuracy and care"},{"t":4543,"title":"suffering and inherited harm"},{"t":4573,"title":"father's murder-suicide threat"},{"t":4635,"title":"Vice, Heidi Fleiss and Linkin Park"},{"t":4802,"title":"Warner licensing and artist payment"},{"t":4902,"title":"Nike threat and solidarity story"},{"t":5020,"title":"Function Health advertisement"},{"t":5129,"title":"school difficulty and artist identity"},{"t":5257,"title":"self-hypnosis, grandiosity and self-hatred"},{"t":5321,"title":"Kinko's portfolios and rejection letters"},{"t":5437,"title":"Rick Rubin, Flea and playing less"},{"t":5471,"title":"Marvel X-Men commission and replacement"},{"t":5528,"title":"message boards and viral shame"},{"t":5674,"title":"graffiti and self-destructive intent"},{"t":5711,"title":"Ryan Soave and addiction treatment"},{"t":5784,"title":"twelve-step programs and migrating addiction"},{"t":5855,"title":"motion as avoidance in full context"},{"t":5913,"title":"casino highs, loss and dissociation"},{"t":5935,"title":"IBS and stress self-diagnosis"},{"t":6003,"title":"recovery and scandal impulse"},{"t":6095,"title":"winning, purging and wanting loss"},{"t":6179,"title":"graphic degradation example"},{"t":6194,"title":"sexual-abuse question and maternal fear"},{"t":6298,"title":"genius, autism and trauma theory"},{"t":6370,"title":"therapy, men's group and asking for help"},{"t":6441,"title":"rewarded behavior and private harm"},{"t":6557,"title":"workaholism as praised addiction"},{"t":6719,"title":"La Brea rejection and Double Rainbow"},{"t":6925,"title":"independent publishing and adult media"},{"t":7202,"title":"fabricated persona and pornographic writing"},{"t":7417,"title":"Larry Flynt building and firing"},{"t":7510,"title":"Asian Fever, Hustler and first writing pay"},{"t":7706,"title":"Matina advertisement"},{"t":7861,"title":"poverty, theft and sex-addiction claim"},{"t":7890,"title":"unsafe Plymouth Fury and Blow set"},{"t":8115,"title":"Paul Reubens, shame and compassion"},{"t":8196,"title":"prison art and willingness boundary"},{"t":8270,"title":"Facebook share updates and validation"},{"t":8373,"title":"Vice, Spike Jonze and Thumbs Up origin"},{"t":8461,"title":"David Chang as addiction mirror"},{"t":8483,"title":"Pokémon-card relapse"},{"t":8598,"title":"Money Mark, Bill Poon and play"},{"t":8761,"title":"DVDASA and podcasting as canvas"},{"t":8935,"title":"Stern validation and audience backlash"},{"t":9129,"title":"Bourdain friendship and workaholism"},{"t":9301,"title":"Parts Unknown Koreatown and Sizzler"},{"t":9406,"title":"Channing Tatum visit and cancellation"},{"t":9534,"title":"Axel Alonso and unfinished comic"},{"t":9600,"title":"Mangchi, The Choe Show and control"},{"t":10031,"title":"celebrity, spectacle and friendship cost"},{"t":10420,"title":"Outkast, André 3000 and creative refusal"},{"t":10700,"title":"intervention, treatment and sobriety"},{"t":11240,"title":"suicidal ideation and survival"},{"t":11810,"title":"friendship, responsibility and repair"},{"t":12320,"title":"family history and inherited trauma"},{"t":12810,"title":"fatherhood fear and not passing harm"},{"t":13220,"title":"posttraumatic growth and meaning"},{"t":13640,"title":"care, enoughness and closing reflection"},{"t":13883,"title":"publisher outro"},{"t":14032,"title":"recording ends"}
+  "speaker_policy": "Episode-level metadata identifies Andrew Huberman and David Choe as the two interview participants. The transcript also contains a cold-open excerpt, four publisher/ad blocks, music, quotations and imitated voices. Generic turn prefixes establish only that a turn changed. Publish no named line-level dialogue until a held-out two-speaker test verifies non-overlapping clean windows against video or independently labeled audio; never propagate a label through unlabeled adjacency, montage, quotation or overlap.",
+  "chapters": [
+    {
+      "t": 0,
+      "title": "addiction and constant motion"
+    },
+    {
+      "t": 53,
+      "title": "introduction and biography"
+    },
+    {
+      "t": 189,
+      "title": "first meeting through anatomy drawing"
+    },
+    {
+      "t": 294,
+      "title": "head-to-heart creativity"
+    },
+    {
+      "t": 397,
+      "title": "podcast anxiety and mortality"
+    },
+    {
+      "t": 576,
+      "title": "projection, care and parasocial affection"
+    },
+    {
+      "t": 773,
+      "title": "childhood and amends"
+    },
+    {
+      "t": 814,
+      "title": "Palo Alto punk and skate lineage"
+    },
+    {
+      "t": 910,
+      "title": "Facebook offices and memory disclaimer"
+    },
+    {
+      "t": 980,
+      "title": "truth, lies and subjective recollection"
+    },
+    {
+      "t": 1346,
+      "title": "editing, masks and misunderstanding"
+    },
+    {
+      "t": 1501,
+      "title": "narcissistic oscillation and hidden work"
+    },
+    {
+      "t": 1725,
+      "title": "mother, faith and greatness prophecy"
+    },
+    {
+      "t": 1822,
+      "title": "abuse, shame and trickster identity"
+    },
+    {
+      "t": 1969,
+      "title": "poverty, performance and stereotype"
+    },
+    {
+      "t": 2119,
+      "title": "Sean Parker and collected artifacts"
+    },
+    {
+      "t": 2253,
+      "title": "self-hatred, pornography and graffiti"
+    },
+    {
+      "t": 2402,
+      "title": "Facebook, Zuckerberg and vandalism"
+    },
+    {
+      "t": 2490,
+      "title": "craft, creativity and deprivation"
+    },
+    {
+      "t": 2642,
+      "title": "Japan jail, debt and mural offer"
+    },
+    {
+      "t": 2716,
+      "title": "unpaid work and employer grievances"
+    },
+    {
+      "t": 2780,
+      "title": "Vice assignments and fabricated bylines"
+    },
+    {
+      "t": 2927,
+      "title": "speaking anxiety and public failure"
+    },
+    {
+      "t": 3055,
+      "title": "violence versus diary exposure"
+    },
+    {
+      "t": 3128,
+      "title": "AG1 advertisement"
+    },
+    {
+      "t": 3210,
+      "title": "belief, Santa and shame"
+    },
+    {
+      "t": 3331,
+      "title": "betrayal and childhood journal"
+    },
+    {
+      "t": 3511,
+      "title": "imitation, rejection and artistic change"
+    },
+    {
+      "t": 3616,
+      "title": "Facebook commission and unsafe fumes"
+    },
+    {
+      "t": 3680,
+      "title": "Daft Punk, hackathons and idealism"
+    },
+    {
+      "t": 3823,
+      "title": "The Social Network versus memory"
+    },
+    {
+      "t": 3907,
+      "title": "theft, gambling and asking for equity"
+    },
+    {
+      "t": 4177,
+      "title": "belief, limits and adaptation"
+    },
+    {
+      "t": 4217,
+      "title": "hitchhiking, trains and jail rhetoric"
+    },
+    {
+      "t": 4353,
+      "title": "racial taunts and shapeshifting"
+    },
+    {
+      "t": 4453,
+      "title": "translation, accuracy and care"
+    },
+    {
+      "t": 4543,
+      "title": "suffering and inherited harm"
+    },
+    {
+      "t": 4573,
+      "title": "father's murder-suicide threat"
+    },
+    {
+      "t": 4635,
+      "title": "Vice, Heidi Fleiss and Linkin Park"
+    },
+    {
+      "t": 4802,
+      "title": "Warner licensing and artist payment"
+    },
+    {
+      "t": 4902,
+      "title": "Nike threat and solidarity story"
+    },
+    {
+      "t": 5020,
+      "title": "Function Health advertisement"
+    },
+    {
+      "t": 5129,
+      "title": "school difficulty and artist identity"
+    },
+    {
+      "t": 5257,
+      "title": "self-hypnosis, grandiosity and self-hatred"
+    },
+    {
+      "t": 5321,
+      "title": "Kinko's portfolios and rejection letters"
+    },
+    {
+      "t": 5437,
+      "title": "Rick Rubin, Flea and playing less"
+    },
+    {
+      "t": 5471,
+      "title": "Marvel X-Men commission and replacement"
+    },
+    {
+      "t": 5528,
+      "title": "message boards and viral shame"
+    },
+    {
+      "t": 5674,
+      "title": "graffiti and self-destructive intent"
+    },
+    {
+      "t": 5711,
+      "title": "Ryan Soave and addiction treatment"
+    },
+    {
+      "t": 5784,
+      "title": "twelve-step programs and migrating addiction"
+    },
+    {
+      "t": 5855,
+      "title": "motion as avoidance in full context"
+    },
+    {
+      "t": 5913,
+      "title": "casino highs, loss and dissociation"
+    },
+    {
+      "t": 5935,
+      "title": "IBS and stress self-diagnosis"
+    },
+    {
+      "t": 6003,
+      "title": "recovery and scandal impulse"
+    },
+    {
+      "t": 6095,
+      "title": "winning, purging and wanting loss"
+    },
+    {
+      "t": 6179,
+      "title": "graphic degradation example"
+    },
+    {
+      "t": 6194,
+      "title": "sexual-abuse question and maternal fear"
+    },
+    {
+      "t": 6298,
+      "title": "genius, autism and trauma theory"
+    },
+    {
+      "t": 6370,
+      "title": "therapy, men's group and asking for help"
+    },
+    {
+      "t": 6441,
+      "title": "rewarded behavior and private harm"
+    },
+    {
+      "t": 6557,
+      "title": "workaholism as praised addiction"
+    },
+    {
+      "t": 6719,
+      "title": "La Brea rejection and Double Rainbow"
+    },
+    {
+      "t": 6925,
+      "title": "independent publishing and adult media"
+    },
+    {
+      "t": 7202,
+      "title": "fabricated persona and pornographic writing"
+    },
+    {
+      "t": 7417,
+      "title": "Larry Flynt building and firing"
+    },
+    {
+      "t": 7510,
+      "title": "Asian Fever, Hustler and first writing pay"
+    },
+    {
+      "t": 7706,
+      "title": "Matina advertisement"
+    },
+    {
+      "t": 7861,
+      "title": "poverty, theft and sex-addiction claim"
+    },
+    {
+      "t": 7890,
+      "title": "unsafe Plymouth Fury and Blow set"
+    },
+    {
+      "t": 8115,
+      "title": "Paul Reubens, shame and compassion"
+    },
+    {
+      "t": 8196,
+      "title": "prison art and willingness boundary"
+    },
+    {
+      "t": 8270,
+      "title": "Facebook share updates and validation"
+    },
+    {
+      "t": 8373,
+      "title": "Vice, Spike Jonze and Thumbs Up origin"
+    },
+    {
+      "t": 8461,
+      "title": "David Chang as addiction mirror"
+    },
+    {
+      "t": 8483,
+      "title": "Pokémon-card relapse"
+    },
+    {
+      "t": 8598,
+      "title": "Money Mark, Bill Poon and play"
+    },
+    {
+      "t": 8761,
+      "title": "DVDASA and podcasting as canvas"
+    },
+    {
+      "t": 8935,
+      "title": "Stern validation and audience backlash"
+    },
+    {
+      "t": 9129,
+      "title": "Bourdain friendship and workaholism"
+    },
+    {
+      "t": 9301,
+      "title": "Parts Unknown Koreatown and Sizzler"
+    },
+    {
+      "t": 9406,
+      "title": "Channing Tatum visit and cancellation"
+    },
+    {
+      "t": 9534,
+      "title": "Axel Alonso and unfinished comic"
+    },
+    {
+      "t": 9600,
+      "title": "Mangchi, The Choe Show and control"
+    },
+    {
+      "t": 10031,
+      "title": "celebrity, spectacle and friendship cost"
+    },
+    {
+      "t": 10420,
+      "title": "Outkast, André 3000 and creative refusal"
+    },
+    {
+      "t": 10700,
+      "title": "intervention, treatment and sobriety"
+    },
+    {
+      "t": 11240,
+      "title": "suicidal ideation and survival"
+    },
+    {
+      "t": 11810,
+      "title": "friendship, responsibility and repair"
+    },
+    {
+      "t": 12320,
+      "title": "family history and inherited trauma"
+    },
+    {
+      "t": 12810,
+      "title": "fatherhood fear and not passing harm"
+    },
+    {
+      "t": 13220,
+      "title": "posttraumatic growth and meaning"
+    },
+    {
+      "t": 13640,
+      "title": "care, enoughness and closing reflection"
+    },
+    {
+      "t": 13883,
+      "title": "publisher outro"
+    },
+    {
+      "t": 14032,
+      "title": "recording ends"
+    }
   ],
-  "connections":[
-    {"to":"JRE-1965","note":"Money, gambling and work reappear as games that can be won externally without ending the internal cycle."},{"to":"Thumbs-Up","note":"Dangerous travel is retrospectively framed as both creative work and compulsive motion."},{"to":"DVDASA","note":"Podcasting becomes another canvas for shame, provocation, validation and consequence."},{"to":"David-Chang-Show","note":"Choe recognizes migrating addiction in Chang and later uses the same lens on himself."},{"to":"Parts-Unknown-Koreatown","note":"The released episode grounds the Sizzler childhood story and Bourdain collaboration."},{"to":"The-Choe-Show","note":"Later visual work is discussed as an attempt to regain authorship and reveal internal states."},{"to":"Facebook-murals","note":"The famous windfall is preserved alongside unsafe labor, disputed memory, art rights and emotional aftermath."},{"to":"Sean-Parker","note":"Parker functions as patron, believer, dealmaker and recurring witness in Choe's self-narrative."},{"to":"South-Bay-skate-culture","note":"Punk, skating, graffiti and art form one early belonging system."},{"to":"Japan-incarceration","note":"Debt and incarceration precede the Facebook offer and complicate the triumph story."},{"to":"adult-media-work","note":"Fabricated authorship, explicit commissions, care and shame recur in the early career account."},{"to":"Paul-Reubens","note":"Public scandal becomes a point of identification and compassion rather than a celebrity anecdote alone."},{"to":"Anthony-Bourdain","note":"Friendship, work addiction, suicide and posthumous storytelling are kept distinct from causal certainty."},{"to":"workaholism","note":"Social praise can hide the same anticipation-compulsion-loss structure as gambling."},{"to":"migrating-addiction","note":"Gambling, sex, pornography, work, art collecting and cards are described as interchangeable objects."},{"to":"shame-cycle","note":"Exposure, humiliation, provocation and renewed output repeatedly reinforce one another."},{"to":"memory-provenance","note":"Choe explicitly warns that dates, facts, performance and edited media reshape recollection."},{"to":"claim-provenance","note":"Autobiography, allegation, diagnosis, metaphor, imitation and independent fact are separate evidence classes."},{"to":"speaker-validation","note":"Generic turn marks cannot assign Huberman or Choe without held-out acoustic/video evidence."},{"to":"publisher-boundaries","note":"Cold open, ads, outro, music, quotation and interview dialogue need distinct source roles."},{"to":"consent-boundaries","note":"Sexual autobiography and allegations remain attributed and cannot become private-person search trails."},{"to":"suicidality","note":"Self-harm, personal ideation, a parental threat and Bourdain commentary require contextual presentation."},{"to":"posttraumatic-growth","note":"Growth is a research construct, not proof that trauma was beneficial or a disorder diagnosis."},{"to":"family-repair","note":"Making amends and refusing intergenerational transmission replaces the earlier greatness prophecy."},{"to":"friendship-intervention","note":"Friends become evidence of care when they confront behavior and help Choe enter treatment."},{"to":"care-as-art","note":"The opening claim that invisible care makes art returns as a standard for relationships and recovery."},{"to":"head-versus-heart","note":"Creative intuition is a recurring metaphor, not a neurological localization claim."},{"to":"money-as-completed-game","note":"Financial victory is narrated as freedom and as proof that no external score resolves internal distress."},{"to":"offensive-language","note":"Slurs and degrading descriptions remain searchable with context, not silently sanitized or highlighted as spectacle."},{"to":"reader-product","note":"Search, Start Here, Works and readable source pages should expose evidence and uncertainty without turning the archive into a methodology dashboard."}
+  "connections": [
+    {
+      "to": "JRE-1965",
+      "note": "Money, gambling and work reappear as games that can be won externally without ending the internal cycle."
+    },
+    {
+      "to": "Thumbs-Up",
+      "note": "Dangerous travel is retrospectively framed as both creative work and compulsive motion."
+    },
+    {
+      "to": "DVDASA",
+      "note": "Podcasting becomes another canvas for shame, provocation, validation and consequence."
+    },
+    {
+      "to": "David-Chang-Show",
+      "note": "Choe recognizes migrating addiction in Chang and later uses the same lens on himself."
+    },
+    {
+      "to": "Parts-Unknown-Koreatown",
+      "note": "The released episode grounds the Sizzler childhood story and Bourdain collaboration."
+    },
+    {
+      "to": "The-Choe-Show",
+      "note": "Later visual work is discussed as an attempt to regain authorship and reveal internal states."
+    },
+    {
+      "to": "Facebook-murals",
+      "note": "The famous windfall is preserved alongside unsafe labor, disputed memory, art rights and emotional aftermath."
+    },
+    {
+      "to": "Sean-Parker",
+      "note": "Parker functions as patron, believer, dealmaker and recurring witness in Choe's self-narrative."
+    },
+    {
+      "to": "South-Bay-skate-culture",
+      "note": "Punk, skating, graffiti and art form one early belonging system."
+    },
+    {
+      "to": "Japan-incarceration",
+      "note": "Debt and incarceration precede the Facebook offer and complicate the triumph story."
+    },
+    {
+      "to": "adult-media-work",
+      "note": "Fabricated authorship, explicit commissions, care and shame recur in the early career account."
+    },
+    {
+      "to": "Paul-Reubens",
+      "note": "Public scandal becomes a point of identification and compassion rather than a celebrity anecdote alone."
+    },
+    {
+      "to": "Anthony-Bourdain",
+      "note": "Friendship, work addiction, suicide and posthumous storytelling are kept distinct from causal certainty."
+    },
+    {
+      "to": "workaholism",
+      "note": "Social praise can hide the same anticipation-compulsion-loss structure as gambling."
+    },
+    {
+      "to": "migrating-addiction",
+      "note": "Gambling, sex, pornography, work, art collecting and cards are described as interchangeable objects."
+    },
+    {
+      "to": "shame-cycle",
+      "note": "Exposure, humiliation, provocation and renewed output repeatedly reinforce one another."
+    },
+    {
+      "to": "memory-provenance",
+      "note": "Choe explicitly warns that dates, facts, performance and edited media reshape recollection."
+    },
+    {
+      "to": "claim-provenance",
+      "note": "Autobiography, allegation, diagnosis, metaphor, imitation and independent fact are separate evidence classes."
+    },
+    {
+      "to": "speaker-validation",
+      "note": "Generic turn marks cannot assign Huberman or Choe without held-out acoustic/video evidence."
+    },
+    {
+      "to": "publisher-boundaries",
+      "note": "Cold open, ads, outro, music, quotation and interview dialogue need distinct source roles."
+    },
+    {
+      "to": "consent-boundaries",
+      "note": "Sexual autobiography and allegations remain attributed and cannot become private-person search trails."
+    },
+    {
+      "to": "suicidality",
+      "note": "Self-harm, personal ideation, a parental threat and Bourdain commentary require contextual presentation."
+    },
+    {
+      "to": "posttraumatic-growth",
+      "note": "Growth is a research construct, not proof that trauma was beneficial or a disorder diagnosis."
+    },
+    {
+      "to": "family-repair",
+      "note": "Making amends and refusing intergenerational transmission replaces the earlier greatness prophecy."
+    },
+    {
+      "to": "friendship-intervention",
+      "note": "Friends become evidence of care when they confront behavior and help Choe enter treatment."
+    },
+    {
+      "to": "care-as-art",
+      "note": "The opening claim that invisible care makes art returns as a standard for relationships and recovery."
+    },
+    {
+      "to": "head-versus-heart",
+      "note": "Creative intuition is a recurring metaphor, not a neurological localization claim."
+    },
+    {
+      "to": "money-as-completed-game",
+      "note": "Financial victory is narrated as freedom and as proof that no external score resolves internal distress."
+    },
+    {
+      "to": "offensive-language",
+      "note": "Slurs and degrading descriptions remain searchable with context, not silently sanitized or highlighted as spectacle."
+    },
+    {
+      "to": "reader-product",
+      "note": "Search, Start Here, Works and readable source pages should expose evidence and uncertainty without turning the archive into a methodology dashboard."
+    }
   ],
-  "content_warnings":["childhood abuse","sexual abuse discussion","suicidal ideation","self-harm","parental murder-suicide threat","addiction","gambling","pornography","explicit sexual content","sex-work references","drug use","alcohol","incarceration","assault recollection","violence","violent threats","unsafe graffiti and train travel","theft","unsafe workplace fumes","eating-disorder language","purging","bodily-fluid detail","medical self-diagnosis","mental-health speculation","autism speculation","racial slurs","homophobic language","sexist language","ableist language","religious stereotyping","immigrant stereotypes","family poverty","war and famine","relationship harm","celebrity suicide","private-person allegations","graphic humiliation","publisher advertising"],
-  "publication_restrictions":[
-    {"t":0,"rule":"do not publish named turns from generic prefixes"},{"t":339,"rule":"verify uncertain skate/family entities before indexing"},{"t":576,"rule":"do not turn parasocial speculation into private relationship fact"},{"t":773,"rule":"protect private family and amends details"},{"t":910,"rule":"retain memory/date disclaimer beside Facebook claims"},{"t":1501,"rule":"do not infer unreleased-work contents"},{"t":1822,"rule":"keep abuse account attributed and avoid sensational excerpting"},{"t":1969,"rule":"do not present ethnic gambling stereotype as fact"},{"t":2189,"rule":"retain uncertainty around family war history"},{"t":2253,"rule":"present self-harm and pornography with context, not promotion"},{"t":2398,"rule":"separate participant memory from verified Facebook history"},{"t":2642,"rule":"do not collapse jail and prison or infer unverified charges"},{"t":2716,"rule":"keep employer grievances attributed"},{"t":2780,"rule":"fabricated bylines are not private identity leads"},{"t":2954,"rule":"retain offensive language without using it as navigation copy"},{"t":3128,"rule":"label AG1 block advertisement"},{"t":3653,"rule":"do not turn spray-paint recollection into safety guidance"},{"t":3844,"rule":"do not index uncertain early Facebook workers as confirmed participants"},{"t":4217,"rule":"do not operationalize trespass, train or evasion methods"},{"t":4282,"rule":"do not publish uncertain store identity"},{"t":4353,"rule":"preserve racialized encounter as attributed autobiography"},{"t":4573,"rule":"keep parental threat and dissociation together"},{"t":4686,"rule":"rights dispute remains attributed until contract/source review"},{"t":4780,"rule":"honor requested name masking"},{"t":4902,"rule":"do not present violent threat as acceptable dispute strategy"},{"t":5020,"rule":"label Function Health block advertisement"},{"t":5155,"rule":"do not convert dyslexia speculation to diagnosis"},{"t":5711,"rule":"public counselor spelling does not expose private treatment details"},{"t":5935,"rule":"do not present IBS self-diagnosis as medical fact"},{"t":6179,"rule":"do not isolate graphic degradation as promotional excerpt"},{"t":6194,"rule":"sexual-abuse question is not evidence of abuse"},{"t":6298,"rule":"do not present trauma-autism-genius theory as science"},{"t":6370,"rule":"protect current therapist, group and private treatment trails"},{"t":6719,"rule":"verify private gallery/collector names before indexing"},{"t":7202,"rule":"fabricated persona names must not become real-person entities"},{"t":7706,"rule":"label Matina block advertisement and disclosed ownership"},{"t":7767,"rule":"protect former relationship identity and health details"},{"t":7890,"rule":"retain contradictory car year rather than harmonizing it"},{"t":8196,"rule":"protect prisoners and at-risk youth identities"},{"t":8483,"rule":"do not assert uncertain Pokémon card edition"},{"t":8683,"rule":"do not expose gift or medical-product trail"},{"t":8996,"rule":"audience backlash is context, not proof of specific allegations"},{"t":9141,"rule":"do not turn Bourdain addiction interpretation into diagnosis"},{"t":9301,"rule":"released television context does not verify private production claims"},{"t":10700,"rule":"protect treatment facility and private intervention participants"},{"t":11240,"rule":"retain protective context around suicidal ideation"},{"t":13883,"rule":"label publisher outro and exclude from participant turns"}
-  ]
+  "content_warnings": [
+    "childhood abuse",
+    "sexual abuse discussion",
+    "suicidal ideation",
+    "self-harm",
+    "parental murder-suicide threat",
+    "addiction",
+    "gambling",
+    "pornography",
+    "explicit sexual content",
+    "sex-work references",
+    "drug use",
+    "alcohol",
+    "incarceration",
+    "assault recollection",
+    "violence",
+    "violent threats",
+    "unsafe graffiti and train travel",
+    "theft",
+    "unsafe workplace fumes",
+    "eating-disorder language",
+    "purging",
+    "bodily-fluid detail",
+    "medical self-diagnosis",
+    "mental-health speculation",
+    "autism speculation",
+    "racial slurs",
+    "homophobic language",
+    "sexist language",
+    "ableist language",
+    "religious stereotyping",
+    "immigrant stereotypes",
+    "family poverty",
+    "war and famine",
+    "relationship harm",
+    "celebrity suicide",
+    "private-person allegations",
+    "graphic humiliation",
+    "publisher advertising"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 0,
+      "rule": "do not publish named turns from generic prefixes"
+    },
+    {
+      "t": 339,
+      "rule": "verify uncertain skate/family entities before indexing"
+    },
+    {
+      "t": 576,
+      "rule": "do not turn parasocial speculation into private relationship fact"
+    },
+    {
+      "t": 773,
+      "rule": "protect private family and amends details"
+    },
+    {
+      "t": 910,
+      "rule": "retain memory/date disclaimer beside Facebook claims"
+    },
+    {
+      "t": 1501,
+      "rule": "do not infer unreleased-work contents"
+    },
+    {
+      "t": 1822,
+      "rule": "keep abuse account attributed and avoid sensational excerpting"
+    },
+    {
+      "t": 1969,
+      "rule": "do not present ethnic gambling stereotype as fact"
+    },
+    {
+      "t": 2189,
+      "rule": "retain uncertainty around family war history"
+    },
+    {
+      "t": 2253,
+      "rule": "present self-harm and pornography with context, not promotion"
+    },
+    {
+      "t": 2398,
+      "rule": "separate participant memory from verified Facebook history"
+    },
+    {
+      "t": 2642,
+      "rule": "do not collapse jail and prison or infer unverified charges"
+    },
+    {
+      "t": 2716,
+      "rule": "keep employer grievances attributed"
+    },
+    {
+      "t": 2780,
+      "rule": "fabricated bylines are not private identity leads"
+    },
+    {
+      "t": 2954,
+      "rule": "retain offensive language without using it as navigation copy"
+    },
+    {
+      "t": 3128,
+      "rule": "label AG1 block advertisement"
+    },
+    {
+      "t": 3653,
+      "rule": "do not turn spray-paint recollection into safety guidance"
+    },
+    {
+      "t": 3844,
+      "rule": "do not index uncertain early Facebook workers as confirmed participants"
+    },
+    {
+      "t": 4217,
+      "rule": "do not operationalize trespass, train or evasion methods"
+    },
+    {
+      "t": 4282,
+      "rule": "do not publish uncertain store identity"
+    },
+    {
+      "t": 4353,
+      "rule": "preserve racialized encounter as attributed autobiography"
+    },
+    {
+      "t": 4573,
+      "rule": "keep parental threat and dissociation together"
+    },
+    {
+      "t": 4686,
+      "rule": "rights dispute remains attributed until contract/source review"
+    },
+    {
+      "t": 4780,
+      "rule": "honor requested name masking"
+    },
+    {
+      "t": 4902,
+      "rule": "do not present violent threat as acceptable dispute strategy"
+    },
+    {
+      "t": 5020,
+      "rule": "label Function Health block advertisement"
+    },
+    {
+      "t": 5155,
+      "rule": "do not convert dyslexia speculation to diagnosis"
+    },
+    {
+      "t": 5711,
+      "rule": "public counselor spelling does not expose private treatment details"
+    },
+    {
+      "t": 5935,
+      "rule": "do not present IBS self-diagnosis as medical fact"
+    },
+    {
+      "t": 6179,
+      "rule": "do not isolate graphic degradation as promotional excerpt"
+    },
+    {
+      "t": 6194,
+      "rule": "sexual-abuse question is not evidence of abuse"
+    },
+    {
+      "t": 6298,
+      "rule": "do not present trauma-autism-genius theory as science"
+    },
+    {
+      "t": 6370,
+      "rule": "protect current therapist, group and private treatment trails"
+    },
+    {
+      "t": 6719,
+      "rule": "verify private gallery/collector names before indexing"
+    },
+    {
+      "t": 7202,
+      "rule": "fabricated persona names must not become real-person entities"
+    },
+    {
+      "t": 7706,
+      "rule": "label Matina block advertisement and disclosed ownership"
+    },
+    {
+      "t": 7767,
+      "rule": "protect former relationship identity and health details"
+    },
+    {
+      "t": 7890,
+      "rule": "retain contradictory car year rather than harmonizing it"
+    },
+    {
+      "t": 8196,
+      "rule": "protect prisoners and at-risk youth identities"
+    },
+    {
+      "t": 8483,
+      "rule": "do not assert uncertain Pokémon card edition"
+    },
+    {
+      "t": 8683,
+      "rule": "do not expose gift or medical-product trail"
+    },
+    {
+      "t": 8996,
+      "rule": "audience backlash is context, not proof of specific allegations"
+    },
+    {
+      "t": 9141,
+      "rule": "do not turn Bourdain addiction interpretation into diagnosis"
+    },
+    {
+      "t": 9301,
+      "rule": "released television context does not verify private production claims"
+    },
+    {
+      "t": 10700,
+      "rule": "protect treatment facility and private intervention participants"
+    },
+    {
+      "t": 11240,
+      "rule": "retain protective context around suicidal ideation"
+    },
+    {
+      "t": 13883,
+      "rule": "label publisher outro and exclude from participant turns"
+    }
+  ],
+  "people": [
+    "David Choe",
+    "Anthony Bourdain"
+  ],
+  "places": [
+    "Japan"
+  ],
+  "works": [
+    "The Choe Show",
+    "Thumbs Up!",
+    "Thumbs Up",
+    "Facebook",
+    "Friends",
+    "DVDASA",
+    "Shame",
+    "Vice",
+    "VICE"
+  ],
+  "themes": [
+    "David Choe interview or visual archive"
+  ],
+  "description": "A nearly four-hour conversation about compulsive motion: gambling, graffiti, travel, sex, work and danger as ways David Choe says he avoided sitting with himself.",
+  "description_source": "Opening of the human-reviewed summary."
 }

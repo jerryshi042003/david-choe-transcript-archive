@@ -18,147 +18,586 @@
   "sensitivity": "Childhood sexual behavior and intoxication; early methamphetamine use and rehabilitation; domestic and sibling violence; addiction and relapse; suicidal language immediately disclaimed; explicit sexual content; pornography and performer distress; surprise genital touching, escalation after hesitation, rape jokes, and sexual harassment; adult work and private client logistics; private partners and young audience participant; HIV and anatomy misinformation; racial, gender, sexuality, disability, body, age, and suicide stereotypes; genital cosmetic surgery pressure.",
   "speaker_policy": "Named dialogue remains withheld. Episode 69 has zero diarized turns and five coarse window embeddings for a multi-person episode. Context identifies public guests, but no independently held-out multispeaker test has passed and no name is inferred from transcript content.",
   "source_notes": [
-    {"claim": "Consent is voluntary, informed, specific, reversible, and must be present for each act; silence, hesitation, intoxication, and a prior yes are not permission", "source": "https://rainn.org/articles/what-is-consent", "use": "corrects surprise touching, escalation after hesitation, bodily-contact penalties, and performer-distress passages"},
-    {"claim": "Methamphetamine is highly addictive and can produce cardiovascular, neurological, dental, psychiatric, and overdose harms", "source": "https://nida.nih.gov/research-topics/methamphetamine-meth", "use": "rejects methamphetamine as childhood comedy or weight-loss advice"},
-    {"claim": "HIV can affect anyone with relevant exposure; condoms, PrEP, PEP, sterile injection equipment, testing, and effective treatment are prevention tools", "source": "https://www.cdc.gov/hiv/prevention/index.html", "use": "corrects the claim that Koreans cannot acquire HIV"},
-    {"claim": "Most condoms are highly effective against HIV and some other STIs when used correctly; lubricant reduces tearing risk", "source": "https://www.cdc.gov/hiv/prevention/condoms.html", "use": "corrects condomless-sex and anal-sex risk discussion"},
-    {"claim": "The hymen is not proof of virginity and virginity is not determined by hymenal appearance", "source": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/06/diagnosis-and-management-of-hymenal-variants", "use": "corrects 'legally still virgin' and hymen claims"},
-    {"claim": "Female genital appearance varies normally; cosmetic genital surgery can carry pain, scarring, altered sensation, and other risks and should not be driven by pressure", "source": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/01/elective-female-genital-cosmetic-surgery", "use": "corrects labial stereotypes and surgery pressure"},
-    {"claim": "Recovery is personal and may include clinical care, medication, peer and family support, faith, and self-care", "source": "https://www.samhsa.gov/substance-use/recovery/about", "use": "frames Bobby Lee's recovery testimony without prescribing one pathway"},
-    {"claim": "Child sexual behavior must be evaluated developmentally and in context; coercion, age or power differences, distress, and impairment are important warning signs", "source": "https://www.nctsn.org/resources/understanding-and-coping-sexual-behavior-problems-children-information-parents-and-caregivers", "use": "prevents adult sexual banter from becoming the framing for the childhood account"}
+    {
+      "claim": "Consent is voluntary, informed, specific, reversible, and must be present for each act; silence, hesitation, intoxication, and a prior yes are not permission",
+      "source": "https://rainn.org/articles/what-is-consent",
+      "use": "corrects surprise touching, escalation after hesitation, bodily-contact penalties, and performer-distress passages"
+    },
+    {
+      "claim": "Methamphetamine is highly addictive and can produce cardiovascular, neurological, dental, psychiatric, and overdose harms",
+      "source": "https://nida.nih.gov/research-topics/methamphetamine-meth",
+      "use": "rejects methamphetamine as childhood comedy or weight-loss advice"
+    },
+    {
+      "claim": "HIV can affect anyone with relevant exposure; condoms, PrEP, PEP, sterile injection equipment, testing, and effective treatment are prevention tools",
+      "source": "https://www.cdc.gov/hiv/prevention/index.html",
+      "use": "corrects the claim that Koreans cannot acquire HIV"
+    },
+    {
+      "claim": "Most condoms are highly effective against HIV and some other STIs when used correctly; lubricant reduces tearing risk",
+      "source": "https://www.cdc.gov/hiv/prevention/condoms.html",
+      "use": "corrects condomless-sex and anal-sex risk discussion"
+    },
+    {
+      "claim": "The hymen is not proof of virginity and virginity is not determined by hymenal appearance",
+      "source": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/06/diagnosis-and-management-of-hymenal-variants",
+      "use": "corrects 'legally still virgin' and hymen claims"
+    },
+    {
+      "claim": "Female genital appearance varies normally; cosmetic genital surgery can carry pain, scarring, altered sensation, and other risks and should not be driven by pressure",
+      "source": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/01/elective-female-genital-cosmetic-surgery",
+      "use": "corrects labial stereotypes and surgery pressure"
+    },
+    {
+      "claim": "Recovery is personal and may include clinical care, medication, peer and family support, faith, and self-care",
+      "source": "https://www.samhsa.gov/substance-use/recovery/about",
+      "use": "frames Bobby Lee's recovery testimony without prescribing one pathway"
+    },
+    {
+      "claim": "Child sexual behavior must be evaluated developmentally and in context; coercion, age or power differences, distress, and impairment are important warning signs",
+      "source": "https://www.nctsn.org/resources/understanding-and-coping-sexual-behavior-problems-children-information-parents-and-caregivers",
+      "use": "prevents adult sexual banter from becoming the framing for the childhood account"
+    }
   ],
   "chapters": [
-    {"t": 0.0, "title": "Bill Poon arrives before his introduction"},
-    {"t": 31.0, "title": "Bill Poon introduced"},
-    {"t": 90.0, "title": "The live show and a young audience participant"},
-    {"t": 170.0, "title": "Public participation versus permanent sexual indexing"},
-    {"t": 205.0, "title": "Driving and scheduling for adult workers"},
-    {"t": 330.0, "title": "Driver, not pimp or security"},
-    {"t": 470.0, "title": "Private clients and workers stay outside the index"},
-    {"t": 620.0, "title": "Bobby Lee joins"},
-    {"t": 710.0, "title": "Laugh Factory first meeting"},
-    {"t": 780.0, "title": "Asian-American performers and visibility"},
-    {"t": 840.0, "title": "Ken Jeong, Margaret Cho and Ali Wong"},
-    {"t": 900.0, "title": "Comedy and oppression claim challenged"},
-    {"t": 1010.0, "title": "A private former partner is triangulated"},
-    {"t": 1110.0, "title": "Identity clues withheld"},
-    {"t": 1200.0, "title": "Racial fetishization and dating"},
-    {"t": 1320.0, "title": "Bobby's imagined partner"},
-    {"t": 1440.0, "title": "Lifestyle, travel and recovery compatibility"},
-    {"t": 1560.0, "title": "Body and genital prediction myths"},
-    {"t": 1660.0, "title": "Virginity, pain and revocable consent"},
-    {"t": 1753.78, "title": "Extreme restriction and three cucumber slices"},
-    {"t": 1765.68, "title": "The negative-calorie myth"},
-    {"t": 1801.3, "title": "Hunger, sex and burned bridges"},
-    {"t": 1820.84, "title": "Suicidal language immediately disclaimed"},
-    {"t": 1834.62, "title": "Diet and exercise disagreement"},
-    {"t": 1880.4, "title": "Weight and comic identity"},
-    {"t": 1930.88, "title": "Chelsea Lately question"},
-    {"t": 1936.28, "title": "Childhood sexual behavior while intoxicated"},
-    {"t": 1966.5, "title": "The other child remains private"},
-    {"t": 2000.44, "title": "Behavior does not determine orientation"},
-    {"t": 2084.16, "title": "A one-time event and public disclosure"},
-    {"t": 2143.08, "title": "A childhood secret becomes entertainment"},
-    {"t": 2155.26, "title": "Methamphetamine use beginning around twelve"},
-    {"t": 2158.6, "title": "Two rehabilitation stays before seventeen"},
-    {"t": 2180.6, "title": "Family financial support"},
-    {"t": 2202.72, "title": "Brother's comedy ambitions"},
-    {"t": 2232.68, "title": "Adult sibling fights"},
-    {"t": 2360.0, "title": "Movie-theater conflict and bystander safety"},
-    {"t": 2520.0, "title": "Kitchen knives and escalation"},
-    {"t": 2700.0, "title": "Loyalty without romanticizing violence"},
-    {"t": 2850.0, "title": "Father's alcoholism and present sobriety"},
-    {"t": 3006.6, "title": "Childhood domestic violence"},
-    {"t": 3014.0, "title": "Mother runs into the children's room injured"},
-    {"t": 3020.0, "title": "Children barricade the door"},
-    {"t": 3027.44, "title": "Family testimony becomes an ethnic generalization"},
-    {"t": 3093.76, "title": "Immigration counterfactuals and stereotypes"},
-    {"t": 3118.64, "title": "Gangnam Style"},
-    {"t": 3136.58, "title": "A Tribe Called Quest and De La Soul"},
-    {"t": 3153.64, "title": "Velvet Underground, Pixies and Sonic Youth"},
-    {"t": 3163.74, "title": "Brother's wedding"},
-    {"t": 3250.0, "title": "Family emotion and private locations"},
-    {"t": 3400.0, "title": "Mission donation request and secrecy"},
-    {"t": 3520.0, "title": "Money, religion and family pressure"},
-    {"t": 3600.0, "title": "Drug seeking at a recovery-sensitive event"},
-    {"t": 3720.0, "title": "Alcohol and the pool"},
-    {"t": 3850.0, "title": "Relapse risk versus anecdote"},
-    {"t": 3980.0, "title": "Bobby's opioid and alcohol history"},
-    {"t": 4100.0, "title": "MADtv cruelty and relapse account"},
-    {"t": 4200.0, "title": "Bill Poon's former employment"},
-    {"t": 4300.0, "title": "Harassment allegation remains attributed"},
-    {"t": 4450.0, "title": "Residence and property withheld"},
-    {"t": 4580.0, "title": "Adult-work directories are not a user guide"},
-    {"t": 4700.0, "title": "Rates, clients and worker lists withheld"},
-    {"t": 4850.0, "title": "Bill's account of emotional support"},
-    {"t": 5050.0, "title": "Competing driver remains private"},
-    {"t": 5150.0, "title": "Asa hires Bill as a driver"},
-    {"t": 5280.0, "title": "Preparation, fiber and sexual-health limits"},
-    {"t": 5400.0, "title": "Work schedule and intimate details withheld"},
-    {"t": 5500.0, "title": "Friend-zone advice"},
-    {"t": 5570.0, "title": "Time and care do not earn sex"},
-    {"t": 5700.0, "title": "A private long-term romantic interest"},
-    {"t": 5850.0, "title": "Marriage, children and location withheld"},
-    {"t": 6000.0, "title": "Genital prediction myths return"},
-    {"t": 6100.0, "title": "Sex does not permanently loosen anatomy"},
-    {"t": 6200.0, "title": "Virginity is not a medical or legal status"},
-    {"t": 6235.0, "title": "Pornography and sexual dysfunction claim"},
-    {"t": 6400.0, "title": "Casting pornography and visible distress"},
-    {"t": 6480.0, "title": "Unexpected face hitting is not authenticity"},
-    {"t": 6560.0, "title": "Cast pushback and changing production norms"},
-    {"t": 6600.0, "title": "False Korean HIV-immunity claim"},
-    {"t": 6650.0, "title": "HIV and suicide stereotype rejected"},
-    {"t": 6760.0, "title": "Anal sex, lubrication and stopping for pain"},
-    {"t": 6900.0, "title": "Private performers and scenes stay private"},
-    {"t": 7000.0, "title": "Detroit encounter with a young adult"},
-    {"t": 7095.56, "title": "Separating a person from her group"},
-    {"t": 7180.08, "title": "Two hours of conversation"},
-    {"t": 7194.36, "title": "Nervousness and hesitation"},
-    {"t": 7212.94, "title": "Surprise genital touching hidden by euphemism"},
-    {"t": 7244.44, "title": "Age and power asymmetry challenged"},
-    {"t": 7281.54, "title": "A coercive response taxonomy"},
-    {"t": 7293.74, "title": "No means stop"},
-    {"t": 7330.12, "title": "Penetration cannot be used to overcome resistance"},
-    {"t": 7404.82, "title": "First-person experiences of racism"},
-    {"t": 7511.76, "title": "Racialized dating experiences"},
-    {"t": 7561.84, "title": "The unwanted-couple hierarchy rejected"},
-    {"t": 7611.0, "title": "Photo touching described as interest test"},
-    {"t": 7620.96, "title": "The cast names it sexual harassment"},
-    {"t": 7665.26, "title": "Meet-the-artist invitation"},
-    {"t": 7682.0, "title": "Guest asks how long the show runs"},
-    {"t": 7718.24, "title": "Exhaustion as a disclosure tactic"},
-    {"t": 7767.78, "title": "Trivia penalty and bodily consent"},
-    {"t": 7900.0, "title": "The Heart of the Matter"},
-    {"t": 8000.0, "title": "The Boys of Summer"},
-    {"t": 8100.0, "title": "The End of the Innocence"},
-    {"t": 8200.0, "title": "Pearl Harbor answer"},
-    {"t": 8300.0, "title": "Genital cosmetic-surgery pressure"},
-    {"t": 8420.0, "title": "Bobby's television and film work"},
-    {"t": 8550.0, "title": "Private worker and drug speculation withheld"},
-    {"t": 8650.0, "title": "Workplace conflict remains attributed"},
-    {"t": 8720.44, "title": "Camera sign-off"}
+    {
+      "t": 0,
+      "title": "Bill Poon arrives before his introduction"
+    },
+    {
+      "t": 31,
+      "title": "Bill Poon introduced"
+    },
+    {
+      "t": 90,
+      "title": "The live show and a young audience participant"
+    },
+    {
+      "t": 170,
+      "title": "Public participation versus permanent sexual indexing"
+    },
+    {
+      "t": 205,
+      "title": "Driving and scheduling for adult workers"
+    },
+    {
+      "t": 330,
+      "title": "Driver, not pimp or security"
+    },
+    {
+      "t": 470,
+      "title": "Private clients and workers stay outside the index"
+    },
+    {
+      "t": 620,
+      "title": "Bobby Lee joins"
+    },
+    {
+      "t": 710,
+      "title": "Laugh Factory first meeting"
+    },
+    {
+      "t": 780,
+      "title": "Asian-American performers and visibility"
+    },
+    {
+      "t": 840,
+      "title": "Ken Jeong, Margaret Cho and Ali Wong"
+    },
+    {
+      "t": 900,
+      "title": "Comedy and oppression claim challenged"
+    },
+    {
+      "t": 1010,
+      "title": "A private former partner is triangulated"
+    },
+    {
+      "t": 1110,
+      "title": "Identity clues withheld"
+    },
+    {
+      "t": 1200,
+      "title": "Racial fetishization and dating"
+    },
+    {
+      "t": 1320,
+      "title": "Bobby's imagined partner"
+    },
+    {
+      "t": 1440,
+      "title": "Lifestyle, travel and recovery compatibility"
+    },
+    {
+      "t": 1560,
+      "title": "Body and genital prediction myths"
+    },
+    {
+      "t": 1660,
+      "title": "Virginity, pain and revocable consent"
+    },
+    {
+      "t": 1753.78,
+      "title": "Extreme restriction and three cucumber slices"
+    },
+    {
+      "t": 1765.68,
+      "title": "The negative-calorie myth"
+    },
+    {
+      "t": 1801.3,
+      "title": "Hunger, sex and burned bridges"
+    },
+    {
+      "t": 1820.84,
+      "title": "Suicidal language immediately disclaimed"
+    },
+    {
+      "t": 1834.62,
+      "title": "Diet and exercise disagreement"
+    },
+    {
+      "t": 1880.4,
+      "title": "Weight and comic identity"
+    },
+    {
+      "t": 1930.88,
+      "title": "Chelsea Lately question"
+    },
+    {
+      "t": 1936.28,
+      "title": "Childhood sexual behavior while intoxicated"
+    },
+    {
+      "t": 1966.5,
+      "title": "The other child remains private"
+    },
+    {
+      "t": 2000.44,
+      "title": "Behavior does not determine orientation"
+    },
+    {
+      "t": 2084.16,
+      "title": "A one-time event and public disclosure"
+    },
+    {
+      "t": 2143.08,
+      "title": "A childhood secret becomes entertainment"
+    },
+    {
+      "t": 2155.26,
+      "title": "Methamphetamine use beginning around twelve"
+    },
+    {
+      "t": 2158.6,
+      "title": "Two rehabilitation stays before seventeen"
+    },
+    {
+      "t": 2180.6,
+      "title": "Family financial support"
+    },
+    {
+      "t": 2202.72,
+      "title": "Brother's comedy ambitions"
+    },
+    {
+      "t": 2232.68,
+      "title": "Adult sibling fights"
+    },
+    {
+      "t": 2360,
+      "title": "Movie-theater conflict and bystander safety"
+    },
+    {
+      "t": 2520,
+      "title": "Kitchen knives and escalation"
+    },
+    {
+      "t": 2700,
+      "title": "Loyalty without romanticizing violence"
+    },
+    {
+      "t": 2850,
+      "title": "Father's alcoholism and present sobriety"
+    },
+    {
+      "t": 3006.6,
+      "title": "Childhood domestic violence"
+    },
+    {
+      "t": 3014,
+      "title": "Mother runs into the children's room injured"
+    },
+    {
+      "t": 3020,
+      "title": "Children barricade the door"
+    },
+    {
+      "t": 3027.44,
+      "title": "Family testimony becomes an ethnic generalization"
+    },
+    {
+      "t": 3093.76,
+      "title": "Immigration counterfactuals and stereotypes"
+    },
+    {
+      "t": 3118.64,
+      "title": "Gangnam Style"
+    },
+    {
+      "t": 3136.58,
+      "title": "A Tribe Called Quest and De La Soul"
+    },
+    {
+      "t": 3153.64,
+      "title": "Velvet Underground, Pixies and Sonic Youth"
+    },
+    {
+      "t": 3163.74,
+      "title": "Brother's wedding"
+    },
+    {
+      "t": 3250,
+      "title": "Family emotion and private locations"
+    },
+    {
+      "t": 3400,
+      "title": "Mission donation request and secrecy"
+    },
+    {
+      "t": 3520,
+      "title": "Money, religion and family pressure"
+    },
+    {
+      "t": 3600,
+      "title": "Drug seeking at a recovery-sensitive event"
+    },
+    {
+      "t": 3720,
+      "title": "Alcohol and the pool"
+    },
+    {
+      "t": 3850,
+      "title": "Relapse risk versus anecdote"
+    },
+    {
+      "t": 3980,
+      "title": "Bobby's opioid and alcohol history"
+    },
+    {
+      "t": 4100,
+      "title": "MADtv cruelty and relapse account"
+    },
+    {
+      "t": 4200,
+      "title": "Bill Poon's former employment"
+    },
+    {
+      "t": 4300,
+      "title": "Harassment allegation remains attributed"
+    },
+    {
+      "t": 4450,
+      "title": "Residence and property withheld"
+    },
+    {
+      "t": 4580,
+      "title": "Adult-work directories are not a user guide"
+    },
+    {
+      "t": 4700,
+      "title": "Rates, clients and worker lists withheld"
+    },
+    {
+      "t": 4850,
+      "title": "Bill's account of emotional support"
+    },
+    {
+      "t": 5050,
+      "title": "Competing driver remains private"
+    },
+    {
+      "t": 5150,
+      "title": "Asa hires Bill as a driver"
+    },
+    {
+      "t": 5280,
+      "title": "Preparation, fiber and sexual-health limits"
+    },
+    {
+      "t": 5400,
+      "title": "Work schedule and intimate details withheld"
+    },
+    {
+      "t": 5500,
+      "title": "Friend-zone advice"
+    },
+    {
+      "t": 5570,
+      "title": "Time and care do not earn sex"
+    },
+    {
+      "t": 5700,
+      "title": "A private long-term romantic interest"
+    },
+    {
+      "t": 5850,
+      "title": "Marriage, children and location withheld"
+    },
+    {
+      "t": 6000,
+      "title": "Genital prediction myths return"
+    },
+    {
+      "t": 6100,
+      "title": "Sex does not permanently loosen anatomy"
+    },
+    {
+      "t": 6200,
+      "title": "Virginity is not a medical or legal status"
+    },
+    {
+      "t": 6235,
+      "title": "Pornography and sexual dysfunction claim"
+    },
+    {
+      "t": 6400,
+      "title": "Casting pornography and visible distress"
+    },
+    {
+      "t": 6480,
+      "title": "Unexpected face hitting is not authenticity"
+    },
+    {
+      "t": 6560,
+      "title": "Cast pushback and changing production norms"
+    },
+    {
+      "t": 6600,
+      "title": "False Korean HIV-immunity claim"
+    },
+    {
+      "t": 6650,
+      "title": "HIV and suicide stereotype rejected"
+    },
+    {
+      "t": 6760,
+      "title": "Anal sex, lubrication and stopping for pain"
+    },
+    {
+      "t": 6900,
+      "title": "Private performers and scenes stay private"
+    },
+    {
+      "t": 7000,
+      "title": "Detroit encounter with a young adult"
+    },
+    {
+      "t": 7095.56,
+      "title": "Separating a person from her group"
+    },
+    {
+      "t": 7180.08,
+      "title": "Two hours of conversation"
+    },
+    {
+      "t": 7194.36,
+      "title": "Nervousness and hesitation"
+    },
+    {
+      "t": 7212.94,
+      "title": "Surprise genital touching hidden by euphemism"
+    },
+    {
+      "t": 7244.44,
+      "title": "Age and power asymmetry challenged"
+    },
+    {
+      "t": 7281.54,
+      "title": "A coercive response taxonomy"
+    },
+    {
+      "t": 7293.74,
+      "title": "No means stop"
+    },
+    {
+      "t": 7330.12,
+      "title": "Penetration cannot be used to overcome resistance"
+    },
+    {
+      "t": 7404.82,
+      "title": "First-person experiences of racism"
+    },
+    {
+      "t": 7511.76,
+      "title": "Racialized dating experiences"
+    },
+    {
+      "t": 7561.84,
+      "title": "The unwanted-couple hierarchy rejected"
+    },
+    {
+      "t": 7611,
+      "title": "Photo touching described as interest test"
+    },
+    {
+      "t": 7620.96,
+      "title": "The cast names it sexual harassment"
+    },
+    {
+      "t": 7665.26,
+      "title": "Meet-the-artist invitation"
+    },
+    {
+      "t": 7682,
+      "title": "Guest asks how long the show runs"
+    },
+    {
+      "t": 7718.24,
+      "title": "Exhaustion as a disclosure tactic"
+    },
+    {
+      "t": 7767.78,
+      "title": "Trivia penalty and bodily consent"
+    },
+    {
+      "t": 7900,
+      "title": "The Heart of the Matter"
+    },
+    {
+      "t": 8000,
+      "title": "The Boys of Summer"
+    },
+    {
+      "t": 8100,
+      "title": "The End of the Innocence"
+    },
+    {
+      "t": 8200,
+      "title": "Pearl Harbor answer"
+    },
+    {
+      "t": 8300,
+      "title": "Genital cosmetic-surgery pressure"
+    },
+    {
+      "t": 8420,
+      "title": "Bobby's television and film work"
+    },
+    {
+      "t": 8550,
+      "title": "Private worker and drug speculation withheld"
+    },
+    {
+      "t": 8650,
+      "title": "Workplace conflict remains attributed"
+    },
+    {
+      "t": 8720.44,
+      "title": "Camera sign-off"
+    }
   ],
   "connections": [
-    {"from": 90, "to": "nonparticipant privacy ledger", "relationship": "A young audience participant's public-mic disclosure does not authorize a permanent sexual dossier"},
-    {"from": 205, "to": "adult-work labor ledger", "relationship": "Bill distinguishes driving and scheduling from pimping or security"},
-    {"from": 1010, "to": "weak-pseudonym harm", "relationship": "Identity is reconstructed through relational clues, repeating the privacy failure admitted in Episode 68"},
-    {"from": 1936, "to": "childhood disclosure ledger", "relationship": "A sensitive childhood account is converted into adult sexual banter; the editorial layer restores developmental context"},
-    {"from": 2155, "to": "recovery timeline", "relationship": "Bobby dates methamphetamine use to childhood and reports two rehabilitation stays before seventeen"},
-    {"from": 2232, "to": "family-violence timeline", "relationship": "Adult sibling violence is held beside loyalty rather than treated as proof that violence is harmless"},
-    {"from": 3006, "to": "family-violence timeline", "relationship": "The childhood barricade account adds direct domestic-violence testimony"},
-    {"from": 3027, "to": "representation ledger", "relationship": "A specific family account is immediately generalized to Korean parents"},
-    {"from": 3600, "to": "recovery timeline", "relationship": "A family wedding becomes a setting for alcohol use and attempted drug seeking"},
-    {"from": 4100, "to": "workplace-harm ledger", "relationship": "Bobby connects a producer's cruel remark to relapse and later describes forgiveness"},
-    {"from": 4200, "to": "Giant Robot history", "relationship": "Bill gives an attributed account of prior employment and firing; it is not independently adjudicated"},
-    {"from": 5150, "to": "DVDASA labor timeline", "relationship": "Asa describes Bill's first day driving her to the show and his calming presence"},
-    {"from": 5500, "to": "consent ledger", "relationship": "Persistence and care are framed as a strategy for eventual sex; the correction rejects entitlement"},
-    {"from": 6400, "to": "performer-consent ledger", "relationship": "Visible doubt and pain are described as desirable authenticity while another cast member notes industry movement away from face hitting"},
-    {"from": 6600, "to": "health-misinformation ledger", "relationship": "The false HIV-immunity claim is corrected with CDC prevention evidence"},
-    {"from": 7212, "to": "consent ledger", "relationship": "A euphemism obscures surprise genital touching during a young adult's hesitation"},
-    {"from": 7293, "to": "consent ledger", "relationship": "The episode explicitly states 'no means yes'; the archival layer preserves and rejects it"},
-    {"from": 7611, "to": "consent ledger", "relationship": "Nonconsensual touching during fan photos is proposed as a way to test interest and then named as harassment"},
-    {"from": 7718, "to": "guest publication-consent ledger", "relationship": "The cast openly describes hunger and exhaustion as tools for extracting disclosure"},
-    {"from": 7767, "to": "consent ledger", "relationship": "The guest initially declines a bodily-contact penalty but is told participation is mandatory"}
+    {
+      "from": 90,
+      "to": "nonparticipant privacy ledger",
+      "relationship": "A young audience participant's public-mic disclosure does not authorize a permanent sexual dossier"
+    },
+    {
+      "from": 205,
+      "to": "adult-work labor ledger",
+      "relationship": "Bill distinguishes driving and scheduling from pimping or security"
+    },
+    {
+      "from": 1010,
+      "to": "weak-pseudonym harm",
+      "relationship": "Identity is reconstructed through relational clues, repeating the privacy failure admitted in Episode 68"
+    },
+    {
+      "from": 1936,
+      "to": "childhood disclosure ledger",
+      "relationship": "A sensitive childhood account is converted into adult sexual banter; the editorial layer restores developmental context"
+    },
+    {
+      "from": 2155,
+      "to": "recovery timeline",
+      "relationship": "Bobby dates methamphetamine use to childhood and reports two rehabilitation stays before seventeen"
+    },
+    {
+      "from": 2232,
+      "to": "family-violence timeline",
+      "relationship": "Adult sibling violence is held beside loyalty rather than treated as proof that violence is harmless"
+    },
+    {
+      "from": 3006,
+      "to": "family-violence timeline",
+      "relationship": "The childhood barricade account adds direct domestic-violence testimony"
+    },
+    {
+      "from": 3027,
+      "to": "representation ledger",
+      "relationship": "A specific family account is immediately generalized to Korean parents"
+    },
+    {
+      "from": 3600,
+      "to": "recovery timeline",
+      "relationship": "A family wedding becomes a setting for alcohol use and attempted drug seeking"
+    },
+    {
+      "from": 4100,
+      "to": "workplace-harm ledger",
+      "relationship": "Bobby connects a producer's cruel remark to relapse and later describes forgiveness"
+    },
+    {
+      "from": 4200,
+      "to": "Giant Robot history",
+      "relationship": "Bill gives an attributed account of prior employment and firing; it is not independently adjudicated"
+    },
+    {
+      "from": 5150,
+      "to": "DVDASA labor timeline",
+      "relationship": "Asa describes Bill's first day driving her to the show and his calming presence"
+    },
+    {
+      "from": 5500,
+      "to": "consent ledger",
+      "relationship": "Persistence and care are framed as a strategy for eventual sex; the correction rejects entitlement"
+    },
+    {
+      "from": 6400,
+      "to": "performer-consent ledger",
+      "relationship": "Visible doubt and pain are described as desirable authenticity while another cast member notes industry movement away from face hitting"
+    },
+    {
+      "from": 6600,
+      "to": "health-misinformation ledger",
+      "relationship": "The false HIV-immunity claim is corrected with CDC prevention evidence"
+    },
+    {
+      "from": 7212,
+      "to": "consent ledger",
+      "relationship": "A euphemism obscures surprise genital touching during a young adult's hesitation"
+    },
+    {
+      "from": 7293,
+      "to": "consent ledger",
+      "relationship": "The episode explicitly states 'no means yes'; the archival layer preserves and rejects it"
+    },
+    {
+      "from": 7611,
+      "to": "consent ledger",
+      "relationship": "Nonconsensual touching during fan photos is proposed as a way to test interest and then named as harassment"
+    },
+    {
+      "from": 7718,
+      "to": "guest publication-consent ledger",
+      "relationship": "The cast openly describes hunger and exhaustion as tools for extracting disclosure"
+    },
+    {
+      "from": 7767,
+      "to": "consent ledger",
+      "relationship": "The guest initially declines a bodily-contact penalty but is told participation is mandatory"
+    }
   ],
   "content_warnings": [
     "childhood sexual behavior and intoxication",
@@ -179,5 +618,18 @@
     "racial, gender, sexuality and disability slurs",
     "body and age stereotypes",
     "genital cosmetic-surgery pressure"
-  ]
+  ],
+  "people": [
+    "David Choe",
+    "Bill Poon",
+    "Bobby Lee"
+  ],
+  "places": [],
+  "works": [],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Bill Poon is introduced through his work driving and scheduling for adult workers, then Bobby Lee joins for an unusually long conversation that ranges across Asian-American representation, comedy, recovery, childhood drug use and sexual behavior, domestic violence, family loyalty, pornography, sex work, friendship, racism, and consent.",
+  "description_source": "Opening of the human-reviewed summary."
 }

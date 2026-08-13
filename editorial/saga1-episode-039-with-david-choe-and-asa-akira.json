@@ -1,175 +1,696 @@
 {
   "summary": "Episode 039 returns after a three-week break with Johnny Bravo, an old New York friend of David Choe who uses an on-air alias. Money Mark, Asa Akira, Valentin, and Bobby Namba are present; Critter is away in Idaho. David credits Critter's constant companionship with helping him remain away from gambling, but that remains personal recovery testimony rather than clinical causation. Johnny recalls Vassar student radio and its Howard Stern influence. Vassar's sexual culture is generalized by the room even though the college has been coeducational since 1969. Johnny's legal identity, former law-related work, divorce practice, spouse, children, and clients remain private. The first half tests honesty in intimate relationships. A married man's line about having only one true wife is recognized as both romantic performance and contingency planning. David says he verbally rejects commitment while behaving like a boyfriend; Johnny's lawyer analogy exposes the contradiction between disclaimer and conduct. Claims that nearly every former partner returns remain an unverifiable boast, not relationship guidance. Cultural claims about Jewish and Asian marriage pressure remain attributed. Discussion of racialized pornography, Desiree and Naughty at Home, and extended masturbation remains first-person or public-work context, not sexual-health advice. David then tells a second-hand story about Critter receiving unwanted touching at a party; Critter is absent, so consent and context cannot be resolved. An anonymous Korean-spa forum similarly does not prove conduct or orientation. Asa describes directing gonzo adult scenes with London Keyes and James Deen and says visible blood stops a scene. That is workplace testimony, not a universal production protocol. The bowel-humor middle contains recurrent incontinence, rectal bleeding, and gastrointestinal pain from David and Bobby. Private partners, coworkers, and friends remain unindexed, and potentially serious symptoms are not normalized by the comedy. The episode provides a crucial chronology update: David reports that he and Harry Kim have now completed the three-week *Thumbs Up!* trip announced in Episode 037, traveling from San Francisco to New York. He describes comparing travel exhaustion with Anthony Bourdain, then eating with Bourdain and filming at Momofuku with David Chang. Artichoke Basille's Pizza, Milk Bar, Crack Pie, Blue Ribbon, and Blue Ribbon Sushi form a New York food path. Claims about Bourdain's private distress remain attributed; an unsupported Roman-Empire analogy is not history; vomiting blood after extreme eating is not treated as ordinary. The closing trivia repairs Journey's “Faithfully,” “Open Arms,” and “Don't Stop Believin'”; *A Few Good Men*, PFC William Santiago, Dawson and Downey, and Code Red; and *American Psycho*, Whitney Houston, Genesis, Phil Collins, Huey Lewis and the News, and “The Lady in Red.” Live wrong answers remain part of the record. Film discussion repairs *World War Z*, *This Is the End*, *Man of Steel*, and *Fast & Furious 6*. The cast's incorrect ethnicity and orientation speculation about Justin Lin, plus repeated John Travolta and Richard Gere rumors, stays clearly unverified. All 3,108 spoken segments survive cleaning; five empty zero-duration artifacts are removed. Forty-nine contextual decisions, 147 chapters, twenty connections, and 2,132 fixed-window identity embeddings are available. Named dialogue remains withheld.",
   "chapters": [
-    {"t": 7, "title": "DVDASA returns after three weeks"},
-    {"t": 28, "title": "Johnny Bravo joins under an on-air alias"},
-    {"t": 35, "title": "Money Mark and Valentin are in the room"},
-    {"t": 55, "title": "Critter is away in Idaho"},
-    {"t": 84, "title": "David returns exhausted from the road"},
-    {"t": 100, "title": "A year and a half away from gambling"},
-    {"t": 124, "title": "Critter's companionship becomes recovery structure"},
-    {"t": 162, "title": "The road trip can now be discussed"},
-    {"t": 176, "title": "Johnny and David's New York friendship"},
-    {"t": 185, "title": "Student radio at Vassar"},
-    {"t": 188, "title": "Vassar is incorrectly called an all-women's college"},
-    {"t": 196, "title": "Sexual culture becomes stereotype"},
-    {"t": 216, "title": "Trying less changes Johnny's dating life"},
-    {"t": 250, "title": "A Howard Stern imitation fails"},
-    {"t": 275, "title": "Removing pants on student radio"},
-    {"t": 285, "title": "A private listener uses the alias Chucky Blue"},
-    {"t": 296, "title": "Johnny is married with children"},
-    {"t": 304, "title": "Legoland precedes the recording"},
-    {"t": 316, "title": "A newly single private friend"},
-    {"t": 339, "title": "Verbal honesty is framed as honorable"},
-    {"t": 372, "title": "The one-wife line"},
-    {"t": 410, "title": "Johnny denies an open relationship"},
-    {"t": 431, "title": "A married man tests romantic rhetoric"},
-    {"t": 452, "title": "The same line after divorce"},
-    {"t": 476, "title": "Romance becomes competition"},
-    {"t": 486, "title": "A sexual challenge supplies the analogy"},
-    {"t": 532, "title": "A release-waiver joke"},
-    {"t": 548, "title": "Wedding rings and attraction"},
-    {"t": 576, "title": "Tears for Fears and Sowing the Seeds of Love"},
-    {"t": 590, "title": "Contingency planning is called investment"},
-    {"t": 610, "title": "A cousin makes a high-school investment"},
-    {"t": 650, "title": "A private classmate's body becomes prediction"},
-    {"t": 720, "title": "David revisits honesty across relationships"},
-    {"t": 760, "title": "Withholding becomes a form of lying"},
-    {"t": 800, "title": "Brutal honesty also fails"},
-    {"t": 830, "title": "Honesty with a few secrets"},
-    {"t": 880, "title": "Privacy, white lies, and support"},
-    {"t": 930, "title": "Cruel honesty is not constructive"},
-    {"t": 960, "title": "Johnny challenges David's justification"},
-    {"t": 990, "title": "A former law-related career remains private"},
-    {"t": 1010, "title": "The fugitive-friend hypothetical"},
-    {"t": 1050, "title": "Legal help is separated from concealment"},
-    {"t": 1080, "title": "Divorce practice enters"},
-    {"t": 1120, "title": "Children make divorce work harder"},
-    {"t": 1150, "title": "Asa recalls a simple young divorce"},
-    {"t": 1170, "title": "We the People and DeVry"},
-    {"t": 1200, "title": "Age changes the meaning of divorce"},
-    {"t": 1260, "title": "Remarrying a former spouse"},
-    {"t": 1300, "title": "Divorce statistics remain unsourced"},
-    {"t": 1340, "title": "Eight years without a steady relationship"},
-    {"t": 1390, "title": "A six-month exception"},
-    {"t": 1440, "title": "Words reject commitment while conduct creates it"},
-    {"t": 1480, "title": "Cuddling, texting, and meeting family"},
-    {"t": 1520, "title": "Feelings survive the disclaimer"},
-    {"t": 1560, "title": "The not-a-lawyer analogy"},
-    {"t": 1600, "title": "Performance contradicts the label"},
-    {"t": 1640, "title": "David says he avoids attachment"},
-    {"t": 1680, "title": "Former partners supposedly return"},
-    {"t": 1720, "title": "One hundred percent becomes ninety-nine"},
-    {"t": 1760, "title": "A second-round disclosure is proposed"},
-    {"t": 1800, "title": "Bobby performs David"},
-    {"t": 1840, "title": "Tahiti and Gucci remain improvisation"},
-    {"t": 1900, "title": "Money is called the ultimate lie"},
-    {"t": 1940, "title": "A promised trip never occurred"},
-    {"t": 1980, "title": "Some partners choose pleasant deception"},
-    {"t": 2040, "title": "Does the cycle ever end?"},
-    {"t": 2080, "title": "Marriage pressure becomes cultural stereotype"},
-    {"t": 2140, "title": "Life refuses a finished summit"},
-    {"t": 2180, "title": "Johnny argues some marriages reach it"},
-    {"t": 2230, "title": "Valentin supplies the simple answer"},
-    {"t": 2280, "title": "Johnny's parents model difficult commitment"},
-    {"t": 2320, "title": "Blacks on Blondes enters the history"},
-    {"t": 2400, "title": "Marriage and pornography are separated"},
-    {"t": 2440, "title": "Desiree and Naughty at Home"},
-    {"t": 2500, "title": "Awkward performance becomes intimacy"},
-    {"t": 2640, "title": "David describes hours-long pornography sessions"},
-    {"t": 2680, "title": "Asa describes repeated masturbation without video"},
-    {"t": 2720, "title": "A dream about unwanted touching"},
-    {"t": 2760, "title": "Critter's second-hand party story"},
-    {"t": 2800, "title": "One free touch becomes a bad joke"},
-    {"t": 2860, "title": "Context and threat are debated"},
-    {"t": 2890, "title": "A Korean-spa forum"},
-    {"t": 2960, "title": "Consent cannot be inferred from setting"},
-    {"t": 3000, "title": "The Cronut phenomenon"},
-    {"t": 3070, "title": "Krispy Kreme and pad see ew"},
-    {"t": 3120, "title": "Asa directs an Asian adult scene"},
-    {"t": 3150, "title": "London Keyes and James Deen"},
-    {"t": 3180, "title": "Visible blood stops a scene"},
-    {"t": 3240, "title": "New York heat and the ass napkin"},
-    {"t": 3310, "title": "The Strand Book Store bathroom"},
-    {"t": 3400, "title": "Recurrent bowel urgency"},
-    {"t": 3480, "title": "Rectal bleeding stains a bed"},
-    {"t": 3530, "title": "A private partner suspects another explanation"},
-    {"t": 3600, "title": "Bobby's Redondo Beach boat story"},
-    {"t": 3670, "title": "He reaches the bathroom too late"},
-    {"t": 3740, "title": "Underwear becomes an improvised towel"},
-    {"t": 3800, "title": "The gathering ends immediately"},
-    {"t": 3840, "title": "A private friend grabs Bobby"},
-    {"t": 3890, "title": "Palm Springs bodies remain private"},
-    {"t": 3960, "title": "David disputes what counts as making it"},
-    {"t": 4050, "title": "A public toilet accident"},
-    {"t": 4120, "title": "The show returns to adult directing"},
-    {"t": 4200, "title": "Gonzo means unscripted adult production"},
-    {"t": 4240, "title": "Asa describes casting and location choices"},
-    {"t": 4280, "title": "The performer chooses the final act"},
-    {"t": 4320, "title": "Anthony Bourdain as an imagined mentor"},
-    {"t": 4360, "title": "Thumbs Up! crosses San Francisco to New York"},
-    {"t": 4400, "title": "Travel production creates exhaustion"},
-    {"t": 4440, "title": "Bourdain's private distress remains attributed"},
-    {"t": 4480, "title": "Action and adventure justify the road"},
-    {"t": 4510, "title": "Artichoke Basille's Pizza"},
-    {"t": 4530, "title": "Momofuku with David Chang"},
-    {"t": 4570, "title": "Milk Bar and Crack Pie after a full meal"},
-    {"t": 4620, "title": "David vomits through Second Avenue"},
-    {"t": 4660, "title": "Vomiting blood is not a punchline diagnosis"},
-    {"t": 4700, "title": "Blue Ribbon Sushi begins a second meal"},
-    {"t": 4760, "title": "Excess becomes self-disgust"},
-    {"t": 4840, "title": "Unsupported underwear-health claims"},
-    {"t": 4900, "title": "A private photo and unexplained blood"},
-    {"t": 4980, "title": "Incontinence frequency becomes alarming"},
-    {"t": 5070, "title": "Self-reported IBS remains non-clinical"},
-    {"t": 5130, "title": "A nutritionist is recalled"},
-    {"t": 5160, "title": "Trivia with Bobby begins"},
-    {"t": 5190, "title": "Journey's Faithfully"},
-    {"t": 5250, "title": "Open Arms"},
-    {"t": 5280, "title": "Don't Stop Believin'"},
-    {"t": 5400, "title": "The Palm Springs exclusion returns"},
-    {"t": 5480, "title": "New York smell and Chinatown stereotypes"},
-    {"t": 5550, "title": "A pre-Giuliani Times Square memory"},
-    {"t": 5620, "title": "Brad Pitt receives Bobby's apology"},
-    {"t": 5700, "title": "Actors are ranked for work and attraction"},
-    {"t": 5760, "title": "World War Z and This Is the End"},
-    {"t": 5790, "title": "Man of Steel disappoints"},
-    {"t": 5810, "title": "Fast & Furious 6 and Justin Lin"},
-    {"t": 5840, "title": "Ethnicity and orientation are wrongly inferred"},
-    {"t": 5880, "title": "Travolta and Gere rumors return"},
-    {"t": 5920, "title": "Wicked and Defying Gravity"},
-    {"t": 5960, "title": "Television replaces the two-hour movie"},
-    {"t": 6000, "title": "A Few Good Men is performed"},
-    {"t": 6060, "title": "Santiago, Dawson, Downey, and Code Red"},
-    {"t": 6160, "title": "American Psycho breaks the tie"},
-    {"t": 6200, "title": "Whitney Houston and Phil Collins"},
-    {"t": 6250, "title": "Huey Lewis and The Lady in Red"},
-    {"t": 6290, "title": "Business cards decide the game"},
-    {"t": 6320, "title": "Bobby's ear becomes the final punishment"},
-    {"t": 6350, "title": "Johnny stays for another episode"},
-    {"t": 6370, "title": "The standard DVDASA outro"}
+    {
+      "t": 7,
+      "title": "DVDASA returns after three weeks"
+    },
+    {
+      "t": 28,
+      "title": "Johnny Bravo joins under an on-air alias"
+    },
+    {
+      "t": 35,
+      "title": "Money Mark and Valentin are in the room"
+    },
+    {
+      "t": 55,
+      "title": "Critter is away in Idaho"
+    },
+    {
+      "t": 84,
+      "title": "David returns exhausted from the road"
+    },
+    {
+      "t": 100,
+      "title": "A year and a half away from gambling"
+    },
+    {
+      "t": 124,
+      "title": "Critter's companionship becomes recovery structure"
+    },
+    {
+      "t": 162,
+      "title": "The road trip can now be discussed"
+    },
+    {
+      "t": 176,
+      "title": "Johnny and David's New York friendship"
+    },
+    {
+      "t": 185,
+      "title": "Student radio at Vassar"
+    },
+    {
+      "t": 188,
+      "title": "Vassar is incorrectly called an all-women's college"
+    },
+    {
+      "t": 196,
+      "title": "Sexual culture becomes stereotype"
+    },
+    {
+      "t": 216,
+      "title": "Trying less changes Johnny's dating life"
+    },
+    {
+      "t": 250,
+      "title": "A Howard Stern imitation fails"
+    },
+    {
+      "t": 275,
+      "title": "Removing pants on student radio"
+    },
+    {
+      "t": 285,
+      "title": "A private listener uses the alias Chucky Blue"
+    },
+    {
+      "t": 296,
+      "title": "Johnny is married with children"
+    },
+    {
+      "t": 304,
+      "title": "Legoland precedes the recording"
+    },
+    {
+      "t": 316,
+      "title": "A newly single private friend"
+    },
+    {
+      "t": 339,
+      "title": "Verbal honesty is framed as honorable"
+    },
+    {
+      "t": 372,
+      "title": "The one-wife line"
+    },
+    {
+      "t": 410,
+      "title": "Johnny denies an open relationship"
+    },
+    {
+      "t": 431,
+      "title": "A married man tests romantic rhetoric"
+    },
+    {
+      "t": 452,
+      "title": "The same line after divorce"
+    },
+    {
+      "t": 476,
+      "title": "Romance becomes competition"
+    },
+    {
+      "t": 486,
+      "title": "A sexual challenge supplies the analogy"
+    },
+    {
+      "t": 532,
+      "title": "A release-waiver joke"
+    },
+    {
+      "t": 548,
+      "title": "Wedding rings and attraction"
+    },
+    {
+      "t": 576,
+      "title": "Tears for Fears and Sowing the Seeds of Love"
+    },
+    {
+      "t": 590,
+      "title": "Contingency planning is called investment"
+    },
+    {
+      "t": 610,
+      "title": "A cousin makes a high-school investment"
+    },
+    {
+      "t": 650,
+      "title": "A private classmate's body becomes prediction"
+    },
+    {
+      "t": 720,
+      "title": "David revisits honesty across relationships"
+    },
+    {
+      "t": 760,
+      "title": "Withholding becomes a form of lying"
+    },
+    {
+      "t": 800,
+      "title": "Brutal honesty also fails"
+    },
+    {
+      "t": 830,
+      "title": "Honesty with a few secrets"
+    },
+    {
+      "t": 880,
+      "title": "Privacy, white lies, and support"
+    },
+    {
+      "t": 930,
+      "title": "Cruel honesty is not constructive"
+    },
+    {
+      "t": 960,
+      "title": "Johnny challenges David's justification"
+    },
+    {
+      "t": 990,
+      "title": "A former law-related career remains private"
+    },
+    {
+      "t": 1010,
+      "title": "The fugitive-friend hypothetical"
+    },
+    {
+      "t": 1050,
+      "title": "Legal help is separated from concealment"
+    },
+    {
+      "t": 1080,
+      "title": "Divorce practice enters"
+    },
+    {
+      "t": 1120,
+      "title": "Children make divorce work harder"
+    },
+    {
+      "t": 1150,
+      "title": "Asa recalls a simple young divorce"
+    },
+    {
+      "t": 1170,
+      "title": "We the People and DeVry"
+    },
+    {
+      "t": 1200,
+      "title": "Age changes the meaning of divorce"
+    },
+    {
+      "t": 1260,
+      "title": "Remarrying a former spouse"
+    },
+    {
+      "t": 1300,
+      "title": "Divorce statistics remain unsourced"
+    },
+    {
+      "t": 1340,
+      "title": "Eight years without a steady relationship"
+    },
+    {
+      "t": 1390,
+      "title": "A six-month exception"
+    },
+    {
+      "t": 1440,
+      "title": "Words reject commitment while conduct creates it"
+    },
+    {
+      "t": 1480,
+      "title": "Cuddling, texting, and meeting family"
+    },
+    {
+      "t": 1520,
+      "title": "Feelings survive the disclaimer"
+    },
+    {
+      "t": 1560,
+      "title": "The not-a-lawyer analogy"
+    },
+    {
+      "t": 1600,
+      "title": "Performance contradicts the label"
+    },
+    {
+      "t": 1640,
+      "title": "David says he avoids attachment"
+    },
+    {
+      "t": 1680,
+      "title": "Former partners supposedly return"
+    },
+    {
+      "t": 1720,
+      "title": "One hundred percent becomes ninety-nine"
+    },
+    {
+      "t": 1760,
+      "title": "A second-round disclosure is proposed"
+    },
+    {
+      "t": 1800,
+      "title": "Bobby performs David"
+    },
+    {
+      "t": 1840,
+      "title": "Tahiti and Gucci remain improvisation"
+    },
+    {
+      "t": 1900,
+      "title": "Money is called the ultimate lie"
+    },
+    {
+      "t": 1940,
+      "title": "A promised trip never occurred"
+    },
+    {
+      "t": 1980,
+      "title": "Some partners choose pleasant deception"
+    },
+    {
+      "t": 2040,
+      "title": "Does the cycle ever end?"
+    },
+    {
+      "t": 2080,
+      "title": "Marriage pressure becomes cultural stereotype"
+    },
+    {
+      "t": 2140,
+      "title": "Life refuses a finished summit"
+    },
+    {
+      "t": 2180,
+      "title": "Johnny argues some marriages reach it"
+    },
+    {
+      "t": 2230,
+      "title": "Valentin supplies the simple answer"
+    },
+    {
+      "t": 2280,
+      "title": "Johnny's parents model difficult commitment"
+    },
+    {
+      "t": 2320,
+      "title": "Blacks on Blondes enters the history"
+    },
+    {
+      "t": 2400,
+      "title": "Marriage and pornography are separated"
+    },
+    {
+      "t": 2440,
+      "title": "Desiree and Naughty at Home"
+    },
+    {
+      "t": 2500,
+      "title": "Awkward performance becomes intimacy"
+    },
+    {
+      "t": 2640,
+      "title": "David describes hours-long pornography sessions"
+    },
+    {
+      "t": 2680,
+      "title": "Asa describes repeated masturbation without video"
+    },
+    {
+      "t": 2720,
+      "title": "A dream about unwanted touching"
+    },
+    {
+      "t": 2760,
+      "title": "Critter's second-hand party story"
+    },
+    {
+      "t": 2800,
+      "title": "One free touch becomes a bad joke"
+    },
+    {
+      "t": 2860,
+      "title": "Context and threat are debated"
+    },
+    {
+      "t": 2890,
+      "title": "A Korean-spa forum"
+    },
+    {
+      "t": 2960,
+      "title": "Consent cannot be inferred from setting"
+    },
+    {
+      "t": 3000,
+      "title": "The Cronut phenomenon"
+    },
+    {
+      "t": 3070,
+      "title": "Krispy Kreme and pad see ew"
+    },
+    {
+      "t": 3120,
+      "title": "Asa directs an Asian adult scene"
+    },
+    {
+      "t": 3150,
+      "title": "London Keyes and James Deen"
+    },
+    {
+      "t": 3180,
+      "title": "Visible blood stops a scene"
+    },
+    {
+      "t": 3240,
+      "title": "New York heat and the ass napkin"
+    },
+    {
+      "t": 3310,
+      "title": "The Strand Book Store bathroom"
+    },
+    {
+      "t": 3400,
+      "title": "Recurrent bowel urgency"
+    },
+    {
+      "t": 3480,
+      "title": "Rectal bleeding stains a bed"
+    },
+    {
+      "t": 3530,
+      "title": "A private partner suspects another explanation"
+    },
+    {
+      "t": 3600,
+      "title": "Bobby's Redondo Beach boat story"
+    },
+    {
+      "t": 3670,
+      "title": "He reaches the bathroom too late"
+    },
+    {
+      "t": 3740,
+      "title": "Underwear becomes an improvised towel"
+    },
+    {
+      "t": 3800,
+      "title": "The gathering ends immediately"
+    },
+    {
+      "t": 3840,
+      "title": "A private friend grabs Bobby"
+    },
+    {
+      "t": 3890,
+      "title": "Palm Springs bodies remain private"
+    },
+    {
+      "t": 3960,
+      "title": "David disputes what counts as making it"
+    },
+    {
+      "t": 4050,
+      "title": "A public toilet accident"
+    },
+    {
+      "t": 4120,
+      "title": "The show returns to adult directing"
+    },
+    {
+      "t": 4200,
+      "title": "Gonzo means unscripted adult production"
+    },
+    {
+      "t": 4240,
+      "title": "Asa describes casting and location choices"
+    },
+    {
+      "t": 4280,
+      "title": "The performer chooses the final act"
+    },
+    {
+      "t": 4320,
+      "title": "Anthony Bourdain as an imagined mentor"
+    },
+    {
+      "t": 4360,
+      "title": "Thumbs Up! crosses San Francisco to New York"
+    },
+    {
+      "t": 4400,
+      "title": "Travel production creates exhaustion"
+    },
+    {
+      "t": 4440,
+      "title": "Bourdain's private distress remains attributed"
+    },
+    {
+      "t": 4480,
+      "title": "Action and adventure justify the road"
+    },
+    {
+      "t": 4510,
+      "title": "Artichoke Basille's Pizza"
+    },
+    {
+      "t": 4530,
+      "title": "Momofuku with David Chang"
+    },
+    {
+      "t": 4570,
+      "title": "Milk Bar and Crack Pie after a full meal"
+    },
+    {
+      "t": 4620,
+      "title": "David vomits through Second Avenue"
+    },
+    {
+      "t": 4660,
+      "title": "Vomiting blood is not a punchline diagnosis"
+    },
+    {
+      "t": 4700,
+      "title": "Blue Ribbon Sushi begins a second meal"
+    },
+    {
+      "t": 4760,
+      "title": "Excess becomes self-disgust"
+    },
+    {
+      "t": 4840,
+      "title": "Unsupported underwear-health claims"
+    },
+    {
+      "t": 4900,
+      "title": "A private photo and unexplained blood"
+    },
+    {
+      "t": 4980,
+      "title": "Incontinence frequency becomes alarming"
+    },
+    {
+      "t": 5070,
+      "title": "Self-reported IBS remains non-clinical"
+    },
+    {
+      "t": 5130,
+      "title": "A nutritionist is recalled"
+    },
+    {
+      "t": 5160,
+      "title": "Trivia with Bobby begins"
+    },
+    {
+      "t": 5190,
+      "title": "Journey's Faithfully"
+    },
+    {
+      "t": 5250,
+      "title": "Open Arms"
+    },
+    {
+      "t": 5280,
+      "title": "Don't Stop Believin'"
+    },
+    {
+      "t": 5400,
+      "title": "The Palm Springs exclusion returns"
+    },
+    {
+      "t": 5480,
+      "title": "New York smell and Chinatown stereotypes"
+    },
+    {
+      "t": 5550,
+      "title": "A pre-Giuliani Times Square memory"
+    },
+    {
+      "t": 5620,
+      "title": "Brad Pitt receives Bobby's apology"
+    },
+    {
+      "t": 5700,
+      "title": "Actors are ranked for work and attraction"
+    },
+    {
+      "t": 5760,
+      "title": "World War Z and This Is the End"
+    },
+    {
+      "t": 5790,
+      "title": "Man of Steel disappoints"
+    },
+    {
+      "t": 5810,
+      "title": "Fast & Furious 6 and Justin Lin"
+    },
+    {
+      "t": 5840,
+      "title": "Ethnicity and orientation are wrongly inferred"
+    },
+    {
+      "t": 5880,
+      "title": "Travolta and Gere rumors return"
+    },
+    {
+      "t": 5920,
+      "title": "Wicked and Defying Gravity"
+    },
+    {
+      "t": 5960,
+      "title": "Television replaces the two-hour movie"
+    },
+    {
+      "t": 6000,
+      "title": "A Few Good Men is performed"
+    },
+    {
+      "t": 6060,
+      "title": "Santiago, Dawson, Downey, and Code Red"
+    },
+    {
+      "t": 6160,
+      "title": "American Psycho breaks the tie"
+    },
+    {
+      "t": 6200,
+      "title": "Whitney Houston and Phil Collins"
+    },
+    {
+      "t": 6250,
+      "title": "Huey Lewis and The Lady in Red"
+    },
+    {
+      "t": 6290,
+      "title": "Business cards decide the game"
+    },
+    {
+      "t": 6320,
+      "title": "Bobby's ear becomes the final punishment"
+    },
+    {
+      "t": 6350,
+      "title": "Johnny stays for another episode"
+    },
+    {
+      "t": 6370,
+      "title": "The standard DVDASA outro"
+    }
   ],
   "connections": [
-    {"from_t": 100, "to_t": 4360, "label": "Critter's daily companionship supports gambling abstinence, then his absence follows the completed Thumbs Up! road trip."},
-    {"from_t": 185, "to_t": 5160, "label": "Johnny's failed Vassar radio experiment returns as his delight in DVDASA's deliberately unstable trivia format."},
-    {"from_t": 339, "to_t": 1560, "label": "The claim of radical honesty collapses under Johnny's analogy: conduct can create the relationship that words deny."},
-    {"from_t": 372, "to_t": 590, "label": "A declaration of lifelong devotion functions simultaneously as romance, competition, and future contingency."},
-    {"from_t": 720, "to_t": 930, "label": "The room moves from useful privacy to cruel honesty without producing a simple rule."},
-    {"from_t": 990, "to_t": 1560, "label": "Johnny's law background supplies both the fugitive boundary and the strongest critique of David's relationship disclaimers."},
-    {"from_t": 1080, "to_t": 2180, "label": "Divorce practice grounds Johnny's belief that durable partnership is difficult work rather than an impossible summit."},
-    {"from_t": 1340, "to_t": 1980, "label": "Eight years of claimed honesty leads to a two-option system in which one option is explicit deception."},
-    {"from_t": 1680, "to_t": 2040, "label": "The boast that partners always return prevents the cycle from having a real ending."},
-    {"from_t": 2280, "to_t": 2640, "label": "Commitment and pornography are treated as independent, but both discussions ask what simulated intimacy is doing."},
-    {"from_t": 2720, "to_t": 2960, "label": "A dream, Critter's absent testimony, and an anonymous forum repeatedly demonstrate why sexual context cannot be inferred second-hand."},
-    {"from_t": 3120, "to_t": 4280, "label": "Asa's adult-production account is twice displaced by bodily stories before returning to consent and performer choice."},
-    {"from_t": 3180, "to_t": 4660, "label": "Visible blood stops Asa's scene, while David repeatedly minimizes his own bleeding until the editorial layer restores the health boundary."},
-    {"from_t": 3240, "to_t": 4980, "label": "A heat-management joke grows into evidence of recurrent gastrointestinal and continence problems."},
-    {"from_t": 4320, "to_t": 4480, "label": "Bourdain functions as a mirror for travel exhaustion, not as proof that breakdown is necessary for meaningful work."},
-    {"from_t": 4360, "to_t": 4530, "label": "Episode 037's announced cross-country trip is now completed and immediately connected to David Chang's food-world network."},
-    {"from_t": 4510, "to_t": 4760, "label": "A New York food itinerary moves from hospitality and abundance into vomiting, blood, renewed eating, and self-disgust."},
-    {"from_t": 5160, "to_t": 6290, "label": "Music, film, and performance trivia converts the episode's earlier argument about sincerity into deliberately theatrical imitation."},
-    {"from_t": 5810, "to_t": 5880, "label": "The cast repeats the same failed logic twice: film style and rumor volume are treated as evidence of sexual orientation."},
-    {"from_t": 6000, "to_t": 6290, "label": "A Few Good Men and American Psycho reward exact memory after a show dominated by unreliable personal narration."}
+    {
+      "from_t": 100,
+      "to_t": 4360,
+      "label": "Critter's daily companionship supports gambling abstinence, then his absence follows the completed Thumbs Up! road trip."
+    },
+    {
+      "from_t": 185,
+      "to_t": 5160,
+      "label": "Johnny's failed Vassar radio experiment returns as his delight in DVDASA's deliberately unstable trivia format."
+    },
+    {
+      "from_t": 339,
+      "to_t": 1560,
+      "label": "The claim of radical honesty collapses under Johnny's analogy: conduct can create the relationship that words deny."
+    },
+    {
+      "from_t": 372,
+      "to_t": 590,
+      "label": "A declaration of lifelong devotion functions simultaneously as romance, competition, and future contingency."
+    },
+    {
+      "from_t": 720,
+      "to_t": 930,
+      "label": "The room moves from useful privacy to cruel honesty without producing a simple rule."
+    },
+    {
+      "from_t": 990,
+      "to_t": 1560,
+      "label": "Johnny's law background supplies both the fugitive boundary and the strongest critique of David's relationship disclaimers."
+    },
+    {
+      "from_t": 1080,
+      "to_t": 2180,
+      "label": "Divorce practice grounds Johnny's belief that durable partnership is difficult work rather than an impossible summit."
+    },
+    {
+      "from_t": 1340,
+      "to_t": 1980,
+      "label": "Eight years of claimed honesty leads to a two-option system in which one option is explicit deception."
+    },
+    {
+      "from_t": 1680,
+      "to_t": 2040,
+      "label": "The boast that partners always return prevents the cycle from having a real ending."
+    },
+    {
+      "from_t": 2280,
+      "to_t": 2640,
+      "label": "Commitment and pornography are treated as independent, but both discussions ask what simulated intimacy is doing."
+    },
+    {
+      "from_t": 2720,
+      "to_t": 2960,
+      "label": "A dream, Critter's absent testimony, and an anonymous forum repeatedly demonstrate why sexual context cannot be inferred second-hand."
+    },
+    {
+      "from_t": 3120,
+      "to_t": 4280,
+      "label": "Asa's adult-production account is twice displaced by bodily stories before returning to consent and performer choice."
+    },
+    {
+      "from_t": 3180,
+      "to_t": 4660,
+      "label": "Visible blood stops Asa's scene, while David repeatedly minimizes his own bleeding until the editorial layer restores the health boundary."
+    },
+    {
+      "from_t": 3240,
+      "to_t": 4980,
+      "label": "A heat-management joke grows into evidence of recurrent gastrointestinal and continence problems."
+    },
+    {
+      "from_t": 4320,
+      "to_t": 4480,
+      "label": "Bourdain functions as a mirror for travel exhaustion, not as proof that breakdown is necessary for meaningful work."
+    },
+    {
+      "from_t": 4360,
+      "to_t": 4530,
+      "label": "Episode 037's announced cross-country trip is now completed and immediately connected to David Chang's food-world network."
+    },
+    {
+      "from_t": 4510,
+      "to_t": 4760,
+      "label": "A New York food itinerary moves from hospitality and abundance into vomiting, blood, renewed eating, and self-disgust."
+    },
+    {
+      "from_t": 5160,
+      "to_t": 6290,
+      "label": "Music, film, and performance trivia converts the episode's earlier argument about sincerity into deliberately theatrical imitation."
+    },
+    {
+      "from_t": 5810,
+      "to_t": 5880,
+      "label": "The cast repeats the same failed logic twice: film style and rumor volume are treated as evidence of sexual orientation."
+    },
+    {
+      "from_t": 6000,
+      "to_t": 6290,
+      "label": "A Few Good Men and American Psycho reward exact memory after a show dominated by unreliable personal narration."
+    }
   ],
   "quality": {
     "text": "strong after human contextual correction",
@@ -187,5 +708,36 @@
     "sexual_orientation": "Vassar culture, parties, Korean spas, musicals, rumors, ethnicity, and film style are not treated as evidence of orientation.",
     "claims": "Divorce statistics, Roman-decline claims, Bourdain's private distress, and every private conversation remain attributed or unsupported."
   },
-  "speaker_policy": "Participants include David Choe, Asa Akira, Johnny Bravo, Money Mark, Valentin, and Bobby Namba. Critter is discussed but absent. This record assigns no individual transcript turns. The 2,132 fixed-window embeddings remain available, but publication waits for independent held-out multi-speaker validation."
+  "speaker_policy": "Participants include David Choe, Asa Akira, Johnny Bravo, Money Mark, Valentin, and Bobby Namba. Critter is discussed but absent. This record assigns no individual transcript turns. The 2,132 fixed-window embeddings remain available, but publication waits for independent held-out multi-speaker validation.",
+  "people": [
+    "David Choe",
+    "Anthony Bourdain",
+    "Howard Stern",
+    "London Keyes",
+    "Bobby Namba",
+    "David Chang",
+    "James Deen",
+    "Money Mark",
+    "Asa Akira",
+    "Harry Kim",
+    "Critter"
+  ],
+  "places": [
+    "San Francisco",
+    "New York",
+    "London",
+    "party"
+  ],
+  "works": [
+    "American Psycho",
+    "Thumbs Up!",
+    "Thumbs Up",
+    "Friends"
+  ],
+  "themes": [
+    "DVDASA episode context",
+    "long-form conversation"
+  ],
+  "description": "Episode 039 returns after a three-week break with Johnny Bravo, an old New York friend of David Choe who uses an on-air alias.",
+  "description_source": "Opening of the human-reviewed summary."
 }

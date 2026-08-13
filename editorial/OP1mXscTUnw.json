@@ -1,51 +1,648 @@
 {
-  "episode_id":"OP1mXscTUnw",
-  "title":"David Choe | KQED Spark",
-  "reviewed_on":"2026-07-31",
-  "summary":"A contemporary KQED arts profile documents David Choe's Los Angeles graffiti argument, early San Jose reception, Double Rainbow and Five Color Cowboy work, fast mural process, late-2003 Tokyo incident and incarceration, religious uncertainty, and prison drawings made with improvised materials. The rolling-caption artifact is materially repaired by removing 244 measured 67-millisecond duplicate display states while retaining all 250 real caption units and every idea.",
-  "quality":{"source_segments":494,"source_words":3884,"duration_seconds":627,"human_read":true,"correction_decisions":86,"named_turns":0,"clean_word_delta":-2560,"assessment":"Complete chronological human read. A deterministic rolling-caption normalization removes 244 duplicate display states and retains 250 real units / 1,324 words. Literal name/word damage is repaired; truncated opening, law, chronology, critical interpretation and speaker identity remain explicit."},
-  "speaker_policy":"KQED captions mark speaker changes with >> but do not name the two arts commentators. Choe and narration are often distinguishable by content, but publication assigns zero line-level names until caption credits or held-out acoustic/video validation establishes them.",
-  "people":["David Choe","Johnny Granado"],
-  "places":["Los Angeles","San Jose","Bay Area","Tokyo","Japan","Double Rainbow Ice Cream","Five Color Cowboy","101 Freeway"],
-  "works":["Sorry","prison drawings and writings","Five Color Cowboy mural","Slow Jams"],
-  "themes":["street art and permission","visibility versus galleries","early rejection","street-to-gallery crossover","mural process","violence and consequence","incarceration and solitary","religious searching","art from confinement","meaning versus irreverence","contemporary documentary evidence"],
-  "chapters":[
-    {"t":24,"title":"Truncated opening question"},{"t":34,"title":"KQED introduces David Choe"},{"t":44,"title":"Rejection and refusal of critique"},{"t":54,"title":"Museums versus freeway visibility"},{"t":76,"title":"No-permission art and criminality"},{"t":87,"title":"Contemporary San Jose residence"},{"t":98,"title":"Three-year career summary"},{"t":109,"title":"Street-to-gallery crossover"},{"t":128,"title":"Los Angeles rejection recalled"},{"t":140,"title":"Double Rainbow Ice Cream show"},{"t":147,"title":"Bay Area embrace"},{"t":160,"title":"Johnny Granado recognizes Choe"},{"t":167,"title":"Five Color Cowboy mural commission"},{"t":175,"title":"Ice-cream-store and salon résumé"},{"t":188,"title":"Fast and confident mural process"},{"t":208,"title":"Hundreds of spray cans"},{"t":216,"title":"Bare-bones underdrawings"},{"t":224,"title":"Imagined landlord reaction"},{"t":227,"title":"Unfiltered process"},{"t":261,"title":"Late-2003 Tokyo invitation"},{"t":271,"title":"Store/security incident begins"},{"t":275,"title":"Suspected theft"},{"t":278,"title":"Choe says the item remained in store"},{"t":283,"title":"Translation and misunderstanding"},{"t":286,"title":"Guard allegedly strikes Choe"},{"t":291,"title":"Choe thinks he is being mugged"},{"t":310,"title":"Choe punches the guard"},{"t":316,"title":"Facial injuries"},{"t":321,"title":"Choe runs"},{"t":343,"title":"Arrest and jail"},{"t":345,"title":"Assault-and-battery charge framing"},{"t":349,"title":"Solitary confinement"},{"t":353,"title":"Weeks become months"},{"t":357,"title":"Isolation in a foreign country"},{"t":367,"title":"Turning to the Bible"},{"t":376,"title":"God speaking through a chapter"},{"t":380,"title":"Born-again cliché"},{"t":385,"title":"First post-jail painting"},{"t":396,"title":"Whether to continue street art"},{"t":402,"title":"Angels and cheesy Bible imagery"},{"t":417,"title":"Rejecting John 3:16 formulas"},{"t":428,"title":"Rejecting old explicit subjects and simple crosses"},{"t":435,"title":"Searching rather than certainty"},{"t":440,"title":"Critic calls it finding God"},{"t":452,"title":"God-fearing artist label"},{"t":463,"title":"Imagination under prison stress"},{"t":472,"title":"Return to San Jose"},{"t":476,"title":"Mining the experience aesthetically"},{"t":483,"title":"Japan drawings, writings and paintings"},{"t":489,"title":"Scanning the prison corpus"},{"t":500,"title":"Food-record drawings"},{"t":518,"title":"No paint available"},{"t":522,"title":"Soy sauce as pigment"},{"t":538,"title":"Sorry"},{"t":544,"title":"Portrait of the man from the fight"},{"t":553,"title":"Living-on-the-edge interpretation"},{"t":570,"title":"Finding God without abandoning street art"},{"t":580,"title":"Visibility as responsibility"},{"t":594,"title":"Past making art merely to do it"},{"t":599,"title":"Meaning and substance"},{"t":617,"title":"Caption artifact ends"}
+  "episode_id": "OP1mXscTUnw",
+  "title": "David Choe | KQED Spark",
+  "reviewed_on": "2026-07-31",
+  "summary": "A contemporary KQED arts profile documents David Choe's Los Angeles graffiti argument, early San Jose reception, Double Rainbow and Five Color Cowboy work, fast mural process, late-2003 Tokyo incident and incarceration, religious uncertainty, and prison drawings made with improvised materials. The rolling-caption artifact is materially repaired by removing 244 measured 67-millisecond duplicate display states while retaining all 250 real caption units and every idea.",
+  "quality": {
+    "source_segments": 494,
+    "source_words": 3884,
+    "duration_seconds": 627,
+    "human_read": true,
+    "correction_decisions": 86,
+    "named_turns": 0,
+    "clean_word_delta": -2560,
+    "assessment": "Complete chronological human read. A deterministic rolling-caption normalization removes 244 duplicate display states and retains 250 real units / 1,324 words. Literal name/word damage is repaired; truncated opening, law, chronology, critical interpretation and speaker identity remain explicit."
+  },
+  "speaker_policy": "KQED captions mark speaker changes with >> but do not name the two arts commentators. Choe and narration are often distinguishable by content, but publication assigns zero line-level names until caption credits or held-out acoustic/video validation establishes them.",
+  "people": [
+    "David Choe",
+    "Johnny Granado"
   ],
-  "connections":[
-    {"t":54,"to":"public visibility","relationship":"Choe frames freeway graffiti as reaching more people than gallery display."},
-    {"t":76,"to":"permission and criminality","relationship":"The early career story openly ties self-direction to unauthorized conduct."},
-    {"t":98,"to":"early works timeline","relationship":"KQED supplies contemporary, dateable claims about self-publishing, illustration and exhibitions."},
-    {"t":109,"to":"street-to-gallery crossover","relationship":"Commentators place Choe inside an emerging cultural bridge rather than outside institutions entirely."},
-    {"t":140,"to":"nontraditional exhibition spaces","relationship":"An ice-cream shop and hair salon function as early venues before conventional art-world acceptance."},
-    {"t":167,"to":"mural practice","relationship":"The Five Color Cowboy commission joins Bay Area patronage to Choe's fast spray-paint process."},
-    {"t":227,"to":"unfiltered creation","relationship":"Witnesses value speed and low restraint, but their rhetoric does not prove absence of planning."},
-    {"t":261,"to":"Tokyo incarceration","relationship":"An art invitation becomes the setting for violence, arrest and a major creative/religious turn."},
-    {"t":283,"to":"competing accounts","relationship":"Choe attributes the encounter to misunderstanding; legal facts require independent records."},
-    {"t":349,"to":"solitary confinement","relationship":"Isolation is central to the profile's explanation of religious reading and prison art."},
-    {"t":367,"to":"Christianity","relationship":"The Bible becomes a resource in confinement while Choe resists a neat conversion narrative."},
-    {"t":385,"to":"post-jail work","relationship":"The first painting becomes a site of conflict between prior imagery and newly felt moral responsibility."},
-    {"t":435,"to":"religious uncertainty","relationship":"Choe's own word is searching, narrower than the commentators' found-God conclusion."},
-    {"t":483,"to":"prison works","relationship":"Drawings, writings and paintings become a distinct object corpus with unresolved publication format."},
-    {"t":522,"to":"material constraint","relationship":"Soy sauce becomes pigment because conventional paint is unavailable."},
-    {"t":538,"to":"Sorry","relationship":"A titled portrait links art object, injury, regret and the person Choe says he fought."},
-    {"t":553,"to":"danger mythology","relationship":"The critic celebrates reports from the edge; the archive preserves this without making harm a creative prerequisite."},
-    {"t":599,"to":"creative purpose","relationship":"The close reframes street art from irreverence alone toward meaning and substance."}
+  "places": [
+    "Los Angeles",
+    "San Jose",
+    "Bay Area",
+    "Tokyo",
+    "Japan",
+    "Double Rainbow Ice Cream",
+    "Five Color Cowboy",
+    "101 Freeway"
   ],
-  "source_notes":[
-    {"t":24,"claim":"The local captions represent the complete broadcast opening.","assessment":"They begin mid-question at 24.257 seconds; recover video/opening before full-edition claims.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":98,"claim":"Choe produced the exact stated number of award-winning books and shows in three years.","assessment":"Contemporary KQED narration is valuable but titles, awards and venue counts need primary credits/catalogues.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":140,"claim":"Double Rainbow was Choe's only exhibition venue at the stated time.","assessment":"A witness compresses the early résumé; verify dates and other venues before using 'only'.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":167,"claim":"Johnny Granado commissioned an 18-by-48-foot Five Color Cowboy mural.","assessment":"Verify spelling, dimensions, date, address-independent venue history and credit from KQED visuals/contemporary records.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":261,"claim":"The Tokyo mural/group show occurred in late 2003.","assessment":"Use organizer, venue and contemporary exhibition documentation for exact dates and credits.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":275,"claim":"Choe did not steal and the guard initiated unjustified violence.","assessment":"This is Choe's account; preserve it without converting perception or defense into adjudicated fact.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":345,"claim":"Assault and battery are the exact Japanese charges and Choe awaited a conventional trial.","assessment":"KQED uses American legal shorthand; verify Japanese offense terminology, process and disposition.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":349,"claim":"Choe spent months in solitary confinement under the exact conditions implied.","assessment":"KQED states solitary and weeks-to-months; exact duration and regime require reliable records/first-person detail.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":435,"claim":"Choe permanently became a born-again or God-fearing artist.","assessment":"Choe says he is searching and rejects formulaic imagery; commentator labels are time-bound interpretation.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"},
-    {"t":538,"claim":"Sorry is the exact title and depicts the injured guard.","assessment":"Choe says so while showing the work; verify inscription, date, medium and later catalogue identity from the object.","source":"https://www.youtube.com/watch?v=OP1mXscTUnw"}
+  "works": [
+    "Sorry",
+    "prison drawings and writings",
+    "Five Color Cowboy mural",
+    "Slow Jams"
   ],
-  "content_warnings":["graffiti and property crime","criminality as career narrative","assault admission","graphic facial injury","flight after violence","arrest and incarceration","solitary confinement","religious conversion/search","explicit sexual-image references","danger-as-creativity rhetoric","suspected theft dispute","foreign legal uncertainty","historic residence information","improvised prison materials","private injured person","publisher caption duplication","truncated opening","street-art operational context","landlord/property speculation","mental and spiritual distress"],
-  "publication_restrictions":[
-    {"t":24,"rule":"label the opening truncated and do not claim a complete caption edition"},{"t":34,"rule":"repair Choe's name without treating KQED descriptors as permanent identity"},{"t":54,"rule":"do not present gallery-attendance and freeway-reach estimates as measured data"},{"t":58,"rule":"do not excerpt graffiti placement or timing as guidance"},{"t":76,"rule":"preserve criminality admission without celebrating unauthorized conduct"},{"t":87,"rule":"treat San Jose residence as historic and do not infer current location"},{"t":98,"rule":"verify book awards, illustration credits and exhibition counts"},{"t":109,"rule":"do not identity-resolve unnamed arts commentators by adjacency"},{"t":140,"rule":"verify Double Rainbow date and avoid current business/location assumptions"},{"t":160,"rule":"verify Johnny Granado spelling/role from credits"},{"t":167,"rule":"verify mural title, dimension, unit and commission details"},{"t":208,"rule":"do not treat spray-can count as audited inventory"},{"t":216,"rule":"do not convert spray/exhaust description into unsafe studio practice advice"},{"t":224,"rule":"do not infer landlord permission, complaint or property status"},{"t":261,"rule":"verify Tokyo show venue/date from primary records"},{"t":275,"rule":"keep suspected theft and non-theft account attributed"},{"t":283,"rule":"do not assign guard intent or legal fault from Choe's misunderstanding account"},{"t":286,"rule":"preserve reported strike without treating it as adjudicated fact"},{"t":310,"rule":"do not excerpt punching as self-defense guidance"},{"t":316,"rule":"protect the injured private person's identity and medical detail"},{"t":321,"rule":"do not excerpt running as evasion guidance"},{"t":343,"rule":"verify arrest, detention and procedural chronology"},{"t":345,"rule":"do not import US assault-and-battery terminology into Japanese law as exact"},{"t":349,"rule":"verify solitary duration and conditions before canonical biography"},{"t":367,"rule":"preserve Bible account as Choe's time-specific religious experience"},{"t":380,"rule":"do not classify Choe permanently as born-again from anticipated cliché"},{"t":385,"rule":"verify first-post-jail-painting claim from object/date records"},{"t":402,"rule":"preserve criticism of religious imagery without generalizing faith"},{"t":428,"rule":"exclude explicit image subjects from neutral work/person metadata"},{"t":435,"rule":"prefer Choe's searching language over commentator certainty"},{"t":440,"rule":"label found-God claim as critic interpretation"},{"t":452,"rule":"do not use God-fearing artist as durable identity metadata"},{"t":463,"rule":"do not turn prison creativity into a coping prescription"},{"t":472,"rule":"treat return-to-San-Jose detail as historical"},{"t":483,"rule":"verify prison-work object identities, materials and custody"},{"t":489,"rule":"do not infer scans were published or remain available"},{"t":503,"rule":"do not treat meal drawings as nutrition or prison-condition statistics"},{"t":522,"rule":"do not recommend soy sauce as archival pigment"},{"t":538,"rule":"verify Sorry title/date/medium from the object"},{"t":544,"rule":"do not identity-resolve the portrayed injured person"},{"t":553,"rule":"do not romanticize danger or incarceration as creative necessity"},{"t":580,"rule":"do not turn visibility argument into property-access guidance"},{"t":617,"rule":"publish zero named turns pending caption-credit or held-out validation"}
-  ]
+  "themes": [
+    "street art and permission",
+    "visibility versus galleries",
+    "early rejection",
+    "street-to-gallery crossover",
+    "mural process",
+    "violence and consequence",
+    "incarceration and solitary",
+    "religious searching",
+    "art from confinement",
+    "meaning versus irreverence",
+    "contemporary documentary evidence"
+  ],
+  "chapters": [
+    {
+      "t": 24,
+      "title": "Truncated opening question"
+    },
+    {
+      "t": 34,
+      "title": "KQED introduces David Choe"
+    },
+    {
+      "t": 44,
+      "title": "Rejection and refusal of critique"
+    },
+    {
+      "t": 54,
+      "title": "Museums versus freeway visibility"
+    },
+    {
+      "t": 76,
+      "title": "No-permission art and criminality"
+    },
+    {
+      "t": 87,
+      "title": "Contemporary San Jose residence"
+    },
+    {
+      "t": 98,
+      "title": "Three-year career summary"
+    },
+    {
+      "t": 109,
+      "title": "Street-to-gallery crossover"
+    },
+    {
+      "t": 128,
+      "title": "Los Angeles rejection recalled"
+    },
+    {
+      "t": 140,
+      "title": "Double Rainbow Ice Cream show"
+    },
+    {
+      "t": 147,
+      "title": "Bay Area embrace"
+    },
+    {
+      "t": 160,
+      "title": "Johnny Granado recognizes Choe"
+    },
+    {
+      "t": 167,
+      "title": "Five Color Cowboy mural commission"
+    },
+    {
+      "t": 175,
+      "title": "Ice-cream-store and salon résumé"
+    },
+    {
+      "t": 188,
+      "title": "Fast and confident mural process"
+    },
+    {
+      "t": 208,
+      "title": "Hundreds of spray cans"
+    },
+    {
+      "t": 216,
+      "title": "Bare-bones underdrawings"
+    },
+    {
+      "t": 224,
+      "title": "Imagined landlord reaction"
+    },
+    {
+      "t": 227,
+      "title": "Unfiltered process"
+    },
+    {
+      "t": 261,
+      "title": "Late-2003 Tokyo invitation"
+    },
+    {
+      "t": 271,
+      "title": "Store/security incident begins"
+    },
+    {
+      "t": 275,
+      "title": "Suspected theft"
+    },
+    {
+      "t": 278,
+      "title": "Choe says the item remained in store"
+    },
+    {
+      "t": 283,
+      "title": "Translation and misunderstanding"
+    },
+    {
+      "t": 286,
+      "title": "Guard allegedly strikes Choe"
+    },
+    {
+      "t": 291,
+      "title": "Choe thinks he is being mugged"
+    },
+    {
+      "t": 310,
+      "title": "Choe punches the guard"
+    },
+    {
+      "t": 316,
+      "title": "Facial injuries"
+    },
+    {
+      "t": 321,
+      "title": "Choe runs"
+    },
+    {
+      "t": 343,
+      "title": "Arrest and jail"
+    },
+    {
+      "t": 345,
+      "title": "Assault-and-battery charge framing"
+    },
+    {
+      "t": 349,
+      "title": "Solitary confinement"
+    },
+    {
+      "t": 353,
+      "title": "Weeks become months"
+    },
+    {
+      "t": 357,
+      "title": "Isolation in a foreign country"
+    },
+    {
+      "t": 367,
+      "title": "Turning to the Bible"
+    },
+    {
+      "t": 376,
+      "title": "God speaking through a chapter"
+    },
+    {
+      "t": 380,
+      "title": "Born-again cliché"
+    },
+    {
+      "t": 385,
+      "title": "First post-jail painting"
+    },
+    {
+      "t": 396,
+      "title": "Whether to continue street art"
+    },
+    {
+      "t": 402,
+      "title": "Angels and cheesy Bible imagery"
+    },
+    {
+      "t": 417,
+      "title": "Rejecting John 3:16 formulas"
+    },
+    {
+      "t": 428,
+      "title": "Rejecting old explicit subjects and simple crosses"
+    },
+    {
+      "t": 435,
+      "title": "Searching rather than certainty"
+    },
+    {
+      "t": 440,
+      "title": "Critic calls it finding God"
+    },
+    {
+      "t": 452,
+      "title": "God-fearing artist label"
+    },
+    {
+      "t": 463,
+      "title": "Imagination under prison stress"
+    },
+    {
+      "t": 472,
+      "title": "Return to San Jose"
+    },
+    {
+      "t": 476,
+      "title": "Mining the experience aesthetically"
+    },
+    {
+      "t": 483,
+      "title": "Japan drawings, writings and paintings"
+    },
+    {
+      "t": 489,
+      "title": "Scanning the prison corpus"
+    },
+    {
+      "t": 500,
+      "title": "Food-record drawings"
+    },
+    {
+      "t": 518,
+      "title": "No paint available"
+    },
+    {
+      "t": 522,
+      "title": "Soy sauce as pigment"
+    },
+    {
+      "t": 538,
+      "title": "Sorry"
+    },
+    {
+      "t": 544,
+      "title": "Portrait of the man from the fight"
+    },
+    {
+      "t": 553,
+      "title": "Living-on-the-edge interpretation"
+    },
+    {
+      "t": 570,
+      "title": "Finding God without abandoning street art"
+    },
+    {
+      "t": 580,
+      "title": "Visibility as responsibility"
+    },
+    {
+      "t": 594,
+      "title": "Past making art merely to do it"
+    },
+    {
+      "t": 599,
+      "title": "Meaning and substance"
+    },
+    {
+      "t": 617,
+      "title": "Caption artifact ends"
+    }
+  ],
+  "connections": [
+    {
+      "t": 54,
+      "to": "public visibility",
+      "relationship": "Choe frames freeway graffiti as reaching more people than gallery display."
+    },
+    {
+      "t": 76,
+      "to": "permission and criminality",
+      "relationship": "The early career story openly ties self-direction to unauthorized conduct."
+    },
+    {
+      "t": 98,
+      "to": "early works timeline",
+      "relationship": "KQED supplies contemporary, dateable claims about self-publishing, illustration and exhibitions."
+    },
+    {
+      "t": 109,
+      "to": "street-to-gallery crossover",
+      "relationship": "Commentators place Choe inside an emerging cultural bridge rather than outside institutions entirely."
+    },
+    {
+      "t": 140,
+      "to": "nontraditional exhibition spaces",
+      "relationship": "An ice-cream shop and hair salon function as early venues before conventional art-world acceptance."
+    },
+    {
+      "t": 167,
+      "to": "mural practice",
+      "relationship": "The Five Color Cowboy commission joins Bay Area patronage to Choe's fast spray-paint process."
+    },
+    {
+      "t": 227,
+      "to": "unfiltered creation",
+      "relationship": "Witnesses value speed and low restraint, but their rhetoric does not prove absence of planning."
+    },
+    {
+      "t": 261,
+      "to": "Tokyo incarceration",
+      "relationship": "An art invitation becomes the setting for violence, arrest and a major creative/religious turn."
+    },
+    {
+      "t": 283,
+      "to": "competing accounts",
+      "relationship": "Choe attributes the encounter to misunderstanding; legal facts require independent records."
+    },
+    {
+      "t": 349,
+      "to": "solitary confinement",
+      "relationship": "Isolation is central to the profile's explanation of religious reading and prison art."
+    },
+    {
+      "t": 367,
+      "to": "Christianity",
+      "relationship": "The Bible becomes a resource in confinement while Choe resists a neat conversion narrative."
+    },
+    {
+      "t": 385,
+      "to": "post-jail work",
+      "relationship": "The first painting becomes a site of conflict between prior imagery and newly felt moral responsibility."
+    },
+    {
+      "t": 435,
+      "to": "religious uncertainty",
+      "relationship": "Choe's own word is searching, narrower than the commentators' found-God conclusion."
+    },
+    {
+      "t": 483,
+      "to": "prison works",
+      "relationship": "Drawings, writings and paintings become a distinct object corpus with unresolved publication format."
+    },
+    {
+      "t": 522,
+      "to": "material constraint",
+      "relationship": "Soy sauce becomes pigment because conventional paint is unavailable."
+    },
+    {
+      "t": 538,
+      "to": "Sorry",
+      "relationship": "A titled portrait links art object, injury, regret and the person Choe says he fought."
+    },
+    {
+      "t": 553,
+      "to": "danger mythology",
+      "relationship": "The critic celebrates reports from the edge; the archive preserves this without making harm a creative prerequisite."
+    },
+    {
+      "t": 599,
+      "to": "creative purpose",
+      "relationship": "The close reframes street art from irreverence alone toward meaning and substance."
+    }
+  ],
+  "source_notes": [
+    {
+      "t": 24,
+      "claim": "The local captions represent the complete broadcast opening.",
+      "assessment": "They begin mid-question at 24.257 seconds; recover video/opening before full-edition claims.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 98,
+      "claim": "Choe produced the exact stated number of award-winning books and shows in three years.",
+      "assessment": "Contemporary KQED narration is valuable but titles, awards and venue counts need primary credits/catalogues.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 140,
+      "claim": "Double Rainbow was Choe's only exhibition venue at the stated time.",
+      "assessment": "A witness compresses the early résumé; verify dates and other venues before using 'only'.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 167,
+      "claim": "Johnny Granado commissioned an 18-by-48-foot Five Color Cowboy mural.",
+      "assessment": "Verify spelling, dimensions, date, address-independent venue history and credit from KQED visuals/contemporary records.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 261,
+      "claim": "The Tokyo mural/group show occurred in late 2003.",
+      "assessment": "Use organizer, venue and contemporary exhibition documentation for exact dates and credits.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 275,
+      "claim": "Choe did not steal and the guard initiated unjustified violence.",
+      "assessment": "This is Choe's account; preserve it without converting perception or defense into adjudicated fact.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 345,
+      "claim": "Assault and battery are the exact Japanese charges and Choe awaited a conventional trial.",
+      "assessment": "KQED uses American legal shorthand; verify Japanese offense terminology, process and disposition.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 349,
+      "claim": "Choe spent months in solitary confinement under the exact conditions implied.",
+      "assessment": "KQED states solitary and weeks-to-months; exact duration and regime require reliable records/first-person detail.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 435,
+      "claim": "Choe permanently became a born-again or God-fearing artist.",
+      "assessment": "Choe says he is searching and rejects formulaic imagery; commentator labels are time-bound interpretation.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    },
+    {
+      "t": 538,
+      "claim": "Sorry is the exact title and depicts the injured guard.",
+      "assessment": "Choe says so while showing the work; verify inscription, date, medium and later catalogue identity from the object.",
+      "source": "https://www.youtube.com/watch?v=OP1mXscTUnw"
+    }
+  ],
+  "content_warnings": [
+    "graffiti and property crime",
+    "criminality as career narrative",
+    "assault admission",
+    "graphic facial injury",
+    "flight after violence",
+    "arrest and incarceration",
+    "solitary confinement",
+    "religious conversion/search",
+    "explicit sexual-image references",
+    "danger-as-creativity rhetoric",
+    "suspected theft dispute",
+    "foreign legal uncertainty",
+    "historic residence information",
+    "improvised prison materials",
+    "private injured person",
+    "publisher caption duplication",
+    "truncated opening",
+    "street-art operational context",
+    "landlord/property speculation",
+    "mental and spiritual distress"
+  ],
+  "publication_restrictions": [
+    {
+      "t": 24,
+      "rule": "label the opening truncated and do not claim a complete caption edition"
+    },
+    {
+      "t": 34,
+      "rule": "repair Choe's name without treating KQED descriptors as permanent identity"
+    },
+    {
+      "t": 54,
+      "rule": "do not present gallery-attendance and freeway-reach estimates as measured data"
+    },
+    {
+      "t": 58,
+      "rule": "do not excerpt graffiti placement or timing as guidance"
+    },
+    {
+      "t": 76,
+      "rule": "preserve criminality admission without celebrating unauthorized conduct"
+    },
+    {
+      "t": 87,
+      "rule": "treat San Jose residence as historic and do not infer current location"
+    },
+    {
+      "t": 98,
+      "rule": "verify book awards, illustration credits and exhibition counts"
+    },
+    {
+      "t": 109,
+      "rule": "do not identity-resolve unnamed arts commentators by adjacency"
+    },
+    {
+      "t": 140,
+      "rule": "verify Double Rainbow date and avoid current business/location assumptions"
+    },
+    {
+      "t": 160,
+      "rule": "verify Johnny Granado spelling/role from credits"
+    },
+    {
+      "t": 167,
+      "rule": "verify mural title, dimension, unit and commission details"
+    },
+    {
+      "t": 208,
+      "rule": "do not treat spray-can count as audited inventory"
+    },
+    {
+      "t": 216,
+      "rule": "do not convert spray/exhaust description into unsafe studio practice advice"
+    },
+    {
+      "t": 224,
+      "rule": "do not infer landlord permission, complaint or property status"
+    },
+    {
+      "t": 261,
+      "rule": "verify Tokyo show venue/date from primary records"
+    },
+    {
+      "t": 275,
+      "rule": "keep suspected theft and non-theft account attributed"
+    },
+    {
+      "t": 283,
+      "rule": "do not assign guard intent or legal fault from Choe's misunderstanding account"
+    },
+    {
+      "t": 286,
+      "rule": "preserve reported strike without treating it as adjudicated fact"
+    },
+    {
+      "t": 310,
+      "rule": "do not excerpt punching as self-defense guidance"
+    },
+    {
+      "t": 316,
+      "rule": "protect the injured private person's identity and medical detail"
+    },
+    {
+      "t": 321,
+      "rule": "do not excerpt running as evasion guidance"
+    },
+    {
+      "t": 343,
+      "rule": "verify arrest, detention and procedural chronology"
+    },
+    {
+      "t": 345,
+      "rule": "do not import US assault-and-battery terminology into Japanese law as exact"
+    },
+    {
+      "t": 349,
+      "rule": "verify solitary duration and conditions before canonical biography"
+    },
+    {
+      "t": 367,
+      "rule": "preserve Bible account as Choe's time-specific religious experience"
+    },
+    {
+      "t": 380,
+      "rule": "do not classify Choe permanently as born-again from anticipated cliché"
+    },
+    {
+      "t": 385,
+      "rule": "verify first-post-jail-painting claim from object/date records"
+    },
+    {
+      "t": 402,
+      "rule": "preserve criticism of religious imagery without generalizing faith"
+    },
+    {
+      "t": 428,
+      "rule": "exclude explicit image subjects from neutral work/person metadata"
+    },
+    {
+      "t": 435,
+      "rule": "prefer Choe's searching language over commentator certainty"
+    },
+    {
+      "t": 440,
+      "rule": "label found-God claim as critic interpretation"
+    },
+    {
+      "t": 452,
+      "rule": "do not use God-fearing artist as durable identity metadata"
+    },
+    {
+      "t": 463,
+      "rule": "do not turn prison creativity into a coping prescription"
+    },
+    {
+      "t": 472,
+      "rule": "treat return-to-San-Jose detail as historical"
+    },
+    {
+      "t": 483,
+      "rule": "verify prison-work object identities, materials and custody"
+    },
+    {
+      "t": 489,
+      "rule": "do not infer scans were published or remain available"
+    },
+    {
+      "t": 503,
+      "rule": "do not treat meal drawings as nutrition or prison-condition statistics"
+    },
+    {
+      "t": 522,
+      "rule": "do not recommend soy sauce as archival pigment"
+    },
+    {
+      "t": 538,
+      "rule": "verify Sorry title/date/medium from the object"
+    },
+    {
+      "t": 544,
+      "rule": "do not identity-resolve the portrayed injured person"
+    },
+    {
+      "t": 553,
+      "rule": "do not romanticize danger or incarceration as creative necessity"
+    },
+    {
+      "t": 580,
+      "rule": "do not turn visibility argument into property-access guidance"
+    },
+    {
+      "t": 617,
+      "rule": "publish zero named turns pending caption-credit or held-out validation"
+    }
+  ],
+  "description": "A contemporary KQED arts profile documents David Choe's Los Angeles graffiti argument, early San Jose reception, Double Rainbow and Five Color Cowboy work, fast mural process, late-2003 Tokyo incident and incarceration, religious uncertainty, and prison drawings made with improvised materials.",
+  "description_source": "Opening of the human-reviewed summary."
 }
