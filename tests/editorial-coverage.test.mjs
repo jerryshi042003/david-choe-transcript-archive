@@ -18,6 +18,7 @@ for (const script of [
   'build_visual_editorial.mjs',
   'review_editorial_entities.mjs',
   'embed_editorial.mjs',
+  'build_browse_index.mjs',
   'build_trivia_coverage.mjs',
   'build_corpus_analysis.mjs',
   'refresh_method_counts.mjs',
@@ -64,6 +65,11 @@ assert.equal(trivia.routes.filter((route) => route.status === 'reviewed-format-e
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'data/catalog.json'), 'utf8'));
 const ids = [...new Set(catalog.items.map((item) => item.id))];
 assert.equal(ids.length, 421);
+const browseIndex = JSON.parse(fs.readFileSync(path.join(root, 'data/browse-index.json'), 'utf8'));
+assert.equal(browseIndex.coverage.descriptions, 421);
+assert.equal(browseIndex.coverage.reviewed_people, 421);
+assert.equal(Object.keys(browseIndex.routes).length, 421);
+assert.ok(Object.values(browseIndex.routes).every((route) => route.description && route.people.length && route.transcript_label));
 
 const analysis = JSON.parse(fs.readFileSync(path.join(root, 'data/corpus-analysis.json'), 'utf8'));
 assert.equal(analysis.schema, 'choe-corpus/corpus-analysis@1');

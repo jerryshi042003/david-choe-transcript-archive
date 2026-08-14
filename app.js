@@ -9,7 +9,7 @@ const $ = (id) => document.getElementById(id);
 // cache. Versioning the code alone left exactly that hole.
 const BUILD_STAMP = (typeof window !== 'undefined' && window.__BUILD) || '';
 const dataURL = (p) => p + (BUILD_STAMP ? (p.includes('?') ? '&' : '?') + 'v=' + BUILD_STAMP : '');
-const state = { cat: null, items: [], group: 'All', q: '', cache: new Map(),
+const state = { cat: null, browse: {}, items: [], group: 'All', q: '', cache: new Map(),
                 mode: localStorage.getItem('choeMode') || 'reader' };
 
 const hms = (s) => {
@@ -47,9 +47,12 @@ function searchItems(q) {
       const pre = Object.keys(state.cat.index).filter((k) => k.startsWith(t));
       hits = pre.length ? [...new Set(pre.flatMap((k) => state.cat.index[k]))] : null;
     }
-    if (!hits) {
-      hits = state.items.map((it, i) => (it.t.toLowerCase().includes(t) ? i : -1)).filter((i) => i >= 0);
-    }
+    const editorialHits = state.items.map((it, i) => {
+      const browse = state.browse[it.id] || {};
+      const haystack = [it.t, browse.description, ...(browse.people || [])].join(' ').toLowerCase();
+      return haystack.includes(t) ? i : -1;
+    }).filter((i) => i >= 0);
+    hits = [...new Set([...(hits || []), ...editorialHits])];
     const set = new Set(hits);
     acc = acc === null ? set : new Set([...acc].filter((x) => set.has(x)));
     if (!acc.size) break;
@@ -130,20 +133,22 @@ function renderList() {
     ? `${idx.length} transcript${idx.length === 1 ? '' : 's'} mention “${state.q}”`
     : `${idx.length} transcripts`;
 
-  const sep = '<span class="sep">·</span>';
   $('cards').innerHTML = idx.length
-    ? idx.map((i) => {
+      ? idx.map((i) => {
         const it = state.items[i];
-        const src = it.s === 'manual' ? 'uploader captions'
-                  : it.s === 'auto' ? 'auto captions' : 'transcribed here';
+        const browse = state.browse[it.id] || {};
+        const names = browse.people || [];
+        const shownNames = names.slice(0, 4);
+        const moreNames = names.length > shownNames.length ? ` +${names.length - shownNames.length} more` : '';
         return `<li><button type="button" data-id="${esc(it.id)}">
           <span class="record-main">
             <span class="ct">${highlight(it.t, terms)}</span>
-            <span class="cm">${esc(it.g)}${sep}${src}${it.e ? sep + 'editorial notes' : ''}</span>
+            <span class="record-summary">${highlight(browse.description || 'Summary unavailable.', terms)}</span>
+            <span class="record-people"><b>People</b> ${shownNames.map(esc).join(', ')}${esc(moreNames)}</span>
           </span>
           <span class="record-collection">${esc(it.c)}</span>
           <span class="record-runtime">${hms(it.d)}</span>
-          <span class="record-text">${it.w.toLocaleString()} words</span>
+          <span class="record-text">${esc(browse.transcript_label || 'Transcript')}<small>${it.w.toLocaleString()} words</small></span>
         </button></li>`;
       }).join('')
     : `<li><p class="empty">Nothing matches “${esc(state.q)}”.</p></li>`;
@@ -750,16 +755,15 @@ function row(d, s, i, terms) {
    boxed and labelled because the contract requires editorial writing to stay
    visibly separate from the faithful transcript -- a reader must never mistake
    a summary for something that was said. */
-function renderCast(vid) {
-  // WHO WAS IN THE ROOM, from the show's own episode description. Labelled as
-  // stated-not-heard because that is exactly what it is: testimony about the
-  // recording. It may narrow who a voice could be; it cannot say who spoke.
+function renderCast(record) {
+  // People are human-reviewed at the route level. That is useful orientation,
+  // but it is not a voiceprint and must never become a guessed line label.
   const el = $('castline');
   if (!el) return;
-  const people = (state.cast || {})[vid];
+  const people = record.editorial?.people || [];
   if (!people || !people.length) { el.hidden = true; el.innerHTML = ''; return; }
-  el.innerHTML = `<span class="castlbl">In the room</span> ${people.map(esc).join(' · ')}
-    <span class="castsrc">as stated by the show's episode description — not identified from the audio</span>`;
+  el.innerHTML = `<span class="castlbl">People named</span> ${people.map(esc).join(' · ')}
+    <span class="castsrc"><b>Voices:</b> individual lines are left unnamed unless directly verified. This avoids attaching the wrong person to a quote.</span>`;
   el.hidden = false;
 }
 
@@ -770,6 +774,10 @@ function renderEditorial(ed, kind, vid) {
   const chips = (a) => `<p class="chips">${a.map((x) =>
     `<span class="chip">${esc(typeof x === 'string' ? x : x.name || JSON.stringify(x))}</span>`).join('')}</p>`;
   const parts = [];
+  const INTERNAL_FIELDS = new Set([
+    'reviewed_on', 'description', 'description_source', 'people', 'quality',
+    'source_notes', 'speaker_policy', 'publication_restrictions',
+  ]);
 
   // Content warnings render FIRST and visually distinct. This archive is public
   // and contains material a reader may reasonably want flagged before reading;
@@ -790,7 +798,7 @@ function renderEditorial(ed, kind, vid) {
   }
 
   for (const [k, v] of Object.entries(ed)) {
-    if (k === 'content_warnings' || k === 'content_warning') continue;
+    if (k === 'content_warnings' || k === 'content_warning' || INTERNAL_FIELDS.has(k)) continue;
     if (v == null || (Array.isArray(v) && !v.length)) continue;
     if (k === 'chapters' && Array.isArray(v)) {
       parts.push(`<h4>${label(k)}</h4><ol class="chapters">` + v.map((c) => {
@@ -822,7 +830,7 @@ function renderEditorial(ed, kind, vid) {
     }
   }
   if (!parts.length) { box.hidden = true; return; }
-  box.innerHTML = `<p class="edlabel">Editorial notes — written commentary, not a record of what was said</p>${parts.join('')}`;
+  box.innerHTML = `<p class="edlabel">What happens — human-written context, separate from the transcript</p>${parts.join('')}`;
   box.hidden = false;
 }
 
@@ -839,12 +847,9 @@ async function openItem(id) {
   $('rtitle').textContent = d.title;
   $('rmeta').textContent = [d.group, meta && hms(meta.d), meta && `${meta.w.toLocaleString()} words`]
     .filter(Boolean).join(' · ');
-  // WHERE THIS CAME FROM. The page previously showed a YouTube link on YouTube
-  // items and nothing at all on the 177 sourced from a Google Drive archive,
-  // which read as though the whole corpus were YouTube. It is not, and the Drive
-  // originals have no per-file URL recorded — the provenance kept the archive
-  // name and filename only. So state the source for every item and link only
-  // where a link actually exists, rather than implying one everywhere.
+  // Name the source plainly. Archive filenames, cleaning thresholds and decoder
+  // counts remain in the record, but they are implementation evidence rather
+  // than useful orientation for a reader deciding whether to open an episode.
   const link = $('rlink');
   const srcEl = $('srcline');
   link.hidden = d.kind !== 'youtube';
@@ -863,48 +868,26 @@ async function openItem(id) {
     const where = wh ? `${esc(wh.uploader || 'Vimeo')} — Vimeo`
       : d.kind === 'film' ? 'Owner-supplied local film copy'
       : d.kind === 'youtube' ? 'YouTube'
-      : prov.archive ? `${prov.archive} — Google Drive archive`
-      : 'Google Drive archive';
-    // Only the Drive-sourced episodes lack a per-file link. Saying so on an item
-    // that carries one -- the Vimeo film does -- is false on its face.
-    const noLink = (d.kind !== 'youtube' && d.kind !== 'film' && !wh)
-      ? ' · no per-file source link was recorded for these'
-      : '';
+      : prov.archive || 'DVDASA archive';
     const whNote = wh
       ? ` · <b>transcript not published</b> — ${esc(wh.reason)} ${esc(wh.note || '')}`
       : '';
-    srcEl.innerHTML = `<span class="castlbl">Source</span> ${esc(where)}${esc(noLink)}${whNote}`;
+    srcEl.innerHTML = `<span class="castlbl">Source</span> ${esc(where)}${whNote}`;
     srcEl.hidden = false;
   }
 
-  // Provenance. Honest about the asymmetry: YouTube lines are one click from
-  // the exact second of the source, DVDASA lines are not, because the audio is
-  // not hosted here. Saying so is better than implying both are checkable.
-  const p = d.provenance || {};
-  const c = d.cleaning || {};
-  const v = d.vocab || {};
+  // One status in ordinary language replaces “uncorrected,” Whisper/ASR jargon,
+  // and the old wall of cleaning statistics. Human review applies to the
+  // summary and names; the transcript origin remains visible and honest.
+  const browse = state.browse[d.id] || {};
   const bits = [];
-  // Trailing period matters: without it the source ran straight into the next
-  // sentence ("Source: PowerfulJRE Every timestamp opens...").
-  if (p.archive) bits.push(`Source: ${esc(p.archive)}${p.file ? ` — <code>${esc(p.file)}</code>` : ''}.`);
-  bits.push(d.kind === 'youtube'
-    ? 'Every timestamp opens the source video at that exact second, so any line can be checked against the recording.'
-    : 'Audio is not hosted here. Timestamps refer to the original recording above; check the line against it before quoting.');
-  if (c.segments_dropped != null) {
-    bits.push(`Cleaning removed ${c.segments_dropped} of ${c.segments_in} segments `
-      + `(${Object.entries(c.reasons || {}).map(([k, n]) => `${n} ${k}`).join(', ') || 'none'}).`);
-  }
-  if (v.edits) {
-    bits.push(`${v.edits} name spelling${v.edits === 1 ? '' : 's'} corrected from a controlled list`
-      + (v.queued_for_review ? `; ${v.queued_for_review} lower-confidence suggestion${v.queued_for_review === 1 ? '' : 's'} left unapplied.` : '.'));
-  }
-  if (d.verification && d.verification.reviewed_against_video) {
-    bits.push(`Edited film transcript reviewed against the local video on ${esc(d.verification.reviewed_against_video)}; `
-      + `${Number(d.verification.scene_notes || 0)} bracketed scene notes are editorial descriptions, not dialogue.`);
-  }
+  bits.push(`<b>Transcript</b> ${esc(browse.transcript_label || 'Transcript available')}.`);
+  bits.push('The summary and people list were checked by a person; exact transcript wording can still be wrong.');
+  if (d.kind === 'youtube') bits.push('A timestamp opens the original video at that moment.');
+  else bits.push('The original audio is not hosted here, so verify exact quotes against the source recording.');
   $('prov').innerHTML = bits.join(' ');
 
-  renderCast(d.id);
+  renderCast(d);
   renderEditorial(d.editorial, d.kind, d.id);
   $('fq').value = state.q || '';
   renderTranscript(d, $('fq').value);
@@ -1114,6 +1097,10 @@ function route() {
     return;
   }
   state.items = state.cat.items;
+  try {
+    const browse = await (await fetch(dataURL('data/browse-index.json'))).json();
+    state.browse = browse.routes || {};
+  } catch { state.browse = {}; }
   const uniqueRoutes = [...new Map(state.items.map((item) => [item.id, item])).values()];
   const hrs = uniqueRoutes.reduce((a, b) => a + b.d, 0) / 3600;
   const w = uniqueRoutes.reduce((a, b) => a + b.w, 0);
@@ -1126,11 +1113,6 @@ function route() {
     const rr = await (await fetch(dataURL('data/retellings.json'))).json();
     state.retold = (rr.pairs || []).length;
   } catch { state.retold = 0; }
-
-  try {
-    const rs = await (await fetch(dataURL('data/roster.json'))).json();
-    state.cast = rs.cast || {};
-  } catch { state.cast = {}; }
 
   try {
     const st = await (await fetch(dataURL('data/stories.json'))).json();

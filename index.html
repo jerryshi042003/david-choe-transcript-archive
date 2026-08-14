@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The David Choe Transcript Archive</title>
 <meta name="description" content="A searchable, analyzed archive of 421 DVDASA and David Choe recordings, with corpus summary, recurring topics, people, story notes, and machine-assisted transcripts.">
-<link rel="stylesheet" href="styles.css?v=claude-design-canvas-20260813">
+<link rel="stylesheet" href="styles.css?v=episode-orientation-20260813">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -33,7 +33,7 @@
   <section id="browse">
     <header class="browse-intro">
       <h2>Recordings</h2>
-      <p>A searchable record of DVDASA, interviews, clips, and David Choe's own channel. Open any row to read its transcript and editorial context.</p>
+      <p>Each row tells you what happens and who comes up. Every episode has a human-written summary and reviewed names; transcript wording can still contain mistakes.</p>
     </header>
     <form class="search" role="search" onsubmit="return false">
       <label class="vh" for="q">Search all transcripts</label>
@@ -47,7 +47,7 @@
     <a class="featured-series" href="#ranch"><span>Featured series</span>The Ranch — four solo recordings →</a>
     <p class="count" id="count"></p>
     <div class="record-columns" aria-hidden="true">
-      <span>Recording</span><span>Collection</span><span>Runtime</span><span>Text</span>
+      <span>What happens</span><span>Collection</span><span>Runtime</span><span>Transcript</span>
     </div>
     <ol class="cards" id="cards"></ol>
   </section>
@@ -81,13 +81,11 @@
 </main>
 
 <footer class="foot wrap">
-  <p><strong>Machine-assisted transcripts with item-specific review status.</strong>
-     Most entries remain uncorrected; edited or video-reviewed entries say so in
-     their source note. Names and exact wording can still contain errors — check
-     a line against its source before quoting anyone.
-     Speaker names are deliberately not shown: automatic speaker identification
-     was tested and mislabelled one host as the other on roughly a third of
-     samples, so every line is left unattributed rather than wrongly attributed.</p>
+  <p><strong>Every recording has a human-written summary and reviewed people list.</strong>
+     The transcript itself may come from uploader captions, YouTube captions, or
+     computer transcription; each row says which. Exact wording can still be
+     wrong. Individual lines are not assigned to a person unless the voice was
+     directly verified.</p>
   <p>An unofficial, non-commercial index made for study and search. All
      recordings belong to their creators. Rights holders who want an item
      removed: open an issue on the repository and it will be taken down.</p>
@@ -98,7 +96,7 @@
   </nav>
 </footer>
 
-<script>window.__BUILD = "claude-design-canvas-20260813";</script>
-<script src="app.js?v=claude-design-canvas-20260813"></script>
+<script>window.__BUILD = "episode-orientation-20260813";</script>
+<script src="app.js?v=episode-orientation-20260813"></script>
 </body>
 </html>

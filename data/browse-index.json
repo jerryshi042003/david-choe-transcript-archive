@@ -1,0 +1,5272 @@
+{
+ "schema": "choe-corpus/browse-index@1",
+ "generated_from": "421 human-reviewed editorial records plus reader provenance",
+ "coverage": {
+  "unique_routes": 421,
+  "descriptions": 421,
+  "reviewed_people": 421
+ },
+ "speaker_note": "People are reviewed at episode level. Individual transcript lines are not assigned to a voice unless directly verified.",
+ "routes": {
+  "saga1-at-comic-con-2013-with-david-choe-and-asa-akira": {
+   "description": "DVDASA's first live show is recorded at San Diego Comic-Con amid severe microphone problems, crowd overlap and visually dependent bits.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-001-with-david-choe-and-asa-akira": {
+   "description": "The first DVDASA episode defines the title, cast chemistry and editorial problem the later archive inherits.",
+   "people": [
+    "David Choe",
+    "Yoshi Obayashi",
+    "Toni Ribas",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-002-with-david-choe-and-asa-akira": {
+   "description": "The second DVDASA episode develops the show's early ensemble format with David Choe and Asa Akira joined by Yoshi Obayashi and Bobby Namba.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Jessie Andrews",
+    "Mark Spiegler",
+    "Hunter Moore",
+    "Christina Rose",
+    "Katsuni",
+    "Joanna Angel",
+    "Karl Lagerfeld",
+    "Anna Wintour"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-003-with-david-choe-and-asa-akira": {
+   "description": "The third DVDASA episode consolidates the early four-person ensemble: David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Quentin Tarantino",
+    "Eli Roth",
+    "Sasha Grey",
+    "Anthony Bourdain",
+    "RZA",
+    "Bill Murray",
+    "Russell Peters",
+    "Dave Attell",
+    "Veruca James"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-004-with-david-choe-and-asa-akira": {
+   "description": "The fourth DVDASA episode begins immediately after Episode Three and first turns Bobby Namba's need to leave—his girlfriend Carol is waiting—into an argument about work, friendship, obligation, and the silent treatment.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Carol",
+    "Jason Jaworski",
+    "Michael J. Fox",
+    "Christopher Lloyd",
+    "Rob Reiner",
+    "Annette Bening",
+    "Martin Sheen",
+    "Cybill Shepherd"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-005-with-david-choe-and-asa-akira": {
+   "description": "Episode Five expands the early DVDASA room around guests Mister Cartoon and Estevan Oriol, with David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Mister Cartoon",
+    "Estevan Oriol",
+    "Carol",
+    "Mike Judge",
+    "Manti Te'o",
+    "Skrillex",
+    "Alex Pardee",
+    "Die Antwoord",
+    "Eminem",
+    "50 Cent",
+    "Jules Jordan"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-006-with-david-choe-and-asa-akira": {
+   "description": "Episode Six brings therapist and Yoshi Didn't co-host Lilit Arvahi into the recurring David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba room.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lilit Arvahi",
+    "Money Mark",
+    "Dr. Drew Pinsky",
+    "Poor Man",
+    "Russell Peters",
+    "Mark Spiegler",
+    "Sigmund Freud",
+    "Abraham Maslow"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-007-with-david-choe-and-asa-akira": {
+   "description": "Episode Seven moves from the previous week's personality-test aftermath into an extended anonymous interview with Donor X, also called Sammy Salami, whose paid sperm donation becomes a vehicle for talking about heredity, desire, selection, disclosure, money, and the obligations created by anonymous reproduction.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Donor X",
+    "Maury Showbizawitz",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lilit Arvahi",
+    "Annie Potts",
+    "Rick Astley"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-008-with-david-choe-and-asa-akira": {
+   "description": "Episode Eight brings graffiti artist Saber and Sasha Grey into an already crowded room with David Choe, Asa Akira, Maury Showbizawitz, Yoshi Obayashi, and Bobby Namba.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Saber",
+    "Sasha Grey",
+    "Maury Showbizawitz",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lisa Ling",
+    "Dani Daniels",
+    "Antonio Villaraigosa",
+    "Sascha Konietzko",
+    "Michael Holman",
+    "Vincent Gallo",
+    "Mark Spiegler",
+    "Heidi Fleiss",
+    "Doug Ellin",
+    "Mike Tyson",
+    "Howie Mandel",
+    "Harry Kim"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-009-with-david-choe-and-asa-akira": {
+   "description": "Lisa Ling joins David Choe, Asa Akira, Maury Showbizawitz, Yoshi Obayashi, and Bobby Namba shortly before the birth of her first child.",
+   "people": [
+    "Lisa Ling",
+    "David Choe",
+    "Asa Akira",
+    "Maury Showbizawitz",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Saber",
+    "Sasha Grey",
+    "Mark Burnett",
+    "Barbara Walters",
+    "Oprah Winfrey",
+    "Laura Ling",
+    "Euna Lee",
+    "Bill Clinton",
+    "Anthony Bourdain",
+    "Martin Yan",
+    "Tom Freston",
+    "Saad Mohseni",
+    "Jet Li",
+    "Lily Tomlin",
+    "Katie Holmes",
+    "Tobey Maguire",
+    "Ron Jeremy",
+    "Paula Cole"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-010-with-david-choe-and-asa-akira": {
+   "description": "Episode Ten begins with David Choe, Asa Akira, Yoshi Obayashi, Bobby Namba, and Critter in an extended explicit discussion of pornography, anal sex, preparation, hygiene, bodily accidents, fantasy, and what makes a performed scene feel real.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Christopher Fleming",
+    "Lisa Ling",
+    "Laura Ling",
+    "Bill Clinton",
+    "Veruca James",
+    "Harry Kim",
+    "Rody",
+    "Tatiana",
+    "Matt",
+    "Alex Tarrant",
+    "Liam Neeson",
+    "Danny Trejo",
+    "Nicolas Cage",
+    "Richard Ramirez",
+    "Chanel Preston",
+    "Mila Kunis",
+    "Macaulay Culkin"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-011-with-david-choe-and-asa-akira": {
+   "description": "Episode Eleven returns after the imported-chip conflict with David Choe, Asa Akira, Yoshi Obayashi, Bobby Namba, and Critter.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Christopher Fleming",
+    "Veruca James",
+    "Lexington Steele",
+    "Stan Lee",
+    "Maury Showbizawitz",
+    "Harry Kim",
+    "Tony Ribas",
+    "Derek Jeter",
+    "George Clooney",
+    "James Cameron",
+    "Celine Dion",
+    "Tori Welles",
+    "Alexis Texas",
+    "Jynx Maze",
+    "Tori Black",
+    "Kayden Kross",
+    "Sacha Baron Cohen",
+    "Ai Weiwei",
+    "Mila Kunis"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-012-with-david-choe-and-asa-akira": {
+   "description": "Episode Twelve is a four-person DVDASA episode with David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Five Cent",
+    "Veruca James",
+    "Lilit Arvahi",
+    "Vincent Gallo",
+    "Christian Slater",
+    "Harvey Keitel",
+    "George Clooney",
+    "Quentin Tarantino",
+    "Alan Thicke",
+    "Brad Pitt",
+    "Angelina Jolie",
+    "Seal",
+    "Heidi Klum",
+    "Matt Damon",
+    "Peter Dinklage",
+    "Viserys Targaryen",
+    "Khal Drogo",
+    "Joffrey Baratheon",
+    "Andy Sipowicz",
+    "Dean Cain",
+    "Teri Hatcher",
+    "Prince Akeem"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-013-with-david-choe-and-asa-akira": {
+   "description": "Episode Thirteen is a four-person DVDASA episode with David Choe, Asa Akira, Yoshi Obayashi, and Bobby Namba.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Veruca James",
+    "Hilary Swank",
+    "Mr. Miyagi",
+    "Brad Pitt",
+    "Angelina Jolie",
+    "Howard Stern",
+    "James Jean",
+    "Michael Fassbender",
+    "Steve McQueen",
+    "Money Mark",
+    "Mary Kay Letourneau",
+    "Joey Silvera",
+    "Sasha Grey",
+    "Critter",
+    "Leonardo da Vinci",
+    "Dr. Drew",
+    "Toni Ribas",
+    "Manuel Ferrara",
+    "Rocco Siffredi",
+    "Brian Pumper",
+    "Brandon Iron",
+    "James Deen"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-014-with-david-choe-and-asa-akira": {
+   "description": "Episode Fourteen begins with Asa Akira absent and David Choe, Yoshi Obayashi, Bobby Namba, and Maury Showbizawitz discussing punctuality, fantasy, jealousy, honesty, threesomes, hygiene, clothing, and a long racially charged story about David and Bobby's brother Mike visiting a strip club before Mike moved to New York.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Maury Showbizawitz",
+    "Joey Kurtzman",
+    "Veruca James",
+    "Damon",
+    "Mike Namba",
+    "Harry",
+    "The Iron Sheik",
+    "Moses",
+    "Rabbi Joel Rembaum",
+    "Nicolas Cage",
+    "Steve Irwin",
+    "Brad Pitt",
+    "Christian Bale",
+    "John Mayer",
+    "Jean-Paul Sartre",
+    "Ralph Long",
+    "Sarah Shevon",
+    "Antonio Banderas",
+    "Toni Ribas",
+    "London Keyes",
+    "Spiegler"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-015-with-david-choe-and-asa-akira": {
+   "description": "Episode Fifteen introduces Eddie Huang shortly before publication of Fresh Off the Boat and during production of its food-and-travel video series.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Eddie Huang",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Maury Showbizawitz",
+    "Veruca James",
+    "Jada Stevens",
+    "Jimmy Snuka",
+    "Jim Duggan",
+    "Roddy Piper",
+    "André the Giant",
+    "George Steele",
+    "Salma Hayek",
+    "Skin Diamond",
+    "Persia Monir",
+    "Rocky Roads",
+    "Vanessa del Rio",
+    "Iggy Azalea",
+    "Emeril Lagasse",
+    "David Chang",
+    "Anthony Bourdain",
+    "Nas",
+    "Masaharu Morimoto",
+    "Bobby Flay",
+    "John Cusack",
+    "Damien Hirst",
+    "Nikita Khrushchev",
+    "Fidel Castro",
+    "Edward Norton",
+    "LL Cool J",
+    "Ryan Adams",
+    "Eric Clapton"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-016-with-david-choe-and-asa-akira": {
+   "description": "Episode Sixteen features Jessie Andrews, then twenty years old and already combining adult performance with DJing, jewelry, modeling, and other business work.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Jessie Andrews",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Larry Clark",
+    "Max Hardcore",
+    "Kristen Stewart",
+    "Mark Spiegler",
+    "Woody Allen",
+    "Barack Obama",
+    "Beyoncé",
+    "Nicolas Cage",
+    "Téa Leoni"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-017-with-david-choe-and-asa-akira": {
+   "description": "Episode Seventeen brings Joe Rogan into DVDASA after David Choe and Yoshi Obayashi appeared on his podcast.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Joe Rogan",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Jae H. Kim",
+    "Tom Segura",
+    "Amit Goswami",
+    "Anthony Bourdain",
+    "Robert Crumb",
+    "Michael Jai White",
+    "RETNA",
+    "Banksy",
+    "Carlos Mencia",
+    "Mitzi Shore",
+    "Robin Williams",
+    "Sam Kinison",
+    "Richard Jeni",
+    "Ari Shaffir",
+    "Jamie Masada",
+    "Dane Cook",
+    "Louis C.K.",
+    "Bill Cosby",
+    "John F. Kennedy",
+    "River Phoenix",
+    "Ben Kingsley",
+    "Mahatma Gandhi",
+    "Mr. Cartoon",
+    "Mike Tyson",
+    "Joey Diaz",
+    "Duncan Trussell",
+    "Russell Peters"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-018-with-david-choe-and-asa-akira": {
+   "description": "Episode Eighteen deliberately returns attention from celebrity guests to the core DVDASA room while bringing in friends Zell and Lilit Arvahi.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Zell",
+    "Lilit Arvahi",
+    "Eddie Huang",
+    "Lisa Ling",
+    "Estevan Oriol",
+    "Mister Cartoon",
+    "Sasha Grey",
+    "Saber",
+    "Anthony Bourdain",
+    "Roy Choi",
+    "Bruce Willis",
+    "Ben Affleck",
+    "Mel Gibson",
+    "Jet Li",
+    "Bon Jovi",
+    "Radiohead",
+    "Sinéad O'Connor",
+    "Prince"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-019-with-david-choe-and-asa-akira": {
+   "description": "Episode Nineteen is framed as a Marvel Team-Up between DVDASA and Yoshi Didn't, with Lilit Arvahi joining the core room.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lilit Arvahi",
+    "Joe Rogan",
+    "Bruce Lee",
+    "Jason Scott Lee",
+    "Linda Lee Cadwell",
+    "Lauren Holly",
+    "Michael Mann",
+    "Russell Crowe",
+    "Al Pacino",
+    "Tom Cruise",
+    "Jamie Foxx",
+    "The Notorious B.I.G.",
+    "Poison",
+    "John Lennon"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-020-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty brings Luke Ford into a crowded room with David Choe, Asa Akira, Bobby Namba, Joey Kurtzman, and Yoshi Obayashi.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Bobby Namba",
+    "Luke Ford",
+    "Joey Kurtzman",
+    "Yoshi Obayashi",
+    "Rabbi Akiva",
+    "Tom Landry",
+    "Michael J. Fox",
+    "Michael Gross",
+    "Meredith Baxter",
+    "Courteney Cox"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-021-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty-One introduces Money Mark through the contrast between David Choe's discomfort hearing himself and Mark's long life as a working musician.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Money Mark",
+    "Joey Kurtzman",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Adam Yauch",
+    "Adam Horovitz",
+    "Michael Diamond",
+    "Kid Koala",
+    "Dan the Automator",
+    "Nosaj Thing",
+    "Beck",
+    "Steve Jobs",
+    "Ninja",
+    "Yolandi Visser",
+    "Aphex Twin",
+    "Jimmy Iovine",
+    "Flea",
+    "Jean-Paul Sartre",
+    "James Iha",
+    "Tracy Chapman",
+    "Biz Markie",
+    "Gilbert O'Sullivan"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-022-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty-Two is the Ex-Lover Show, although only Luna—an artist and former partner of David Choe—accepts the invitation.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Luna (on-air name)",
+    "Zell",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Money Mark",
+    "Chico Wang",
+    "Haley Paige",
+    "Jules Jordan",
+    "RETNA",
+    "Saber",
+    "Harris Wittels",
+    "Tori Black",
+    "David Alan Grier",
+    "Philip Seymour Hoffman",
+    "Penelope Ann Miller",
+    "Téa Leoni",
+    "Adam Sandler",
+    "Bill Murray",
+    "Scarlett Johansson",
+    "Wes Anderson",
+    "Roald Dahl"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-023-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty-Three brings John Cusack into the warehouse after a dinner introduction through a mutual friend and Eddie Huang.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "John Cusack",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Zell",
+    "Eddie Huang",
+    "Anthony Bourdain",
+    "John Doe",
+    "Ad-Rock",
+    "George Grosz",
+    "Max Beckmann",
+    "Otto Dix",
+    "Paul Klee",
+    "Adolf Hitler",
+    "Che Guevara",
+    "Rupert Murdoch",
+    "Charles Bukowski",
+    "Joseph Beuys",
+    "Hunter S. Thompson",
+    "Ralph Steadman",
+    "Johnny Depp",
+    "Damien Hirst",
+    "Scott Rudin",
+    "Larry David",
+    "Macaulay Culkin",
+    "Paul Hipp",
+    "Abel Ferrara",
+    "Pat Sajak",
+    "Pete Townshend",
+    "Groucho Marx",
+    "Nicolas Cage",
+    "David Alan Grier",
+    "Mia Farrow",
+    "Woody Allen",
+    "Soon-Yi Previn",
+    "Al Pacino",
+    "Gene Hackman",
+    "Akira Kurosawa",
+    "Federico Fellini",
+    "Francis Ford Coppola",
+    "Jakob Dylan",
+    "Natalie Merchant",
+    "Pat Benatar",
+    "Jackson Pollock",
+    "Jean-Michel Basquiat",
+    "Banksy",
+    "Clint Eastwood",
+    "Kevin Costner",
+    "Billy Campbell",
+    "Jennifer Connelly",
+    "Robert Rodriguez",
+    "Antonio Banderas",
+    "Studs Terkel",
+    "Joan Cusack",
+    "Paul Abbott"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-024-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty-Four begins with Yoshi Obayashi absent from DVDASA.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Money Mark",
+    "Bobby Namba",
+    "Zell",
+    "Valentin",
+    "John Cusack",
+    "Luke Ford",
+    "Joey",
+    "Charlie Murphy",
+    "Prince",
+    "Rick James",
+    "Charlie Rose",
+    "Charlie Sheen",
+    "Juanes",
+    "Dr. Dre",
+    "Snoop Dogg"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-025-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty-Five, “Dave's Gambling Days,” begins with Zell preparing for a short absence and producer Juan—publicly known as Sci-Fi Reuben—joining the table.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Juan",
+    "Money Mark",
+    "Bobby Namba",
+    "Zell",
+    "Yoshi Obayashi",
+    "Valentin",
+    "John Cusack",
+    "Maury Showbizawitz",
+    "Beth",
+    "Anthony Bourdain",
+    "David Chang",
+    "Kurt Rambis",
+    "Chuck Palahniuk",
+    "Howard Stern",
+    "Barbara Walters",
+    "Tiger Woods",
+    "MC Hammer",
+    "Val Kilmer",
+    "Tobey Maguire",
+    "Artie Lange",
+    "Larry the Cable Guy",
+    "Michael Jordan",
+    "Bill Murray",
+    "Al Pacino",
+    "James Van Der Beek",
+    "Ryan Phillippe",
+    "Nicolas Cage",
+    "Rene Russo",
+    "Pierce Brosnan"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-026-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty-Six begins after David Choe and Critter return from Kabul.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Yoshi Obayashi",
+    "Zell",
+    "John Cusack",
+    "Maury Showbizawitz",
+    "Saad Mohseni",
+    "Jeff Goldblum",
+    "Rupert Murdoch",
+    "Harry Kim",
+    "Estevan Oriol",
+    "Roy Choi",
+    "Anthony Bourdain",
+    "Howard Stern",
+    "Joe Rogan",
+    "Adam Carolla",
+    "Sandy Westgate",
+    "Cindy Hope",
+    "Toni Ribas",
+    "Stevie Wonder",
+    "Prince",
+    "Veruca James",
+    "Carol",
+    "Donna Lewis",
+    "Julia Roberts",
+    "Ice Cube",
+    "T.I.",
+    "Mack 10",
+    "The Notorious B.I.G.",
+    "Too Short",
+    "Leonardo DiCaprio",
+    "Samuel L. Jackson",
+    "Kerry Washington",
+    "Liam Neeson",
+    "B.B. Jones"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-027-with-david-choe-and-asa-akira": {
+   "description": "Episode Twenty-Seven is organized around virginity and the stories people build around sexual initiation.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Yoshi Obayashi",
+    "Saad Mohseni",
+    "David Beckham",
+    "Pat Riley",
+    "Christian Slater",
+    "John Lennon",
+    "Nicolas Cage",
+    "Tom Cruise",
+    "RZA",
+    "Tyra Banks",
+    "Omar Borkan Al Gala"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-028-with-david-choe-and-asa-akira": {
+   "description": "Pamela Adlon joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode about creative partnership, acting, parenting, family obligation, and the uneasy border between a public persona and private life.",
+   "people": [
+    "David Choe",
+    "Pamela Adlon",
+    "Asa Akira",
+    "Money Mark",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Louis C.K.",
+    "David Duchovny",
+    "Larry David",
+    "John Stamos",
+    "Denzel Washington",
+    "Eva Mendes",
+    "Adam Carolla",
+    "Anthony Bourdain",
+    "Damien Hirst",
+    "Jean-Michel Basquiat",
+    "Lisa Ling",
+    "Sasha Grey",
+    "Stephen Tobolowsky",
+    "Tom Kapinos",
+    "John Cusack",
+    "Eric Stoltz",
+    "David O. Russell",
+    "Hugh Hefner",
+    "Pablo Picasso",
+    "Jean-Claude Van Damme",
+    "Mike Judge",
+    "Pamela Anderson",
+    "Amber Peach",
+    "Mark Spiegler",
+    "Dr. Drew Pinsky"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-029-with-david-choe-and-asa-akira": {
+   "description": "Kevin Hayes joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode nominally framed around DVDASA's first Black guest.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Kevin Hayes",
+    "Money Mark",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Juan",
+    "Yoshi",
+    "Eric Estrada",
+    "John Mayer",
+    "Pamela Adlon",
+    "Sasha Grey",
+    "Everlast",
+    "Anthony Bourdain",
+    "Charmane Star",
+    "Howard Stern",
+    "Donna Summer",
+    "Too $hort"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-030-with-david-choe-and-asa-akira": {
+   "description": "Andy Milonakis joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode about early internet fame, creative breadth, criticism, sensitivity, food, music, and the coercive edges of the show's workplace and sexual storytelling.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Andy Milonakis",
+    "Money Mark",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Yoshi Obayashi",
+    "Harry Kim",
+    "Saelee Oh",
+    "Maury Showbizawitz",
+    "Pamela Adlon",
+    "Trent Reznor",
+    "Mariqueen Maandig",
+    "Veruca James",
+    "Joe Rogan",
+    "Lisa Ling",
+    "Jimmy Kimmel",
+    "Robert Anton Wilson",
+    "Shane Diesel",
+    "Lexington Steele",
+    "Pat Tenore",
+    "Eminem",
+    "The Notorious B.I.G.",
+    "Will Smith",
+    "Eddie Murphy",
+    "Arsenio Hall"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-031-with-david-choe-and-asa-akira": {
+   "description": "Harris Wittels joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode that moves from television comedy and the invention of “humblebrag” into one of the corpus's clearest contemporaneous records of active opioid dependence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Harris Wittels",
+    "Money Mark",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Andy Milonakis",
+    "Yoshi Obayashi",
+    "Pamela Adlon",
+    "Everlast",
+    "Sarah Silverman",
+    "Scott Rudin",
+    "Howard Stern",
+    "Barbara Walters",
+    "Nick Kroll",
+    "Seth Rogen",
+    "Chris Kelly",
+    "Michael Richards",
+    "Daniel Tosh",
+    "Chelsea Peretti",
+    "Kenny Powers",
+    "Ashley Schaeffer",
+    "Stevie Janowski",
+    "Bobby Lee",
+    "Chris Rock",
+    "Ernest Hemingway",
+    "Emily VanCamp",
+    "Calista Flockhart",
+    "Travis Barker",
+    "Chris Cornell",
+    "Eddie Vedder",
+    "Mike Watt",
+    "Aubrey Plaza",
+    "Stephanie Wittels Wachs"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-032-with-david-choe-and-asa-akira": {
+   "description": "Everlast joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for DVDASA's first in-studio live-music episode.",
+   "people": [
+    "David Choe",
+    "Estevan Oriol",
+    "Bobby Namba",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-033-with-david-choe-and-asa-akira": {
+   "description": "Estevan Oriol joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba.",
+   "people": [
+    "David Choe",
+    "Estevan Oriol",
+    "Bobby Namba",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-034-with-david-choe-and-asa-akira": {
+   "description": "DVDASA's first call-in experiment is hosted by David Choe with Alex Tarrant, Critter, Valentin, and Bobby Namba; Asa Akira is absent for work.",
+   "people": [
+    "David Choe",
+    "Alex Tarrant",
+    "Bobby Namba",
+    "Mark Millar",
+    "Ai Weiwei",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-035-with-david-choe-and-asa-akira": {
+   "description": "DVDASA's second unscreened call-in episode again makes provenance and privacy more important than aggressive speaker naming.",
+   "people": [
+    "David Choe",
+    "Russell Peters",
+    "Estevan Oriol",
+    "Robin Quivers",
+    "Alex Tarrant",
+    "Bobby Trivia",
+    "Howard Stern",
+    "Pamela Adlon",
+    "Veruca James",
+    "Louis C.K.",
+    "Asa Akira",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-036-with-david-choe-and-asa-akira": {
+   "description": "Episode 036 brings filmmaker Eli Roth into a room with David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba after an archival montage of Asa's award work and David's television appearances.",
+   "people": [
+    "David Choe",
+    "Christopher Nolan",
+    "Quentin Tarantino",
+    "Mister Cartoon",
+    "Robin Williams",
+    "Estevan Oriol",
+    "Pamela Adlon",
+    "Trent Reznor",
+    "Alex Pardee",
+    "Bobby Namba",
+    "John Cusack",
+    "Money Mark",
+    "Asa Akira",
+    "Eli Roth",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-037-with-david-choe-and-asa-akira": {
+   "description": "Episode 037 has no outside guest: David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba use the room to announce Thumbs Up!",
+   "people": [
+    "David Choe",
+    "Maury Showbizawitz",
+    "Yoshi Obayashi",
+    "Joey Kurtzman",
+    "Adam Carolla",
+    "Howard Stern",
+    "Bobby Namba",
+    "Kevin Smith",
+    "B.B. Jones",
+    "Money Mark",
+    "Toni Ribas",
+    "Asa Akira",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-038-with-david-choe-and-asa-akira": {
+   "description": "Episode 038 has no outside guest.",
+   "people": [
+    "David Choe",
+    "Bobby Namba",
+    "Sean Parker",
+    "Pat Tenore",
+    "Asa Akira",
+    "Bobby Lee",
+    "Joe Hahn",
+    "Critter",
+    "Jim Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-039-with-david-choe-and-asa-akira": {
+   "description": "Episode 039 returns after a three-week break with Johnny Bravo, an old New York friend of David Choe who uses an on-air alias.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain",
+    "Howard Stern",
+    "London Keyes",
+    "Bobby Namba",
+    "David Chang",
+    "James Deen",
+    "Money Mark",
+    "Asa Akira",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-040-with-david-choe-and-asa-akira": {
+   "description": "Episode 040 brings Sam Spiegel and Alfredo Ortiz into DVDASA to explain how *Thumbs Up!* Season 4 unexpectedly intersected with Maximum Hedrum at the Windsor–Detroit border.",
+   "people": [
+    "David Choe",
+    "Bobby Namba",
+    "John Lennon",
+    "Spike Jonze",
+    "Money Mark",
+    "Asa Akira",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-041-with-david-choe-and-asa-akira": {
+   "description": "Episode 041 opens with Asa Akira describing a conflict with Toni Ribas through data from a shared Jawbone UP activity tracker.",
+   "people": [
+    "David Choe",
+    "Macaulay Culkin",
+    "Howard Stern",
+    "Eddie Huang",
+    "Larry Flynt",
+    "Shane Smith",
+    "Toni Ribas",
+    "Asa Akira",
+    "Harry Kim"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-042-with-david-choe-and-asa-akira": {
+   "description": "Episode 042 brings artist Tim Biskup into a room with David Choe, Asa Akira, Zell, Critter, Valentin, Bobby, and producer Alec.",
+   "people": [
+    "David Choe",
+    "Kurt Rambis",
+    "Toni Ribas",
+    "Asa Akira",
+    "Critter",
+    "Khalyla"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-043-with-david-choe-and-asa-akira": {
+   "description": "Episode 043 continues DVDASA with David Choe, Asa Akira, Zell, Critter, Valentin, and Bobby.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain",
+    "David Beckham",
+    "Julia Roberts",
+    "Kevin Smith",
+    "Asa Akira",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-044-with-david-choe-and-asa-akira": {
+   "description": "Episode 044 opens with an a cappella rehearsal of the DVDASA name.",
+   "people": [
+    "David Choe",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-045-with-david-choe-and-asa-akira": {
+   "description": "Episode 045 opens by turning Bobby's growing wart into a proposed YouTube stunt.",
+   "people": [
+    "David Choe",
+    "James Jean",
+    "Tony Ribas",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-046-with-david-choe-and-asa-akira": {
+   "description": "Episode 046 features comedian Jim Norton.",
+   "people": [
+    "David Choe",
+    "Patrice O'Neal",
+    "Eddie Murphy",
+    "Joey Silvera",
+    "Louis C.K.",
+    "Jay Mohr"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-047-with-david-choe-and-asa-akira": {
+   "description": "Episode 047 opens with Sylvester Graham's historical dietary ideas, then contrasts Valentin's private alternate dating profile with fake accounts impersonating Asa Akira.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-048-with-david-choe-and-asa-akira": {
+   "description": "Episode 048 opens unusually early, with pajamas and Bobby's lateness, before David announces his first art exhibition in almost four years at Mexico City's Museo Universitario del Chopo and the back-to-back recording schedule required before his flight.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-049-with-david-choe-and-asa-akira": {
+   "description": "Episode 049 is treated as DVDASA's approximate fiftieth show, although the cast repeatedly admits the count may be wrong.",
+   "people": [
+    "David Choe",
+    "Cybill Shepherd",
+    "Jessie Andrews",
+    "Eddie Murphy"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-050-with-david-choe-and-asa-akira": {
+   "description": "Episode 050 is a long Mexico City debrief framed by DVDASA's production pressure: David says the cast records in batches to maintain two free episodes per week while he travels to Copenhagen for MAD Symposium, Norway for a mural, and possibly Central America for reporting.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain",
+    "Pedro Friedeberg",
+    "Jessie Andrews",
+    "Pamela Adlon",
+    "David Chang",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-051-stf-sexually-transmitted-feelings": {
+   "description": "Episode 051, `STF: Sexually Transmitted Feelings`, begins with a speculative DVDASA wedding for Bobby and Quiet C.",
+   "people": [
+    "David Choe",
+    "Maury Showbizawitz",
+    "Nicolas Cage"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-052-zach-gilford": {
+   "description": "Episode 052 is a sustained Friday Night Lights production-history conversation with Zach Gilford.",
+   "people": [
+    "David Choe",
+    "Katie Holmes",
+    "Tom Cruise"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-053-kevin-smith": {
+   "description": "Episode 053 begins as a direct continuation of Zach Gilford's visit, then becomes a long Kevin Smith conversation about memory, filmmaking, friendship, and the stories people use to explain themselves.",
+   "people": [
+    "David Choe",
+    "Maury Showbizawitz",
+    "Ben Affleck",
+    "Bobby Namba",
+    "Kevin Smith",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-054-ask-asa-sexual-guacamole": {
+   "description": "Episode 054 is an intentionally shortened Ask Asa episode recorded at the end of a five-show day.",
+   "people": [
+    "David Choe",
+    "Kevin Smith",
+    "Money Mark"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-055-bobby-s-announcement": {
+   "description": "Episode 055 centers on Bobby Namba's first short script, an unfinished roughly ten-page DVDASA story imagining that the listeners stop listening.",
+   "people": [
+    "David Choe",
+    "Die Antwoord",
+    "Kayden Kross",
+    "Bobby Namba",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-056-intentional-discomfort": {
+   "description": "Episode 056 turns Bobby Namba's possible future departure into a two-hour argument about loyalty, employment, family, and creative discomfort.",
+   "people": [
+    "David Choe",
+    "Pamela Adlon",
+    "Bobby Namba",
+    "Money Mark",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-057-never-been-dumped-n-b-d": {
+   "description": "Episode 057 supplies the clearest surviving first-person origin story for DVDASA.",
+   "people": [
+    "David Choe",
+    "Dan the Automator",
+    "Barbara Walters",
+    "Daniel Dae Kim",
+    "Jessie Andrews",
+    "Eric Nakamura",
+    "Estevan Oriol",
+    "Mark Spiegler",
+    "Howard Stern",
+    "Stacey Adams",
+    "Money Mark",
+    "Kid Koala",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-058-the-reporter": {
+   "description": "A reporter enters the DVDASA room and becomes part of the episode.",
+   "people": [
+    "David Choe",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-059-body-modifications-sports": {
+   "description": "Episode 59 is a production-history episode disguised as sports and body-modification talk.",
+   "people": [
+    "David Choe",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-060-david-arquette": {
+   "description": "Episode 60 combines two different programs.",
+   "people": [
+    "David Choe",
+    "David Arquette",
+    "Paul Reubens",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-061-aubrey-plaza": {
+   "description": "Episode 61 opens by recapping the David Arquette night, strip-club etiquette, and Choe's invasive speculation about a private Mexico partner.",
+   "people": [
+    "David Choe",
+    "David Arquette",
+    "Aubrey Plaza",
+    "Nicolas Cage"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-062-kayla-carrera": {
+   "description": "Episode 62 is an emergency Friday-the-13th recording centered on a newly hired engineer's sexual encounter with retired adult performer Kayla Carrera immediately before the show.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-063-bobby-hundreds-and-heather": {
+   "description": "Episode 63 begins as a loose ensemble show and becomes two records.",
+   "people": [
+    "David Choe",
+    "Bobby Hundreds"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-064-heather-hot-dog": {
+   "description": "Episode 64 continues the pseudonymous Heather appearance.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-065-saelee-oh-seeks-double-vag-double-anal-dates": {
+   "description": "Artist Saelee Oh joins an ensemble episode about her long friendship with David Choe, the Giant Robot art community, racial humor, friendship and attraction, Tinder-era dating, a proposed matchmaking project, and her detailed ideal-partner checklist.",
+   "people": [
+    "David Choe",
+    "Saelee Oh"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-067-return-of-hikaru-power-check": {
+   "description": "Two Japanese motorsport guests return for a long ensemble episode that starts with staged bondage and a private explicit video, then ranges across Japanese sex-work and train-groping stereotypes, racing, online blocking, dating fatigue, housing and wealth, CoolSculpting, body preference, prison food, Ask Asa, consent withdrawal, and Canadian/sports trivia.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-068-david-s-announcement": {
+   "description": "A truncated cast begins with adult-industry risk and a proposed GHB/Viagra experiment, then the host stages an announcement that DVDASA might end because of death threats, former partners' anger, guests' edit requests, and the cumulative harm of an unfiltered show.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-069-bobby-lee-and-the-pooner": {
+   "description": "Bill Poon is introduced through his work driving and scheduling for adult workers, then Bobby Lee joins for an unusually long conversation that ranges across Asian-American representation, comedy, recovery, childhood drug use and sexual behavior, domestic violence, family loyalty, pornography, sex work, friendship, racism, and consent.",
+   "people": [
+    "David Choe",
+    "Bill Poon",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-070-slink-johnson-cousin-endo-the-armenian-virgin": {
+   "description": "Slink Johnson discusses Lamar Davis in Grand Theft Auto V, Black Jesus, The Boondocks, Too $hort, comedy, school service, adult-film production, graffiti, and the path from class clown to working entertainer.",
+   "people": [
+    "David Choe",
+    "Too $hort"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-071-the-conclusion-of-the-armenian-virgin-trilogy-ft-bobby-lee": {
+   "description": "The episode opens in an unfinished new studio, then devotes most of its running time to an on-air reconstruction of a nineteen-year-old fan's first sexual encounter with the host.",
+   "people": [
+    "David Choe",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-072-bobby-lee-valentin-s-birthday": {
+   "description": "A shorter birthday episode becomes a useful recovery document.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-073-am-i-gonna-get-that-ring-ft-bobby-lee-poon-phoebe": {
+   "description": "Episode 73 contains four different archival stories that should not be flattened into banter.",
+   "people": [
+    "David Choe",
+    "Mike White",
+    "Bill Poon",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-074-ruining-lives-ft-bobby-lee-the-pooner": {
+   "description": "Episode 74 is the clearest early DVDASA record of a production recognizing that contextual anonymity failed.",
+   "people": [
+    "David Choe",
+    "Bill Poon",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-075-vip-no-problem-ft-dr-nima-bobby-lee": {
+   "description": "Episode 75 is a product-development and organizational-history episode wrapped around the 2013 Middle East trip.",
+   "people": [
+    "David Choe",
+    "Estevan Oriol",
+    "Eddie Huang",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-076-the-red-zone-with-steve-lee": {
+   "description": "Episode 76 is both Steve Lee's early public creative record and a case study in consent that occurs too late.",
+   "people": [
+    "David Choe",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-077-locker-room-talk": {
+   "description": "Episode 77 is framed as locker-room talk while Asa Akira is absent, then repeatedly turns absent partners, fans and workers into intimate material without demonstrated publication consent.",
+   "people": [
+    "David Choe",
+    "David Chang",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-078-s-l-a-p-something-like-a-pimp-ft-slink-endo-heather-hot-dog-bobby-le": {
+   "description": "Episode 78 combines an on-air producer audition, fan-to-worker recruitment, a crowded returning cast, a prolonged phone-policy conflict, commercial-sex exploitation talk and the most explicit direct removal request yet found.",
+   "people": [
+    "David Choe",
+    "Joe Rogan"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb": {
+   "description": "Episode 79 brings Erik Griffin into the crowded Episode 78 room and turns the phone dispute into a broader argument about attention, fame, attraction, friendship, honesty and self-control.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Bill Poon"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-080-colonic-confessions": {
+   "description": "Episode 80 is both a health-misinformation case study and a production manifesto.",
+   "people": [
+    "David Choe",
+    "Michael Jackson",
+    "Bobby Trivia"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-081-asians-are-future-people": {
+   "description": "Episode 81 is unusually useful when it stays with first-person experience.",
+   "people": [
+    "David Choe",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-082-the-crappuccino": {
+   "description": "Episode 82 combines a Thumbs Up!",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-083-elmer-s-glue-bobby-lee-channels-david-s-mom": {
+   "description": "Episode 83 is an unusually clear record of a group turning one participant's unwanted ritual back into live entertainment.",
+   "people": [
+    "David Choe",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-084-ask-asa-pooner-heather-phone-sex": {
+   "description": "Episode 84 restores Ask Asa as a sustained listener-question format.",
+   "people": [
+    "David Choe",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-085-pubes-everywhere": {
+   "description": "Episode 85 is a compact year-end record of the show's growing fan ecosystem, action-first hiring philosophy, ensemble photo production, platform strategy, informal labor and creative-risk doctrine.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-086-gay-for-hawaii-live-at-the-republik": {
+   "description": "A live Oahu episode documenting DVDASA's move from a downtown studio to a ticketed room, its cast-origin story, David Choe's Hawaii rehab claim, his mother's late-starting daily painting practice, his rejection by Korean galleries, and his proposal for a voluntary distraction-free art residency modeled on the productive constraint he experienced in jail.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-087-buyer-s-remorse-from-hawaii": {
+   "description": "Episode 87 debriefs the Oahu live show and turns a participant's urgent image-removal request into a test of DVDASA's no-edits ideology.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-088-david-chang": {
+   "description": "A 167-minute conversation in which David Choe and David Chang ask what happens after the risky work that made them successful is no longer available in the same form.",
+   "people": [
+    "David Choe",
+    "David Chang"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-089-fear-blood": {
+   "description": "A crowded first episode of 2014 organized around support: whether siblings watch one another's work, whether criticism can improve craft without humiliation, whether artists need celebrity validation, and whether friendship means attendance, money, gifts or honest attention.",
+   "people": [
+    "David Choe",
+    "James Jean",
+    "Bobby Lee",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-090-pjing-with-alvin-risk-nosaj-thing-feed-me-kill-the-noise": {
+   "description": "An electronic-music roundtable with Alvin Risk, Nosaj Thing, Feed Me and Kill the Noise that becomes a debate about what makes performance real, how producers preserve purpose onstage, and how touring pleasure competes with studio practice.",
+   "people": [
+    "David Choe",
+    "Nosaj Thing"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-091-insatiable-2-commentary": {
+   "description": "A large ensemble uses Asa Akira Is Insatiable 2 for a synchronized commentary experiment, borrowing the form associated on air with Kevin Smith's podcast commentary.",
+   "people": [
+    "David Choe",
+    "Kevin Smith",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-092-jeff-staples-crying-banana": {
+   "description": "The episode delays its guest for more than eighty minutes, but the eventual jeffstaple interview contains a compact creative history: STAPLE grew from an improvised shirt into a name attached to its founder; REED SPACE became a Lower East Side cultural store; and the pigeon turned a despised New York nuisance into a durable city mascot.",
+   "people": [
+    "David Choe",
+    "Mike Tyson"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-093-5-more-inches": {
+   "description": "James Jean joins remotely after recording a separate extensive interview whose publication remains under his control.",
+   "people": [
+    "David Choe",
+    "James Jean"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-094-steve-s-future": {
+   "description": "The durable first half is Steve Lee's postmortem of a failed stand-up set in Tempe.",
+   "people": [
+    "David Choe",
+    "Saad Mohseni",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-095-ask-asa-tripping-with-steve-lee": {
+   "description": "Episode 095 clarifies DVDASA's production method more directly than the prior episode: arguments and conversations are not prewritten radio bits, but recurring segments are deliberately attempted and often displaced by whatever develops in the room.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-096-the-trivia-wedding": {
+   "description": "Episode 096 opens with the clearest surviving account of Steve Lee's pre-comedy music practice.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-097-steven-yeun-and-artist-the-dark-dick": {
+   "description": "Episode 097 has two complementary creative histories.",
+   "people": [
+    "David Choe",
+    "Steven Yeun"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-098-dan-wu-joe-hahn-the-dark-dick": {
+   "description": "Episode 098 is both a guest carousel and a rare primary document about DVDASA's fan system.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Joe Hahn"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-099-pack-hunting": {
+   "description": "Episode 099 begins as a post-Ranch re-entry document.",
+   "people": [
+    "David Choe",
+    "Bill Poon",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-100-things-korean-people-like": {
+   "description": "The archive's Episode 100 is deliberately not the cast's official Episode 100.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-101-the-ranch-solo-series-part-one": {
+   "description": "David Choe records alone at the Ranch and turns the episode into an unsystematic art-school lecture.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Nosaj Thing",
+    "Geoff Darrow",
+    "James Jean",
+    "Jim Lee",
+    "Howard Stern",
+    "Jerry Seinfeld",
+    "Saber"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-102-bobby-lee-s-girlfriend-khalyla": {
+   "description": "Khalyla joins the recurring cast for a long first-person account of her background, a previous consensually non-monogamous household, meeting Bobby Lee on Tinder, their attraction and negotiated sexual role-play, his sobriety, and the possibility of a family.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Khalyla"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-103-parental-relations": {
+   "description": "The episode begins by contrasting Asa Akira's experience of highly produced radio bits with DVDASA's aspiration to `real talk`, then tests that ideal through David's attempt to speak candidly with his aging father about mortality, marriage, sex, grandchildren, art and family history.",
+   "people": [
+    "David Choe",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-104-trivia-with-a-whore-part-1": {
+   "description": "Delilah, using a chosen on-air name and the self-description `erotic provider`, gives a long first-person account of entering sex work in her late thirties, learning through stripping, webcam work, advertising, early appointments, fetish training, client screening and boundary enforcement.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-105-trivia-with-a-whore-part-2": {
+   "description": "Part 2 immediately reunites Delilah and Steve and asks them to narrate a private encounter that the cast had tried to overhear in Part 1.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-106-erection-quest": {
+   "description": "Episode 106 begins as a direct continuation of Trivia with a Whore, moves through David's Marvel/NYX firing story, Bobby and Steve Lee's sibling dynamic, pornography and abstinence theories, fame and self-promotion, and then spends its final third on David's account of a massage appointment he calls the successful Erection Quest.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-107-rapish-behavior": {
+   "description": "Episode 107 directly revisits Episode 106.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-108-magic-person-eva-lin": {
+   "description": "Eva Lin joins a three-hour episode spanning DVDASA workplace conflict, historical transgender terminology, adult-industry awards, her Filipino-Irish childhood and gender history, childhood sexual abuse, adolescent exploitation, school violence and transition, pornography and escorting, hormones and contemplated vaginoplasty, a one-night Satanism experiment, relationships, Ranch reflections and trivia.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-109-humane-trafficking": {
+   "description": "Episode 109 brings Bobby Lee and Khalyla back after the honeymoon and moves through relationship privacy, Khalyla's depression and medication history, David's suffering-and-creativity theory, an extended joint-suicide fantasy, revenge and reproductive hypotheticals, an improvised `humane human trafficking` sitcom, DVDASA personnel conflict, stand-up and television development, sexual price games, and a late strip-club story.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Khalyla"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-110-the-fake-male-orgasm": {
+   "description": "Episode 110 begins with Asa Akira's account of a possibly faked orgasm and an unusually detailed explanation of feature versus gonzo adult-film production.",
+   "people": [
+    "David Choe",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-111-mom-s-wand": {
+   "description": "Episode 111 moves from Asa Akira's clothing and the cast's family-affection theories into David's memory decline, gambling addiction and back-to-school idea; Critter's learning, class and adolescent history; a private childhood friend's bedroom massager; an extended HIV/AIDS-versus-boredom hypothetical; improvised science-fiction scripts; and Asa's memoir/RealDoll promotion.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-112-pink-pussy": {
+   "description": "Episode 112 opens with a confirmed ASR hallucination, then records an unusually intoxicated DVDASA session centered on promethazine/codeine mixture, fan and social-media boundaries, a disputed art commission, compensated-date applicants, a spouse's painful-sex account, an uncommissioned Friend Zone television pitch, sex workers who refuse interviews, dangerous bleach misinformation, private sexual messages, music previews and a Critter art-show announcement.",
+   "people": [
+    "David Choe",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-113-vegas-part-01": {
+   "description": "Episode 113 records DVDASA's first Las Vegas installment: David tests his gambling recovery amid casino inducements and private supervision; the cast discusses VICE/HBO and Oakland Museum work, Southwest travel, the podcast's effect on private relationships, Bill's work and adult-industry access, Asa's feature-dance engagement, Kira Kenner and a nonconsensual-contact story, then returns to Episode 108 guest Eva Lin through a long gender, orientation and sexual-fantasy argument.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-114-vegas-part-02": {
+   "description": "Episode 114 continues the Las Vegas recording for nearly two and a half hours.",
+   "people": [
+    "David Choe",
+    "Bill Poon",
+    "Bobby Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-115-vegas-part-03": {
+   "description": "Episode 115 closes the Las Vegas hotel-room sequence.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-116-vegas-part-04-the-poon-poon-report": {
+   "description": "Episode 116 closes the four-part Las Vegas sequence with a recap of the intoxicated escort guest, deliberate bedside audio capture of a sexual encounter, a detailed commercial-sex review, the guest's confusion over live versus recorded publication, Critter's attempted resignation over the show's turn toward pornography, and a Le Rêve wager that pressures Bill into a photographed body act until he says no.",
+   "people": [
+    "David Choe",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-117-vegas-part-05-no-newdes": {
+   "description": "Episode 117 closes the immediate Vegas aftermath through gambling-recovery reflection, a long argument over racial client exclusion, a hotel worker pulled into that debate, multiple private sexual and relationship accounts, lambskin-condom nondisclosure, manipulation through a television pitch, the `no means yes` line and sex described while a woman is passed out or half asleep, fan entry into the private suite, Critter's continuing resignation conflict, public reading of his vulnerable poem, and the deliberate No New Dudes/nudes/NEWDS title pun.",
+   "people": [
+    "David Choe",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-118-2-depressed-artists": {
+   "description": "Episode 118 opens with a ten-minute media montage, then brings David Chang back for a nearly three-hour discussion spanning fishing, workplace power, artistic discipline, burnout, wealth and racialized service, restaurant labor, depression and suicide, family risk philosophy, rage versus happiness, fan boundaries, gambling relapse pressure and a future-child naming wager.",
+   "people": [
+    "David Choe",
+    "David Chang"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-119-the-ranch-solo-series-part-two": {
+   "description": "Back at the Ranch, David Choe continues the “blueprint” as a long argument for creative risk and self-authorship.",
+   "people": [
+    "David Choe",
+    "Critter",
+    "Sam",
+    "Harry Kim",
+    "Banksy",
+    "Asa Akira",
+    "Bobby Lee",
+    "Deepak Chopra",
+    "Tony Robbins"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-120-bro-show": {
+   "description": "Episode 120 follows the Vegas run with Steve Lee, Bill, Val, Critter, Bobby Trivia and a late David Chang arrival.",
+   "people": [
+    "David Choe",
+    "Bobby Trivia",
+    "David Chang",
+    "Money Mark",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-121-a-day-in-the-life-of-steve-lee": {
+   "description": "Episode 121 builds a detailed oral profile of Steve Lee through wrestling demonstrations, solitude, work, comedy, gaming, food, soap collecting, pornography and a highly organized masturbation ritual.",
+   "people": [
+    "David Choe",
+    "David Chang",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-122-time-travel": {
+   "description": "Episode 122 begins with Asa Akira's book, David Choe's diabetes response and a debate over Steve Lee's simple satisfaction versus David Chang's achievement pressure.",
+   "people": [
+    "David Choe",
+    "David Chang",
+    "Asa Akira",
+    "Bill Poon",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-123-do-you-want-some-pizza": {
+   "description": "Episode 123 opens with hockey, freestyle experiments and Asa Akira's continued absence, then spends most of its first hour negotiating a proposed group-sex event.",
+   "people": [
+    "David Choe",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-124-bonnie-rotten": {
+   "description": "A two-hour ensemble episode that moves from faith, prison and recovery into Bonnie Rotten's professional history, workplace boundaries, explicit performance accounts, health folklore, condom-policy debate, a continually changing proposed sex-tape production, Money Mark's creative work and trivia.",
+   "people": [
+    "David Choe",
+    "Money Mark"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-125-deluge": {
+   "description": "An ensemble episode moving from a rectal-prolapse callback and bathroom humor through friendship, paid-fan interactions, skate/music product ideas, private twins, spa sexual conduct, colonics, work, memory and burnout, then back into an unsettled orgy-production negotiation.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-126-addicted-to": {
+   "description": "A birthday episode framed by a Silicon Valley cold open and the phrase `addicted to DVDASA`.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-127-with-david-choe-and-asa-akira": {
+   "description": "A Hawaii mini-show recorded by David Choe, Critter Fleming and Harry Kim while Asa Akira is away on book tour.",
+   "people": [
+    "David Choe",
+    "Critter Fleming",
+    "David Chang",
+    "Asa Akira",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-128-hawaii-happiness-symposium-part-2-with-jane-choe": {
+   "description": "The Hawaii happiness inquiry continues with David Choe's mother, Jane Choe, and Critter Fleming.",
+   "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-129-four-caballeros": {
+   "description": "The first explicit founder-absent DVDASA experiment: Bill Poon, Steve Lee and Valentin introduce themselves as triple cohosts, with Bobby Lee as special guest, while David Choe has been away and Asa Akira is occupied with her book tour.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Bill Poon",
+    "Bobby Lee",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-130-beyond-your-five-senses": {
+   "description": "Steve Lee, Bill Poon and Valentin host in the studio while David Choe participates only through an early speakerphone call.",
+   "people": [
+    "David Choe",
+    "Dan the Automator",
+    "Bill Poon",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-131-dave-in-love-part-one": {
+   "description": "After an opening conversation about a private participant trying to conceive, David Choe, Asa Akira, Valentin, Money Mark and Steve Lee introduce the show.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Asa Akira",
+    "Harry Kim",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-132-dave-in-love-part-two": {
+   "description": "Part Two resumes without a new introduction and first tests whether David Choe's phone relationship is meaningful despite never meeting.",
+   "people": [
+    "David Choe",
+    "Bill Poon"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-133-horny-in-your-heart": {
+   "description": "A Big Bear recording retreat built around Money Mark and Steve Lee's album begins with severe eating-disorder behavior.",
+   "people": [
+    "David Choe",
+    "Andy Milonakis",
+    "Money Mark",
+    "Bill Poon",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-134-don-t-touch-me-there": {
+   "description": "A deliberately truncated Big Bear episode opens with an improvised 'Don't Touch Me There' refrain and a debate about keeping comedy and music separate.",
+   "people": [
+    "David Choe",
+    "Bobby Hundreds",
+    "Bobby Namba",
+    "James Jean",
+    "Bobby Lee",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-135-eleven-seconds": {
+   "description": "A second Big Bear recording opens with Steve Lee freestyling over Money Mark's music, then returns to the Lee brothers' running comparison.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Asa Akira",
+    "Bobby Lee",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-136-irresistible": {
+   "description": "The third consecutive Big Bear episode is an unusually useful lesson in transcript epistemology.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Bill Poon",
+    "Bobby Lee",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-137-double-headed-dragon": {
+   "description": "With most of the cast gone, David Choe, Steve Lee and Money Mark recap two days at the Big Bear Ranch.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-139-prank-on-the-prank": {
+   "description": "At the Ranch, David Choe, Steve Lee, Money Mark and Ceci move between music, food, identity, work and family stories.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-140-spooning": {
+   "description": "Steve Lee and Bill Poon record alone at the Ranch, initially following discussion prompts David Choe supplied.",
+   "people": [
+    "David Choe",
+    "Bill Poon",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-141-scruples": {
+   "description": "The episode opens with Asa Akira describing a spouse's reaction to a Yakuza Boy Instagram post.",
+   "people": [
+    "David Choe",
+    "Asa Akira"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-episode-142-fastball": {
+   "description": "A Ranch morning becomes an unusually detailed record of Mangchi's formation.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Bill Poon",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-live-at-the-egyptian-theatre": {
+   "description": "DVDASA records a live pre-film show at the Egyptian Theatre in Los Angeles with David Choe, Asa Akira, Critter Fleming, Valentine, Money Mark, Bobby NAMBLA and a quiet introduction by Quiet C.",
+   "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-nov-2nd-1-3-slink-johnson-cousin-endo": {
+   "description": "The first surviving November 2 live block is a nearly three-hour launch-day broadcast built around improvisation, merchandise and guests filling a schedule disrupted by the LAX shooting.",
+   "people": [
+    "David Choe",
+    "Bill Poon"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-nov-2nd-2-3-slink-endo-spiegler-alina-li-chloe-the-virgin": {
+   "description": "The second November 2 live block resumes immediately after Part 1 and combines an art-print launch, adult-industry conversation, guest drop-ins and a long interview with a nineteen-year-old private fan called Chloe.",
+   "people": [
+    "David Choe",
+    "Mark Spiegler",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin": {
+   "description": "The final surviving November 2 block closes a nine-hour live day.",
+   "people": [
+    "David Choe",
+    "Pauly Shore",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-book-02-chapter-001": {
+   "description": "David Choe returns alone to the Ranch for the fourth blueprint installment, moving from hurt, commitment, and choosing risk into applied science fiction, creative discipline, criticism, scale, public judgment, and service.",
+   "people": [
+    "David Choe",
+    "David Chang",
+    "Tony Stark",
+    "Bruce Banner",
+    "Spike Jonze",
+    "Woody Allen",
+    "Jim Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-november-2nd-a-naked-starfish-and-the-most-dangerous-show-on-earth": {
+   "description": "A long-form November 2 live-room broadcast moves from a Mangchi opening and an adult-performer roundtable to a Reddit takedown, a Twitter migration, and a closing anti-bullying song.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Bill Poon",
+    "Steve Lee",
+    "Nikki Skyler",
+    "Veruca James",
+    "Bobby Trivia",
+    "Andy Milonakis"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-november-2nd-the-longest-day": {
+   "description": "The longest surviving November 2 recording follows an overnight DVDASA and Mangchi production from reunions and wrestling through band planning, trivia, fan stories, a proposed wedding, and an exhausted musical close.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Bobby Lee",
+    "Khalyla",
+    "Steve Lee",
+    "Money Mark",
+    "Critter Fleming",
+    "Bobby Trivia",
+    "Stacey Adams"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-": {
+   "description": "The public-facing finale of the November 2 event combines a DVDASA fan wedding, Mangchi concert, giveaways, audience stories and an increasingly explicit question-and-answer session.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Bobby Lee",
+    "Steve Lee",
+    "Critter Fleming",
+    "Bobby Trivia",
+    "Money Mark",
+    "James Jean"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-002-sardines": {
+   "description": "Chapter 2 opens with a rough Dry Lake song fragment, then gives Steve Lee a long solo camera-and-microphone monologue.",
+   "people": [
+    "David Choe",
+    "Bobby Trivia",
+    "Stacey Adams",
+    "Money Mark",
+    "Asa Akira",
+    "Bill Poon",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-003-the-window": {
+   "description": "Chapter 3 begins inside Mangchi rather than talk: an early version of Use a Mangchi plays through rough musical ASR, followed by long decoder runs of the letter P and Thank you that the cleaner correctly replaces with honest indistinct markers.",
+   "people": [
+    "David Choe",
+    "Stacey Adams",
+    "Money Mark",
+    "Asa Akira",
+    "Bill Poon",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-004-cock-blocked": {
+   "description": "Chapter 4 opens with a Korean/Mangchi performance whose repeated phonetic refrain and heavy musical overlap defeat ordinary English ASR.",
+   "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Bobby Trivia",
+    "Chris Rock",
+    "Money Mark",
+    "Asa Akira",
+    "Bill Poon",
+    "Bobby Lee",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-005-rude-jude-angelini-jessica-cribbon-and-vivian-kindle": {
+   "description": "Chapter 5 is a 2:27:29 ensemble episode with three distinct movements.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain",
+    "Charles Bukowski",
+    "Critter Fleming",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-006-standing-69": {
+   "description": "Chapter 6 is a compact bridge episode framed by two rough Mangchi performances.",
+   "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Bobby Trivia",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-008-felt-like-heaven": {
+   "description": "Chapter 8 is a long ensemble episode framed by two rough Mangchi performances.",
+   "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Donna Lewis",
+    "Asa Akira",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-009-torlando": {
+   "description": "Chapter 9 is a two-hour ensemble account of employment, Comic-Con, public exposure, sexualized ‘games,’ creative apprenticeship and a Pure Recreation Crew road trip.",
+   "people": [
+    "David Choe",
+    "Eric Nakamura",
+    "Howard Stern",
+    "Martin Yan",
+    "Bobby Lee",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-011-dr-dave": {
+   "description": "Chapter 11 moves from Mangchi performances and hotel deception into bodily-health talk, Asa Akira's film work, sex-worker safety, a proposed deceptive relationship show and the long improvised ‘Dr.",
+   "people": [
+    "David Choe",
+    "Money Mark",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-012-tightey-whiteys": {
+   "description": "Chapter 12 is an 82-minute ensemble episode about Steve Lee's continued employment, Mangchi rehearsal, Poon's old art, PURPS/RVCA and Luke Davis, fan recognition, an explicitly visual ‘tighty-whiteys’ costume, wrestling, a Sasha Grey party, chew-and-spit behavior, social-media craft, trivia and Mangchi performances.",
+   "people": [
+    "David Choe",
+    "Estevan Oriol",
+    "Kevin Hayes",
+    "James Jean",
+    "Money Mark",
+    "Sasha Grey",
+    "Asa Akira",
+    "Saelee Oh",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-013-the-perfect-woman-a-proposition": {
+   "description": "Chapter 13 begins with Mangchi's ‘Keep That Fire Alive,’ a failed hidden-guest prank and a short video-shoot-day episode with model/creative collaborator Charm Killings and Steve Lee.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee": {
+   "description": "Chapter 14 opens with a damaged Mangchi performance and then stages two intertwined trials: a literal series of wrestling bouts and a continuing test of whether Steve Lee keeps his job with David Choe.",
+   "people": [
+    "David Choe",
+    "Daniel Dae Kim",
+    "Bobby Lee",
+    "Steve Lee",
+    "Khalyla"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-015-redzone-all-the-time-the-choe-chang-method-men-evolution": {
+   "description": "Chapter 15 moves from Mangchi's damaged opening performance into a long argument about work, management, friendship and male intimacy.",
+   "people": [
+    "David Choe",
+    "Dan the Automator",
+    "Charlie Rose",
+    "Howard Stern",
+    "David Chang",
+    "Nosaj Thing",
+    "Money Mark",
+    "Bill Poon",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern": {
+   "description": "Chapter 16 opens with a badly decoded Mangchi performance: five `Gameplay` hallucinations, a roughly 120-token `Ow` run and unstable lyrics survive the automated cleaner.",
+   "people": [
+    "David Choe",
+    "David Chang",
+    "Steve Lee",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-017-mutants-true-love-an-igloo-dong-origin-orgy": {
+   "description": "Chapter 17 begins with damaged performance audio and a sick participant whose mask, distance and contact boundaries are handled inconsistently.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-018-the-marriage-proposal-the-critter-conundrum": {
+   "description": "Chapter 18 opens with a Mangchi alien-abduction performance, then brings back the fan couple introduced in Chapter 17.",
+   "people": [
+    "David Choe",
+    "Critter",
+    "Khalyla"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-019-business-as-usual-a-trannying-day-special": {
+   "description": "Chapter 19 stages a cast-wide cross-dressing episode under a historical title containing a slur.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-020-the-negotiation": {
+   "description": "Chapter 20 begins inside Mangchi rehearsal and introduces a new drummer and a silent costumed participant under on-air names.",
+   "people": [
+    "David Choe",
+    "Bill Poon"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-021-the-ranch-solo-series-3-the-lost-episode": {
+   "description": "The third Ranch blueprint begins in a heightened state of isolation and moves from killing and attempting to cook a rat into a broad manual about generosity, business, survival, observation, altered states, and making oneself the product.",
+   "people": [
+    "David Choe",
+    "Bill Poon",
+    "Kiefer Sutherland"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-022-a-scrotum-fire-a-bobby-birthday-the-unnuttable": {
+   "description": "Chapter 22 opens and closes with a damaged Mangchi song about isolation, suicide and recovery, probably centered on a Peter Tong/Tom character.",
+   "people": [
+    "David Choe",
+    "Bobby Trivia",
+    "Bobby Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-023-in-choe-we-trust": {
+   "description": "Chapter 23 begins with badly decoded multilingual/Mangchi audio, then a guest named Andrew recounts meeting David during Thumbs Up filming at an LDS site in Salt Lake City on June 18, 2013.",
+   "people": [
+    "David Choe",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-024-world-whore-z": {
+   "description": "Chapter 24 opens with a Mangchi stepfather song, then becomes an extended self-audit of DVDASA as a product: the cast knows it lacks regular scheduling, booking, topics, writers, planning and conventional production, and that its porn association deters guests.",
+   "people": [
+    "David Choe",
+    "Khalyla"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-025-american-whoreror-story": {
+   "description": "Chapter 25 is both a three-hour relationship autopsy and the clearest internal product critique so far.",
+   "people": [
+    "David Choe",
+    "Andy Milonakis",
+    "Nikki Skyler",
+    "Joe Rogan"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show": {
+   "description": "Chapter 26 opens with a Mangchi song that moves from school-shooting and suicide imagery toward survival, then becomes an unusually useful failure report on DVDASA's attempt at a produced segment.",
+   "people": [
+    "David Choe",
+    "Critter Fleming",
+    "Bobby Trivia",
+    "Kevin Smith",
+    "James Jean",
+    "Saelee Oh",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-027-fucking-canada": {
+   "description": "A four-person year-end episode with Britt from Vancouver.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-028-new-year-new-you-nuru": {
+   "description": "The first 2015 recording combines the show's most explicit internal product review with a long Japan/soapland account and a late Kamui Kobayashi interview.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-029-the-sedoner-boner-mushroom-strip": {
+   "description": "A back-to-back 2015 recording that never reaches the promised Trial of Poon.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-030-the-trial-of-poon": {
+   "description": "The third back-to-back recording opens with two music/performance spans, then stages an informal trial over a Billy Bob Crit episode made without two founders and an accidental disclosure of David's Japan location.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "saga2-saga-02-chapter-10-bane-lee": {
+   "description": "A 2014/15-era group recording opening with damaged music, then moving through live menstruation and intimate-object fetishization, STI misinformation, Hawaii work travel, a pseudonymous turned-cheek kiss boundary, Macau video recollection, a proposed month-long paid girlfriend experience, Sizzler outreach, relationship/fan interference, coercive mail-order-bride rhetoric, proposed filmed therapy, Poon's abandoned art career, Mangchi/employment discussion, a changing-consent menstrual-underwear performance, trivia and a damaged science-fiction song.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "vimeo-dirty-hands-laff": {
+   "description": "Harry Kim's feature documentary follows David Choe from Congo travel and Los Angeles graffiti through juvenile detention, commercial illustration, imprisonment in Japan, artistic success, and the dissatisfaction that survives it.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Sean Parker"
+   ],
+   "transcript_label": "Human-checked transcript"
+  },
+  "-I9ut9uikjY": {
+   "description": "A long JRE excerpt examines Choe's fear of ruining his life by speaking publicly, the appeal and burden of being seen as authentic, an intense relationship with a sculpture, self-hatred and whether rule-breaking art can still transcend its maker.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "-wZk4B1BB0c": {
+   "description": "Ed Piskor and Jim Rugg ask David Choe to reconstruct a concentrated comics week built around Brian K.",
+   "people": [
+    "David Choe",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Frank Miller",
+    "Jordan Crane",
+    "Gerard Way",
+    "Todd McFarlane",
+    "Jim Lee",
+    "Tim Truman",
+    "Stephen R. Bissette",
+    "Brian K. Vaughan",
+    "Dave Mandel",
+    "Will Dennis",
+    "Eddie Choi",
+    "Frank Quitely",
+    "Rafael Grampá",
+    "Daniel Warren Johnson",
+    "Simon Hanselmann",
+    "Dustin Nguyen",
+    "Seth",
+    "Scott Dunbier",
+    "Neil Gaiman",
+    "Peach Momoko",
+    "Marcos Martín",
+    "Bob Kane",
+    "Bill Watterson",
+    "Charles M. Schulz",
+    "Frank Frazetta",
+    "Norman Rockwell",
+    "Alphonse Mucha",
+    "Mike Zeck",
+    "Brian Bolland",
+    "Arthur Adams",
+    "Jock",
+    "Lynn Varley",
+    "Alan Moore",
+    "Roddy Piper",
+    "Mr. T",
+    "Celine [surname/role spelling unresolved]",
+    "Felix [surname unresolved]",
+    "Warby [spelling/identity unresolved]",
+    "unidentified collector",
+    "unidentified musician",
+    "unidentified audience members",
+    "unidentified Parasite production artist"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "01HBjlMmqCQ": {
+   "description": "An official-channel live art tutorial that starts with creative block and an uncertain feelings check, uses a smiley face and color as provisional emotional symbols, rejects the false image, builds a ground and shapes, stages a profane internal-critic argument, disrupts habitual facial drawing, and ends with black pigment, mark-making and a reported shift toward happiness.",
+   "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)",
+    "Bob Ross (intertextual reference)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "0Cqd5-YzDqE": {
+   "description": "A 2:45 music performance built around a heavily repeated “what I gotta do for you” refrain.",
+   "people": [
+    "unidentified singer/lyrical narrator",
+    "unidentified addressee",
+    "possible second lyrical role",
+    "unnamed ‘she/her’ figure"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "0cp3orVR5lg": {
+   "description": "Choe describes a psychedelic experience as an encounter with a profane alien voice, then connects its blue-body imagery to the so-called Mongolian spot birthmark and ancient-alien speculation.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon",
+    "Genghis Khan"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "0d9gqEc86-o": {
+   "description": "A participant-centered account of *The Choe Show* moves from an invitation to endure an uncomfortable three-hour experiment through sexual and family memories, the Australian test shoot that clarified the format, kitchen-based art making and a final painting described as a new beginning.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "0mEHuuf5bLw": {
+   "description": "A 16-second official-channel science-fiction trailer with five sparse caption records.",
+   "people": [
+    "unidentified fictional speaker(s)",
+    "unidentified fictional people/group",
+    "unidentified narrator",
+    "David Choe (source/work context only; no performance claim)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "1DQLpKe3p-E": {
+   "description": "David Choe recounts proposing in-world graffiti to Jon Favreau for *The Mandalorian*, building a backstory for his brief alien role, and treating the opportunity as fan labor rather than a paycheck.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jon Favreau",
+    "Roy Choi"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "1UA7PnoDiy8": {
+   "description": "Choe argues that hiding weakness creates a false strong self, then uses crying, attachment to his mother, broken personal boundaries and repeated failure to frame vulnerability as usable strength.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "1VEq7pdtbHM": {
+   "description": "The Hundreds' studio feature mixes Choe's artwork and guests with explicit object jokes, frustration over online abuse, a painful physical demonstration and a coercive role-play that should not be treated as relationship advice or consent.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "1YUK34XsNiY": {
+   "description": "A TigerBelly compilation excerpt uses *The Lord of the Rings* reunion as a friendship metaphor, then examines pandemic distance, a remembered Mangchi show, unanswered questions and Korean fathers' difficulty expressing affection.",
+   "people": [
+    "David Choe",
+    "Steven Yeun",
+    "Bobby Lee",
+    "Khalyla"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "1cEPqYMBlXA": {
+   "description": "Choe explains how an improvised pitch to Jon Favreau led to graffiti work and a tiny alien role in *The Mandalorian*, including prosthetics, research and a self-written gambling backstory.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jon Favreau"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "1x2N5-aYYl4": {
+   "description": "The 2013 myFinBec documentary follows Choe painting wooden wine crates and labels, beginning with travel-ban jokes, adapting imagery to bottles viewed sideways, embracing paint-warped wood and ending with the producer's account of packing artist-designed wine.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "2S1kNH59NBk": {
+   "description": "At forty-eight, David revives Thumbs Up in Los Angeles without Critter or Harry and deliberately reframes driving his mother's Lexus from pathetic to cool.",
+   "people": [
+    "David Choe",
+    "Critter [absent recurring cast reference]",
+    "Harry Kim [absent recurring cast reference]",
+    "Tenzin [private participant first name]",
+    "Annie [private vendor first name]",
+    "Javier [private participant first name]",
+    "private shop workers, visitors, park users and costumed performers"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "2Xw5EgZdNvQ": {
+   "description": "A 2014 conversation about creative independence, public speech, work, health, money, sex, race and the consequences of turning private provocation into a broadcast.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Brian Redban",
+    "Bobby Lee",
+    "Steve Lee",
+    "Bill Poon",
+    "Critter",
+    "David Chang",
+    "Jason Statham",
+    "Kevin James",
+    "Diego Sanchez",
+    "Dana White",
+    "Bernie Wrightson",
+    "Jet Li",
+    "Aaliyah",
+    "Steven Yeun",
+    "Anthony Bourdain",
+    "Dave Chappelle",
+    "Drew Struzan",
+    "Chris O'Donnell",
+    "Scott Glenn",
+    "Sandra Bullock",
+    "Larry Flynt",
+    "Bob Ross",
+    "Jack Kevorkian",
+    "George W. Bush",
+    "Patrice O'Neal",
+    "Asa Akira",
+    "Money Mark",
+    "Sofía Vergara",
+    "Cain Velasquez",
+    "Brock Lesnar",
+    "Chris Rock",
+    "Jackie Robinson",
+    "Darryl Strawberry",
+    "Larry David",
+    "Woody Allen",
+    "Ken Jeong",
+    "Howard Stern",
+    "Jerry Seinfeld",
+    "Tony Robbins",
+    "Tom Vu",
+    "Bill Clinton",
+    "Michael Moore",
+    "Jimmy Shubert"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "3AtrUOQcmck": {
+   "description": "Jim Rugg and Ed Piskor inspect physical copies of SPX 2000, NON and the Xeric edition of Slow Jams, tracing David Choe's short comics path while reading his collage, photocopy, lettering and autobiographical techniques.",
+   "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Tom Devlin",
+    "Charles Burns",
+    "Adrian Tomine",
+    "Dean Haspiel",
+    "Jordan Crane",
+    "Scott McCloud",
+    "James Kochalka",
+    "Robert Young",
+    "Jaime Hernandez",
+    "Dave Cooper",
+    "Al Columbia",
+    "Brendan McCarthy",
+    "Carol Swain",
+    "Paul Pope",
+    "Chester Brown",
+    "Eddie Campbell",
+    "Daniel Clowes",
+    "David Lapham",
+    "Piet Mondrian",
+    "Norman Rockwell",
+    "Tom Scioli",
+    "Nick Bertozzi",
+    "Leela Corman",
+    "Jason Shiga"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "3QecMMrcCCA": {
+   "description": "A career-history interview conducted through comics rather than celebrity biography.",
+   "people": [
+    "David Choe",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Jordan Crane",
+    "Jim Lee",
+    "Eric Nakamura"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "3VsxLsfX1eo": {
+   "description": "A 1:39 official trailer assembled from music and at least three short interview fragments.",
+   "people": [
+    "David Choe (trailer subject; line-level speaker status unresolved)",
+    "multiple unidentified interview voices",
+    "unidentified nude figure model [age unresolved; do not infer minor]",
+    "unidentified person in damaged sexual/bohemian fragment"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "3YlN7-9ISBw": {
+   "description": "A 51-second official-channel excerpt in which the speaker says his parents’ business burned during the Los Angeles unrest, the family temporarily received welfare, his mother entered an unnamed sales business the family initially called a scam/pyramid, and they made and repeatedly posted large numbers of freeway signs.",
+   "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)",
+    "speaker’s parents",
+    "unnamed company president"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "4FiwPN8M1rM": {
+   "description": "A nearly five-minute painting-process clip whose transcript contains only repeated thanks; the route documents Choe working visually, but tools, sequence and result require the video.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "4mPxYY6dL2o": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 045, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "James Jean",
+    "Tony Ribas",
+    "Critter"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "525yfSuD3TI": {
+   "description": "An anonymous narrated retrospective compresses Choe's Koreatown graffiti, art school, commercial work, Slow Jams, Facebook murals and stock, Tokyo jail, gambling, Thumbs Up!, wealth and later practice into a rags-to-riches story.",
+   "people": [
+    "David Choe",
+    "Mark Zuckerberg",
+    "Harry Kim"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "5QE3n7QfUZY": {
+   "description": "A 6:12 self-implicating monologue about replacing direct experience and creation with unboxings, game streams, reviews, criticism and negative media.",
+   "people": [
+    "David Choe (channel/self-address context; no named turn)",
+    "unidentified monologue speaker",
+    "Christopher Nolan (criticism example)",
+    "generic children/parents/partners/community"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "5iUX02mRsGc": {
+   "description": "A Vancouver fan recounts discovering Choe and DVDASA, meeting Money Mark and members of the crew, freezing into fangirl behavior and later treating the encounter as one influence on his hustle and willingness to challenge artist stereotypes.",
+   "people": [
+    "David Choe",
+    "Money Mark"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "5s_cO2JCL5Q": {
+   "description": "A brief Choe Show excerpt has Choe describe writing his own eulogy to remain present, wanting a complete life without regret and embracing death as he embraces life.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "65bH44IcA2Q": {
+   "description": "A 3:26 edited art-making monologue that argues creativity and vulnerable expression precede craft.",
+   "people": [
+    "Adam Perry Lang (spoken public name)",
+    "unidentified first-person artist/narrator",
+    "unidentified viewers/audience"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "6IeVPOLdIEs": {
+   "description": "A broad Mangchi compilation moves among a first-show introduction, music and crowd footage, Choe's reflection on productive periods without internet, Eddie Kim's album help, masks and Avatar-like imagery, and a deliberately crude closing performance.",
+   "people": [
+    "David Choe",
+    "Steve Lee",
+    "Bobby Lee",
+    "Eddie Kim"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "6MIKuySAQTQ": {
+   "description": "An art tutorial turns creative blockage into a chaotic letting-go exercise: Choe layers paint, prescribes play rather than a cure, struggles with the urge to protect valuable objects and ends amid jokes about damaged trading cards.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "6sdmY8WvNlw": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 019, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Yoshi Obayashi",
+    "Bobby Namba",
+    "Lilit Arvahi",
+    "Joe Rogan",
+    "Bruce Lee",
+    "Jason Scott Lee",
+    "Linda Lee Cadwell",
+    "Lauren Holly",
+    "Michael Mann",
+    "Russell Crowe",
+    "Al Pacino",
+    "Tom Cruise",
+    "Jamie Foxx",
+    "The Notorious B.I.G.",
+    "Poison",
+    "John Lennon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "6y7_BT1kLKA": {
+   "description": "While drawing with crayons, Choe asks who tells the truth, contrasts verbal refusal with compliance under pressure, layers dark and middle colors, and closes by admitting the painting does not provide a final answer.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "7NSYJIczwUY": {
+   "description": "Mangchi’s Reverse Birthday Song turns aging into a rough celebratory performance; the available lyric transcript is damaged, so only the birthday/aging refrain and live-song structure are dependable.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "7S1x4tQ16W0": {
+   "description": "A 2:31 unofficial caption edition of the same Dirty Hands trailer represented by official upload aJME3ZTtJBE.",
+   "people": [
+    "David Choe (title/documentary subject)",
+    "unidentified testimonial voices",
+    "unidentified autobiographical voice",
+    "private girlfriend (unnamed, narrator attribution only)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "8JmtlRXz7V0": {
+   "description": "Cartoonist Kayfabe brings Ed Piskor, Jim Rugg, Geof Darrow and David Choe together for a conversation about Meltdown Comics, collecting, France, drawing pressure, violence and detail, Hard Boiled, Shaolin Cowboy, Moebius, coloring, City of Fire, friendship, self-criticism, suffering mythology, Frank Miller, Lynn Varley, Hanna-Barbera, Japan, graffiti, manga and material technique.",
+   "people": [
+    "David Choe",
+    "Geof Darrow",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Gaston Dominguez-Letelier",
+    "Simon Bisley",
+    "Leonardo DiCaprio",
+    "Frank Miller",
+    "Moebius",
+    "Jack Kirby",
+    "Gary Groth",
+    "Gil Kane",
+    "Harvey Pekar",
+    "Tanino Liberatore",
+    "Lynn Varley",
+    "Dave Stewart",
+    "Claude Legris",
+    "Howard Stern",
+    "Joe Rogan",
+    "Todd McFarlane",
+    "Jeff Purves",
+    "Larkin Seiple",
+    "Vhils",
+    "REVOK",
+    "Osamu Tezuka",
+    "Peter Chung",
+    "Paul Pope",
+    "Kent Melton",
+    "Carmine Infantino",
+    "Alfredo Alcala",
+    "Alex Niño",
+    "Frank Brunner",
+    "Owen Fitzgerald",
+    "Peyo",
+    "Hayao Miyazaki",
+    "Alice Darrow",
+    "Aldo Maccione",
+    "Kevin Eastman",
+    "Neil Gaiman"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "8VwnzUo98Jc": {
+   "description": "A 6:14 three-part imagination tutorial: a self-portrait/pocket-vest figure made without photo reference, a Pizza Man assembled from pizza-slice geometry, and a viewer-versus-speaker self-portrait comparison.",
+   "people": [
+    "David Choe (publisher/self-portrait context; no named turn)",
+    "unidentified tutorial speaker",
+    "unidentified Fiji seamstress",
+    "unidentified Pizza Man counterpart/recipients"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "8WqN0WcYtgQ": {
+   "description": "A seventeen-second behind-the-scenes Mangchi video-shoot clip has only decoder loops (“ping/panning”); it is retained as visual production evidence without invented action or dialogue.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "97We1F1yFw4": {
+   "description": "A one-minute official-channel guided visualization.",
+   "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)",
+    "imagined child-self/listener"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "9AzEpY7H5Ac": {
+   "description": "A Facebook-headquarters painting upload is almost entirely raw visual footage; the speech decoder loops on ‘having’ and captures only brief movement, equipment and vehicle remarks, so mural actions and participants cannot be reconstructed from text alone.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "AGbJmM2wWjg": {
+   "description": "Part 3 moves from an explicit skin-picking routine into a teenage Korea story involving nonconsensual bodily contact with a sleeping minor, false medical/product jokes, Steve's stalking admission and private breakup history, a materially caption-missing parent-roleplay climax, corporal-punishment and family-estrangement discussion, Choe's teenage shoplifting/concert trespass, Rage Against the Machine memories, Mangchi reunion pitches and an embedded Little Ray's World episode.",
+   "people": [
+    "David Choe",
+    "Steve Lee",
+    "Harry Kim",
+    "Money Mark",
+    "Zack de la Rocha",
+    "Robert Carranza",
+    "Tom Morello",
+    "B-Real",
+    "Chuck D",
+    "Dan the Automator",
+    "John Tesh"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "AYAAfmzspis": {
+   "description": "A short *Dirty Hands* upload concentrates on the Congo material: tension within Choe's group, joking searches for pygmies and ninjas, a remote doctor and missionary story, and local reports of a large unidentified animal framed as a dinosaur search.",
+   "people": [
+    "David Choe",
+    "Harry Kim"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "B4UD01U7pTw": {
+   "description": "A thirty-five-second mixed-media clip visually shows Choe creating; the transcript is punctuation and thanks, so medium changes and technique remain source-video facts rather than textual claims.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "BBArizQhDgk": {
+   "description": "Across more than three hours, David Choe describes leaving Los Angeles, renewed Hadza travel and fundraising, finishing the games of money and sex, seeking spirituality, making The Choe Show and Beef, entering Star Wars and survival television, training martial arts, thinking through AI and handmade work, and experimenting with psychedelics, performance and recovery.",
+   "people": [
+    "David Choe",
+    "Joe Rogan [episode context; turns unresolved]",
+    "Jamie Vernon [episode context; turns unresolved]",
+    "Hannah Sparkman",
+    "Steven Rinella",
+    "Issei Sagawa",
+    "Renée Hartevelt",
+    "Joel Salatin",
+    "Lars Andersen",
+    "Jon Favreau",
+    "Dave Filoni",
+    "Steven Yeun",
+    "Steve-O",
+    "Saenchai",
+    "Royler Gracie",
+    "Jean Jacques Machado",
+    "Zecharia Sitchin",
+    "Shane Gillis",
+    "Chris Rock",
+    "the Wayans family",
+    "Traci Lords",
+    "Pedro Pascal",
+    "Ray Kurzweil",
+    "Suzanne Humphries",
+    "Roman Bystrianyk",
+    "Amaury Guichon",
+    "Rick Doblin",
+    "Marshall McLuhan",
+    "B.J. Penn",
+    "Sean Sherk",
+    "Anderson Silva",
+    "Chris Weidman",
+    "Alex Pereira",
+    "Damien Hirst",
+    "private family, partners, listeners, trainers, artists, patients and Indigenous/community participants"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "C3r86q6KhDY": {
+   "description": "A 3:48 visually dependent spray-paint demonstration in Palo Alto.",
+   "people": [
+    "David Choe (publisher title/channel context; no named turns)",
+    "unidentified tutorial speaker",
+    "unnamed graffiti peers/kids"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "CF0o5-EOWb4": {
+   "description": "A two-minute official-channel promotional montage combining multiple voices and music.",
+   "people": [
+    "David Choe (addressed as Dave/little David; line-level turns unresolved)",
+    "multiple unidentified Choe Show participants",
+    "imagined/inner-child “little David” (not a separate real speaker)",
+    "speaker’s parents in guided dialogue"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "CTAyMA0h1zs": {
+   "description": "A 2:42 birthday-party story whose uploader title calls the mother’s behavior sabotage, while the transcript is more layered.",
+   "people": [
+    "unidentified primary storyteller",
+    "Julia (spoken friend reference; exact role damaged)",
+    "Ali Wong (spoken friend/soul-sister/bro reference; exact syntax damaged)",
+    "storyteller’s mother (private, performed quotation)",
+    "storyteller’s father (private health/disability reference)",
+    "storyteller’s sister-in-law (private, reported dialogue)",
+    "mother’s assistant (private, reported labor claim)",
+    "unidentified party guests",
+    "unidentified reacting voice/editor"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "CXjukgkB1CY": {
+   "description": "Choe uses scraping, collage and finger painting as metaphors for removing accumulated emotional dirt, moving through a *Titanic* joke, naming current emotions and treating the artist—not the tool—as the vehicle for change.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "C_Rw-0HyJXc": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 047, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "CnFR15MWKXE": {
+   "description": "A transcript-sparse Thumbs Up Season 4 trailer preserves the call to “hit the road” and the Thumbs Up America identity; itinerary and scenes must be read from the trailer images.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "CvHFWwVZKoI": {
+   "description": "A 2:46:29 conversation about creativity, addiction, recovery, storytelling, family boundaries, service, workaholism and The Choe Show.",
+   "people": [
+    "David Choe",
+    "Rich Roll",
+    "Pako",
+    "Vince Perez",
+    "Steve-O",
+    "Rainn Wilson",
+    "Steve Lazarides",
+    "Damien Hirst",
+    "Takashi Murakami",
+    "Gabor Maté",
+    "Sacha Baron Cohen",
+    "Patrick Carnes",
+    "Sean Parker",
+    "Peter Thiel",
+    "Harry Kim",
+    "Conor McGregor",
+    "Johann Hari",
+    "Anthony Bourdain",
+    "Scott Rudin",
+    "Harris Wittels",
+    "Bill W.",
+    "SABER",
+    "RETNA",
+    "David Chang",
+    "Rick Rubin",
+    "Neil Strauss",
+    "Seth Rogen",
+    "Erica Garza",
+    "Donald Trump",
+    "Louis C.K.",
+    "Tony Robbins"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "D-oSpkzPIoQ": {
+   "description": "David and Bobby travel through the Philippines in a deliberately unstable mix of travelogue, food show, shopping comedy, tattoo pressure, medical crisis, water sports, wildlife encounter, music, dating-show parody and altered-state confession.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Andre [private episode participant]",
+    "Cash Man G [unverified performance name]",
+    "Micah [private participant]",
+    "Robin [private participant]",
+    "private doctors, vendors, guides, tattoo participants, children, boat operators, DJs and musicians"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "DInFITDqmkA": {
+   "description": "A short upload titled Mangchi contains conversation about favorite songs and video-game weapons rather than a clearly recoverable performance; the mismatch is retained instead of forcing it into band history.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "DMNkQnBl2ao": {
+   "description": "A performed monologue argues that artist identity can narrow a life, then tests a comfort-zone answer through filming, self-implication and volatile paper dialogue.",
+   "people": [
+    "David Choe (publisher/title context; no named turn)",
+    "unidentified monologue speaker",
+    "Dave (performed self-address)",
+    "unidentified camera operator",
+    "unknown viewers and people met in public"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "Ec_2nitgGZo": {
+   "description": "A 6:09 mixed backstage, artwork and live-performance source.",
+   "people": [
+    "Mangchi (band/source context; no named turn)",
+    "Jen (first-name-only audible address; identity/voice unresolved)",
+    "unidentified backstage participants",
+    "unidentified performers/audience"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "FA3orUaXhD4": {
+   "description": "This longer massage-parlor excerpt begins with Rogan's Santa Monica experience, discusses prostate massage, and then includes Choe's full Koreatown story about a late appointment, another waiting customer and an unexpected sexual service.",
+   "people": [
+    "David Choe",
+    "Joe Rogan"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "FRrbjiOs4no": {
+   "description": "Choe gives a longer account of living and hunting with the Hadza: elders' stories, children handling animals, endurance, scarce water, injured hunting dogs and his own collapse after trying to prove useful on a baboon hunt.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "FTW1VapvKNE": {
+   "description": "A 5:20 mixed rehearsal timeline of spoken coaching, short religious vocal phrases, playback, applause, laughter and feedback.",
+   "people": [
+    "David Choe (publisher metadata; no named turn)",
+    "David Choe’s parents (publisher metadata; no named turns)",
+    "Mangchi (publisher metadata; roles unresolved)",
+    "unidentified dad referenced by an unidentified speaker",
+    "unidentified rehearsal participants"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "FbJRcXuqpqs": {
+   "description": "A six-second Dirty Hands in San Francisco fragment contains only “The End”; it functions as a documentary end card, not a substantive alternate cut.",
+   "people": [
+    "David Choe",
+    "Harry Kim"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "Fj1XP1MgxMQ": {
+   "description": "Choe visits the Crenshaw Cowboy's assemblage environment, listening as the self-taught maker explains helmets, vehicles and repurposed objects, then joins him in arguing that creativity should elevate people rather than tear them down online.",
+   "people": [
+    "David Choe",
+    "Crenshaw Cowboy"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "FwXQfRF9h6w": {
+   "description": "An Igloo Hong mural clip in Rio preserves one line about a community playing field; the title identifies Herbert Baglione and Choe, while mural stages and local participants remain visual.",
+   "people": [
+    "David Choe",
+    "Herbert Baglione"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "G9CTAhKRCTo": {
+   "description": "A warm-up clip names Choe, El Mac and the Igloo Hong Super Crew before painting, but the decoder yields thanks and repetition; it is cataloged as pre-painting visual context.",
+   "people": [
+    "David Choe",
+    "El Mac"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "Ga9f_4K-j8c": {
+   "description": "A transcript-sparse clip identifies Choe painting at David Chang’s Momofuku Ko; the sole phrase “Action for God” does not support a fuller spoken summary.",
+   "people": [
+    "David Choe",
+    "David Chang"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "Gv_yyQBphVs": {
+   "description": "A short underpainting lesson asks viewers to identify emotion through color instead of words, reject judgment, investigate a self-portrait and notice when an older angry DVDASA persona interrupts gratitude.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "H58tyi47qDQ": {
+   "description": "Ed Piskor and Jim Rugg host Peter Laird and David Choe for a page-by-page discussion of Laird's solo Teenage Mutant Ninja Turtles #12 and Choe's 1999 Xeric Grant for Slow Jams.",
+   "people": [
+    "David Choe",
+    "Peter Laird",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Kevin Eastman",
+    "Jim Lawson",
+    "Steve Lavigne",
+    "Gary Richardson",
+    "Elias Koteas",
+    "Barry Windsor-Smith",
+    "Clarence Clemons",
+    "Rob Liefeld",
+    "Ricky Jay",
+    "Stephen R. Bissette",
+    "Richard Corben",
+    "Ryan Brown",
+    "Steve Murphy",
+    "Michael Zulli",
+    "Howard Stern",
+    "Robin Quivers",
+    "Don Laird",
+    "private former partners, children, family members and correspondents"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "HCQHVHJYQnQ": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 036, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Christopher Nolan",
+    "Quentin Tarantino",
+    "Mister Cartoon",
+    "Robin Williams",
+    "Estevan Oriol",
+    "Pamela Adlon",
+    "Trent Reznor",
+    "Alex Pardee",
+    "Bobby Namba",
+    "John Cusack",
+    "Money Mark",
+    "Eli Roth",
+    "Critter"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "HGFe31BC_cU": {
+   "description": "A 2:15 Conan-style host/guest clip in which Aubrey Plaza’s title-level appearance frames a story about a large nude painting on wood that she says David Choe gave her as a housewarming gift.",
+   "people": [
+    "Aubrey Plaza (source-title/visual context; line-level turns unresolved)",
+    "Conan O’Brien (source-title/show context; line-level turns unresolved)",
+    "David Choe",
+    "Aubrey Plaza’s mother",
+    "unidentified audience/production voices if present"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "HQ7GRWWgOGM": {
+   "description": "Season Three begins in Beijing with David preparing for a China exhibition, describing explicit sources for his paintings and recruiting Mia and Stephanie before beginning the trip with Harry.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Mia [publisher label]",
+    "Stephanie [publisher label]",
+    "Mr. Huang [private/publisher label]",
+    "Mr. Zhao [private/publisher label]",
+    "Mr. Xi [private/publisher label]",
+    "unidentified bus, restaurant, repair and market participants"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "HgG805RV624": {
+   "description": "Choe stages a mask-removal exercise around performance, exercise, scraping and gratitude, asking what remains after social presentation is peeled away and ending with the current painting as an intentionally temporary truth.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "HrBhuzHHlhQ": {
+   "description": "Choe recalls being quiet as a child and then tells a hitchhiking story about a cowboy who revealed a hidden relationship and fear of homophobia, ending with regret about the lasting effects of humiliating people for entertainment.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "I0nPgRskTxc": {
+   "description": "A 3:34 first-person mental-health/recovery account.",
+   "people": [
+    "David (reported therapist address/title subject)",
+    "unidentified therapist",
+    "Malcolm McDowell (film comparison)",
+    "unidentified acquaintances with therapists",
+    "unidentified people narrator hopes to help"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "IA-7LDa5VXY": {
+   "description": "Nadav Itzkowitz interviews Yoshi Obayashi about DVDASA Episode 10, friendship/employment conflict, estrangement, later mental-health reinterpretation, suicide loss, paid clinical studies and current-at-recording work.",
+   "people": [
+    "Yoshi Obayashi",
+    "Nadav Itzkowitz",
+    "David Choe [absent/subject only]",
+    "Asa Akira",
+    "Harry Kim",
+    "Sean Parker",
+    "Mark Zuckerberg",
+    "Tom Segura",
+    "Christina Pazsitzky",
+    "Joey Kurtzman",
+    "Critter",
+    "Brody Stevens",
+    "Brandon Iron",
+    "Russell Peters",
+    "Dennis Rader",
+    "Bernie Madoff"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "IM8oNL2-xIs": {
+   "description": "A live encore captures Die Antwoord’s Ninja joining Mangchi for an “I Love It” refrain, followed by thanks to Ninja and San Francisco’s Elbo Room; rough lyrics and a racial slur remain warned.",
+   "people": [
+    "David Choe",
+    "Steve Lee",
+    "Ninja"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "ISxnJeQ7LdI": {
+   "description": "A page-by-page reading of G.I.",
+   "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Todd McFarlane",
+    "Larry Hama",
+    "Marshall Rogers",
+    "Michael Golden",
+    "Mike Zeck",
+    "Peach Momoko",
+    "Robert Crumb",
+    "Marcos Martín",
+    "Don Johnson"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "IliUj9gs7oA": {
+   "description": "Choe argues that comfort prevents artistic and personal growth, then demonstrates unstable spray-can control, deliberately creates difficulty and reminds viewers that paint can be revised rather than protected from every mistake.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "J1lES-SJ42I": {
+   "description": "A 16-second David Choe Clips upload whose entire caption evidence is “Thank you.” MANGCHI TV is supported only by the title.",
+   "people": [
+    "unidentified speaker"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "J6hsQfErZHs": {
+   "description": "A roughly 3:14 first-person account of shame, anger and reconciliation around the narrator’s father visiting an art show.",
+   "people": [
+    "David (spoken show-name reference; surname not supplied in captions)",
+    "narrator’s father (private family role)",
+    "narrator’s mother (private family role)",
+    "narrator’s sister-in-law (private family role)",
+    "narrator’s brothers (private family roles)",
+    "unidentified crying exhibition visitors"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "JNXjG8n4pzE": {
+   "description": "Choe introduces footage of hunting with the Hadza, describes butchering and eating a baboon, and the conversation detours into historical cannibalism and a Japanese killer.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "JZ6wY3dgxdg": {
+   "description": "The finale confirms Alaska and David's claimed completion of all fifty states.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Mark [private]",
+    "Cornelius [private]",
+    "Daniel [private]",
+    "Ralph [private/no camera]",
+    "Santa Claus [performance role]",
+    "Mrs. Claus [performance role]"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "K82jh4XbjCg": {
+   "description": "A compact tutorial pairs an honest conversation with an artist from Choe's old podcast with an ASMR-like bamboo drawing, asking what must be said plainly and who occupies the viewer's imagined forest.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "KOfsocdybBw": {
+   "description": "Choe describes paying an unusually expensive trainer for accountability, the trainer's use of physical blows, his desire to remain childlike, and a broader wish to live nearer nature; Rogan connects the discussion to Indigenous horsemanship and hunting.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "KPnyiFx2O0w": {
+   "description": "Part two of a Steebee Weebee conversation reconstructs Steve Lee's daily routine: waking, preparing for guests, anxiety about cancellations, gaming late while his partner sleeps, and the relief after a live or recorded performance ends.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "Kom2FTRT8_Y": {
+   "description": "Choe uses a drawing requested by his daughter to ask how optimism survives chaos, drawing on *Forrest Gump*, improvisation, Larry David and a deliberately opinionated Star Wars viewing order before placing his own screen history in context.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "KzXyZrCEp_o": {
+   "description": "This official vlog moves through depression, anhedonia and medication/appetite tradeoffs into cheap art-material hunting, Thai Town desserts and a fast no-sketch painting session.",
+   "people": [
+    "David Choe",
+    "private camera crew, restaurant staff, Home Depot employee and restroom/store bystanders"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "LDZ4edDbcrU": {
+   "description": "An edited Barbara Walters television profile introduces Choe as an artist whose Facebook shares may be worth hundreds of millions, contrasts collaborative family painting with his reported unhappiness and criminal record, and returns to gambling as his explanation for taking stock.",
+   "people": [
+    "David Choe",
+    "Barbara Walters"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "LcnoUWEscUY": {
+   "description": "A ten-second visual clip shows Ninja crowd-surfing during a Mangchi show at San Francisco’s Elbo Room; the transcript contains one shouted fragment and cannot describe the movement.",
+   "people": [
+    "Ninja",
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "LdqB8988S2U": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 032, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Estevan Oriol",
+    "Bobby Namba",
+    "Money Mark",
+    "Critter"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "LzRWHncgel4": {
+   "description": "A sparse 1:08 official-channel excerpt with only two substantive caption units.",
+   "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "Lzo0bCux_PA": {
+   "description": "A 2:46 deleted Dirty Hands mural tour centered on live collaboration.",
+   "people": [
+    "unidentified primary mural-tour voice",
+    "unidentified responding collaborator voice",
+    "Ro (spoken collaborator reference; unexpanded)",
+    "Dave (spoken collaborator reference; unexpanded)",
+    "uncertain RTG reference",
+    "Todd (mural character)",
+    "Todd’s girlfriend (mural character)",
+    "domestic-story mural characters"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "MP7SF5dVp70": {
+   "description": "Mangchi’s Gunk Boi opens with a school-shooting narrative and moves into repeated “get up” chants; the automatic lyrics are incomplete and are not silently repaired.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "M_jPqv3NvUI": {
+   "description": "Choe tells the extended story of entering the Congo to look for a reported dinosaur, moving from *Thumbs Up* and early Vice history through jungle scale, dwindling food, conflict with companions and the impossibility of controlling the forest.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon",
+    "Gavin McInnes",
+    "Shane Smith"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "MfvXUQOvMIA": {
+   "description": "A 1:56 official-channel two-person excerpt about Asian representation in Star Wars.",
+   "people": [
+    "David Choe (addressed as Dave inside speech; line-level turns unresolved)",
+    "Rian Johnson",
+    "Bruce Lee",
+    "unresolved second participant",
+    "Kelly Marie Tran / Rose Tico (contextual role mapping, not spoken name)",
+    "Donnie Yen / Chirrut Îmwe (contextual role mapping, not spoken name)",
+    "Long Duk Dong (fictional character)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "MzfWgBgqBPs": {
+   "description": "A second edit of Choe's psychedelic-alien story begins with disillusionment about art and comedy, moves through a comic spirit encounter and blue-birthmark imagery, and ends by distinguishing an entertaining theory from a verified claim.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon",
+    "Genghis Khan"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "NAMDDNKNlxQ": {
+   "description": "A 2:09 clip titled as David Choe’s baboon-hunting experience.",
+   "people": [
+    "David Choe (title-level subject)",
+    "unidentified primary storyteller",
+    "unidentified interviewer/reacting speaker",
+    "unidentified hunted-with group",
+    "unidentified hunter",
+    "unidentified person carrying a baboon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "NjIOUfV5htM": {
+   "description": "A 27-second performance upload titled as Heather Leather, bassist of Mangchi, covering Tiffany.",
+   "people": [
+    "Heather Leather (title-level performer)",
+    "unidentified performer"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "O3e1iZowlv8": {
+   "description": "Choe recounts abandoning a proposed year of fight training, making Steve Lee's job depend on a wrestling match, and then being pinned despite a size advantage before recognizing the discipline required by professional fighters.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Steve Lee",
+    "Bobby Lee"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "OP1mXscTUnw": {
+   "description": "A contemporary KQED arts profile documents David Choe's Los Angeles graffiti argument, early San Jose reception, Double Rainbow and Five Color Cowboy work, fast mural process, late-2003 Tokyo incident and incarceration, religious uncertainty, and prison drawings made with improvised materials.",
+   "people": [
+    "David Choe",
+    "Johnny Granado"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "OuuSC5xoKVk": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 046, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Patrice O'Neal",
+    "Eddie Murphy",
+    "Joey Silvera",
+    "Louis C.K.",
+    "Jay Mohr"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "PB79YeJ5Rkg": {
+   "description": "The official upload combines a live David Choe/Rhode Montijo DIY-costume and painting introduction with a roughly twenty-two-minute dramatized adaptation of The Halloween Kid.",
+   "people": [
+    "David Choe",
+    "Rhode Montijo",
+    "Vincent Price",
+    "Elvira",
+    "private/uncredited child and character performers"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "QO3-AAVTeDA": {
+   "description": "David Choe and Harry Kim begin a cross-country trip from the Los Angeles rail yard, freight-hop through Yermo and Kelso, gamble in Las Vegas, sleep beside a casino pool and finally hitch a ride east in a windowless van.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Chicago [alias]",
+    "'Little' Richard [alias]",
+    "Lee [private]",
+    "Jack [private]",
+    "Jerry Garcia"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "QfV665kWoSg": {
+   "description": "A 1:42 WalrusTV painting clip titled ZUCK 1 × DAVID CHOE.",
+   "people": [
+    "ZUCK 1 (title-level participant)",
+    "David Choe (title-level participant)",
+    "unidentified speaker/painter A",
+    "unidentified speaker/painter B"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "QpCd4BetnoQ": {
+   "description": "Choe remembers Anthony Bourdain through a birthday gathering, visits to his mother's home with Korean pears and a reluctant painting session, then explains why a family photograph in front of that painting became a private memorial.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "SZCC8lOZKnU": {
+   "description": "A roughly one-minute rapid multi-speaker TigerBelly #29 excerpt answering whether DVDASA is dead.",
+   "people": [
+    "Asa Akira (title subject; no line attribution)",
+    "Dave (spoken reference; surname unexpanded)",
+    "unidentified conversational voices"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "SpxBrXI9CjQ": {
+   "description": "A 2:35 derivative excerpt from Joe Rogan Experience #1965 in which the primary storyteller frames billionaire status as an attainable video-game goal after claiming hundreds of millions, distinguishes money from the lives of wealthy acquaintances, and argues that scarcity and social value turn money from a thing into the thing.",
+   "people": [
+    "David Choe (publisher-title subject; spoken Dave addressee; no named turns)",
+    "Joe Rogan (full-program host; no named turns)",
+    "Sean Parker (named acquaintance claim)",
+    "Mark (first name only; do not expand)",
+    "unnamed ultrawealthy friend",
+    "unnamed financial advisers described as money guys"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "StlQDvxDtq0": {
+   "description": "Choe uses *Dirty Hands*, Banksy and *Exit Through the Gift Shop* to argue for filming behind the behind-the-scenes, then detours through BTS, Psy and Instagram-boyfriend labor before asking documentarians to look past the obvious artist-at-work image.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Banksy",
+    "Psy"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "Sv4ROnb1XMw": {
+   "description": "A 20-second WalrusTV clip titled as a ZUCK ONE painting with David Choe at Facebook HQ in Menlo Park.",
+   "people": [
+    "ZUCK ONE (title-level participant)",
+    "David Choe (title-level participant)",
+    "unidentified speaker/painter"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "T-632m9gwso": {
+   "description": "A deliberately abrasive lesson argues that improvement requires admitting ignorance, practicing everywhere like Keith Haring, approaching galleries before permission feels earned and valuing the learner who researches gaps over the person who pretends expertise.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "T5Bc_q5FHCQ": {
+   "description": "A fan-compiled, Snapchat-era *Thumbs Up* travel record follows David Choe, Harry Kim and later Critter Fleming from San Francisco toward New York by rides, rail attempts and improvised hospitality.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Critter Fleming"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "TBUXC2lXvCE": {
+   "description": "Using a lobster molting its shell, Choe argues that artists can become trapped inside defenses built against pain; the tutorial removes layers until the exposed blue lobster becomes a metaphor for rare, vulnerable change.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "TRex0Edzz1w": {
+   "description": "Choe asks viewers to locate childhood wounds and repaint them from a new point of view, using household tools, a memory of being sent away and his son's sweater to turn inherited pain into a present-day emotional inventory.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "TaQ3VbsmNLk": {
+   "description": "Part Four begins in Zhengzhou with graphic motorbike jokes, Harry's alienation as interpreted by David, and a map dispute that ends with Stephanie choosing the coast while David repeatedly predicts regret and chooses Harry.",
+   "people": [
+    "David Choe [inferred from series context; no caption prefix]",
+    "Harry Kim [addressed in speech; no caption prefix]",
+    "Stephanie Kim [addressed in speech; no caption prefix]",
+    "Sheeka [private/source-given spelling unverified]",
+    "unidentified alleged pimp",
+    "unidentified private women",
+    "unidentified roof host, boat occupants, caller, drivers and cameraman"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "TtSqnfVygRU": {
+   "description": "Saber and Choe improvise a flower-shop mural during the November 2 event, moving from a joking Aubrey Plaza crush through found spray equipment, red-and-white paint, spider imagery and thanks to the shop for allowing the intervention.",
+   "people": [
+    "David Choe",
+    "Saber",
+    "Aubrey Plaza"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "TzEI4nsKhx4": {
+   "description": "A Facebook-office Super 8 painting clip is visually meaningful but textually unusable: the sole segment is a decoder repetition. It is linked to Choe’s Facebook mural work without narrating unseen details.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "U4zj1Jb15CE": {
+   "description": "A 3:49 rapid multi-speaker JRE #1965 excerpt about a pandemic-era celebrity offshoot, a later reported Jeff Probst invitation to actual Survivor, and an extensive casting process.",
+   "people": [
+    "David Choe (title subject; spoken identity context)",
+    "Joe Rogan (title participant)",
+    "Jeff Probst (reported party conversation)",
+    "Steve-O (reported declined invitation)",
+    "Mike White (Survivor comparison)",
+    "Chris Rock (first-pitch rumor)",
+    "Anthony Fauci (first-pitch comparison)",
+    "Jamie (spoken search reference; identity unexpanded)",
+    "unidentified former supermodel",
+    "unidentified retired NFL players",
+    "unidentified trainer or manager",
+    "unidentified HIIT/hitting person",
+    "unidentified casting staff/therapists/contestants"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "U5CaU1n-_Lk": {
+   "description": "Day Six begins with fatigue, a suspected-but-unproven restaurant rejection and a freight ride framed by an explicit sexual/racial text performance and David's admittedly uncertain account of Chinese railroad labor.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Luis [private]",
+    "Bernadette [private]",
+    "Jerry [private]",
+    "Grant [private]",
+    "Andrew [private]"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "U9RG_RBqyOM": {
+   "description": "This official vlog follows a complete creative loop: creative block and depression, Los Angeles thrift-store search, spontaneous encounters, found-object interpretation, toy and painting transformation, then returning altered objects.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain",
+    "Keith Haring",
+    "private shoppers, companions, staff, birthday recipient and camera crew"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "UZ7-frVitVc": {
+   "description": "The northbound trip moves from Fresno through Reno and northern California toward Oregon.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Daniel [production]",
+    "Lorraine [private]",
+    "Brian [private]",
+    "Rizzy [private alias]",
+    "Don [private]",
+    "Keyla [private]",
+    "Dylan [private]",
+    "Joe [private]",
+    "Freddy [private]",
+    "Rick [private]",
+    "Maya Angelou"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "Ut-wqAw8kGo": {
+   "description": "A transcript-sparse clip records a brief David Choe drum-solo moment at a North Korean-themed restaurant in Dubai; the available text contains only thanks and a short reaction, so performance detail remains visual rather than invented.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "V9v_LJewjLY": {
+   "description": "A 5:45 self-questioning monologue in which the speaker admits harsh self-judgment while advocating acceptance, performs skeptical objections to his own claims, and refuses a black-and-white account of happiness, peace or change.",
+   "people": [
+    "David Choe (channel/title context; no named turn)",
+    "unidentified monologue speaker",
+    "generic listeners and contacts"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "VBM7yBrWaVg": {
+   "description": "A *Choe Show* montage frames the series as a journey into Choe's mind that makes each participant the star, then cuts among meditation, rocks as companions, art-career testimony, explicit street encounters and unresolved family questions.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "V_v5tS3WRQ8": {
+   "description": "Choe frames sex, money and power as video-game objectives he tried to beat, explains rejecting conventional business logic and trying to give wealth away, then connects that reset to identity, friendship and a film made in Africa.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "VucJLf8Jbn0": {
+   "description": "A painting-at-Facebook clip contains only “Thank you” in the transcript; it is a visual record of Choe’s office work, not a separate narrated account.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "W-I6eXxXfIE": {
+   "description": "Choe credits his immigrant mother's door-to-door persistence with teaching him that rejection is temporary, connecting childhood muteness and compulsive rituals to repeated applications, changing taste and the patient work needed while an opportunity remains unavailable.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "WjVbmnTZqf4": {
+   "description": "Choe considers truth, fiction, placebo and faith as forces that can change bodies and behavior, contrasting his blunt style with trickster methods before arguing that creativity and mind-body effects exceed tidy logical explanation.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "Wm3yHxczebw": {
+   "description": "A 5:56 improvised art tutorial that begins with gallery confusion and a dismissive, unsourced $100 million Rothko-squares claim, turns clouds and surrounding colors into a landscape, then adds fruit/tree/peace-sign construction, figure placement, Roots/Questlove wordplay, animals, shoe tread, an oversized boot-driven body distortion, a Mickey Mouse-like nose and a traced hat.",
+   "people": [
+    "David Choe (channel context; no named turn)",
+    "unidentified tutorial speaker",
+    "Picasso (artist reference)",
+    "Mark Rothko (artist reference)",
+    "Questlove (music reference)",
+    "generic children/older people"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "WuufP8mTmd8": {
+   "description": "David Choe joins Jim Rugg and Ed Piskor for a page-by-page reading of The Punisher #94–95, drawn by Frank Teran.",
+   "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Frank Teran",
+    "Bobby Hundreds",
+    "Mike Tyson",
+    "Frank Miller",
+    "Bill Sienkiewicz",
+    "Stephen Platt",
+    "Rob Liefeld",
+    "Jae Lee",
+    "Sam Kieth",
+    "Frank Quitely",
+    "Jamie Hewlett",
+    "Ted McKeever",
+    "Simon Bisley",
+    "Michael Golden",
+    "Geof Darrow"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "X0z3caRdZTg": {
+   "description": "In a Steve-O interview excerpt, Choe separates money from adventure, recalls hitchhiking and stunts before wealth, explains accepting Facebook stock as a gamble, and emphasizes the practice hidden behind apparently spontaneous painting.",
+   "people": [
+    "David Choe",
+    "Steve-O"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "XS6awjpIimw": {
+   "description": "A third-party capture preserves a long Howard Stern interview with David Choe and a post-interview green-room painting sequence, but begins and ends mid-sentence and is not an official complete broadcast master.",
+   "people": [
+    "David Choe",
+    "Howard Stern",
+    "Robin Quivers",
+    "Sean Parker",
+    "Mark Zuckerberg",
+    "Priscilla Chan",
+    "Justin Timberlake",
+    "Barbara Walters",
+    "Banksy",
+    "Lindsay Lohan",
+    "Channing Tatum",
+    "Mike White",
+    "George Takei",
+    "JD Harmeyer [primary credit verify]",
+    "Ryan Phillippe",
+    "Harry Kim",
+    "Barack Obama",
+    "Yoshi Obayashi",
+    "unidentified private partners",
+    "unidentified production staff"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "XhlobuaR2RY": {
+   "description": "Tasked with outfits for VeggieHammerr, Choe shops the Los Angeles Fashion District for fabric and hardware, takes styling advice, admits he cannot sew, remembers a late collaborator's final video and closes by confronting his own road rage in traffic.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "Xo6Hj9hw96I": {
+   "description": "David Choe and Harry Kim restart Thumbs Up in Tijuana, return to Los Angeles through a border rail yard, briefly visit David's parents and head north toward Alaska by truck, hitchhiking and freight train.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Mr. Choe [family]",
+    "Mrs. Choe [family]",
+    "Arturo [private]"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "YOiHuk2iUpA": {
+   "description": "Choe pushes Bobby Lee to take TigerBelly more seriously, arguing that the show could become much larger with focused work; Bobby answers with his desire to keep trying stand-up, acting, radio and animation.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Steven Yeun"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "YWoHetKeERc": {
+   "description": "A ten-second official-channel animation sketch whose two automatic-caption records contain eleven romanized-looking tokens that are not reliable English and cannot support a responsible translation.",
+   "people": [
+    "David Choe (source/work context only; no speaker claim)",
+    "unidentified possible speaker/character"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "YeJxJKG3DY8": {
+   "description": "Jim Rugg and Ed Piskor inventory and divide a David Choe care package containing Slow Jams, Dirty Hands, Bruised Fruit, Mangchi zines, Giant Robot and Juxtapoz material, DC covers, Soothsayers, Snowman Monkey BBQ and other ephemera.",
+   "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Alex Ross",
+    "Bill Sienkiewicz",
+    "Peter Laird",
+    "Jim Lee",
+    "Jordan Crane",
+    "James Jean",
+    "Sasha Grey",
+    "Eli Roth",
+    "Yoshi Obayashi",
+    "Valentin",
+    "Mike Allred",
+    "Geof Darrow",
+    "Kevin Huizenga",
+    "Matty Keane",
+    "Jim Salicrup"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "YgilTWmHJBg": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 026, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Yoshi Obayashi",
+    "Zell",
+    "John Cusack",
+    "Maury Showbizawitz",
+    "Saad Mohseni",
+    "Jeff Goldblum",
+    "Rupert Murdoch",
+    "Harry Kim",
+    "Estevan Oriol",
+    "Roy Choi",
+    "Anthony Bourdain",
+    "Howard Stern",
+    "Joe Rogan",
+    "Adam Carolla",
+    "Sandy Westgate",
+    "Cindy Hope",
+    "Toni Ribas",
+    "Stevie Wonder",
+    "Prince",
+    "Veruca James",
+    "Carol",
+    "Donna Lewis",
+    "Julia Roberts",
+    "Ice Cube",
+    "T.I.",
+    "Mack 10",
+    "The Notorious B.I.G.",
+    "Too Short",
+    "Leonardo DiCaprio",
+    "Samuel L. Jackson",
+    "Kerry Washington",
+    "Liam Neeson",
+    "B.B. Jones"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "Yknrg-63674": {
+   "description": "David Choe and Harry Kim cross the United States without paying for rides, moving by freight train, hitchhiking, casino hospitality, an inflatable river tube, private vehicles and a farm-worker bus.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Jerry Garcia",
+    "Jewel"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "Z1fihPegvyk": {
+   "description": "A tutorial about discomfort combines painting, a withdrawn apology, troll and halo self-images, attachment to a time-intensive work and a final decision to remain with fear instead of fleeing it.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "ZcaWMy_b9Ns": {
+   "description": "A Good Smile Factory painting clip identifies Choe and the Japan location through source metadata, while the transcript contains only thanks; the mural process remains visual.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "_-b2tXazWKs": {
+   "description": "Creative Minds compiles excerpts from already-audited Rich Roll, Huberman, JRE, It All Adds Up and Cartoonist Kayfabe sources into three narrated lessons about autonomy, validation and suffering.",
+   "people": [
+    "David Choe",
+    "Geof Darrow",
+    "Rich Roll",
+    "Chris Cornell",
+    "Vince Perez",
+    "Quentin Tarantino [source context only]",
+    "private classmates and alleged teenage assailant"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "_Azb3sploI0": {
+   "description": "Mangchi’s I Love You compresses longing, hurt, hatred and forgiveness into a thirty-second song fragment that ends with enduring love and thanks.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "_IW6hQQdNys": {
+   "description": "An excerpt on Hadza subsistence combines a graphic cave and baboon-hunt account with discussion of cannibalism, survival knowledge and the shock of encountering abundant but undrinkable water.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "_KraKw_XXSk": {
+   "description": "Choe describes gratitude as a practice learned inside situations he dislikes, distinguishes nervous laughter from a genuine chortle, treats crying as useful release and ends with twirling as a small physical way to move emotional energy.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "_UXD0KqyBko": {
+   "description": "A heavily edited three-person film about performance, artistic influence, recovery, resentment and attempted repair.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Oliver Tree",
+    "David Chang",
+    "Tom Hanks"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "_XQN0SYz5Oc": {
+   "description": "After Val Kilmer's death, Choe uses an object found by his son and a hummingbird drawing to remember Kilmer's physical presence, voice after throat illness and layered screen identities, while reflecting on details that become visible only after loss.",
+   "people": [
+    "David Choe",
+    "Val Kilmer"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "_ZTwIgTkoHw": {
+   "description": "A 4:11 two-person live-art improvisation whose useful shape differs from the broad tutorial title.",
+   "people": [
+    "David Choe (publisher title/channel context; no named turns)",
+    "unidentified primary live-art performer",
+    "unidentified second voice",
+    "sound guy (role reference only)",
+    "Tom Morell—unclear performed reference; not a guest identity"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "_el5VzDisPo": {
+   "description": "Cartoonist Kayfabe inspects a 1999 Optic Nerve #6 letter signed Elaine Kim and connects it to David Choe's later claim of authorship.",
+   "people": [
+    "David Choe",
+    "Adrian Tomine",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Daniel Clowes",
+    "Richard Sala",
+    "Ariel Schrag",
+    "Kent Williams",
+    "Al Columbia",
+    "Alex Pardee",
+    "Katie Holmes",
+    "Peter David",
+    "Gary Frank",
+    "Grant Morrison"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "aJME3ZTtJBE": {
+   "description": "The 2:35 official trailer for Dirty Hands: The Art and Crimes of David Choe.",
+   "people": [
+    "David Choe (title/documentary subject)",
+    "unidentified production voices",
+    "unidentified former teacher/testimonial voice",
+    "unidentified wall/art testimonial voice",
+    "unidentified work-ethic testimonial voice",
+    "unidentified merchandise testimonial voice",
+    "unidentified ‘bad boy’ testimonial voice",
+    "unidentified autobiographical speaker",
+    "private girlfriend (unnamed and represented only through narrator attribution)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "aPzKoSLopmc": {
+   "description": "A route labeled “David Choe ASMR live” contains only thanks and vocal filler; ASMR performance detail, setting and other participants cannot be recovered from its transcript.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "aXa4t8UGTOc": {
+   "description": "Mangchi’s The Best is a short, profane affirmation built around the repeated claim that the listener is the best; the middle automatic lyrics are damaged.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "ajJANkFVR3o": {
+   "description": "A 3:48 derivative from JRE #1965 about Rick Doblin, MAPS, psychedelic therapy, nonverbal intimacy and AI risk.",
+   "people": [
+    "Rick Doblin",
+    "David Choe (title participant; no named turns)",
+    "Joe Rogan (title participant; no named turns)",
+    "Mike (joke reference; identity unexpanded)",
+    "unnamed people who understand how to administer psychedelics"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "amdLmZ5gO6w": {
+   "description": "Choe offers a one-day survival routine for overwhelming problems: avoid the most damaging behavior for today, accept falls, bathe, check physical and emotional state, rest and ask more clearly for help tomorrow.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "amjgbcrHUG0": {
+   "description": "Steve Lee and David Choe begin a warehouse conversation by clearing resentment about recording boundaries, Mangchi support and a $2,000 monthly stipend.",
+   "people": [
+    "David Choe",
+    "Steve Lee",
+    "Bobby Lee",
+    "Money Mark",
+    "Asa Akira",
+    "Khalyla Kuhn",
+    "James Jean"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "amm2xIGAE1U": {
+   "description": "A 6:52 tutorial that uses Emeril Lagasse’s Bam persona to transform a stick figure through whole-arm/body hair strokes.",
+   "people": [
+    "David Choe (publisher/self-address context; no named turn)",
+    "unidentified tutorial speaker",
+    "Emeril Lagasse",
+    "Jennifer Aniston",
+    "generic child/old person/man/viewer"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "awmakgVOgs0": {
+   "description": "Choe responds to viewers who miss his singing and gratitude, explains being social without alcohol, explores the niche market for nonalcoholic beer and links mocktails to his affection for mockumentaries and documentaries that bend truth toward happiness.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "bRnQXElR0xE": {
+   "description": "Choe traces his choice between safe advertising illustration and personal comics, describing film-poster work, a dismissive boss and the decision to take a creative risk before he had money.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Drew Struzan",
+    "Sandra Bullock"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "bxqo4zQWNA0": {
+   "description": "An emotional art exercise moves from prayer and drawing toward grief for a friend who died by suicide, fear of honest dislike, food and cooking metaphors, and a final palette of shame, anger, jealousy and confusion.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "cGENqgCM_hI": {
+   "description": "Choe tells a childhood story about scrambled television pornography, stealing an adult VHS tape while wearing his father's coat, hiding it at home and being interrupted by his brother.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "cMcZRCgKgj4": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 048, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "cOJtx8kDN-Y": {
+   "description": "A short official-channel upload whose title promises art chaos but whose 2:09 transcript is a monologue about nature, an unnamed multigenerational hunting community, shared meals and stories, strained modern family scheduling, explicit online media, gambling, medication, sedentary life and urban mental illness.",
+   "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)",
+    "speaker’s mother",
+    "unnamed grandfather, son, grandchild and community"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "cifhF0mCouA": {
+   "description": "Choe demonstrates curiosity-led image making by setting aside the final result, transforming sketchy marks into hybrid creatures and more finished forms, and arguing that curiosity turns posing into composing.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "cq3QBKbHUro": {
+   "description": "To answer creative block, Choe accepts random color constraints, starts with a bowl-cut character, adapts composition to a cramped page and demonstrates hair and clothing while allowing the improvised figure to become a companion.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "d5qA2KUiSws": {
+   "description": "Choe asks viewers to state who they are, traces adult hardness back to events that closed childhood openness, challenges swings between grandiosity and worthlessness, and uses a stripped-down painting phase to imagine beginning again.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "eOtkM7egpnM": {
+   "description": "A second Good Smile Factory mural route is a short visual upload with only thanks transcribed; it remains a separate source URL while linking to the same Japan painting context.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "g0SDGfXVzpc": {
+   "description": "A TigerBelly clip follows George Kimmel’s complaint that Khalyla attended The Choe Show while he was not invited, questions whether he applied seriously and ends with an attempt to arrange a remaining-week visit.",
+   "people": [
+    "George Kimmel",
+    "Khalyla",
+    "David Choe",
+    "Rainn Wilson"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "g1G_6-km8sU": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 044, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Critter"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "gM1ziiiZTHM": {
+   "description": "A 2:24 unsourced channel biography package covering artistic roles/style, early life, Slow Jams, Facebook stock, Thumbs Up!, Dirty Hands, publications/institutions, addiction self-report, the DVDASA controversy and BEEF.",
+   "people": [
+    "David Choe (biography subject)",
+    "Harry Kim (Thumbs Up! reference)",
+    "Steven Yeun (BEEF reference)",
+    "unidentified narrator",
+    "unidentified massage-therapist figure in disputed narration",
+    "David Choe’s parents (sensitive family/religion claim; identities unexpanded)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "g_DH54kIw54": {
+   "description": "A 4:32 music-framed monologue arguing that every interview contains lies because judgment makes people exaggerate and hide details.",
+   "people": [
+    "David Choe (channel context; no named turn)",
+    "unidentified monologue speaker",
+    "Bill Murray (unidentified interview reference)",
+    "teachers/admissions-board readers",
+    "private family/friends/enemies",
+    "unidentified homeless people/celebrities/art and music audiences"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "h12NAoaCY5k": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 041, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Macaulay Culkin",
+    "Howard Stern",
+    "Eddie Huang",
+    "Larry Flynt",
+    "Shane Smith",
+    "Toni Ribas",
+    "Harry Kim"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "h4fE_LwuTC0": {
+   "description": "Choe recounts how young tattooed musicians invited him to drum for what became Crazy Town, why he dismissed them, and how *Butterfly* later turned the missed chance into a lesson about opportunities that look uncool or inconvenient in the moment.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "h9ODc_M8iXU": {
+   "description": "The Season Three finale begins with David attributing pain and mobility symptoms to spider bites, removing and drawing on a hotel painting, and celebrating Harry through the prior episode's unverified heroic story.",
+   "people": [
+    "David Choe [self-introduced; turns otherwise unlabeled]",
+    "Harry Kim [addressed; turns unlabeled]",
+    "Sheeka [private/source-given spelling unverified]",
+    "Panda [private crew nickname]",
+    "Chong / Edgar Allen Chong [private contact/nickname uncertain]",
+    "Ken Kong [private driver/source-given spelling unverified]",
+    "David's parents [private]",
+    "unidentified drivers, children, salon occupants, jeep driver and casino staff"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "hicb0ZqmzzM": {
+   "description": "TigerBelly's 300th episode begins with preserved pre-roll conflict about microphones, artwork, nudity and a Lord of the Rings humility metaphor before formally crediting DVDASA as an influence on TigerBelly.",
+   "people": [
+    "David Choe",
+    "Bobby Lee",
+    "Khalyla Kuhn",
+    "Steven Yeun",
+    "Steve Lee",
+    "Asa Akira",
+    "Harry Kim",
+    "George Kimmel",
+    "Gilbert Galon",
+    "Steve Aoki",
+    "Andrew Santino",
+    "Joe Rogan",
+    "Anthony Bourdain",
+    "Daniel Dae Kim",
+    "Grace Park",
+    "Bruce Lee",
+    "Ali Wong",
+    "David Chang",
+    "Taran Killam",
+    "Tia Carrere",
+    "Greta Lee",
+    "Jo Koy",
+    "Natalie Coughlin",
+    "Nicole Scherzinger",
+    "Shay Mitchell",
+    "Marcelito Pomoy",
+    "Simon Cowell",
+    "Kelly Marie Tran",
+    "Joanna Jędrzejczyk"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "i06A3F4XkEc": {
+   "description": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim.",
+   "people": [
+    "David Choe",
+    "Kevin Eastman",
+    "Peter Laird",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Dave Sim",
+    "Gerhard",
+    "Steve Lavigne",
+    "Joe Manganiello",
+    "Richard Corben",
+    "Wendy Pini",
+    "Richard Pini",
+    "Barry Windsor-Smith",
+    "Mike Dooney",
+    "Tom Savini",
+    "George A. Romero",
+    "Terry Gilliam",
+    "David Mamet",
+    "Jack Kirby",
+    "Mark Freedman",
+    "Bill Paxton",
+    "Stan Sakai",
+    "Ryan Brown",
+    "private former partners and correspondents"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "i8cDwucTSbo": {
+   "description": "A 2013 conversation in which David Choe tests the limits of improvisational podcasting, explicit autobiography and risk.",
+   "people": [
+    "David Choe",
+    "Joe Rogan [episode context; turns unresolved]",
+    "Brian Redban [episode context; turns unresolved]",
+    "Critter [public/recurring context; exact turns unresolved]",
+    "Quentin Tarantino",
+    "Robert Rodriguez",
+    "Harvey Keitel",
+    "Kevin Smith",
+    "Anthony Bourdain",
+    "Howard Stern",
+    "Wayne Federman",
+    "David Chang",
+    "Pedro Friedeberg",
+    "Asa Akira",
+    "Saad Mohseni",
+    "Duncan Trussell",
+    "Daryl Hannah",
+    "Sean Young",
+    "Tom Segura",
+    "Christina Pazsitzky",
+    "Ninja",
+    "Yolandi Visser",
+    "Jim Jefferies",
+    "Michael Bisping",
+    "Eddie Bravo",
+    "Charlie Hunnam",
+    "Anderson Silva",
+    "Chris Weidman",
+    "Bernard Hopkins",
+    "Sean Parker",
+    "René Redzepi",
+    "Dario Cecchini",
+    "Alex Atala",
+    "Harris Wittels",
+    "Dana White",
+    "Thiago Alves",
+    "Miyamoto Musashi",
+    "Aubrey Plaza",
+    "private family, partners, workers, friends, prisoners and children"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "ieBa-DrOj5A": {
+   "description": "A 2:55 rapid multi-speaker restaurant/photo-wall story.",
+   "people": [
+    "David Choe (title/spoken reference)",
+    "Steven Yeun (title/spoken reference)",
+    "Bobby Lee (title-level subject; no line attribution)",
+    "unidentified conversational voices",
+    "woman owner of Park’s BBQ (private business person; reported dialogue)",
+    "unidentified fan",
+    "Mrs. Park/Miss Park (joke/reported honorific; identity unexpanded)",
+    "unidentified private woman in house story",
+    "Insane Clown Posse/ICP (likely photo-wall reference)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "iwWlZJ_EsvE": {
+   "description": "A cityscape tutorial starts by bringing imagined nature into an office-bound city, tears through a fence, builds dense Hong Kong–New York–San Francisco–Los Angeles geometry, adds a nighttime doorway and ends by questioning how long a painting really took.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "iyq1B-TJgOs": {
+   "description": "A 16-second official-channel painting clip titled for David Choe and Hebert Baglione in Brazil.",
+   "people": [
+    "David Choe (title-level artist)",
+    "Hebert Baglione (title-level artist)",
+    "unidentified speaker of “okay”"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "j442p8oHugE": {
+   "description": "A 4:25 motivational monologue organized around the refrain presence is the present.",
+   "people": [
+    "David Choe (channel context; no named turn)",
+    "unidentified monologue speaker",
+    "listeners with available mother/father",
+    "children/babies and their parents (generic/private)",
+    "strangers/new friends (generic)"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "j7T6__UbhBI": {
+   "description": "Across nearly four hours, David describes fear of returning to public expression after DVDASA, questions whether great work requires suffering, and recounts private performance experiments, racial violence, hitchhiking, Congo and Hadza travel, hunting, fame, gaming/pornography/gambling compulsions, suicidality, treatment, friendship intervention and recovery practice.",
+   "people": [
+    "David Choe",
+    "Joe Rogan [title/episode context]",
+    "Jamie Vernon [episode context; turns unresolved]",
+    "Anthony Bourdain",
+    "Roy Choi",
+    "David Chang",
+    "Steven Yeun",
+    "Bong Joon Ho",
+    "Terence McKenna",
+    "Alex Grey",
+    "Joe Hahn",
+    "Mike Shinoda",
+    "Dan Auerbach",
+    "Steven Rinella",
+    "David Goggins",
+    "Post Malone",
+    "Scott Rudin",
+    "Herman Cain",
+    "Critter and Harry Kim [Thumbs Up references]",
+    "Walter [explicit pseudonym]",
+    "private family, students, companions, hosts, treatment participants and community members"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "jWMi6WOa56k": {
+   "description": "VICE's Congo excerpt follows Choe's childish sense of adventure into a search for the reported Mokele-mbembe, through expert and local testimony, disorienting jungle travel with guides and paranoid jokes about sorcerers reading his mind.",
+   "people": [
+    "David Choe",
+    "Harry Kim"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "k-wWvZu9xaA": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 029, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Kevin Hayes",
+    "Money Mark",
+    "Critter",
+    "Valentin",
+    "Bobby Namba",
+    "Juan",
+    "Yoshi",
+    "Eric Estrada",
+    "John Mayer",
+    "Pamela Adlon",
+    "Sasha Grey",
+    "Everlast",
+    "Anthony Bourdain",
+    "Charmane Star",
+    "Howard Stern",
+    "Donna Summer",
+    "Too $hort"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "kHJHdCnGnvA": {
+   "description": "A transcript-sparse Norway clip names Martin and ends twice; the title supplies Choe and Norway, but the recorded action cannot be responsibly reconstructed from one damaged line.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "kdIZ-X0dbM4": {
+   "description": "Choe and Rogan discuss why spirituality can stop a conversation, how ancient religious texts carry historical moral limits, whether belief in a larger purpose helps people live, and love amid war and suffering.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "ksa76m5HHfk": {
+   "description": "An 8:24 variety monologue moving from peekaboo/spider play and not-feeling-on-it disclosure into damaged sponsor/code wordplay, pray/play, a taped paper coffee cup and tongue burn, snack tasting and a playful dad/cameraman/Val chip accusation, art-for-self rhetoric immediately called a lie, delegated editing and virality/algorithm anxiety, then a parody of a prior love/trust/sorry aphorism through hugs, an explicit unsafe password joke, money, an uncertain promo code and an unmade weighted-stuffy pitch seeking a manufacturer.",
+   "people": [
+    "David Choe (publisher/self-address context; no named turn)",
+    "unidentified monologue speaker",
+    "dad/cameraman/Val (playful suspect references; identities/voices unresolved)",
+    "editing team",
+    "unidentified potential manufacturer"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "lcbK5KRKDrs": {
+   "description": "Choe analyzes Michael Mann's *Heat* through remembered lines, casting and production details, Black Flag's visible tattoo, the diner conversation between Neil and Hanna and the emotional cost of a life spent running.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "lqmqqvFV7Ec": {
+   "description": "A *Dithers* interview excerpt explains Choe's doofy whale character as a mouthpiece, traces his family's post-riot Diet Magic business and his entry into adult-magazine illustration, then introduces recurring mutated-whale and hostile-twin characters.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "m-5ofpeuOYc": {
+   "description": "A rough live recording captures Mangchi's ‘Hammer’ performance, audience exchanges, long music-dominated passages, damaged lyric transcription and a closing thank-you that celebrates taking over a Monday-night bill.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "mB3oDYYlcF0": {
+   "description": "RZA and David Choe create a collaborative painting for Hurricane Sandy relief while discussing Staten Island family damage, painting, film, Wu-Tang legacy, creative influence, Asian representation, sexual retention, incarceration, explicit comedy, friendship and film-set culture.",
+   "people": [
+    "David Choe",
+    "RZA",
+    "Eli Roth",
+    "Samuel L. Jackson",
+    "Danny Glover",
+    "Taylor Kitsch",
+    "Julia Stiles",
+    "Ol’ Dirty Bastard",
+    "Money Mark",
+    "Quentin Tarantino",
+    "Russell Crowe",
+    "Rick Yune",
+    "Jamie Chung",
+    "Steven Yeun",
+    "Mantak Chia"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "mGo88FJE4q0": {
+   "description": "Choe presents painting through pain as a sequence of tangents, naming deception, returning to the site of a wound, asking what protection was needed then and finally revealing the art show as a self-help exercise interrupted by his mother.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "mOj5JGBZ4dM": {
+   "description": "Choe tells Joe Rogan an explicit Koreatown massage story involving a late-night appointment, a customer waiting outside, improvised plastic wrap and a sexual act that leaves him embarrassed.",
+   "people": [
+    "David Choe",
+    "Joe Rogan"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "mUsyh416654": {
+   "description": "A Mangchi video featuring Steve Lee has only a repeated decoder fragment; it is retained as band-video evidence with no invented lyrics or action.",
+   "people": [
+    "Steve Lee",
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "m_F5oZG0s58": {
+   "description": "A 2:18 JRE #392 excerpt titled as David Choe’s red-rope massage story.",
+   "people": [
+    "David Choe (title-level subject)",
+    "unidentified primary storyteller",
+    "unidentified reacting/interview voice",
+    "Marty (reported name/claimed inventor; unverified)",
+    "unidentified man met by storyteller",
+    "unidentified massage worker role",
+    "five unnamed women in an explicit claim"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "md5ah3l5BgE": {
+   "description": "A 7:29 short film mixing music/applause, an intimate and combative recovery conversation, an eye-gazing exercise modified with visually unspecified rubber bands, a brief science-fiction treaty scene, and a closing reaction.",
+   "people": [
+    "Bobby Lee (publisher title; no named turn)",
+    "David Choe (publisher title; no named turn)",
+    "Bobby (spoken first name; line/identity unresolved)",
+    "unidentified performed participants",
+    "Zing Zong Zen (fictional name/phrase; role uncertain)",
+    "fictional planetary participants"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "mw6E0N8PZEM": {
+   "description": "A transcript-sparse Happy vs. Sad Choe Show clip contains only a reaction and thanks; its emotional contrast is source-title context, not recoverable dialogue.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "mxfBPoDUJ80": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 039, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Anthony Bourdain",
+    "Howard Stern",
+    "London Keyes",
+    "Bobby Namba",
+    "David Chang",
+    "James Deen",
+    "Money Mark",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "nJ0MUrJYcOM": {
+   "description": "A 5:55 improvised drawing monologue that acknowledges another person drew without permission, accepts it under a personal no-rules philosophy, and moves through dot shading, an ear, telephone line/pole, rainy boots, puddle-hand/drowning/panic imagery, circle/triangle restarts, balloon and roller-skate figures, falls and bruises, third-eye intuition, purple tears, childhood dark spots, changed perspective, voluntary-amnesia/Groundhog Day reset metaphors, sleep/tea/electronics/sunbathing/grounding suggestions, remnants of the past, anti-overthinking reminders, and an admission that revision can ruin the art.",
+   "people": [
+    "David Choe (publisher/self-address context; no named turn)",
+    "unidentified tutorial speaker",
+    "unidentified person who drew on the artwork",
+    "generic balloon maker"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "nSWSXRUm3l8": {
+   "description": "An edited Howard Stern excerpt presents Choe's progressive betting system, his account of gambling as a substitute for drinking or drugs, the path from small gallery sales to a million-dollar stake and the danger of repeatedly returning to Las Vegas.",
+   "people": [
+    "David Choe",
+    "Howard Stern"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "oFliGQNTC1c": {
+   "description": "Part Three moves through Xi'an, private rides, a night with the episode-identified punk band Echo Rush, Harry's haircut, a long ride with the private driver Jacob, an unidentified roadside game, crowded local transport and an improvised food sequence.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Jacob / Hong? [private; alias uncertain]",
+    "Jiang Ho [private; romanization unverified]",
+    "unidentified female translator/participant",
+    "unidentified male band participant",
+    "Echo Rush members [episode-identified/private]",
+    "unidentified salon workers, riders, vendors and food recipients"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "oRWi-tZyotE": {
+   "description": "An *Indisputable* segment discusses resurfaced DVDASA audio in which Choe described an alleged sexual assault, criticizes the entertainment industry's response around *Beef*, reviews low prosecution rates and debates whether continued acting work is a privilege; it is commentary, not an adjudication of the allegation.",
+   "people": [
+    "David Choe",
+    "Rashad Richey"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "p2E_8DhelKQ": {
+   "description": "A Thumbs Up Season 4 connection clip has an entirely corrupted decoder segment; the title identifies an unexpected connection, but who connected and how require the source video.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "p8qTCVYUiwI": {
+   "description": "A 6:34 process monologue rather than a conventional painting tutorial.",
+   "people": [
+    "David Choe (publisher/self-address context; no named turn)",
+    "unidentified monologue speaker",
+    "unidentified publishing team/friends",
+    "generic unhoused woman/man, past boss and ex-wife examples"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "pknJx79BV7o": {
+   "description": "A Hulu trailer for The Choe Show has a repeated one-word decoder failure; it is cataloged as platform trailer evidence without manufacturing scenes or dialogue.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "pw_HXGxrJ9s": {
+   "description": "A twenty-six-second Choe/Joaquin Phoenix edit titled You Were Really Never Here has only “The” transcribed; the relationship to the film title is metadata, and montage meaning remains visual.",
+   "people": [
+    "David Choe",
+    "Joaquin Phoenix"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "qL2vDGvysD0": {
+   "description": "A 3:05 JRE #1965 derivative in which an interviewer asks why Africa draws the storyteller back.",
+   "people": [
+    "David Choe (publisher-title subject; no named turns)",
+    "Joe Rogan (program host; no named turns)",
+    "unidentified Hadza children",
+    "unidentified returning hunters/community members",
+    "three uncertain private-name phonetics: Shawnee?, Nona?, gonkida?",
+    "unnamed YouTube visitors"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "qVPlWFKUBCI": {
+   "description": "Choe connects anger, anxiety and addiction to suicide risk, then remembers Anthony Bourdain asking him for help and reflects on the limits of a partial request when someone is in deep distress.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon",
+    "Anthony Bourdain"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "qs1yRqLkRm4": {
+   "description": "Mangchi’s These Are My People moves from lower-astral-plane and reptilian imagery through explicit surreal birth lyrics into the repeated chosen-community refrain.",
+   "people": [
+    "David Choe",
+    "Steve Lee"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "qw_y5isSw4k": {
+   "description": "A clean 35-second official-channel promotional voiceover for Thumbs Up America.",
+   "people": [
+    "three unnamed male travelers (tagline-level)",
+    "unidentified promotional narrator",
+    "people of the United States (collective rhetorical audience)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "rN5_qjTyu8M": {
+   "description": "Choe recalls *Warcraft II* overtaking his relationships and attention, compares his behavior with addiction, describes attending recovery meetings, and admits lying to friends so he could keep playing.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "r_erL0rlywQ": {
+   "description": "A transcript-inadequate Mangchi animation credited to Scorpion Dagger and David Choe survives here as a visual/music route; the decoder produced only a repeated fragment, so no lyric or narrative is reconstructed from it.",
+   "people": [
+    "David Choe",
+    "Scorpion Dagger"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "reW-p9ds4g4": {
+   "description": "Steve-O, David Choe and the Wild Ride crew move from prison, bowel anxiety and Korean identity into recovery, shame, wealth, medical shortcuts, service work and the difficulty of saying no.",
+   "people": [
+    "David Choe",
+    "Steve-O",
+    "Scott Randolph [credit verify]",
+    "Paul Brisske [spelling/credit verify]",
+    "Rich Roll",
+    "Jeff Bezos",
+    "Mark Zuckerberg",
+    "Sean Parker",
+    "John E. Sarno",
+    "Howard Stern",
+    "Khabib Nurmagomedov",
+    "Conor McGregor",
+    "Jonathan Davis",
+    "Chris Cornell",
+    "Christian Slater",
+    "Sia",
+    "Mel Gibson",
+    "Donald Trump",
+    "Jared Leto",
+    "Sean O'Malley",
+    "Dana White",
+    "Justin Bieber",
+    "Neale Donald Walsch",
+    "private treatment participants",
+    "private women and children",
+    "unnamed reality-show producers and cast"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "spAebvaG-VE": {
+   "description": "A 35-second David Choe Clips upload titled as an RZA/David Choe jam session.",
+   "people": [
+    "RZA (title-level participant)",
+    "David Choe (title-level participant)",
+    "unidentified speaker/performer",
+    "unidentified audience"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "tKTL30a-DS4": {
+   "description": "A 2:22 JRE 1965 excerpt with a clickbait title that is materially narrower than the transcript.",
+   "people": [
+    "David Choe (title-level subject)",
+    "Joe Rogan (title-level participant)",
+    "unidentified primary speaker",
+    "unidentified interviewer/reacting voice",
+    "speaker’s mother (reported/performed role)",
+    "speaker’s father (reported/performed role)",
+    "speaker’s friends (reported group)",
+    "Andy Warhol (family-story reference)",
+    "Andy Warhol’s mother (family-story reference)",
+    "Leonardo da Vinci (family-story reference)",
+    "unidentified transgender woman (private person; caption name withheld)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "tP5OmbOXWBc": {
+   "description": "A page-by-page reading of Kevin Eastman's Raphael micro-series becomes David Choe's uncensored account of formative comics, childhood drawing, vigilante fantasy, creator ownership, Japanese fan-comics encounters and the bond between two outsiders.",
+   "people": [
+    "David Choe",
+    "Jim Rugg",
+    "Ed Piskor",
+    "Kevin Eastman",
+    "Peter Laird",
+    "Richard Corben",
+    "Frank Miller",
+    "Peter Chung",
+    "Daniel Warren Johnson",
+    "Harry Kim",
+    "Simon Bisley",
+    "Michael Zulli",
+    "Will Eisner",
+    "John Romita Jr.",
+    "Vaughn Bodē",
+    "Sam Kieth",
+    "Eric Talbot",
+    "David Mazzucchelli",
+    "Paul Chadwick",
+    "Julie Strain"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "tk923yF0TXA": {
+   "description": "David Choe joins Cartoonist Kayfabe from a parked car on new-comics day and thanks Ed Piskor and Jim Rugg for restoring his comics community.",
+   "people": [
+    "David Choe",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Geof Darrow",
+    "Alice Darrow",
+    "Baron Storey",
+    "Frank Miller",
+    "Moebius",
+    "Joe Manganiello",
+    "Sofia Vergara",
+    "Brian Ralph",
+    "Paul Pope",
+    "Taiyo Matsumoto",
+    "Erik Larsen",
+    "Daniel Clowes",
+    "Bill Sienkiewicz",
+    "Dave McKean",
+    "Eric White",
+    "Neal Adams",
+    "Chris Ware",
+    "Todd McFarlane",
+    "Arthur Adams",
+    "Kent Williams",
+    "Adrian Tomine",
+    "Seth",
+    "Joe Matt",
+    "Rob Liefeld",
+    "Ricardo Cortés",
+    "Anthony Bourdain",
+    "Joe Rogan",
+    "Howard Stern",
+    "Gavin McInnes",
+    "Shane Smith",
+    "James Jean",
+    "Ralph Bakshi",
+    "Larry Flynt",
+    "W. T. Nelson",
+    "Jaime Hernandez",
+    "Johnny Depp",
+    "Paul Reubens",
+    "David Arquette",
+    "Sacha Baron Cohen",
+    "Asa Akira",
+    "Adam Hughes",
+    "Michael K. Williams",
+    "Alex Pardee",
+    "Sam Kieth",
+    "Katie Holmes",
+    "George R. R. Martin",
+    "Brian Michael Bendis",
+    "Peter David",
+    "Gary Frank",
+    "Trent Kaniuga",
+    "Daniel Warren Johnson",
+    "Rafael Grampá",
+    "Frank Quitely",
+    "Kevin Eastman",
+    "Peter Laird"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "u2V3qYnhf3U": {
+   "description": "A five-second Choe Show trailer has an unusable non-English decoder loop; it is preserved as visual promotional evidence only.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "u5sqxKpVJYw": {
+   "description": "A commentary upload republishes the resurfaced DVDASA sexual-assault account, identifies the online cancellation campaign around *Beef*, then reads Choe's later statement describing the story as false, apologizing for making sexual assault into a joke and discussing recovery and self-hatred.",
+   "people": [
+    "David Choe",
+    "Ali Wong"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "uJXhtxBl3OM": {
+   "description": "Part 2 restates Choe's need for candor plus edit control, then maps Steve Lee's prayer, recovery, sex, sleep, gaming, Patreon and production routines.",
+   "people": [
+    "David Choe",
+    "Steve Lee",
+    "Bobby Lee",
+    "Khalyla Kuhn",
+    "Asa Akira",
+    "David Chang",
+    "Eddie Bravo",
+    "Pauly Shore"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "uOf3CdFjXg4": {
+   "description": "A post-recording preface preserves the original Anthony Bourdain discussion after his death and adds the program's historical suicide-prevention message; current 988 guidance belongs outside, not inside, the literal transcript.",
+   "people": [
+    "David Choe",
+    "Macaulay Culkin",
+    "Matt Cohen",
+    "Anthony Bourdain",
+    "Michael Jackson",
+    "Sean Parker",
+    "Mark Zuckerberg",
+    "Claire Grant",
+    "Seth Green",
+    "Kevin Smith",
+    "Jay Mohr",
+    "Whoopi Goldberg",
+    "Patrick Stewart",
+    "Christopher Lloyd",
+    "Jonathan Davis",
+    "John Cusack",
+    "Paul Hipp",
+    "Harvey Keitel",
+    "Nicolas Cage",
+    "Norman Lear",
+    "Jennifer Lopez",
+    "Takashi Murakami",
+    "Damien Hirst",
+    "Marc Bernardin [verify]",
+    "David Chang",
+    "Bill Simmons",
+    "André the Giant",
+    "Samuel Beckett",
+    "Hulk Hogan",
+    "Vince McMahon",
+    "Dan the Automator",
+    "David Cross",
+    "Amber Tamblyn",
+    "Joseph Gordon-Levitt",
+    "Tobey Maguire",
+    "Christopher Nolan",
+    "Thomas Keller",
+    "private companions and children"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "uVgbqMzYRIg": {
+   "description": "An 8:38 live Mangchi performance artifact whose 35 automatic-caption records are an event timeline rather than a dialogue transcript: 19 music regions, five applause regions, five thank-you/reaction phrases, one come on, one oh my God and six generic foreign markers.",
+   "people": [
+    "David Choe (publisher-title participant; role/voice unverified)",
+    "Dylan (publisher-title participant; identity/role unexpanded)",
+    "DJ Cutso (publisher-title participant; exact role not inferred beyond title wording)",
+    "unidentified performers",
+    "unidentified audience members"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "vDo1yCwzzxg": {
+   "description": "An extended underpainting tutorial contrasts making a living with making an image, hides garish early colors beneath later work, questions the performance of mature gallery art and uses stopping movement to reconsider an old survival strategy.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "vEL0l0Nlmh8": {
+   "description": "A pandemic-era monologue built as associative arithmetic: David Choe connects conflict with his mother, immigrant-family obligation, a no-phone art experiment, incarceration in Japan, the 1992 Los Angeles uprising, Korean achievement and cultural borrowing, rejection at the Canadian border, Mangchi, reggae, addiction and the desire to be accepted without performing.",
+   "people": [
+    "David Choe",
+    "David Chang",
+    "Pablo [private surname unknown]",
+    "Ice Cube",
+    "Eazy-E",
+    "Bong Joon Ho",
+    "Michael Jordan",
+    "Mike Tyson",
+    "Michael Jackson",
+    "Bob Marley",
+    "Chingy",
+    "Jim Lee",
+    "Lars Ulrich"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "vTaS3XK3rgI": {
+   "description": "A narrated mini-documentary compresses Choe's biography from Los Angeles graffiti and magazine illustration through Congo travel, Japanese imprisonment, Facebook murals and international art recognition, relying heavily on familiar interview clips rather than new reporting.",
+   "people": [
+    "David Choe",
+    "Sean Parker"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "ve6W8gFmNQQ": {
+   "description": "This official 55-second fragment presents an improvised low-budget road meal: leftover fried-chicken grease, microwaved ramen, chili, jalapeños, pork rinds and mayonnaise arranged with comic food-show attention to presentation.",
+   "people": [
+    "David Choe [title credit]",
+    "Harry Kim [title credit]",
+    "unresolved speaking participant(s)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "vhbVKIwLiSQ": {
+   "description": "Choe's first ‘Crispy & Chewie’ fan-fiction reaction rewrites Chewbacca's capture by the Knights of Ren, fixates on the actor's physical commitment and voice, revisits Han Solo's death and imagines an English translation voiced by an unexpected celebrity.",
+   "people": [
+    "David Choe",
+    "J. J. Abrams",
+    "Harrison Ford",
+    "Morgan Freeman",
+    "Bill Murray"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "w3vRQZbmLyw": {
+   "description": "A long Philippines painting upload is primarily a visual studio record: Choe prepares clothing and materials, works through extended quiet and music-heavy stretches, warns against rushing a drying or glass-related stage and briefly shifts into trading-card and camera talk near the end.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "w5gzmdRViAY": {
+   "description": "A roughly three-minute 2023 edited news/commentary package combining a graphic archival podcast excerpt, reporter paraphrase of the massage story, a time-bound report about clip circulation/copyright claims and non-response, Choe’s reported 2014 denial, and a commentator’s accountability argument.",
+   "people": [
+    "David Choe (subject and reported quoted speaker)",
+    "Rose (story name/possible alias; private identity unexpanded)",
+    "Ali Wong (commentary reference)",
+    "Steven Yeun (commentary reference)",
+    "Harvey Weinstein (comparison reference)",
+    "unidentified reporter/narrator",
+    "unidentified commentator",
+    "unidentified archival podcast voices"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "wC3vettgNB0": {
+   "description": "A near-full-length Archive Dump Truck YouTube re-upload of DVDASA Episode 043, linked to the canonical episode by transcript and runtime evidence.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "Anthony Bourdain",
+    "David Beckham",
+    "Julia Roberts",
+    "Kevin Smith",
+    "Harry Kim",
+    "Critter"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "wK3xCI1VF-g": {
+   "description": "A visual companion in which David Choe and a Felix Comic Art host move through original pages and paintings by Geof Darrow, Tradd Moore, Daniel Warren Johnson, Simon Hanselmann, Edvin Biuković, Ian Bertram, Frank Teran and Frank Quitely.",
+   "people": [
+    "David Choe",
+    "Geof Darrow",
+    "Tradd Moore",
+    "Daniel Warren Johnson",
+    "Simon Hanselmann",
+    "Edvin Biuković",
+    "Ian Bertram",
+    "Frank Teran",
+    "Frank Quitely",
+    "Mark Millar",
+    "Todd McFarlane",
+    "Arthur Adams",
+    "Chester Bennington"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "wb34YLBpxcU": {
+   "description": "A spoken Batman monologue moves from murdered parents and a vow to become the victimizer through exhaustion with the cave and secret identity, then renounces hardness and redirects the remaining fight toward love and self-worth.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "wcMNw16dQKo": {
+   "description": "Part Two follows the crew through unidentified roads, villages, Tuoketuo and uncertain Xingye/Yan'an geography.",
+   "people": [
+    "David Choe",
+    "Harry Kim",
+    "Stephanie Kim",
+    "Paul [unresolved mention]",
+    "Mr. Ji [private/romanization unverified]",
+    "unidentified drivers, residents, workers, women, children and possible officers"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "x0o0pC5mJfI": {
+   "description": "SciFiReuben's eighth DVDASA recap is a fan-made, long-form retrospective that mixes clips, commentary and host discussion about the show's recurring cast, explicit humor, drinks, later disengagement and the recap project's own production backlog.",
+   "people": [
+    "David Choe",
+    "Asa Akira",
+    "SciFiReuben"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "x5jTxz_n2yo": {
+   "description": "A sparse 47-second official-channel Season 5 teaser with seven caption records.",
+   "people": [
+    "David Choe (series/source context only; line-level presence unresolved)",
+    "unidentified speaker(s)",
+    "unidentified person associated with IV/food scene"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "xANsVQ33p4Q": {
+   "description": "A 1:48 Kevin Smith-titled excerpt about caring for Mulder, a large yellow Lab who could no longer use his hind legs and had recently died.",
+   "people": [
+    "Kevin Smith (source-title attribution; line-level turns unresolved)",
+    "David Choe",
+    "Mulder (deceased yellow Labrador retriever)"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "xS7wfeeeM8I": {
+   "description": "An unofficial *Dirty Hands* trailer introduces Choe through spray paint, graffiti, paid drawing and the label ‘dirty style,’ then previews Japan, illegality, exhaustion with his way of living and friends' belief that unresolved struggle feeds the work.",
+   "people": [
+    "David Choe",
+    "Harry Kim"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "xXDZOnvqyQg": {
+   "description": "An official-channel, second-person Batman dramatic monologue that opens with graphic vigilante violence, reveals Bruce Wayne’s trauma and compulsive pursuit of invulnerability, then reverses into responsibility, redistribution, medical repair, apology, therapy, friendship and self-love.",
+   "people": [
+    "David Choe (source-level channel attribution only; performer turn unresolved)",
+    "Batman / Bruce Wayne (fictional)",
+    "Alfred, Robin, Aquaman, Superman, Wonder Woman and Catwoman (fictional DC references)",
+    "Joker, Two-Face, Penguin, Killer Croc, Poison Ivy and Harley Quinn (fictional DC references)",
+    "Wolverine (fictional Marvel reference)",
+    "Bruce Wayne’s parents and the injured opponent (fictional within the monologue)"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "yFFUaDk29pA": {
+   "description": "Choe and Joe Rogan compare leaving Los Angeles, the attractions and limits of Austin, homelessness and public policy, and Choe's continuing search for a place closer to nature.",
+   "people": [
+    "David Choe",
+    "Joe Rogan",
+    "Jamie Vernon"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "yHXNIZoL6eo": {
+   "description": "A 32-second performance/story fragment titled The Legend Of Igloo Hong.",
+   "people": [
+    "Igloo Hong (title/work-level figure)",
+    "unidentified performer/narrator"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "yMw73rpJPRA": {
+   "description": "An early-*Dirty Hands* excerpt combines music, whales, Choe's habit of putting Bible verses and flipped lyrics on walls, a two-handed spray technique, joking police-evasion performance and the claim that ugly and beautiful marks are human signatures on territory.",
+   "people": [
+    "David Choe",
+    "Harry Kim"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "yWAYOdJVY_o": {
+   "description": "David Choe and Steven Yeun explain to Bobby Lee why they wanted to honor him, moving from awkward resistance to accounts of Bobby's importance for young Asian American performers and Khalyla's emotional testimony about loving him.",
+   "people": [
+    "David Choe",
+    "Steven Yeun",
+    "Bobby Lee",
+    "Khalyla"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "yfBr58eH6ls": {
+   "description": "A sparse 0:59 official-channel monologue that rejects simply moving on from harm, uses removing a bullet before suturing a wound as a metaphor for deeper repair, then links acceptance to liberation and condemnation to oppression.",
+   "people": [
+    "David Choe (source-level channel attribution only; line-level performer unresolved)",
+    "unnamed person referenced inside an uncertain caption phrase"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "yz8RQL1TV2o": {
+   "description": "A 31-second clip whose two speech captions merge what appears to be a multi-speaker mother-roleplay or mother-comparison exchange.",
+   "people": [
+    "unidentified speaker A",
+    "unidentified speaker B",
+    "mother (role/comparison only; not verified participant)"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "yz_qrtjMONo": {
+   "description": "Choe begins unprepared with a bag of materials and translates changing feelings into mixed-media forest colors, emphasizes voluntary participation, paints impossible blue dead leaves and finally introduces spray paint that overwhelms the cameraman.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Uploader captions"
+  },
+  "z-4TXv6GC18": {
+   "description": "A 30-second official-channel opening to a two-person Choe Show interview.",
+   "people": [
+    "David Choe (show/title context only; line-level role unresolved)",
+    "unidentified long-term close participant/interviewer"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "z06_ZFg9zHc": {
+   "description": "A roughly 1:34 performed DVDASA mothership theme with two conflicting local transcript editions.",
+   "people": [
+    "unidentified vocalist(s)",
+    "Scotty (Star Trek-associated lyric reference)",
+    "Cat Man (upload-title tag only; role unverified)",
+    "Mangchi (upload-title tag only; role unverified)"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "zHyvVajsqMw": {
+   "description": "A nearly four-hour conversation about compulsive motion: gambling, graffiti, travel, sex, work and danger as ways David Choe says he avoided sitting with himself.",
+   "people": [
+    "David Choe",
+    "Anthony Bourdain"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "zSuvEkr6TY0": {
+   "description": "A short art lesson shows Choe using an architecture presentation board for an underpainting, accepting bleeding material, misting color across it and ending by pointing to the best result.",
+   "people": [
+    "David Choe"
+   ],
+   "transcript_label": "Computer transcript"
+  },
+  "zgBjoRMyp1Y": {
+   "description": "A 55-second official-channel travel trailer made of widely separated caption fragments: career questions about archaeology/helping poor people and CJ; a dead/burned/“evil” forest; an unresolved “jumper”; a straight/ride line followed by travelers saying a driver stopped before they began hitchhiking; an unresolved found-money fragment; a question asking whether Mormons love chicken and watermelon; and a final chair line.",
+   "people": [
+    "David Choe (series/source context only; line-level presence unresolved)",
+    "CJ (spoken name only; likely minor, not identified)",
+    "multiple unidentified travelers/interviewees/drivers"
+   ],
+   "transcript_label": "YouTube auto-captions"
+  },
+  "zmvu9oUDi7I": {
+   "description": "A Rio painting record pairs Herbert Baglione and David Choe footage with a long inserted guided-relaxation track, then returns to sparse studio reactions; the transcript cannot describe the mural's visual evolution.",
+   "people": [
+    "David Choe",
+    "Herbert Baglione"
+   ],
+   "transcript_label": "Computer transcript"
+  }
+ }
+}
