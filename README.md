@@ -123,12 +123,14 @@ the DVDASA beginning, the Ranch solo sequence, a long interview, and the current
 art-tutorial era. These are routes, not rankings. The first 24 rows remain visible
 under the collection filters, followed by one explicit control to reveal the
 complete collection; a search shows every matching row immediately. This keeps
-all 434 cards reachable without turning every visit into a 434-row image wall.
+all 434 cards reachable without loading a 434-row opening wall. Every visible
+row has a compact 16:9 thumbnail: 329 reuse an existing generated cover or
+source-linked YouTube image, while the 105 records without artwork receive an
+original archive-made cover using only collection, title, and runtime metadata.
 The visual principle comes from reviewing the old DVDASA site, Koreans Gone Bad,
-and David Choe's current blog/gallery: use one meaningful image to establish a
-section, then let the archive text do the indexing. No image was copied from
-those reference sites; cards use only existing generated covers and source-linked
-YouTube thumbnails already present in the catalog.
+and David Choe's current blog/gallery: larger images establish the entrances;
+small images help identify records while the text does the indexing. No image
+was copied from those reference sites.
 
 The labels mean exactly this:
 

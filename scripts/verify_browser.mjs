@@ -89,6 +89,7 @@ try {
       startCards: document.querySelectorAll('.start-card').length,
       loadedImages: [...document.querySelectorAll('.start-card img')].filter((image) => image.complete && image.naturalWidth > 0).length,
       rows: document.querySelectorAll('#cards li').length,
+      rowThumbs: document.querySelectorAll('#cards .record-thumb').length,
       count: document.querySelector('#count')?.textContent,
       reveal: document.querySelector('#listReveal button')?.textContent
     })`);
@@ -97,18 +98,25 @@ try {
   assert.equal(mobileHome.startCards, 4);
   assert.equal(mobileHome.loadedImages, 4);
   assert.equal(mobileHome.rows, 24);
+  assert.equal(mobileHome.rowThumbs, 24, 'every initially visible recording needs a thumbnail');
   assert.equal(mobileHome.count, 'Showing 24 of 434 transcripts');
   assert.equal(mobileHome.reveal, 'Show all 434 recordings');
 
+  await evaluate(`document.querySelector('#cards').scrollIntoView()`);
+  await delay(200);
   const screenshot = await call('Page.captureScreenshot', { format: 'png', captureBeyondViewport: false });
   fs.writeFileSync(screenshotPath, Buffer.from(screenshot.data, 'base64'));
 
   await evaluate(`document.querySelector('#listReveal button').click()`);
   const allRoutes = await waitFor(async () => {
-    const count = await evaluate(`document.querySelectorAll('#cards li').length`);
-    return count === 434 ? count : null;
+    const counts = await evaluate(`({
+      rows: document.querySelectorAll('#cards li').length,
+      thumbs: document.querySelectorAll('#cards .record-thumb').length
+    })`);
+    return counts.rows === 434 && counts.thumbs === 434 ? counts : null;
   }, 'all recording rows');
-  assert.equal(allRoutes, 434, 'full recording reveal must expose all catalog cards');
+  assert.deepEqual(allRoutes, { rows: 434, thumbs: 434 },
+    'full recording reveal must expose one thumbnail for every catalog card');
 
   await navigate(`${target.replace(/#.*$/, '')}#recent`,
     `document.querySelectorAll('.recent-video').length === 119 && ({
@@ -159,11 +167,13 @@ try {
     `document.querySelectorAll('#cards li').length === 24 && ({
       clientWidth: document.documentElement.clientWidth,
       scrollWidth: document.documentElement.scrollWidth,
-      rows: document.querySelectorAll('#cards li').length
+      rows: document.querySelectorAll('#cards li').length,
+      rowThumbs: document.querySelectorAll('#cards .record-thumb').length
     })`);
   assert.equal(desktop.clientWidth, 1280);
   assert.equal(desktop.scrollWidth, 1280, 'recordings page overflows on desktop');
   assert.equal(desktop.rows, 24);
+  assert.equal(desktop.rowThumbs, 24);
 
   console.log(`browser completion: desktop + 390px, 434 recording reveal, 119 video reveal, reader status, images, and zero overflow passed`);
   console.log(`390px screenshot: ${screenshotPath}`);

@@ -78,6 +78,8 @@ assert.deepEqual(startIds, [
 assert.ok(startIds.every((id) => ids.includes(id) && catalog.items.some((item) => item.id === id && item.th)),
   'every visual starting path needs a valid reader route and catalog image');
 assert.match(app, /const DEFAULT_VISIBLE = 24/);
+assert.match(app, /const source = item\.th \|\| generatedThumb\(item\)/,
+  'every recording row needs an existing or archive-generated thumbnail');
 assert.match(app, /Show all \$\{idx\.length\} recordings/);
 assert.match(app, /Show all \$\{sv\.videos\} current videos/);
 assert.match(html, /aria-live="polite"/);

@@ -114,16 +114,18 @@ input[type=search]:focus { outline: none; border-color: var(--fg); }
 .cards { list-style: none; margin: 0; padding: 0 0 var(--s8); }
 .cards li + li { border-top: 1px solid var(--hair); }
 .record-columns {
-  display: grid; grid-template-columns: minmax(0, 1fr) 8.5rem 5.5rem 7rem;
+  display: grid; grid-template-columns: 96px minmax(0, 1fr) 8.5rem 5.5rem 7rem;
   gap: var(--s4); padding: 0 0 var(--s2); border-bottom: 1px solid var(--line);
   color: var(--faint); font: 600 9px/1.4 var(--sans); letter-spacing: .1em;
   text-transform: uppercase;
 }
 .cards button {
-  display: grid; grid-template-columns: minmax(0, 1fr) 8.5rem 5.5rem 7rem; gap: var(--s4);
+  display: grid; grid-template-columns: 96px minmax(0, 1fr) 8.5rem 5.5rem 7rem; gap: var(--s4);
   width: 100%; text-align: left; cursor: pointer; background: none; border: 0;
-  padding: var(--s3) 0; align-items: baseline;
+  padding: var(--s4) 0; align-items: start;
 }
+.record-thumb { display: block; width: 96px; aspect-ratio: 16 / 9; object-fit: cover;
+  background: var(--hair); border-radius: 3px; }
 .cards button:hover .ct { text-decoration: underline; text-underline-offset: 2px; }
 .ct { display: block; font: 400 15px/1.35 var(--sans); }
 .cm { display: block; color: var(--dim); font-size: 12px; margin-top: var(--s1); }
@@ -263,10 +265,11 @@ mark { background: var(--mark); color: inherit; }
   .start-here .eyebrow { grid-row: auto; }
   .start-grid { grid-template-columns: 1fr; gap: var(--s5); }
   .record-columns { display: none; }
-  .cards button { grid-template-columns: 1fr auto; gap: var(--s1) var(--s3); padding: var(--s4) 0; }
-  .record-main { grid-column: 1 / -1; }
-  .record-collection { grid-column: 1; }
-  .record-runtime { grid-column: 2; text-align: right; }
+  .cards button { grid-template-columns: 72px minmax(0, 1fr) auto; gap: var(--s1) var(--s3); padding: var(--s4) 0; }
+  .record-thumb { width: 72px; grid-column: 1; grid-row: 1 / span 2; }
+  .record-main { grid-column: 2 / -1; }
+  .record-collection { grid-column: 2; }
+  .record-runtime { grid-column: 3; text-align: right; }
   .record-text { display: none; }
   .transcript.reader { font-size: 16px; }
   .filters { gap: var(--s3); }

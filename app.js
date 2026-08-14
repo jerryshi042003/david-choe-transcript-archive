@@ -102,10 +102,10 @@ function renderFilters() {
   });
 }
 
-/* The legacy sites were image-led, but repeating an image 434 times makes the
-   archive harder to scan. Four honest entrances carry the visual identity; the
-   list below stays textual and dense. All images already belong to catalog
-   records: local generated DVDASA covers or source-linked YouTube thumbnails. */
+/* Four larger entrances orient the archive. Compact row thumbnails then make
+   individual recordings recognizable without returning to an endless image
+   wall. Existing art stays attached to its catalog record; missing art gets an
+   original metadata cover generated from collection, title and runtime. */
 function renderStart() {
   const byId = new Map(state.items.map((item) => [item.id, item]));
   $('startCards').innerHTML = START_PATHS.map((path) => {
@@ -121,6 +121,30 @@ function renderStart() {
       </span>
     </a>`;
   }).join('');
+}
+
+function generatedThumb(item) {
+  const colors = {
+    DVDASA: '#ffd42a', Interviews: '#8ed1fc', 'His channel': '#ff6b96',
+    Clips: '#d6ff6b', Films: '#c4b5fd'
+  };
+  const accent = colors[item.c] || '#d8d4cc';
+  const serial = String(item.t).match(/\b(?:Episode|Chapter)\s+\d+/i)?.[0];
+  const title = serial || String(item.t).slice(0, 28);
+  const minutes = `${Math.max(1, Math.round(item.d / 60))} min`;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180">
+    <rect width="320" height="180" fill="#161616"/><rect width="12" height="180" fill="${accent}"/>
+    <text x="30" y="42" fill="${accent}" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">${esc(String(item.c).toUpperCase())}</text>
+    <text x="30" y="102" fill="#f5f1e8" font-family="Arial,sans-serif" font-size="25" font-weight="700">${esc(title)}</text>
+    <text x="30" y="145" fill="#a8a49d" font-family="Arial,sans-serif" font-size="15">${esc(minutes)} · ARCHIVE RECORD</text>
+  </svg>`;
+  return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+}
+
+function rowThumb(item) {
+  const source = item.th || generatedThumb(item);
+  const loading = source.startsWith('data:') ? '' : ' loading="lazy"';
+  return `<img class="record-thumb" src="${esc(source)}" alt=""${loading} decoding="async">`;
 }
 
 /* Coverage. The archive being 15% transcribed was invisible before -- a partial
@@ -186,6 +210,7 @@ function renderList() {
         const shownNames = names.slice(0, 4);
         const moreNames = names.length > shownNames.length ? ` +${names.length - shownNames.length} more` : '';
         return `<li><button type="button" data-id="${esc(it.id)}">
+          ${rowThumb(it)}
           <span class="record-main">
             <span class="ct">${highlight(it.t, terms)}</span>
             <span class="record-summary">${highlight(browse.description || 'Summary unavailable.', terms)}</span>
