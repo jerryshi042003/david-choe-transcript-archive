@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The David Choe Transcript Archive</title>
 <meta name="description" content="A searchable, analyzed archive of 421 DVDASA and David Choe recordings, with corpus summary, recurring topics, people, story notes, and machine-assisted transcripts.">
-<link rel="stylesheet" href="styles.css?v=claude-design-nav-20260813">
+<link rel="stylesheet" href="styles.css?v=claude-design-canvas-20260813">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -32,9 +32,8 @@
 
   <section id="browse">
     <header class="browse-intro">
-      <p class="eyebrow">Recordings</p>
-      <h2>Find a conversation, story, or interview.</h2>
-      <p>Search every transcript, or narrow the archive by collection.</p>
+      <h2>Recordings</h2>
+      <p>A searchable record of DVDASA, interviews, clips, and David Choe's own channel. Open any row to read its transcript and editorial context.</p>
     </header>
     <form class="search" role="search" onsubmit="return false">
       <label class="vh" for="q">Search all transcripts</label>
@@ -47,6 +46,9 @@
     </div>
     <a class="featured-series" href="#ranch"><span>Featured series</span>The Ranch — four solo recordings →</a>
     <p class="count" id="count"></p>
+    <div class="record-columns" aria-hidden="true">
+      <span>Recording</span><span>Collection</span><span>Runtime</span><span>Text</span>
+    </div>
     <ol class="cards" id="cards"></ol>
   </section>
 
@@ -96,7 +98,7 @@
   </nav>
 </footer>
 
-<script>window.__BUILD = "claude-design-nav-20260813";</script>
-<script src="app.js?v=claude-design-nav-20260813"></script>
+<script>window.__BUILD = "claude-design-canvas-20260813";</script>
+<script src="app.js?v=claude-design-canvas-20260813"></script>
 </body>
 </html>

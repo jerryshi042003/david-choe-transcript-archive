@@ -136,20 +136,14 @@ function renderList() {
         const it = state.items[i];
         const src = it.s === 'manual' ? 'uploader captions'
                   : it.s === 'auto' ? 'auto captions' : 'transcribed here';
-        // Generated covers are ~550 bytes of SVG; all 73 together are under
-        // 40 KB, so lazy-loading them saves nothing and left every one of them
-        // blank when the intersection observer did not fire. Remote YouTube
-        // stills are real images over the network, so those stay lazy.
-        const remote = /^https?:/.test(it.th || '');
-        const thumb = it.th
-          ? `<img class="thumb" src="${esc(it.th)}" alt=""${remote ? ' loading="lazy"' : ''} decoding="async">`
-          : `<span class="thumb ph">AUDIO</span>`;
         return `<li><button type="button" data-id="${esc(it.id)}">
-          ${thumb}
-          <span>
+          <span class="record-main">
             <span class="ct">${highlight(it.t, terms)}</span>
-            <span class="cm">${esc(it.g)}${sep}${hms(it.d)}${sep}${it.w.toLocaleString()} words${sep}${src}${it.e ? sep + 'notes' : ''}</span>
+            <span class="cm">${esc(it.g)}${sep}${src}${it.e ? sep + 'editorial notes' : ''}</span>
           </span>
+          <span class="record-collection">${esc(it.c)}</span>
+          <span class="record-runtime">${hms(it.d)}</span>
+          <span class="record-text">${it.w.toLocaleString()} words</span>
         </button></li>`;
       }).join('')
     : `<li><p class="empty">Nothing matches “${esc(state.q)}”.</p></li>`;
@@ -967,7 +961,7 @@ function route() {
   const raw = location.hash.replace(/^#/, '');
   const corpusRoute = ANALYSIS_GROUPS.some(([, rows]) => rows.some(([key]) => key === raw));
   $('reader').classList.toggle('analysis-view', corpusRoute);
-  $('main').classList.toggle('wide', corpusRoute);
+  $('main').classList.toggle('wide', corpusRoute || raw === '');
   renderPrimary(raw === 'recent' ? 'recent' : corpusRoute ? 'corpus' : 'recordings');
   if (raw === 'ranch') return renderHub();
   if (raw === 'overview') {
