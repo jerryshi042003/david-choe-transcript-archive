@@ -10,7 +10,7 @@ const $ = (id) => document.getElementById(id);
 const BUILD_STAMP = (typeof window !== 'undefined' && window.__BUILD) || '';
 const dataURL = (p) => p + (BUILD_STAMP ? (p.includes('?') ? '&' : '?') + 'v=' + BUILD_STAMP : '');
 const state = { cat: null, browse: {}, items: [], group: 'All', q: '', cache: new Map(),
-                mode: localStorage.getItem('choeMode') || 'reader' };
+                showAll: false, mode: localStorage.getItem('choeMode') || 'reader' };
 
 const hms = (s) => {
   s = Math.max(0, Math.round(s));
@@ -64,6 +64,25 @@ function searchItems(q) {
    mixed into the same row, making buttons that looked identical do unrelated
    things. Navigation now lives in the site header and corpus section. */
 const COLLECTIONS = ['All', 'DVDASA', 'Interviews', 'His channel', 'Clips'];
+const DEFAULT_VISIBLE = 24;
+const START_PATHS = [
+  {
+    id: 'saga1-episode-001-with-david-choe-and-asa-akira', href: '#/saga1-episode-001-with-david-choe-and-asa-akira',
+    label: 'Start at the beginning', title: 'DVDASA Episode 001'
+  },
+  {
+    id: 'saga1-episode-101-the-ranch-solo-series-part-one', href: '#ranch',
+    label: 'A quieter side', title: 'The Ranch solo recordings'
+  },
+  {
+    id: '2Xw5EgZdNvQ', href: '#/2Xw5EgZdNvQ',
+    label: 'A long-form conversation', title: 'Joe Rogan Experience #563'
+  },
+  {
+    id: '01HBjlMmqCQ', href: '#/01HBjlMmqCQ',
+    label: 'The current art mode', title: 'Embrace Fearlessness'
+  }
+];
 // A separate entrance rather than a filter: it is not a subset of the
 // transcripts, it is a different question asked of them.
 const inGroup = (it, g) => g === 'All' || it.c === g;
@@ -78,9 +97,30 @@ function renderFilters() {
   $('filters').innerHTML = chips.join('');
   $('filters').querySelectorAll('button').forEach((b) => {
     b.onclick = () => {
-      state.group = b.dataset.g; renderFilters(); renderList();
+      state.group = b.dataset.g; state.showAll = false; renderFilters(); renderList();
     };
   });
+}
+
+/* The legacy sites were image-led, but repeating an image 434 times makes the
+   archive harder to scan. Four honest entrances carry the visual identity; the
+   list below stays textual and dense. All images already belong to catalog
+   records: local generated DVDASA covers or source-linked YouTube thumbnails. */
+function renderStart() {
+  const byId = new Map(state.items.map((item) => [item.id, item]));
+  $('startCards').innerHTML = START_PATHS.map((path) => {
+    const item = byId.get(path.id);
+    if (!item) return '';
+    const browse = state.browse[item.id] || {};
+    return `<a class="start-card" href="${esc(path.href)}">
+      <span class="start-image"><img src="${esc(item.th || '')}" alt="" loading="eager"></span>
+      <span class="start-copy">
+        <span class="start-label">${esc(path.label)}</span>
+        <strong>${esc(path.title)}</strong>
+        <span>${esc(browse.description || item.t)}</span>
+      </span>
+    </a>`;
+  }).join('');
 }
 
 /* Coverage. The archive being 15% transcribed was invisible before -- a partial
@@ -129,12 +169,17 @@ function renderList() {
     return B.d - A.d;
   });
 
+  const hasQuery = Boolean(state.q);
+  const isLimited = !hasQuery && !state.showAll && idx.length > DEFAULT_VISIBLE;
+  const shown = isLimited ? idx.slice(0, DEFAULT_VISIBLE) : idx;
+  $('startHere').hidden = hasQuery || state.group !== 'All';
+
   $('count').textContent = state.q
     ? `${idx.length} transcript${idx.length === 1 ? '' : 's'} mention “${state.q}”`
-    : `${idx.length} transcripts`;
+    : isLimited ? `Showing ${shown.length} of ${idx.length} transcripts` : `${idx.length} transcripts`;
 
-  $('cards').innerHTML = idx.length
-      ? idx.map((i) => {
+  $('cards').innerHTML = shown.length
+      ? shown.map((i) => {
         const it = state.items[i];
         const browse = state.browse[it.id] || {};
         const names = browse.people || [];
@@ -152,6 +197,12 @@ function renderList() {
         </button></li>`;
       }).join('')
     : `<li><p class="empty">Nothing matches “${esc(state.q)}”.</p></li>`;
+
+  $('listReveal').innerHTML = isLimited
+    ? `<button type="button" aria-controls="cards">Show all ${idx.length} recordings</button>`
+    : '';
+  const reveal = $('listReveal').querySelector('button');
+  if (reveal) reveal.onclick = () => { state.showAll = true; renderList(); };
 
   $('cards').querySelectorAll('button').forEach((b) =>
     b.onclick = () => { location.hash = '#/' + b.dataset.id; });
@@ -1101,6 +1152,7 @@ function route() {
     const browse = await (await fetch(dataURL('data/browse-index.json'))).json();
     state.browse = browse.routes || {};
   } catch { state.browse = {}; }
+  renderStart();
   const uniqueRoutes = [...new Map(state.items.map((item) => [item.id, item])).values()];
   const hrs = uniqueRoutes.reduce((a, b) => a + b.d, 0) / 3600;
   const w = uniqueRoutes.reduce((a, b) => a + b.w, 0);
@@ -1127,7 +1179,7 @@ function route() {
 
   renderFilters();
   renderProgress();
-  $('q').oninput = () => { state.q = $('q').value.trim(); renderList(); };
+  $('q').oninput = () => { state.q = $('q').value.trim(); state.showAll = false; renderList(); };
   $('back').onclick = () => { location.hash = ''; };
   addEventListener('hashchange', route);
   route();

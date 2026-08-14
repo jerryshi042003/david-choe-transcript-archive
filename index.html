@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The David Choe Transcript Archive</title>
 <meta name="description" content="A searchable, analyzed archive of 421 DVDASA and David Choe recordings, with corpus summary, recurring topics, people, story notes, and machine-assisted transcripts.">
-<link rel="stylesheet" href="styles.css?v=episode-orientation-20260813">
+<link rel="stylesheet" href="styles.css?v=visual-browse-20260813">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -35,6 +35,14 @@
       <h2>Recordings</h2>
       <p>Each row tells you what happens and who comes up. Every episode has a human-written summary and reviewed names; transcript wording can still contain mistakes.</p>
     </header>
+    <section class="start-here" id="startHere" aria-labelledby="startTitle">
+      <header>
+        <p class="eyebrow">Start here</p>
+        <h3 id="startTitle">Four ways into the archive</h3>
+        <p>Different entrances, not rankings. Images are used here to orient you—not repeated beside all 434 recordings.</p>
+      </header>
+      <div class="start-grid" id="startCards"></div>
+    </section>
     <form class="search" role="search" onsubmit="return false">
       <label class="vh" for="q">Search all transcripts</label>
       <input id="q" type="search" placeholder="Search every transcript…" autocomplete="off" spellcheck="false">
@@ -44,12 +52,12 @@
       <p class="filter-label">Collection</p>
       <nav class="filters" id="filters" aria-label="Filter recordings by collection"></nav>
     </div>
-    <a class="featured-series" href="#ranch"><span>Featured series</span>The Ranch — four solo recordings →</a>
-    <p class="count" id="count"></p>
+    <p class="count" id="count" aria-live="polite"></p>
     <div class="record-columns" aria-hidden="true">
       <span>What happens</span><span>Collection</span><span>Runtime</span><span>Transcript</span>
     </div>
     <ol class="cards" id="cards"></ol>
+    <div class="list-reveal" id="listReveal"></div>
   </section>
 
   <section id="hub" class="hub" hidden></section>
@@ -96,7 +104,7 @@
   </nav>
 </footer>
 
-<script>window.__BUILD = "episode-orientation-20260813";</script>
-<script src="app.js?v=episode-orientation-20260813"></script>
+<script>window.__BUILD = "visual-browse-20260813";</script>
+<script src="app.js?v=visual-browse-20260813"></script>
 </body>
 </html>

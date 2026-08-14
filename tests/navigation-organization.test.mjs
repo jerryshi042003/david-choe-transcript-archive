@@ -16,8 +16,15 @@ assert.doesNotMatch(browse, /tennis-culture|tom-handoff|sources\//, 'project/adm
 assert.match(html, /class="footlinks"/);
 assert.match(html, /Every episode has a human-written summary and reviewed names/);
 assert.doesNotMatch(html, /Most entries remain uncorrected/);
+assert.match(html, /Four ways into the archive/);
+assert.match(html, /Images are used here to orient you/);
 
 assert.match(app, /const COLLECTIONS = \['All', 'DVDASA', 'Interviews', 'His channel', 'Clips'\]/);
+assert.match(app, /const DEFAULT_VISIBLE = 24/);
+assert.match(app, /Show all \$\{idx\.length\} recordings/);
+assert.match(app, /const START_PATHS = \[/);
+assert.match(app, /item\.th/);
+assert.doesNotMatch(app, /koreansgonebad\.com|davidchoe\.com|dvdasa\.com/, 'legacy reference images must not be embedded');
 assert.doesNotMatch(app.match(/function renderFilters\(\) \{([\s\S]*?)\n\}/)?.[1] || '', /data-(hub|retold|stories|subjects)/,
   'recording filters must not contain navigation actions');
 
@@ -35,5 +42,7 @@ assert.match(app, /What happens — human-written context, separate from the tra
 assert.doesNotMatch(app, /Cleaning removed \$\{c\.segments_dropped\}/);
 assert.match(css, /\.analysis-view/);
 assert.match(css, /@media \(max-width: 760px\)/);
+assert.match(css, /@media \(max-width: 600px\)[\s\S]*\.start-grid \{ grid-template-columns: 1fr;/,
+  'visual entrances must collapse to one clear mobile column');
 
 console.log('navigation organization: three primary jobs, true filters, grouped corpus views, and mobile selector passed');

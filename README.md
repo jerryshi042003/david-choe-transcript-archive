@@ -107,6 +107,18 @@ description, up to four reviewed people names, collection, runtime, word count,
 and one plain transcript label. Search includes those descriptions and names as
 well as transcript words.
 
+The default browse view uses four representative catalog images as entrances:
+the DVDASA beginning, the Ranch solo sequence, a long interview, and the current
+art-tutorial era. These are routes, not rankings. The first 24 rows remain visible
+under the collection filters, followed by one explicit control to reveal the
+complete collection; a search shows every matching row immediately. This keeps
+all 434 cards reachable without turning every visit into a 434-row image wall.
+The visual principle comes from reviewing the old DVDASA site, Koreans Gone Bad,
+and David Choe's current blog/gallery: use one meaningful image to establish a
+section, then let the archive text do the indexing. No image was copied from
+those reference sites; cards use only existing generated covers and source-linked
+YouTube thumbnails already present in the catalog.
+
 The labels mean exactly this:
 
 - **Human-checked transcript** — the record was reviewed against its video.
