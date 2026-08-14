@@ -45,6 +45,7 @@ Before opening a pull request:
 
 ```bash
 python3 scripts/check_site.py
+node tests/completion-contract.test.mjs
 node tests/web-sources.test.mjs
 node tests/editorial-coverage.test.mjs
 node scripts/build_reupload_editorial.mjs
@@ -60,6 +61,16 @@ node scripts/build_corpus_analysis.mjs
 node scripts/refresh_method_counts.mjs
 node scripts/audit_editorial_coverage.mjs
 ```
+
+With the local preview running, the release-level browser gate is:
+
+```bash
+node scripts/verify_browser.mjs http://127.0.0.1:8000/
+```
+
+It drives headless Chrome at both 1280px and 390px, checks for horizontal
+overflow, proves the 434-recording and 119-video reveal paths, opens a real
+reader route, and saves a disposable 390px screenshot outside the repository.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for content and source rules.
 
@@ -142,6 +153,11 @@ rhythm, and measured silence/loudness. Full media, captions, transcripts,
 uploader descriptions, and contact sheets are excluded. Five picture streams
 and ten sound streams remain explicit measurement gaps rather than receiving
 borrowed values from neighboring videos.
+
+The page opens with the 24 newest videos and one explicit control for all 119.
+Choosing a creative phase shows that complete phase immediately, so the visual
+analysis remains comprehensive without beginning as another undifferentiated
+row wall.
 
 Rebuild from rights-cleared local metadata and ephemeral source-stream
 measurements:

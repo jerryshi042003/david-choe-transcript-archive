@@ -478,22 +478,38 @@ async function renderRecentChannel() {
       <button type="button" data-recent-filter="all" aria-pressed="true">All ${sv.videos}</button>
       ${(d.phases || []).map((phase) => `<button type="button" data-recent-filter="${esc(phase.id)}" aria-pressed="false">${esc(phase.label)} ${phase.videos}</button>`).join('')}
     </div>
-    <p id="recentCount" class="count">${sv.videos} videos</p>
+    <p id="recentCount" class="count">Showing ${Math.min(DEFAULT_VISIBLE, sv.videos)} of ${sv.videos} videos</p>
     <div id="recentRows" class="recent-rows">${rows}</div>
+    <div class="list-reveal" id="recentReveal"><button type="button">Show all ${sv.videos} current videos</button></div>
     <p class="analysis-boundary"><b>Measurement boundary:</b> ${esc(sv.method)} Picture gaps: ${sv.explicit_edit_gaps}; sound gaps: ${sv.explicit_sound_gaps}.</p>`;
+  let recentExpanded = false;
+  const applyRecentFilter = (filter) => {
+    let matching = 0, shown = 0;
+    box.querySelectorAll('.recent-video').forEach((row) => {
+      const matches = filter === 'all' || row.dataset.phase === filter;
+      if (matches) matching++;
+      const visible = matches && (filter !== 'all' || recentExpanded || shown < DEFAULT_VISIBLE);
+      row.hidden = !visible;
+      if (visible) shown++;
+    });
+    const limited = filter === 'all' && !recentExpanded && matching > DEFAULT_VISIBLE;
+    $('recentCount').textContent = limited ? `Showing ${shown} of ${matching} videos` : `${shown} video${shown === 1 ? '' : 's'}`;
+    $('recentReveal').hidden = !limited;
+  };
+  applyRecentFilter('all');
   box.querySelectorAll('[data-recent-filter]').forEach((button) => {
     button.onclick = () => {
       const filter = button.dataset.recentFilter;
       box.querySelectorAll('[data-recent-filter]').forEach((peer) =>
         peer.setAttribute('aria-pressed', String(peer === button)));
-      let shown = 0;
-      box.querySelectorAll('.recent-video').forEach((row) => {
-        const visible = filter === 'all' || row.dataset.phase === filter;
-        row.hidden = !visible; if (visible) shown++;
-      });
-      $('recentCount').textContent = `${shown} video${shown === 1 ? '' : 's'}`;
+      recentExpanded = false;
+      applyRecentFilter(filter);
     };
   });
+  $('recentReveal').querySelector('button').onclick = () => {
+    recentExpanded = true;
+    applyRecentFilter('all');
+  };
 }
 
 /* The cast across the whole run. A single episode shows who was in the room;

@@ -26,4 +26,6 @@ const app = fs.readFileSync('app.js', 'utf8');
 assert.match(index, /href="#recent"/);
 assert.match(app, /data\/recent-channel\.json/);
 assert.match(app, /renderRecentChannel/);
+assert.match(app, /Show all \$\{sv\.videos\} current videos/);
+assert.match(app, /shown < DEFAULT_VISIBLE/);
 console.log(`recent channel: ${videos.length} videos · ${data.survey.edit_measurements} picture · ${data.survey.sound_measurements} sound`);
