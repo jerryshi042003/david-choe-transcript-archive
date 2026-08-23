@@ -173,6 +173,17 @@ try {
   assert.equal(scriptView.active, 'true');
   assert.equal(scriptView.scrollWidth, scriptView.clientWidth, 'Script view overflows at 390px');
 
+  const subjects = await navigate(`${target.replace(/#.*$/, '')}#subjects`,
+    `document.querySelector('#rtitle')?.textContent === 'Recurring subjects' && ({
+      hint: document.querySelector('#fhint')?.textContent,
+      description: document.querySelector('#rmeta')?.textContent,
+      clientWidth: document.documentElement.clientWidth,
+      scrollWidth: document.documentElement.scrollWidth
+    })`);
+  assert.match(subjects.hint, /421 of 421 reader routes indexed/);
+  assert.match(subjects.description, /complete 421-route reader corpus/);
+  assert.equal(subjects.scrollWidth, subjects.clientWidth, 'Recurring subjects overflows at 390px');
+
   await call('Emulation.setDeviceMetricsOverride', {
     width: 1280, height: 900, deviceScaleFactor: 1, mobile: false,
     screenWidth: 1280, screenHeight: 900,

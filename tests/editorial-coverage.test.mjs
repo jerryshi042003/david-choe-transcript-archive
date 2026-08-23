@@ -50,10 +50,12 @@ assert.equal(subjects.signals[0].denominator, 177);
 assert.equal(subjects.signals[0].reviewed, 177);
 assert.ok(!subjects.subjects.themes.some((theme) => theme.name.toLowerCase() === 'trivia'),
   'trivia must use the transcript-signal denominator, not the smaller curated-theme denominator');
+assert.match(subjects.survey.coverage, /421 of 421 unique reader routes/);
+assert.match(subjects.survey.coverage, /one-off mentions/);
 
 const app = fs.readFileSync(path.join(root, 'app.js'), 'utf8');
 assert.ok(!app.includes('of ${base} curated episodes'));
-assert.ok(app.includes('review progress, not an occurrence count'));
+assert.ok(app.includes('complete 421-route reader corpus'));
 
 const trivia = JSON.parse(fs.readFileSync(path.join(root, 'data/trivia-coverage.json'), 'utf8'));
 assert.equal(trivia.reviewed, 177);

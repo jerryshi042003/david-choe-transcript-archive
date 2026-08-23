@@ -4,7 +4,7 @@
   "items_in_archive": 421,
   "items_with_entities": 421,
   "min_episodes": 3,
-  "coverage": "Entities are human-curated per item and currently exist for 421 of 421 unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.",
+  "coverage": "Entities are human-curated per item across all 421 of 421 unique reader routes. Subjects shown here recur in at least three routes; one-off mentions are outside this recurrence index.",
   "excluded": "Recurring hosts are omitted because their recurrence describes the show format rather than a subject."
  },
  "signals": [
