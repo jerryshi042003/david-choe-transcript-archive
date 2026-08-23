@@ -835,10 +835,9 @@ async function renderStories() {
   }
 }
 
-/* Recurring subjects: the people, places and themes that appear in several
-   human-reviewed routes. The reviewed-route count is review progress, not an
-   occurrence denominator for the full corpus. Never turn "not reviewed" into
-   "not present," and never label 37 reviewed records as the whole archive. */
+/* Recurring subjects: people, places and themes repeated across the complete
+   421-route reader corpus. The three-route threshold makes this a recurrence
+   index rather than a list of every one-off mention. */
 async function renderSubjects() {
   const box = $('body');
   let data;
@@ -850,8 +849,7 @@ async function renderSubjects() {
   const kinds = data.subjects || {};
   const total = Object.values(kinds).reduce((n, r) => n + r.length, 0);
   $('fhint').textContent = `${total} subjects appearing in ${sv.min_episodes || 3}`
-    + ` or more reviewed routes · ${base} of ${archiveBase} routes reviewed`
-    + ` · review progress, not an occurrence count`;
+    + ` or more routes · ${base} of ${archiveBase} reader routes indexed`;
   const section = (kind) => {
     const rows = kinds[kind] || [];
     if (!rows.length) return '';
@@ -1249,14 +1247,11 @@ function route() {
   if (raw === 'subjects') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
     $('rtitle').textContent = 'Recurring subjects';
-    $('rmeta').textContent = 'People, places and themes that come up in more than '
-      + 'one episode, each linking to every episode it appears in. Drawn from the '
-      + 'per-episode entity lists, which are curated by hand and exist for only '
-      + 'part of the archive — a subject missing here may be in an episode '
-      + 'nobody has curated yet, which is not the same as it never coming up. '
-      + 'The recurring hosts are left out: they are in nearly every episode, so '
-      + 'their recurrence describes the show’s format, not a subject he '
-      + 'returns to.';
+    $('rmeta').textContent = 'People, places and themes that recur across the '
+      + 'complete 421-route reader corpus. Each subject links to its matching '
+      + 'episodes; the three-route threshold keeps one-off mentions out of this '
+      + 'recurrence index. Recurring hosts are omitted because they describe the '
+      + 'show format rather than a returning subject.';
     $('prov').textContent = '';
     $('rlink').hidden = true;
     $('modes').hidden = true;

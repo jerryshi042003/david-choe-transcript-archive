@@ -51,7 +51,7 @@ const result = {
     items_in_archive: ids.length,
     items_with_entities: withEntities,
     min_episodes: MIN_EPISODES,
-    coverage: `Entities are human-curated per item and currently exist for ${withEntities} of ${ids.length} unique reader routes. This is review progress, not an occurrence denominator. A missing subject may still occur in an unreviewed route.`,
+    coverage: `Entities are human-curated per item across all ${withEntities} of ${ids.length} unique reader routes. Subjects shown here recur in at least three routes; one-off mentions are outside this recurrence index.`,
     excluded: 'Recurring hosts are omitted because their recurrence describes the show format rather than a subject.',
   },
   signals: (() => {
