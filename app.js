@@ -616,17 +616,17 @@ async function renderRecentChannel() {
   };
 }
 
-/* The cast across the whole run. A single episode shows who was in the room;
-   only the run shows who arrives late, who never appears without someone else,
-   and who is there from the first episode to the last. */
+/* This is an episode-description index, not a presence or voice index. Its
+   smaller denominator is intentionally named so a co-host's documented count
+   cannot be mistaken for every recording in which they appeared or spoke. */
 async function renderCastGraph() {
   const box = $('body');
   let d;
   try { d = await (await fetch(dataURL('data/cast-graph.json'))).json(); }
   catch { box.innerHTML = '<p class="empty">No cast graph built yet.</p>'; return; }
   const sv = d.survey || {};
-  $('fhint').textContent = `${(d.people || []).length} people across ${sv.episodes} episodes`
-    + ` · stated by the show's descriptions, never heard`;
+  $('fhint').textContent = `${(d.people || []).length} people across ${sv.episodes} description-backed DVDASA routes`
+    + ` · names in source descriptions, not an on-show or voice count`;
   const ep = (x) => `saga ${x.saga} · ep ${String(x.number).padStart(3, '0')}`;
   const rows = (d.people || []).map((p) => `
     <tr><td>${esc(p.name)}</td><td class="num">${p.episodes}</td>
@@ -637,14 +637,14 @@ async function renderCastGraph() {
         <td class="num">${Math.round(e.a_with_b * 100)}%</td>
         <td class="num">${Math.round(e.b_with_a * 100)}%</td></tr>`).join('');
   box.innerHTML = `
-    <h3 class="skind">Who is present, and for how much of the run</h3>
-    <table class="ctab"><thead><tr><th>Name</th><th class="num">Episodes</th>
+    <h3 class="skind">Who source descriptions explicitly name</h3>
+    <table class="ctab"><thead><tr><th>Name</th><th class="num">Description-backed routes</th>
       <th>First named</th><th>Last named</th><th class="num">Span</th></tr></thead>
       <tbody>${rows}</tbody></table>
-    <h3 class="skind">Who appears with whom</h3>
+    <h3 class="skind">Who source descriptions name together</h3>
     <p class="same">Read asymmetrically: the last two columns are the share of
-      each person's own appearances spent alongside the other. A guest may appear
-      almost only with a host while the host appears constantly without them.</p>
+      each person's own description-backed routes that also name the other. This
+      is context from source descriptions, not a speaker or presence inference.</p>
     <table class="ctab"><thead><tr><th>Pair</th><th class="num">Together</th>
       <th class="num">First with second</th><th class="num">Second with first</th></tr></thead>
       <tbody>${pairs}</tbody></table>
