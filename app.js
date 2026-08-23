@@ -422,7 +422,7 @@ async function renderRetellings() {
 const ANALYSIS_GROUPS = [
   ['Reading the corpus', [['overview', 'Corpus overview'], ['corpus', 'Route map'], ['method', 'Method']]],
   ['Stories & patterns', [['stories', 'Verified stories'], ['retold', 'Similar passages'], ['arcs', 'Arcs']]],
-  ['People & subjects', [['cast', 'Cast'], ['subjects', 'Recurring subjects']]],
+  ['People & subjects', [['cast', 'Cast'], ['presence', 'On-show presence'], ['subjects', 'Recurring subjects']]],
 ];
 const ANALYSES = [['recent', 'Current YouTube'], ...ANALYSIS_GROUPS.flatMap(([, rows]) => rows)];
 
@@ -649,6 +649,32 @@ async function renderCastGraph() {
       <th class="num">First with second</th><th class="num">Second with first</th></tr></thead>
       <tbody>${pairs}</tbody></table>
     <p class="same">${esc(sv.order || '')} ${esc(sv.provenance || '')}</p>`;
+}
+
+async function renderPresence() {
+  const box = $('body');
+  let data;
+  try { data = await (await fetch(dataURL('data/presence.json'))).json(); }
+  catch { box.innerHTML = '<p class="empty">No presence evidence is available yet.</p>'; return; }
+  const survey = data.survey || {};
+  const people = data.people || [];
+  $('fhint').textContent = survey.coverage || '';
+  const asa = people.find((person) => person.name === 'Asa Akira');
+  const personRows = people.map((person) => `<tr>
+    <td>${esc(person.name)}</td>
+    <td class="num">${person.explicitly_introduced_on_show}</td>
+    <td class="num">${person.voice_attributed}</td>
+  </tr>`).join('');
+  const asaRoutes = (asa?.routes || []).map((route) =>
+    `<a href="#/${esc(route.id)}">${esc(route.title)}</a>`).join(' · ');
+  box.innerHTML = `
+    <h3 class="skind">On-show presence is not a name mention</h3>
+    <p class="same">${esc(survey.distinction || '')}</p>
+    ${asa ? `<p class="same"><b>Asa Akira:</b> ${asa.explicitly_introduced_on_show} routes explicitly introduce her as on-show; ${asa.voice_attributed} routes currently have a validated voice attribution. The first number is a defensible floor, not a claim that she spoke in only those recordings.</p>` : ''}
+    <h3 class="skind">Explicit on-show introductions</h3>
+    <table class="ctab"><thead><tr><th>Person</th><th class="num">On-show</th><th class="num">Voice-attributed</th></tr></thead>
+      <tbody>${personRows}</tbody></table>
+    ${asaRoutes ? `<h3 class="skind">Asa’s explicit-introduction routes</h3><p class="subjeps">${asaRoutes}</p>` : ''}`;
 }
 
 /* Works this archive links but will not transcribe. Stated plainly, because an
@@ -1202,6 +1228,16 @@ function route() {
     $('editorial').innerHTML = '';
     renderTabs('cast');
     return renderCastGraph();
+  }
+  if (raw === 'presence') {
+    $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
+    $('rtitle').textContent = 'On-show presence & speaker evidence';
+    $('rmeta').textContent = 'A route-level record that separates people named in a transcript from people explicitly introduced on the recording, and from voices validated against source audio.';
+    $('prov').textContent = 'Presence evidence is attached to each route. Voice identity remains unassigned until a source-audio comparison passes validation.';
+    $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
+    $('editorial').innerHTML = '';
+    renderTabs('presence');
+    return renderPresence();
   }
   if (raw === 'method') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;

@@ -198,6 +198,18 @@ try {
   assert.match(subjects.description, /complete 421-route reader corpus/);
   assert.equal(subjects.scrollWidth, subjects.clientWidth, 'Recurring subjects overflows at 390px');
 
+  const presence = await navigate(`${target.replace(/#.*$/, '')}#presence`,
+    `document.querySelector('#rtitle')?.textContent === 'On-show presence & speaker evidence' && ({
+      hint: document.querySelector('#fhint')?.textContent,
+      asa: document.querySelector('#body')?.textContent,
+      clientWidth: document.documentElement.clientWidth,
+      scrollWidth: document.documentElement.scrollWidth
+    })`);
+  assert.match(presence.hint, /421 of 421 reader routes/);
+  assert.match(presence.asa, /Asa Akira: 92 routes explicitly introduce her as on-show/);
+  assert.match(presence.asa, /0 routes currently have a validated voice attribution/);
+  assert.equal(presence.scrollWidth, presence.clientWidth, 'On-show presence overflows at 390px');
+
   await call('Emulation.setDeviceMetricsOverride', {
     width: 1280, height: 900, deviceScaleFactor: 1, mobile: false,
     screenWidth: 1280, screenHeight: 900,
