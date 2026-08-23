@@ -204,6 +204,22 @@ mark { background: var(--mark); color: inherit; }
 
 .transcript.reader h3.chap:first-child { margin-top: var(--s4); padding-top: 0; border-top: 0; }
 
+/* ---------- script ---------- */
+.transcript.script { max-width: var(--measure); font: 16px/1.75 var(--serif); }
+.transcript.script .sline { display: block; margin: 0 0 var(--s3); white-space: pre-wrap; color: var(--dim); }
+.transcript.script .sline[data-intensity="1"] { color: var(--fg); }
+.transcript.script .sline[data-intensity="2"] { color: var(--fg); font-weight: 700; font-size: 1.02em; }
+.transcript.script .sline[data-intensity="3"] { color: var(--fg); font-weight: 700; font-size: 1.12em; letter-spacing: .01em; }
+.transcript.script .loud { font-weight: 800; }
+.transcript.script .stretch { letter-spacing: .12em; }
+.transcript.script .stage { color: var(--accent, #b26b00); font-style: italic; font-size: .9em; }
+.transcript.script .stage::before { content: "["; }
+.transcript.script .stage::after { content: "]"; }
+.transcript.script .sline.stage-only { text-align: center; margin: var(--s5) 0; }
+.transcript.script .sline.stage-only .stage { font-size: 1em; }
+.transcript.script h3.chap { font: 700 12px/1.4 var(--sans); letter-spacing: .1em; text-transform: uppercase; text-align: center; color: var(--dim); margin: var(--s8) 0 var(--s5); }
+.transcript.script h3.chap .chaptag { display: none; }
+
 /* ---------- editorial ---------- */
 .editorial { border-left: 2px solid var(--line); padding: 0 0 0 var(--s4);
              margin: var(--s5) 0 0; font-size: 13px; line-height: 1.6; }

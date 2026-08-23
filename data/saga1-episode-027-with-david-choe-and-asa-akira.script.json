@@ -1,0 +1,2431 @@
+{
+ "id": "saga1-episode-027-with-david-choe-and-asa-akira",
+ "schema": "choe-corpus/script@1",
+ "source": "llm-cleanup",
+ "lines": [
+  {
+   "t": 9.2,
+   "text": "[intro jingle, bleeped] Welcome to Fuck, Fuck, Fuck, Fuck, Fuck, Fuck, with Fuck, Fuck, and Fuck, Fuck, featuring Fuck with Fuck."
+  },
+  {
+   "t": 21.6,
+   "text": "[announcer voice] Welcome one, welcome all, to DVDASA, with your hosts, David Choe and Asa Akira. Special guests, Valentin and Critter. [normal voice] Did you say Critter right now? Critter."
+  },
+  {
+   "t": 36.5,
+   "text": "Did you notice what I'm wearing, Bobby? Yeah. What is it? It's our team jersey. How are you guys doing? Our home jersey. Whoa, and look, Munko's on the... This is, you know, once I burnt Harry out on being my gambling point man, I recruited Bobby, and we... what's that?"
+  },
+  {
+   "t": 56.0,
+   "text": "I always forget. Montblanc? Montblanc? Uh-huh. The pen company? Bobby used to work at Montblanc when he was in high school. That's fancy. I worked at a gift store that sold it. What? I worked at a gift store that sold it."
+  },
+  {
+   "t": 68.8,
+   "text": "In Beverly Hills, on Rodeo Drive or something. So you worked at a store that carried it, not at Montblanc. So Bobby was with me on one of the trips where I won a shitload of money."
+  },
+  {
+   "t": 80.6,
+   "text": "And I said, what do you want, a Rolex? He's like, I don't know, just whatever the most expensive watch is, I'll get you one. And he's like, I want a Mont... how do you say it? Montblanc. I want a Montblanc watch. And I was like, what? That's so random. Well, it's because he has a weird connection to it from high school. Yeah. They make"
+  },
+  {
+   "t": 98.6,
+   "text": "real nice watches, though. So I was like, all right, fine, I'll get you a watch. And he's like, I don't want that. I was like, all right, let me just give you a brick of cash then. He's like, I don't want that either. I'm like, what do you want? He's like, can you sponsor my team? So Bobby's got a team?"
+  },
+  {
+   "t": 112.6,
+   "text": "The Coyotes, the top... number three team in the West Valley? [uncertain] No, not this season. What league? What's the name of your league? Uh, LA Valley Ice Center. LA Kings Valley Ice Center. What sport? Ice hockey. And where are you guys right now? We're not doing too well, I think we're"
+  },
+  {
+   "t": 131.0,
+   "text": "towards maybe fifth out of eight teams. So he's number five out of eight teams. And, you know, before, they were like the Bad News Bears. I've seen them twice. It's a shitty league in the Valley."
+  },
+  {
+   "t": 144.7,
+   "text": "So they let them play like at midnight. And they have mismatched uniforms, this and that. So I came in. I bought the team. Oh. How much did it cost? Whatever the uniforms cost."
+  },
+  {
+   "t": 161.0,
+   "text": "It was expensive. So Dave was going to give me a bunch of cash, and it was a lot of money. So instead, I got the whole team jerseys, at least 30 people. Wait, are you on the team?"
+  },
+  {
+   "t": 173.3,
+   "text": "Yeah, it's our team. You wouldn't rather just have the cash? No. He wouldn't take the money. I mean, if someone comes... Yeah, I guess that's different. Yeah, you're right, you're right."
+  },
+  {
+   "t": 183.7,
+   "text": "If someone comes with me to Vegas and they help me... I know for a fact I can't win the money on my own. I need a spotter, a handler."
+  },
+  {
+   "t": 194.3,
+   "text": "So if they do that, they get a cut of the money, and this was a huge trip for us. So he wouldn't take the money, he didn't want the watch, so I bought his hockey team instead. That's awesome. For the price of the uniforms. And yeah, they're the Coyotes, they're probably the"
+  },
+  {
+   "t": 209.3,
+   "text": "worst in their whole league. And I thought, I love that you own an ice hockey team. Yeah, but it's like the Valley regional team. That's okay. And I thought, buying them, I want to shoot something for them. Oh, definitely."
+  },
+  {
+   "t": 221.3,
+   "text": "You're going to come to our photo shoot? I want to be part of this. Are you serious? Can you get her a jersey too? They're the worst hockey team in the league. That's okay. In like the worst league. They're the worst team in the worst league. Okay, what number do you want? I could see if I can."
+  },
+  {
+   "t": 234.8,
+   "text": "I could try, at least. Oh, I don't know. 69? Okay, that number's available. So I thought, okay, if I buy the team and get them new uniforms, it'll unify the team."
+  },
+  {
+   "t": 247.0,
+   "text": "And I think you guys have only consistently gotten worse since I got you the new uniforms. Yeah, we couldn't win a game with the new uniforms. I'm going to turn that around."
+  },
+  {
+   "t": 255.0,
+   "text": "But yeah, it was about $3,000. They're all custom jerseys. Well, actually, it's pretty funny, because we just got back from Afghanistan, and that is the Wild West out there. I mean, we were fucking..."
+  },
+  {
+   "t": 272.4,
+   "text": "We were doing all kinds of shit out there. Pretty much anything you could think of. It was a great place if you ever wanted to film a movie. There's just bombed-out buildings and exploded cars."
+  },
+  {
+   "t": 282.2,
+   "text": "And you could pretty much, if you know the right people, do whatever you want. So Saad Mohseni, who let us stay at his house, was a networking hookup from Yoshi."
+  },
+  {
+   "t": 294.3,
+   "text": "Great networking. His specialty. And for those of you who are complaining, get Yoshi back, Yoshi, Yoshi. [deadpan] That's why God created YoshiDidn't. Go listen to YoshiDidn't. Stop complaining. You can listen to Yoshi all the time."
+  },
+  {
+   "t": 310.1,
+   "text": "All Yoshi, none of us, uninterrupted. So, you know, there's a movie about Saad, actually, about his family, and how they brought television and radio to Afghanistan and united them on that front."
+  },
+  {
+   "t": 324.4,
+   "text": "And it's pretty interesting. So he pretty much runs shit out there. And he tells us he has lockdown on the whole soccer league out there. Like they run that shit. And he's like, it was a total joke, but he's like, hey Dave, you want to buy a soccer team?"
+  },
+  {
+   "t": 339.6,
+   "text": "And I was like, I never even thought of... I don't even like soccer. And the only thing I know about soccer is, when I was a kid, my dad... basically it's the thing that the entire world loves."
+  },
+  {
+   "t": 351.0,
+   "text": "But not America. Yeah, like Linkin Park. Or David Hasselhoff. It's like there's some things that are huge everywhere except for the U.S. Right. So yeah, when I was a kid, my dad and all his Korean friends would play soccer against the Mexicans at the park. It was Koreans versus Mexicans."
+  },
+  {
+   "t": 370.0,
+   "text": "You see how big it is for people who've never left the U.S. Once you leave, you see how fucking fanatical and insane it is. Tony's from Spain, and you don't understand how fanatical he is. They'll get up at three in the morning and watch it on TV. Yes. Not only that, if we go on"
+  },
+  {
+   "t": 386.7,
+   "text": "vacation, we plan everything around the games. If we're fighting and it's time for the game to come on, everything has to just go on hold. I'm sitting here angry, but I know our fight is second. This is racist, but you love soccer, right? [to Valentin] I don't..."
+  },
+  {
+   "t": 405.8,
+   "text": "There's not one Mexican who doesn't love soccer. What's your team? My team from Mexico, they call Chivas. Chivas? Yeah. What does that mean? It's like the team. Do you like any other teams?"
+  },
+  {
+   "t": 421.3,
+   "text": "Like, do you like LA teams? From LA, yes. What's the LA team? Galaxy. You like Galaxy? No. No one likes Galaxy. Is Chivas in the MLS or Mexico? Mexico. It's from MLS too."
+  },
+  {
+   "t": 436.0,
+   "text": "Yeah, that's why I asked. Chivas USA. Yeah. They suck? The U.S. team? I think the U.S. team sucks. It's huge. I don't really give a fuck about soccer, but I've also never had anyone offer to sell me a soccer team either."
+  },
+  {
+   "t": 450.8,
+   "text": "And he's like, dude, it's an Afghan league. We're ranked number 200 or something worldwide. You could get one for really cheap, like a million, two million dollars. That's not really cheap at all."
+  },
+  {
+   "t": 463.7,
+   "text": "To buy a sports team? I mean, but is it going to improve your life in any way? Well, I'm a huge fan of Cool Runnings and Eric the Eel. Yeah, I like Cool Runnings too."
+  },
+  {
+   "t": 476.2,
+   "text": "You know Eric the Eel? No. Is it like an underdog story? The best underdog story of all time. Like, we could sit here and, you know, Yoshi's better at this, but make all the black-people-can't-swim jokes, right?"
+  },
+  {
+   "t": 489.3,
+   "text": "Right. Eric the Eel is from the Olympics, when? The only reason I know about this is sometimes I just hear Critter singing Donna Summer, or mumbling to himself, or he starts laughing at weird times."
+  },
+  {
+   "t": 500.9,
+   "text": "And it's always because something is entertaining him and he just laughs. And I go, what is it? And he's like, do you know about Eric the Eel? And I'm like, no."
+  },
+  {
+   "t": 509.4,
+   "text": "So he YouTubes it for me. He was sitting in his car just laughing, thinking about Eric the Eel, not even watching it. So, wow, that's a good life. Yeah. Like, if your inner dialogue..."
+  },
+  {
+   "t": 519.6,
+   "text": "He is so entertained by himself he can make you laugh out loud. So he goes, check out Eric the Eel. And what year was that? I think it was like nine years ago. All right, whatever, it was the Olympics of a few years ago. And he's from like Ethiopia or"
+  },
+  {
+   "t": 539.9,
+   "text": "some African country. And, you know, you never see black people in the swimming events. And it was him and two other guys that are like the best in the world. And the guy blows the whistle for the race to start, and both guys jump early, so they're disqualified"
+  },
+  {
+   "t": 557.6,
+   "text": "immediately. And then this guy Eric jumps in the water and he can't even finish the race. He's flopping his arms, he's not even close. It's the slowest record of all time. But because everyone"
+  },
+  {
+   "t": 579.8,
+   "text": "else was disqualified, he got the gold medal. They're like, oh, he couldn't finish the race, he was flopping his arms... Hold on, why was he even in the Olympics? Because he was the best of all the blacks from that country, you know. And after I saw that I'm like, Critter, I watched"
+  },
+  {
+   "t": 598.3,
+   "text": "that video, I laugh my ass off. It makes me cry. It's inspiring. [laughing] Oh my god, I can't stop touching the fucking mic, dude. Play with yourself or something. Play with your belt buckle. You notice he can't stop touching stuff, like when you go to museums he touches all the art, everything"
+  },
+  {
+   "t": 615.3,
+   "text": "you're not supposed to touch. Play with your beard. So yeah, and then there's another kind of Cool Runnings, like there's no skiers from Korea, so I watched this weird movie where kids... So, basically, you want to buy an Afghan soccer team, and they're horrible, but they love"
+  },
+  {
+   "t": 635.3,
+   "text": "soccer. But the thing about soccer, from what I see, why it's universal worldwide, is because it can be totally broken. You just need the ball. You don't need a hoop, you can make a goal, you can be barefoot. For every other sport you"
+  },
+  {
+   "t": 653.3,
+   "text": "need bats, you need shit. This, you just need a ball. Any ball. You could be barefoot and you just need an open area to play. So I was like, okay, I don't give a shit too much about soccer, but I'd like a fucking Korean ski team that sucks and then trains on manure and becomes the greatest ski team."
+  },
+  {
+   "t": 673.4,
+   "text": "[gassing him up] This is your Mike Tyson moment that we're witnessing right now. This is your white tiger. I'll get like Pat Riley or some other awesome soccer coach."
+  },
+  {
+   "t": 685.3,
+   "text": "What's the guy's name? Beckham. David Beckham. Okay, so you're going to get star players and a star coach. But that's exactly what LA Galaxy tried to do. Keira Knightley. They didn't win? I don't know if they won, but I think they got David Beckham and were hoping people would care about soccer in America,"
+  },
+  {
+   "t": 701.4,
+   "text": "but no one gives a shit. I don't know how many teams I've got to pick from, but I'm going to pick the shittiest one out of the Afghan league. Get them the fucking most decked-out, jeweled uniforms ever."
+  },
+  {
+   "t": 712.9,
+   "text": "I'm going to get them sponsorships from Reebok, from Nike. I'm going to hire all the fucking old, milfy, retired Laker Girls to be their cheerleading team. I'm gonna get the best soccer players in the world on their team. I don't think you could afford the best soccer players. Some of them are getting like..."
+  },
+  {
+   "t": 733.3,
+   "text": "I'll put together a million-dollar contract. Either I'll bring in a lot of people from outside, or I'll just bring in the best trainers and coaches to train these guys. And these stories are always the best, because they come literally from... like"
+  },
+  {
+   "t": 751.1,
+   "text": "their families are killed, murdered, they have nothing, this is the only... you know. Right. So I'm thinking about it. Thinking about it. I don't know. Why? It sounds horrible. It's your money."
+  },
+  {
+   "t": 764.4,
+   "text": "What do you mean? Two million dollars for a sports team? It doesn't sound profitable. It sounds expensive. I'm not trying to do it to make money. And you don't even like soccer."
+  },
+  {
+   "t": 773.9,
+   "text": "Yeah. So, like, really. First of all, it'll be profitable once they win the fucking World Cup, okay? Okay, then. Well, I hope you get to say I told you so. Yeah, Dave could host the World Cup at his stadium."
+  },
+  {
+   "t": 786.8,
+   "text": "He builds it. It's just an idea. All right, I start with Bobby's hockey team, I go to the Afghan soccer team, and then I'll move to... Maybe you shouldn't quit chasing pussy."
+  },
+  {
+   "t": 802.1,
+   "text": "Maybe that energy needs to be focused. Well, here's the three things I've got on my plate sports-wise. And for those of you who don't know, I fucking hate sports. So, Bobby's hockey team, possibly this Afghan soccer team,"
+  },
+  {
+   "t": 814.2,
+   "text": "and for those who live in L.A. and have been bitching about L.A. not having their own football team, thinking about doing that also. L.A. doesn't have a football team? Nah."
+  },
+  {
+   "t": 825.7,
+   "text": "The Raiders left. Shit. A while ago? Yeah, they left like 15, 20 years ago. Or longer. Back in the Bay with me."
+  },
+  {
+   "t": 838.2,
+   "text": "Maybe you should stick to Valley regional. Yeah, can you sponsor a coach? All you need is a coach. Why don't you take the team you have now and do everything you just said?"
+  },
+  {
+   "t": 848.9,
+   "text": "I have a lot... no, fuck. Bobby's team has no heart, man. What are you talking about? It's all heart. You guys give up so easy all the time. Never. I always... I busted my foot."
+  },
+  {
+   "t": 858.3,
+   "text": "I prepare these... it's the West Valley regional league, right? Right. You could do the Al Pacino speech. Yeah, I prepare these insane speeches to get them all pumped up."
+  },
+  {
+   "t": 870.2,
+   "text": "And they never fucking... they go, dig deep, get this shit. You guys fight amongst yourselves. When's the next game? Sunday at nine o'clock. There's no one at the games."
+  },
+  {
+   "t": 880.6,
+   "text": "There's always like me and one other person. Austin, you going to be there? I want to go. Wait, this Sunday? I'll text you. Okay. If you're free, it's in Van Nuys. It's in Van Nuys?"
+  },
+  {
+   "t": 889.1,
+   "text": "Yeah, it's in Van Nuys. I'm in Van Nuys. All right, I'll go too. But you know, Critter, you don't have to even try out, you can make our team. Can you skate?"
+  },
+  {
+   "t": 898.9,
+   "text": "You're in, you're in. No, but I know enough billionaires and rich people now, and I have some money too, so it might be time to bring a football team to LA. What? I like that idea. I'll design their logos and their uniforms and it'll be fantastic. Except you'll bang all the cheerleaders and get in trouble."
+  },
+  {
+   "t": 921.6,
+   "text": "How can you get in trouble when you own the team? Yeah, I own the team, motherfucker, they have to bang you. Oh, maybe I'll mix it up. Maybe I'll bring a football team to LA and then bring in cheerleaders from Afghanistan who all wear burkas. And I'll bring all the slutty LA ones to Afghanistan."
+  },
+  {
+   "t": 941.1,
+   "text": "This is dope. So I'll own a regional hockey team, an Afghan soccer team, and LA's first football team in I don't know how many years. No one will know about any of them."
+  },
+  {
+   "t": 952.5,
+   "text": "No, we're going to be the best. Who's the number one football team right now? Raiders. No, they're not the Raiders. Messi. Niners are probably the best. No, that's soccer. We're talking American football."
+  },
+  {
+   "t": 967.3,
+   "text": "Here, football. Oh yeah, football in America. Valentin, football. That's the other thing, everywhere else they call it... yeah, football is soccer. Yeah. So, I touched briefly on my erectile dysfunction, my ED."
+  },
+  {
+   "t": 986.7,
+   "text": "[laughing] Oh my god, you have ED? I got my ED to go along with my IBS. Hello, ladies. Playing pool with a wet spaghetti. So I touched on it a little bit, and then I made the claim this has never happened before, which it hasn't, and then it made me think of my virginity,"
+  },
+  {
+   "t": 1010.9,
+   "text": "which I feel like is a story I should share here. I have no idea how you lost your virginity, so let's get into this shit. It's the virgin show. Let's get into it today. And I want to start with my man right to the left of me."
+  },
+  {
+   "t": 1031.6,
+   "text": "Let's start with Bobby. No comment. Come on. It's private. Bobby. What? Come on. Don't be like that. You guys go ahead first. You're really not going to share? No. Bobby, don't be like this, man."
+  },
+  {
+   "t": 1044.2,
+   "text": "Why? This is why we got rid of Yoshi. Don't be like Yoshi. Critter, you want to share?"
+  },
+  {
+   "t": 1052.6,
+   "text": "Mine was... How old were you? Eighth grade. Damn, that's young. What is that? What's eighth grade? It's 13 or 14. No, eighth grade is like 13. No, because I was 13 and I was in ninth grade."
+  },
+  {
+   "t": 1065.3,
+   "text": "So you were 12. Unless you were like late eighth grade, I guess. How old were you? Oh, whatever age you are in eighth grade. How old was she? [speaker's approximate childhood age]"
+  },
+  {
+   "t": 1075.2,
+   "text": "She was a junior, I think. In high school? Yeah. Oh, so it was rape. Statutory. Stat rape. It was amazing. Well, do you realize you're on a talk show right now?"
+  },
+  {
+   "t": 1091.1,
+   "text": "That's 13 seconds of my young life. What happened? You know how to frame it. 13 seconds is really long for a virgin. I mean, I've taken a lot of virginities, and a lot of times..."
+  },
+  {
+   "t": 1100.6,
+   "text": "Have you really? Yeah. Because I started... I was like the first one in my grade to fuck. Really? Yeah. How old were you? I was like 13. It was the first week of ninth grade."
+  },
+  {
+   "t": 1112.6,
+   "text": "Okay. God. But I lied about it. So for the first three guys I fucked, I told them all I was a virgin. All right. So start with number one. Number one was..."
+  },
+  {
+   "t": 1124.8,
+   "text": "We're getting a triple virginity story right now. Number one was this boy, Zach. I fucking hate him already. I can see him in my head right now. Yeah, I was just going to say, he's white."
+  },
+  {
+   "t": 1137.7,
+   "text": "He's white. He's Jewish. He had a fade haircut. It was like long in the front. No. It was kind of a buzz cut thing. But he looked like Fred Durst."
+  },
+  {
+   "t": 1147.7,
+   "text": "And for me, that was the major selling point. That he looked like Fred Durst? Yeah. And he was in the year above me at a different school. You know how many Fred Durst sloppy seconds I've gotten?"
+  },
+  {
+   "t": 1159.8,
+   "text": "And now you're sitting here telling me you fucked a dude because he... I want to kill myself right now. But it's not like I liked his music or anything. You know who Fred Durst is?"
+  },
+  {
+   "t": 1168.7,
+   "text": "Limp Bizkit. Limp Bizkit. But I don't like his music. I just thought he was really hot. Whatever. I was fucking 13 years old. And how old is he? The boy? Durst? [laughing]"
+  },
+  {
+   "t": 1179.5,
+   "text": "Oh, I don't know. Zach. Oh, Zach. He was one year older than me, so 14. But he was a virgin too. Wait, so have we addressed this before? So you're 13, he's 14."
+  },
+  {
+   "t": 1191.8,
+   "text": "Is that statutory rape? No. Oh. No. I think it's not statutory rape, but it's just illegal. Oh, it's mutual rape? I don't think it's rape. It's mute rape? Yeah. Mute rape."
+  },
+  {
+   "t": 1206.1,
+   "text": "[deadpan] At least there's two kids having fun. All right. So what happened? No, it was just this boy I'd been seeing for a while, on and off. You know how dating is when you're that age."
+  },
+  {
+   "t": 1217.9,
+   "text": "Right. And then we had sex. We tried to do it in the shower, but it didn't really work out. What? So we went to his bed. That's fucking advanced. Yeah. Like, I had this fantasy in my head."
+  },
+  {
+   "t": 1229.3,
+   "text": "Like, I want to fuck in the shower and blah, blah, blah. But it just didn't work out. Like, you know, I was a fucking virgin. It was hard to get it in."
+  },
+  {
+   "t": 1236.4,
+   "text": "Okay, wait. You're at his house or her house? We were at his house. And where's his parents? His parents were either at work or out of town. I think they might have been out of town."
+  },
+  {
+   "t": 1245.0,
+   "text": "New York is like that. Rich kids, their parents go to fucking Europe for a week, and the kids are in charge of the house. So yeah, we were at his house."
+  },
+  {
+   "t": 1254.8,
+   "text": "And then... Wait, so what was the position he was trying to get his dick inside you? I think I was standing. In the shower? In the shower. And what did you think when you saw his dick?"
+  },
+  {
+   "t": 1264.0,
+   "text": "Well, I had seen it before. Oh, you blew him before? Yeah. Okay. The first blowjob I gave was in eighth grade. And it was the first time I had a penis so close to my face."
+  },
+  {
+   "t": 1276.1,
+   "text": "And I was like, is this fake? Is someone playing a joke on me? Yeah, what's the first thing you saw? It looked so rubbery and fake, and it smelled weird. Is this Zach or some other kid?"
+  },
+  {
+   "t": 1286.1,
+   "text": "No, this was another kid. So the first dick you ever saw was hard already, or soft? It was already hard. I didn't see a soft dick for a while."
+  },
+  {
+   "t": 1297.7,
+   "text": "So every time you saw a dick it was always hard? Hard, yeah. And he came immediately? The blowjob didn't come immediately. Maybe, I don't remember, like in two minutes? Right. The sex came like in a few pumps."
+  },
+  {
+   "t": 1314.1,
+   "text": "Yeah, that's my boy. I mean, but I've fucked people where they come as a virgin, or one of the first few times, in the first pump. All right."
+  },
+  {
+   "t": 1322.5,
+   "text": "So they enter. But here's the thing. You're in the shower and his dick won't fit in because you're too tight, or... Yeah. And shower sex is weird because of the water. Even now I don't like shower sex."
+  },
+  {
+   "t": 1332.2,
+   "text": "Yeah. The water makes it weird. It makes it oddly dry. It makes it weird. And also you're kind of cold or hot. So you tried to get in and it didn't go in."
+  },
+  {
+   "t": 1343.1,
+   "text": "It didn't work out. So we left the shower, went to his bed, and had sex there, and we used a condom. You did? Yeah. Even in the shower? Yeah."
+  },
+  {
+   "t": 1351.0,
+   "text": "Oh, wow. That's really weird. Yeah, but that shows you how much we fucking didn't know. Like, a condom in the shower is, ugh, gross. So how long did that last?"
+  },
+  {
+   "t": 1363.7,
+   "text": "I don't really remember. It was probably a few pumps. And then what? You're like, I love you, my boyfriend? No, not at all. I couldn't wait to get rid of my virginity."
+  },
+  {
+   "t": 1378.8,
+   "text": "I couldn't wait to start fucking. So you just wanted to get it out of the way? Yeah. I wanted to fuck like ten times and get a little bit better at it before... you know."
+  },
+  {
+   "t": 1387.8,
+   "text": "So you weren't like, oh my god, Zach, I love you. You were like, get rid of this motherfucker, on to the next. No, I mean, I liked him. We hung out and stuff."
+  },
+  {
+   "t": 1396.8,
+   "text": "But you didn't feel that weird virgin connection of, this guy took my virginity? No, no. Because the next week I fucked this other guy at a house party. Who, Zach? No, this was actually the first guy I blew."
+  },
+  {
+   "t": 1409.8,
+   "text": "Oh, so what's this guy's name? David. Oh, yes. And is this guy Jewish also? No, he's from Spain. Oh. Yeah, but he didn't have an accent or anything. Did you like Dave better or Zach?"
+  },
+  {
+   "t": 1422.1,
+   "text": "Sounds like you liked Dave better. And what happens after you lose your virginity the first time? Well, I didn't bleed. Okay. It was painful. A lot of girls don't, because their hymen's already broken from something else."
+  },
+  {
+   "t": 1435.6,
+   "text": "Yeah, from tampons or horseback riding. But after you fucked, he didn't try to fuck you like 10 more times? No, it got kind of awkward after that. We fucked, and then I don't think we even spoke for a while."
+  },
+  {
+   "t": 1448.3,
+   "text": "But then I dated him in my adult life, actually. Why? Why did that happen? I don't know, I don't remember. We used to talk on AOL Instant Messenger every day."
+  },
+  {
+   "t": 1459.5,
+   "text": "You know, it was very innocent. But then you hooked up with Dave the next week and told him you're still a virgin? Yeah. And was he a virgin? Yeah. Or so he said."
+  },
+  {
+   "t": 1471.0,
+   "text": "No, he was definitely a virgin. Really? Yeah, because we fucked on the bathroom floor. Right. And then he's like, oh my god, did we just have sex?"
+  },
+  {
+   "t": 1481.1,
+   "text": "And he's freaking out, right? So of course... He had an accent? No, he didn't have an accent. He's totally American, but his parents are from Spain. And you're how old right now?"
+  },
+  {
+   "t": 1491.4,
+   "text": "And I'm still 13. This is a week later. Jesus, you guys are so advanced. And he's freaking out. Like, holy shit, did we just have sex? Right. So of course I'm going to go with it, right?"
+  },
+  {
+   "t": 1502.2,
+   "text": "Because I don't want to seem like a big slut. Right. So I'm like, oh my god, I don't know, I think so. Jeez. And same thing. You weren't connected to him after."
+  },
+  {
+   "t": 1512.4,
+   "text": "Yeah, and we didn't use a condom or anything, because it was just heavy making out that turned into sex. How much better did that feel? It still hurt so much that... You didn't enjoy it."
+  },
+  {
+   "t": 1521.1,
+   "text": "Yeah. But it was the kind of pain where it's like, I know it's going to get good. I know it's going to get good. Like anal. So then when did you first do anal?"
+  },
+  {
+   "t": 1529.7,
+   "text": "14? I didn't do anal until my 20s. Oh, but were any of these guys... So by the time you were a senior in high school, you'd already fucked how many dudes?"
+  },
+  {
+   "t": 1543.1,
+   "text": "Probably like 20. You were known as the slut at the school. Like everyone's like, you could definitely fuck her. Yeah, I imagine that's what they were saying behind my back. But even when I was just blowing dudes... I lost my virginity to the school slut. Oh really? Oh, you're probably one of 20. I forgot what"
+  },
+  {
+   "t": 1564.8,
+   "text": "her number was, that I was a virgin. She wasn't. Valentin, how old were you when you lost your virginity? 13. What the fuck is going on, man? How old were you? I don't even want to talk about it anymore. Were you like 21? Yeah, I was like 30 already. This is... ah. What happened, where"
+  },
+  {
+   "t": 1584.8,
+   "text": "were you? In Mexico? Yeah, I was in Mexico. Tell me what happened. I was in a bar with a... what were you doing in a bar at 13? First, you had a mustache and facial hair and everything? I was with my dad."
+  },
+  {
+   "t": 1598.7,
+   "text": "Oh, is this like a rite of passage with your father? No, no. We were walking through, and my dad went to have a beer inside. So it was outside. Okay. So a guy was selling like bananas."
+  },
+  {
+   "t": 1612.6,
+   "text": "Uh-huh. In the bar? No, outside. Oh, outside. So the ladies come out and start buying. Oh, so when your dad goes into the bar in Mexico, you can't come in with him? No, I was waiting outside."
+  },
+  {
+   "t": 1623.0,
+   "text": "He's like, wait here, son. Yeah. And so I saw that lady, she was like 19 years old. What did she look like? She was beautiful. What was she wearing? Just like a mini skirt. And how did it happen? How did it start?"
+  },
+  {
+   "t": 1638.3,
+   "text": "I just saw... I was watching her, and she was eating the banana all slow and shit."
+  },
+  {
+   "t": 1647.1,
+   "text": "Then I saw her ass. Nice. Oh man. And she came up to you? Yeah, she was looking at me, she was laughing because of the way I was looking. Yeah, you were fucking perving out."
+  },
+  {
+   "t": 1657.6,
+   "text": "And she just came back to me. She put her ass right here. She put her ass right in your face? Yeah. And where did you guys fuck? Where's the lube? [laughing] You're going to start drinking off..."
+  },
+  {
+   "t": 1667.8,
+   "text": "I paid her. Oh, she's a prostitute. Yes. How much? How much? I paid, like, what, at that time... Wait, wait, hold on. Your dad's in the bar."
+  },
+  {
+   "t": 1679.9,
+   "text": "Yeah. The chick comes out to eat the bananas. She sees you perving out. She comes, sticks her ass in your face. Yeah, so I started talking to her, about what I was doing outside."
+  },
+  {
+   "t": 1689.1,
+   "text": "Right. Everything, I was waiting for my dad, I told her. Uh-huh. She finished the banana and then she went in. She ate it like a blowjob? Like sucking? Puts the whole thing in at once."
+  },
+  {
+   "t": 1700.4,
+   "text": "And so, do you think your dad sent her out to you? No, there were like four ladies outside. Oh, there were four. So when my dad came out, I told him what happened."
+  },
+  {
+   "t": 1709.7,
+   "text": "Oh, so he was still in there for like an hour, getting drunk. After you fucked. No. At that time, I just told my dad, and the next day, he went with me and they called her."
+  },
+  {
+   "t": 1722.5,
+   "text": "Oh. Okay, so you told your dad you met her, and then the next day you guys came back and paid her. Yeah, so she... I don't know how to feel about this story."
+  },
+  {
+   "t": 1734.6,
+   "text": "That's pretty common. I've heard of a few people whose dads... You told your dad, I met this girl, she's beautiful, I like her. And so he's like, okay, son, let's go back."
+  },
+  {
+   "t": 1744.0,
+   "text": "And she was a prostitute, right? Yeah, she was. So you go back. So it's like a bar brothel, a whorehouse? Yeah, like a club when you go inside. So was your dad with a girl in there?"
+  },
+  {
+   "t": 1756.0,
+   "text": "Yeah. Oh, okay. Oh. That's amazing. I think you just narked on your dad. Okay, so then you go back and she's there again? Yes. What's her name? Her name was Ruth. Ruth. And what city? Uh, Oaxaca. Oaxaca. Okay, so I'm going to go see Ruth, and you're 13 years old. And what are you thinking? She did everything. You were"
+  },
+  {
+   "t": 1785.2,
+   "text": "scared, nervous? I was nervous. Yeah. And she used a condom, or no condom? Yeah, she was using one. And how fast did you come? I was scared. Like, I lasted like 15 minutes. Oh wow, you're a fucking fantastic lover. Damn."
+  },
+  {
+   "t": 1803.0,
+   "text": "And only one time, or she let you go again? Yes, one time that day I came back. Oh, you were in love. You fell in love with the hooker. Oh, that's so cute."
+  },
+  {
+   "t": 1815.8,
+   "text": "That's like the opposite of your story. You're like, fuck this motherfucker. No, I was not like that. I wasn't like, fuck him. Wow, so how much did she charge you?"
+  },
+  {
+   "t": 1828.8,
+   "text": "She was telling me like five dollars. Five dollars? Let's go to Mexico. And your dad paid for it. Yeah. And so your dad is waiting outside while you're upstairs? No, she just went home, and then he came back. Oh, and then he was like, hey son, have a beer."
+  },
+  {
+   "t": 1850.1,
+   "text": "Oh, I want my kid to lose his virginity. So then, how many times did you go back? Like ten times. Damn, so $50. So how long is each session? Like one hour, two hours?"
+  },
+  {
+   "t": 1866.5,
+   "text": "One hour. So you fuck for 15 minutes, but then you talk to her. Hey, I like you. We fuck twice. In an hour? Damn. So did you say to her, I love you?"
+  },
+  {
+   "t": 1879.4,
+   "text": "Yeah. I wanted to marry her. How do you say it? I love you, te quiero. Te quiero? No. Te amo. Te amo. And she said it back? She said, I love you? Yeah, she was just playing with me."
+  },
+  {
+   "t": 1895.1,
+   "text": "Really? And you said, I want to marry you? Yeah. Oh, man. That's so cute. So what did she say when you said that? She was laughing. She never said yes."
+  },
+  {
+   "t": 1908.4,
+   "text": "She's like a hot man with a bone. So when did you guys get married? How did it end? She left. Oh, she left? Yeah. Were you sad? Yeah. Oh, man. Oh my god."
+  },
+  {
+   "t": 1922.2,
+   "text": "That's the sweetest virginity story I've ever heard in my life. So then you fucked Ruth's roommate the next day? Or how fast did it take you to get over Ruth? At that time, like three months."
+  },
+  {
+   "t": 1936.9,
+   "text": "Whoa. But then did you go back to the bar for another girl or no? No, not anymore. Oh, what? So after her... I took one from the school. Oh, one from school?"
+  },
+  {
+   "t": 1946.1,
+   "text": "Yeah. How old were you then? At that time, like 14. Oh. Damn. So you've been consistently fucking. Yeah, you're like a fuck monster. So when you say you've been with 20 women, do you count hookers?"
+  },
+  {
+   "t": 1961.2,
+   "text": "Are they real people or no? Nah. Hookers are real people? No, I'm asking him. Hello? I'm asking him if he counts them, and he just said no. You're like, were they hookers or real people?"
+  },
+  {
+   "t": 1973.2,
+   "text": "No. So Valentin could possibly be at 200. He might have fucked 20 civilians. 20 normal people. 20 real people. 20 reals and 20 unreals. So what about you? How old were you? Wait, wait, hold on."
+  },
+  {
+   "t": 1994.7,
+   "text": "[laughing] So this is crazy. I can't even... How old were you? I can't even imagine my dad... Let's go to Mexico. Asian parents aren't like that, though. That shit is crazy, man. Did you even have a sex talk with your parents?"
+  },
+  {
+   "t": 2009.8,
+   "text": "I didn't. Oh, fuck, dude. It was so bad. It was so horrible. How old were you? I wanted to kill myself. I was 15 years old. And your dad did it, or your mom?"
+  },
+  {
+   "t": 2023.9,
+   "text": "It was my dad. I had escalated to... I had escalated to... What are you laughing at? I was just thinking... He's probably thinking about something completely different. He's thinking about Eric the Eel. [everyone laughs]"
+  },
+  {
+   "t": 2037.1,
+   "text": "I was picturing you rubbing your dick on the walls, so your dad finally decided to... Oh, I mean, you guys heard what I did with the vacuum cleaner, right?"
+  },
+  {
+   "t": 2046.7,
+   "text": "There wasn't one thing in my house that I didn't touch my dick to. I had splinters in my dick, I was so fucking horny. And so I had escalated from being a shoplifter to credit card fraud, check fraud, forgery, at 15. I mean, because I watched Goodfellas, I watched, you know, really young"
+  },
+  {
+   "t": 2073.4,
+   "text": "to be doing those kind of crimes. He's a bad person. I think someone called me a petty thief. Some girl called it... and you felt spiteful. Some guy was bragging about how good I was at stealing at school, they're like, Dave's the best, he fucking doesn't give a"
+  },
+  {
+   "t": 2087.1,
+   "text": "shit, he'll steal anything. And I was like, yeah, I'm a fucking badass, I'm a gangster. And then she's like, oh, so he's like a shoplifting petty thief kind of thing. And she wasn't even trying to be spiteful, she just said that. And I was like, fuck you bitch, I'm hardcore motherfucker."
+  },
+  {
+   "t": 2100.8,
+   "text": "That's how I thought of myself. Credit card fraud. So I was like, I need to step it up. As long as I keep shoplifting, I'm not gonna be cool. I gotta do real crime shit. So I was doing check fraud."
+  },
+  {
+   "t": 2111.2,
+   "text": "I got into forgery, which I was really good at. And I got busted when I was 15 years old in South Central doing check fraud. And that's a whole other story in itself."
+  },
+  {
+   "t": 2126.2,
+   "text": "But basically, the judge said I could do... I always forget. It was JAWS, Juvenile Alternative Work Service, which the alternative is from going to juvie. What is that? So juvenile hall... I could have gone to jail. I think the choice was go to jail for two months, or two weeks, or do community service for two months, which was horrible."
+  },
+  {
+   "t": 2151.5,
+   "text": "It was in South Central doing hard labor, digging fields, cleaning graffiti off buses. You know, if you live in L.A. or anywhere, when you see the guys in the orange vests cleaning up trash on the freeway, that's what we had to do."
+  },
+  {
+   "t": 2168.3,
+   "text": "I've done community service and it's horrible. It was just the worst. And I was 15, a sophomore, right? My hair was dyed bright red, and I was working with all black kids from South Central who were Crips, so they hated me. They're like, what's up, blood, and all this shit."
+  },
+  {
+   "t": 2194.0,
+   "text": "And they were all kids, way younger than me. They were like, I'm gonna put a cap in you, all that kind of shit. I'm like, great. So it was just the worst. My dad was saying shit like, I can't believe I had a son like this. We came to this country and we have a fucking"
+  },
+  {
+   "t": 2213.8,
+   "text": "shithead for a son. Where the fuck did you learn this shit? All they did was talk about God and going to church, and here I was doing this stuff. And at this point I had a collection of every fucking thing that got my dick hard, which"
+  },
+  {
+   "t": 2232.5,
+   "text": "was everything. It was like pictures of Barbie, Gem. I had to find porn where I could. While I was doing check fraud, I'd steal Victoria's Secret magazine catalogs from people's mailboxes. I'd cut out, who's the chick, Stephanie Seymour,"
+  },
+  {
+   "t": 2251.9,
+   "text": "just Playboys, Cherry comics, drawings that I would draw. So I had my spank bank. I had a telephone book, and on each page I glued each thing I collected over my entire life that would turn me on."
+  },
+  {
+   "t": 2270.6,
+   "text": "So it was pornos, porno comics, lingerie catalog stuff. And I'd put the telephone book wrapped in a thick blanket, then put it into a pillow, and hid the pillow in my room next to my bed."
+  },
+  {
+   "t": 2286.8,
+   "text": "Like an extra pillow that no one ever fucked with. And I didn't even get to jerk off to it too much, because it was such a process to get it out and make sure no one was home. I've already told all my jerk-off stories of living in that tiny house, whatever."
+  },
+  {
+   "t": 2304.1,
+   "text": "So it was a time in my life where my dad hated me, my family was so disappointed in me. I'd had a pretty good run up until I was 15 of never getting caught."
+  },
+  {
+   "t": 2322.9,
+   "text": "I was waking up every day at 5 in the morning, going to South Central to clean up trash and graffiti, then getting on a bus, going back to school. Or my dad would pick me up, take me back to school."
+  },
+  {
+   "t": 2334.7,
+   "text": "And I'd be so exhausted. And then after school, I'd go out and do more graffiti. It was just vicious. And I was committing crimes the entire time too, still shoplifting and all that shit. So it was two months, and I was almost done with the thing, and my dad"
+  },
+  {
+   "t": 2352.8,
+   "text": "picks me up right after I finish cleaning up all this shit. And I'm like, I can't wait for this thing to end, these little black kids are threatening to kill me. And my dad picks me up, and he just pulls over, and asks me if I want a donut, which is weird because he never did that."
+  },
+  {
+   "t": 2371.5,
+   "text": "[imitating his dad] He's like, hey, you want a donut? I'm like, no. And I could tell just by looking at my dad that he's super nervous. And I go, what the fuck is up with this motherfucker?"
+  },
+  {
+   "t": 2380.2,
+   "text": "And he's just holding the steering wheel with both his hands and we're pulled over. And he's staring straight out. And he goes, you know, I was young once too. And I go, shit, what the fuck?"
+  },
+  {
+   "t": 2393.3,
+   "text": "I go, dad, can we just please go home? I just want to go home. I was dirty, I just wanted to get home. I think it was Sunday."
+  },
+  {
+   "t": 2403.8,
+   "text": "And he goes, you think of me as your dad, but I was young too. And I'm like, dad, please, let's just go home. And he goes, you know me and your mom are Christian, right?"
+  },
+  {
+   "t": 2414.9,
+   "text": "And I go, fuck, what the hell is about to happen? And he goes, you know, your mother found something. And I go, oh, fuck. Your book? And he goes, mom was cleaning the room and she found this book, like hundreds of pages full of drawings."
+  },
+  {
+   "t": 2434.7,
+   "text": "And I go... That's so much worse than parents finding porn. Oh yeah, like the amount of time you put into it. I immediately went into lying. I was like, oh, that was my friend Naoki, or, you know..."
+  },
+  {
+   "t": 2449.7,
+   "text": "Some guy came over to my house and he didn't want to keep it at his house. And he's like, you know, me and your mom, we're Christian, so we can't have stuff like that in the house."
+  },
+  {
+   "t": 2465.3,
+   "text": "And I was like, oh yeah, yeah, I don't look at that stuff, someone must have just left it there. And he's like, you know, we're Christian, so we can't have those kinds of things in the house."
+  },
+  {
+   "t": 2480.9,
+   "text": "And, you know, you can talk to me about... I was young too. You're going to be at a point now in your life where hair is going to start sprouting out on certain parts."
+  },
+  {
+   "t": 2493.9,
+   "text": "And I'm like, Jesus Christ. And he's like, you know, your voice is going to change. And he goes, your dick's going to get really hard sometimes."
+  },
+  {
+   "t": 2505.8,
+   "text": "And I'm like, oh my god. And he goes, you think I'm your dad, but I know I was young too, that happened to me too, and I'm gonna tell you the best thing to do. And I'm like, just fucking get me home right now. All I'm thinking"
+  },
+  {
+   "t": 2524.4,
+   "text": "is all those fucking years of collecting that porn, I need to get home to the trash can and find it. And he goes, you won't think this works, but it does. Take the coldest shower you can, and aim the nozzle right on your dick, blast your dick with cold"
+  },
+  {
+   "t": 2543.8,
+   "text": "water, and that usually works, that makes your boner go away. And if it doesn't, while you're still wet, dripping, put some clothes on and just run your boner away, start running as fast as you can, run out of the house and down the street and back, and just keep running."
+  },
+  {
+   "t": 2563.3,
+   "text": "Because you're using so much blood. He's explaining all these ways to get rid of my boner, and I want to shoot myself in the head. So basically do everything but jerk off."
+  },
+  {
+   "t": 2573.3,
+   "text": "Yeah, he didn't say don't jerk off. He's like, don't keep porno around, just run your boner until it goes away. And I go, okay, thanks, dad. It was the most embarrassing conversation."
+  },
+  {
+   "t": 2584.0,
+   "text": "I feel embarrassed right now. Yeah, I was cringing. So I get home, and my mom never says a word to me, and I fucking run to the dumpster. I look in our trash can."
+  },
+  {
+   "t": 2595.8,
+   "text": "It's not in there. Our trash can is disgusting, there's all this shit. I dig my hands through it. It's not there. I'm like, oh, they threw it away in the neighbor's trash can."
+  },
+  {
+   "t": 2605.6,
+   "text": "So I fucking go down every fucking house down the street looking in everyone's trash can. And they must have taken it somewhere and thrown it away. And it was the first time in my life that I had a porn cleanse."
+  },
+  {
+   "t": 2619.4,
+   "text": "And I was like, this fucking sucks, man. Oh, that makes me really sad, like all that effort you put into it. I'm glad, thank you, that you're concerned about my porn collection. But it's not just a porn collection, you put all this effort into it. It was very special to me. It was super"
+  },
+  {
+   "t": 2640.4,
+   "text": "super personalized. It's like something you collected. I can almost remember every page, and the desire and the longing was like... like the movie Mannequin. I mean, I would just sit there and go... That movie used to make me horny too. I would sit there looking at the images in that phone book going, I wish this girl would"
+  },
+  {
+   "t": 2666.1,
+   "text": "just come out of this book right now. Like Weird Science. I was like, god, please, if I just think harder... I would be jerking off, touching the newsprint, just like, just be alive for one second, and then go back in, and then I'll"
+  },
+  {
+   "t": 2686.3,
+   "text": "whatever. So I was a weird kid. And, you know, I had an older brother, but he was even weirder than me. Was he like that too? My older brother... we'd go through phases where we liked each other or hated each other. I wanted the older brother that"
+  },
+  {
+   "t": 2706.2,
+   "text": "would be like, this is how you talk to girls, this is what girls like. I didn't have that. He didn't even talk to me. We would fight, we'd get into these crazy... Was he super horny too? I imagine he was, but... I go running... I mean, put it"
+  },
+  {
+   "t": 2723.8,
+   "text": "this way, every person in my family has caught me jerking off. Has anyone caught anyone else jerking off? I don't think so. Okay, so that's the answer right there. I'll tell you about the one time, while the phone book was still intact, that I did get caught."
+  },
+  {
+   "t": 2743.3,
+   "text": "It was another moment where, for people who listen to the show, they know how I had to jerk off using the VHS tape while people were eating dinner. There was one morning where it was like that again."
+  },
+  {
+   "t": 2754.7,
+   "text": "I lived with my grandmother, my two brothers, my mom and dad, all in this tiny house, and it was just the perfect storm. Everyone left the house. And I was like, I'm gonna pull the phone book out and take all the pages and spread it into a fucking porno mural, be surrounded in it. Because"
+  },
+  {
+   "t": 2775.1,
+   "text": "every time I have to read it, it's quick, like, memorize the image, put it back, wrap it up, put it in the towel, hide it under the bed, then go into the bathroom and jerk off. I could never just have it open. The last person to leave was my little brother, who I shared a bunk bed with."
+  },
+  {
+   "t": 2793.7,
+   "text": "And it was like, my grandmother was gone, my brothers were gone, and I was like, this is it. I got so horny just even thinking about it. So they're gone, I lock all the doors, everyone's gone, I can't believe it. Okay, I fucking put a chair right in the middle"
+  },
+  {
+   "t": 2815.7,
+   "text": "of my room, I pull the phone book out, and I take out every fucking drawing. And I can only explain what this image looks like: me butt naked, sitting in the chair, surrounded by hundreds of images I've collected over the years, every fucking picture of every single thing. The equivalent"
+  },
+  {
+   "t": 2837.9,
+   "text": "now of, if you're jerking off on your computer, having like a hundred Brazzers tabs open. Right. But it's spread out over the room, everywhere I look there's something that turns me on."
+  },
+  {
+   "t": 2848.5,
+   "text": "And I'm like, I'm already, pre-cum is already coming out. I'm already about to fucking explode and I haven't even touched my dick yet. So I'm surrounded by this porn matrix of images, and I'm like, oh my god, I'm about to come already."
+  },
+  {
+   "t": 2861.5,
+   "text": "I better go really slow. So I lay back and I start jerking off super slow. And my brother just walks in the door. Like he forgot his jacket or something. I was so caught up in shit."
+  },
+  {
+   "t": 2874.3,
+   "text": "I didn't even hear him come in. He just, no knocking. It's his room, you know? He just walks in. He just sees his naked brother. Younger or older? Younger. With my dick out in this fucking tornado of porn."
+  },
+  {
+   "t": 2887.6,
+   "text": "And he just runs. [shouting] Close the door! Don't look at me! And he ran out. He runs out. And I was like, fuck you. I didn't know what to say."
+  },
+  {
+   "t": 2903.3,
+   "text": "I was more angry than anything. Like, the fact that he walked in. Yeah, it's mortifying. And I was just... my boner went away. I was like, oh my god."
+  },
+  {
+   "t": 2914.7,
+   "text": "And I took all the things, and I just sat there. And this was maybe when I was 12 or 13. I was just beyond embarrassed."
+  },
+  {
+   "t": 2928.6,
+   "text": "You know, it's the feeling where you feel like you're gonna die. Like, my fucking brother saw me touching my dick. And I actually think about this a lot. I think those kinds of things make me do this podcast, or be so open, because it didn't do anything. It"
+  },
+  {
+   "t": 2945.5,
+   "text": "didn't ruin my life. Did you guys ever talk about it again? So did you ever finish? No, I remember I was just so upset and sad. I was like, great. Oh no, no, I did, I did. I was like, fuck, I got caught anyways. I think I went and got duct tape and I duct taped there"
+  },
+  {
+   "t": 2963.9,
+   "text": "wasn't a lock on my door. And then everyone in my house could tell something was wrong with me. My parents came home, everyone came home, they're like, there's something wrong. No, no, I'm cool. And then it was like 10 o'clock and my little brother wasn't home"
+  },
+  {
+   "t": 2979.6,
+   "text": "yet, and he's like 11. So my parents were getting worried, like, Dave, did Paul say where he was? And I'm like, no, fuck that fucking guy. And they're like, he's not home yet."
+  },
+  {
+   "t": 2989.1,
+   "text": "It was super late, like 10 or 11. And they're like, he's not here yet. And then I heard him come through the door. He's like, hey. And my mom's mad."
+  },
+  {
+   "t": 2996.9,
+   "text": "She's like, why were you out? So he's like, I don't know. And I'm dying already of embarrassment. I'm like, I gotta see my brother. So then I'm sitting in my room and I hear a knock."
+  },
+  {
+   "t": 3011.2,
+   "text": "And I go, come in. He's like... and I go, yeah, come in. And he's like... and then he's like, are you sure, can I come in? I go, yeah, you can fucking come in. Oh my god, poor kid, he was traumatized. Yeah, he was traumatized too. And then he came... I mean, it was"
+  },
+  {
+   "t": 3031.6,
+   "text": "endless how many times this guy caught me. So after that, he knocks on the door, he comes in. Did you guys talk about it? We never, ever talked about it."
+  },
+  {
+   "t": 3042.3,
+   "text": "And, you know, we had a bunk bed, he's on the top and I was on the bottom. And the way it was a shitty, tiny bunk bed, my feet would hang off."
+  },
+  {
+   "t": 3053.6,
+   "text": "And so it was so squeaky. And puberty hit me way before it hit him. So I always gauge jerking off after I hear the heavy breathing. I could hear when my brother fell asleep and then I'd be like..."
+  },
+  {
+   "t": 3066.8,
+   "text": "Oh my god. He was probably totally awake sometimes. Yeah. And so I would hear him, he didn't snore, but he had a heavy breathing, you could tell he's asleep. And I figured out the way to neutralize the squeaking on the bed was to push my entire body up against the wall, so my arm... you hold the bed in"
+  },
+  {
+   "t": 3085.6,
+   "text": "place. Yeah, I'm holding the bed in place, my arm is pushed against the wall, and I'm jerking off like..."
+  },
+  {
+   "t": 3094.5,
+   "text": "It's still making a teeny bit of noise, but... I'm like, I don't want to jerk off and wake him up. So one night, I remember, every night I would look forward to him falling asleep so I could jerk off. And then I started, and it"
+  },
+  {
+   "t": 3112.2,
+   "text": "took forever because I couldn't do it fast. But then at the end I would not care anymore, I was so overcome with lust that I'd have to do it. So one night it was just, hey, I'm just gonna jerk off all night to entertain myself."
+  },
+  {
+   "t": 3125.9,
+   "text": "Let's stay up all night and jerk off. It was a slow... And my brother at the time had a lisp, which he went to speech class to get rid of. And he's like, [imitating lisp] David, can you stop shaking the bed?"
+  },
+  {
+   "t": 3138.4,
+   "text": "And I was like, oh my god, dude. So after that, my thing was to just go to the floor and jerk off on the floor. Oh, that's a good idea. I wouldn't shake the bed. But then my dad and mom would do the check. Yeah, check, to see, because"
+  },
+  {
+   "t": 3158.2,
+   "text": "we were starting to sneak out of the house. So sometimes I'd be jerking off, and the door would just open, there was no locks on the door. Put fucking locks on your doors! I mean, the horrible things happening... No, don't put locks on their door."
+  },
+  {
+   "t": 3172.4,
+   "text": "And my dad would be like, why are you sleeping on the floor? I could hear him. I'd have my dick in my hand, and then I'd quickly just pretend like I fell asleep."
+  },
+  {
+   "t": 3181.6,
+   "text": "Yeah. And, you know, I was a big kid, and he's like, oh... I hear him talk to himself. He's like, oh, you must have fell out of the bed."
+  },
+  {
+   "t": 3189.0,
+   "text": "So I'm pretending to be asleep, and he's carrying me back under the bed. With a boner. Yeah, I'm like, don't, dad, don't touch my dick, please. My parents used to catch me masturbating all the time, too."
+  },
+  {
+   "t": 3199.3,
+   "text": "I was younger, though. But it was to the point where my mom wouldn't let me sleep with a blanket over me. She'd pull the blanket out. Because she knew as soon as I pulled the covers over me... it was really young."
+  },
+  {
+   "t": 3211.7,
+   "text": "Six, seven, eight? Yeah. And how would you do it? With me being younger... With your hands? Well, yeah, always with my hands. I would do it like Bobby, I would go on my stomach and hump my hand."
+  },
+  {
+   "t": 3223.5,
+   "text": "But you were inserting or just...? No, not inserting. I didn't insert anything. And were you embarrassed when your mom caught you? Oh yeah. So much shame. Super embarrassed. So much shame."
+  },
+  {
+   "t": 3235.8,
+   "text": "Maybe this is why we're like this. Well, you know, I haven't even gotten to my virgin story yet. But basically... So what I was saying about my brother is, I had an older brother."
+  },
+  {
+   "t": 3248.4,
+   "text": "But he wasn't like, hey bro, this is what girls are like. He was just an introvert weirdo too. So it was just a family of weirdos. I mean, we're all cooler now. But he didn't tell me any advice."
+  },
+  {
+   "t": 3260.5,
+   "text": "And to this day, it's a fucking mystery. But the hottest girl at our school in junior high, and you might remember her because you went to the same school, her name was Elizabeth, and she looked like Christie Brinkley."
+  },
+  {
+   "t": 3276.2,
+   "text": "Blonde hair, blue eyes, and just the most popular girl in school. Okay. And she fucking wanted me to be her boyfriend. It didn't make any sense. And after years and years of contemplation, I think I have it figured out. At the time, the most fucking watched movie at our school was Heathers."
+  },
+  {
+   "t": 3301.9,
+   "text": "Everyone watched it, these girls loved Heathers, like, fuck me with a chainsaw, all that shit. And my voice had dropped a little bit. Oh, like Christian Slater. Yeah, it had changed before anyone else's. So they're like, oh, he sounds like Christian Slater. And I was a weirdo and I wore an overcoat to school"
+  },
+  {
+   "t": 3318.5,
+   "text": "and stuff. So that's the only reason I can think of, because her and her friends, all they did was watch Heathers. Yeah, it was like the original Clueless, or the original Mean Girls. So nobody understood why, including me. I was like the hottest fucking... It's a horrible way to start any life, because you're like, wow, the fucking hottest. But I"
+  },
+  {
+   "t": 3341.8,
+   "text": "was so terrified of women. I hadn't watched porn yet. All those images I had were like soft-core things, lingerie, naked chicks, there was no dicks and inserting. So I hadn't seen any of that shit. And so all my friends are like"
+  },
+  {
+   "t": 3360.7,
+   "text": "congratulating me, and there were a lot of people jealous too. Like, what, huh? Go ahead, what'd you just say? Congratulating. Yeah, but there were a lot of haters. And she had a best friend, Christina, who was just as hot, but not"
+  },
+  {
+   "t": 3378.6,
+   "text": "as hot. So Elizabeth was number one and Christina was number two. So they were best friends but also hated each other. Yeah, or at least Christina. And Christina's parents were like Hollywood actors, so they were never home."
+  },
+  {
+   "t": 3398.1,
+   "text": "So that's the house we would hang out at. So I had Elizabeth, the hottest girl in school, who was my girlfriend. And when I say girlfriend, I mean we held hands and kissed each other on the cheeks."
+  },
+  {
+   "t": 3408.2,
+   "text": "Yeah, totally innocent. And then Christina, who would always grab my dick as soon as Elizabeth walked out of the room. So, I mean, I was 14. That's really scandalous. I was so terrified of both of them."
+  },
+  {
+   "t": 3424.9,
+   "text": "You know? The first time I ever tried it, she was my girlfriend, she's like, let's go steady. And the first time, we were just laying on top of each other, hugging with all our clothes on, her stomach growled, and she was so embarrassed she just kicked me off"
+  },
+  {
+   "t": 3442.6,
+   "text": "of her, and I was like, oh, okay. And so I remember, this is the thing that plagued my childhood, of like, I wish I had a time machine. When I was 14 or 15, me and Elizabeth both slept at Christina's house, on her bed, her parents were at home, it was"
+  },
+  {
+   "t": 3466.6,
+   "text": "this hot sticky summer, so they both went and took a shower. And I told my parents I was sleeping at a friend's house, probably told them I slept at your house. And I'm laying in the middle of the bed with these two beautiful women, and they're wearing their underwear, and my little dick is so"
+  },
+  {
+   "t": 3485.9,
+   "text": "hard, and I don't know what to do. I don't know what sex is, I didn't even know you're supposed to... I have no... and I'm sitting there going, I wish I knew what to do, I got no moves. You totally could have had a threesome. If I knew now..."
+  },
+  {
+   "t": 3508.5,
+   "text": "I mean, if I could go back in time, my life could have been so much different. Or maybe not, though, because I can think of a lot of times me and my best friend were in our underwear lying with a boy and we weren't thinking... I know, but at least"
+  },
+  {
+   "t": 3525.7,
+   "text": "we were all sort of pretending to sleep, and there was light touching, but there wasn't even dry humping, it was just fear, at least on my own. I was just horrified, like, oh god, I don't know what to do. And nothing happened, basically. But everyone heard at my school, they're like, oh my god, I heard you"
+  },
+  {
+   "t": 3551.4,
+   "text": "slept in the same bed with both, they're like, you fucked. And I didn't know what to say. I didn't say yes or no, so everyone's like, oh, he totally did it. And then all these rumors went around that I was like a fucking pimp. And I was like, I haven't even kissed her"
+  },
+  {
+   "t": 3567.1,
+   "text": "yet. I didn't even do the over-the-closed-boob grab. There was a lot of that shit happening in my grade, people grabbing each other. That age is like when everyone's hooking up with everyone. So, I don't know, something else"
+  },
+  {
+   "t": 3585.1,
+   "text": "happened that summer where I was at their house too late watching... I remember it was the Unskinny Bop Poison video or something. We were watching that, and then the mom, it was at Elizabeth's house, her mom found out and she's like, Dave, you gotta go home, it's"
+  },
+  {
+   "t": 3599.3,
+   "text": "past midnight. And everyone's like, oh yeah, you fucked her all night. And I was like, I don't even know what that means. And I would go home with all this pent-up rage and aggression, and I would just draw butterflies with like 10 million wings, and be like, I don't know what to do with all"
+  },
+  {
+   "t": 3613.3,
+   "text": "this fucking sexual energy. And so she was my first girlfriend, and I was obsessed with her. I thought of her, but never sexual, everything was always dreamy, like, we're gonna be together forever. It was like super"
+  },
+  {
+   "t": 3630.1,
+   "text": "movie romance kind of thoughts. And then that got crushed immediately. That was the summer from junior high to high school. So then high school started, and of course she was the hot chick in junior high, she gets to high school, she's the prom queen. And you were still with her? Yeah, I was still with her the first year."
+  },
+  {
+   "t": 3655.2,
+   "text": "And then, you know, high school was like thousands of kids, and they're like, you're dating her? And I was like, yeah, that's my bitch. I wasn't even... I was like, yeah, she's my girlfriend. I don't know why."
+  },
+  {
+   "t": 3672.0,
+   "text": "And I remember she took me by the swim gym and explained to me... it was like a car crash, I didn't even understand what had happened. She was trying to explain to me, like, I like you, you're cool. And keep in mind, she'd been my girlfriend for a year now, and we"
+  },
+  {
+   "t": 3690.6,
+   "text": "still have never kissed. It's just a lot of sweaty awkward hand-holding. And we're sitting there and she goes, you know I'm the prom queen. I don't remember her exact words, but it was like, I'm really someone cool, and you really aren't. Like, I'm the prom queen"
+  },
+  {
+   "t": 3709.6,
+   "text": "and, you know, it was so stereotypical, she's like, I'm gonna date the prom king. So let's stay friends. And I was like, oh, yeah, yeah, yeah. And I was like, I just got dumped right now. It didn't even hit me, but she just dumped"
+  },
+  {
+   "t": 3727.8,
+   "text": "me. And it just made me weirder. I started wearing all black. I went to your brother and all my friends and I was like, I'm going solo, leave me the fuck alone. Nobody talked to me. I would listen to weird music. I went to the roof of my high school"
+  },
+  {
+   "t": 3746.6,
+   "text": "every day and ate lunch by myself. I would sit there and stare at the popular kids and go, I want to kill... I would... it was my trench coat. [intense] I hated people, I wanted to kill them. People were mean to me. And I went from dating the hottest girl to"
+  },
+  {
+   "t": 3763.6,
+   "text": "just the biggest loser, like nobody. I joined the marching band, which didn't help. Nobody talks to me except for the marching band. So I just went super goth, super dark. And so high school, freshman, you're 15, 16, all the way till senior year..."
+  },
+  {
+   "t": 3784.3,
+   "text": "not a girl, one girl wouldn't even talk to me. I think one girl talked to me and she was a lesbian or something. And you guys know how horny I am, I'm like, it's killing me, it's the only thing I think about. And, A, I'm a weirdo, B, in my mind I'm like, oh, she was my"
+  },
+  {
+   "t": 3805.8,
+   "text": "first girlfriend, we were gonna get married. And that whole time I'm still like, maybe we'll get back together or something. And then... what happened? Oh yeah, then I challenged the lead quarterback. He pushed me out of the way"
+  },
+  {
+   "t": 3826.3,
+   "text": "while we were running around the track, and I said, I'm gonna... and I kicked him in his balls and he fell down. And he's like, what, you little shit? He was a senior, I was a freshman. And he's like, who the fuck do you think you are? And I'm like, dude, you just pushed me right"
+  },
+  {
+   "t": 3841.1,
+   "text": "now. And he was about to get in a fight with me, and the coach came, and he's like, what are you guys doing? He's like, after school. And I was like, yeah, whatever, after school I'm gonna fucking eat your heart out, I'm gonna fucking kill you. And people"
+  },
+  {
+   "t": 3856.3,
+   "text": "were like, Dave's crazy, he's a weirdo, he wears the overcoat, he probably has a knife under there. And so after school the entire school was waiting in the alleyway. And as soon as I turned into the alleyway, his fist was like this big, it hits me right in the face, my face"
+  },
+  {
+   "t": 3873.2,
+   "text": "explodes, blood shoots out everywhere. He uses both hands and starts pummeling my face into the ground. It turns into hamburger meat, my gums are bleeding, my face is bleeding, I have two black eyes, there's blood coming out of my eyes, and I'm getting the living shit kicked out of me."
+  },
+  {
+   "t": 3888.1,
+   "text": "And people are like, oh fuck, dude, look at his face. And because I was a weird, cool punk... I wasn't cool, but I was a weird guy, of course I had a wallet chain. So I took it out and started choking him with it, and there's blood dripping all over him, and I was like, I'm gonna"
+  },
+  {
+   "t": 3905.5,
+   "text": "kill him right now. It would take an army to get me off of him. So he put his hands like this and he was like, please stop. So he won the fight, he definitely kicked the shit out of me, but then everyone jumped in and pulled me off of him because I was going to choke him to death."
+  },
+  {
+   "t": 3918.3,
+   "text": "So, number one, I lose the girl, I get my face beaten, humiliated in front of the entire school, and now I'm eating lunch by myself with an overcoat on. I'm like, this is not good for my pussy report card. It's not happening. So there"
+  },
+  {
+   "t": 3936.1,
+   "text": "was one fat chick in band class that wanted to fuck me, and I was like, no, I had the most beautiful girl. My standards... there wasn't one girl that wanted to fuck with my shit. So then senior year, Kim, Jewish girl from Las Vegas, moves to my school."
+  },
+  {
+   "t": 3957.0,
+   "text": "You lost your virginity to a Jew too. Kim. She comes in and she's got a nose ring, a tattoo, and, uh, Vegas. Oh my god, this is just like Clueless. And she shows up and she just smokes."
+  },
+  {
+   "t": 3973.3,
+   "text": "She's like none of the girls at my school. And we were in my creative writing class together. And that was the one class where people thought I was cool. Because I wrote about the LA riots a month before they happened."
+  },
+  {
+   "t": 3986.9,
+   "text": "I was like, we won't stand for this shit, we'll burn this shit to the ground. And they're like, Dave's like a prophet, he knows shit. And so I was doing the entire class's creative writing assignments."
+  },
+  {
+   "t": 3996.1,
+   "text": "People would be like, hey, can you write? And so I was writing 30 different kids' English homework, getting paid five bucks for each. But I was writing each one from a jock's perspective, from a cheerleader's perspective."
+  },
+  {
+   "t": 4008.6,
+   "text": "And they're like, yeah, it's cool, he's so imaginative, he writes cool shit. So she's like, hey, I heard you're the writer dude, can you write my homework? Cool."
+  },
+  {
+   "t": 4019.2,
+   "text": "Yeah. And I was like, all right, I'll write your homework. So then I jump in her car. She had a car, it was like some shitty Corolla or something, and it was stick too. I was like, man, this bitch, she's so cool. Yeah, I like her. So at a red light I just jumped"
+  },
+  {
+   "t": 4035.4,
+   "text": "in her car, without asking her, like the second time. I got really bold all of a sudden. And she's like, you're that weird Chinese kid in my English class, get out of my car. And I was like, no. She's like, get out of my car, dude. And I was like, no."
+  },
+  {
+   "t": 4052.9,
+   "text": "She's like, all right, what do you want to do? I was like, let's go hang out. So then she became my best friend, we hang out every day. And she's like, I don't know if you're gonna go to this fucking prom, you should come with me, whatever, if you want. And I was like, oh"
+  },
+  {
+   "t": 4067.9,
+   "text": "shit, okay, cool. So then she becomes my BFF, we hang out every day, and I don't even think she likes me. And one day after school it just started pouring rain, and she had the same thing, the kind of parents that were never there. And we went through her room once, and her dad"
+  },
+  {
+   "t": 4087.3,
+   "text": "and mom, well, he wasn't married, he was divorced, but they had tons of weird sex toys and strap-ons. So they were into some weird shit. And I was like, oh fuck, this is crazy, your parents are weird. And I was like, fuck, I gotta go home in this rain."
+  },
+  {
+   "t": 4105.1,
+   "text": "And she's like, it's really raining a lot, you could stay here if you want. And I was like, all right, cool. And so it's just pouring rain outside, my dick is about to rip out of my pants, and as usual she has a nose ring, she has dyed shitty-job blonde hair,"
+  },
+  {
+   "t": 4127.7,
+   "text": "cute little perfect body, and we just start making out. And I'm like, that's the first time I kissed anyone. I'm fucking 17 years old. I'm like, this is awesome."
+  },
+  {
+   "t": 4140.7,
+   "text": "And her fucking mouth tasted like an ashtray. And I loved it. I was like, her mouth tastes like a shit fucking bag, and I love it. It just tasted like ashes. You kissed a girl with cigarettes?"
+  },
+  {
+   "t": 4155.7,
+   "text": "It's disgusting. Yeah, it's horrible. I didn't give a fuck. I was like, I'm making out now. And then it hits me. I'm about to have sex right now. This shit is fucking crazy, this is really gonna happen right now. So everything hits my head, every page from my phone book. And I used to actually read"
+  },
+  {
+   "t": 4176.6,
+   "text": "Penthouse Letters. I mean, years later I ended up writing for Hustler and stuff. But I've told this joke before, which was actually not a joke, like, I would read and the stories would go, and then I came all over her face, and I'm like, where did you go?"
+  },
+  {
+   "t": 4189.2,
+   "text": "Where did you go? So up to this point, once again, I still had never seen a porno, didn't really know how it worked. I know it goes inside, but no one told me anything, I didn't have any friends that were like, this is how you fuck. But she had been with"
+  },
+  {
+   "t": 4208.0,
+   "text": "eight guys, to me was a total slut. And I didn't tell her that I was a virgin, but I think she figured it out. So my dick is pre-cumming, it's shiny, and I fucking pull her top off, I start sucking on her pink nipples, and then I pull her fucking panties down, her"
+  },
+  {
+   "t": 4227.9,
+   "text": "fucking... I remember them, they're blue with dark blue trim, and I pull them down, and her fucking bush, and it's dark brown, because for some reason I thought it would be blonde because her hair was blonde. But this is 1993, so"
+  },
+  {
+   "t": 4244.9,
+   "text": "girls weren't doing all that shaving, girls weren't shaving their pussies until like... And as soon as I pulled her panties down my head was already down there, she puts her hand under my forehead, like, you don't have to do that. She figured I was gonna start eating her pussy, and I was like, no, I have to. I knew, I had read so much about sex, not seen,"
+  },
+  {
+   "t": 4264.5,
+   "text": "but read, that I was like, I'm gonna fucking do all this shit, I'm gonna eat her pussy. And it smelled like human or dog shit. It felt like she went from back to front, it smelled like I had taken a shit on her vagina. And I"
+  },
+  {
+   "t": 4286.6,
+   "text": "probably sound like an asshole right now, but I'm being as accurate... I almost puked on her vagina. I almost puked on her vagina. And she was doing the whole, no, you don't have to do that."
+  },
+  {
+   "t": 4300.1,
+   "text": "And I was like, yes, I do. And I started licking it and the smell was hitting my nose. And I was like, it doesn't smell like... I've smelled bad pussy before."
+  },
+  {
+   "t": 4311.2,
+   "text": "It didn't smell like bad pussy. It smelled like shit, excrement. So I'm like, she didn't wipe her ass or something. That's what I thought. But then, you know, after we ended up fucking, we fucked a bunch more times, and it would smell like that after the shower too, so maybe she had something, I don't know. I lose my boner so quick."
+  },
+  {
+   "t": 4333.3,
+   "text": "So she goes, all right, that's enough, let's just fuck already. And I go, oh, okay, okay. And I go up to put my dick in her and it's just like a limp noodle. And I'm like, no, no, this is the most, this is what I've been waiting for, this is what I've been reading"
+  },
+  {
+   "t": 4353.9,
+   "text": "about, this is what my little fucking brother's been catching me jerk off, my dad carrying me into my bed, like, this is it. This is the fucking... it's all been for this. And it's limp. I go, hold on. I run to the bathroom. And this is like movie shit where you see characters talking"
+  },
+  {
+   "t": 4371.3,
+   "text": "to themselves. Yeah, I talked to myself. I looked down at my dick and I said, fuck you, fuck you. And I took all this soap and cleaned my dick, and I started hitting it on the sink, and I said everything I said to you right now. I was like, you've been waiting for this moment"
+  },
+  {
+   "t": 4385.8,
+   "text": "your whole life and you're gonna fucking act like this right now? And she could hear me, she's like, hey, are you all right in there? And I was like, yeah, yeah, I'll be out in a second. I was like, fuck you, you have one job right now and it's to be hard. And I was like, oh my god, this is the"
+  },
+  {
+   "t": 4403.0,
+   "text": "night, it's raining, it's romantic, you've been hanging... And I was just rubbing lotions on it, I kept hitting it on the sink, I was like, get hard, get hard. And then it got sort of half hard and I was like, cool, that's hard enough. And I ran out and she"
+  },
+  {
+   "t": 4418.9,
+   "text": "was already asleep. I was like, hey, hey, Kim, wake up. And she's like, no, let's just go to sleep. I was like, oh god. So then it was the longest night of my life. She's asleep snoring, and did you get hard? I'm rock hard, sleeping right next to her, just touching it to her butt going, hey,"
+  },
+  {
+   "t": 4437.4,
+   "text": "wake up. And it was like midnight, and I was like, oh my god, maybe she'll wake up at three. So I'm up the entire night, and she sleeps until seven, and I'm like, okay, fine, I'll fuck her when she wakes up in the morning. So I'm just laying right next to her with this rock hard"
+  },
+  {
+   "t": 4453.2,
+   "text": "boner all night, and then at seven she wakes up and she just immediately gets dressed, and I'm like, hey, hey, and she's like, let's just go to school. I was like, I'm hard now. She's like, yeah, let's just go to school. And I'm like, fuck. So we go to school and she never talks to"
+  },
+  {
+   "t": 4473.9,
+   "text": "me again. What? I was devastated. She doesn't talk to me, she doesn't fucking... Was she aware that when you were eating her pussy your dick went from hard to soft? I think so. So she was probably embarrassed, she probably knows it smells like shit. But this is my BFF, this is someone I"
+  },
+  {
+   "t": 4492.0,
+   "text": "hang out with. She was so embarrassed. We hang out every day, and then all of a sudden you just start ignoring me. It was driving me... we were in the same classes together. I'd be like, hey, you still want me to finish your homework? And she stopped talking."
+  },
+  {
+   "t": 4504.8,
+   "text": "She didn't even talk to me. I'd be like, hey, Kim. And I was devastated. And I would write her these long messages explaining what happened. I was like, you know when you want something so bad, it's like you want this piece of chocolate, and then oh my god,"
+  },
+  {
+   "t": 4522.0,
+   "text": "I was writing, and I'm like, sorry... Teenagers are the fucking worst. I was like, I'm so sorry, I'm sorry like this. And I'm making up a million analogies of what happened, and no response."
+  },
+  {
+   "t": 4533.4,
+   "text": "And I'm like, I'm so fucking tormented. And then two weeks goes by like this, which in teenage years is like 3,000 years. Prom's coming up. And I'm about to turn from 17 to 18."
+  },
+  {
+   "t": 4546.5,
+   "text": "And I'm like, I can't believe I'm going to be 18 and still a virgin. And she goes, hey, we're still going to prom? After not talking to me for two weeks. And I go, what? She goes, yeah, you said you were taking me to the prom. I go, you don't fucking talk to me for"
+  },
+  {
+   "t": 4560.2,
+   "text": "two weeks. And she's like, what, it's our prom, we gotta go, right? And I'm like, I don't give a fuck about prom. And she's like... I go, you not talk to me for two weeks, what the fuck is your problem? She's like, you want to know what happened? I'm like, yes. She's like, I'm falling in love with you. All right,"
+  },
+  {
+   "t": 4577.3,
+   "text": "I fell in love with you and I don't like being in love. So I just started ignoring you. Okay. And I was like... This is like a movie. I was like... what? And..."
+  },
+  {
+   "t": 4587.8,
+   "text": "You know. This is like 10 Things I Hate About You, or one of those movies. Well, this is the best. So I lose my virginity on prom night. So I didn't have any money at the time."
+  },
+  {
+   "t": 4598.5,
+   "text": "I was going through all my fucking juvie problems. And I go, look, you treat me like shit for two weeks and then ask me to take you to prom? I'm not going unless you pay for everything."
+  },
+  {
+   "t": 4606.6,
+   "text": "You pay for prom, you pay for the limo, everything. She goes, all right. So I go to a thrift store and I buy a shiny light blue aluminum-looking suit, my hair is bright red, I had a bow tie that was like this big. You're such a dick. No, that's just my style,"
+  },
+  {
+   "t": 4622.9,
+   "text": "don't fucking get up on my steez. And I wrestled with a sunflower in some guy's front yard that was like this big and I gave that to her as her corsage. And it was like all these sunflower seeds falling out everywhere. I'm getting excited again, I'm like, this is the night I'm gonna fucking lose"
+  },
+  {
+   "t": 4643.2,
+   "text": "my virginity. I tell everyone I lost my virginity at 17, but I was technically 18, I had just turned 18. It was my senior prom, senior year. And her step-sister was visiting from Vegas, and she brought all this ecstasy with her, and she's like, let's do X"
+  },
+  {
+   "t": 4661.7,
+   "text": "tonight. And I'm like, oh no. Acid. She's like, let's do acid. You lost your virginity on acid? Hold on, I never did drugs. So she's doing it, she's like, come on, let's just do it, it'll be fun. And she ate some bad acid. We're at the prom, the after-prom, she's"
+  },
+  {
+   "t": 4681.2,
+   "text": "doing some weird drug dance, everyone's like, dude, your fucking girl's fucked up. And I was like, oh my god, I'm so close to this. And the thing was, you had your vision of the shower sex, right, you had some kind of fantasy. My fantasy was to fuck her in a bathtub full of jello. So we rented a room. I"
+  },
+  {
+   "t": 4707.5,
+   "text": "rented a room at Sofitel, it was all the money I'd saved up, and I had to make the jello at my house and bring it there. So it took like five jellos, as much as I could afford. So I wanted it all to be red."
+  },
+  {
+   "t": 4720.8,
+   "text": "Hold on, that's really freaky for your first time. In my mind, I was fucking her in a bathtub full of red jello. Okay. At the store, they only had a certain amount of red and most of it was green."
+  },
+  {
+   "t": 4734.5,
+   "text": "So it was mostly... I was like, I don't want a Christmas jello. So you had brown jello? Yeah, I mean, it sucked, I wanted all red, but it was like half cherry and half lime."
+  },
+  {
+   "t": 4745.8,
+   "text": "Wow, you were such an artist even then. I was like, I want to fuck her in jello, I want it to be like that. So my friend Brian was just as excited for me."
+  },
+  {
+   "t": 4755.8,
+   "text": "So we're running back, we made all this jello, we dump it in the tub. And I'm like, okay, cool, I'm gonna... By the way, it's a really bad idea. What?"
+  },
+  {
+   "t": 4765.0,
+   "text": "Like yeast infection. Well, I don't even... I know. No, no, I'm just saying. So then everyone's... now we're the last people at the party. She's on drugs,"
+  },
+  {
+   "t": 4776.3,
+   "text": "just... and everyone's gone. So we get into the limo, and the rich kid paid for the limo, he's like, yeah, Dave, take the limo, go anywhere you need to go. So we go back to the hotel, it's like 2 or 3 in the morning, and I'm doing the same thing again,"
+  },
+  {
+   "t": 4791.7,
+   "text": "hey, let's fuck. And she gets in the room, face flat, she falls on the bed in her dress, and I help her take her clothes off, and she's not even moving, she's just laying there. And I'm thinking, bathtub full of jello, passionate sex, and it's like fucking a dead person. Virginity... I'm just gonna wait till the morning again. So,"
+  },
+  {
+   "t": 4820.9,
+   "text": "first time also staying in a hotel, I don't know the hotel rules, don't know you gotta check out before noon. So once again, laying next to this person, fully fucked up, passed out, not even snoring, I thought she was dead."
+  },
+  {
+   "t": 4834.2,
+   "text": "I kept doing the check to see if she was even breathing. I didn't know I was supposed to call a hospital or something. And she fucking sleeps in. And then I start getting the knock."
+  },
+  {
+   "t": 4847.9,
+   "text": "Rooms, like, checkout time. And I'm like, no, no. I made the fucking jello, I fucking ate her shit-smelling pussy. So in the meantime, is the jello still sitting in the bathtub? Yeah, it's melted now."
+  },
+  {
+   "t": 4861.9,
+   "text": "It's all watery, and it turns into this weird sticky thing. And it's just sad, dreams going down the drain. I'm like, my life sucks, it fucking sucks. And so as soon as this knocking is like, hello, checkout time,"
+  },
+  {
+   "t": 4881.3,
+   "text": "I'm like, hey, wake up, wake up. She finally wakes up and she's like, oh my god, what happened, oh my god, those drugs are crazy. And she's like... oh, she's licking at my boner."
+  },
+  {
+   "t": 4892.3,
+   "text": "All right, fine, you can stick it in. I'm like, yes. So I throw a condom on and I just stick it in, and maybe two pumps I was like, yeah. And, you know, to this day, at this point I've been with hundreds of women, it broke me in, because, A, it was to this day the smelliest"
+  },
+  {
+   "t": 4912.9,
+   "text": "vagina I've ever smelled, and, B, it was probably also the loosest vagina. I couldn't even feel if I was in her or not, there was no friction at all. I was like, either my dick's tiny or there's something going on here. And to this day, like,"
+  },
+  {
+   "t": 4930.5,
+   "text": "when you asked the question about whether all pussies are the same, hers was not, hers is the one that definitely sticks out. And I could fuck her forever because there was no friction. So she's like, oh my god, that was it, you came? And I was hard again"
+  },
+  {
+   "t": 4944.7,
+   "text": "immediately, I was fucking 18. So I stick it back in, and now it's the most uncomfortable conditions of fucking, with checkout time. And I'm just fucking her and fucking her, and then we're throwing the condoms out the window, and it was the shitty-smelling condom, and she's like, oh my god, you're like some kind of sex addict or"
+  },
+  {
+   "t": 4968.6,
+   "text": "something. And I try to fuck her six times within 15 minutes, I just kept fucking her and then throwing another condom on. And I was like, I love sex, I need to have sex all the time. And did you fuck her again after that? Yeah, I mean, it was sort of a sad ending, because"
+  },
+  {
+   "t": 4989.1,
+   "text": "I don't think I liked her, I don't think I was in love with her the same way I was with Elizabeth. That was definitely infatuation, it was just, you like me, so I guess I should like you. And"
+  },
+  {
+   "t": 5003.6,
+   "text": "yeah, I just couldn't stop fucking her. I would try to... My first boyfriend was like that too, he would come in two seconds and then fuck me again and come in two seconds and fuck me again. And what did you think about that? Were you like, what's up with this dude,"
+  },
+  {
+   "t": 5019.8,
+   "text": "or you're like, I like this? I don't know. I think in a way it trained me to come fast too. I couldn't... I wouldn't even want to talk to her anymore. She said, like, we used to hang out and talk, and now you just force your dick into me every chance you get."
+  },
+  {
+   "t": 5036.7,
+   "text": "And I was inside her while watching TV, we both had our t-shirts on, and I was inside her, spooning. And she's like, oh fuck you, we have to get this homework done. And I'm like, let's fuck quick. Her dad walks in with all this chicken from Koo Koo Roo Chicken, and he's like, hey,"
+  },
+  {
+   "t": 5055.1,
+   "text": "hey, Kimmy, hey. So now I'm naked, waist down, inside his daughter, and he's sitting on the bed, and I'm like, yes, first threesome. And I'm like, oh my god, if he just pulls the blanket a little bit, I'm in the middle of fucking your..."
+  },
+  {
+   "t": 5073.5,
+   "text": "And I thought my dick would get soft, but it just got harder, because I was like, cool. I had a similar situation to that too, with my first boyfriend, and I thought it was such a turn-on."
+  },
+  {
+   "t": 5084.4,
+   "text": "Really? Yeah. But it was like the same exact situation, actually. Really? Like we had our shirts on and everything. We really are twins. I know. And Jewish."
+  },
+  {
+   "t": 5095.4,
+   "text": "Oh, he was a Jew too? Oh wait, no, the guy I did this with was not a Jew, but he was my first boyfriend. I know. So she just sort of lost interest in me because I just wanted to fuck, that's all I wanted to do."
+  },
+  {
+   "t": 5108.1,
+   "text": "So how long did this last for? It lasted the end of senior year. And then I went away, I didn't see her for a while. And then she's like, hey, how are you doing?"
+  },
+  {
+   "t": 5117.3,
+   "text": "And then I called her. And it was the sad, like, hey, I haven't seen you in a year, and the first thing I do is try to fuck her, and she's like, I'm not just this fuck thing."
+  },
+  {
+   "t": 5131.1,
+   "text": "And so that's basically a very long story of how I lost my virginity. And then when did you get to fuck your second girl? Well, there's a double epilogue to this story, which is unbelievable to me when it happened. And I hope this gives hope to the nerds and shit out there."
+  },
+  {
+   "t": 5159.9,
+   "text": "So I travel a lot, and this was in high school, so about 13 or 14 years later, I'm at LAX, on a layover from somewhere else, I think I flew back from New York, and I'm going somewhere else. And I'm like, oh, I'm at LAX, maybe I should go see my parents."
+  },
+  {
+   "t": 5179.2,
+   "text": "And it was like an hour between my flights, so I'm walking, and I see this chick changing a baby diaper on the floor at LAX. It was Elizabeth. And I'm like, this is so... I saw the shit and everything. And I'm like, go to the fucking bathroom, you bitch, it's so"
+  },
+  {
+   "t": 5198.0,
+   "text": "nasty. So I look at the baby and I'm like, I just saw that baby's shit. Yeah. And then I look at the girl. That is really inappropriate. It's disgusting. Yeah. And I'm walking to my gate."
+  },
+  {
+   "t": 5208.0,
+   "text": "So I just saw it passing. You wouldn't even let your dog shit inside. Exactly. So I see the baby, I see the shit, and then I look up at the white trash, and it's Kim."
+  },
+  {
+   "t": 5218.6,
+   "text": "And I go, oh fuck. And I haven't seen her since the awkward... And I go, oh fuck, and just start walking fast. And she goes, Dave? Dave? David Choe? And I'm like, oh fuck."
+  },
+  {
+   "t": 5232.7,
+   "text": "So, oh, hey, Kim, how's it going? And she's like, hey Dave, this is my baby, this is my husband. And the guy's like Ed Hardy shirt, tattoos, sitting back. Did she look good?"
+  },
+  {
+   "t": 5247.3,
+   "text": "She looked... yeah, she looked good, she looked the same, like white trash, white Jewish trash. And he goes, hey, Ron, this is Dave, the guy that took her to the prom or whatever."
+  },
+  {
+   "t": 5258.5,
+   "text": "He's like, oh yeah, yeah, I heard about you. I put my hand out to say hi and he just does, like, what's up. Ew. Just, like, fuck you, get away from me."
+  },
+  {
+   "t": 5266.5,
+   "text": "And he's like, what are you doing? Oh my god, I haven't seen you in like 10 years. Yeah, it's been a while. I go, well, you know, I'm just doing art stuff and whatever."
+  },
+  {
+   "t": 5280.1,
+   "text": "And she's like, oh okay, cool, it's really good to see you. And she's just excited to see me, she's like, Dave, he was crazy. And he's like, yeah, whatever. And I'm like, oh, your baby's crying, maybe you should take care of it. Nice to see you. And"
+  },
+  {
+   "t": 5294.9,
+   "text": "it was super awkward, and then I get away, and then I get an email like three days later. He's like, of course I saw you and I had to Google you, oh my god, all your dreams came true, you're doing your art thing. And, you know, I hate to ask, but my husband, he's"
+  },
+  {
+   "t": 5313.6,
+   "text": "starting a trucker cap company, don't even... it would be really cool if you designed the logo and did some art for us. And I was like, uh, fuck this shit. So I was walking through the airport, and I was like, oh my god, what if I stayed with her, I'd be the"
+  },
+  {
+   "t": 5331.4,
+   "text": "trucker cap guy. And this happened, of course, like a girl whose pussy smells like shit would be changing her baby's diaper out in the open, it just makes so much sense, right? So I was like, fuck, this is crazy. So then I get"
+  },
+  {
+   "t": 5351.5,
+   "text": "to my gate, and I swear on my life this happened, I'm not making this up. I sit down, and the flight that just landed that I'm going to get on, all the people are coming out."
+  },
+  {
+   "t": 5360.4,
+   "text": "And I'm like, Kim, I can't believe I just saw Kim, this shit is crazy. And I'm like, yeah, she looked good. And I'm like, oh, what a douche. And I'm thinking about this stuff."
+  },
+  {
+   "t": 5369.3,
+   "text": "And then Elizabeth gets off the plane. This is 13 years later. My first girlfriend, and the first girl I lost my virginity to. And she sees me right away. And I'm like, oh, and I was thinking about her too, because I was like, Kim, Elizabeth."
+  },
+  {
+   "t": 5385.4,
+   "text": "And she comes out of the plane, and I'm like, what the fuck, dude, airports are awesome. And I'm like, now her I want to talk to. And she sees me and immediately cuts a hard right and walks quickly."
+  },
+  {
+   "t": 5397.2,
+   "text": "And I'm like, oh, I guess she didn't want to talk to me. Did she look good? She looked like she was maybe putting on some weight or whatever. But, you know, she's my first love. Yeah, she's always going to be."
+  },
+  {
+   "t": 5411.3,
+   "text": "Whatever. I just wanted to catch up with her. And I was like, fuck that bitch. So then, the epilogue to the epilogue is the Facebook news. Once the Facebook news hit the New York Times, every fucking girl"
+  },
+  {
+   "t": 5431.1,
+   "text": "that ever rejected me, every girl that never gave me the time of day, was like, hey, remember me, I was this girl. And I was like, oh, the bitch that fucking ignored me, the bitch that did this. The chick that was my girlfriend and never fucked me."
+  },
+  {
+   "t": 5443.9,
+   "text": "Like, yeah, they came out of the woodwork. And did they both hit you up too? Everyone hit me up. They both hit me up. They were like, hey, just thought of you."
+  },
+  {
+   "t": 5453.5,
+   "text": "And I was like, oh, really? Because you fucking married a human piece of shit and your life's miserable now and you want to be with me now. You want some of this millionaire ass."
+  },
+  {
+   "t": 5462.0,
+   "text": "You want some of this fucking shit now? Fucking partying it up. I go, I do this shit with my bros, I go on hot air balloon rides with my friends, I drink champagne with my guy friends, I hold hands in Dubai. So it was just... I want people"
+  },
+  {
+   "t": 5479.6,
+   "text": "to be happy and shit, but at the same time, no, it's like a victory. It was a huge victory. I was like, everyone eat my entire asshole, I win, you lose, ha ha ha. So that's how I feel. That makes me happy for you. Oh, thanks. Awesome. So you ready to share now, or are you still going to be...?"
+  },
+  {
+   "t": 5503.8,
+   "text": "Yeah, it was 2011. I was 30 years old. Shut up. That's the beginning. And then I'm still with that same girl. Oh, fuck you, man. Shout out to Carol. That's a good shout out to Carol."
+  },
+  {
+   "t": 5517.8,
+   "text": "Come on, you really going to be the only one that doesn't share? Yeah, that's what happened. Come on, Bobby, don't be like that. You don't believe me? No, I don't believe you. What happened?"
+  },
+  {
+   "t": 5526.7,
+   "text": "That's what happened. Bobby, come on man, you're really not gonna share right now? I just shared it. [exasperated] Fuck you, dude, we know it's not true. You suck. What happened, Bobby? You're not gonna share right now? I just did. It's our virginity show. Critter shared, Valentin fucking whores"
+  },
+  {
+   "t": 5548.1,
+   "text": "for five dollars, like ten times. Ten times. Do you still think about her? Yeah. Do you ever think about her when you jerk off? Hell yeah. Do you think about the girl you lost your virginity to?"
+  },
+  {
+   "t": 5563.7,
+   "text": "No, I don't even remember. Or that time, though? I think about the time when I was in bed with Christina and Elizabeth, and, like, if I knew now what I would do."
+  },
+  {
+   "t": 5574.1,
+   "text": "I would be so... And I always wonder, if I had actually fucked them, I would have been 14 years old, and how my life would have changed. Like if I'd been the cool kid, maybe it wouldn't have changed at all. No, it did. I mean, Elizabeth still would have jumped you."
+  },
+  {
+   "t": 5591.2,
+   "text": "It did. I'll tell you exactly. And it goes back to the whole thing of getting pussy now. I got no pussy in high school, and that was the time to become... Oh, so you think you're living that now? No, I'm just saying, when guys are like, hey, how do you get girls?"
+  },
+  {
+   "t": 5608.6,
+   "text": "I go, become something, learn, be a cool person, be good at something, obtain a talent, skills. And if I was having threesomes at 13, because I know I'm a sex addict now, maybe I'd be obsessed with fucking. Like, in high school I learned how to fucking"
+  },
+  {
+   "t": 5627.8,
+   "text": "spray paint, I learned how to play drums, because I had so much time on my hands. I would do these intricate drawings that I would never be able to do if any girl gave me any attention, because I got zero attention. I'd be at home, my hand cramping up, drawing these tiny"
+  },
+  {
+   "t": 5643.3,
+   "text": "tiny drawings, then playing drums on cardboard boxes. That's not true, though, because it's not like girls only want you because of what you do and your talents. You're a funny person, and at the end of the day, funny trumps everything. I know, but you become funny"
+  },
+  {
+   "t": 5658.8,
+   "text": "through pain, through, you know... Like, if you're getting girls already at a young age... So I don't know, if you're a dude out there listening and you're like, oh fuck, I don't get any girls, I have no money, I have no looks, I have nothing, it's like, work on your humor, your sense"
+  },
+  {
+   "t": 5675.4,
+   "text": "of humor, laugh at yourself, and work on a skill or talent, cultivate that talent. Because that gives you confidence, and girls like confidence. It smells like Axe body spray. Confidence in a bottle. Or just get some Axe body spray. So basically, you're really not going to share, Bobby? Well, I'll tell"
+  },
+  {
+   "t": 5704.8,
+   "text": "you one thing. It's funny, because I had that same experience with the little sister... I mean, I know the house you're talking about. So that was funny. Christina and Elizabeth? Yeah, I knew the little sister. So it's the same deal, like five years later. Oh, you"
+  },
+  {
+   "t": 5719.8,
+   "text": "hooked up with the little... not hooked up, but it was like what you're saying, holding hands, calling each other boyfriend-girlfriend. But we'd go to that house and everybody would kind of hang out. It was the house where... yeah, there's always that one house. The dad was the... they have everything in the pantry, the dad was the coolest dude, he was the voice, I won't give"
+  },
+  {
+   "t": 5740.6,
+   "text": "it away, but he was the voice of a horror movie, so he could do these crazy voices. The voice of a character in a horror movie? Can I guess it? No, if you guess you'll know it. Was it in the last 10 years?"
+  },
+  {
+   "t": 5757.7,
+   "text": "No, it was from that time in the 90s. Oh, I totally know what it is. And it's funny because... Does it rhyme with cream? No, no, no, no. I wonder what that is. Scream."
+  },
+  {
+   "t": 5768.4,
+   "text": "My buddy was from that movie. Really? And the dad would never do the voice because it would hurt his voice. Yeah, because he had to talk like this. No, I didn't even do it right. That's what I heard."
+  },
+  {
+   "t": 5779.4,
+   "text": "I didn't even do it right. I guess I don't know many horror movies. Whatever. So what happened? With the girl? Nothing. You touched her pussy? Over the pants boob rub? Boner hug? Will you just tell us how old you were?"
+  },
+  {
+   "t": 5795.5,
+   "text": "Yeah, how old were you when you lost your virginity? Come on. Born again, or the real one? What? The born-again virginity? The first time you ever did anal? What? Did I just say that?"
+  },
+  {
+   "t": 5811.2,
+   "text": "Did you say that? It's like it's just been too long since we last mentioned anal. And it's just... I don't know. It must have been 18 or 19. Which one was it? 18 or 19?"
+  },
+  {
+   "t": 5822.6,
+   "text": "I can't remember. It means 19. You were 19. I think we can all... I was in college. And then first time you did anal?"
+  },
+  {
+   "t": 5831.4,
+   "text": "Probably like 23. The only time. You only did anal once in your life? Yeah. That's bullshit. I bet Carol would totally be down for anal. You did anal with Carol, right? No. She seems like she'd be so down. You never stuck it in her pooper?"
+  },
+  {
+   "t": 5851.9,
+   "text": "By accident, and then she said, oh, wrong spot. That happened to me once and that turned me off of anal for a really long time. I mean, it didn't go in, but it was pointing in the wrong direction. What happened with you? So, before I left to Afghanistan, you had to run a bunch of errands for me."
+  },
+  {
+   "t": 5870.3,
+   "text": "And, you know, that was a real rough time for me, because that's when I fired Yoshi and had the big thing with him. But then I felt relief, I was like, okay, Yoshi is out of my life professionally, I don't have to fucking deal with any of his shit anymore."
+  },
+  {
+   "t": 5887.3,
+   "text": "Now you're just back to friends. Now we're just back to being friends. But it was still super stressful. And I started getting all these... What happened? Oh, you want me to talk about it? Yeah, all right. So there's a fan of the show, he's a real nice guy. Oh yeah, you sent"
+  },
+  {
+   "t": 5906.0,
+   "text": "this to me. Yeah, I mean, Bobby's freaking out, because basically Yoshi's cut out now, right, so he's not using me for rides, and he starts using our fans. He was... Wait, but we don't know that. No, we do know that, because he said, I'm down the street with a friend."
+  },
+  {
+   "t": 5926.3,
+   "text": "And the friend was this fan. Yeah, I can explain it. Yeah, explain it. So I'm going to write Yoshi's last check. So he's going to come by my place just to pick it up."
+  },
+  {
+   "t": 5936.8,
+   "text": "And I'm like, that's cool. So he comes by and he's like, I'm going to go eat lunch by your place with a friend. So I'm like, okay, that's cool. And he tries to kind of change the date."
+  },
+  {
+   "t": 5951.7,
+   "text": "I'm like, Yoshi, I set it up so I could meet you at this time, everything else revolves around that. He's like, okay, cool. So he comes in, it's real quick, and I'm like, where's your friend?"
+  },
+  {
+   "t": 5962.7,
+   "text": "He's like, oh, he's at the restaurant. I'm like, he's just waiting there? So it's kind of weird that he didn't just bring his friend over. Yeah, but Yoshi's strange like that. So he orders the food and the food's waiting for him down the block."
+  },
+  {
+   "t": 5974.8,
+   "text": "I give him the check. And then the same friend texts me and says, hey, I just had lunch with Yoshi and I took him to the airport. And then I realized... okay, here's the text. How did he have your number? Here's the text from Bobby. [reading] Dave, freaking stalker alert! 10 out of 10. Yoshi came by my place to pick up his last"
+  },
+  {
+   "t": 5997.7,
+   "text": "check and brought superfan Ed. Well, he already knows who he is now. All right, let's just call him Ed. Superfan Eddie from Torrance drove him, they ate down the block, and that superfan probably knows where I live now. Why did you let this happen?"
+  },
+  {
+   "t": 6010.4,
+   "text": "What the fuck? Me? Who the fuck is Eddie the superfan? Yoshi had him take him to the airport. And I write, who is he? How is Yoshi fired and still ruining my life? I'm done. I ain't going out like Lennon. I'll just be remembered for Bobby trivia."
+  },
+  {
+   "t": 6027.9,
+   "text": "Okay. Wait. It's not done. [reading] Yoshi tells me he's gotta go because he's having lunch down the block with a friend! Exclamation marks. You mean punctuation? Yeah, punctuate. And then you go, he probably knows where... superfan probably knows where Showbizowitz lives"
+  },
+  {
+   "t": 6050.2,
+   "text": "because Yoshi was there. So now, can I tell him where you live, because it's pretty much your fault and you caused this. Damn, Dave, every fucking star needs his privacy. I'm gonna have paparazzi and be part of those Hollywood bus tours now because of you. On star maps. Yeah, I'm out. That was my last"
+  },
+  {
+   "t": 6066.2,
+   "text": "episode, Dave. I'll have your manager draft a press release. I'm going to get out while I can. I don't want to end up like Lennon."
+  },
+  {
+   "t": 6076.0,
+   "text": "Wait, hold on, hold on. Question number one. How do we know he's a superfan? Because he came to Dave's show. He came to my stand-up gig at UCLA. Oh, so this is someone who was already in the picture."
+  },
+  {
+   "t": 6087.3,
+   "text": "He came to this thing and knows who you are, knows who I am. Superfans will know anything about the show. So they know Bobby, they know... They knew Carol. They knew Carol. So he asked... you know Bobby's a nice guy, so at the thing he asked Bobby for his number, and of course you fucking gave it to him."
+  },
+  {
+   "t": 6102.0,
+   "text": "I'm inexperienced in these things. Why did you give him your number? Yeah, why the hell did you give your number out? Don't give your number out. So he gives Bobby... At least be like, you can have my email. So then superfan Eddie fucking hits Yoshi up. And for those of you who don't know,"
+  },
+  {
+   "t": 6116.2,
+   "text": "Yoshi responds to everything on Twitter. If you respond to him, he'll say something. If you tweet him, he will respond. So he fucking gets superfan Eddie to drive him to the airport and buy him lunch and then drive him."
+  },
+  {
+   "t": 6131.4,
+   "text": "How do you know they're not originally friends? They're not. There's no way. So what? So you're freaked out now? Maybe they became friends. You're freaked out now? No, I think you should have him on the show."
+  },
+  {
+   "t": 6145.8,
+   "text": "Who? Superfan Eddie? Superfan Eddie. Okay, but maybe superfan Eddie got Yoshi's number just like he got Bobby's, and then they became genuine friends. Why can't a friendship start like that?"
+  },
+  {
+   "t": 6160.3,
+   "text": "That's true. And the thing was, he owes me money. So he was going to pick up the check, and Bobby was giving you the option."
+  },
+  {
+   "t": 6171.7,
+   "text": "Like, do you want to take this money we owe you, or do you want to pay back Dave's loan? And then he was like, no, I'll pay Dave later, I'm going to take a loan from Russell Peters to pay Dave back."
+  },
+  {
+   "t": 6181.3,
+   "text": "So now he's going to owe Russell Peters money. What? Jesus. Fuck you, man, you gotta cut that out. Cut what out? Like I'm a fucking bank now? Sorry, Yosh. Why the fuck is he telling fans where your house is? There's no respect. That's why he came along. Yeah, the guy"
+  },
+  {
+   "t": 6200.1,
+   "text": "Eddie sat outside your house, he fucking knows where you live now. No, he was down the block eating. All right, whatever. I want to talk a little bit about... you know, we talked before about our trip to Afghanistan. So we get to Dubai, and we find out"
+  },
+  {
+   "t": 6222.5,
+   "text": "that there's three North Korean restaurants. North Korean? North Korean restaurants, run by North Korea, outside of North Korea. And one of them just happens to be in Dubai. And we're like, wait, how? There's a North Korean restaurant? Escape? No, they were sent out. They were sent by North Korea to promote"
+  },
+  {
+   "t": 6249.6,
+   "text": "North Korea. As far as I know, from what I read, there's only three of them, and one of them just happens to be in Dubai, and we were in Dubai. Is North Korean food like Korean food? The restaurant we went to... well, we went on Yelp and it goes,"
+  },
+  {
+   "t": 6265.5,
+   "text": "there's this crazy North Korean restaurant, it's impossible to find, and the food tastes like shit. And I'm like, I have to go see it. Of course. So how long did it take us, Critter? Like an hour, two hours? Forever. We were driving in circles, nobody's heard of it, nobody knows where"
+  },
+  {
+   "t": 6280.9,
+   "text": "it is. It even says it's impossible to find. So we know the area, and all the pictures and descriptions are like, the food is to be desired, it's horrible, tastes like shit. And I'm like, we just want to see it. We'd"
+  },
+  {
+   "t": 6296.2,
+   "text": "heard all these weird things about it, so of course you have to go. And Critter spots it, he's like, there it is. So now we're in the fucking Middle East, in a North Korean restaurant, and the second you walk in, you walk into North Korea. There's a woman"
+  },
+  {
+   "t": 6313.5,
+   "text": "just staring out into nothing, she's just standing there, always a woman keeping guard, looking out. And then there's signs everywhere, do not videotape, do not take photos. Wait, is it a nice place or a shitty place? No, it's sort of nice, but the food is all normal Korean food, just prepared like"
+  },
+  {
+   "t": 6333.5,
+   "text": "shit. The photos in the menu are shitty, it's like shrimp with ketchup. [to Critter] Stop touching the fucking mic. He's asleep. He's a big bear. See, that's what happens when you're too comfortable, that's why the seats are a little uncomfortable so you stay alert and awake. I'm jet-lagged. So anyway, there's 15 women in there that are all sort of... you would"
+  },
+  {
+   "t": 6358.3,
+   "text": "have died, I mean, some of them are really beautiful, and some are just whatever, but it's all women, there's not any men, and they're just horrified. They're all dressed in really traditional Korean... Horrified that what, that you're there?"
+  },
+  {
+   "t": 6375.9,
+   "text": "They're just... you can tell they just want freedom. What are you doing here? Why are you here? Where are you from? How did you hear about us? And they all serve food and they all sing, dance, and play an instrument. They're like geishas. Yeah. So we're sitting there and then they bring the food out."
+  },
+  {
+   "t": 6392.3,
+   "text": "I'm being a little harsh, because I eat Korean food all day and my mom makes the best Korean food, but this food was horrible. And then this lady comes out and she goes, okay, thank you for coming."
+  },
+  {
+   "t": 6405.7,
+   "text": "And I hope you guys enjoy the show now. Was there anyone else in the restaurant? There were like six or seven other Koreans that looked shady as shit. And there's a lot of looking around, and you feel off, there's a lot of whispering and a lot of watching."
+  },
+  {
+   "t": 6427.2,
+   "text": "There's tons of watching. And you're like, are they spies? And then someone sent me an article later saying yes, they are spies. But then we're eating... they're spies, why don't they just pretend to be South Korean? I don't understand anything about it. So then the lights dim and they come out,"
+  },
+  {
+   "t": 6448.8,
+   "text": "and they're dressed like the cutest 50s go-go rock band. And one chick comes out with a bass, that's like my weakness, chicks who play bass, that kills me. And one chick comes out with a fucking keytar, and they play this... it's like a girl go-go band, and the chick is ripping on"
+  },
+  {
+   "t": 6467.1,
+   "text": "the bass like Flea. And then the other chick goes on the keytar solo, and these are skinny beautiful Korean chicks, and I'm like, whoa, that's awesome. And I'm trying to be slick and take pictures, and immediately I take out my camera and they're like, sir, put your camera away."
+  },
+  {
+   "t": 6488.2,
+   "text": "And I'm like, fuck. So they do dancing, singing, they're playing drums. And then this chick comes out and sings a karaoke song, and I've never heard the song."
+  },
+  {
+   "t": 6504.3,
+   "text": "It's an English song, her accent was super thick, but you see the words, and it's like, [singing] and if you just wanted to go away with me tonight, I would in a second, I would go anywhere with you, please rescue me from this prison of life I'm in. [whispering] And she's doing this, making eyes, singing these words, feeling"
+  },
+  {
+   "t": 6525.5,
+   "text": "the shit, like, please. And I'm like, oh my god, what the fuck. And then the lights go on and they're just talking to me with their eyes, like, you can't... they're being watched. Yeah, they're like, get me out of here. And Critter took a piss and he's like, there's a fucking"
+  },
+  {
+   "t": 6547.4,
+   "text": "washing machine in the bathroom. So we come back and they're just interrogating me, they're like, who are you, why are you here, how did you find out about us, what do you do back home. And I'm like, oh, well... and it was the day"
+  },
+  {
+   "t": 6561.7,
+   "text": "that the Bourdain show came out on CNN. And I was like, oh, if you turn on the TV right now you'll see me on TV, I'm with all these guys. And they're like, TV? They have the karaoke machine but there's no cable. I go, oh, internet, you want Facebook? They're like, no Facebook, no"
+  },
+  {
+   "t": 6581.2,
+   "text": "internet, no TV. And I go, it must be cool for you guys to be here from North Korea, you can go swimming at the beach and whatever. And they're like, no, they live and work in the restaurant and they can never leave the restaurant. No wonder they're so good at their instrument. Yeah,"
+  },
+  {
+   "t": 6598.9,
+   "text": "that's exactly what I thought, I was like, you can't rip on the bass like that unless that's all you do all day. And so, of course, I've been in this scenario before, where I'm around this kind of human slavery situation, and I'm like, I just want to save"
+  },
+  {
+   "t": 6614.9,
+   "text": "all of them, they're so cute, and they had these big doe eyes, like, please. Am I making this shit up? No, it was terrifying. It was terrifying. Without saying it with their mouths, they were saying, please, rescue us. Like,"
+  },
+  {
+   "t": 6630.5,
+   "text": "you could tell they wanted help. Yeah, they wanted help. And the girl at the door just wouldn't... she did not move, she just stared. There's a girl just standing at the door looking out the whole time. Is there anything you can do about it? So I was thinking..."
+  },
+  {
+   "t": 6644.1,
+   "text": "I was like, I'm going to tip our girl like a thousand dollars. And they're like, they'll probably just take it and kill her, beat her or something. And I'm like, is that worse, to be in North Korea where it's miserable and a prisoner,"
+  },
+  {
+   "t": 6660.1,
+   "text": "or be someplace where there's sun and it's free, but still be a prisoner, like, you can see what you're missing? It's like the girl looking out the window, that's the world, and I'm like, Ariel."
+  },
+  {
+   "t": 6676.3,
+   "text": "So I don't know, we paid for our food, and I palmed a couple hundred bucks and gave it to the chick, and I thought, she'll either take it or she won't. And she took it. I think the scenario with all these girls is they're probably sex slaves, there's probably some dude in the back"
+  },
+  {
+   "t": 6692.6,
+   "text": "just gathering information, I don't know what the fuck they're doing. But if you try to run, they'll kill your family in North Korea kind of thing. They didn't know anything. We were trying to flirt with them and talk, and they were like, what? They didn't know anything about..."
+  },
+  {
+   "t": 6709.3,
+   "text": "Of course not, if they're straight from North Korea, but into this prison in Dubai. But then, because we were goofy, I was like, oh, can I rip on your drums? And they're like, what? And I was like, yeah. So I went on the drum set and I"
+  },
+  {
+   "t": 6725.3,
+   "text": "play a crazy drum solo, and they're like, oh, we had fun with them. So then they were begging us to come back, they're like, will you come back tomorrow? And I was like, no, we're going to Kabul tomorrow. And they're like, what? I'm like, fuck, dude. So there's"
+  },
+  {
+   "t": 6742.2,
+   "text": "nothing you can do about it, right? I mean, that's my whole life, is like... And who do you even alert in that situation? Their authorities are so... they're so brainwashed that I don't even know if..."
+  },
+  {
+   "t": 6755.8,
+   "text": "What they could do with freedom. Right, you know? Like, would they even be happy? Yeah, if somebody even came to get them, they'd probably be like, no, we don't want to leave. And they probably wouldn't even know how to function."
+  },
+  {
+   "t": 6766.9,
+   "text": "Yeah. And their families would get killed. I mean, I don't know if they actually do that, but I'm sure... No, but I'm sure, like, how else do they? They were super brainwashed."
+  },
+  {
+   "t": 6777.8,
+   "text": "And then... And then me, Critter, and Estevan, we would walk the beach every day just holding hands. Estevan was holding hands too? No, it was mostly me and Critter. I don't really see him holding hands. We held hands once, I think, it was very beautiful, but as a joke."
+  },
+  {
+   "t": 6800.6,
+   "text": "On my birthday, when I was in Afghanistan, the girl that works for Saad made me a tie-dye rainbow burka, and I wore it for fun, like, hey, I'm going to wear a burka. It's miserable. I like Halloween just as much as the next guy, but you're dressing up as a ghost every fucking day. I wore it for 15 minutes and wanted to go crazy. But I blew my birthday"
+  },
+  {
+   "t": 6820.8,
+   "text": "candles out wearing it. And you're just a... just your eyes were out? Yeah, no, just the eyes are covered with another thing, like a sheer kind of thing. And I made fun of the black guys that were at Atlantis in the Bahamas, because"
+  },
+  {
+   "t": 6841.9,
+   "text": "there's black guys that go swimming with their socks on, and that seems so disgusting and uncomfortable. But then we go to Atlantis in Dubai and these people are swimming with their fucking burkas on."
+  },
+  {
+   "t": 6853.7,
+   "text": "Like, how uncomfortable is that shit? So we're walking down... Wait, hold on. Black guys were swimming with their socks on? Yeah, and I Googled it when I got home and I still can't figure out why."
+  },
+  {
+   "t": 6865.1,
+   "text": "Because you know in porn, black guys keep their shoes on when they fuck. They definitely have something in their culture with keeping their feet covered, for sure. Because I've seen that too, when they fuck on the pornos."
+  },
+  {
+   "t": 6875.1,
+   "text": "They're always wearing socks or their shoes or their Timbalands. And a lot of times they take their pants off and then climb back into their shoes, like off-camera. I don't know what the answer to that is."
+  },
+  {
+   "t": 6885.1,
+   "text": "So we experienced this super... we felt weird for days after that North Korean thing. I didn't know what I could do in that situation. Or maybe they're so brainwashed that they just accept it."
+  },
+  {
+   "t": 6898.2,
+   "text": "But then right outside, we're walking down the beach, and there's women tanning and swimming at the beach in their fucking burkas. And they're doing the same thing. Estevan was like, hey dude, look at that girl."
+  },
+  {
+   "t": 6910.5,
+   "text": "And we look at their fucking eyes and they're so sad. Like, they're wading in the water, moving their hands in the salt water, the gentle waves coming in, and they're in a full fucking burka."
+  },
+  {
+   "t": 6925.0,
+   "text": "And it's like this. I mean, if you're a woman, the Middle East is the fucking worst place that you'd ever want to be, I guess. That sucks. It was crazy."
+  },
+  {
+   "t": 6937.8,
+   "text": "So we get there, and... have you ever been to Afghanistan, or do you want to? Never. And you don't want to go? I mean, the shit was crazy."
+  },
+  {
+   "t": 6949.8,
+   "text": "We get so... So if I were to go there as a tourist, would I have to wear a burka? Or would it be considered disrespectful if I didn't? You know, the number one thing you can't take photos of is any police institutions or checkpoints with army soldiers."
+  },
+  {
+   "t": 6968.9,
+   "text": "And I was like, fuck, if you came and we had you dressed up and you weren't wearing anything underneath, and we had shots of checkpoints with military people with Asa in the background flashing your pussy, those photos would be amazing, and we would get killed."
+  },
+  {
+   "t": 6983.0,
+   "text": "Right. We would get murdered for those. They'd throw us in jail, never to be heard of again. So the place is just fucking crackling, because we could walk outside right now and get killed."
+  },
+  {
+   "t": 7000.6,
+   "text": "But when you're in a place where you can get kidnapped or blown up at any moment, it supercharges things, weird romances happen and this and that. And, you know, everyone here has heard Yoshi talk, like, oh, I love Afghanistan,"
+  },
+  {
+   "t": 7013.1,
+   "text": "it's the most beautiful place, that was my favorite place to vacation. And it sort of is, it's beautiful. And we get there and Saad is just fucking taking care of us, he lets us stay at his house, he introduces us to Muslim Hyatt, am I saying his name right? So the second you"
+  },
+  {
+   "t": 7037.4,
+   "text": "get off at the airport in Kabul, there's this cool-looking dude that looks like the Afghan Bob Marley, his name's Massoud, and his picture is everywhere. This is the number one freedom fighter, they call him the Lion of the Panjshir Valley. So it's sort of like Vietnam,"
+  },
+  {
+   "t": 7057.5,
+   "text": "this dude is martyred out there, he's fucking worshipped, like he's a god. People have photos of him everywhere, on their cars, and every building has a picture of him. And you're like, who is this guy? My thing with traveling is I'm super ignorant, and I'll"
+  },
+  {
+   "t": 7077.6,
+   "text": "just say that right now. People go, oh, you didn't know this? Yoshi's the opposite, he researches everything and knows the dates. I'm like, I don't know Taliban from jihad. And Saad's like, you're gonna hang out with the number one jihad guy today. And I'm like, whoa."
+  },
+  {
+   "t": 7095.4,
+   "text": "Like, jihad just means holy war, or, I don't know. So this guy is the national hero. The Taliban, al-Qaeda, killed him two days before 9-11. They're like, we need to take this guy out before we take..."
+  },
+  {
+   "t": 7110.6,
+   "text": "Oh, he's dead? Yeah, he's dead now. But he looks cool as shit. And I didn't know anything about him until people were telling me. So there's this place, Panjshir Valley, in the northern part of Afghanistan, which is just a narrow valley."
+  },
+  {
+   "t": 7126.4,
+   "text": "And for like 10, 15 years, they fought off the fucking Russians. They fought al-Qaeda, the Taliban. And so this is the number one guy that fought those guys off. And we're hanging out with his captain, the commander, Muslim."
+  },
+  {
+   "t": 7142.4,
+   "text": "He looks like Webster's dad. You remember Webster's dad, George Papadopolis or something? He looks exactly like that, a ruddy-faced, cute, chubby old guy. And so we're getting a history lesson from the guy that made history."
+  },
+  {
+   "t": 7160.4,
+   "text": "And this guy is like, you could tell, he's just no joke. He's made thousands... he's like, oh yes, I was a young man, and Russian fucking bombers and tanks. The Russians were like, we got these backwards people, no problem."
+  },
+  {
+   "t": 7175.1,
+   "text": "They had technology on their side, they had hundreds and thousands of troops, and they're like, we're just going to come in and take over. And then these ragtag group of soldiers in the hills just planted mines."
+  },
+  {
+   "t": 7189.1,
+   "text": "And because it's so narrow, they had the advantage of uphill and all this shit. And I mean, it was amazing, they just fought these guys off for 10 years. So we're getting a tour of Panjshir Valley with the guy."
+  },
+  {
+   "t": 7202.3,
+   "text": "Oh yeah, I blew that tank up, oh yeah, I blew that tank up and then turned that into a bomb and used it against them. And you're like, this guy's fucking badass. And I had diarrhea. And it's just unbelievable, I'm like, we're in Afghanistan with the fucking number one hero of Afghanistan, the number one jihad soldier."
+  },
+  {
+   "t": 7226.0,
+   "text": "And we have, what, 10 armed security guards with us? So we're in three cars, surrounded by guys with guns, and we end up at his relative's house, and he's like, that's where they came at us, we blew up this airplane, we did this and this and this."
+  },
+  {
+   "t": 7246.4,
+   "text": "And I'm just like, this is fucking crazy, I can't even believe this is happening. Then we go in the house and there's no water, and there's already shit floating in the toilet. Right, there was... Critter's like, I gotta piss, and then he goes and he's like, there's no water, the toilet won't"
+  },
+  {
+   "t": 7262.7,
+   "text": "flush. Wait, like just for this day? It was like a house no one stayed at, so you have to turn the water on or pay the water bill or something. So I'm like, just piss, piss on his piss, you know. And he's like... I mean, piss on the shit, you know."
+  },
+  {
+   "t": 7279.0,
+   "text": "So he pisses in the toilet, and then all the soldiers and everyone pisses, so now it's a toilet just full of piss and one shit floater. And I'm like, I had to shit, I had to shit like crazy, and I was like, am I gonna cover that piece of shit with my shit?"
+  },
+  {
+   "t": 7299.3,
+   "text": "So I just held it, and we go, and, you know, they're all Muslims, so they do the thing where they sit in a circle and they all eat with just their right hand."
+  },
+  {
+   "t": 7313.4,
+   "text": "Yeah. Because your left hand is for wiping your ass. For wiping your ass. So they're just eating like this. And it's one of those... on a trip like that, on any trip with couples, you learn about the other person."
+  },
+  {
+   "t": 7326.7,
+   "text": "This guy hates awkward silences. We're all sitting and everyone's eating and no one's talking. We're surrounded by AK-47s, and it's just breakfast time and no one's talking, it's super quiet. And you could tell on his face he just doesn't like how quiet it is. And for people that don't know, Critter has better than 20/20 vision."
+  },
+  {
+   "t": 7352.9,
+   "text": "He sees things that no one sees, he has binocular vision. He's like, look at that. And you're like, what? And then you drive a hundred feet and you're like, oh, I didn't even see that. So he goes, hey, how often do those cows fall off the hill over there? And no one can"
+  },
+  {
+   "t": 7369.2,
+   "text": "even see the cows, and the guy was like, yeah, they actually fall down pretty often. So he breaks the silence. And, you know, everyone was eating with their hands, but there was no running water, and clearly no one had washed their"
+  },
+  {
+   "t": 7388.0,
+   "text": "hands, no one washed their hands. And so, I don't really like stuff like that. And what... he had his foot on my bread. Yeah. And so I don't like stuff like that. I know you don't like it, but this is what happens in countries like this, it's just beautiful. Yeah. And so, yeah,"
+  },
+  {
+   "t": 7407.8,
+   "text": "it's a beautiful... there's a river, there's... Do you guys feel like this trip was life-changing in a way? Yeah, you get to see how... we've been hearing about this place for like 12 years or whatever, so now to actually go and see it. So going back to the"
+  },
+  {
+   "t": 7424.8,
+   "text": "whole never-talking-to-people-on-airplanes thing, so from Kabul to Panjshir Valley was like two hours, so two hours there and two hours back. And this is the total shithead American. I'm like, I should be reverent and respectful, which I was, but there's only so much history I can... you know, this guy's a living legend"
+  },
+  {
+   "t": 7448.2,
+   "text": "in our car, telling us about this and that. And at some point I just... it's not that I lost interest, I just couldn't pay attention anymore. I wouldn't have been interested from minute one."
+  },
+  {
+   "t": 7460.7,
+   "text": "I hate history. I know, but you're with the guy that made the history. Yeah, but I don't care. I know. So then it turned into, I'm like, I hate political stuff, and I can't pay attention to this anymore. And so I'm like, this sucks, because, you know"
+  },
+  {
+   "t": 7478.9,
+   "text": "they're like, it's a great honor to even meet him, the fact that he... yeah, I'm stuck. And, you know, his English is sort of poor, so it's a struggle to even understand him. And then I was like, I can't talk about this war shit anymore,"
+  },
+  {
+   "t": 7494.6,
+   "text": "and jihad and Taliban and this. And I'm like, so I start talking about pussy and fucking and shitting and diarrhea. And then this guy starts laughing. His ears perk up, because there was a lot of me pretending to sleep so he won't talk to me anymore."
+  },
+  {
+   "t": 7510.2,
+   "text": "And I was like, oh god, I gotta shit so bad. And he's like, oh. And so then I'm with this fucking war legend, telling dick and fart jokes all the way back."
+  },
+  {
+   "t": 7520.2,
+   "text": "And then, yeah, he ended up being like a super, super funny guy. And then we get back to Kabul, and he's like, you must eat at this lamb place, it's delicious. And we're like, all right, fine. So we eat outside, it's this cool patio area, and the food's delicious. And I'm like, okay, now I have to shit, I've held it in this long."
+  },
+  {
+   "t": 7540.7,
+   "text": "So I go to the bathroom, and I've been in third-world bathrooms before, there's literal shit everywhere. Stop it, I never want to go to this place ever. And I'm like, okay, it's disgusting, but I have to shit. Was it a Western-style toilet? No, it's a squatter"
+  },
+  {
+   "t": 7560.1,
+   "text": "style. So it's a squatter style, and there's a bucket full of water and a sprayer. So I squat to shit, and there's no toilet paper, so I pinch it quick, it was already coming out. And I clench my cheeks and throw my pants back"
+  },
+  {
+   "t": 7575.9,
+   "text": "on and go out. I had to find toilet paper. So I go out and there's no toilet paper, and all the napkin dispensers are empty. And I'm like, where...? And there's shit already coming out of my ass, and I'm like, oh my god. So then"
+  },
+  {
+   "t": 7595.6,
+   "text": "the guy's like, oh, here's some napkins. I grab three napkins, I run back in, and there's no lock on the stall door, it's just a wood flimsy thing hanging. So I go back in and pull my pants down, and it just comes all out in one thing, and I miss the toilet, it's like it's"
+  },
+  {
+   "t": 7612.5,
+   "text": "behind me, it's behind the hole. And I was like, oh, I guess I'll get that later. So I'm shitting, and, oh my god, I'm so grossed out, and I'm like, oh god. And then, as I'm in that squatting position, a guy just walks in."
+  },
+  {
+   "t": 7631.1,
+   "text": "With the shit behind you. There's nothing for me to... I'm trying to... Hold on, were you facing the door? No, I'm facing the wall and the door's right next to me. On the side."
+  },
+  {
+   "t": 7640.9,
+   "text": "But it's open, so I'm trying to hold the door closed and hold my pants so it doesn't touch the shit water. So he opens the door and he can see the shit."
+  },
+  {
+   "t": 7648.7,
+   "text": "He can see that I shit on the floor. And I'm like, great. You can always be like, it wasn't me. And he says something in Afghani, like, ugh. And then that happened three times, like three times."
+  },
+  {
+   "t": 7658.6,
+   "text": "And I hate this. So I'm shitting. I never fucking want to go to Afghanistan. And I see six pairs of feet now, because there's three guys waiting to use the shitter."
+  },
+  {
+   "t": 7668.0,
+   "text": "And, oh, I forgot the other thing. When I was walking to the bathroom, all the security guards eat at another table, and they're like, go, go with him. And they're like, dude, we just sat down to eat."
+  },
+  {
+   "t": 7680.1,
+   "text": "So not only am I shitting, there's an armed security guard outside with an AK-47, and I'm like, great, he's gonna know I'm shitting. So I wipe... You're telling the world now you're shitting. Well, I don't give a fuck. Well, it's a lot of pressure. I wipe with my two napkins and my ass is still sort of shitty,"
+  },
+  {
+   "t": 7698.1,
+   "text": "and I take the sprayer, which has no water pressure. Ew, you touched the sprayer? What am I supposed to do? So the water sprayer's not pushing the shit back into the hole. What is it, like a shower head?"
+  },
+  {
+   "t": 7711.4,
+   "text": "Yeah, but there's no water pressure. Can you imagine how many shitty hands have touched that? Yeah, so I used the metal part to just push the shit in. Oh my god. Oh my god."
+  },
+  {
+   "t": 7721.8,
+   "text": "Please don't touch me today. So then I come out of the bathroom, and I'm like, I probably have a skid mark on my underwear right now, and I need to get back to our place."
+  },
+  {
+   "t": 7732.5,
+   "text": "And then later that night was when that kid ran towards us, the suicide bomber story. And he was trying to sell his tissues. I was like, where the fuck were you three hours ago?"
+  },
+  {
+   "t": 7746.8,
+   "text": "So that was, you know. Are all the toilets in Afghanistan...? No, they're not all like that. Some of them are like that. Just at nice restaurants? Yeah."
+  },
+  {
+   "t": 7758.8,
+   "text": "Oh my god, that's so gross. And they say there's no gambling out there, but they fight everything. They fight quails, dogs, chickens, rams, I don't know. It was crazy. Oh, we went to Cappadocia in Turkey."
+  },
+  {
+   "t": 7780.1,
+   "text": "It's like where people live in caves. So it looks like where the Jawas live in Star Wars. It looks like Mars. And while we're out there, it just looks like you're on another planet."
+  },
+  {
+   "t": 7794.0,
+   "text": "So we go down there, it was me, Critter, and Estevan, we hiked all the way down this hill to get this picture of a crazy-looking hut-cave building. And as soon as we go in there, there's a tiny little skinny dog, like it's about to die,"
+  },
+  {
+   "t": 7814.6,
+   "text": "and then another tiny one, just as big, trying to protect... trying to get us away. Like its mom? I mean, it was the cutest, saddest picture ever. So the mom jumps on that one and is growling at us,"
+  },
+  {
+   "t": 7826.9,
+   "text": "like, get the fuck away from us. But they're both, you could see their ribs, and they're both shaking. And I'm like, oh fuck, this sucks. And so Critter took his shirt off and gave it to them, like a blanket."
+  },
+  {
+   "t": 7838.9,
+   "text": "Oh, Critter. Yeah, girl. And so now Critter's topless with his chest hairs out. This story is so going to get you laid, I bet. Well, here's the thing. So Turkey, Dubai, Afghanistan, it's lamb. They have cows and shit, but pretty much it's lamb, lamb, lamb. And so we had"
+  },
+  {
+   "t": 7864.4,
+   "text": "this lamb for lunch, mixed grill, all this shit, and I was stuffed, and that was maybe an hour before we hiked down this thing. And these dogs are so fucking skinny and shivering, and it's hot outside."
+  },
+  {
+   "t": 7879.3,
+   "text": "So they're definitely going to die. So Critter wraps them in the shirt, and they're looking at us with the saddest eyes ever, like they can't even... they don't have enough energy to move."
+  },
+  {
+   "t": 7889.9,
+   "text": "So I'm like, fuck, I didn't know we were going to go in a cave and see two starving... Yeah, that's so sad. So I'm like, I have Tic Tacs and breath mints, which I think kill them, right?"
+  },
+  {
+   "t": 7901.3,
+   "text": "Between the three of us, we had chewing gum, Tic Tacs, and breath mints. There was nothing to give them. And I'm like, great. So I'm just like... You could just throw up."
+  },
+  {
+   "t": 7912.7,
+   "text": "Oh, you did that? Yeah. So I'm like, I'm this fat American, I can't even walk because I'm so fat right now. And then I was like, wait, I just ate, it's been an hour."
+  },
+  {
+   "t": 7922.8,
+   "text": "I can still feel full. But I don't know if that's disgusting or if that's mean. No, I think that's the nicest thing you could do. So I asked Critter and Estevan,"
+  },
+  {
+   "t": 7933.8,
+   "text": "I was like, you think that's fucked up? And they're like, go for it. So I stuck this pen down my throat and puked all my lamb chunks, and there were some nice chunks in there."
+  },
+  {
+   "t": 7941.9,
+   "text": "Yeah, there were some great chunks. And I puked it right next to them. And then, you know, they were too scared to come out to eat it. I'm sure as soon as you left..."
+  },
+  {
+   "t": 7951.2,
+   "text": "Well, he saw it. We couldn't see it, because he's got the eagle eye. So we left. Is that fucked up, for dogs to eat puke? No. I know that they puke and eat their own puke."
+  },
+  {
+   "t": 7961.8,
+   "text": "They eat shit. I mean, they're hungry. Yeah, no. And there's lots of animals out there that do puke. Yeah, like baby food."
+  },
+  {
+   "t": 7972.5,
+   "text": "That's the nicest thing you could have done. Well, so that's what we did. And then, I mean, we were like freaks out there. Like, I can't grow facial hair."
+  },
+  {
+   "t": 7983.0,
+   "text": "When we were at the airport, there's all these Muslim people in their Muslim clothes and the women in burkas. And every now and then you see one with a bright red beard, and you're like, what the fuck, like a ginger? No, they dyed it red. Which looks crazy, right? Yeah, like they"
+  },
+  {
+   "t": 8004.4,
+   "text": "have Kool-Aid in their beard. Like Ronald McDonald. So, like when I see black people swimming with socks on at a water park, I'm like, what is that, is that cultural? I Google it. I'm like, what's up with the chicks swimming in burkas? They had burka swimsuits, basically. Yeah. And so when I see"
+  },
+  {
+   "t": 8022.1,
+   "text": "dudes with bright red beards, I'm like, what is that? So I looked it up, and there was like a million different explanations, but basically Muslims aren't allowed to dye their beard black, so if it starts to gray, the only thing they can use is henna, so they do that. But they have black"
+  },
+  {
+   "t": 8037.3,
+   "text": "henna... well, this is bright red. Or maybe that would be considered dying it, because henna naturally isn't black, right? So... yeah, I mean, I don't know what it was, but it says you can't dye it black. Okay, you can dye it any color except for black. Okay."
+  },
+  {
+   "t": 8056.0,
+   "text": "And also it means you just came back from Mecca or something, so it means you're really holy. So I'm like, all right, people gonna fuck with me if I do that. So I dyed my beard red. It's faded now, it looks brownish, but it was super red. We're walking"
+  },
+  {
+   "t": 8070.7,
+   "text": "around with henna... no, I went to a place and tried to explain to them, but they just used normal dye. And we have this awesome high-def photo of Critter that we turned into t-shirts, so we're walking, people think we're freaks. Yeah, so we're"
+  },
+  {
+   "t": 8089.1,
+   "text": "leaving Turkey to go back to Afghanistan, and we get the same kid, this guy TA7A, who's like our tour guide to our cave hotel. And he's like, yo, I'm TA7A."
+  },
+  {
+   "t": 8104.0,
+   "text": "He tells us his name, and later he tells us he's hip-hop. So I'm like... Hold on, his name is TA7? Tango Alpha 7 Alpha. And he's like, yo, I'm hip... it's like some RZA type."
+  },
+  {
+   "t": 8113.7,
+   "text": "Yeah, he's like, yo, I'm hip-hop. And we're like, dude, rap. And he was like... The thing about the Middle East is so many rules. Can't say this, don't do that. Yeah, it's unbelievable."
+  },
+  {
+   "t": 8126.6,
+   "text": "Don't write that, don't say that, don't wear that. When you paint, don't paint this. It's so fucking restricted, it's crazy. It's a perfect place for dating. Yeah, so it makes me want to break every rule."
+  },
+  {
+   "t": 8137.6,
+   "text": "So we're trying to fuck with this kid, and he's like, yo, I rap. And we're like, rap. And he wouldn't do it. And we're asking him all these weird questions. And I was like, fuck this place, you know."
+  },
+  {
+   "t": 8146.9,
+   "text": "And then we get to the caves, and it's the perfect place to go if you want to just unplug. There's no women, or the women aren't attractive, there's no distractions, there's shitty internet,"
+  },
+  {
+   "t": 8158.4,
+   "text": "you can't get service. So it's a good place if you want to disappear for a little bit. So we were there for a few days, and we're like, okay, cool, we got some cool pictures, I fed the dogs with my puke, let's go back to Afghanistan. And the kid that drives us back"
+  },
+  {
+   "t": 8176.9,
+   "text": "to the airport is TA7A, but he Googled us, he didn't know who we are coming in, and now he's bowing to me as I get on the bus. He's like, graffiti god David Choe in the house."
+  },
+  {
+   "t": 8189.5,
+   "text": "Estevan Oriol, a photographer to the stars, in the house. And he's like, wow. And basically, like Tom Cruise... oh no, Nicolas Cage visited Cappadocia, Turkey."
+  },
+  {
+   "t": 8204.4,
+   "text": "And they're like, what, like 10 years ago, and they still haven't stopped talking about him. Every place we went, they were like, Nicolas Cage was here. And we're like, okay, cool. So we get in the thing and I'm like, who's cooler, Nicolas Cage or me?"
+  },
+  {
+   "t": 8217.3,
+   "text": "He's like, you, of course, you're a graffiti god, I worship you, hip-hop, yo. And it's all that weird foreign shit. He's like, oh, my favorite porn star is Asa Akira and Cytheria."
+  },
+  {
+   "t": 8231.2,
+   "text": "You know who Cytheria is? I know who Cytheria is. I was like, what? She's famous for squirting. Yeah, like the original squirter. And I'm like, what? So now, everything we asked him to do on the way in,"
+  },
+  {
+   "t": 8243.6,
+   "text": "now he's doing it. Now he's showing off. Yo, you put me on YouTube, make me a star, baby. And he's doing all this shit. And I'm like, dude, we're 15 minutes from the airport."
+  },
+  {
+   "t": 8256.2,
+   "text": "We got zero pussy the entire time. We didn't even see any pussy, we didn't talk to any girls, there was no girls. You know, when you go traveling to sort of weird places, you only see old Canadians and Germans, or really young Japanese couples."
+  },
+  {
+   "t": 8274.8,
+   "text": "That's like... No, those are definitely the typical tourists. So you never really see single chicks just traveling by themselves. So he's like, oh yeah, man, I wish I knew. And I go, okay, so when we came in, you didn't know who we are."
+  },
+  {
+   "t": 8290.6,
+   "text": "So whatever. Now you know who we are, now he's animated and rapping and let's do this. And I go, we came all the way to Turkey, and now we're going to leave, and I'm not going to have that much cool shit to say about... I didn't get laid"
+  },
+  {
+   "t": 8307.8,
+   "text": "out here. And he's like, I'm sorry, I wish... Well, don't wish. Why don't you touch my dick right now? And he goes, oh, what? [everyone laughs] Just when I thought I couldn't get any gayer. I was like, you worship me. Yes, you're my graffiti god, I worship David Choe."
+  },
+  {
+   "t": 8326.7,
+   "text": "So touch my dick. Who are you to say no to a god? And he's like... I mean, you were in the car. What was his reaction? He wasn't into touching your dick. I mean, he got close. He actually..."
+  },
+  {
+   "t": 8342.8,
+   "text": "I was trying not to watch. Yeah, actually... Wait, wait, wait. What do you mean? Manly guys like Critter and Estevan get really uncomfortable when it gets to that gate. Okay, so what do you mean he got close?"
+  },
+  {
+   "t": 8355.0,
+   "text": "Like I said, I was wearing these same sweatpants. I was like, if you go right here, you can touch my dick through my sweatpants. And so he put his hand this far, at least, which I was like, whoa."
+  },
+  {
+   "t": 8367.2,
+   "text": "And he went from like a fun, festive, yo, yo, yo, to like, I don't understand. I was like, now we're 10 minutes from the airport, I want to say some kind of sexual act happened in Turkey, and I want to talk about it."
+  },
+  {
+   "t": 8380.9,
+   "text": "Oh my god, you're so creepy. He's like, what, I don't understand. I go, you just said you worship me. This is like rape, but okay. So then he's not going for it."
+  },
+  {
+   "t": 8392.4,
+   "text": "He's like, I'm not going to touch your dick, I would love to make you happy, but I can't do that. I go, then let me touch your dick. And he's like, that's really, I don't know."
+  },
+  {
+   "t": 8403.5,
+   "text": "And then? Then, like everything you're saying right now, I was so delirious and tired, and I was like, I'm creeping myself out. Like, why... what if he actually touched my dick right now?"
+  },
+  {
+   "t": 8417.9,
+   "text": "That would be... I don't want him to touch my dick, or do I? And it's like reverse molestation. I was just saying these things because I go into that weird mode. But I was like, I don't want to touch his dick and I don't want him to touch my dick. And, see, again, like a joke"
+  },
+  {
+   "t": 8432.5,
+   "text": "that only you're in on. Yeah, I mean, Critter was looking away, Estevan was like... You're the only one laughing inside. Yeah, definitely. So how did you guys leave things?"
+  },
+  {
+   "t": 8447.4,
+   "text": "And his business guy, I think, was really enjoying it. So, yeah, I mean, I'm Facebook friends with TA7A, and I'm also Facebook friends with Muslim Hyatt. I love that his name is TA7A. Well, that's not his name, that's his..."
+  },
+  {
+   "t": 8461.4,
+   "text": "I know, but I like it. That's like, you know what RZA's name stands for? Fuck, I forgot what it was. But it's like Zig Zag Alpha or something like that. Right. Oh, what is RZA's name? I don't know."
+  },
+  {
+   "t": 8478.8,
+   "text": "But it's hard for me to talk about, you know, people go, oh, when in Rome. Everything I say sounds judgmental, because I guess I'm judging. You're like, oh, look at how they treat their women."
+  },
+  {
+   "t": 8494.0,
+   "text": "Like, who are we to judge? And it's just like... like I said, you remember that episode of Tyra where she... She wore the fat suit. She wore the fat suit. Yeah, just to see what it feels like."
+  },
+  {
+   "t": 8504.3,
+   "text": "I wore the burka for 15 minutes and I hated it. You know, it's just... Yeah, I can only imagine. I can't believe you just compared yourself to Tyra. Here, I'll put it like this."
+  },
+  {
+   "t": 8517.3,
+   "text": "I'll put it like this. But when Tyra did it, it was the most... it would make me... Obnoxious, offensive thing ever. If Critter didn't get his beanbag, right?"
+  },
+  {
+   "t": 8528.2,
+   "text": "He'd be sitting up here. And what he's doing down there right now would be bugging the shit out of me. He'd be touching everything up here, fidgeting. And it's because he's uncomfortable."
+  },
+  {
+   "t": 8537.4,
+   "text": "And then that would make me uncomfortable. When I was a fucking kid and my grandmother was pretty much raising us, and the Choe women are farters, they rip farts, and the stove where my grandmother served us the food would be eye-level to us as kids, right to her ass."
+  },
+  {
+   "t": 8558.2,
+   "text": "So she would fart literally right into our face. But that doesn't have anything to do with the story, just remember that. So she would fart right into our face, but then she would make us these... she learned how easy it was to cook spaghetti, you just heat up the sauce and make noodles."
+  },
+  {
+   "t": 8571.5,
+   "text": "So, you know, we were little kids, she would cook for each person, she would throw boxes of pasta, and it would make all this pasta, so she would make a mountain of pasta for each of us, but then just stand there and watch us eat it."
+  },
+  {
+   "t": 8587.7,
+   "text": "And we were like, sit down. And she wouldn't sit down. Grandma, sit down. And she would be like, [imitating grandmother] I just love watching you guys eat from up here, like my little birds. And it just made me so uncomfortable. And I guess that's exactly the way I felt the entire time"
+  },
+  {
+   "t": 8605.7,
+   "text": "I was in the Middle East. It's just, we're having fun, and then you're like, oh, oh yeah, they're not having fun. And it just... I don't know. The politics and all that shit bores me too, but that is a fucking backwards place. And a guy like... do you think"
+  },
+  {
+   "t": 8626.6,
+   "text": "it's made you more appreciative of what we have here? Definitely, but also I fucking loved it out there. I love the vibe of that place, and it is the Wild West, and we do have friends there now, so it's exciting. Yeah, it's super exciting. You think you'll go back?"
+  },
+  {
+   "t": 8645.0,
+   "text": "Yeah, I mean, we could go back there and make a movie for... like a movie that would cost millions of dollars here, we can make it there for probably half a million, and we have access to everything. And, you know, when I buy my soccer team,"
+  },
+  {
+   "t": 8660.6,
+   "text": "I gotta go coach them once in a while, manage them, of course, give your Al Pacino speech. So, I don't know, for me, I just try to make sense of those kinds of things. And while we were there, it was either in Turkey where... where did it happen, where the guy got kicked out of the soccer game,"
+  },
+  {
+   "t": 8683.2,
+   "text": "the fan, for being too good looking? Saudi Arabia. Yeah, so while we're in the Middle East this story comes out, and it's like, oh, it was while you were there. Yeah. Were you a little jealous? What? I want to see a picture of the guy. He's very handsome, there's pictures of him"
+  },
+  {
+   "t": 8700.6,
+   "text": "everywhere. Really? He is really, really handsome. Oh, you heard about this story? Yeah, it was a big story over here. But he got kicked out of the country though? He was a tourist. This is what it reminds me of, as a culture, if I judge the entire Middle East as one"
+  },
+  {
+   "t": 8718.9,
+   "text": "person, it's like when you start dating a girl and you're like, who's texting you right now? It's just this insane, insecure... I think it all just goes back to sex. Like, why the fuck would you cover up your women like that? It's just like, don't look at my bitch, don't"
+  },
+  {
+   "t": 8736.9,
+   "text": "fucking touch her, don't talk to her. It's just this insane, like, short-dick complex or something. Do you think that's what it is, though? I know they try to say religion and stuff, but who are they hiding them from? The tourists, man, anybody. They're like,"
+  },
+  {
+   "t": 8753.8,
+   "text": "don't... all the shit that we get away with out here. I want to see what they look like. Oh, it just drives you crazy. Like, if you see an ankle or something."
+  },
+  {
+   "t": 8762.5,
+   "text": "Yeah, I mean, their eyes, some of them have just beautiful eyes, and they're looking at you, and you're just like, oh, what do you look like underneath that thing?"
+  },
+  {
+   "t": 8769.9,
+   "text": "Yeah, I mean, it just... I imagine them to look like Israeli women. You gotta go to Florida with it, Dave. Well, you know, like on Instagram or Facebook or any social media, when you want to see what the chick looks like,"
+  },
+  {
+   "t": 8783.5,
+   "text": "and she has pictures of just her lower face, or just the left side, you know she's ugly. She found the one part of her face that looks cool and just is showing you that much."
+  },
+  {
+   "t": 8794.5,
+   "text": "But it drives you crazy because you're like, fucking let's see the whole thing. And every picture is from like that one angle. Yeah, exactly. It's the same thing when you see the chicks in the burka, you're like, what the fuck do they look like under there?"
+  },
+  {
+   "t": 8807.6,
+   "text": "And then you never really... Smoking hot. Oh man, that would be kind of awesome. I would just get totally fat. You would? Yeah. But you can't really eat that, I mean, it's such a pain in the ass to eat the snacks."
+  },
+  {
+   "t": 8821.8,
+   "text": "Yeah, that's true. Well, they don't have to wear it inside, right? Their husbands can see them, right? Well, at their house, probably, yeah."
+  },
+  {
+   "t": 8833.1,
+   "text": "Yeah, I mean... Like their husbands can see what they look like, right? Yeah, I mean, yeah. But in public, it's just... I don't know, it's just so backwards. But then, is our society any better? Asking deep questions, who knows. I mean, there was so many... every fucking place I went"
+  },
+  {
+   "t": 8856.0,
+   "text": "I would ask, there was an underground city, I mean, just the shit we saw was amazing, and I was like, did anyone ever film a porno here? And they're like, no, no, and stop asking those questions, you'll get beaten. There's like a bombed-out royal palace we went to, and I was like, dude, this would be an amazing backdrop for"
+  },
+  {
+   "t": 8874.9,
+   "text": "porno. And I don't know, two things will happen, either I'll go back a lot, or I'll never go back. I don't know, we'll see. You got anything for us today, Bobby? No, I don't have anything. What is your fucking problem, dude? Put my laptop away, Bobby. I got a fart bad though, Bobby."
+  },
+  {
+   "t": 8898.2,
+   "text": "You fucking didn't tell a virgin story, and you have no trivia, and you've had a two-week vacation. What do you think about this? Tell him to go fuck himself. I think you're entering Yoshi territory. Yeah, you're getting complacent, dude. What do you mean? I've got something you can smell, to be punished."
+  },
+  {
+   "t": 8918.5,
+   "text": "What is going on with you? Nothing. What do you mean nothing? You want to be off the show now, is that what's going on? No, don't say that. I don't have the trivia. Why don't you have the trivia? I just left my... turn the computer... but why would you do that, you know that we're having a show"
+  },
+  {
+   "t": 8934.2,
+   "text": "and that you're the trivia guy? I thought we'd have an extended show. What? I thought we'd have an extended show, there'd be enough time. Are you not into the show anymore, is that what's going on? Kind of."
+  },
+  {
+   "t": 8950.5,
+   "text": "Why? I don't know. I want to punch you right now. Why? Because Yoshi left. What? You're here with your man Critter, Valentin. That's true. Do you not want me in here? Is it Critter?"
+  },
+  {
+   "t": 8964.7,
+   "text": "Do you want Critter to leave? No, it's not Critter. What is it then? You had a fight with Carol? No. What is it then? It's nothing. You love the show. I do. What do you mean you do?"
+  },
+  {
+   "t": 8976.7,
+   "text": "You told me it was the favorite part of your week. Are you lying to me? No. What would make it better for you? If you're done, I'm done. If you're off the show... He needs an assistant that can get the trivia questions for him."
+  },
+  {
+   "t": 8989.6,
+   "text": "No, the beauty of Bobby trivia is that it's Bobby's trivia. What is this? Are you being passive-aggressive right now? Very. What is it? Are you tired? Are you sleeping? I'm just tired."
+  },
+  {
+   "t": 9005.4,
+   "text": "Is that it? Yeah. Is he lying? I don't know. I'm fucking representing, I'm wearing my fucking Coyotes jersey. I appreciate that. Well, what is it? What would make the show better for you, Bobby?"
+  },
+  {
+   "t": 9017.4,
+   "text": "[deadpan] It's not that. It's not about me. Well, why didn't you do the trivia today? This is about Dave. You know your fans wait the entire show for me to shut up so you can do the trivia."
+  },
+  {
+   "t": 9027.2,
+   "text": "I'll have it next time. I didn't do it. Because? I'm just tired. Fucking excuses. You want to make an apology to your fans right now? I don't think I have any fans. Are you kidding?"
+  },
+  {
+   "t": 9045.6,
+   "text": "What are you talking about? People fucking ask me about this shit all day. I guess you don't give a shit about your fans either."
+  },
+  {
+   "t": 9054.9,
+   "text": "Bobby, what's going on? What's going on with you, dude? I just have to fart bad. Let it out. Okay, fart on camera. On tape. Fart that way. Fart right into our earphones. Dude, fart and it'll make everything better. Farts make everything better. Let's hear it. Let's hear it. I don't think I can go right now."
+  },
+  {
+   "t": 9074.8,
+   "text": "Valentin, squeeze his stomach right now. For sure, if I push myself off... If you leave the room and fart, will you come back in and do trivia? I just don't have anything to do."
+  },
+  {
+   "t": 9083.9,
+   "text": "Oh no. Hey, I'll do it myself. All right, do it yourself. Oh. Okay. [everyone laughs] I like the closed eyes. That's what you got? I was waiting for like an eruption. I mean, Carol knows every time I'm about to fart in public."
+  },
+  {
+   "t": 9100.5,
+   "text": "Why? Because you close your eyes? Because I have a look on my face. Yeah, I always know when Tony's about to fart, he holds his breath. All right, well, thanks, everyone."
+  },
+  {
+   "t": 9109.5,
+   "text": "I hope Bobby's fart is enough for you guys out there who were waiting patiently for the trivia. I know, I'm very upset right now. Bobby's trivia was replaced by Bobby's fart today. Send him hate mail and shoeboxes full of shit."
+  },
+  {
+   "t": 9122.5,
+   "text": "Yeah, if you guys don't like... Yeah, let us know what you think about Bobby and his attitude right now, because I'm fucking pissed. [mock outrage] Valentin's dying over here. You should give him Bobby's address. Does it smell?"
+  },
+  {
+   "t": 9135.4,
+   "text": "Oh, that was so not loud, and it smells so horrible. All right, well, thanks everyone for listening. Thank you, guys. We'll be back next week. Bye. DVDASA. That's Critter, Bobby, Valentin, me, and Asa. Be back soon."
+  },
+  {
+   "t": 9166.5,
+   "text": "And that's our show for today. Thanks for listening. And thank you to Head of Security, Critter, for keeping us all safe. No judging."
+  },
+  {
+   "t": 9186.5,
+   "text": "[outro music] Thank you. Ilian, ilian, ilian, ilian, ilian. Thank you."
+  }
+ ]
+}

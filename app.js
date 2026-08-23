@@ -29,6 +29,70 @@ function markers(html) {
   return html.replace(/\[[^\]<>]{1,24}\]/g, (m) => `<span class="cue">${m}</span>`);
 }
 
+/* Script mode renders the cleaned transcript when this recording has one. The
+   cleaned text keeps all dialogue and only adds bracketed delivery/context cues.
+   When an item has not been cleaned yet, Script remains useful by rendering the
+   source segments in the same reading layout. */
+const ELONG = /([A-Za-z])\1{2,}/g;
+const CUE = /\[[^\]<>]{1,24}\]/g;
+const CAPTOK = /^[A-Z][A-Z'’]{1,}$/;
+const ACRONYMS = new Set(['DVDASA','AMA','KGB','TV','DVD','CD','USA','US','UK','LA',
+  'NYC','SF','FBI','CIA','LSD','MDMA','UFC','NBA','NFL','MMA','PJ','OG','BJ','IG',
+  'DM','AA','NA','ID','OK','PC','AI','UFO','WTF','LOL','ASMR','POV','AF']);
+
+function scriptLine(text) {
+  const cues = (text.match(CUE) || []).length;
+  const bangs = (text.match(/[!?]/g) || []).length;
+  const stacked = /[!?]{2,}/.test(text) ? 1 : 0;
+  const elong = (text.match(ELONG) || []).length;
+  const loudTokens = new Set();
+  const toks = text.split(/(\s+)/);
+  let run = [];
+  const flush = () => {
+    if (run.length >= 2) run.forEach((i) => loudTokens.add(i));
+    else if (run.length === 1) {
+      const w = toks[run[0]].replace(/[^A-Za-z'’]/g, '');
+      if (!ACRONYMS.has(w) && bangs > 0 && w.length >= 2) loudTokens.add(run[0]);
+    }
+    run = [];
+  };
+  toks.forEach((tk, i) => {
+    if (/\S/.test(tk)) {
+      const w = tk.replace(/[^A-Za-z'’]/g, '');
+      if (w.length >= 2 && CAPTOK.test(w) && !ACRONYMS.has(w)) run.push(i);
+      else flush();
+    }
+  });
+  flush();
+  const score = loudTokens.size * 2 + stacked * 2 + bangs + elong;
+  const intensity = loudTokens.size >= 2 || score >= 6 ? 3 : score >= 3 ? 2 : score >= 1 ? 1 : 0;
+  const html = toks.map((tk, i) => loudTokens.has(i)
+    ? `<b class="loud">${esc(tk)}</b>`
+    : esc(tk).replace(CUE, (m) => `<em class="stage">${m.slice(1, -1)}</em>`)
+      .replace(ELONG, (m) => `<span class="stretch">${m}</span>`)).join('');
+  return { html, intensity, allCue: cues > 0 && text.replace(CUE, '').trim() === '' };
+}
+
+const CUE_HI = /\[(?:[^\]]*\b(?:shouting|yelling|screaming|screams|yells)\b[^\]]*)\]/i;
+const CUE_MED = /\[(?:[^\]]*\b(?:laugh|laughs|laughing|laughter|sarcastic|sarcastically|mock|mocking|imitating|excited|shouts|singing|sings|angry|crying)\b[^\]]*)\]/i;
+const CAPRUN = /\b[A-Z][A-Z'’]{1,}(?:\s+[A-Z][A-Z'’]{1,})+\b/g;
+
+function cleanedLine(text) {
+  const allCue = /^\s*\[[^\]<>]{1,40}\]\s*$/.test(text);
+  let intensity = 0;
+  if (CUE_HI.test(text)) intensity = 3;
+  else if (CUE_MED.test(text)) intensity = 2;
+  else {
+    const caps = (text.match(CAPRUN) || []).length;
+    const bangs = (text.match(/[!?]/g) || []).length;
+    intensity = caps >= 1 || bangs >= 3 ? 3 : bangs >= 1 ? 2 : /[!?]/.test(text) ? 1 : 0;
+  }
+  const html = esc(text).replace(CUE, (m) => `<em class="stage">${m.slice(1, -1)}</em>`)
+    .replace(CAPRUN, (m) => `<b class="loud">${m}</b>`)
+    .replace(ELONG, (m) => `<span class="stretch">${m}</span>`);
+  return { html, intensity, allCue };
+}
+
 function highlight(text, terms) {
   if (!terms.length) return esc(text);
   const re = new RegExp('(' + terms.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')', 'ig');
@@ -247,20 +311,25 @@ async function loadItem(id) {
 function renderTranscript(d, q) {
   const terms = words(q).filter((w) => w.length >= 2);
   const reader = state.mode === 'reader' && !terms.length;
-  $('body').className = 'transcript' + (reader ? ' reader' : '');
+  const script = state.mode === 'script' && !terms.length;
+  $('body').className = 'transcript' + (reader ? ' reader' : '') + (script ? ' script' : '');
 
   // In reader mode, editorial chapter marks become inline headings so a long
   // interview reads as sections instead of an undifferentiated wall. Searching
   // drops back to the timestamped view, because then the job is locating a
   // line, not reading. Chapters are Codex's editorial data -- absent for most
   // items, and the view degrades to plain prose without them.
-  const chaps = reader && d.editorial && Array.isArray(d.editorial.chapters)
+  const chaps = (reader || script) && d.editorial && Array.isArray(d.editorial.chapters)
     ? [...d.editorial.chapters].map((c) => ({ t: Number(c.t ?? c.start ?? 0),
         title: String(c.title || c.label || '') })).sort((a, b) => a.t - b.t)
     : [];
   let ci = 0;
 
-  const rows = d.segments.map((s, i) => {
+  const srcSegs = (script && Array.isArray(d._scriptLines) && d._scriptLines.length)
+    ? d._scriptLines.map((line) => ({ t: Number(line.t) || 0, x: String(line.text || '') }))
+    : d.segments;
+  const cleaned = script && srcSegs !== d.segments;
+  const rows = srcSegs.map((s, i) => {
     let head = '';
     while (ci < chaps.length && s.t >= chaps[ci].t) {
       // Marked as editorial in the DOM and to screen readers, not only in CSS.
@@ -275,6 +344,12 @@ function renderTranscript(d, q) {
               `${esc(chaps[ci].title)}</h3>`;
       ci++;
     }
+    if (script && !d.text_withheld) {
+      const line = cleaned ? cleanedLine(s.x) : scriptLine(s.x);
+      return head + (line.allCue
+        ? `<p class="sline stage-only" data-intensity="0">${line.html}</p>`
+        : `<p class="sline" data-intensity="${line.intensity}" id="l${i}">${line.html}</p>`);
+    }
     const r = row(d, s, i, terms);
     return head + (reader ? markers(r) : r);
   }).join('');
@@ -283,7 +358,11 @@ function renderTranscript(d, q) {
     const n = d.segments.filter((s) => terms.some((t) => s.x.toLowerCase().includes(t))).length;
     $('fhint').textContent = `${n} matching line${n === 1 ? '' : 's'}`;
   } else {
-    $('fhint').textContent = reader
+    $('fhint').textContent = script
+      ? (cleaned
+          ? `${srcSegs.length.toLocaleString()} lines · cleaned, with bracketed context cues`
+          : `${srcSegs.length.toLocaleString()} lines · script view, intensity inferred from text`)
+      : reader
       ? `${d.segments.length.toLocaleString()} paragraphs`
       : `${d.segments.length.toLocaleString()} lines`;
   }
@@ -926,6 +1005,19 @@ function renderEditorial(ed, kind, vid) {
   box.hidden = false;
 }
 
+// Cleaned script files are optional and loaded only for the recording being
+// read. A missing file is normal; Script view falls back to source segments.
+async function ensureScript(d) {
+  if (d._scriptLines !== undefined) return;
+  d._scriptLines = null;
+  try {
+    const r = await fetch(dataURL(`data/${d.id}.script.json`));
+    if (!r.ok) return;
+    const j = await r.json();
+    if (j && Array.isArray(j.lines)) d._scriptLines = j.lines;
+  } catch { /* Script view keeps the source transcript available. */ }
+}
+
 async function openItem(id) {
   $('browse').hidden = true;
   $('reader').hidden = false;
@@ -982,15 +1074,17 @@ async function openItem(id) {
   renderCast(d);
   renderEditorial(d.editorial, d.kind, d.id);
   $('fq').value = state.q || '';
+  if (state.mode === 'script') await ensureScript(d);
   renderTranscript(d, $('fq').value);
   $('fq').oninput = () => renderTranscript(d, $('fq').value);
   $('modes').querySelectorAll('button').forEach((b) => {
     b.setAttribute('aria-pressed', String(b.dataset.mode === state.mode));
-    b.onclick = () => {
+    b.onclick = async () => {
       state.mode = b.dataset.mode;
       localStorage.setItem('choeMode', state.mode);
       $('modes').querySelectorAll('button').forEach((x) =>
         x.setAttribute('aria-pressed', String(x.dataset.mode === state.mode)));
+      if (state.mode === 'script') await ensureScript(d);
       renderTranscript(d, $('fq').value);
     };
   });

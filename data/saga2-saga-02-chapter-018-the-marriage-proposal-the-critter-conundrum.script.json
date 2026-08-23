@@ -1,0 +1,2955 @@
+{
+ "id": "saga2-saga-02-chapter-018-the-marriage-proposal-the-critter-conundrum",
+ "schema": "choe-corpus/script@1",
+ "source": "llm-cleanup",
+ "lines": [
+  {
+   "t": 26.1,
+   "text": "[theme song, rapping] The mothership approached, breaking through the nexus. I saw the saucer as it slowed. Andromeda, my home, traveled many distances away from telescopes. They chose me, a contact key. Needed a mongoloid to fuse a brand new breed. They'll extract my seed. I was the missing link, chilling in the forest on a camping trip."
+  },
+  {
+   "t": 55.5,
+   "text": "Deep into my sleep, I saw the moon eclipse. Set it aloof, my tent, a vacuum was sent. Beat me up like Scotty in a room with a vent. These are the people that I want to be with."
+  },
+  {
+   "t": 68.5,
+   "text": "These are the people that I want to be with. Met her avatar with the light blue skin, stepped into her chambers, had a big fat grin. Probed my scrotum with her long thumb, syringe sticking out, device that made me cum. My jizz shot out in a fluorescent cup. Looked into my eyes and straight drank it up."
+  },
+  {
+   "t": 89.5,
+   "text": "Her stomach grew like a big-ass balloon. Out of her vagina came a gray baboon, with fetal ears and some reptoid scales, hair white like hell, don't even try to tell. These are the people that I want to be with."
+  },
+  {
+   "t": 105.0,
+   "text": "These are the people that I want to be with. Human beings will sell their own souls for a profit, not modest. My pupils are so honest with no wallets. Andromedans communicate with love on their minds."
+  },
+  {
+   "t": 139.3,
+   "text": "Humans are unkind, they'll find some swine to cook and dine. It's time to redefine the problem with mankind. The pillage of the earth and surf, south desert god. My counsel is my brethren on the road that is broad. Forget about facade, my squad is never flawed. Intelligence has passed through the grouping of the pods."
+  },
+  {
+   "t": 154.8,
+   "text": "These are the people that I want to be with. These are the people that I want to be with."
+  },
+  {
+   "t": 165.1,
+   "text": "These are the people that I want to be with. These are the people that I want to be with."
+  },
+  {
+   "t": 175.8,
+   "text": "[song ends] Where do you go? Yeah, wherever's comfortable. You can walk around, you can dance, you can slow dance. That'd be cool."
+  },
+  {
+   "t": 234.2,
+   "text": "Huh? Oh! I can't believe you were there. Hello, lovers. Hello. Hey. How you guys doing? Good, good. You're making me feel all kinds of shit. You look very much in love. We are in love. How long have you guys been together? Since May. May 16th. Honeymoon phase, I guess. By my standards, you'd be..."
+  },
+  {
+   "t": 280.5,
+   "text": "...almost at the end of the honeymoon phase right now. But it's been going up since then. Usually at the beginning of... Huh? What's your secret? Four nipples. [beat] I'm not even joking."
+  },
+  {
+   "t": 295.4,
+   "text": "That might be it. That might be it. Have you sucked on all four nipples? Yes. Oh my God. Yeah. Hold on, give me a second. Give me that. Is there any sensation when she sucks on the bottom two?"
+  },
+  {
+   "t": 312.1,
+   "text": "Not like the upper two, but I like that she goes down there, gives them attention too. Do the bottom nipples get hard? No, I don't think so. But I do touch them every once in a while. Now listen, you guys have been together for a few months now, and if what I've heard is accurate, you guys are about to take the deep..."
+  },
+  {
+   "t": 341.1,
+   "text": "...plunge and move into the next phase of your career. You mean our life? Your career? Your lives, sorry. Now, you guys know how I feel about marriage."
+  },
+  {
+   "t": 358.6,
+   "text": "My favorite people to hang out with in the entire world are divorced people. They're honest, they're real, they're the most fun to play and hang out with. Now, I don't want to turn this into a joke or anything."
+  },
+  {
+   "t": 373.9,
+   "text": "Like, look at the camera right now. Which one? I don't know about this. Look at the red dot. That's my dot, that's my eye. And tell me right now how serious you are about this."
+  },
+  {
+   "t": 384.7,
+   "text": "Because I don't want to turn this into a joke. This is a serious thing. And if you guys want to do it, I want to help you get to that special place."
+  },
+  {
+   "t": 394.0,
+   "text": "And from what I've seen, I can tell that you guys love each other. It's not a joke. It's not something where you guys are like, oh, wow. Well, you definitely expedited the process, not gonna lie."
+  },
+  {
+   "t": 403.7,
+   "text": "And I never really got a chance to properly propose to Daniela. So I'm gonna do it here. I don't have a ring because I'm broke, but Daniela, I'm very lucky to have met you."
+  },
+  {
+   "t": 420.5,
+   "text": "And since I met you, I've been extremely happy to see your face, to hear your laugh, to feel your kisses, to feel your touch, and for you to give me the love that I give you and you give it back to me."
+  },
+  {
+   "t": 446.4,
+   "text": "Will you marry me and be my wife? Yeah. Yes. [emotional] I love you. I love you too. Sorry, I don't have a ring for you. It's okay. But I did buy you that plastic ring, remember?"
+  },
+  {
+   "t": 464.4,
+   "text": "That was nice, yeah. We were at the Mexican restaurant over there in San Luis Obispo. Wow, this is serious. It is serious, it is. This is serious. It was a whole 25 cents."
+  },
+  {
+   "t": 474.5,
+   "text": "Fifty cents. Fifty cents. Fifty cents, because I bought two rings. [everyone laughs] Wow, you guys are ready. And I just know, as long as we keep laughing, I think we'll be okay. I know we'll be okay. Do you make each other laugh every day? Yeah, we do. And so by you saying, when I say the honeymoon phase is over and you're saying it's only going up..."
+  },
+  {
+   "t": 499.4,
+   "text": "...you're implying that you guys have more sex now, because usually what happens after the wedding is the sex goes down. Well, we're long distance, it's hard to say. Right now I didn't get a chance to... Who wants to go first? What do you mean? I'm gonna talk to you one at a..."
+  },
+  {
+   "t": 518.7,
+   "text": "...time right now. One of you has to hide behind the column. Oh, you want to go? Okay. Now play along with me for a second. We can all see him hiding behind the column there, yeah, but let's just pretend that he's not there. Yes. You're talking to just me now. Okay. And even if..."
+  },
+  {
+   "t": 538.5,
+   "text": "...he left the room, you'd end up seeing this anyway, but right now it's just you and me. 69 Dahma 69. Okay, are you serious? Are you ready to do this? Yeah. Do you feel any pressure at all, like being pressured into this, or like this is some kind of gimmick? No, this is..."
+  },
+  {
+   "t": 559.3,
+   "text": "This is for real. No. I can see it on your face. No, yeah, it's real. Like, I feel like we would have done this regardless. Like, we've already... He's your soulmate. Yeah. What about him makes him special?"
+  },
+  {
+   "t": 574.0,
+   "text": "He loves me. He loves me for me, and I love him for him. And we make each other laugh, and we're open with each other. The communication is really good. [emotional] You're gonna make me fucking cry."
+  },
+  {
+   "t": 587.7,
+   "text": "Okay, just slow down for a second. Now let's be real for a second. The end of the honeymoon phase is when you start noticing, as we said in the last show, when you love someone's laugh and then at some point you start getting really annoyed by it. Yeah. Now, is there anything he can do right now..."
+  },
+  {
+   "t": 610.0,
+   "text": "...to improve, or is he perfect? I can already sort of tell what your answer's going to be. But just as your spiritual guidance counselor right now, is there anything he can do as a lover, as a friend, as your partner and your future husband, anything he can do to improve? Or is there..."
+  },
+  {
+   "t": 629.7,
+   "text": "...something that he does that you don't like, that you wish he would stop? Fucking laughing or something like that? I can't really think of anything that irks me that bad. He's perfect. No one's perfect, but it's right for me. We're right for each other, we're good for each other. So I mean..."
+  },
+  {
+   "t": 648.0,
+   "text": "This would be the time you could say it right now. He does something weird, if he makes a weird cum face or... I don't know, he doesn't, it's perfect. All right, you go hide behind the column. Um, Broken Sketchbook, come out here, let me see those four nipples again please. Where you at? Just look at the red dot, that's my face. I don't see it. Oh, there we go. [beat] Oh my God."
+  },
+  {
+   "t": 671.1,
+   "text": "Oh my God. Yeah, I'll dig, I'll be completely honest. Oh, shit. Wow. You know what DVDASA say? We appreciate this level of honesty."
+  },
+  {
+   "t": 686.2,
+   "text": "Nipple number three and number four were two dark secrets you could have hidden from us, and we would have never found out. I'm proud of mine. You should be proud of them. Thank you."
+  },
+  {
+   "t": 697.1,
+   "text": "Like I said, you're the first mutant we've ever had on the show, and you're gifted. Now I'm gonna ask you the same thing. I know she's hiding. I can see her tuft of blue hair peeking out from behind the column, but she's not there, okay?"
+  },
+  {
+   "t": 713.8,
+   "text": "You're just talking to me now, your spiritual guidance counselor, okay? Okay. You're a little bit older too, so you should be a little bit wiser and more mature. You're about to make a commitment to dedicate the rest of your life to one other person."
+  },
+  {
+   "t": 731.0,
+   "text": "Is there any... I know you're not getting married right this second, but is there anything about her? And look, you're both perfect for each other, I get it. Okay. Is there anything that bothers you about her, or that she could do better?"
+  },
+  {
+   "t": 743.4,
+   "text": "That, you know, it's a process that you can work on together. You know, honestly, there's nothing that really bothers me about her. Rate yourself as a lover, one through ten."
+  },
+  {
+   "t": 754.3,
+   "text": "Me? Yeah. I'd say 8.5. Wow. You go down on everything? Oh, yeah. I think I made her cum for the first time orally. She's a lying whore. Fuck you. [laughing] She's like, oh my God, no one's ever made me cum."
+  },
+  {
+   "t": 772.6,
+   "text": "It's true. And I was like, whoa, yes. You're not even in the room. Yeah, shut up. Is there anything you're saving for the wedding night, like anal? Maybe. We haven't done that yet."
+  },
+  {
+   "t": 784.9,
+   "text": "No anal yet. And how much sex are you having right now, and how good is it? Honestly, we haven't had sex yet today, and I can't wait to fuck mine. Would you like to be the first people to ever fuck in this room?"
+  },
+  {
+   "t": 799.8,
+   "text": "Nah, no, because I know you guys. You guys will record this. Yeah, that's what we would be doing."
+  },
+  {
+   "t": 808.8,
+   "text": "I don't know, I mean, I'm very exhibitionist, so... I've never even filmed myself having sex. You realize you're on a self-description joke. I know. We'd be analyzing it. Now, your sexual practices. You mentioned before a dysfunction that you have, which is that you're Mexican."
+  },
+  {
+   "t": 829.3,
+   "text": "[laughing] Just kidding. How do you not have a kid yet? That's what I... Coming inside. Never come inside, because I learned that from you. That's right, never come inside. And do you ever stay in for a couple extra seconds?"
+  },
+  {
+   "t": 844.9,
+   "text": "What do you mean? After I bust? No, like, you don't pull out on time? Yeah, that's kind of happened. Have you gone down on her during her period? Yes, I've earned my red wings. Have you eaten her ass? I've licked it, but she doesn't really like it. Well, that's because you're not doing it right."
+  },
+  {
+   "t": 866.4,
+   "text": "Well, she's just kind of a little... you know. I would lick her asshole. That's how me and my brother rate girls: we're like, either we'll lick her asshole or not lick her asshole. Hot or not. Oh, okay, I see. Yeah, but I always try and she's like, no, you know."
+  },
+  {
+   "t": 885.2,
+   "text": "All right, well, look, it sounds like you guys are very much in love. And as you mentioned before, this is a long-distance relationship, right? Yes. So who's gonna close the gap? She's gonna come to the Bay, or will you come down to LA? She'll come to the Bay, because..."
+  },
+  {
+   "t": 909.8,
+   "text": "...I'm a little bit more situated. I got my place, I have a roommate, you know, I got space for her. And how soon will you try to create the first DVDASA baby? Not right away, because we still want to keep the party going, because we like to party. Me..."
+  },
+  {
+   "t": 932.0,
+   "text": "...her, like, the baby on the show once it's born. And another question: will you have the baby on the show? On the show, we'll have the doctor, everything. We want to see the birth filmed in that room. I think that's a question for me. Yeah, that's a woman's..."
+  },
+  {
+   "t": 951.3,
+   "text": "...question right there. What's your method of birth control right now, besides pulling out? Do you wear condoms? Is she on the pill? No condom, no pill. Just gambling. So you're really good at pulling out? Well, I have to. Because I want to go, like, yes. I have to sometimes..."
+  },
+  {
+   "t": 972.3,
+   "text": "...I don't even come, you know, because I'm just like, oh shit, if I keep going I'm gonna put a baby inside her. What is the fuck-up with our..."
+  },
+  {
+   "t": 986.9,
+   "text": "Well, I mean, I do come, but it's like, I'll pull it out and then I'll be like, oh shit, and then wherever I can, you know, cover up. [to the couple] They're disgusting. I don't want to see those nipples. I'm gonna come back. Both of you, both of you together. You kind of hurt my feelings, Dave. I'm sensitive. I'm sensitive too, man."
+  },
+  {
+   "t": 1007.9,
+   "text": "I'll select both of them. Don't make me feel bad. All right, you guys are too cute. Okay? Cover up, you're disgusting."
+  },
+  {
+   "t": 1019.3,
+   "text": "Sorry. I kind of like being like this. I'll take full responsibility for bringing you two together. I created this. You did. You know what? You really did. Yeah. You know? Shut the fuck up and listen to me right now."
+  },
+  {
+   "t": 1033.5,
+   "text": "This ain't a joke. There's a reason why I don't have a kid now. There's a reason why I'm not married now. There's a reason why I've been single for 10 years. If you guys go down this road and you get divorced, I swear to God, I'll never fucking talk to you again."
+  },
+  {
+   "t": 1046.2,
+   "text": "I promise you this, okay? You're gonna make me very, very upset. Do not get divorced if you're going to get married. All right? Commit to each other. Love each other."
+  },
+  {
+   "t": 1057.0,
+   "text": "If you're gonna play this game, then do it all the way, okay? I'm not playing, Dave, you know? Not playing, for real. Or get divorced. Yeah, no, everyone gets divorced now. Everyone gets divorced."
+  },
+  {
+   "t": 1070.6,
+   "text": "Just don't... I don't play that game because I know I'm gonna fucking cheat. I know I'm gonna do some shit. So I don't even need to go down that road."
+  },
+  {
+   "t": 1077.4,
+   "text": "So I just stay out of it. The day I decide to get married, then that's gonna be game over for me. So, love you guys. Just wait a second, and I'll be joining you in the flesh in a second."
+  },
+  {
+   "t": 1089.9,
+   "text": "Okay. I love you. I love you too. Check if my clothes are on. It's like pulling out, see?"
+  },
+  {
+   "t": 1111.1,
+   "text": "Oh, crazy. It does look like a seal. Like a seal? You said because of the nose and then the eyes and the fur. Oh yeah. It looks like a sea otter. Yeah, it's spinning around in the water."
+  },
+  {
+   "t": 1143.0,
+   "text": "No, no, no. Let me see this. That's some, like, little white fuzzies in your hair. I do? Um."
+  },
+  {
+   "t": 1160.1,
+   "text": "What are you guys doing? I knew what we were doing. Yo, were you guys fucking in here? I don't know. They were, like, adjusting my clothes when I walked in."
+  },
+  {
+   "t": 1172.9,
+   "text": "I don't want to sit next to the station. What? What about your boners? Wow, you have a lot of energy, man. You kind of had a boner."
+  },
+  {
+   "t": 1186.5,
+   "text": "Heather, you were looking at his dick first? No, I saw him grab it and I was like, ooh, he got a boner. You got a boner right now? No, earlier. Is that your underwear?"
+  },
+  {
+   "t": 1194.6,
+   "text": "When they were alone. It's mine now, though. I know, it's yours now, but do you usually wear boxers? I think they're the Fox brand. Do you feel sexy wearing these? I do. I like them."
+  },
+  {
+   "t": 1205.2,
+   "text": "They're just kind of restricting when, you know, things get involved. You guys are living really dangerously. To be Mexican and on no birth control and no condoms, that's like very risky. You're gonna make this room so big."
+  },
+  {
+   "t": 1220.2,
+   "text": "You're like, chancing it. At this point, if you guys get pregnant, you're only two months past the... I mean, right now. But she's 27 with no kids. But you know what?"
+  },
+  {
+   "t": 1227.6,
+   "text": "I thought that too. I thought I couldn't even have babies because I've had so many guys nut inside of me. And then the only time I've been pregnant was by a Puerto Rican dude."
+  },
+  {
+   "t": 1238.1,
+   "text": "It's like the Hispanic blood. Is it hard to get pregnant? I mean, I've never tried. How old are you? 27. Oh, girl. They're gonna get knocked up. Oh, whatever. The question is, have you guys been fucking without protection since May?"
+  },
+  {
+   "t": 1255.5,
+   "text": "So, what, five months? Yeah. We had a close call like two weeks ago. Yeah, we had a close call. Like, I had to take the morning-after pill."
+  },
+  {
+   "t": 1264.0,
+   "text": "Because I was like... It happened. A little bit came out. It came out, and then I pulled it off. But then we forgot about it. And then like a day after, I started getting sick and went to CVS."
+  },
+  {
+   "t": 1274.7,
+   "text": "And there was, like, this balloon, and it was hanging really low, where the medicine was. We were in an aisle and it was hanging really low, and it said, it's a boy."
+  },
+  {
+   "t": 1284.0,
+   "text": "And I was like... That freaked you out. Maybe you are pregnant. No, no, no. We bought the morning-after pill after that. Yeah, but it's not 100 percent. So at this point, you would abort?"
+  },
+  {
+   "t": 1293.0,
+   "text": "No, I got my period, I'm good. But you would abort if you were... I think she would keep it. But that method does not work. The morning-after pill? No, the pulling out."
+  },
+  {
+   "t": 1304.8,
+   "text": "It works. It works. I've made it this far. You know why? It could be just a little bit of, like, fluke timing. I have a health question. No, Heather, it works every single time."
+  },
+  {
+   "t": 1314.8,
+   "text": "The only reason it doesn't work is because guys don't perform it correctly. When you do the pull-out method, you pull out way before you have to come. When you start feeling like you're coming, that's when a little bit starts coming out. Yeah, because you can get pregnant from pre-cum. That's what I mean. Like, if you're fucking and you're not even close to coming..."
+  },
+  {
+   "t": 1330.8,
+   "text": "How do you even know? Do you know every time you pre-cum? See, I pre-cum a lot. Yeah, he pre-cums in the room. Then he has to, like, super-wipe me. There's no proof, there's no help here. If you hear you eat, it's gonna work."
+  },
+  {
+   "t": 1343.9,
+   "text": "Will you bring the baby on the show? And like I said, the other question: will you have the baby on the show? Yeah, that would be cool. I have a doctor here and everything."
+  },
+  {
+   "t": 1352.6,
+   "text": "You guys, so I have a question. Go. Yeah, that's not mine. I have a question. Oh yeah. Is this a real thing? Do guys who don't eat pussy really exist? Yeah. Oh yeah."
+  },
+  {
+   "t": 1365.5,
+   "text": "Does anyone here not eat pussy, though? I had an ex. I mean, who would not eat pussy? He would not do it. He just didn't like it. I didn't like it. Who would not?"
+  },
+  {
+   "t": 1373.3,
+   "text": "Not that you don't like mine. He just told me that he didn't like to eat pussy. But I feel like you always hear about these guys, yet I've literally never met one in real life."
+  },
+  {
+   "t": 1383.2,
+   "text": "That doesn't like to eat pussy? That's sort of a non-sexual subject that we'll start the show with, but can we... Oh wait, are we doing the thing? Can we get some beatbox? Are we doing the thing?"
+  },
+  {
+   "t": 1394.3,
+   "text": "No, no, no. I know people that don't. We shouldn't even try. Do you? You don't? Also, let's not point fingers. Oh, so I know someone. [announcer voice] Welcome one, welcome all. It's DVDASA with your hosts, David Choe and Asa Akira."
+  },
+  {
+   "t": 1411.4,
+   "text": "Special guest Heather Leather. Steve Aribi. We're just really excited. Bobby. Money Mark. 69 Dahma 69. Broken Sketchbook. Jenna, I like that. Kalilah. Val. And last but not least, Critter. Here we go."
+  },
+  {
+   "t": 1430.1,
+   "text": "...in motherfucking Bobby trivia. You always forget yourself. What's that? You always forget yourself. I'll remember next time. It's basically a straitjacket. Now, you've got a packed house. Well, so I saved myself from future heartbreak."
+  },
+  {
+   "t": 1446.9,
+   "text": "Will there be trivia at the end of the show? Probably not. Do you know what I'll do to you if there's no trivia at the end of the show? Let's just get this out of the way now."
+  },
+  {
+   "t": 1455.0,
+   "text": "What will you do to him? I'll break your rib. Why don't you just... Like, how do you know right now that you don't have trivia? Do you have backup ready? I do, I saw it fall on the floor earlier. If you have trivia, I'm gonna hurt you. What is it?"
+  },
+  {
+   "t": 1473.0,
+   "text": "I volunteer instead. I volunteer instead. That conflict between the few friends. Jesus. All right, and another thing before we get started. Whoa. Look at that, sitting down like that. That's a great one. Ooh. If I was on top of you, you couldn't move either."
+  },
+  {
+   "t": 1488.7,
+   "text": "Can we trust you guys? Yeah. What is your understanding of what's going on with this show right now?"
+  },
+  {
+   "t": 1497.9,
+   "text": "Well, we just... I don't know, we just know what you guys tell us. Well, I mean, we know we're not supposed to stay in here. Well, what do you think is going on?"
+  },
+  {
+   "t": 1506.5,
+   "text": "Before you came on the show today, what did you think was going on with this show? I mean, I don't think Dave's talking about this specific show. He's talking about the whole show in general."
+  },
+  {
+   "t": 1516.6,
+   "text": "You know, I thought it was all pretty much long gone. Yeah, we thought it was over. I just wanted to kind of thank one of you guys in person, to be like, hey, I know the show kind of ended on a bad note."
+  },
+  {
+   "t": 1529.8,
+   "text": "And it was kind of like, shit will never die. I know. Shit will never be over. And I just want to be like, hey, something good came out of it."
+  },
+  {
+   "t": 1537.0,
+   "text": "Yeah. Oh, that's cool. I sent you guys a message. Yeah. Well, listen. Good, the show's alive and well. I cried. Did you really? I did. But you didn't cry right now? No, well..."
+  },
+  {
+   "t": 1552.2,
+   "text": "This is crazy, you cry over the show but not over your future ex-husband. It's different, like, in the comfort of your own home. Yeah, I almost cried. Like, rather than when you're out somewhere, you know you're being filmed."
+  },
+  {
+   "t": 1568.7,
+   "text": "I watched About Time and I almost cried. Oh, I watched that too. Did you almost propose? I'm troubled. [laughing] I mean, I got her in the movie."
+  },
+  {
+   "t": 1577.5,
+   "text": "Well, you've seen it, right? Yeah, yeah. So why are you laughing? Because it's about time travel. It's got 'about time.' I love that movie. I think I might watch it again tonight. What movie?"
+  },
+  {
+   "t": 1587.2,
+   "text": "About Time. Okay, hold on, hold on. Please pause for one second, okay? So, we established last episode that there's a giant white man who's my personal trainer and bodyguard. Are we gonna talk about your rib again?"
+  },
+  {
+   "t": 1614.2,
+   "text": "I'm gonna go fucking sit next to Poon, he's your new best friend. All of us answered that fucking question before Poon. Yeah, no, seriously? Three people answered it before Poon. What is that? You guys have a little special treatment, you eat hot dogs together now?"
+  },
+  {
+   "t": 1629.9,
+   "text": "He was the only one that answered correctly. You know what the fuck you get at Pink's? Coleslaw, chili, chili dog. You fucking know me. Okay, so you got the same thing that you usually get with me, and now that's some, like, bonding shit. Everyone says it steals your soul, but you just heard his voice, you didn't hear anyone else's voice, like, three seconds after..."
+  },
+  {
+   "t": 1650.3,
+   "text": "...so maybe I can join yours. Sure, you can join the club. So like I said before, yeah, I'll mention it again: the number one threat to my life is my own..."
+  },
+  {
+   "t": 1666.0,
+   "text": "Don't do it, Critter. No, don't. Don't. So I break my rib. Nobody believes me. We believe you! He doesn't believe me. So I go to the doctor and he goes, it's really expensive."
+  },
+  {
+   "t": 1679.7,
+   "text": "And once we find out, because he's like, you have a broken rib. Because when you push, he's like, yeah, you have it. He goes, us seeing it on an x-ray doesn't do anything, because there's nothing you can do for it."
+  },
+  {
+   "t": 1690.7,
+   "text": "All it does is, you'll know. We're all like experts in broken ribs now. So the only thing you'll do by getting the x-ray is you get charged for it. Right? So then what? So then do I go around... Nah, pretty much."
+  },
+  {
+   "t": 1709.9,
+   "text": "So when I stand up... What are you doing in my corner? We've talked more about your rib today than anything else, and we have like 20 guests. So when I stand up, when I cough, it hurts the most. And who's with me? Him, the guy that broke my rib. Oh, come on, no sympathy."
+  },
+  {
+   "t": 1726.7,
+   "text": "Yeah, that's true, I've apologized to him 30,000 fucking times. So he's usually on the sidelines over there behind the column, but let's bring him a little bit into the spotlight, let's bring him out into the limelight today. If Critter apologizes to you in front of everyone genuinely, can we move on? I've moved on."
+  },
+  {
+   "t": 1746.4,
+   "text": "No, you haven't. No, I'm just trying to establish... You're past it, but you're not over it. Yeah, you're not. And now he's gonna try and talk some shit about me. Okay, you know why I'm not over it?"
+  },
+  {
+   "t": 1756.8,
+   "text": "Because he tried to make me do push-ups yesterday. That's not good. How do I do push-ups with a broken rib? He's the guy that broke it. I go, I don't want to do it."
+  },
+  {
+   "t": 1763.0,
+   "text": "I played football and rugby with a broken rib. And then I gotta hear this: I played football with a broken rib. I'm not you, dude. I can't play football with a broken rib."
+  },
+  {
+   "t": 1770.5,
+   "text": "I'm an art fag, I can't play football. I understand. Did I make you do your push-ups? But the fact that you even try to make me do push-ups... Yeah, that's kind of mean of him. Who does push-ups with a broken rib?"
+  },
+  {
+   "t": 1781.1,
+   "text": "How do you know you can't do them until you try to do one? Because if you can't even breathe. Yeah. You guys were around the greatest actor of our time. So I hear that all day. Oh, so there's no sympathy, there's just like, oh, oh, oh. He just makes fun of me."
+  },
+  {
+   "t": 1796.9,
+   "text": "If you wanted sympathy, get a girlfriend. I'm not your girlfriend. Look, I'm going somewhere with this. I'm using the rib as a setup, okay? [sarcastic, snorting tone] Oh, what a great actor, okay?"
+  },
+  {
+   "t": 1808.7,
+   "text": "For the guy whose catchphrase is 'no judging,' very judgy. Yeah, very judgy. You're pretty judgy for someone who says no judging. Now, this is a guy... Why don't we talk about our new guest?"
+  },
+  {
+   "t": 1825.8,
+   "text": "As a man, he's probably one of the best-looking men I've ever seen. He's very handsome. Women want to fuck him. Let's keep talking about me. Just kidding. You guys listen to the show, so you know the lengths I go to get pussy."
+  },
+  {
+   "t": 1840.9,
+   "text": "I'm a sex addict. I can't, like... So remember, I will break your other ribs. Yeah. Alex, can you build a cage for me? I'm serious, I need a cage so no one can touch me on the show. I don't like these people. So..."
+  },
+  {
+   "t": 1856.1,
+   "text": "I'm with Critter all the time. I'm like... you know, this is a bad city for me. I don't know if you're still considering whether you want to move here to the Bay, but there's a lot of sex addicts on this show."
+  },
+  {
+   "t": 1870.7,
+   "text": "I'm looking at you. She needs the cum, it's medicine, she needs to swallow it, okay? This is a sick person, okay? But it's like that with me. Like, I don't do anything else now."
+  },
+  {
+   "t": 1882.5,
+   "text": "It's late at night, I have all the work I need to do in front of me, and I just... it's like I can't go on unless I fuck. I have to fuck myself or something."
+  },
+  {
+   "t": 1894.6,
+   "text": "And then I got this guy who is very professional. He never fucks ever while he's in LA. He saves it for the Bay, where that's his home, when he's back with his people, okay?"
+  },
+  {
+   "t": 1909.6,
+   "text": "Now, the way women pick up on him is like something I've never seen before. It's something you just hear about, as if he's Brad Pitt or Ryan Gosling or something. In the same way he was once judgy to you, Poon, when he was like, why don't you just walk into a bar like me?"
+  },
+  {
+   "t": 1925.4,
+   "text": "It's like, well, because you're Poon and he's Critter, you know? So I go, hey, I fucked a bunch of whores this weekend. And he goes, well, I sat out on the curb and a girl just came and sat on my lap."
+  },
+  {
+   "t": 1939.6,
+   "text": "That's how he picks up girls, by doing nothing. By doing absolutely nothing. Like, who does that happen to? He was sitting outside a bar and a girl sat on his lap and was like, when are we gonna fuck?"
+  },
+  {
+   "t": 1950.5,
+   "text": "Like, who does that happen to? You're so handsome. That's why. He's very handsome, he's a good-looking guy. These are all fables. And the same way when he picked up Kalilah and you felt safe and secure..."
+  },
+  {
+   "t": 1961.3,
+   "text": "Yeah, there's something about him where you know he's gonna corral you into some warm little... It's probably my smile. It's your pheromones. He wears a ton of... Can I feel him? I feel like I wanna... There's something I wanna reach for."
+  },
+  {
+   "t": 1972.2,
+   "text": "You wanna sit on his lap? You wanna sit on his lap and say, when are we gonna fuck? That's what you want to do. And you know, he's got a giant white monster cock that has ripped vaginas before."
+  },
+  {
+   "t": 1985.6,
+   "text": "And so you just... Hey, calm down. I didn't even say hi, I just reached for his beard. And I don't know why I did that. There's something that compels women, I think, too."
+  },
+  {
+   "t": 1995.7,
+   "text": "He's not it. Yeah. The intricate web of lies I need to form to trick women into my bed. The money I need to pay them. Maybe that's the problem. And this guy, he just sits outside."
+  },
+  {
+   "t": 2007.1,
+   "text": "I always tell David, I'm like, why don't we go out and meet some nice normal girls? He's not interested in normal girls. So he goes to a football game where there's college girls."
+  },
+  {
+   "t": 2017.2,
+   "text": "He went to a college football game. Yeah. So, I can already tell you're asking for a fucking... Alex, can I get the cage now? I'm telling you, like I've told you before, I do not like talking about my..."
+  },
+  {
+   "t": 2030.2,
+   "text": "...protect me. My, anything that goes on. You're incriminating yourself, dude. No, I'm just saying, I don't like to talk about anything I do. Who's talking about anything? I'm talking. Because I do not need my game salted like you've done to yourself."
+  },
+  {
+   "t": 2047.6,
+   "text": "I've asked you nicely. You get more pussy on this... What are you talking about? Oh, it's nice to see you. Oh my God. Yeah, it looks so... it's a weird scene not being there. [feeling Critter's arm]"
+  },
+  {
+   "t": 2058.0,
+   "text": "It's so solid. It's nice sitting close to you. Oh my God, and the blonde hairs, that's amazing. Let's talk about something else. I know you don't want to talk about your sex life."
+  },
+  {
+   "t": 2070.1,
+   "text": "David and Asa and Critter. Oh, look. Look, he's making the rules. Oh, wow. You're like a little critter right now, just crawling around the room like that. Look, I know, I won't salt your game."
+  },
+  {
+   "t": 2083.5,
+   "text": "I won't talk about your sex life. I'm just saying the things that happen around you that don't happen to anyone else. Like going to a college football game where all the college girls are like, who is this guy? And then they end up acting like..."
+  },
+  {
+   "t": 2101.9,
+   "text": "It's the reason why women don't have friends. They end up acting like guys. Like a mob of girls will just go up to him and they'll all be backstabbing each other, like, don't tell her. Like, really?"
+  },
+  {
+   "t": 2115.1,
+   "text": "And I'm like, who does that happen to? Like, one will go to the bathroom... I don't think I even know. One will go to the bathroom and she'll be like, don't tell her, but I want to see you tonight."
+  },
+  {
+   "t": 2122.5,
+   "text": "Like, and I'm like... Is he making this up? I don't know where he gets this. I spent a good week and a half not doing any pods."
+  },
+  {
+   "t": 2132.5,
+   "text": "Right? Still. So. Still. Anyway, my point... Okay, so I'll stop. I won't put it in myself. My point is, he lives a life that most of us... But it's past just his looks."
+  },
+  {
+   "t": 2145.4,
+   "text": "I think, like, out of everyone here... You're very husband material. And it's not just his good skin. That's what you look like. He looks like a husband. Husband material. You know, I spent like a week..."
+  },
+  {
+   "t": 2156.6,
+   "text": "Like, you would feel safe. It's the full package. He's good looking, you're honest, you're funny. It's a tie. Yeah. What it really is, none of us are safe. Like if the world ended, no, if the world ended today, I would just faint and let you take care of it."
+  },
+  {
+   "t": 2170.2,
+   "text": "You'd have to call me. But you know what? I already have a show. I'm gonna have to take you into the woods with me and support my ribs. Me too. Girls are suckers for baby blues, too."
+  },
+  {
+   "t": 2179.3,
+   "text": "Yeah, it's like... I mean, basically, like Dave says, I'm the full package. He is, he's the complete package. It doesn't matter if he has his face shaven with a nice haircut or he looks like a wooly mammoth man, whatever."
+  },
+  {
+   "t": 2193.1,
+   "text": "It doesn't matter. In my time knowing the guy, women throw themselves at him. I've learned trickery through you. Listen, my point with all this is, women throw themselves at him. He has to do zero work to get laid or whatever."
+  },
+  {
+   "t": 2206.9,
+   "text": "Or maybe he's done a lot of work to get there. He's done zero work. On himself. I'm a professional. Oh, what's the clipboard for? If there's gonna be a clipboard... He's taking notes for his life."
+  },
+  {
+   "t": 2219.1,
+   "text": "He's done zero work and it comes to him very easily. He doesn't have to pay for it. He doesn't do any of these things. Like I said, when I go to the strip club with Critter, everyone's sad when we leave."
+  },
+  {
+   "t": 2229.1,
+   "text": "The men are sad, the strippers are sad. Are you leaving? The guys go, are you leaving? Isn't that why you have me around, to go to dinners with you, because I talk to all these people for you and stuff? The strip club was a sad place before you got there. And, and, and..."
+  },
+  {
+   "t": 2244.4,
+   "text": "I do, and I won't lie, I do like it. But he's, as a security guard, he's horrible. Oh yeah, tell him what happened last night. We go to the experimental video art thing, Alex's thing, and a super fan shows up."
+  },
+  {
+   "t": 2256.2,
+   "text": "How do I know he's a super fan? He goes, do you guys still live in Koreatown? So I'm like, uh, this is fucking weird, dude. And so... Was he wearing a plaid shirt?"
+  },
+  {
+   "t": 2265.5,
+   "text": "He looked like Sideshow Bob. He's like an albino-Black-looking guy. You can't really say that, though, because you're putting it out there, and then when people know... It's my fault. No, no, no."
+  },
+  {
+   "t": 2275.6,
+   "text": "Wait, let me finish the story, it gets better. You be the judge, too. Okay. Okay, well, so far I disagree, but okay. Well, nothing happened yet. But you haven't even gotten to it yet."
+  },
+  {
+   "t": 2282.3,
+   "text": "Nothing happened yet. The guy comes up and I go, okay, there's a super fan here. He's creeping. He's giving me a zine, he's giving me a sticker. I go, cool, he's a nice guy."
+  },
+  {
+   "t": 2290.1,
+   "text": "But then he's just there. Now I go talk to Alex, now he's there. Now I go talk to Shane, now he's there. He's just there. And I go, okay, what's so funny?"
+  },
+  {
+   "t": 2298.7,
+   "text": "That he's just there. He's just there. And it's great, because he knows Critter. And I'm overhearing, hey, you guys still live in Koreatown?"
+  },
+  {
+   "t": 2310.3,
+   "text": "Very personal questions that we've talked about on the show, that you wouldn't know unless you listen to it all the time. So he's a super fan, okay. Then we come to the point where we're about to break off."
+  },
+  {
+   "t": 2320.6,
+   "text": "Are we gonna go to a club? Are we gonna go to karaoke? Are we gonna go to a movie? And like I said, I was so disappointed with the... By a club, you mean a strip club."
+  },
+  {
+   "t": 2329.5,
+   "text": "A bar, a bar. We had European... A disco. We had Latins with us, they wanted a drink."
+  },
+  {
+   "t": 2339.7,
+   "text": "So I'm very aware, and Critter for the most part is usually very aware, this guy's listening to every part of the conversation. He's like, you saw what they're like, right? When we went to Hawaii, that guy that was creeping on us, what did he do?"
+  },
+  {
+   "t": 2357.0,
+   "text": "He wrote word for word everything. He's like, Kalilah said this, then Steven said that. They're just listening. So I'm not the security, I'm very aware that this guy's just sitting there like, so what are you guys gonna do next? And I'm looking at Critter like, shut the fuck up. And he goes, I think we're gonna..."
+  },
+  {
+   "t": 2375.7,
+   "text": "And I'm looking at him like, don't say what we're gonna do. And he's like, I think we're gonna go to a movie. And I go... And then the guy goes, oh, which movie? And I'm like... And he goes, we're going to the new Denzel movie. And I'm like, what the fuck kind of security guard is this?"
+  },
+  {
+   "t": 2390.9,
+   "text": "He just told us. Like, and there's a contest for 100,000 dollars right now, like, let's just tell everyone. And that's the thing, I'm going around now and people are like, where's the money?"
+  },
+  {
+   "t": 2399.6,
+   "text": "Where's the money, dude? Say you're going to a movie? I thought that was a fake. I thought you were saying that on purpose as a fake. Like, oh, no. Wait, hold on."
+  },
+  {
+   "t": 2406.6,
+   "text": "I'm so confused. What was the real plan? No, we were going to go see that movie. We were gonna see a movie. We all thought you were doing a fake."
+  },
+  {
+   "t": 2414.4,
+   "text": "Yeah. No, I was like, please get the cue, don't tell them what movie we're gonna go see. You shouldn't even have to give a cue. I should have said, hey, don't say it."
+  },
+  {
+   "t": 2422.3,
+   "text": "You guys need to communicate better. This is what he did. Critter goes, we're gonna go see the new Denzel movie, The Equalizer. The guy gets off from paying attention, and he goes and starts texting something."
+  },
+  {
+   "t": 2434.9,
+   "text": "And I'm like, I don't know what's happening, I don't know what he's texting. And then he showed up at the movie theater and he wouldn't leave us alone. You didn't know where we were gonna see the movie?"
+  },
+  {
+   "t": 2446.3,
+   "text": "Shit. Look, we got off topic for a second. I just wanted to point out... You pump me all up, you get my balloon massively big, and then you just fucking destroy it. Welcome to the show."
+  },
+  {
+   "t": 2461.0,
+   "text": "My point with all that stuff in the beginning was to establish: Critter, as a man, is the perfect paladin. He's tall, he's good looking, he's charming, he's strong, he knows how to fix everything, doesn't have to do much work, women literally throw themselves at him. And then we have Domina 69 and Broken Sketchbook come in..."
+  },
+  {
+   "t": 2479.6,
+   "text": "...and tell us how they met through the show and how much they love each other and how they'd never heard each other's voices. And then you get a snort over here, a judging..."
+  },
+  {
+   "t": 2490.2,
+   "text": "This is how couples meet now? [defensive] I'm sorry, dude, not everyone just fucking has women thrown at them. Sometimes people have to meet. I was saying it's awesome. It was very judgy, I fucking caught it."
+  },
+  {
+   "t": 2500.4,
+   "text": "I fucking caught it. You don't have to fucking talk to parents anymore. I'm very protective of our first fucking couple. You don't have to talk to parents anymore, you don't have to fucking talk to the girl anymore, you can just text somebody. Let's meet and fuck. Not everyone just sits on your lap and goes, when are we gonna fuck tonight? Okay?"
+  },
+  {
+   "t": 2514.1,
+   "text": "I was saying that's awesome, asshole. Some people have to meet through a show called DVDASA. Some people have to text each other and direct message. You know what? You're the fucking worst judge. You're the one who claims you meet girls all the time."
+  },
+  {
+   "t": 2524.5,
+   "text": "You don't have to pay for pussy. I don't have to, it's pretty cool. I'm a respected news journalist. I wasn't judging, a respected news journalist. The show I was on won an Emmy. And the other show I was on won an Emmy also. And you know what that means? That means I won an Emmy too."
+  },
+  {
+   "t": 2544.7,
+   "text": "Because I keep up his personality and his happiness. His life is really perfect right now, because it's where he wants it to be. The TV show that's in the works right now, the day his fucking face hits television, his life is over as he knows it. You know what? Since you've talked about it again, like last show, it's already done."
+  },
+  {
+   "t": 2564.5,
+   "text": "It's in the shitter again. What, it's in the shitter again? Yeah. All right, never mind, show's over. But the day when that does happen, because he is also the perfect package for television... Okay, listen, listen. Let's go back to talking about how you meet women nowadays."
+  },
+  {
+   "t": 2579.6,
+   "text": "By texting. You don't talk to parents anymore. That's what I was saying. I think it's fucking awesome. You're being an old guy now. No, I'm saying it's fucking great. Yeah, when I was gay, I had to walk a mile in the snow."
+  },
+  {
+   "t": 2590.0,
+   "text": "You know what? This fucking... this goddamn... [shouting] This fucking podcast fucking sucks! Okay? For fuck's sake! Goddamn! Wow, you should... [laughing] This is so red. I love that. You're finally matching our skin color."
+  },
+  {
+   "t": 2606.7,
+   "text": "Here, you should give some of that tener stuff. Yeah, give me some. Oh, wait, so let me get this right. Wait, wait. Right, you asked the girl's dad for permission and all that shit?"
+  },
+  {
+   "t": 2616.1,
+   "text": "You talked to the parents and did everything? You used to have to call and be like... I'm saying you do that? But if you did that now, Critter, that would be so creepy."
+  },
+  {
+   "t": 2622.1,
+   "text": "Like, I didn't know you that well. You'd be like, hey, can I date your daughter? I'd be like, what the fuck are you talking to my mom for? Yeah, I'd be like, well, she's probably cute if she had you."
+  },
+  {
+   "t": 2629.7,
+   "text": "You'd be like, first of all, what are you doing calling my house? I know, like, you're not even at my home. You guys didn't have to do that call and be like, hey, Mr. Choe, your son David, he's nerdy..."
+  },
+  {
+   "t": 2639.1,
+   "text": "...he likes cartoons, but I kind of want to take him out. Wait, but you're also not 72 years old, so you wouldn't do that to me at all. I'm saying when I was goddamn fucking 12."
+  },
+  {
+   "t": 2649.5,
+   "text": "Oh my God. Before papers. Hey, your mom's hot, by the way. She is hot. Mine? Well, I've never seen your mom, but I know... How do you know? Because you sent me... she's like all buffed and ripped."
+  },
+  {
+   "t": 2659.5,
+   "text": "Oh, that's right, that's right. Steve... And his... I leave them at the house by themselves and I worry. You made a move on it? No! You know what's wrong with your mom?"
+  },
+  {
+   "t": 2671.8,
+   "text": "Because my mom comes over and cleans our house, and sometimes Steve just goes over, and then I come home and he's like, hey, your mom's really cool, we watched Game of Thrones together."
+  },
+  {
+   "t": 2681.1,
+   "text": "She's like... What I wanted to say was, have you met Steve's new... I won't say girlfriend, but girl that he likes?"
+  },
+  {
+   "t": 2709.2,
+   "text": "He's a rotation man. I bet two of the three are real games. Okay, but did you see that? Somebody's getting too much salt right now. Oh, someone doesn't like their salt. But it's GF already?"
+  },
+  {
+   "t": 2720.1,
+   "text": "They're game salted. Girlfriend? Oh, oh, oh, you see, you can't come on the show and be completely open. You wanna look at... How, Leslie, man? Y'all all hurt me here, man. My shoe was blowing out too, man."
+  },
+  {
+   "t": 2731.1,
+   "text": "All right, hold on. Jesus Christ. You started out on the show blowing out. Jeez, I know. I've never been blowing out. Hold on, the one he likes the most looks like a dark you, she's Pakistani. I've seen pictures, but I only think... he showed me pictures. And so I was thinking, concept for a show: the Lee brothers, double date with the two Kalilahs."
+  },
+  {
+   "t": 2751.2,
+   "text": "Like double date and you guys talk about movies. I love how I'm Pakistani now. And I'll be the one... I'll be the one... [glitch, stuttering] I'll be Kalilah and dark Kalilah."
+  },
+  {
+   "t": 2764.6,
+   "text": "Yeah, but see, I don't like the one. She's young, right? She's young. What is she, 25? She's a baby, she's like 21. She was nice, I liked her. She's got monster boobs, too."
+  },
+  {
+   "t": 2781.1,
+   "text": "Yeah, I saw. I was almost thinking about a way to get rid of Steve. Hey, easy! What? I like her, man. I know, I like her too. See, but you don't think your mind changes day to day, because, like..."
+  },
+  {
+   "t": 2797.5,
+   "text": "Moment to moment. Are you sure you have bronchitis and not, like, gonorrhea? She's in love with him. Ooh. Can you hear me come in your mouth? Whenever you ask him about his cold, he comes."
+  },
+  {
+   "t": 2808.4,
+   "text": "Okay, so how are you dealing with the thousand percent... No, I'm serious. How are you dealing with the 1,000 percent increase in pussy in your life now? It's a little unmanageable. Unmanageable? Yeah, I realize that it's not all that it was..."
+  },
+  {
+   "t": 2822.1,
+   "text": "Oh, and to go back to your thing, he calls because he sucks at texting. Yeah, he does things like, 'hey.' I don't know what the fuck you're talking about. My texting game is horrible."
+  },
+  {
+   "t": 2833.9,
+   "text": "Horrible. Yeah, but girls don't like to talk on the phone, Steve, it's annoying. But it's better for him because he sucks at it. Yeah, I know. So get good at it, I'm telling you."
+  },
+  {
+   "t": 2844.4,
+   "text": "He sucks at social media, he sucks at texting. He can sound very abrasive via text. Let's talk about Val, we haven't talked about Val. Val, your turn. Wait, hold on. Joe loves doing these shows."
+  },
+  {
+   "t": 2858.8,
+   "text": "Steve, all you have to do is add a smiley face. We haven't talked about porn or Val. We have new guests. If you throw that smiley face in, you can say anything. I suck at texting."
+  },
+  {
+   "t": 2869.0,
+   "text": "I'm giving you advice. No matter what you say... Wait, what's your smiley face? 'You're a pussy.' Small smiley face. 'Emotional ass,' anything. 'You dumb bitch,' smiley face. This is my texting game. Yes, no, okay."
+  },
+  {
+   "t": 2884.7,
+   "text": "You just say 'LOL,' period. LOL, bye, hi. That's it, that's all I know. I don't even know how to do it. Do you even have emoticons on your phone? No. No. Can you help him?"
+  },
+  {
+   "t": 2897.9,
+   "text": "I have to do it. You can help him. Send my colon with the end of breath. No, I don't know how to do it. On his behalf, so have you. Yeah, so many times."
+  },
+  {
+   "t": 2905.4,
+   "text": "All right, whatever, it's working out for you. Are you able to manage? Yeah. You're saying it's unmanageable? I like talking. Hey, you know what makes it manageable? What? Texting. That's what makes it manageable."
+  },
+  {
+   "t": 2915.1,
+   "text": "I have to meet her now, Steve, right? You've seen me, you've seen how I do it? Yeah. All right, listen. But you just said you didn't want a girlfriend because you don't want to keep buying gum."
+  },
+  {
+   "t": 2924.3,
+   "text": "What? What is that? You want her to buy gum for you? No, it's because of my breath. He goes, I don't want one, I have bad breath. You have halitosis?"
+  },
+  {
+   "t": 2931.2,
+   "text": "No, he doesn't have bad breath. He has horrible breath. You just have to find a girl who doesn't have a sense of smell. You don't have bad breath. He's sniffing and he's eating his ass fingers, his ripples. Stop eating your asshole. Edit that out, please guys, edit that out. Alex, on the next Costco run..."
+  },
+  {
+   "t": 2951.7,
+   "text": "...Listerine breath strips, like economy size. I'm not really smiling, I know, I'm kidding, it doesn't really smell. Don't do those, don't do those donkeys. All right, so listen, wait, who's next? No, I'm still on you, bro."
+  },
+  {
+   "t": 2970.0,
+   "text": "Yeah, back to you. Because of you. What do you mean, because of me? So, uh... Oh yeah, what's going on here? So we go... So he says, in front of the fan... Oh, yeah."
+  },
+  {
+   "t": 2979.3,
+   "text": "...the new Denzel movie, The Equalizer. So I'm like, you just fucking told the guy. He's, like, texting someone right now. I have a contest for 100,000 dollars, we're like... Okay, you want to talk about that?"
+  },
+  {
+   "t": 2989.4,
+   "text": "Motherfucker, you wanted to bring the 100,000 dollars with us to the art show to show fans that you're serious and that you really have 100,000 dollars. Hold on, this is the program for your ass."
+  },
+  {
+   "t": 2997.6,
+   "text": "So, you guys are fans of the show. Do you think I'm serious when I talk? Because there's a lot of things I end with 'JK.' So when I say I'm gonna give away 100,000 dollars, the contest started two weeks ago, and one of the main clues is, well, the show's not gonna air forever."
+  },
+  {
+   "t": 3014.0,
+   "text": "It's Momofuku in New York. Four people got it. I literally almost just spelled out the clue, and four people got it. It's crazy to me. Yeah. Like it's fucking nuts. And I think it's because people just don't think I'm serious. It might have something to do with that. So I said to Critter..."
+  },
+  {
+   "t": 3034.7,
+   "text": "...I was like, we're gonna go to like a million art openings tonight, let me just bring the cash in and let people take pictures of it and hold it, and then maybe they'll think it's more serious. And I was like, maybe you could finally do your job and hurt someone else besides me."
+  },
+  {
+   "t": 3046.5,
+   "text": "So anyways, we go see the movie, Eric Griffin's there, whatever. And I walk out especially upset because it just wasn't that good. It was okay. Two nights in a row, bad movies. So I get in the car and I go, no more Liam Neeson shit, no more Denzel. And he goes..."
+  },
+  {
+   "t": 3061.9,
+   "text": "...I saw About a Time Machine. About Time. About Time. And I go, what the fuck is that? Because if you know Critter, you know he hates sci-fi, you know he hates fantasy, and he only wants to see movies with lots of realistic killing, or very romantic comedies. He loves The Notebook. So he goes, I saw About Time, and not only did he see About Time, he watched..."
+  },
+  {
+   "t": 3091.0,
+   "text": "...it again the next day. And I go, what the fuck is going on in the psychology of this guy's head, where he wants to see people getting their faces ripped apart with their hands, and then the fucking faggiest comedies ever. Like the next night, he goes, oh, and he couldn't..."
+  },
+  {
+   "t": 3107.6,
+   "text": "...remember the name, he's like, no one's in it. And it's like, no big names, right? You liked About Time? Yeah. Rachel McAdams, only like the biggest rom-com star. All right, so then he's driving and he looks it up on his phone, and everyone's got a thick..."
+  },
+  {
+   "t": 3125.1,
+   "text": "...everyone's got a thick British accent, there's no special... You know what the time machine is, from what I gather from the preview? He goes in a cupboard. Yeah, he goes in a cupboard and he closes his eyes."
+  },
+  {
+   "t": 3136.7,
+   "text": "That's the time machine. Yeah, but you know what? Okay. Oh, great job with the special effects. No, but it's not that kind of movie. The cool thing about the movie, and I didn't think I would like it at all, is they treat it like the whole movie is really realistic."
+  },
+  {
+   "t": 3151.4,
+   "text": "And you even believe that he can go back in time, right? Oh, wait, wait. Because there's no machine. I should do it again. Guys, you ready? I need it to go dark when I clench my fist."
+  },
+  {
+   "t": 3163.6,
+   "text": "Okay, I'm in the closet. Oh! Oh! Oh! Wait, I was in the shower! I was in the shower! [everyone laughs] Oh wait, all that happened right now is we went 20 minutes back in time to where I was talking about my rib again."
+  },
+  {
+   "t": 3187.9,
+   "text": "Wow man, you got some COVID there, look at that. Yeah, well, I was doing your stupid fucking contest that no one wants to play. Wow, only two nipples. We have to do the white snake contest."
+  },
+  {
+   "t": 3199.7,
+   "text": "I can do it again! Do it again, do it again. We missed it, we missed it."
+  },
+  {
+   "t": 3207.7,
+   "text": "You can do that downstairs too. I can do it with the dick, yeah. I can make the dick, the helmet, come up and poke me in my belly button. Okay, we want to see."
+  },
+  {
+   "t": 3219.0,
+   "text": "All right, well, look, I just want to... But what's wrong with that? There's nothing wrong with it. I'm the same as you, I like movies that are gross. Yeah, but you're a cute girl that likes girly shit."
+  },
+  {
+   "t": 3230.7,
+   "text": "You love Hello Kitty and stuff. Well, it's because I have a lot of violence in my life, and then I like to have a lot of happy... The psychology of Critter. ...happiness moments."
+  },
+  {
+   "t": 3240.8,
+   "text": "All right, I'm off here. Let's jump on to Val now. Fuck yes. Thank you, Val. Val, I'm sorry, buddy, good luck. I'm here if you need me. We have one of the biggest Val fans ever in the room right now."
+  },
+  {
+   "t": 3252.6,
+   "text": "69. I've heard from our social media expert that she likes and comments on almost all of Val's stuff. Now, Val, we all know, as people who like the show, who are on the show, that Val is never wrong."
+  },
+  {
+   "t": 3273.0,
+   "text": "He always says the right thing, he always has the right answer. Should you hit women? You guys know the answer."
+  },
+  {
+   "t": 3283.1,
+   "text": "Um, well, what do you think the answer is? I mean, if I come at you charging, yeah, knock me out. I agree. No, I'm with Kalilah, like, I think there are times... If we're gonna be like, you can't hit women, then women shouldn't hit men either. Like, if a woman hits you, then I think you can hit her back. That's like..."
+  },
+  {
+   "t": 3302.4,
+   "text": "I would say a girl like my sister, who's six feet tall and has wide shoulders, both of us together, and if she backhands you, she will just take you out."
+  },
+  {
+   "t": 3311.5,
+   "text": "She will lay you flat. But it's like... Kalilah's sister's hot too. Her sister's hot, her mom's hot. Oh, you've met my sister. That's right, I have met. Yeah, what, am I gonna get my chance?"
+  },
+  {
+   "t": 3323.7,
+   "text": "I like tall women. She's a lot darker and she looks Amazonian. She looks like she's from, like, Bolivia. We'd probably have some tall kids. Yeah, you would make football babies."
+  },
+  {
+   "t": 3334.0,
+   "text": "Like, I would literally buy one of your kids. Can you set them up? But she's seeing someone. Oh, I can't sabotage you. I can't, I can't. You can sabotage me, I'm talking about that."
+  },
+  {
+   "t": 3344.4,
+   "text": "I like... She's not your type, bro. No, she loves big. He is exactly my type. No, no, he's every girl's type. Yeah. She's not his type. He doesn't have gigantic tits, but she has me."
+  },
+  {
+   "t": 3355.7,
+   "text": "He likes tall white girls. Oh, a giant guy with a thick, huge cock? Oh, yeah, I think that's my type. Do you date all girls? I like them all. No, he doesn't."
+  },
+  {
+   "t": 3366.6,
+   "text": "He likes blonde white girls. I don't discriminate. She has never been with an Asian. I know you like gigantic breasts. He's never been with an Asian, and I doubt he's ever been with a Mexican."
+  },
+  {
+   "t": 3375.0,
+   "text": "Oh, what, tits aren't big enough for you? What, tits aren't big enough for you? I like all boobs. My mom is big. It's just, I dated a girl for a long time that had decent-sized boobies, so now I'm into this huge..."
+  },
+  {
+   "t": 3385.8,
+   "text": "He loves huge titties. You just like to get lost in them? I just... He likes to motorboat. Does your mom have big boobs? My mom's got monsters too. That's why. That's why. That's why."
+  },
+  {
+   "t": 3396.3,
+   "text": "She's got very soft legs too, and her skin's very soft. I didn't know they're soft. Like, when I kiss her, it's just... And the legs? Hey, another thing is, when I went to the doctor and they found out which rib's broken, you couldn't have broken the bottom one, so I could..."
+  },
+  {
+   "t": 3414.2,
+   "text": "That's how they do it. Or we get it removed altogether. Yeah, they fucking break the bottom ones so you can suck your own dick. If you want to suck your own dick. No, I don't think that has anything to do with it."
+  },
+  {
+   "t": 3422.5,
+   "text": "I would never leave the house again. If I were a dude and I could suck my own dick, I think... I interviewed the RZA, and he's like, nah, that's gay, man. I want to suck my own dick."
+  },
+  {
+   "t": 3431.1,
+   "text": "I go, but it's your dick. He's like, I ain't sucking no dick. I go, it's your dick. Does he jerk off? Huh? Does he jerk off? I heard you say it. He was on some mystical shit."
+  },
+  {
+   "t": 3439.2,
+   "text": "I feel like even if you could, it's just tiring, like, I'm too lazy. It's like 69ing. It's the one thing in life I'm not... It would be easier to jerk off."
+  },
+  {
+   "t": 3448.7,
+   "text": "Yeah, I'll be like, this feels so good. Oh, wait, I'm about to kill my brother, stop. And then your dad comes in and, over! Ow!"
+  },
+  {
+   "t": 3464.4,
+   "text": "Now you're sucking your own dick. Oh my God. I'm going, oh, sorry, Dad. He might be like, wait, how do you do that? So, we know Val is a ladies' man. Ah, yeah. Yeah, women pay him to fuck them."
+  },
+  {
+   "t": 3480.1,
+   "text": "Yeah, this is also a legend. I'm lucky now. And, you know, Val is the fucking best. He does a lot of work for us. We love him. He's the strong, silent type."
+  },
+  {
+   "t": 3493.0,
+   "text": "He doesn't talk much. So you can imagine my shock, my surprise, when I got this phone call one night. You know what I'm talking about, right? Yeah, I'm awesome. A slightly drunk Bobby calls me."
+  },
+  {
+   "t": 3506.0,
+   "text": "Woo-hoo! What's going on? I'm here working. And he goes, he says it like it's a thing that always happens, like, boy, he's hitting the town tonight. Like, what the fuck are you talking about?"
+  },
+  {
+   "t": 3517.0,
+   "text": "I love that, Bobby. And he's fucking like, yeah. That's the perfect level of drunk for Bobby. And it's midnight already. It's already midnight. I'm like, I'm at work, what the fuck, man?"
+  },
+  {
+   "t": 3526.4,
+   "text": "He's like, yeah, me, Poon, and Val, we're gonna fucking hit the strip club, come on, let's go. Like this is something we do all the time. We've never done this one time, ever."
+  },
+  {
+   "t": 3537.4,
+   "text": "Like, round up the boys. And I go, whose idea? I'm figuring it's Bobby's idea. I go, Quiet C, you know about this? He goes, Val called Poon. Which was even weirder."
+  },
+  {
+   "t": 3549.7,
+   "text": "Like... What is going on here? What? So... Okay, don't play dumb with me. Someone's jealous that he was laughing on the phone. He's losing a circle. Listen to me, Poon. Sometimes you just call Bobby to hang out, sometimes you just call Val. Or what's going on? Has Val ever called you before?"
+  },
+  {
+   "t": 3574.5,
+   "text": "No. He's never in his life texted you or called you? So out of the blue he calls just you, no one else? But they've hung out together before, alone, right? Where you initiated. Yeah, well, I called him when we had lunch, so I could do something. What was going on this night, Val..."
+  },
+  {
+   "t": 3588.5,
+   "text": "...that you called him? No, because he always called me. Like, we got lunch or something. Oh, okay. And I always start, and I'm busy. So that is how I was gonna go out."
+  },
+  {
+   "t": 3597.2,
+   "text": "And I think I'm pumped. And I said, I'm gonna go out with him. So then he says, oh, Bob is gonna meet us in the warehouse. Oh, okay. And I said, what?"
+  },
+  {
+   "t": 3608.2,
+   "text": "Why are you gonna...? Yeah. And, yeah, we can meet him right here through the warehouse. And then he called you, Bobby called you. So it was boys' night out. I'm like, I guess this is the thing."
+  },
+  {
+   "t": 3620.4,
+   "text": "I feel like this is the least masculine boys' night out ever. It's boys' night out. It was the most... I'm eating it tonight. Somehow I doubt it. It gets really good. Okay. Who just farted right now?"
+  },
+  {
+   "t": 3635.1,
+   "text": "It wasn't a fart, it's my shoulders. It was a bit of the shoulders. Excuse me, sorry. This guy is so... Was that you? No! A bunch of times. You look like Zatanna the magician."
+  },
+  {
+   "t": 3650.4,
+   "text": "Um, anyways, you like that, right? Yeah, but white... So I say, how often does Val call boys' night out? You know, work, let's do it. Now, in this area, there's a lot of strip clubs, we're in the warehouse area. Who farted? I just..."
+  },
+  {
+   "t": 3680.5,
+   "text": "Who came to this silent dude? And you don't get the point? It doesn't smell. She smells it. Your farts are the worst. Will it fucking kill you to hold it? You can't hold it."
+  },
+  {
+   "t": 3693.7,
+   "text": "It's impossible, it just slid out. It's impossible, you can't hold it. Your butthole's that loose. It's from playing with your butthole so much. No, I don't play with it that much. Your butthole's that loose."
+  },
+  {
+   "t": 3702.0,
+   "text": "You couldn't hold it. You know this story's only gonna be an hour long. It's not that I play with it, I didn't play with it that much. It was hard to make."
+  },
+  {
+   "t": 3708.9,
+   "text": "I was gonna try to ignore it. And the best part? You didn't move. Yeah, you stayed there. Somebody likes it. Somebody likes it. It kind of smelled a little bit like Mexican food."
+  },
+  {
+   "t": 3720.2,
+   "text": "I know what we're gonna have for dinner tonight. I feel sick. Oh, God, I feel so sick. Do you smell it too? No... yeah. It was really little. Back to back. How drunk were you guys when I saw you?"
+  },
+  {
+   "t": 3734.1,
+   "text": "You guys had already started drinking? No. Poon, do you drink? No, I don't drink. No, we hadn't, but Bob, you already started drinking. Yeah, you were already... Yeah, apparently you were drunk when you called Dave."
+  },
+  {
+   "t": 3744.4,
+   "text": "Oh, you were just drunk with, like, life. Yeah, I don't think I drank. You were in Westwood having ice cream, that's what you told me. Yeah, so I wasn't drinking. Oh, so you were high on sugar."
+  },
+  {
+   "t": 3753.9,
+   "text": "Wait, you were having ice cream? I was gonna take Quiet C to get ice cream. But instead, boys' night out? Yeah, and then she's like, I don't even want ice cream. So I'm like, all right, and then she's like, just go out."
+  },
+  {
+   "t": 3765.6,
+   "text": "So I dropped her off, and then we started drinking. We picked you up. It's the power of Val. Picked me up? Okay, so, yeah. So we go to a strip club in the area that serves alcohol."
+  },
+  {
+   "t": 3778.0,
+   "text": "And we get in there and, you know, I wash my hands in the bathroom, and there's a little fucking kid in the bathroom. And he's talking with a guy, and I'm like, who?"
+  },
+  {
+   "t": 3787.9,
+   "text": "Are you sure it's not a midget? Well, it was a midget. So he's like... Because he didn't look like a midget, he had more, like, normal... Proportional. Yeah, they're called proportionate."
+  },
+  {
+   "t": 3798.2,
+   "text": "It's called proportionate. But he looked like a little kid from behind. He's talking to his dad or whoever, and I'm like, this guy brought his fucking son to the strip club. And he's washing his hands in the sink like this."
+  },
+  {
+   "t": 3808.6,
+   "text": "And I'm like, there's a fucking kid in the strip club right now. And then he turns around and I go, oh, he's a midget, you know? And then... A little person, David. Huh? Yeah."
+  },
+  {
+   "t": 3816.8,
+   "text": "A little person. Sorry, a little person. Or a dwarf. Yeah, yeah. Okay, a midget. So we get out, and this is something I've heard and we've discussed on the show before, the shrinking of strip clubs."
+  },
+  {
+   "t": 3832.0,
+   "text": "I don't know if it's everywhere in the world, but with things like Oculus Rift coming out, and the amount of gorgeous, gorgeous women in porn, from just normal chicks you see on Reddit Gone Wild to whatever, it's pretty empty on a, what, Friday, Saturday night?"
+  },
+  {
+   "t": 3849.2,
+   "text": "Yeah, it was Friday or Saturday. Friday night, and it's, where they at? Midnight, when it should be the most packed, and it's sort of dead. The girls weren't as hot as I would expect. LA is kind of like that, though, right? Well, the discussion we had with Yoshi when he was..."
+  },
+  {
+   "t": 3864.5,
+   "text": "...on the show was, you're gonna go to the strip club, you're gonna spend a lot of money that you worked all week making, and you're not gonna get to bust a nut. Back then. Now all kinds of wonky shit happens at strip clubs. Like the Chris Rock thing, there ain't no sex in the champagne room."
+  },
+  {
+   "t": 3881.6,
+   "text": "There's, like, almost always sex in the champagne room. Almost all the time now. But that's what they had to do, because what happened, or what my theory is what happened, is, you're gonna go to the strip club, you're not gonna get laid, you're gonna leave with blue balls, you're gonna have a boner..."
+  },
+  {
+   "t": 3895.2,
+   "text": "...and you're never gonna get to fuck, when you could have just gone online, jerked off, and seen a girl pose naked and fuck her boyfriend and do all this shit. No, you can even webcam with a girl."
+  },
+  {
+   "t": 3903.9,
+   "text": "Webcam. You could just fuck a girl for the same amount as going to the strip club. Yeah. Or just do that, why not just see a girl? So we're there. We're at a strip club Saturday night, Friday night."
+  },
+  {
+   "t": 3917.2,
+   "text": "It's fucking empty. And these guys start doing shots and start drinking, they start getting... Yeah, boy. And then something funny happens. The women start looking more attractive."
+  },
+  {
+   "t": 3929.5,
+   "text": "Wait, were you drinking too? No, I wasn't drinking. I'll fuck anything that moves by. Curious. So anyways, these guys... And it always happens, right? It happened when you went to Macau. It's like everyone just sort of finds their girl. Yeah, their type, which for you is an Asian, for me is usually a Latin girl with a humongous ass. And bells. Type every vagina."
+  },
+  {
+   "t": 3957.5,
+   "text": "So for a long time I was like, there's not one girl here that I would get a lap dance from. And so I was getting lap dances for these guys. And Bobby found one that he really liked, an Asian one, right?"
+  },
+  {
+   "t": 3972.3,
+   "text": "Mm-hmm. What does that... nothing. Keep going. So he gets one, and then finally, I think towards the end when we were about to leave, I saw, like, a white chick with, like... I like this combo sometimes, tiny tits, real, with a huge ass."
+  },
+  {
+   "t": 3986.6,
+   "text": "Oh, like the Brazilian. It's like, amazing. It's like a Brazilian body. So I go back to the VIP room to get a lap dance right next to Bobby, and the midget is just getting pounded."
+  },
+  {
+   "t": 3997.9,
+   "text": "The midget is just getting slammed. Like, she's like, yeah, he's like this and the chick is just hitting off the tits, and he's like, yeah, yeah, yeah. And I'm looking at Bobby and I'm like, Bobby, look at this fucking midget getting pounded. And Bobby's in his own world. Imagine what it feels like to be a midget getting a lap dance."
+  },
+  {
+   "t": 4016.8,
+   "text": "Why was she the best? She gave a good lap dance. No, but you went back a few... Did you get one from her too? Yeah. Why was she the best one?"
+  },
+  {
+   "t": 4030.4,
+   "text": "Because it's a bikini bar, so a lot of girls don't take their top off. But this one did? Right? What was the one you liked? It was the Asian, no? No, you. Me?"
+  },
+  {
+   "t": 4042.6,
+   "text": "Yeah. Blonde Asian. Really? Asian. Yeah. I totally would have thought some kind of Latin or Filipino. She was Filipino, right? Uh, yeah, just blonde. Oh, a blonde. She grinded on your dick, man."
+  },
+  {
+   "t": 4056.8,
+   "text": "She grinded on your dick? She grinded you? Yeah, yeah, yeah. And look, we're at a fucking strip club, you're getting a girl that just grinded on 100 guys' dicks earlier, right?"
+  },
+  {
+   "t": 4070.9,
+   "text": "But this thing happens when you go with your bros, right? Like, I went with Critter to the best one in the world, Spearmint Rhino in Vegas, and it's like, you sort of find your girl, and then that's sort of your girl."
+  },
+  {
+   "t": 4081.2,
+   "text": "You know? Oh, like you don't share her? I mean, you do, but you're like, that's my girl."
+  },
+  {
+   "t": 4093.3,
+   "text": "Like the one that loves Critter, the one where the guys, the waitress, everyone was mad. She was, like, begging him, can I come home with you? It was like that. And Critter, he has his hat on, his weird hat, covering half his face."
+  },
+  {
+   "t": 4108.2,
+   "text": "They let you wear that in the strip club? They didn't want it, but I was like, I'm not taking it off. They're like, okay. I mean, she's doing what I'm doing."
+  },
+  {
+   "t": 4115.3,
+   "text": "Like, I'm like, hey, when do you get off work? I'll pay you to get off work early. Come on, dude. And she's like, I'll leave work early, I'll come to you, you know?"
+  },
+  {
+   "t": 4123.0,
+   "text": "So, you know, sometimes it happens. And it happened here. So, Bill had the blonde Asian. Blonde Asian? Bobby had the Asian one, and I found my chick. Val. You know what's coming next, Val."
+  },
+  {
+   "t": 4138.2,
+   "text": "I can't wait, this is gonna be good. Val cuckolds the shit out of all of us. Val is drunk as shit, and the girl's, like, sitting on me, and he just, like, grabs her off my lap and starts doing this to her ass."
+  },
+  {
+   "t": 4150.3,
+   "text": "This is her ass. It starts fucking... Val! I know a security guard that could keep you from, like, happening. And she's like, oh, okay, I guess this is happening. He, like, just steals my girl away."
+  },
+  {
+   "t": 4158.8,
+   "text": "He goes up to Bobby, takes her and her girl. And then Val's pretty wasted at this point. And then you guys wanted to keep going, right? It was, like, two in the morning."
+  },
+  {
+   "t": 4168.7,
+   "text": "Yeah. Where'd you guys go? We went to get a massage at a Korean spa. And then Tommy... Yeah, but Korean spas are legit. So I'm like, we're getting cuckolded by Val right now."
+  },
+  {
+   "t": 4179.8,
+   "text": "He's literally just taking all of our girls and, like, fingering them in front of us. I'm like, I mean, I'm not gonna be jealous, it's cool, it's cool. Wait, but is this just you guys?"
+  },
+  {
+   "t": 4188.8,
+   "text": "Or is it, like, an all-guy thing? No, look, it's... Do all groups of guys do this where they claim their one girl? It was so blatant, though. I mean, the fact that Val did it makes it... that's what's right."
+  },
+  {
+   "t": 4202.5,
+   "text": "Like, all of you were wrong. Here, Heather, sit on someone's lap for a second, I'll show you what it would look like. Whose lap? Just sit on Steve's lap. This is what it looks like."
+  },
+  {
+   "t": 4217.0,
+   "text": "Like, wait, facing him? Yeah, just sit on his lap. Just sit on his lap. Okay, so you're with him now, and I'm Val. I'm like, oh, CK. All right, and I'm like, all right, cool, I guess. And then he just, like, does the ass grabbing where he's like..."
+  },
+  {
+   "t": 4237.7,
+   "text": "...sort of like fingering them too. And I'm like... And I loved it. I was like, we're getting cuckolded like this, this is great. Oh, you weren't there? You saw it, right? Yeah, I mean, it was amazing. And Val's wasted, and so these guys want to keep going."
+  },
+  {
+   "t": 4252.2,
+   "text": "They're like, let's go get food, let's go. And I go, now I'm gonna fuck this stripper, I'm gonna just share some money, I'll just fuck her, you know. And he's like, you think you just fucking get all the pussy? You take all of it. You don't think I want some too?"
+  },
+  {
+   "t": 4267.7,
+   "text": "And I go, no, dude, I offer you my whores all the time. He's like, just all the pussy's for you."
+  },
+  {
+   "t": 4275.3,
+   "text": "You don't think I want some pussy too? I go, fuck, Val, whatever you told me, I'll fucking buy you a... I'll send these guys to Macau, I'll fucking send you wherever you want to go. So it was a fun night."
+  },
+  {
+   "t": 4289.7,
+   "text": "He demanded money. What? That's what I heard. What? Is that true? He's like, give me some money. No, I didn't say that. I was like, I think you're completely fine. He took his money."
+  },
+  {
+   "t": 4303.8,
+   "text": "He took all his money. He was, like, all his money. Well, they were trying to come up with the math. Like, you know, there's stripper math. It was like, hey, I just gave you this many lap dances."
+  },
+  {
+   "t": 4314.5,
+   "text": "Do you want to just fuck? And my move is, yeah, I fucking live across the street, let's go fuck. And then, how much are you gonna give me? So I was figuring out the math about all my money. He's like, give me the money, I watched the pussy too. I was like, dude, you just have to ask, of course, I love you getting..."
+  },
+  {
+   "t": 4331.0,
+   "text": "...laid all the time, you don't have to just finger all of our girls, but in front of us. He's just like... When are we going and doing this again? Tonight. And so, I don't know."
+  },
+  {
+   "t": 4348.2,
+   "text": "So then you went home with the stripper and these guys went to the massage parlor? Yeah, what did you guys do over there, blow each other or what? Are you not allowed to say which club it was?"
+  },
+  {
+   "t": 4357.5,
+   "text": "No, why not? It was Dames and Games. No, your favorite, right? There's a girl there that wasn't there. Angel, she wasn't there, she's so amazing. Have you gone there to see how she does it? No. She'll make you feel like a millionaire. She grabs..."
+  },
+  {
+   "t": 4379.8,
+   "text": "Hey, field trip tonight, let's just go. What is it? It's Friday night. She's obviously been practicing. Her ass goes like those machines, it picks it up every time. It is amazing. Like she can stroke off your dick. All four of us came walking out, we're all like, oh yeah, who's next?"
+  },
+  {
+   "t": 4406.1,
+   "text": "Who's gonna go try this out? So, you're not gonna try this out? She's not the most attractive one there, so I was like, Critter, just... He's like, no, no, I don't want it. And I go, just go. And then he walked out, hunched over. I don't get it, so you have to take your dick out?"
+  },
+  {
+   "t": 4420.8,
+   "text": "No, she doesn't. She's just that good, she can somehow get a hold of your dick. Yeah. And it feels like she's almost blowing it or rubbing it. I'm so jealous."
+  },
+  {
+   "t": 4431.5,
+   "text": "Wow. Wow. She's amazing. Look, she's a little bit older, so you have to, like, dab in the pants around the shaft to be able to do that. Well, obviously the four that we were with were very well-endowed humans."
+  },
+  {
+   "t": 4443.6,
+   "text": "Wait, and you're sitting in a chair? We're all like, can we learn? Yeah, I know, I'm clenching my butt right now. Her butt is like another hand, it's like... Well, the thing is, like I said, she's a little bit older, she's not the most attractive one there, so she had to develop other skills, like..."
+  },
+  {
+   "t": 4461.6,
+   "text": "...mutations. Like sometimes you have to develop other body parts, it's evolution. But since I was talking about this part..."
+  },
+  {
+   "t": 4475.5,
+   "text": "You can do that anytime, I love you, I love being cuckolded. Just because you don't say anything, it doesn't mean you can do it."
+  },
+  {
+   "t": 4490.2,
+   "text": "So, yeah. I was at my aunt's funeral with my uncle. Pussy and finger blaster and weird uncle's funeral. And my uncle, who I've known since I was a baby, since I was born, has this much of his finger missing."
+  },
+  {
+   "t": 4509.2,
+   "text": "So it's just one of those things that you know, you're like, I have a weird uncle, cousin with six fingers. Well, I have that too. What? The top of his finger is gone, man."
+  },
+  {
+   "t": 4521.0,
+   "text": "All right. Funny. These are the worst jokes ever. They sit on his lap and they go, when are we gonna fuck tonight? Okay, go back to your fucking uncle. Tell us about your ribs."
+  },
+  {
+   "t": 4536.7,
+   "text": "So my whole life, I've known him as the uncle with the finger missing. And his family, I'm not close to, so I'm like, hey, dude, what's up with your... you know, it's not that kind of relationship. So literally an hour after we buried his wife, we're sitting in his backyard and he's just sitting by himself playing classical music."
+  },
+  {
+   "t": 4555.1,
+   "text": "And me and my brother, we sit down, and unprompted, he just starts telling us what happened, which is something I never knew before. Oh, about his finger? Yeah, he's just looking at his finger, and we're looking at his finger, and he's like, you know what..."
+  },
+  {
+   "t": 4568.5,
+   "text": "...happened? Yes, this is crazy, finally. So I didn't know this, but I just found out about this, and I don't know how accurate it is, but during World War II and the Japanese kamikaze pilots... So what?"
+  },
+  {
+   "t": 4588.2,
+   "text": "Well, look, I've been friends with the Nambas and Japanese people my whole life, and my family, the older aunts, my grandparents, all were forced to have Japanese names and all that. So they're the ones that should have the most hate, or whatever, but they always were super cool. So you guys all know what kamikaze pilots are, right? Anything where you commit..."
+  },
+  {
+   "t": 4613.0,
+   "text": "...suicide for your country, you're like, yeah, for pride. You're 18, you're 19, you're in the army, and you want to make your country proud by killing yourself, you know? Like, I get it, I went to Afghanistan with Critter, and it's like, life is miserable there. If you're a woman, you get raped and beat up your whole life, so it's like, okay..."
+  },
+  {
+   "t": 4633.4,
+   "text": "...definitely, I want to kill myself. Well, no, but also, in Afghanistan there's, like, incentives, right? Like, a million versions. It sounds wonderful if you're raised to think that way, being a young Japanese... But in Japan, I don't think there's any incentive. So picture being a young Japanese soldier and you're like, yeah, I'm in the Air Force. Yes."
+  },
+  {
+   "t": 4655.1,
+   "text": "You're like, yeah, you just made it into the kamikaze department. Like, what is that? You're like, you get to fucking represent your nation and turn into a human bomb. And it's like, yes, we're a proud nation, this and that. So I found out that that's actually not 100 percent bullshit, but it's sort of bullshit, that they were actually just making Koreans do it and saying..."
+  },
+  {
+   "t": 4677.3,
+   "text": "...yeah, I read it, I don't know if it's true. And so my uncle goes, they were gonna make me be a kamikaze the next day, and I knew if I cut my finger off that night that I can't fly the plane. So he cut his finger off and he threw it..."
+  },
+  {
+   "t": 4690.5,
+   "text": "...like under the kitchen or some shit where they couldn't find it, and he didn't sew it up, it was bleeding everywhere. And I did this actually in prison too, but... Why wouldn't you cut that finger off? I don't know, like, that's like..."
+  },
+  {
+   "t": 4707.4,
+   "text": "That would have sucked if they were like, you can still shoot. Yeah, wrong finger, idiot, we got our new plane. It was whatever finger he needed to fly it properly. So the next day, he's bleeding everywhere..."
+  },
+  {
+   "t": 4719.2,
+   "text": "...and they're like, yeah, this fucking guy can't be in it. So he... And then the war ended three months later. And he goes, do you like this song? Like, classical music playing."
+  },
+  {
+   "t": 4731.0,
+   "text": "And I'm like, that is the fucking most hardcore stuff. That's crazy. I like that story. We lived. Yeah, he lived, to tell you that story. Yeah, he lived. I mean, this is a really fucked-up thing to say, but that's kind of a brilliant plan."
+  },
+  {
+   "t": 4744.3,
+   "text": "Like, we'll make the Koreans... I mean, you guys look like us. Yeah, and there's... Like, out of all the Asians, you look the most like us. Well, it inspires, you know, like, wow, there's people, like..."
+  },
+  {
+   "t": 4754.4,
+   "text": "It makes people who aren't kamikaze pilots go, man, there's people killing themselves for us, we should really... Yeah. It's good marketing, it's good PR. No, it is, it's good PR."
+  },
+  {
+   "t": 4762.7,
+   "text": "You can't do it now. But it's horrible. Oh, you're doing some fucking trivia now, motherfucker? I got some. Oh. Bring some shit down. It's gonna have something to do with the finger. Have you been listening? What's going on with you?"
+  },
+  {
+   "t": 4775.7,
+   "text": "Nothing. Like, right here. You got some weird Neapolitan ice cream thing. Let me see. It's like light and then really dark and then... It's because the sun doesn't hit where his hair is. Is that what's going on?"
+  },
+  {
+   "t": 4789.4,
+   "text": "No, it's just a wrinkle. No, look, it's like light. Let me see. He turned towards me. I think it's a wrinkle. No, there's something there. Melanin. Wait, are you wearing a hat?"
+  },
+  {
+   "t": 4803.1,
+   "text": "Oh, maybe... Are you wearing a wig? No. I think I was wearing a hat. What about your hairpiece from your...? Hey, what's up with jury duty? I got out of it. Bobby got called in for jury duty."
+  },
+  {
+   "t": 4811.4,
+   "text": "Oh, how'd you get out of it? They just didn't pick your number? No, they called me to the stand and then... Guess who gets called for jury duty every time and never gets called out?"
+  },
+  {
+   "t": 4821.1,
+   "text": "Critter. Wait, and so what happened? And they just asked you the questions? Yeah, they asked me the questions. And then they're like, okay, you're good to go? Yeah, and the defendant's attorney used the..."
+  },
+  {
+   "t": 4835.1,
+   "text": "...got rid of you? Yeah. Such bullshit. I say everything wrong and they still keep me, I had to do a month. Oh, you're saying they keep you? Yeah. I think it seems super fun."
+  },
+  {
+   "t": 4847.6,
+   "text": "No, but he says, like, I'm in the KKK, like, cool. Like, he says the wrong thing. They pay you nothing. Oh, I thought you do get paid. I thought you get paid whatever you're talking about."
+  },
+  {
+   "t": 4858.4,
+   "text": "No, not that, it's like 15 bucks a day. I need a box of chicken. No, that sucks. It's a huge group, you're in there with all these shitheads. It sounds like fun."
+  },
+  {
+   "t": 4865.5,
+   "text": "Like, what if you get, like, a murder trial? You would love it then. Yeah, I think that would be fun. I mean, the only fun part is when you're adjourned, when they're waiting at lunch break and stuff, is all the criminals are walking by you in the hallway."
+  },
+  {
+   "t": 4877.6,
+   "text": "So you can see the bad people, that's kind of cool. Like, he says fucked-up shit and they're like, this guy's perfect, and they keep him on. Oh, yeah. The last one, I was on a dog murder, and I said, I have dogs, and if you murdered my dog, I'd kill you."
+  },
+  {
+   "t": 4889.5,
+   "text": "And the guys, they're both like, perfect! You're on the jury! And I was like, wait, what? Have you ever tried saying not that? What's the flip-flop, like, the Freaky Friday?"
+  },
+  {
+   "t": 4899.9,
+   "text": "Like, it would be Poon and Critter switching bodies for one day. Like, what kind of shit? Like, Critter... Critter."
+  },
+  {
+   "t": 4910.8,
+   "text": "You think I can't do that? Are you doing it right now? Are you doing it? Yeah. You got your dick between your thighs? And Austin's panties, she left here last week. Nice."
+  },
+  {
+   "t": 4922.0,
+   "text": "Now they have to be clean. What would you do if you were Critter for a day? What would I do? I'd go out to the bar. Yeah, boy. He'd sit on a curb somewhere."
+  },
+  {
+   "t": 4931.5,
+   "text": "You would just do what he does. Yeah, exactly. But the other thing is, he talks to everybody. I can talk to everybody, that's not an issue. It's crazy. Like, in the car?"
+  },
+  {
+   "t": 4940.1,
+   "text": "And I say, I gotta work right now, he'll literally just start talking to himself. He's like, I guess someone's busy on their phone, and then he'll just start talking, and I'll hear him having a full-on conversation with himself. I guess I'll just talk to myself. Like I said, that's why you have me around, to..."
+  },
+  {
+   "t": 4955.5,
+   "text": "...talk to all these people. So you got out of jury duty. What's your problem? Nothing, I'm listening. Yeah, I got out of it, I wanted to stay. What was the case? It was a cab driver who accidentally hit, like, an 80-year-old guy."
+  },
+  {
+   "t": 4974.9,
+   "text": "That's so boring. All right, so you get out of ice cream night by going to boys' night, you get out of jury duty, and you're entering a new chapter in your life."
+  },
+  {
+   "t": 4988.3,
+   "text": "You're buying a home, or you bought the home. Yeah. I think I was near your house, Bobby, I was at 7-Eleven. Are you gonna have a housewarming party, or are we all invited?"
+  },
+  {
+   "t": 4996.2,
+   "text": "Yeah, yeah, for sure. It'll be fun, I'll throw a party. Nice. Can we get wasted? Yeah. White girl wasted? What's white girl wasted? Just completely wasted. And what? And you also... I don't know."
+  },
+  {
+   "t": 5009.4,
+   "text": "I'll show you. Yes? [to Heather] You're moving to the next phase in your relationship. I am. Whoa, really? You got a ring? No. No. Oh, my gosh. I'm still actually trying to finalize my first marriage."
+  },
+  {
+   "t": 5021.4,
+   "text": "But you're moving in with your lover? Yes, I am. Oh. Yeah. Well, that's sweet. Yeah. And I sort of... What does that mean for you, someone who's independent? It's really exciting, because I don't know if I necessarily want to get remarried or anything, and if I do, then awesome, but it's not, like, my goal, you know. But you like waking up to him? Yeah, you like..."
+  },
+  {
+   "t": 5043.8,
+   "text": "...yeah, it's really fun. I'm really excited to move in with him. But you're not gonna miss having your own place? No. My place was in, like, the ghetto, like someone got shot across the street. I live two houses down from some gangs. Like, the guy across the street, he's got, like, some crazy tattoo that says Barrio Nuevo..."
+  },
+  {
+   "t": 5065.0,
+   "text": "...right here on his face. What does that mean? Like, La Mara, MS-13. That's the trial of the guy. Are you moving into his place or finding a place together? No, I'm moving into his house."
+  },
+  {
+   "t": 5078.1,
+   "text": "Does that guy hit on you? And his place is beautiful. It's a little scary because he has so much stuff, a lot of gear. He's a musician and I am too. And so I'm afraid of not finding room for all my stuff."
+  },
+  {
+   "t": 5092.4,
+   "text": "I have a lot of guitars and stuff. Does the gang guy hit on you on the street? Who, the guy in your neighborhood, the new neighborhood, Barrio? Oh, no, no, no. He said, hey, if you ever need anything, I got your back."
+  },
+  {
+   "t": 5102.9,
+   "text": "You know, so I always kind of felt safe where I was at. Oh, that's kind of cool, though. Yeah, yeah, I felt safe. He's on your side. Was he jerking off while he was saying that?"
+  },
+  {
+   "t": 5109.7,
+   "text": "I mean, you hear gunshots, and it's like, it's the hood, and you'd hear gunshots, and that's not really a good feeling. Also, like, if he grows a mustache, you don't see it."
+  },
+  {
+   "t": 5117.9,
+   "text": "You know what I mean? Well, he always kept it shaved, so you could always see it. And as your lady... You could just grow up. Is your, um, Stevie Weeby, you've been to your girl's place, the special girl you like?"
+  },
+  {
+   "t": 5133.0,
+   "text": "No, she only comes to my place. She only comes to your place. Is she starting... or our place, right? Or, yeah, their place. Is she starting to leave treasures at your house?"
+  },
+  {
+   "t": 5143.5,
+   "text": "What do you mean? Like earrings and stuff? Oh, no, no, no, she hasn't. What, is that a sign? Well, it's a sign. You start with, like, a toothbrush or something, you know, like, oh, I left my overnight..."
+  },
+  {
+   "t": 5154.6,
+   "text": "Oh! Or like she leaves... Like, you've seen my house, right? Oh, I love your house! You've seen my house, right?"
+  },
+  {
+   "t": 5162.5,
+   "text": "So if a girl leaves earrings there, here's the best part. If a girl leaves earrings there, I'll never notice, but the next girl will. And she'll see all that trash. You see how dirty my house is, right?"
+  },
+  {
+   "t": 5172.2,
+   "text": "She'll be like, what the fuck is that? And I'm like, what are you looking at right now? Oh, they're claiming their territory. No, like, we will see it too."
+  },
+  {
+   "t": 5180.6,
+   "text": "Like, if you have, like, one tampon under your sink from, like, nine years ago, we'll be like, who the fuck was here? I'll see some shit in the garbage can. Yeah, yeah. I'm good at it."
+  },
+  {
+   "t": 5189.5,
+   "text": "I did that the other day. I looked under the sink, and I mean, I've been dating him for like a year, and I was like, why are there panty liners here? Yeah. Like, who's in your bathroom?"
+  },
+  {
+   "t": 5199.0,
+   "text": "What's a panty liner? No one sleeps here. What's a panty liner? Is that a part of your underwear? It lines the panties, for a panty sniffer. How do you not know what a panty liner is?"
+  },
+  {
+   "t": 5211.4,
+   "text": "It's like a thin one. Oh! It's for everyday, like... Remember we taught you about the discharge? Oh! Yeah, where it's always oozing. It's not good. Do you think there's such a thing as a marriage where each person can live in their own place?"
+  },
+  {
+   "t": 5227.5,
+   "text": "But maybe, like, close, in the same neighborhood? The Frida Kahlo-Diego thing. Yeah! I love that! I love that. Yeah, I love it too, and he can go there and fuck her sister and shit."
+  },
+  {
+   "t": 5237.5,
+   "text": "I have a buddy... I wish I could do that. Yeah, that would be awesome. So, so the... No, we just sleep in separate rooms. So they're looking at my... my accountant, my dark accountant, is looking, he's buying a house."
+  },
+  {
+   "t": 5252.2,
+   "text": "He's entering that phase of his life. And, you know, I don't know, I'd say once a month he goes, come on, Dave, let me get you to settle down, leave all this dumb shit behind."
+  },
+  {
+   "t": 5260.8,
+   "text": "He has that talk with me. He's looking at my bills. He's like, you know how much money you spend on room service? You know how much money you spend on hotel rooms? Like, I live in Los Angeles."
+  },
+  {
+   "t": 5272.8,
+   "text": "I live in hotels mostly, even when I'm home. When I'm traveling, obviously, but when I'm here, I still stay at hotels. I stay at my actual house, which is in Koreatown. Dave, come on."
+  },
+  {
+   "t": 5284.0,
+   "text": "Sorry, horrible security. Sorry, Chinatown. Actually, I'll give away our location. If you want to know where we live, we live in the place in Koreatown where everyone around us is fucking as loud as possible."
+  },
+  {
+   "t": 5294.8,
+   "text": "Oh, my God, it's so fun. Like, just walking home, they put on a tear, they're fucking like animals. She must have gotten a new boyfriend or something. It's amazing, you just hear them fucking all night."
+  },
+  {
+   "t": 5306.3,
+   "text": "I mean, it's like, what? There's a point where we... We don't know what they look like, we haven't seen them yet. Imagine they're, like, super old. No. That's awesome. But it's like the point where you want to call the police, because you're like, you can't."
+  },
+  {
+   "t": 5318.6,
+   "text": "It's obnoxious. Well, you can't tell if it's... Oh, Alex can probably put it through on the microphone. Or maybe someone's just watching porn. It sounds like not necessarily pleasure. It sounds like he might be killing her."
+  },
+  {
+   "t": 5331.0,
+   "text": "And she's always like... Maybe you guys should tell the girl. [imitating] Give it all to me, Daddy. Give it all to me, Daddy. Here we go."
+  },
+  {
+   "t": 5343.3,
+   "text": "Alex is recording you. She sounds like a seal. I just want to meet this part. This is when you start hearing this."
+  },
+  {
+   "t": 5358.9,
+   "text": "You can start jerking off, it's okay. Or maybe she's a hooker and she does in-calls. I mean, this is our house next door, so that's how loud she is. Yeah, but, like, we're in our house hearing, like, it's not like..."
+  },
+  {
+   "t": 5372.3,
+   "text": "You hear it everywhere in the house. Yeah. All right, so I gave away our location. Crickets. Koreatown, and... No, let her play longer. Stevie, we can send it to you."
+  },
+  {
+   "t": 5386.2,
+   "text": "Like, all night. All night, this. Oh, he's pounding. Think if you lived in the house with him. They've already fucked for a really long time. It almost sounds like he's faking it."
+  },
+  {
+   "t": 5394.5,
+   "text": "Yeah, she's like... It's sour. I don't know. This is what it sounds like. There's so many possibilities. Okay, if it's a movie, and you do the cutaway scene in bird's-eye view, she's getting pounded next door, and then there's five dudes next door just... Well, we made up a rule in the house."
+  },
+  {
+   "t": 5411.7,
+   "text": "Whenever we hear it, from now on, the three of us, no one leaves your area. You just stay in your area. Like everyone stays in. I'm serious. Yeah, like don't run downstairs, so, like, Alex lives downstairs, so I don't run down there to make sure he's hearing it..."
+  },
+  {
+   "t": 5425.7,
+   "text": "...but just stay in our area so no one gets in trouble, no one gets caught. I feel like that's respectful. Yeah. Because I don't want Alex running in, you know."
+  },
+  {
+   "t": 5441.6,
+   "text": "Do you guys do that? Have you guys, like, ever been in a hotel or something and heard people fucking and then, like, jerked off to it? I've been in a hotel where I'm fucking someone and someone starts fucking louder, and then it becomes a competition."
+  },
+  {
+   "t": 5454.7,
+   "text": "But yeah, I think I've been there. That was bad for it, right? Yeah, I might have done that. I feel like I'm always masturbating in hotels anyway. Yeah, I'm doing that anyways, it's like all I do in a hotel."
+  },
+  {
+   "t": 5463.8,
+   "text": "It's like, oh, I'm drinking, and then I'll order food, and then I masturbate again, and then... Is that a camera? That's why you shouldn't touch the remote. You're not supposed to touch the remote. It's like being in this thing where you're not supposed to touch anything. So then that's where I dwell."
+  },
+  {
+   "t": 5482.4,
+   "text": "And then I can't avoid this conversation. You know, you get the, 'if I was rich, I wouldn't live like this. If I had your money, I would do this.' I have Stevie come over for the first time and see my room and it's like, what the... This is horrible. You took a selfie the other day in your room that..."
+  },
+  {
+   "t": 5497.3,
+   "text": "...was from like five years ago. It's like squalor, that's disgusting. Yeah, I mean, the few photos I've seen, it kind of looks like that, it's filthy. I mean, it's just... I've never cleaned it. Why don't you just hire someone? Well, I'm about to explain, and I've talked about it on the show before."
+  },
+  {
+   "t": 5510.6,
+   "text": "But I got people touching my stuff. I got Bobby going, well, they steal from me, everyone I've ever brought, they can't help it, there's so much cool shit in my room, you know? I mean, I have really expensive... There's comic books and cobwebs and, like, an old chrome..."
+  },
+  {
+   "t": 5524.8,
+   "text": "No, like, you're at the point where you'd have to clean for the cleaning person to come. Like, I have a fake gold necklace next to a 100,000-dollar gold necklace. Like, I wouldn't even..."
+  },
+  {
+   "t": 5534.7,
+   "text": "There are really trustworthy housemaids out there. All right, well, whatever, I just don't want people touching my shit. I don't want them to see what kind of... I don't want them to see me."
+  },
+  {
+   "t": 5544.0,
+   "text": "You know what I'm saying? Don't you think about my cousins? All right, well, look. So then it always happens, a couple months in, they're like, look, you can't live like this anymore. But for me, look, everyone always imagines how the other half lives, like, oh, if I had money, I would do this, or if..."
+  },
+  {
+   "t": 5561.6,
+   "text": "...I had this. Humans in general need food, clothes, and shelter. If I'm eating caviar and fucking foie gras every night, it's not that I'm necessarily happier than the guy eating fish filet every night, right? And so you have David Chang come on the show and ask you how happy you are, and you're..."
+  },
+  {
+   "t": 5578.3,
+   "text": "I'm at 82.3. I live in a studio, too. David Chang is not at 82.3 percent happy. He's at, like, barely 50. But dude, the guy is so successful. That's what I'm trying to explain to you."
+  },
+  {
+   "t": 5589.8,
+   "text": "So I say, fuck it, you know, I don't want to live like... uh, what? Sorry, sorry. What? Nothing. We're not laughing at you. I want to know the inside joke. We should tell him."
+  },
+  {
+   "t": 5599.0,
+   "text": "What? He's not on the show. Yeah, that's true, we can tell him. What? Remember a couple weeks ago when he was on the show? Yeah. And we were like, who of us do you think is gonna die first?"
+  },
+  {
+   "t": 5607.4,
+   "text": "You guys made the pact, the heroin pact. Like, who's gonna die first? And then you guys, whatever you said. Us? I was talking, it was me. Dave, you think he's gonna die because of the stress?"
+  },
+  {
+   "t": 5619.2,
+   "text": "Here's the best part. When he started that, I was staring. I didn't want to say. And I was staring at him. He goes, oh, fuck you, Critter. We got the 53-year-old guy saying he's gonna die first."
+  },
+  {
+   "t": 5632.2,
+   "text": "Yeah. Wow. Yeah, I think those odds are a little bit more. Dave is one of the most crazy, like, he's not happy, he's very angry. I think he's happy when he's hanging out with us."
+  },
+  {
+   "t": 5642.1,
+   "text": "You make him happy, you know. But so then people see my life, like, how I live, and they filter it through their brain. And they're like... But that's not the point."
+  },
+  {
+   "t": 5652.9,
+   "text": "It's not like they think that you're happier than them. They think that they could be happier with your money than you. Yeah, so then they do the thing. They go, you know, so this week..."
+  },
+  {
+   "t": 5664.4,
+   "text": "...Bobby's got a new house, Heather Leather's moving in with her boyfriend, so something got into me, I go, all right, let's look. So I'm looking at all these mansions in Hawaii, Ojai, Santa Barbara, just places I like to relax. And they're like, why should I... Also, no more Nevada. Or, you know..."
+  },
+  {
+   "t": 5679.3,
+   "text": "...we're just, you know, thinking about that, whatever. And then it's like, it's probably too dangerous for me to be in Nevada at all, any part of Nevada. But it's, like, four hours away from Vegas, I thought. But there's gambling everywhere in Nevada. Oh, there is. So if you want to gamble, there's gambling fucking everywhere. So we start looking at the Ritz-Carlton down the street from here."
+  },
+  {
+   "t": 5701.1,
+   "text": "The penthouse floor is what, 11,000? That's my dream, to live in a hotel. Why did you mention it? There's a good chance you're gonna live there. No, there's zero chance I'm gonna live there. Hold on, wait, wait. 11,000 a month?"
+  },
+  {
+   "t": 5712.6,
+   "text": "It's huge, it's a huge amount. That's actually not bad at all. I mean, there's, like, lofts downtown. It's not, like, the main penthouse, it's like a huge one, has, like, three bedrooms in the Ritz-Carlton for 11. It has the most insane view ever. I can't believe you wouldn't live there."
+  },
+  {
+   "t": 5731.3,
+   "text": "That's why I wouldn't fucking live there, because of that reaction. You see that? Women can't wait to leave my house, I've talked about this a million times. The girl..."
+  },
+  {
+   "t": 5749.9,
+   "text": "This is the exact reaction. The girl that I fucked the other night, I had to get up and go to Long Beach early in the morning. And we went to sleep at, like, six, and it was, like, nine."
+  },
+  {
+   "t": 5762.0,
+   "text": "And she's like, why are you getting up? I'm sorry, I gotta work today, I gotta go. And she's got still boogers in her eyes and she's like, all right, fine."
+  },
+  {
+   "t": 5772.3,
+   "text": "Can I just... I'll leave too, I'll leave too. Like, if I was at the Ritz-Carlton, it's like, room service, fucking, like, your pussy... I don't even have a pussy and it gets wet. The view is unbelievable. One way you got the view of the ocean, the other way you got the... it's fucking crazy."
+  },
+  {
+   "t": 5791.0,
+   "text": "And I go, my setup right now, living at hotels, is like, hey, gotta go in the morning, and I don't go, I just, like, pretend like I'm checking out, and then I go back into the room. But they're like, I don't wanna leave. Of course you don't want to leave. Leaving, it could easily be one of those things, like, well, you have the room until, like, 1 p.m. Yeah, and I go..."
+  },
+  {
+   "t": 5819.3,
+   "text": "...but then I have Critter call me or something, and I put him on, he's like, yeah, dude, we got the whole crew coming in to do the pod, and then she's like, laying out like this, I go, yeah, there's gonna be like 16 people in here in like 30 minutes. She's like, oh, okay."
+  },
+  {
+   "t": 5830.6,
+   "text": "I got it all figured out, right? Or I'll say, this room's disgusting, and I'll switch rooms to another room. The point is, after you... It's not broke. That's too bad that you have that problem, like, people have this... Do you think, knowing me, I've lived in the same shithole for 15 years..."
+  },
+  {
+   "t": 5850.0,
+   "text": "...do you think my life would improve by living in this amazing... You could get a one-bedroom, though, at least a one-bedroom. People have this illusion, they think it's the same question that I used to ask myself before I had money: if I ever had a billion dollars..."
+  },
+  {
+   "t": 5864.9,
+   "text": "...would two billion make me happy? Would ten...? Once you get your basic needs met, your dick sucked, some food, some clothes, it's like... Because I wear thousand-dollar sweatpants, that doesn't make me..."
+  },
+  {
+   "t": 5876.2,
+   "text": "Like, these are, like, what, ten dollars from American Apparel? It's just exactly the same, it doesn't change how I feel. No, but I would say there is a difference. There's definitely a difference between one million and two million and three million, etc."
+  },
+  {
+   "t": 5889.4,
+   "text": "But there's no difference between one trillion and two trillion. Or one billion and two billion, even. Or 100 million and 200 million. But there's definitely a difference between one million, two million, three million."
+  },
+  {
+   "t": 5900.3,
+   "text": "Look at the gimp in the corner with bronchitis. He lives in a studio, and he might be happier than all of us. I like it. And he doesn't have a million dollars. But that has nothing to do with... That's just, he's happier, that's what I'm saying."
+  },
+  {
+   "t": 5910.2,
+   "text": "His needs are met, he has clothes, he has food, he has shelter, and he's getting his dick sucked. But a happy person is gonna be happy."
+  },
+  {
+   "t": 5918.8,
+   "text": "Let's say Steve became a multi-millionaire. Let's say he became the lead singer of a band and the band became huge. Let's just say that happened. Can I tell you where I would move to?"
+  },
+  {
+   "t": 5929.4,
+   "text": "How my setup would be? Yeah, let me hear your stuff. There would be a loft, and I would build, like, a skateboarding bank in the loft, and a ledge that I could skate every day, and a futon, and that's it."
+  },
+  {
+   "t": 5944.3,
+   "text": "And a shower. So exactly the same as right now, but just bigger. Yeah, exactly like right now, but I could skateboard every day. You wouldn't get a car? Yeah, maybe like a Toyota Yaris."
+  },
+  {
+   "t": 5957.1,
+   "text": "Like a little Toyota Yaris or something. Look, hold on, millionaire. I'll date the show right now. The year's 2014 right now. The Oculus Rift exists. It's virtual reality, for those of you who don't know."
+  },
+  {
+   "t": 5972.2,
+   "text": "Facebook just bought it, so I own a part of it, basically. So his setup right now, and for anyone who's an addict or whatever, and we haven't talked about this yet: when that thing's out on the market, we'll never see Steve Lee again, you'll never see the Lee brothers again. You guys all tried it on."
+  },
+  {
+   "t": 5992.5,
+   "text": "There's nothing on it right now, there's a fucking program where you just walk around, right? What was the thing, Steve, you just walk around Italy, right? He basically has, like, a terminal illness. It's pixelated, it looks like... The guy wore it for an hour, we're like, Steve, take it off."
+  },
+  {
+   "t": 6013.7,
+   "text": "Imagine when they have... When, like, say I got catfished, say that in a world where that happened. You wouldn't get catfished, because in this world, that girl would exist. And it would be like, do I want to be with that girl that looks like a supermodel, that has the personality of a fat chick..."
+  },
+  {
+   "t": 6029.2,
+   "text": "...or do I want to go into reality? I'm missing that one step away from the holodeck. Yeah, it's like the holodeck, good analogy. And he would tell me with such delight in his voice how happy he used to be to come home to a wife and two kids that were in that world."
+  },
+  {
+   "t": 6045.1,
+   "text": "And we're prone to it. And then he came home, and, he explained it to me, his wife disappeared because there was a glitch in the game. And then like two months later, he finds her running around in a room, like at a bar, just going crazy."
+  },
+  {
+   "t": 6058.4,
+   "text": "And then he said he fell into a depression because he was like, that's my wife, you know? Oh, yeah. And Koreans are prone to that. I just got chills. Well, did you see that documentary on HBO? The parents that got addicted to a video game where you raise a virtual family..."
+  },
+  {
+   "t": 6075.3,
+   "text": "...and they forgot to feed the real baby. Were they on meth, though? No, they get addicted to the... And they didn't get into trouble legally, the court was like, okay, well, they considered it a medical..."
+  },
+  {
+   "t": 6089.9,
+   "text": "...temporary. Yeah, they call it, like, a medical condition, their addiction was so bad, so they didn't face jail time, and then they had another kid right after. What's this movie called?"
+  },
+  {
+   "t": 6098.4,
+   "text": "So they're still fucking in real life, they just don't take care of it. And look at it like this: if you don't have 11 grand to fucking live in the penthouse of the Ritz-Carlton, you live in the fucking shitty studio, you put the shit on, and now you're at the Ritz-Carlton."
+  },
+  {
+   "t": 6111.0,
+   "text": "There you go. Bye, Stevie. Bye, Steve, see you later. Bye. I mean, it's gonna be crazy. You're gonna be living in, like, whatever you want to live in. You could live in a butthole if you wanted."
+  },
+  {
+   "t": 6121.3,
+   "text": "Yeah, you could live in... with a skateboarder. You could live inside the deep... into the ridge of the butthole. What are those dudes that lock themselves in, in Japan? The shut-ins. Yeah, real shut-ins."
+  },
+  {
+   "t": 6131.0,
+   "text": "Look at you, look at him, look at this gimp right now. What's that? All you can see is his eyes and his mouth. Oh my God, and if that were the case, I could eat so much pizza."
+  },
+  {
+   "t": 6138.7,
+   "text": "Yeah. They are entirely... I'm just gonna do my avatar. Oh, you can do that. And Tony... Like, these guys won't put it on and play soccer, they'll be actually playing soccer now. They'll be in the living room, like..."
+  },
+  {
+   "t": 6147.4,
+   "text": "I don't want Tony to play that anymore. Oh, porn? I mean, it's... The setup they have right now is hooked up to a tenga, so it's like the girl sucking your dick in the thing and you're like, oh, and the thing's like... You're never gonna see him again."
+  },
+  {
+   "t": 6163.4,
+   "text": "Oh, there's already porn on it? What do you mean? Any technology... The day after the camera was invented, the first porno was made. There's a machine. 90 percent of Oculus Rift is gonna be porn."
+  },
+  {
+   "t": 6175.4,
+   "text": "There's a machine, yeah. You see someone doing that... No, they'll be like, look at this educational event, you can learn to play guitar and... And 90 percent porn. Oh my God, it's gonna replace people."
+  },
+  {
+   "t": 6186.8,
+   "text": "People, yeah, it's gonna replace people. Hit them up. God, that's really frightening. Yeah. Where did it come up, Dave? Hit who up? The people at Facebook, my own Oculus Rift, and tell them not to put it out?"
+  },
+  {
+   "t": 6197.2,
+   "text": "Yeah, you should be in there. We should be podcasting from our own... What do you mean? All you have to do is ask, Dave. Oh yeah, and if you do this podcast in Oculus Rift, you'll just be in the room with us right now."
+  },
+  {
+   "t": 6207.8,
+   "text": "That's awesome. Although we'll be in our own places. We'll just put that 360 camera. Any fan can join us. They could do 369 with us, whatever. 369! I want to see what the device looks like that goes over the table."
+  },
+  {
+   "t": 6220.3,
+   "text": "We have it here. Yeah, we have it. It looks pretty nerdy. Have you ever done standing 69? There's actually a few of them. No. It looks like, what's this thing called, a camera?"
+  },
+  {
+   "t": 6231.1,
+   "text": "No, not this thing. Yeah, the red... The red thing. The viewfinder. The viewfinder, yeah. It looks like that, but you put it on with an elastic band on your head. It's very nerdy looking."
+  },
+  {
+   "t": 6242.8,
+   "text": "And you have the dick part too? We have the dick... well, they have contraptions that are hooked up, and then you download different... Yeah. And it's like, you look up and there's sky."
+  },
+  {
+   "t": 6255.8,
+   "text": "We have the dick part, one for the iPad. You get the iPad, you put it on this machine, and it's got the, what's it called, a fleshlight. Did you take one of those?"
+  },
+  {
+   "t": 6268.4,
+   "text": "You should. It's scary to me, because I don't want to be replaced. And they're doing even 4D shit where it's like... Dude, Stevie fucked. How many girls did you find on your trip?"
+  },
+  {
+   "t": 6278.3,
+   "text": "Yeah, it all started with porn, like, you know. Well, if they have shit on it with smells... I feel like we won't even have to travel anymore. Do you want to check out the Grand Canyon?"
+  },
+  {
+   "t": 6287.9,
+   "text": "Yeah. Well, it'll be better because you'll go there with no pollution and crowds. Like, if you go to, like, the Leaning Tower of Pisa right now, it's thousands of people crowded, all taking the same photo."
+  },
+  {
+   "t": 6300.5,
+   "text": "It's not like it's just there and you're just there looking at it, you know? Well, I put lotion... I don't know, I put my finger like this. The fleshlight is the best thing."
+  },
+  {
+   "t": 6311.9,
+   "text": "Yeah, it's the best ever. It's hers, hers is the best. Look, it's not even debatable. He's gone, he's gone now. Yeah, it's awesome, he'll never get the real thing, he'll never know. Steve, you have a sexual life now."
+  },
+  {
+   "t": 6322.7,
+   "text": "But I like the fleshlight. But you still fuck the fleshlight. Yeah, you got that number one pussy girl, you got laid with the actual girl that likes you. She sucks your dick. It looks like a fleshlight."
+  },
+  {
+   "t": 6330.3,
+   "text": "She leaves, she goes home, and you still fuck the fleshlight? No, no, because I already blasted up. But when no one's around, I just... Isn't he like that? Yeah. It's just literally like a gadget."
+  },
+  {
+   "t": 6341.3,
+   "text": "Wow. I know, it's so exciting. I wish there was a... It's a different, glassy room, it looks like a fucking microwave. Oh, I think he has that one. Yeah, yeah, it's the one that opens up."
+  },
+  {
+   "t": 6351.6,
+   "text": "I hate that one. I think you have that one, the RealTouch? Well, do you guys use the crazy vibrating dildos and all that shit? No, I use that on him. But I hate it, it's so big. Yeah, like, I also write... I ride him with porn on an iPad, like this. Wait, what? We're very weird, dude. Bob's weird. You're progressive."
+  },
+  {
+   "t": 6373.8,
+   "text": "It's because sometimes I just don't want to work that hard, because I know porn will get him there in two seconds, so I'm just like... Wait, so who picks the porn? He picks the porn. We go to Reality Kings. How do you feel right now? Oh, he loves Reality Kings. I love Reality Kings. How do you feel right..."
+  },
+  {
+   "t": 6387.2,
+   "text": "...now about this future coming soon? I already know I'm gonna be replaced. Like, he doesn't even pay attention to you. Like, the one time... He already doesn't, so it's like..."
+  },
+  {
+   "t": 6396.2,
+   "text": "Like, I went over to their house once. Very dispensable. I went over to Bobby's once, and it's like, he doesn't... He's watching UFC. Yeah, he's not even looking at her. I'm like, you have a hot girlfriend sitting on a chair."
+  },
+  {
+   "t": 6404.6,
+   "text": "Oh, welcome to my relationship. It's like, they're just like... I'm like, dude. What's that saying? I'll show you a hot chick, and I'll show you a guy who's tired of fucking her."
+  },
+  {
+   "t": 6413.5,
+   "text": "I mean... So where is he right now, he's in D.C.? Yeah. You guys had a fight or something? I don't want to talk about it. Why? You gotta talk about it. No, I don't want to talk about it."
+  },
+  {
+   "t": 6421.0,
+   "text": "No. Really? He's in his hotel masturbating right now. But keep it at this. I like to think I'm a very reasonable person. You're very reasonable. And you can't tell me anything."
+  },
+  {
+   "t": 6433.9,
+   "text": "And there are a few things that get to me. And he lied, like, blatantly to my face last night, and... Wait, wait, wait, I have to get back to the shot."
+  },
+  {
+   "t": 6443.7,
+   "text": "Okay, all right. And Kalilah is, like, the best girlfriend ever. She's, like, you don't get more perfect. I mean, I do have, like, really bad shit. No, but you're, like, the perfect amount of crazy."
+  },
+  {
+   "t": 6460.4,
+   "text": "What did he... I need to know what he lied about. He lied about his ex going to the Comedy Store. Oh. No, but hold on, that is, like, whatever, who cares? It's the lie. Was it unprompted, or you asked him, like, hey, was your ex there?"
+  },
+  {
+   "t": 6478.4,
+   "text": "No, I asked him, oh, who's going, who were you just on the phone with? And he named a guy. And then I was like, oh, I'm really not..."
+  },
+  {
+   "t": 6487.2,
+   "text": "I've met women that he's been with that I actually like, and we're friends. People that he's dated in the past. And I never thought that I would... I've ever set the stage for him to lie."
+  },
+  {
+   "t": 6497.7,
+   "text": "So I'm hurt that, given as much freedom as I've given him... I just didn't think that it would be blatant. And so now I feel like it's suspicious because he didn't have to lie. But that's the thing, he didn't have to lie, right? But, like, I know a couple, or me and Critter know a couple, or we know..."
+  },
+  {
+   "t": 6518.1,
+   "text": "...a girl who sort of has this thing, she's beautiful, and she's like, look, you never have to cheat on me, you can fuck whoever you want. And so she was with this dude for like 10 years, and the only thing was, you never have to lie to me, I just have to be there. Like, if you're gonna..."
+  },
+  {
+   "t": 6536.3,
+   "text": "...fuck another girl, I want to be there. That's a big if, right? And so, anytime you want, you just have to be in there. What is up with that freedom? That is the same shit that I did with my ex for two years. I was like, oh, I don't know your life, so if you're gonna be fucking other..."
+  },
+  {
+   "t": 6550.1,
+   "text": "...girls, I just want to know, because I want to get tested and all that, right? I found out two months ago he was lying to me for 10 months. I'm like, homie, you didn't even have to lie, like I told you... You know what, though? I feel like with guys, you can give them all the freedom in the world, but they're always gonna take it."
+  },
+  {
+   "t": 6568.9,
+   "text": "Whatever level is past your comfort level, they're always gonna take it. If you didn't lie, if you didn't lie, I would still be with you. No, but it's bullshit, it's everything. It's not bullshit."
+  },
+  {
+   "t": 6577.4,
+   "text": "It is bullshit, because so then I asked the girl, I go, what happened? She's like, he had like five girlfriends in the time we were together. But then I'm like, what happened? She's like, he cheated on me."
+  },
+  {
+   "t": 6585.5,
+   "text": "I'm like, well, what? He didn't have to do that, he didn't have to lie to me. Yeah, because they're always gonna do whatever they can't do. Bobby didn't have to lie to you, but he didn't even want to have the conversation."
+  },
+  {
+   "t": 6594.8,
+   "text": "He didn't even... Because that's one second less away from his video game. He's like, I don't have to sit here and explain to you... Like, it would be easier to lie."
+  },
+  {
+   "t": 6602.6,
+   "text": "He's like, I don't give a fuck whether you care or you don't care, or... The risk that it might even start a conversation, he's like, no, it's just some guy. Yeah, but now he started a whole other issue."
+  },
+  {
+   "t": 6613.9,
+   "text": "Well, he was hoping that he would never get caught. Right. But we have gut feelings, that's something I think dudes underestimate. It's just the timing. And we're always right. It's the timing."
+  },
+  {
+   "t": 6623.8,
+   "text": "So let me... On Wednesday, I found out really, really shitty news regarding my health, and it was just... it was the timing. Like, I didn't feel like... How shitty? Like, everything at once."
+  },
+  {
+   "t": 6634.9,
+   "text": "Are you gonna be okay? No, I'm not okay. Oh, my God. And it was just the timing. Oh, my God. It's just, like, everything at once. Rest your head on my bosom."
+  },
+  {
+   "t": 6646.9,
+   "text": "I swear to God, I don't know why I'm fucking crying. Well, I mean, he's... Way to go, Dave! I don't know why I'm... No, like, if you tell a guy, if you..."
+  },
+  {
+   "t": 6656.4,
+   "text": "Give her a hug, give her a hug. If you tell a guy, like, you can go fuck... A hard one, a hard one. It's okay, I'm fine. Don't break her rib. If you tell a guy, you can go fuck whoever you want, just don't lick her asshole..."
+  },
+  {
+   "t": 6668.6,
+   "text": "...he's gonna lick her asshole. Hey, didn't you have that? No. Yeah, maybe I'll check it out. Am I the first person to cry on this show? Definitely. I almost once cried, and then he made fun of me, and I stopped immediately."
+  },
+  {
+   "t": 6681.9,
+   "text": "Yuck! I'm so embarrassed. Oh, my God. No, I don't think I'm the first person to cry. No, it was actually a really beautiful moment, because you're just going through something that's hard. It was, like, a tough week."
+  },
+  {
+   "t": 6691.6,
+   "text": "Look, you know, and this show's fucking real. And this shows how real this show is. Basically, when you guys were talking about death, and you were like, who is the first to die, in my head I was like, whoa, like, I haven't been able to say that."
+  },
+  {
+   "t": 6703.4,
+   "text": "We didn't lump you in there with us. We didn't lump you into the contest. Yeah, so it turns out I have a pretty severe heart condition, and so I might need a pacemaker and stuff."
+  },
+  {
+   "t": 6712.7,
+   "text": "So it wasn't just the timing of the lie that I felt like just betrayed me. Yeah. And I think, had it been any other day, it wouldn't have been as big of a deal."
+  },
+  {
+   "t": 6722.7,
+   "text": "Yeah, I would have just brushed it off, because Bobby never means harm, he just makes bad decisions. And I think that he really loves me, I never think that he would cheat on me."
+  },
+  {
+   "t": 6731.4,
+   "text": "I just think that he makes shitty decisions, because we all do. Yeah, it would have been so forgivable had it been the Tuesday. But you're a cool girlfriend and he's like... No, he's not... it's like, when it's just me and him, he does provide me all of those great things, and..."
+  },
+  {
+   "t": 6747.9,
+   "text": "...when it's me, Steve, and him, we always just have a blast. They play video games, I laugh at them being silly, and I like that, I like the simplicity of our life. Like, I can deal with the gamer's life. I just think that... was he deep into the video games..."
+  },
+  {
+   "t": 6764.6,
+   "text": "...that day? Was he deep into it, was he on Destiny? Yeah, he was. See, like, when you're in whatever addiction you're into, like drugs, video, whatever, you just don't want to interact with anyone. So it doesn't... He's like, yeah, I was talking to a guy, he just wants to get right back into it, he doesn't..."
+  },
+  {
+   "t": 6782.0,
+   "text": "...want to stop. Right, and I do try to understand it from a man's perspective, and I just have to accept him for being that way. It's not like he wasn't that way from the start."
+  },
+  {
+   "t": 6792.0,
+   "text": "He's always been that way, so I can't complain now, kind of deal. But you also feel like you've also proven yourself as completely reasonable and loyal. You're like the coolest girlfriend. Yeah, and awesome as shit."
+  },
+  {
+   "t": 6804.6,
+   "text": "We can all agree she's the coolest girlfriend ever, right? Yeah. Not being appreciated for everything you are... You look crazy, fool. But he really is a very kind and generous person. Okay, so how quickly after this incident does he apologize?"
+  },
+  {
+   "t": 6818.6,
+   "text": "He hasn't texted or called me back. What a retard. It's okay. Like, I think that I attacked him versus wanting to talk about it. I just was, like, why did you do it?"
+  },
+  {
+   "t": 6827.9,
+   "text": "It wasn't good, I made the mistake of attacking right away, and he doesn't take that very well. Yeah, but, okay. Also, I feel like when you know you're wrong and you know you're in trouble, sometimes it's really hard to text back right away."
+  },
+  {
+   "t": 6844.0,
+   "text": "Not to defend him, but I'm just saying, like, that's probably how he feels right now. Because I know when I fuck up, it takes me a second. I'm like, okay, I need to regroup."
+  },
+  {
+   "t": 6853.6,
+   "text": "Not to get into some Han Dynasty shit, but that's all normal. But throwing in a disease like that, then you get a pass. Like, say he felt like that normally, he should just be like, oh fuck, she just got some horrible news, I'm just gonna suck it up right now, you know?"
+  },
+  {
+   "t": 6866.6,
+   "text": "It's like, this is some real soap opera shit. They're real, and they do affect it. They make every day different than the day before."
+  },
+  {
+   "t": 6875.1,
+   "text": "For sure. In my head, the choice is, I'm not gonna leave him over this, right? So the easiest way we can rectify the situation... There's better guys out there, sitting on curbs and shit."
+  },
+  {
+   "t": 6885.6,
+   "text": "I really do. I love the bastard so much, and I'm not gonna leave him over something this petty. So it's like, for me, how can we fix it as quickly as possible without compromising how I feel?"
+  },
+  {
+   "t": 6898.5,
+   "text": "So what the ideal situation would be is for him to just say it and we can move forward. How long you guys been together? Right, like all he has to do is be like, I'm sorry, I fucked up. Okay, you guys been together for a year now?"
+  },
+  {
+   "t": 6911.4,
+   "text": "Yeah. And your brother, what's his history? Does he sabotage every year? You know what, not even in his defense, but usually within those marks, he's good the first couple months, right?"
+  },
+  {
+   "t": 6921.5,
+   "text": "Yeah. And then something happens, where... Honeymoon phase. I don't know what it is, the one-year mark is where he's... Do you think he... maybe he's... Is he busy? No. I think that he's just not satisfied with certain things in his career."
+  },
+  {
+   "t": 6934.9,
+   "text": "And I'm the one who... Of course, I'm the closest to him, so I get the brunt of all of this. Of course. And which is fair. Look, I make a great punching bag."
+  },
+  {
+   "t": 6945.4,
+   "text": "And if I love you, I'll take the jabs all day. But at some point, I do need a little back. Yeah, just a little. I don't want to talk, let's move on."
+  },
+  {
+   "t": 6956.1,
+   "text": "It's also too soon to judge his reaction. I got lots of hugs for you. It's only been a day, give me a break. Are you kidding me? If he was here right now, he'd be saying every wrong thing possible."
+  },
+  {
+   "t": 6966.4,
+   "text": "That's probably true. But that's what I'm saying, it's too soon for him to react like a real person, I think. Right, and you know what? I shouldn't have even brought it up, because he's not here to defend himself."
+  },
+  {
+   "t": 6976.3,
+   "text": "Oh, fuck that guy. No, because if he were here to defend himself... He's not here to defend himself, fuck that guy. I love Bobby. Look, we all love Bobby, but he's a fucking idiot. Not me, fuck that guy. Come on, man. I was about to say fuck you too."
+  },
+  {
+   "t": 6992.2,
+   "text": "Oh shit. Hey, come on. Look, yeah, I love Bobby. He's super emotional. Like, you know, when we went to Hawaii, and the one guy said the bad comment, he takes it really, you know. And the last time he was on the show, he's like, my career's ending, and he's being dramatic, and he's a funny guy, and..."
+  },
+  {
+   "t": 7018.6,
+   "text": "Look, I told him the same thing. I tell anyone, it's the same reason. Like I said, I got mad at the Liam Neeson and Denzel Washington people. Because it's like, stop repeating yourself, you're better than that, you're more talented than that, you know. And then his bullshit of, like, waiting for some magical sitcom to come save his life."
+  },
+  {
+   "t": 7037.2,
+   "text": "I'm like, take charge of your own life, dude. Nothing costs... Okay, so fine, me and Critter got picked up for like a sitcom, or a reality show, what, twice, and got dropped, or I don't even know what's going on. But you know what, at the end of the day, we..."
+  },
+  {
+   "t": 7051.8,
+   "text": "...could just make it, we could just make it. Exactly. We have fun without that shit, yeah. It doesn't... The best is when we put the Han Dynasties up, and they're like, well, if I was rich, I'd do that too. This shit's shot on a fucking iPhone camera, it doesn't cost anything."
+  },
+  {
+   "t": 7066.5,
+   "text": "It doesn't cost anything. It is literally the best thing that we've ever made in our whole lives. You ready to do one, Han Dynasty? I love it so much. I think our Hallelujah video is really good."
+  },
+  {
+   "t": 7078.4,
+   "text": "What do you like about Han? Do you guys like Han Dynasty, or you don't like it? I didn't like it at first, but now I like it. I love it. I can't get over your pink shirt."
+  },
+  {
+   "t": 7086.5,
+   "text": "I'm just staring at it the whole time. I just love when Steve keeps looking at the camera, like he'll be like, baby wants milk!"
+  },
+  {
+   "t": 7104.2,
+   "text": "Well, yeah, I don't know what to say. I mean, guys can be shitheads sometimes, and especially guys around our age. Yeah, I think Bob is, like, overwhelmed. Like, a guy like Steve Lee, his life is changing right now."
+  },
+  {
+   "t": 7115.2,
+   "text": "Like he just said, he still prefers... It's, like, overwhelming right now. He doesn't know how to deal with it, and he just needs to get to the right place to give you the response."
+  },
+  {
+   "t": 7122.0,
+   "text": "But in your eyes, honestly, Steve, do I ever make his life difficult or easier? No, you only make his life better. Yeah. I don't try to encroach into anything."
+  },
+  {
+   "t": 7133.0,
+   "text": "I try to help, so... I mean... The Philippines is gonna solve everything. The Philippines is gonna solve everything. No, you're like the best girlfriend ever. Yeah, I mean... I wish you were my girlfriend."
+  },
+  {
+   "t": 7145.3,
+   "text": "Me too. You don't want to go to the Philippines? Yeah, me too. I'm getting no hint that you want to go to the Philippines. What's in the Philippines? What is it? The DVDASA extravaganza."
+  },
+  {
+   "t": 7154.0,
+   "text": "I'm down to go. But January is really busy for me, because it's AVN. Oh, are we gonna go to that then? Oh, yeah, Dave, they asked me to... So why don't you get a fucking..."
+  },
+  {
+   "t": 7162.9,
+   "text": "I'm so offended that they asked you and not me. Wait, can we talk about that? They said, listen, we respect you as a... No, they didn't say any of that, you're already lying."
+  },
+  {
+   "t": 7176.4,
+   "text": "You sent us the email. They said, we know you have a show with Asa, we respect her, and we respect you as an Emmy award-winning journalist, and so we want you to do a two-time look. I love the AVN Awards, I've been there, you know."
+  },
+  {
+   "t": 7194.5,
+   "text": "And it's just like interviewing... I really don't want to be associated with this. Because aren't you... aren't you winning it, like, are you always a porn star? But you're going, hey, who do you think is gonna win tonight?"
+  },
+  {
+   "t": 7207.8,
+   "text": "You or me? And the best part, I was sitting there... Let's go through it. I fucked half of the girl porn stars in the thing. So I'm gonna be like, first question..."
+  },
+  {
+   "t": 7217.8,
+   "text": "...or first statement: congratulations on your success. That's Critter's. Yeah, that's Critter's, you wrote that for me. And then, uh, rate me as a lover, one through ten. Like, just all questions."
+  },
+  {
+   "t": 7233.1,
+   "text": "If you didn't, you would have to make sure to fuck every girl that gets nominated from here until then. Oh, you definitely have to do that. Did you guys finally do it, after she won her award?"
+  },
+  {
+   "t": 7243.3,
+   "text": "Is that what you just said? Well, we used to fuck back in the day. Oh, okay. Yeah. Uh, TB. Wait, you guys used to fuck? Throwbackers. There's, like, a new podcast, let's start fresh from AVN Awards."
+  },
+  {
+   "t": 7255.7,
+   "text": "Wait, so can we... What are you doing? Can we get a table at AVN Awards? Do you want to go? Yeah. Wait, so when is the Philippines trip? Um, ideally January 6th through the 11th. I think that's right when AVN is. I actually don't know..."
+  },
+  {
+   "t": 7277.1,
+   "text": "...when, I gotta Google it. All right, we'll figure it out. Sorry, when is the AVN Awards? I got asked, I was honored that they asked me, but I don't want to be associated with this kind of element, I had to respectfully turn it down. Oh, you already turned it down?"
+  },
+  {
+   "t": 7292.5,
+   "text": "Yeah. Are you kidding? Well, they still haven't emailed me. What? You really did? We could still go and not be part of it, we can get a table. What is your problem? I think the funniest part is, they were like, we'll cover your flight and your room and board."
+  },
+  {
+   "t": 7308.4,
+   "text": "And it's like, really? And your rate. But I didn't even say what my rate was. I was like, what if my rate is 1,000 passes? I just think we should go and support Asa."
+  },
+  {
+   "t": 7317.0,
+   "text": "1,000 dollars. Oh, that's why you want to go. Yes. I'm a team player. Isn't it all just Brazzers and Reality Kings now, like...? No, they never want anything, because they're internet. Oh. It's for the... Yeah, we're talking strictly internet. SoulCycle and all the places she works for. Who's got a Reality Kings pass?"
+  },
+  {
+   "t": 7335.0,
+   "text": "Adult video. You want one? Can we not talk about Reality Kings right now? Can we talk about... Oh, I actually think my buddy's an engineer there. Wicked. Uh, Lampskin, Conner's ex, I think he's an engineer there."
+  },
+  {
+   "t": 7345.5,
+   "text": "What? You don't know any of the porn star names, you don't know anything about porn, you don't even jerk off. Why do you want to go so bad? Oh, why not, beautiful hot sexy women and to support my very famous... Look at that tan. Look at the back of his arms."
+  },
+  {
+   "t": 7360.1,
+   "text": "And look how pale his legs are. Whoa, she's getting me naked! All right, listen, it's a fun show today. We got a lot of shit we need to figure out: Philippines, AVN, this wedding right here, this fucking shithead Bobby. You look fucking crazy right now, bro, you look insane."
+  },
+  {
+   "t": 7377.9,
+   "text": "Listen, let's get some dinner, let's film some Han Dynasty. Food, yes please. You got something for us today? Real quick. He's about to start fucking the floor, dude. Off the sidelines. It's that time of the night again."
+  },
+  {
+   "t": 7390.1,
+   "text": "It's true. Bobby, before you jump in. Oh my God, that's too much. Before you jump in, Bobby, how would you rate this experience for you guys? Well, I could probably help you out with that."
+  },
+  {
+   "t": 7401.9,
+   "text": "To be fans of the show... To be fans of the show for so long, and to now be in the room with us, it's crazy. It's surreal. Is it like what you thought it would be like?"
+  },
+  {
+   "t": 7412.4,
+   "text": "I never thought... You should answer that. I never thought I would be here. That's a lot nicer in person. It's really cool, it's really weird to hear your voice, all your voices, live."
+  },
+  {
+   "t": 7422.2,
+   "text": "There's no accent, right? You sound like one of us, you sound like one of us. Yeah, it's just crazy to be here, and then you guys just asking us questions."
+  },
+  {
+   "t": 7435.4,
+   "text": "You know, I still feel like we're just sitting... It's actually just Oculus Rift. That's what we should start doing. You should start doing contests where the people get to come sit here. You think, really?"
+  },
+  {
+   "t": 7446.9,
+   "text": "You're never getting into the contest after this whole thing, right? No, I'm never gonna do it. What do you think? The people are fucking morons. What do you think, as a couple about to get the party started, about hearing a relationship one year in?"
+  },
+  {
+   "t": 7463.3,
+   "text": "Married people playing video games all the time. Guys that are single... Do you play video games? Not really anymore. You buy Legos. Yeah, I buy Legos. You buy Legos? Are we helping you at all?"
+  },
+  {
+   "t": 7476.0,
+   "text": "Are you learning anything? Forget bringing you guys together. I've been in a relationship where it was like three years. No, I've been Legos. I just passed out. Who said you buy Legos? Yeah, Legos. You know, I've gauged what goes into a relationship."
+  },
+  {
+   "t": 7493.2,
+   "text": "My parents are still together, so I kind of learned a lot. Your parents? Mm-hmm. Yeah. Isn't that crazy, like, our parents are still together? So crazy. My parents are still together, and I feel like growing up, everyone around me, their parents were divorced."
+  },
+  {
+   "t": 7506.1,
+   "text": "So when I meet someone else whose parents are still together, I'm like, wow. Yeah, and then you attract the same energy or something. Yeah, but you know what? My parents are still together, and I've been married twice."
+  },
+  {
+   "t": 7514.8,
+   "text": "[singsong] That's awesome, because you're marrying... I think the secret to marriage is drinking each other's pee. It's what? Seriously. It's like, I accept you fully. You gotta move to Australia. It's not gonna kill you, it's sterile. No, I'm serious, though. But listen, so I have this dilemma right now."
+  },
+  {
+   "t": 7538.7,
+   "text": "Hey, hey, tell us your dilemma. I love you, I love Heather. Hey, I hung out with Heather in New York, we had the best time. It was me, Heather, her boyfriend, and Spike Jonze."
+  },
+  {
+   "t": 7549.3,
+   "text": "We went to Sleep No More. It's like an immersive, interactive... Oh, I want to do that. Was it fun? It's crazy, though. What is it? I want to do that."
+  },
+  {
+   "t": 7561.0,
+   "text": "It's like 80 bucks, and you walk through a hotel or whatever, and everyone has their own experience. Like, there's acting shit going on, there's people fucking in front of you, it's crazy. I really want to go to that. When does it end? I don't know, because I'm going in..."
+  },
+  {
+   "t": 7579.1,
+   "text": "...November. Check this shit out. So that came out, and it was only supposed to be temporary, and it's gone on, and now there's, like, ten other ones like it. And so I talked to Spike after, and he's like, yeah, I want to do something like that. So I'm thinking, this is just in the talks right now, nothing's even..."
+  },
+  {
+   "t": 7593.1,
+   "text": "...but I'm thinking something that mixes music, acting, porn, food. David Chang could do the food dynasty, and we'll get a fucking giant building, and I don't even know how it'll make sense financially, but it'll be like all those immersive things, like, you guys will all be actors in it. Oh, great. Like, someone could just walk and run into Critter."
+  },
+  {
+   "t": 7617.1,
+   "text": "You could walk into a room and it could be, like, a completely... you'll walk into a room and there'll be, like, a thousand extras. I don't want to be in a room alone, because what if I get... Right, I'll always be with you. It'd be like the Mrs. DVDASA experience. Well, it doesn't..."
+  },
+  {
+   "t": 7630.8,
+   "text": "...have to be DVDASA, it'll just be like, you know, you could walk into a room and watch a midget get pounded. It doesn't always have to be porno stuff. But the thing I didn't like about it was there were so many people, like, I thought I was gonna..."
+  },
+  {
+   "t": 7645.6,
+   "text": "...be having it... it's like, oh, it's not... you're with a lot of... there's a lot of, like, oh, I imagined it, like they let you in one by one. Yeah, that's what I would think."
+  },
+  {
+   "t": 7655.2,
+   "text": "You'd have a better experience. If you have a better experience at these things, if you're a tall white guy, then they'll take you off to the side and give you special treatment. Like every single person..."
+  },
+  {
+   "t": 7664.9,
+   "text": "I'm gonna go in full whore makeup. Yeah. Every single person I know that's like, oh man, you didn't have this part... Quit, name tag. ...has been a tall white guy, you know."
+  },
+  {
+   "t": 7672.8,
+   "text": "But they give you a mask, so you're anonymous. Oh. Everyone... it's kind of like Eyes Wide Shut. Oh, okay. But we're just in the talks, we're thinking of, like, I don't know, we'll figure it out."
+  },
+  {
+   "t": 7681.9,
+   "text": "Like, maybe it'll be, like, we'll charge, like, ten rich guys a lot of money, and then let a couple students in or something for free, or I don't know. Some shit like that."
+  },
+  {
+   "t": 7689.2,
+   "text": "What is your dilemma? Well, you know, I recently drank my boyfriend's pee, and that was, like... Out of a cup or out of his dick? Yeah, wait, yeah, you can't just glaze over this."
+  },
+  {
+   "t": 7698.5,
+   "text": "Out of a cup? Out of a tap. Straight up, straight out of the tap. It needs to be straight out of the tap. I don't think it's... Yeah, like, it's gross if it's out of a cup."
+  },
+  {
+   "t": 7706.8,
+   "text": "How much? A sip, or like his whole... Well, it wasn't, like, just straight into my mouth. I would have done that, but he's been fighting me on this. I've been, like, asking him, like, I want to drink your pee."
+  },
+  {
+   "t": 7716.2,
+   "text": "And he doesn't want to... Well, he hasn't offered to do that. I'll do it right now. But I think that's where, in a really successful marriage, you both have to, like, share that experience with each other."
+  },
+  {
+   "t": 7729.7,
+   "text": "What about poo? But that was my next thing. So now that I've drank his pee... You kind of want to eat his poo? Wait, but his poo? I draw the line there."
+  },
+  {
+   "t": 7740.1,
+   "text": "You're really pretty. I draw the line. He's here, I can't. But why? How about it? He's like a little piece... He could get just so... Not the whole thing, just a little bit."
+  },
+  {
+   "t": 7749.7,
+   "text": "Okay, everyone's... But he said he's not ready for it. Heather wants to talk... You want to talk seriously about this, so... No, I'm serious. No, I know you're serious, and that's why I'm..."
+  },
+  {
+   "t": 7757.9,
+   "text": "Everyone's been saying to me, you're fucking so much, you're gonna start fucking dudes, right? Or you're gonna start doing trannies or whatever. I know what you're saying, because... You love sex."
+  },
+  {
+   "t": 7767.2,
+   "text": "And you're a sex addict. You and me, when we talk, we love fucking more than anything. Like, we fuck, then we jerk off. It's like, you want to fuck so... And especially if you're in love."
+  },
+  {
+   "t": 7777.0,
+   "text": "There's so much... Only so many positions and things. You want, like, something more, more than the other person. You know? You're like, drink my piss, eat my skin, eat my ass, eat my shit."
+  },
+  {
+   "t": 7788.2,
+   "text": "It's like consuming them. Yeah. You want to make this... But poo? Like, can't you just drink each other's blood or something? But you just want it to be so fucking... I don't give a shit, I don't care how dark and disgusting, I'm not afraid of any part of you. Yeah. Oh, I'm afraid, but I'm very... And he's not ready for that, so I'm trying to figure out..."
+  },
+  {
+   "t": 7807.7,
+   "text": "...like, a way to ease him into that, or do I have to trick him and, like, get it out of the bowl? I honestly, like, I still want you to get what you want, but I think there are people in the world who are down to eat it and people who are not, and I don't think one crosses..."
+  },
+  {
+   "t": 7824.7,
+   "text": "Heather, what's going on is you're a sex addict, and you're not with someone who's on, like, that level. You're on a different level. Like, there are people listening right now going, she's weird, because they're just not on your level."
+  },
+  {
+   "t": 7836.2,
+   "text": "Like, you just want to get there because it's that intense. I get it, you know? Yeah, I mean, I know it's probably, like, borderline obsession, but... It's some vampire shit."
+  },
+  {
+   "t": 7847.4,
+   "text": "I like to tell myself that, like, eventually he'll get to the point where he feels comfortable enough to share that part of himself. Is he gonna wake up... Stop with his boogers."
+  },
+  {
+   "t": 7855.9,
+   "text": "I totally... Is he gonna wake up one day? He's actually picked his nose and, like... Is he gonna wake up one day and you're gonna be eating him, like his hand's gonna be missing or something?"
+  },
+  {
+   "t": 7865.6,
+   "text": "They say the best part of a human is right here. What? Isn't that so weird? Wouldn't you totally think it's, like, an ass cheek? Yeah, because it's fatty. But it's this. It's supposed to be this."
+  },
+  {
+   "t": 7875.4,
+   "text": "That's the part that touches my bing-bong. Hey, you can't eat balls. You should make a hot dog out of it. I don't think balls would be... You think balls would be in it?"
+  },
+  {
+   "t": 7882.4,
+   "text": "It's all skin, it's so good, you would eat it. I don't think... it's like all skin. But also, you're judging his level of comfort based off the way you feel comfort. Right. Like the girl."
+  },
+  {
+   "t": 7893.3,
+   "text": "Right, right, right. Like, I was in New York and the girl that I already fucked was leaving, and she goes, hey, guess what, you know what I really like? And I was like, what?"
+  },
+  {
+   "t": 7900.8,
+   "text": "She's like, I like drinking piss, I just like it. I was like, all right. Anyone's piss? I think that's what she was... I'm pretty picky with piss. Well, she was like, it's something, it has nothing to do with you..."
+  },
+  {
+   "t": 7912.6,
+   "text": "...it's something I want. I go, I don't really... I don't even know you. She's like, just... what are you, a fag? Just do it. And I'm like, all right, fine."
+  },
+  {
+   "t": 7919.5,
+   "text": "So I pissed in her mouth, and then there wasn't any discussion of, like, now you gotta drink my piss, but I was like, no, that's not cool, you can get out of here."
+  },
+  {
+   "t": 7928.9,
+   "text": "Yeah, I mean, you're also a rock star, you're on tour doing crazy shit all day long anyway. I get the piss thing, but you know what, I agree with you, I don't see any need for them to drink my piss."
+  },
+  {
+   "t": 7940.8,
+   "text": "Like, that's not the thing. Don't see any reason to eat his shit either. No, this is what it is, far beyond eating. You love him, you want him, you want all of him, you want to fuck him all the time, you want to drink his cum, you want to suck his dick all the time. Your level of passion, you're like, I just want..."
+  },
+  {
+   "t": 7958.3,
+   "text": "...you. And you're not necessarily like, oh, I want to drink piss, but you're like, what else, like the rosebud thing or whatever, you're like, what else is there besides fucking? You're like, I practically don't want... You're like, fuck all my holes."
+  },
+  {
+   "t": 7970.8,
+   "text": "There's no, no... Kind of like everything should be of use. You don't want there to be a line. It's not that. Passion. Yeah, I just, like, want every part of him that I can legally have."
+  },
+  {
+   "t": 7983.5,
+   "text": "You know, without, like, slicing off a finger and cooking it up or something, but, like, I can have it. I think my uncle told me where he kept the finger, he didn't actually throw it over."
+  },
+  {
+   "t": 7991.5,
+   "text": "Would you steal a bit and not tell him? Well, I... Have you eaten shit out of the toilet? But then you want him to be aware that you're not... You want it to be a gift. Heather, have you done it?"
+  },
+  {
+   "t": 8011.2,
+   "text": "Have you eaten the shit yet? No, I saw his skid mark from the wipe in the trash, and I was like, what if I just, like... Hey, Critter, welcome to the show, buddy. ...sharing it with him."
+  },
+  {
+   "t": 8024.1,
+   "text": "The intention is to be okay with it too. You know, you want him to... I want him to want to give me that part of him. That's what it is. I have that feeling with this last person who I was so in love with, that I just... I told you, I still sleep with his sweaty..."
+  },
+  {
+   "t": 8040.2,
+   "text": "...shirt that he's drenched in sweat. But I have that feeling that I want to get inside of him. Inside of him. Yeah, wear him like a hat. I want to be inside. Hey, we're gonna have this show... this is bullshit."
+  },
+  {
+   "t": 8053.6,
+   "text": "My rib, my rib. What's going on? Did you see that? Because he grosses out when I talk about shit. Jesus Christ. So if you shit on a paper plate, that would be the best."
+  },
+  {
+   "t": 8066.0,
+   "text": "It doesn't matter where he shits. Fire him. Why would you automatically go for a paper plate? It's like, it should just be a little piece of... I just want a taste of the shit."
+  },
+  {
+   "t": 8075.9,
+   "text": "Okay. It's not, like, an unreasonable thing. Look, no judging here, man, I never judge. He's not gonna volunteer it. What would be, like, the ideal consistency? If you and me were together, we'd be eating shit sandwiches all day. But he's not. Maybe graduate slowly, and just maybe a corn kernel first. Not your shit."
+  },
+  {
+   "t": 8101.0,
+   "text": "Maybe, like, I did in something, like... You're like, I don't want to taste the shit, or he does that thing where he's like, how about we hide it in a cake? One shit kernel."
+  },
+  {
+   "t": 8110.0,
+   "text": "You're not worried that it's gonna taste horrible? What if he farts? I know it's gonna. Or you don't even care. It's like shrooms, it's almost like the other end is so horrible."
+  },
+  {
+   "t": 8117.1,
+   "text": "She knows it's gonna taste horrible, it's shit, you know it's gonna taste like shit. What if it's, like, a fart shit? Well, he's not a fart shit. What do you mean, like..."
+  },
+  {
+   "t": 8127.4,
+   "text": "...or he goes like this? Wait, he's farted in your face already? He's already farted in my face. If poo came out, that would have been, like, a bonus. Oh, yeah. Oh, yeah. But I actually think that him making the decision to, like, okay, now I'm gonna shit, and you're gonna have a little piece of it..."
+  },
+  {
+   "t": 8145.7,
+   "text": "...that's the romance of it. Yeah. What's your ideal shit, like, real hard or a little saucy? Okay, so I was thinking about this too. I don't want it too wet, like, I don't want diarrhea."
+  },
+  {
+   "t": 8155.4,
+   "text": "Yeah. But I don't want it so hard that it's, like, a rocky-road chunky thing, that you have to, like, chew on it. No, no. Like, I don't want, like, a twisty roll."
+  },
+  {
+   "t": 8164.2,
+   "text": "Soft serve. I want, like, a gelato. Gelato. Like a chocolate gelato. A cornet. Steve, remember the shit you took and killed me with? Yeah, tell her about my shit. Tell her."
+  },
+  {
+   "t": 8177.9,
+   "text": "You saw his shit? Yeah. I tricked her, I tricked her. I go, hey guys, there's something wrong with me, come in here, I just want you to look at my poo. Did you fuck her mom?"
+  },
+  {
+   "t": 8188.5,
+   "text": "Did you try to fuck her mom? Did you fuck her mom? What did my poo look like? Did you fuck her mom? Did you fuck Kalilah's mom? Did you try to fuck her mom?"
+  },
+  {
+   "t": 8198.6,
+   "text": "No, the thing is, my concern wouldn't be that he's gonna try to fuck her mom. I would never do that. I just figured it out. It's that he would try to do something even weirder."
+  },
+  {
+   "t": 8207.3,
+   "text": "Like, smell her asshole, or ask to smell her asshole, or something weird like that. You're a depraved sex addict like me, and he's not. And you're trying to, in the same way, you can't make someone something that they're not."
+  },
+  {
+   "t": 8220.8,
+   "text": "He's never gonna want to eat your shit. I don't know. And he's never gonna want to let... That I feel that way towards. But I understand having that feeling, because I've had it. And you need to apologize, Bobby, to Bobby right now, for rudely interrupting his trivia. It's unbelievable."
+  },
+  {
+   "t": 8251.9,
+   "text": "The show's not just about me. Do you think you would eat shit? Me? Yeah. I would do what she's saying right now if I had someone like that in my life. If it was, like, Natalie Portman, I would eat her shit."
+  },
+  {
+   "t": 8262.6,
+   "text": "You would? You would eat Natalie Portman's... You understand. Ellen Page might come on the show. There is no one in the world... Ellen Page might come on the show. You're lying, dude. No, I just said she might come on the show."
+  },
+  {
+   "t": 8273.7,
+   "text": "I met her friend, and she is researching a show, a sitcom based on pornos, and they want to talk to... Oh, I mean, we're gonna get her on here through trickery. Yeah, come to my office, and this will be my office. You might not want me around. Well, you just hide right there, just like you are."
+  },
+  {
+   "t": 8294.8,
+   "text": "I might go to jail. Yeah, I might go to jail. It's Alia, Alia Shawkat, she's our friend, we met her, and she's Heather's friend too. Yeah, she knows her. Yeah, get her on. Yeah, and we said, what are you doing these days? And she said, I can't, like, stop thinking about eating shit right..."
+  },
+  {
+   "t": 8311.0,
+   "text": "...now, like, I can't stop thinking about it, I like eating shit, it's like consuming. Yeah. Have you been listening? I forgot what... Yeah, like, I completely... Well, that's what we're gonna play."
+  },
+  {
+   "t": 8327.6,
+   "text": "It'll be over in one second. You know how much disgusting Chinese medicine I've eaten in my life? That fucking deer horn. No Chinese medicine tastes... Well, it tastes horrible, and it stays in your mouth, but the thing about eating shit is, what if it gets stuck between your teeth?"
+  },
+  {
+   "t": 8341.9,
+   "text": "You wouldn't eat it, you would swallow it. Would you be mad if he covered his nose and ate it? You're fucking upsetting our guests, dude. Look, Heather, this show's not just about talking about your fobs all the time, it is a self-description joke. And honestly, what I'm suggesting is, you know, it's nice to share..."
+  },
+  {
+   "t": 8363.6,
+   "text": "...this sort of level of love, I don't know, it's a fun little... When we go on tour, we're gonna be... She doesn't want your shit, she doesn't want anyone's shit. You know what, Mark, I would make an exception. You're gonna probably be awesome too, yeah, I need Mark's shit. But I would have to be Sam's first."
+  },
+  {
+   "t": 8394.6,
+   "text": "I'd eat Mark's shit, it'd probably make us talk more. What about diarrhea? You would not eat diarrhea. That's what you want. I think diarrhea would be easier to eat than, like, a real solid shit. Would you take a ball of shit, a meatball of shit, or a shot of shit?"
+  },
+  {
+   "t": 8409.5,
+   "text": "Are you fucking kidding? We gotta do trivia. I'd rather just inject it. The show's getting... the trumpet is still spinning out of control. Sorry, sorry. You've seen the problems of Kalilah with her boyfriend. Trivia!"
+  },
+  {
+   "t": 8423.0,
+   "text": "I want his body! You wanting him to act as a boy, and he just can't? You wanting your boyfriend to be a shit eater is never gonna happen. You're either a shit eater or you're not."
+  },
+  {
+   "t": 8431.1,
+   "text": "Or you're not. I agree, I agree, I agree. We're shit eaters. It's not unrealistic to think he'd be a shit giver. But it's the same way, like, he wants to lick her asshole, but she doesn't want it."
+  },
+  {
+   "t": 8441.2,
+   "text": "You know? No, but licking asshole, I think you can be... you can be convinced. No, it's not that I don't want it, it's just... Not your favorite. It's like, oh... That's how I feel about eating ass."
+  },
+  {
+   "t": 8452.3,
+   "text": "He's gonna sneak it on you. I love an asshole. Have you ever stuck your fingers in his ass? I don't think I have. Well, I think I, like, tested it one time and he wasn't into it."
+  },
+  {
+   "t": 8464.7,
+   "text": "But you didn't also have... This is how you do it. Okay, in the same way Val cuckolded us. He's been dating Dave. Just grab his asshole when you're blowing him. He needs to be dating Dave."
+  },
+  {
+   "t": 8475.0,
+   "text": "He needs to be dating Dave. Grab his asshole, pull a little bit of shit out and then... No, she... So no, there's no intention there. She needs the intention, he has to want to give it to me. And I guess my dilemma was, I was gonna ask you guys, how can I convince... It's never gonna happen. The only way you could convince him, or the..."
+  },
+  {
+   "t": 8495.7,
+   "text": "...same way we're gonna get out of here, is through trickery. Trickery. I mean, you could trick him into... But if you use trickery, then it's not real. Yeah, that's still not... Then my whole life..."
+  },
+  {
+   "t": 8505.1,
+   "text": "Yeah, exactly. You don't need a whole life right now. My whole life is not real. My whole life is based on lies. I got tricked into learning how to swim, and then I liked it."
+  },
+  {
+   "t": 8514.5,
+   "text": "I don't think it's like that. No, I think it's like that. I think the first time he serves her shit, he's gonna want to keep serving her. Like, oh my God, I love it."
+  },
+  {
+   "t": 8522.3,
+   "text": "It was delicious. Actually, I think it's gonna be exactly like that. Okay, but what about you and men, then? What about? You think that's a gay thing? Because, well, you never tried to have sex with a man."
+  },
+  {
+   "t": 8533.2,
+   "text": "I fucking fingered his butthole. That's not sex, what are you talking about? I swirled his butthole while he was fucking a 22-year-old. Did you have a boner? I rubbed his dick while he was in the bathtub."
+  },
+  {
+   "t": 8543.0,
+   "text": "You wanted to touch your balls? And I rubbed him? Yeah, you did. But that's not... That's fucking gay as shit. What are you talking about? That's the gayest shit ever. I was fucking fondling his balls in the bathtub."
+  },
+  {
+   "t": 8554.3,
+   "text": "That's actually not the gayest shit ever. Yeah. All right. Oh wow, like, purple. So, you're sitting in the back seat from now on. I just, it was there, it was smooth and round."
+  },
+  {
+   "t": 8563.6,
+   "text": "Hey, I know, and I have a front seat, but there's a back seat. He was holding his ball like this, and I just put some... Bobby, would you eat Quiet C's shit? Oh, we need a beatbox, right?"
+  },
+  {
+   "t": 8572.2,
+   "text": "What if she really wanted to eat your shit, would you let her? No. I feel like you would. Hey, what the fuck, dude? You got some trivia for us or what? I do."
+  },
+  {
+   "t": 8581.8,
+   "text": "Take some control of the fucking show, it's spinning out of control, dude. All right, let's start over, Bobby. Start over with the sauce."
+  },
+  {
+   "t": 8590.0,
+   "text": "I'm gonna go real quick. No, it's the time of the night again. Off the sidelines and into your limelight. It's time of the night again. It's the time of the night again. Loser gets what?"
+  },
+  {
+   "t": 8603.2,
+   "text": "Loser gets to eat Heather Leather's shit. That loser has to suck on Asa's tampon. Oh, okay. No, first of all, no. No, no. No, no, I'm definitely... Loser has to suck your boobs."
+  },
+  {
+   "t": 8620.3,
+   "text": "Loser has to put the bloody tampon in their nose. No, I'm not pulling my tampon out for any of you. Loser has to dry-hump you for five minutes. Five minutes? Five minutes."
+  },
+  {
+   "t": 8634.7,
+   "text": "What about five seconds? Five seconds? No. Loser... Okay, loser has to donate 25 dollars to my AIDS walk. Okay. That's not fun, do something more funner than that. Oh my God, what is this?"
+  },
+  {
+   "t": 8648.1,
+   "text": "It's gotta be in the moment. Hey, loser has to eat a lot of shit. No, it's not so weird. But she doesn't want the shit. I'm with everyone. Okay, I'm donating 25 dollars to Asa's AIDS walk."
+  },
+  {
+   "t": 8660.1,
+   "text": "Thank you. I'll donate 25 dollars anyway. Yeah, I'll do... Thank you. Okay, but what's the real... But for Dave, it's a little more. Okay, fine, yeah, Dave gets times 100. Bobby, fire him through text message."
+  },
+  {
+   "t": 8674.3,
+   "text": "Go, YRFRD with a fire emoji, smiley face. He got into lazy texting me last night. What? He started texting me with, like, leaving a lot of letters out, like, WT. Oh, like all the vowels out. And I said, what the fuck are you doing? He's like, it's lazy texting. And then he started texting me normal again this morning."
+  },
+  {
+   "t": 8695.7,
+   "text": "I feel like it would be easier just to text him normally. That's what I said, what are you doing, why are you texting me normal? And it's like, lazy texting is too much work. Yeah, because autocorrect doesn't do any of them. When you fire him, do lazy texting, it's funnier. All right, that's..."
+  },
+  {
+   "t": 8709.1,
+   "text": "I can't wait for the physical, and a fire, and a fire emoticon, and do it on the show after Alex builds me the cage where I can just hide in it. Um, loser has to... who's here... smell Critter's butt. Okay, smell... there's no... You know what, why does it always have to be sexual..."
+  },
+  {
+   "t": 8727.4,
+   "text": "...and disgusting with you people? We're trying to have a real potty... party here, okay? That's normal, dude, that's normal behavior. Yeah, that actually is true, coming from you, that's very normal. He's like, that was toned down."
+  },
+  {
+   "t": 8739.1,
+   "text": "He's like, you gotta leave your underwear. This is a bunch of psychotic people, this is horrible, the worst show on the planet. Wait, we're not supposed to call things horrible anymore. Oh, God bless, God bless."
+  },
+  {
+   "t": 8749.2,
+   "text": "God bless. God bless. We're the band. Oh, this is the band right here. Band photo. Hey, camera right here, a band photo. Okay, so loser has to... loser has to put Asa's bloody tampon in their nose."
+  },
+  {
+   "t": 8766.8,
+   "text": "No, I'm not doing anything like that. Can we just do something like that? Fucking damn it. That's, like, on the same level as shit to me. What about Val's butthole? What the fuck?"
+  },
+  {
+   "t": 8778.3,
+   "text": "What? We already did the butthole thing. That's what's his name... I mean, I'm such a likeable guy. Okay, Val cuckolds you. What about eating his belly button lint? Whoa. Okay, Val fingers your butthole if you lose."
+  },
+  {
+   "t": 8799.2,
+   "text": "Okay, that's not fair. You ever use a cuckold? That's not fair. No! I'm gonna lose on purpose. I'm gonna lose on purpose. Val cuckold. He does to us what he did to the... cuckold."
+  },
+  {
+   "t": 8808.5,
+   "text": "I want those big old Mexican fucking sausages rammed in my butthole. Let's do this. Val, I give up, I forfeit. I got it, I got it. Loser has to smell Bobby's earlobe."
+  },
+  {
+   "t": 8820.4,
+   "text": "Yeah, that sounds bad. Oh, the ear? All right, what's alive and well? What's alive and well? Relationship? You got it. Oh! What's alive and well? All right, imagine for one second... Wait, who got it?"
+  },
+  {
+   "t": 8839.0,
+   "text": "You don't want to... I thought you wanted to smell the lobe. You can smell it anyways. That's actually initiation. You've smelled it before, stop rubbing it now. You gotta save the planet for the show. Wait, that's so offensive. It's really gross. Come on. You take control of the show, dude."
+  },
+  {
+   "t": 8859.7,
+   "text": "It's falling apart. What do you mean? The show's falling apart in the chaos. All right, imagine I'm Dave right now, what do I need to establish? Dominance. What? He's the boss. Establish... He's an asshole. Rule."
+  },
+  {
+   "t": 8873.4,
+   "text": "Rule. His rib. You got it. His what? His rib. Fire him, easy text, on the next show, after the cage is built. What did David ask Alex to build? Cage! I got it!"
+  },
+  {
+   "t": 8890.0,
+   "text": "I got it! Who got it first? I did. Oh, Bill got it. I got everyone's voice. Are you kidding me, fucking Bobby? Are you kidding me? No, no. Are you kidding me?"
+  },
+  {
+   "t": 8898.2,
+   "text": "Everyone got it. Can we get a re-show? No! What are you doing? I want to get closer so you can hear my voice. No, you're cheating, you fucking cheater. Just be right in front of him, then."
+  },
+  {
+   "t": 8909.5,
+   "text": "Go in front of him, don't go behind him. Hey, you're cheating! What? Dude, I can't even see with these clouds. Just go in front of him. Now I'm gonna go over here."
+  },
+  {
+   "t": 8915.8,
+   "text": "For what purpose? Protect him from me. What's the clue? I didn't hear it. Yeah! Oh, the page? What does Critter save for the bank? Get away from me. Pussy, he fucks girls there."
+  },
+  {
+   "t": 8928.6,
+   "text": "You got it? Yeah. You distracted me, Choe. What was the question? What does Critter save for the bae? Save for the bae. Oh, save for the bae. Yeah. Pussy. Zero effort, no work put in."
+  },
+  {
+   "t": 8939.7,
+   "text": "Yeah, right, when are we gonna fuck? All I do is put in work. All right, last question. On the pussy. Oh, righty? Yeah, like, it feels good right now. There's not even one question per person."
+  },
+  {
+   "t": 8948.6,
+   "text": "I feel like a bear is on top. I know. There's gonna be a lot of losers. Wait, wait. I can pinch it up, I can pinch it up. All right, yeah, you can pinch it up."
+  },
+  {
+   "t": 8954.2,
+   "text": "There we go. Oh, yeah, double trouble, tag table. How does Critter sometimes address women? Sitting on the curb? You're getting close. Honey, baby. What did you say? Babes. Babes. How does Critter sometimes address women?"
+  },
+  {
+   "t": 8971.8,
+   "text": "Something like... something. We're so close. Sweetie, sweetheart. You're close. Honey. Honey. Honey. Precious, sugar, babes and something babes, I think. Sugar, babes, baby doll, baby doll. Cleveland Steamer. Baby girl, baby girl. How does... wait, save the question. Sweet cakes, honey bun, honey buns. Hint, give us a hint."
+  },
+  {
+   "t": 9003.0,
+   "text": "He's on the right track. Sweet cakes. Sweet roll. Mom? I don't say that. Kitty pie? Sweet babes? Sugar pie. Shitting on them? Sugar pie? No. No. Baby. Sweet. Sweet baby. Stupid little message."
+  },
+  {
+   "t": 9023.4,
+   "text": "Cum dumpster? Sorry, so, I didn't say that loud. The opposite of a cum dumpster. Slits. Cream pie? No, not baby girl. College drunk white girls? White girl drunk? White... Yo, white girl crazy!"
+  },
+  {
+   "t": 9041.2,
+   "text": "No. When I... when you... the opposite of a cum dumpster. Opposite... cum dumpster. Angel? I mean, it's not literally... Cuddle buddy? Yeah, you're getting the idea. Angel? It's close. Saint? Make lover? Saint?"
+  },
+  {
+   "t": 9055.7,
+   "text": "Cuddle buddy? Wanky? Sweet guy? Virgin? Darling? Yeah, just say it. Princess. Oh! You guys, are you fucking kidding me?"
+  },
+  {
+   "t": 9095.3,
+   "text": "You should say when I give him the whole fist. Oh, I actually bet thumbs up. I gotta go pee. This is the worst show ever. Is that it? If you do this... That's it."
+  },
+  {
+   "t": 9102.7,
+   "text": "Poon, you gotta finish it up. How many points does everyone have? I got two. I have one. One. Dude, you just pulled out two sheets of paper? One. No, it's just one. It's his journal."
+  },
+  {
+   "t": 9114.6,
+   "text": "All right. All right. Wait, so let's finish it up. I'll look. All right, you gotta name the artist. Okay. Because I'm gonna do the song, and the title of the song is usually in the song. The artist, not the song?"
+  },
+  {
+   "t": 9124.3,
+   "text": "Yeah, not the song. I don't know anything. I know, we're fucked. Can we join? I'm not... a team that beat one point. What's that band I like? Okay, okay. Ned's Atomic Dustbin. Metallica."
+  },
+  {
+   "t": 9136.5,
+   "text": "Oh my God, Ned's Atomic Dustbin. Ned's Atomic Dustbin. Coldplay! Debbie Gibson! I'm gonna go, Bangles! Yes! [singing] Villain to Carlisle! Villain to Carlisle! Was it the Bangles? You gotta sing louder, man! Do you feel my heartbeat?"
+  },
+  {
+   "t": 9153.2,
+   "text": "[singing] Do you understand? Do you feel this thing? I'm mentally dreaming, I'm mentally dreaming, I'm mentally dreaming. Sometimes it's the rain... I know how sushi is bullshit. Let's get Billy Corgan in our band, dude."
+  },
+  {
+   "t": 9176.8,
+   "text": "She's not doing shit. Okay, second song. Okay, that was good, Poon, you're fucking smoking Bobby right now. [singing] Love as a burning thing. Johnny Cash! Fuck it! Man, are you kidding me? I like the way he's saying that."
+  },
+  {
+   "t": 9193.7,
+   "text": "I'm really mad about that. Hey, you feel it? I'm really getting it, I like that. You're getting the fucking show up, bro, you're getting the fucking show the fuck up, dude. Look at you."
+  },
+  {
+   "t": 9202.7,
+   "text": "Look at your body posture, you look all scared and shit. No, no one compares to Bobby Turnbull. Thank you. All right, yeah. All right, yeah. [singing] Commodores!"
+  },
+  {
+   "t": 9221.7,
+   "text": "I know the song, but I can't get the artist. Oh, it's a state. It's a state. It's a state."
+  },
+  {
+   "t": 9237.4,
+   "text": "There's a state in the name of the band. Oh, Alabama. Oh. What is it? Well, that was a good guy. Yeah, that's your shit, man. You know how? Yeah. I've never heard that song."
+  },
+  {
+   "t": 9247.4,
+   "text": "That's your shit, and I don't know what that song is. That's a great song, it's scary. All right, I'll give you an extra point right now, it sounds like the worst song. If you can give me the theme of the three songs."
+  },
+  {
+   "t": 9255.5,
+   "text": "Ladysmith Black Mambazo? No. No. Uh, romance. Love. Love. Heart. Fire. Heartbreak. Yes. I got one. Fire? Fire, love, heartbreak. No playing. Bring a fire and fire. Yeah. Bob, you're getting shown the fuck up right now, dude."
+  },
+  {
+   "t": 9269.3,
+   "text": "I don't even know what your name is anymore. Bobby what? Bobby who? Bobby who? All right, this category is art. Poon is literally making you eat his shit right now. Actually, it's not literally at all."
+  },
+  {
+   "t": 9283.5,
+   "text": "Okay, go. Last February, Critter had an art show, what was the name of the art show? It's your fucking art show, dude, answer it. Sticky Feelings? Bear's Naive. Rhinos. Portage? I don't even know."
+  },
+  {
+   "t": 9299.9,
+   "text": "I don't even know. B.A. What is it? Oh, he got it. There we go, that's what it was. Damn! Wait, who has zero, Poon? Are you... what the fuck do you want from me, Asa?"
+  },
+  {
+   "t": 9313.6,
+   "text": "I never said I was perfect! It wasn't even my art show. It was last February, it wasn't even, like, a year ago. All right. Okay. Last September, our very own Alex had a video installation at an art show called BYOB."
+  },
+  {
+   "t": 9328.2,
+   "text": "What did it stand for? Bring Your Own Beer. Bring Your Own Beer."
+  },
+  {
+   "t": 9331.7,
+   "text": "[indistinct audio]"
+  },
+  {
+   "t": 9341.9,
+   "text": "Bring your beer. Bring your beer."
+  },
+  {
+   "t": 9346.3,
+   "text": "[indistinct audio]"
+  },
+  {
+   "t": 9358.1,
+   "text": "...video. What was the name of your show? Back Your Ass Off, Bitch. It's awesome, it's also short for a car."
+  },
+  {
+   "t": 9376.1,
+   "text": "Got it. Video installation, Bring Your Own Beamer, because the other one was, like, stupid. We want trivia back, we want Bobby back. Last October, Asa had a reading in Hollywood. Where was the last story?"
+  },
+  {
+   "t": 9391.1,
+   "text": "Hustler Store. You got it. Hustler Store. No. Say it again. In Los Angeles? It's a trick question. Where, last October? At DVD. Yes. It's a trick question because it's next month. Oh. I was gonna say that."
+  },
+  {
+   "t": 9409.3,
+   "text": "You're... a thing. We have questions. But when this show comes out... It's trivia, it's trivia. When is the show coming out? You're doing some Bobby shit. Oh, yeah, yeah, this isn't gonna come out before..."
+  },
+  {
+   "t": 9419.0,
+   "text": "She's already gonna eat his shit already, so... We're not eating shit. She's gonna have a poo mustache. What is that, the poo mustache? Dirty Sanchez. You're gonna have a Dirty Sanchez."
+  },
+  {
+   "t": 9428.8,
+   "text": "But I like poo mustache. Poo mustache. And it's gonna say Nuevo Barrio or whatever. You're gonna have a poo mustache that says New MS-13 or some shit. I'm gonna do quotes from different movies."
+  },
+  {
+   "t": 9442.5,
+   "text": "You gotta give me who the actor is. Who the actor? Or actress. Liam Neeson. All right, I'm doing quotes from different movies. Noah Stenzel. All right, first quote. Tommy Lee Jones. People are asking if I'm back."
+  },
+  {
+   "t": 9455.0,
+   "text": "Keanu Reeves. Yeah, I'm thinking I'm back. Jack whatever. You got it. What's the movie? Well, that one's called Jack Wick. John Wick. Keanu Reeves. It's coming out. Come on. I'm back."
+  },
+  {
+   "t": 9466.2,
+   "text": "Oh, yeah. Jenna's gonna be smelling someone's butt. All right, next actor. Hey, prediction, is that movie gonna be good? The preview? I like it. It's not even out yet! That's what I'm saying, the preview looks amazing, right?"
+  },
+  {
+   "t": 9483.8,
+   "text": "Yeah. Please pick a movie that I would like. You can't drown, you fool, you're immortal. Mortal Kombat. He said that like someone in Lord of the Rings, though. Say that again. Sam White."
+  },
+  {
+   "t": 9496.6,
+   "text": "Colin Firth. You can't drown, you fool, you're immortal. Lord of the Rings. He's going Mexican, he's going Mexican. Oh, it's Irish. No, it's Irish. It's Lord of the Rings or Game of Thrones or something."
+  },
+  {
+   "t": 9507.1,
+   "text": "Daniel Dahl. Lock, Stock. I'll give you another quote. Snatch. You're... losers always worrying about their best. Sean Connery. The Rock. I got it, I got it. You got it? I got it. Got it."
+  },
+  {
+   "t": 9518.8,
+   "text": "Sean Connery. She has life to a player. Cool. I got it on the second one. You almost had a belt. What is that from, The Rock? I'm doing the same movie on this one. It's an actress."
+  },
+  {
+   "t": 9529.7,
+   "text": "All right. What was the movie? I don't even know what the movie was. I'm gonna do it right now, I'm gonna do the quotes from the movie. It's the same movie, though."
+  },
+  {
+   "t": 9536.2,
+   "text": "What's the movie? Starting now. Now I mean, I'm really pregnant. What other gang-ins can I get into? Juno. Elliot Page! Elliot Page. I said it too. Who got it? She did. How did you not get that, Stevie Weeby?"
+  },
+  {
+   "t": 9551.1,
+   "text": "I said it like a second after she did. Yeah, it's the actress, that's it. Wait, so who lost? I lost. Wait, you said the next one was gonna be from the..."
+  },
+  {
+   "t": 9561.9,
+   "text": "Jenna lost. Same movie. I have a bunch of quotes from the same movie. I lost and she lost. All right, Jenna, you got a choice. Do you want to smell Poon's butthole, or..."
+  },
+  {
+   "t": 9570.4,
+   "text": "Wait, wait, what? That was not one of the deals. Yeah. Yeah, get your ass off in the air. Spray. Your earlobe's pretty sharp, like sharp cheddar. Spray your ass. I feel like my earlobe smells like that too."
+  },
+  {
+   "t": 9584.8,
+   "text": "Who lost, Stevie and Jenna? I wish it would smell like that. Yeah, but it's Jenna's turn. Do you want to smell each other's buttholes? Because you guys both love... Oh, like a little wraparound deal."
+  },
+  {
+   "t": 9593.8,
+   "text": "Yeah, do a wraparound wrap. You smell hers, she smells yours. I don't want to smell your buttholes. Come on, if you were ready, it's fucking good."
+  },
+  {
+   "t": 9606.9,
+   "text": "I'll smell your earlobe. You gotta smell the earlobe. That hurts me. You don't want to smell my butt? Listen, we're gonna be spending time together. That hurts my feelings. You just put it on my nose."
+  },
+  {
+   "t": 9619.9,
+   "text": "Now your whole world will smell like that. Now, what do you want? Clearing it now. Can you still smell it? It's pretty strong, huh? And my nose already smells bad because I have a septum piercing."
+  },
+  {
+   "t": 9633.6,
+   "text": "It smells like Old Spice. The smell stays in there. It smells like Old Spice. Do you get that? Listen, by the next time we do a show... Like old piercing smell. ...69 Dahma 69 and Broken Sketchbook will be married."
+  },
+  {
+   "t": 9646.6,
+   "text": "And we'll play our first gig. You guys forced yourselves into the wedding party. And when you push it out, that's just like old shit. Do you guys have any hopes and dreams for the wedding?"
+  },
+  {
+   "t": 9661.4,
+   "text": "He wiped it on me. He does that a lot. We're going through the fighting phases right now. It's real talking. Yeah. Is there any specific request that you would like for the wedding?"
+  },
+  {
+   "t": 9674.7,
+   "text": "A certain type of food or music? Yeah, what kind of food are we gonna have? I have no idea. Lobster. Calzone. Spaghetti. What kind of food do you guys want? Top ramen, huh?"
+  },
+  {
+   "t": 9689.6,
+   "text": "Just got showed up by food. That's good, you're using your brains, I like it. Thank you. Also, what flavor cake? Flipped it good. Red velvet. I told them. Ice cream cake. Good job, I like that."
+  },
+  {
+   "t": 9703.3,
+   "text": "Ice cream cake. All right, ice cream cake for the party, with, like, extra cookie stuff, because there's never enough of that. I'm gonna get ripped at your party. Money, I'll be there with you."
+  },
+  {
+   "t": 9717.4,
+   "text": "Ayahuasca tea for them. I'm down for that. I might even get naked, I'll get so drunk. Oh."
+  },
+  {
+   "t": 9724.8,
+   "text": "Listen, there's a lot of people here. I don't know if I was invited. Let's end the show with a big group hug. The name of the show is DVDASA. Stands for Delicious Vampire Donuts, Always Sucking..."
+  },
+  {
+   "t": 9738.8,
+   "text": "...Sucking. Sexually. Assholes. Hey, asshole. No! Don't break his rib! Good luck, assholes. Where's the cage? Ow, ow, ow! Take it easy, we can't spin. I can't spin. Dave might break another rib. You're a jerk."
+  },
+  {
+   "t": 9761.5,
+   "text": "Okay. Here, get in the middle, go in the middle. Everyone give him a hug. You're such a fucking baby. What is wrong with you? What is wrong with you, dude? Jesus Christ. Fuck, man."
+  },
+  {
+   "t": 9781.1,
+   "text": "All right. Let's go home to dinner. That was a really loud yell. Thank you."
+  },
+  {
+   "t": 9854.1,
+   "text": "[indistinct audio]"
+  },
+  {
+   "t": 9877.2,
+   "text": "[outro song] Thank you, thank you. Hey, stepdad. Hey. I kinda like you. Oh, cool. You know my real dad sucks. Oh, that's so good."
+  },
+  {
+   "t": 9946.8,
+   "text": "[singing] I saw you kiss my mother the other day. You wanna date my mother? Well, that's okay. You can take my mother to San Jose. You can fuck my mother."
+  },
+  {
+   "t": 9967.7,
+   "text": "[singing] You can fuck my mother, you can fuck my mother, but don't make noise. You can fuck my mother, just buy me some toys. You can fuck my mother."
+  },
+  {
+   "t": 9988.8,
+   "text": "[singing] You can fuck my mother, you're not so bad. You can fuck my mother, just treat her nice. You can fuck my mother, but cook me some rice."
+  },
+  {
+   "t": 10046.8,
+   "text": "[singing] You're not so bad. To be continued... To be continued..."
+  },
+  {
+   "t": 10070.9,
+   "text": "[indistinct audio]"
+  },
+  {
+   "t": 10071.5,
+   "text": "To be continued..."
+  },
+  {
+   "t": 10073.9,
+   "text": "[indistinct audio]"
+  }
+ ]
+}

@@ -7,23 +7,15 @@ Public David Choe / DVDASA source archive, transcript reader, and Jerry / Tom te
 - Verified web sources: https://jerryshi042003.github.io/david-choe-transcript-archive/sources/
 - Jerry / Tom record: https://jerryshi042003.github.io/david-choe-transcript-archive/tennis-culture/
 
-This repository is deliberately standalone. A contributor needs only this repository. Jerry's private personal workspace, notes, credentials, and unpublished media are not dependencies and must never be copied here.
+This repository is deliberately standalone. The public archive, its data, its UI,
+and its release history live together here.
 
 ## Development and production
 
-| Branch | Purpose | Publishes |
-| --- | --- | --- |
-| `main` | Production. Jerry-reviewed releases only. | GitHub Pages public site |
-| `dev` | Shared integration and review. Tom's pull requests target this branch. | Nothing public |
-| `tom/<change>` | One isolated contribution in Tom's fork. | Nothing public |
-
-GitHub Pages deploys only production `main`. Development work is previewed and validated locally before review. A change reaches the public site only through this path:
-
-```text
-Tom's fork → tom/<change> → pull request to dev → Jerry review → dev → main → public site
-```
-
-Tom does not need collaborator access. He can fork this public repository and open pull requests. That prevents accidental access to, or coupling with, any private Jerry repository.
+`main` publishes the GitHub Pages archive. Contributors may use a branch or a
+fork when that makes collaboration easier; Jerry can also release directly to
+`main`. Local checks and the browser pass document what was verified for a
+release.
 
 ## Local preview
 
@@ -172,21 +164,8 @@ node scripts/build_recent_channel_analysis.mjs \
 node tests/recent-channel.test.mjs
 ```
 
-## Repository boundary
+## Repository contents
 
-Belongs here:
-
-- public transcript JSON and reader code;
-- public source ledgers and citations;
-- the public Jerry / Tom tennis-culture record;
-- small, lawful, source-attributed images needed by the reader.
-
-Does not belong here:
-
-- private personal notes or whole private-repository exports;
-- credentials, email, private chats, contact databases, or unpublished recordings;
-- downloaded podcast/video/audio files;
-- unlicensed book scans or other copyrighted source dumps;
-- generated build folders or machine-specific paths.
-
-The tennis-culture record stays in this repository because it directly uses the DVDASA transcript archive and citations. A separate repository would add syncing and deployment work without creating a useful permission boundary: everything here is already public.
+The archive includes transcript JSON, cleaned Script editions, reader code,
+source ledgers, citations, and the Jerry / Tom tennis-culture record. The
+dedicated Pages site is the canonical public David Choe archive.

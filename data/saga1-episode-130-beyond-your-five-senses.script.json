@@ -1,0 +1,1819 @@
+{
+ "id": "saga1-episode-130-beyond-your-five-senses",
+ "schema": "choe-corpus/script@1",
+ "source": "llm-cleanup",
+ "lines": [
+  {
+   "t": 0.0,
+   "text": "[announcer voice] Welcome one, welcome all, it's DVDASA with your hosts Steve Lee, Bill Poon, and Valentin. Here we go! Here we go! Alright. Alright guys, so I got a special guest calling in. I'm gonna give him a call."
+  },
+  {
+   "t": 15.6,
+   "text": "Really hard to get a hold of this guy, but a huge fan of the show. — He called you, or you called him? — I'm gonna call him. — I mean, how did the whole thing..."
+  },
+  {
+   "t": 23.3,
+   "text": "Go ahead. I mean, he's just been dying to get on. It worked out in his schedule, so here we go. — Can you put it on speakerphone? We'll be all off here. — Yeah."
+  },
+  {
+   "t": 41.6,
+   "text": "That's not too loud. I don't think this is as high as it goes. — Where are you going with it? — There you go."
+  },
+  {
+   "t": 57.9,
+   "text": "[phone connects] Oh, shit. What's going on? — What's going on? You tell me what's going on. What are you doing? Where are you? — That's Bill. — Who's over there? Who am I talking to? — Bill, this is Pooner."
+  },
+  {
+   "t": 74.0,
+   "text": "The four caballeros are here. Bobby. — Am I on speakerphone right now? — Yes. — Bobby, how many fucking times did I tell you: when I call you, why don't you just announce immediately that I'm on speakerphone?"
+  },
+  {
+   "t": 86.2,
+   "text": "Oh yeah, that's true. — A lot of horrible information got out. A lot of oopsies. I mean, I don't know how many times I've called Bobby. [beat] Can you guys hear the echo? I'm in the shitter right now."
+  },
+  {
+   "t": 96.9,
+   "text": "No, you sound clear. — Because, you know, sometimes there's someone in the car, and I don't usually have a lot of small talk when I call Bobby. I just jump right into, like, 'Get this person out of my will,' or 'Fuck this person' — and that person will be sitting right in the car next to him."
+  },
+  {
+   "t": 113.8,
+   "text": "It's only happened once. For future reference: when you call me and I'm on speakerphone, the first thing before you say hello or anything is, 'Hey, you're on speakerphone.' And I go, 'Oh, okay, cool.'"
+  },
+  {
+   "t": 124.6,
+   "text": "So who am I on speakerphone with right now? — You're on speakerphone with Steve, Valentin, Pooner, me, Bob, and Alex. You got all the guys here. So it's a bro show. — Yeah. It's a bro show."
+  },
+  {
+   "t": 144.1,
+   "text": "It's a bro show. [the guests we lined up] fell through. Well, fuck them, whatever — the show must go on. I love it when you guys do shows without me, which is never. We were talking about that earlier. I would love it."
+  },
+  {
+   "t": 158.9,
+   "text": "Whatever is happening right now, I would love it if you guys did this all the time. For me — almost like an OCD kind of thing — I just want to make sure that there's always a show every Tuesday, every Thursday."
+  },
+  {
+   "t": 170.3,
+   "text": "And I'm also super busy right now, and I'm dealing with my shit right now. Speaking of dealing with shit — since this is a self-description joke — I have a health thing I gotta say. — Go ahead. — So basically, Bob, you know my life in L.A.: eating a lot of unhealthy food, a lot of french fries, a lot of greasy fried shit, and not exercising at all. And the obvious answer"
+  },
+  {
+   "t": 198.2,
+   "text": "from my doctor, or from anybody, is like, 'Hey, once you start exercising and eating healthy, you're gonna feel great.' And you're like, yeah — you just... what does that even mean? What does 'feeling great' mean? And then we've got this continuing joke of, like, girls"
+  },
+  {
+   "t": 214.7,
+   "text": "don't fart, girls don't shit — and then you have me on the other end of the spectrum, that just shits constantly. So I actually have a huge announcement to make right now."
+  },
+  {
+   "t": 228.1,
+   "text": "Basically, I have been eating right — literally juicing and eating salads for like a few weeks — and I don't fart anymore. — No! — Really."
+  },
+  {
+   "t": 241.5,
+   "text": "Listen to me, man. I walk around all day and I'm like, something's missing, something's off, like what's going... I can have a full meal, and — you know, old habits die hard, old behavioral patterns and all this kind of shit."
+  },
+  {
+   "t": 261.4,
+   "text": "Like, literally right now, if this was the past, my shit would have been done already. But I'm literally just sitting on the toilet, because I'm like, oh — after a huge meal, I usually just go shit right away."
+  },
+  {
+   "t": 271.7,
+   "text": "But I literally have one movement a day, and I don't ever fart. Ever. Like, not ever — nothing even close to it. Farting was just part of my life. I would just fart all the time, like every hour on the hour."
+  },
+  {
+   "t": 288.1,
+   "text": "Now it's almost surprising. I'm like, 'Oh fuck, I just farted right now.' — You miss it? — I feel fantastic. I feel great, and I never fart anymore, and I barely shit."
+  },
+  {
+   "t": 301.7,
+   "text": "And when I shit, it's like I almost need no toilet paper. It's one solid huge log that just shoots out, and I'm wiping, and I'm like, 'Oh, wow.' I literally could have wiped my ass with one tiny square of toilet paper."
+  },
+  {
+   "t": 317.9,
+   "text": "So yeah, sometimes out of old habits, I'll just sit on the toilet and I'll be like, 'What am I doing?' I'm sitting there waiting for the shit to come out, and I'm like, oh — I don't shit five, six times a day anymore."
+  },
+  {
+   "t": 330.2,
+   "text": "So what's your diet? You're just juicing and salads? — I'm juicing, and yeah, I eat salads. And I don't know — I've sort of secluded myself. I don't want to say where I am, but I've secluded myself in an area where there aren't that many restaurants or that much food, so I almost have no choice, you know?"
+  },
+  {
+   "t": 350.4,
+   "text": "And I'm really, really working on my ADD, no-attention-span kind of shit, because I feel like that's just the way the world is now. Like kids today with no attention span. I'll listen to the first ten seconds of every song, and listen to like a hundred"
+  },
+  {
+   "t": 372.2,
+   "text": "songs, and never listen to any of them all the way through. So now I give myself little assignments — listen to one song all the way through, watch one TV show without changing the channel or checking what else is on. So that I'm present, and you have my complete attention for that period of time."
+  },
+  {
+   "t": 393.1,
+   "text": "So I will say, though — I fucking miss you guys. — We miss you too, Dave. We miss you too, man. — It looks like you guys are out there still fucking getting your nails done and shit."
+  },
+  {
+   "t": 404.4,
+   "text": "It's crazy without you, man. Chaos happens when you're not around. — What? I mean, what's going on with you? — Hey, on that front, I'll have to remind you later."
+  },
+  {
+   "t": 418.7,
+   "text": "I can't do the shows on Monday nights and Thursday nights anymore. — Why? What happened? — Well, because I got this gig, this part-time gig — like a private show. I'm cooking for this couple, and they asked me to do it Monday and Thursday nights."
+  },
+  {
+   "t": 438.1,
+   "text": "And you got that job specifically through the show? — Yes, directly from you. — Look at that. Look at all these doors opening up for you. — I was thinking about that. I was in their kitchen today and I was like, wow — a lot of the good stuff going through my life right now is coming through the show. — Absolutely."
+  },
+  {
+   "t": 459.1,
+   "text": "Right. Well, I think — you know, we talk a lot of shit on the show, and a lot of the comments we get are like, 'Oh yeah, it's the conversations people have in the back, the way you actually talk to your friends but would"
+  },
+  {
+   "t": 477.0,
+   "text": "never say out loud.' And they go, 'Was Dave ever really gonna buy a soccer team for Steve Lee?' And it's like — it is and it isn't."
+  },
+  {
+   "t": 489.7,
+   "text": "You know, if Steve was completely committed to doing that, then I would. I'm feeding off everyone else's energy too. I'm not just in this vacuum by myself."
+  },
+  {
+   "t": 499.9,
+   "text": "I know Bobby would like to think I could sit in a room and just podcast by myself for hours and hours — which I actually have done in the past, but... — I'm still down to go to Macau."
+  },
+  {
+   "t": 514.2,
+   "text": "I'm down for Macau, dude. I'm telling you right now, I'm down for Macau. I'm at a place right now where I see a therapist maybe three times every two days. So I'm literally — you know what they call them, shrinks."
+  },
+  {
+   "t": 527.0,
+   "text": "Like I'm literally getting my brain shrunk. — Oh, wow. — [mock therapist voice] He's like, 'All you do is talk about Steve Lee. You're obsessed with this guy. Okay, David, let's stay on point.'"
+  },
+  {
+   "t": 543.0,
+   "text": "'Let's go back to what you were saying before.' I know, but this guy Steve — he's like, 'Stop for one second.' I go, 'Let's talk. It's all I think about. It's all I care about.'"
+  },
+  {
+   "t": 553.7,
+   "text": "So we're going to go to Macau, right? Me and you, buddy. — It's against your therapy. It's not healthy, is it? — The physicians and producers I've been contacting to make sure your album is on point,"
+  },
+  {
+   "t": 566.2,
+   "text": "the directors I've been contacting to make sure your music video is going to be amazing — this is all... I'm doing this if you want it, you know? If you don't want it, then I don't want to."
+  },
+  {
+   "t": 575.7,
+   "text": "Dude, the album is dope. It's a dope album. It's very good, to me it is. Actually, it was kind of... — You know, on the ride over, Steve was telling me he's almost done with all his stuff, right?"
+  },
+  {
+   "t": 591.0,
+   "text": "Is that what you're saying? — Yeah, I got like eight or nine songs done. — Okay, first of all, that's great, because that's you working on your own shit. Then the next phase is for you to learn those rhymes, say it like a million times. — Oh, I'm nowhere close to that. This is just me"
+  },
+  {
+   "t": 610.5,
+   "text": "reading it off the paper. — Yeah, so you have to live it. You know, when you see rappers and they just know their songs — — Yeah, I'm not there yet. This isn't rap, but you know — I do fifteen-minute segments for HBO now, I do a lot of voice work, and so"
+  },
+  {
+   "t": 628.4,
+   "text": "I'm like, oh, that's easy — I go in the studio sound booth and I recite. [mock ominous voice] 'And that's why the end of the world is coming.' Dave, do the little accordions. 'And that's why the end of the world is coming.'"
+  },
+  {
+   "t": 643.9,
+   "text": "And then I say it a million times until it's just one line, and at some point I don't have to read it off the paper. I can be like, 'The end of the world is coming,' and say it a million different ways until it becomes art."
+  },
+  {
+   "t": 659.7,
+   "text": "Right, right. Money Mark, Dan the Automator — as many producers rolling through there and working on this music for you. — Wait, you got the Automator on board? — I got everyone on board. — Oh, wow."
+  },
+  {
+   "t": 701.4,
+   "text": "I got everyone on board if you're on board. You're going to have Dan the Automator, Money Mark, and a few other guys that we'll keep under wraps right now."
+  },
+  {
+   "t": 710.9,
+   "text": "Wow, dude, that's... — It's all... you know, I don't want to be like a soccer mom and get too excited, because it's like that weird overbearing dad, like, 'I'm living your dream through you' — all that kind of shit."
+  },
+  {
+   "t": 725.3,
+   "text": "Well, just between all of us — I've actually quit doing comedy because of the album. I'm focusing so much on the album, because it's hard to write jokes and raps at the same time."
+  },
+  {
+   "t": 741.6,
+   "text": "So I've just been so focused. When I'm not at Fat Sal's, literally I'm not even playing video games. I'm making beats and I'm writing, writing, writing. I'm doing this shit."
+  },
+  {
+   "t": 752.9,
+   "text": "I'm taking it seriously. It's not like I haven't done anything. I could bring some stuff in for you guys to even listen to. I've really been focused. But I had no idea about the Big Bear thing and all this other stuff going on."
+  },
+  {
+   "t": 771.5,
+   "text": "So that's actually good news. I told you in text, but I want to tell you — over the phone right now — I don't know if you've ever been pushed. I know you create in your own way, but I want to push you, and some of it might be uncomfortable."
+  },
+  {
+   "t": 788.8,
+   "text": "But I want to push you. You said, 'out of my comfort zone,' that you try everything, right? That you try everything, and you're like, 'This is something I would never do' — which is my life now. I do shit all fucking day that I would never do. Like I would never fucking have a juice"
+  },
+  {
+   "t": 802.0,
+   "text": "for breakfast, you know? — Right, right. I mean, that's fucking gross. I'd rather have... — You know what? You're absolutely right. To grow as a human, you've got to go out of your comfort zone."
+  },
+  {
+   "t": 812.3,
+   "text": "You can't just stay in your little comfort bubble. — Yeah. And you know what? You're already growing. You're saying, 'I'm working on my album instead of playing video games all day.' That's fucking awesome."
+  },
+  {
+   "t": 821.0,
+   "text": "Yeah. And that's a choice I decided to make, because when it comes to music, I want it to be good, you know? I don't want to just put out crap."
+  },
+  {
+   "t": 828.9,
+   "text": "I want to actually sit down and put energy into it, instead of just... I know on our show we get into a funk sometimes — or I should say I get into a funk sometimes — and then all we do is focus on, like, anal sex, or the orgy, or the orgy,"
+  },
+  {
+   "t": 846.1,
+   "text": "or... — Well, I mean, we're still going to have an orgy, but... — We'll focus on horrible shit, and all that does is attract the most horrible people and horrible energy. But it's good if we're feeling good. Like, Bill — without knowing how good a chef Bill is, I know that's a motherfucker who loves to cook."
+  },
+  {
+   "t": 868.4,
+   "text": "Right. Because, A, he's fat, so that means he loves to eat. And anyone who loves to eat enjoys food, you know? Whether it's shitty food or good food, they definitely enjoy eating."
+  },
+  {
+   "t": 878.7,
+   "text": "And because I'm a fan of the Poon Report — before it was the Poon Report, it was YumYumCha — Bill's the original blogger. He takes pictures of food, he writes about food, he talks about it."
+  },
+  {
+   "t": 890.0,
+   "text": "So my educated guess is that Bill is probably a really good chef. I mean, there's a difference between a chef at a restaurant and a chef for your friends, but on that level, I think you could definitely make a good meal. And you said to us before,"
+  },
+  {
+   "t": 909.3,
+   "text": "'Hey, is there a kitchen at the studio? Because I'd like to cook for you guys.' Someone who isn't a good chef would not say that, you know? — Well, they seemed to like it today."
+  },
+  {
+   "t": 917.9,
+   "text": "I cooked my first meal for them, and they seemed to like it. So I'll be back there Thursday. — Awesome."
+  },
+  {
+   "t": 929.6,
+   "text": "Well, I sort of feel like crying right now, because I feel like you guys are in there doing the Lord's work, and I'm here doing my juicing, not taking imaginary shits. But — I actually hate to be that guy, but I have to go into my therapy session right now, so I have to cut this short."
+  },
+  {
+   "t": 950.4,
+   "text": "And I'm super jealous. I wish I was in the studio right now bullshitting with you guys. — When are you coming back? — I'm coming back soon. I'll be there next week. — Oh, awesome. — Yeah, we're gonna get this shit cracking, we're gonna start making some good stuff. — Cool. — I'm just talking about it."
+  },
+  {
+   "t": 969.2,
+   "text": "Alright, crew. You guys are awesome. I miss you guys. I'll be home soon. Have a good show. Bro show. — Thanks, Dave. Thanks, Dave. Have a good session yourself. — Thanks. Alright. Bye, guys."
+  },
+  {
+   "t": 983.4,
+   "text": "See you soon. Bye, Dave. [call ends] — Wow, that was a nice special guest, man. That was cool. I haven't heard from him for a long time. Seems like he really misses it here. — Oh, yeah."
+  },
+  {
+   "t": 994.8,
+   "text": "Yeah. I mean, I'd never seen that side of him, where he got kind of emotional like that. — Well, I remember he used to say that the one thing about the show was that the show was where he got his contact with people."
+  },
+  {
+   "t": 1008.0,
+   "text": "Because usually, when he's not doing the show, he just does his own thing. But the show — he says he doesn't have friends, and the show is where all his friends are."
+  },
+  {
+   "t": 1016.8,
+   "text": "Oh, right, right, right. Seems like he's handling his business and actually growing from his experience, wherever he is. — Yeah, you know what? Whenever Dave grows, I'm always worried, actually. — What was that?"
+  },
+  {
+   "t": 1031.7,
+   "text": "I'm always worried. You know how people who eat really bad stuff then become a vegetarian? — Yeah. — And they do it for a long time, and all of a sudden it just changes them too much?"
+  },
+  {
+   "t": 1044.6,
+   "text": "And that's why I'm afraid all of a sudden he'll change too much. — So he's not eating cheeseburgers? — Yeah, not because of the diet, but just in general — whenever he goes through his therapy or whatever, I'm like, is he going to be somebody else?"
+  },
+  {
+   "t": 1058.7,
+   "text": "That's what I'm always afraid of. — Like, where it completely changes him? — Yeah. — I don't think that's going to happen. — I don't know. Because it seems like he was — I don't want to say fighting going — but he seemed like he was voluntarily going."
+  },
+  {
+   "t": 1074.1,
+   "text": "Right, right. But it seems like he's still kind of in between both worlds. — Yeah, we'll see. So where the hell's Alex? — Yeah, where is he? I was just about to introduce him."
+  },
+  {
+   "t": 1086.6,
+   "text": "Is he taking a dump? — He's busy. — Alright. So we'll talk about something else, because we're going to talk about — — Yeah. I mean, that's a long thing, though, right?"
+  },
+  {
+   "t": 1095.3,
+   "text": "Yeah. I mean, I could just talk about maybe one aspect. I don't want to — I'm no expert on this stuff. I know you guys mentioned, like, people want to hear more about the reptilian thing."
+  },
+  {
+   "t": 1104.9,
+   "text": "Okay. Give us a summary. — I'll just give you a brief — I'm going to mention one lady I've been researching. Her name is Peggy Kane. K-A-N-E. And what she does — I don't know where she lives — but she does something called electronic voice phenomenon."
+  },
+  {
+   "t": 1121.7,
+   "text": "And what that is, is capturing spirit voices on recorders. — She uses just, like, normal — — Oh, really? Normal? — Yeah, just normal recorders. But there's some kind of static, like a filter system."
+  },
+  {
+   "t": 1138.1,
+   "text": "It's open, where spirit voices can enter — it's like the white noise. — There was a movie out. — Kind of like that, kind of like that. But she's experienced even realer things, where reptilians have entered her world."
+  },
+  {
+   "t": 1156.1,
+   "text": "Like, see, this is the thing. We're in the third dimension, but she mostly talks about the lower astral dimension, which is closest to our dimension. It's basically the place we all go when we're in sleep, in deep sleep."
+  },
+  {
+   "t": 1170.7,
+   "text": "They say our spirit goes to this dimension, and it's darker — kind of like Earth, but a darker world, like a predatorial world. — And do you call them reptilian because they look like reptiles? — Yeah, I mean, yeah. There's"
+  },
+  {
+   "t": 1189.2,
+   "text": "different names — like, I'm no expert, again, I'm no expert with this, I just like reading about it and looking stuff up when I'm hella bored. But what happens is, she puts this stuff through, like, a filter in the software."
+  },
+  {
+   "t": 1204.8,
+   "text": "And she has this technique — because before, when these spirits were contacting her, it'd be, like, some dude from the 1940s who died a long time ago, just kind of messing with her. But then she uses a technique where she does reversals with these programs, this software, where she's able to detect the lies"
+  },
+  {
+   "t": 1225.7,
+   "text": "from these spirits, so she can find the truth of these statements. But dude, if you ever get on YouTube, she has this very disturbing — I don't know exactly where to find it — where she has reptilian... — Like she speaks in tongues?"
+  },
+  {
+   "t": 1241.7,
+   "text": "Yeah, where there's, like, five of them in her living room. — So if you don't have the tape recorder, will you still hear them? — No. That's what enables her to hear these things."
+  },
+  {
+   "t": 1254.8,
+   "text": "We can't hear them, because — this is the thing — these reptilians live beyond our five senses. — Right, right. — They could shapeshift. They live off human fear. A lot of the satanic rituals are based on that, because that's the whole reason they're here."
+  },
+  {
+   "t": 1269.8,
+   "text": "They actually have this planet on lockdown. There's, like, a net around it. I know it sounds crazy, but that's the stuff. — Well, I'm just wondering — so if you don't have this tape recorder, you'll never hear them."
+  },
+  {
+   "t": 1279.9,
+   "text": "So it's kind of out of mind, right? — Yeah, because they obviously shapeshift, they're multidimensional. — So when they shapeshift, do they shift into beings you can then see here on Earth? — You know what, I've heard different stories about this. Basically, a lot of them, they —"
+  },
+  {
+   "t": 1301.4,
+   "text": "the people in power, like politicians — I mean, this could be a conspiracy — but they're actually controlling a lot of it. The bloodline is mixed, like half. Like, you know, they say the Bushes, you know what I mean?"
+  },
+  {
+   "t": 1315.1,
+   "text": "Or the Rockefellers. A lot of it is mixed in with reptilian. It's interbreeding through history. I mean, these things have been here thousands — they've been here a long, long time."
+  },
+  {
+   "t": 1325.6,
+   "text": "They're highly technologically advanced. — What is this whole thing called? — I don't know, I'm just burning out. — What do you mean? Like, this whole genre. — I don't even know what to call it."
+  },
+  {
+   "t": 1338.6,
+   "text": "It's not, like, new-agey. It's definitely — if you type in 'conspiracy theories,' it'll probably come up if you type in 'reptilians.' But even if it's just for the story itself, it's interesting stuff."
+  },
+  {
+   "t": 1352.7,
+   "text": "My newest song that I'm writing is called 'Memories of the Void.' And it's about an experience I had when I was sleeping and then entering that world. Have you guys ever experienced, like, you're in the dream world, and in order to wake up you go through some kind of — like in the Matrix, you know, like"
+  },
+  {
+   "t": 1372.3,
+   "text": "the Matrix has that telephone or something. I have, personally — there's a certain place when I'm ending a dream, like a portal, for us to come back to this dimension. I've experienced that. I don't know about you guys — you might not remember it, that might be suppressed. — Yeah. — Is it"
+  },
+  {
+   "t": 1392.2,
+   "text": "required for us to go through this portal to come back? — I wouldn't be able to answer that, but I know for me personally, I've experienced it a lot of times."
+  },
+  {
+   "t": 1404.0,
+   "text": "It's like some kind of line, or a dormitory room, that I go into. I go in there, then I can wake up and be in this world. But that's just me personally."
+  },
+  {
+   "t": 1416.0,
+   "text": "I don't know if you guys have experienced anything like that. I know it sounds crazy, and I sound like a crazy person when I talk about this stuff. But yeah, they say you do enter this lower astral dimension."
+  },
+  {
+   "t": 1428.8,
+   "text": "It's a predatorial world. Reptilians do exist there. There's actually a lot of pillaging and rape. It's basically like Earth, but a lot darker — a darker world."
+  },
+  {
+   "t": 1440.0,
+   "text": "But this world is the lower astral plane. When we dream, supposedly that's the world our spirits go to. — But so what — you know what? Going back to that story I told you about, when I listened to Portishead"
+  },
+  {
+   "t": 1454.4,
+   "text": "at ASU — and I saw those dead people — that kind of validated my personal experience. Because seeing that made me question this whole existence and a whole bunch of stuff. It really opened my mind up to other possibilities. I thought,"
+  },
+  {
+   "t": 1477.7,
+   "text": "if you're just a normal human being, you're born, you go to grade school, boom, you go to college, you get married, you have two kids, you retire — normal people just view that as life. But we're basically suppressed. We"
+  },
+  {
+   "t": 1497.7,
+   "text": "should be further than we are as a human race. Like, I should be able to look at you and read your thoughts — telepathy, telekinesis, stuff like that. But these reptilians, they're suppressing us. That's what they're doing — they're"
+  },
+  {
+   "t": 1513.1,
+   "text": "suppressing us and taking our personal power away from us as humans. — So when we go into this lower astral plane through our dreams, are those reptilians looking for us and wanting to kill us in there? What's going on? — No, I don't see that. Then again, I don't"
+  },
+  {
+   "t": 1527.7,
+   "text": "really have a personal experience of it. I've experienced elements of evil and weird things, but I couldn't personally tell you, like, I saw a reptilian at the end of the hallway and I'm running — like the final battle in 'V.'"
+  },
+  {
+   "t": 1542.8,
+   "text": "But I could tell you glimpses of dark stuff, where I end up in — — Because I have some pretty good dreams sometimes, like happy dreams. — Yeah, I mean, I'm not saying this is completely — it's not hell."
+  },
+  {
+   "t": 1553.0,
+   "text": "But you have to also consider: this dimension, okay, we're in the third, right? This dream one is in between — this is the fourth. So there's one higher, even better than that, the good dreams you're having."
+  },
+  {
+   "t": 1565.7,
+   "text": "But this one is still kind of a dark world. — Oh, I see. — And, you know, maybe religions describe that world as hell. I don't know."
+  },
+  {
+   "t": 1577.1,
+   "text": "See, that's — I'm no expert. I'm just telling you the stuff I like to read about. Oh, another one — if you guys want to look up this book: Linda Moulton Howe, 'Glimpses of Other Realities.'"
+  },
+  {
+   "t": 1591.4,
+   "text": "That's the other book that kind of opened my mind. It has crazy stuff — like a chapter where this dude gets shifted into a different world, and he's on some spacecraft, and he sees a clone of himself. There are illustrations. — Yeah? — Get that book for sure. Cop that book, 'Glimpses.'"
+  },
+  {
+   "t": 1610.4,
+   "text": "Have you met anyone who shares the same ideology? — No, not at all. And that's why I feel weird talking about it. It's kind of hard. My brother — when I picked this book up, it was hard to find. First of all, they don't sell it"
+  },
+  {
+   "t": 1625.3,
+   "text": "at Borders. You have to go on the internet to find it. I wasn't home, so I had to go to the post office. My brother picked me up from the post office, and we're in his car."
+  },
+  {
+   "t": 1635.3,
+   "text": "He's like, 'Dude, what's in the box, man?' I was excited — I'd been waiting for this book, I'd been doing research. I'm like, 'Oh, man, this book.' And then he got scared. He's like, 'What is that book?' He started flipping through it, saw these illustrations of aliens and reptilians and greys and stuff, and he's like —"
+  },
+  {
+   "t": 1653.1,
+   "text": "he got scared. He was like, 'Dude, if you don't stop this, I'm gonna have to send you to a loony bin, an insane asylum.' I thought he was gonna cry. Because it sounds so crazy, all these things. But — I don't know, it makes sense to me."
+  },
+  {
+   "t": 1673.4,
+   "text": "I think hallucinogenics have a lot to do with it, because it does open your mind to different dimensions and realities. I saw it, man, I'm telling you — I saw a wall filled with people. They were human, and they were there, dude. It wasn't like Tom and Jerry, a cartoon."
+  },
+  {
+   "t": 1691.1,
+   "text": "It was human beings. Suffering, mourning human beings, like this. They're like, 'Hey, we're here. Do you see me?' That type of thing. And I had Portishead — maybe that first album, 'Dummy,' track three, whatever that song is — on repeat, too. So I don't know, maybe music is that powerful."
+  },
+  {
+   "t": 1711.5,
+   "text": "So do you think they were trying to get help from you? — They definitely wanted to expose themselves, to let me know they were there and they were suffering. Because that was not the only time I saw those dead people."
+  },
+  {
+   "t": 1725.2,
+   "text": "My homie got arrested that day, because I ruined his trip — I told you, he ran across campus and got pepper-sprayed. And I ended up going back, smoked a Newport, and laid on my back,"
+  },
+  {
+   "t": 1738.8,
+   "text": "and there — it was that type of texture. See the ceiling, how it is? They covered my whole dorm room ceiling, dude, these people. They were looking down at me."
+  },
+  {
+   "t": 1750.9,
+   "text": "Different age groups, man. An old lady, a young girl — just everything. — Were they humans that got caught in there, or reptilians trying to warn you? — See, that's the thing. I've been five years sober now, and reflecting back, I think what I saw that day was a portion of the lower astral dimension, where"
+  },
+  {
+   "t": 1773.8,
+   "text": "— because it's the closest to ours — I was enabled to see it for a brief window. Because after that, I didn't even like to think about it. I mean, we had — I had a brief experience, because our house in Poway was, like,"
+  },
+  {
+   "t": 1789.8,
+   "text": "haunted — it was probably built on some Indian burial ground, and I was held down by spirits. But visually I wasn't able to see; that was more audio. — When's the last time you had an experience with lower astral people?"
+  },
+  {
+   "t": 1804.4,
+   "text": "Just in that house in Poway. And my brother, every single family member did too. Both my folks admitted to it. So that's been a while, though. That was in the '90s, dude. That was like '92."
+  },
+  {
+   "t": 1816.6,
+   "text": "So you haven't experienced it recently, then? — No. It has a lot to do with where you're located. Poway — there's a lot of cowboy, Indian history there, you know what I'm saying? So most likely that house was built on some kind of burial ground, and the people down there weren't content or something. Because on that experience, there was —"
+  },
+  {
+   "t": 1838.4,
+   "text": "I was half asleep, half awake, and I was being held down, and there was, like, whispering — a bunch of different voices — and I'm like, 'Oh, I can't move.' And my brother — that hallway, it was on that side of the house."
+  },
+  {
+   "t": 1855.4,
+   "text": "He had the same experience. He jumped into the pool to get rid of these demonic — or these, I don't know what they were. So that's what I wrote down. — Are your parents still in that house?"
+  },
+  {
+   "t": 1866.3,
+   "text": "No, we moved. But I asked them in Gilbert. I go, 'Did you know — was it haunted?' Because I told them about my experience. We were at the dinner table, and they both — my dad had a run"
+  },
+  {
+   "t": 1881.2,
+   "text": "from the garage to their master bedroom sometimes, because he was so scared. And then my cousin Eddie — I told him that story, and he told me the same thing. He's like, 'Dude, there's something about that house, man.'"
+  },
+  {
+   "t": 1893.2,
+   "text": "Did you ever look into it? Maybe there was a murder or something that happened there? — No. The street was Ranch — it's called Ranch Hollow. — That's kind of creepy. Ranch Hollow."
+  },
+  {
+   "t": 1901.6,
+   "text": "Val, you ever have any weird stories? Ghost stories? UFO stories? — I just hear a lot of what you say — the same thing, about the old guys from my town. — Oh, really? — Yeah, like they saw somebody, from a specific house or from different"
+  },
+  {
+   "t": 1919.0,
+   "text": "houses, living around there, and they hear noises. — I don't disbelieve it. I won't say I believe it — I don't disbelieve it. — You haven't had any personal experiences? — I've had one ghost experience. — What was that? — But it's so innocuous, it's not even"
+  },
+  {
+   "t": 1937.1,
+   "text": "that interesting. The only thing is, it's interesting because it's a ghost. But my friend and I, we were walking. We'd finished work, and we were rounding the corner to go to the elevator."
+  },
+  {
+   "t": 1949.7,
+   "text": "And when you round the corner of the building, the elevator is maybe ten, twelve feet away. And it's only two stories, two floors. So as we round the corner, we're about to hit the elevator."
+  },
+  {
+   "t": 1961.2,
+   "text": "As we get to it, we see someone in the elevator, and the elevator closes before we get in. But it closed right in front of us. So we pressed the button, and then the elevator door opened right away."
+  },
+  {
+   "t": 1974.4,
+   "text": "And when it opened right away, there was nobody there. And then when I was talking to my friend the next day — we didn't say anything that night — the next day we kind of said, 'Hey, wasn't there someone in the elevator?'"
+  },
+  {
+   "t": 1985.2,
+   "text": "Like, it was impossible for him to have gone into the elevator, for the door to shut, for him to go down and then come back up. Because it was a notoriously slow elevator."
+  },
+  {
+   "t": 1994.9,
+   "text": "And I said, 'You know what, I didn't look at the whole thing. All I saw was from the pants down. He was wearing brown suit pants.' He goes, 'Yeah, he was wearing a brown suit.'"
+  },
+  {
+   "t": 2002.6,
+   "text": "So that's when we knew we saw the same thing, experienced the same phenomenon. — I got something like that too. When I wasn't sober, I was at a dive bar with two of my homies."
+  },
+  {
+   "t": 2013.9,
+   "text": "And we're drinking beers. At the end of the night, we met this one dude — I don't want to say his name. He's like, 'Hey, you guys want to come over and party and drink?"
+  },
+  {
+   "t": 2022.6,
+   "text": "I got more beers at my place.' He lived in the Hollywood Hills somewhere. We're like, 'Cool.' Ended up going there. He had a bunch of Pabst Blue Ribbons in the fridge. This dude was a DJ, too."
+  },
+  {
+   "t": 2033.5,
+   "text": "He had a lot of vinyl, but he wasn't playing normal music. He was playing old Elvis records. And then all of a sudden — it's late now — he's like, 'You guys want to eat mushrooms?'"
+  },
+  {
+   "t": 2047.0,
+   "text": "'I have mushrooms.' So we're like, yeah. He has a Ziploc baggie, and it's like the same way you'd eat potato chips — that's how we were eating these mushrooms. And so, about an hour later, I'm listening."
+  },
+  {
+   "t": 2062.8,
+   "text": "This is creepy music, I mean, you know. My back is to them, and my friends are both looking out into the living room area. They're facing that way."
+  },
+  {
+   "t": 2074.8,
+   "text": "And I'm looking at them, squatting down, listening to the music. And they say to the dude that lived there, 'Hey, do you have a roommate here?'"
+  },
+  {
+   "t": 2084.2,
+   "text": "He's like, 'No.' And they both saw a kid come out of one of the rooms, wearing like a rain jacket, a hood, walk out into the bathroom. But there was nobody."
+  },
+  {
+   "t": 2096.6,
+   "text": "It was just — yeah, he lived by himself. But his response was kind of creepy. He was like, 'Oh yeah, don't mind him.' So he knew this ghost, or whoever it was, was there."
+  },
+  {
+   "t": 2110.1,
+   "text": "So that was a creepy night. This guy had some cool, interesting music. What about you? — That happened to my little brother. — You saw something? — No, he was — see, everybody had gone to school, so he was staying at the house."
+  },
+  {
+   "t": 2127.3,
+   "text": "We'd moved from one house to another. So when we were living there, he was always playing — but instead of with his toys, he was putting all his toys out. And at one point he got all tiny, like he didn't want to eat anything."
+  },
+  {
+   "t": 2141.3,
+   "text": "He just wanted to stay out playing with his friends, but nobody was there. — Right, right. — The house was empty and everything. So we moved out of that house to another place, because we had to take him to the hospital to check what was going on with him. So when"
+  },
+  {
+   "t": 2157.8,
+   "text": "we moved out of that house, he didn't want to go — he wanted to stay in the house. So we took him to the hospital, and the doctor said he was okay, he doesn't have anything. Right. So we stayed. My mom"
+  },
+  {
+   "t": 2174.4,
+   "text": "just stayed with him all the time, giving him food, but he always wanted to go back to that house. So at that time my mom started talking with my dad, and my dad went to find out the story of that house. And in that house, three children had died — in that house."
+  },
+  {
+   "t": 2190.8,
+   "text": "— So do you think he was playing with those three kids? — He was playing with the ghost kids, yeah. He was like eight years old when this was happening. — Does he remember it now? — I don't know, maybe not. Yeah, because he was —"
+  },
+  {
+   "t": 2204.6,
+   "text": "Yeah, a little kid back then, right? They say kids are more in tune to that stuff. — Yeah, I think they're still open. — All the time, all the time, he was pulling out his box with all his toys."
+  },
+  {
+   "t": 2214.6,
+   "text": "That's like a scary movie, man. — All the time, all the time he was playing like... — That's a good one. — Yeah, no, it was — nobody knew what was happening. He always wanted to play outside in front of the house."
+  },
+  {
+   "t": 2227.2,
+   "text": "You should go check out that house again and see if there are any kids. Remember that movie 'The Others,' with Nicole Kidman? — Yeah, yeah, yeah. — That scared me, man. That's a scary movie."
+  },
+  {
+   "t": 2234.5,
+   "text": "Yeah. Any stories about me? — No, I've never had any. — Come on, but you don't have anything like that, Bob? — I wish I did. I love those kinds of movies. I always wanted to go to a haunted house or hotel and just stay over to see."
+  },
+  {
+   "t": 2246.2,
+   "text": "Because those phenomena — why are they always scary phenomena? Why can't they just be nice phenomena? Like, if you see a ghost, why is everyone so scared of them? Right? — Well, supposedly — going back to this stuff — they haven't gone to the other dimensions."
+  },
+  {
+   "t": 2263.2,
+   "text": "There's some unsettled work, or they're not at ease to move on — I don't know, I'm no expert, these are just theories that are already out there — and they're kind of trapped. You know what I'm saying? — Yeah. I mean, if I saw an apparition, obviously"
+  },
+  {
+   "t": 2278.2,
+   "text": "I'd be scared, because you don't know what it is. But I would want to go and talk to them and see, like, 'What's going on?' Have a conversation. Because how do you know? — I don't think the ghost... — How do you know? Everyone's all scared of"
+  },
+  {
+   "t": 2290.0,
+   "text": "them. Maybe they're nice guys. — So this kid was playing with these ghost kids? — Yeah, maybe. — That's why he wanted to go back? — Yeah, all the time. — Oh, that's creepy, dude. That's scary. — He was saying, 'I want to go with my friends.'"
+  },
+  {
+   "t": 2302.2,
+   "text": "He was saying it all the time. — And did he go to a specific room where they used to play? — It was outside, in front of the house. — Outside. — Oh, so these kids —"
+  },
+  {
+   "t": 2310.0,
+   "text": "— Probably. — Oh, so they're probably — the house was built differently before. — Yeah. He was always pulling out his box at the same hour, like one o'clock in the afternoon. My mom would say all the time, that time he was pulling out his box and playing with"
+  },
+  {
+   "t": 2327.5,
+   "text": "somebody else. — But your mom could never see — his mom could never see? — No, my mom never — like, he's playing, but he's a kid, you know? So when he was staying in bed, he always wanted to get up and go and play. — Always at one o'clock, though, right?"
+  },
+  {
+   "t": 2347.0,
+   "text": "Yeah, always. — That's weird, how it's like — you know how those scary movies all have it happen at the same time? But that happened for real in his story, at that time — these kids. You can't see anything, and it's okay to him — you don't give food, they don't want to eat."
+  },
+  {
+   "t": 2369.2,
+   "text": "You know, it's crazy, because we label all these people who may be able to go beyond our five senses as schizophrenic, crazy, or mentally insane. But what if they just have other skills? Their brain can reach those places, but humans automatically want to"
+  },
+  {
+   "t": 2387.7,
+   "text": "put a label on it, like, 'Oh, he's crazy, they're different.' You ever seen those dudes — even homeless people — talking to someone, and you're like, 'Oh, he's just crazy.' Well, what if he really is talking to"
+  },
+  {
+   "t": 2402.7,
+   "text": "a ghost or something we can't see? Maybe this dude's brain is just on a different level. — I think that's part of their issue too. Let's say, hypothetically, they can hear these people or talk to them, but nobody else believes them. So"
+  },
+  {
+   "t": 2417.6,
+   "text": "because we're all in the same — yeah — it's frustrating for them, because nobody else knows what the hell they're talking about, you know what I mean? — Do you think that scares humans, if they can't explain or describe it? — Oh yeah, for sure. Because if"
+  },
+  {
+   "t": 2431.3,
+   "text": "I said, 'Hey, don't you see my friend right here?' and you're like, 'What are you talking about?' — then I'm frustrated. Like, what do you mean, this guy's right here, and no one believes me?"
+  },
+  {
+   "t": 2441.5,
+   "text": "Right, right. So I think that's an issue. — I just thought of something. This is interesting, and no one talked about it — and this is going off the reptilian ghost stories. Why is it that, like, the tragedy that happened in Korea, those kids in the boat — no one talked about it,"
+  },
+  {
+   "t": 2459.6,
+   "text": "no one really, as far as just a valid current event. — Well, wasn't it that the captain told them to stay in their room, and for whatever reason, don't go out? Did you hear about this, Bobby?"
+  },
+  {
+   "t": 2470.0,
+   "text": "I heard about the story. I didn't know that's what happened. — Yeah, these kids drowned, dude. But no one talked about it. Well, it's tough. But I'll tell you this much: if it was in California, some school, some white kids, whatever — they'd be on every newspaper and front page."
+  },
+  {
+   "t": 2487.2,
+   "text": "Is it because they're Asian? — Well, it's because it happened in Asia, in Korea. — Well, not necessarily because they're Asian — because it's not U.S., so we're not going to... — Yeah, but these are human beings."
+  },
+  {
+   "t": 2499.7,
+   "text": "No, I know. — Yeah, the captain — do you believe that guy? He was the first dude to just — — To get off. — Yeah. Well, what's the saying? You're the captain of the ship — what's the number one rule?"
+  },
+  {
+   "t": 2510.6,
+   "text": "Yeah, you go down with the ship. — Yeah, you go down with the ship. So that's all I want to bring up. I don't know why I brought it up. — Yeah, because they said it's sad — some of the kids were calling their parents, right?"
+  },
+  {
+   "t": 2521.9,
+   "text": "Yeah. And they saw scratches. — Yeah, that's right. That's gotta be the worst way to go out. I'd rather be buried alive, dude. — To drown? — Yeah."
+  },
+  {
+   "t": 2533.0,
+   "text": "To drown. Imagine being in a room and the water's coming up and you're listening. — See, it has a lot to do with — me and my brother were talking about this. In Korea — and this is what's flawed — it has to do with the mentality, the way they raise the kids. You listen to"
+  },
+  {
+   "t": 2549.4,
+   "text": "your umma, your appa, that's it. And I think American kids, certain ones, are rebellious — they'd be like, 'Fuck that,' and they'd be climbing up. I'd be doing something. — How come they couldn't open the door? Was it because the water — — No, no, the captain"
+  },
+  {
+   "t": 2566.0,
+   "text": "said, 'You have to stay in your room,' but there were scratches. You know what, I don't even want to — it's disturbing to think about. — I'm guessing that once the water — yeah, because that's only human instinct. You see the water coming up, and what's your first reaction? You're trying to — at that point it's so — the"
+  },
+  {
+   "t": 2588.5,
+   "text": "friction, and they're probably — I bet you when it got up to here, they're like — right, right — you know what I'm saying. But that's just — I mean, what do you think about that, Bobby? Isn't that a horrible way to go out? I mean, what about those kids? So, John, what's your worst way of dying?"
+  },
+  {
+   "t": 2605.3,
+   "text": "Drowning. I mean, isn't it yours? — I don't know, I'd rather get shot. — Yeah, burning is probably worse. Getting burned alive is pretty bad. — Okay, well, I think that's on the — — What, getting burned?"
+  },
+  {
+   "t": 2616.5,
+   "text": "Yeah, because you're going to be alive for a while. — Okay, so like 9/11 — some of them in the building, they burned up there. — Well, I think... — Would you have jumped, though? Because there's pictures."
+  },
+  {
+   "t": 2629.8,
+   "text": "I think most of them didn't burn. They probably died of smoke inhalation first, before they burned. That's usually the case. — That's a better way to go. Yeah, because you're just — and then you're just out."
+  },
+  {
+   "t": 2641.8,
+   "text": "But drowning, it takes a while, doesn't it? Like there's a series of events that happens. — Well, eventually you can't hold your breath, and the water's going to start coming into your throat."
+  },
+  {
+   "t": 2652.6,
+   "text": "You're going to start coughing, trying to get that water out. But there's water that fills your lungs, and then you'll just — but fire, how long does it take? — I think psychologically the drowning is tough."
+  },
+  {
+   "t": 2662.7,
+   "text": "It's tough. You realize what's about to happen. — With fire, because you're holding your breath, too. Let's keep it real — you're trying to hold your breath. — Yeah, but you know it's not going to — you know."
+  },
+  {
+   "t": 2671.9,
+   "text": "Yeah. Yeah. I'm sorry for bringing that up. That's a pretty ugly topic. — Well, at least it's not — we're trying to get off the masturbation tales and the women tales. We're trying to get on different subjects, you know."
+  },
+  {
+   "t": 2687.1,
+   "text": "Well, one of the things we brought up on the last episode — we were talking about our new guy, Bob, right? — Yeah. — But what happened, like, Bob took over — basically, what happened to Alex?"
+  },
+  {
+   "t": 2698.2,
+   "text": "Because Alex used to be the guy behind the scenes, being our engineer. But now it's Bob. So maybe we should bring Alex on the show and ask him what happened. — Yeah, is that okay?"
+  },
+  {
+   "t": 2709.7,
+   "text": "Alex, you want to come on? Alex, you want to do that? So finally, the guy behind the camera comes in front of the camera. And now everyone gets to know who Alex is."
+  },
+  {
+   "t": 2722.5,
+   "text": "Oh. Yeah. How's it feel, Alex? — Yeah, I'm just the talent now. — Just the talent? You are the talent, right? — Yeah. — So tell us what happened, what's going on. You know, I get emails on the Tumblr, on the Poon Report."
+  },
+  {
+   "t": 2738.9,
+   "text": "They ask about you. They actually asked me — they said, 'Oh, you did a thing on Val, can you do a thing on Alex?' And I couldn't, because you asked me not to."
+  },
+  {
+   "t": 2748.7,
+   "text": "So I was like, alright, hold on. Yeah, yeah. I said, well, later, later. — What happened? — Well, we've always wanted to have someone to run the show, because the show kept getting bigger and bigger, and there's ten different things going on around here that I'm doing,"
+  },
+  {
+   "t": 2769.1,
+   "text": "and DVDASA just kept getting bigger and bigger, and it was detracting from my ability to execute these other top-secret projects. So we did a search for an engineer for a while — engineer slash producer slash social media person slash everything."
+  },
+  {
+   "t": 2788.1,
+   "text": "And it didn't quite work out with a couple people. But then Bob — a.k.a. Scrotum Coat — — a.k.a. Scrotum Coat — applied for the job originally. And I wanted more someone that was very technically apt, that could come in."
+  },
+  {
+   "t": 2802.4,
+   "text": "Because I don't know shit about shit. I don't know what that thing does, I don't know what that thing does, I don't know what any of this stuff does. But everybody has google.com, and you can learn about everything — what should I order, how does this connect to this, what's this problem. So I was looking for someone that was a professional"
+  },
+  {
+   "t": 2817.9,
+   "text": "recording engineer that could come in and work in our environment but still know all the technical stuff. That person, I guess, doesn't exist, after an exhaustive search. — Well, was part of the difficulty not their technical knowledge, or — because we do the show spontaneously? — Right, so part of it is, what I always tell people, it's like being in the Navy"
+  },
+  {
+   "t": 2836.3,
+   "text": "SEALs, except not actually important. So it's just always on call, ready to go, ready to fly to Vegas in two hours, ready to — you do not matter, your plans don't matter. So Bob applied for the job originally, and I was like, well, your technical skills aren't really there, so we'll work something out. And so Bob has been doing all the social media"
+  },
+  {
+   "t": 2857.6,
+   "text": "stuff for a few months. And then what I ended up realizing is that it's way easier to teach someone how to record a bunch of people sitting around a table talking than it is to teach someone to be passionate and give a shit. So that's why Bob is here, because he"
+  },
+  {
+   "t": 2874.5,
+   "text": "gives a shit. And you can't teach someone how to give a shit, but you can definitely teach someone, like, make sure there's not a fan blowing into the microphone, and here's how to switch the cameras. So basically he was doing what he's doing, and now his job has increased,"
+  },
+  {
+   "t": 2891.2,
+   "text": "because he's still doing the social media. — Well, now he's just full-time Navy SEAL. — Oh, you mean before, you were only doing it part-time. Ah, okay. So you're the dude now."
+  },
+  {
+   "t": 2900.3,
+   "text": "Yeah, cool, cool. Alright. And then, as soon as you're comfortable with Bob doing everything, we'll never see you again? — No, I'll be around, but I'll just be concentrating on fucking with you guys, instead of fucking —"
+  },
+  {
+   "t": 2916.5,
+   "text": "So what's your ideal thing that you want to be doing? Like, there'll be a box of puppies on the table or something, — Yeah — and you guys can talk about the puppies, you know."
+  },
+  {
+   "t": 2927.3,
+   "text": "Yeah. Or we'll get our nails done. I get my nails done too sometimes. Sometimes I get like a light purple. I've done black before, which is kind of — that's communicating the wrong thing."
+  },
+  {
+   "t": 2938.2,
+   "text": "I think I like to do more like a light purple, with a little bit of sheen and sparkle to it. — What's the ideal thing you'd like to be doing, if not that?"
+  },
+  {
+   "t": 2947.0,
+   "text": "Like, what's your ideal? — Well, I'm doing it. I mean, but I can't talk about a lot of stuff. I'd say the way I describe my job is like Morgan Freeman in the Batman reboots — just make shit in the lab, and a lot of it doesn't see the light of day."
+  },
+  {
+   "t": 2962.4,
+   "text": "But some of it will see the light of day. — Ah, right. You're the Lucius — you're Lucius Fox. — Okay, so I got this text, and it said, 'I'm out, after talking to Alex, who is being a dick.'"
+  },
+  {
+   "t": 2974.1,
+   "text": "What happened there? Or you can't talk about it. — I was not part of the whole text group. All I got was this. — Oh, I wasn't in that text group either. — Oh, alright."
+  },
+  {
+   "t": 2984.6,
+   "text": "So now Alex is on the shit list, to this person, and I don't even know what happened. It had to do with one of the guests being here tonight. — Why did she text you?"
+  },
+  {
+   "t": 2995.7,
+   "text": "I don't know, I think she inadvertently — I don't want to talk shit. I just laid down what the rules of the show are. This person didn't like the rules, and so they went away."
+  },
+  {
+   "t": 3006.6,
+   "text": "That's all. That's the least shit-talky way I can put it. — No, no, that's fine. I was just like, oh, wow, there's rules? — Oh yeah, dude. But you're okay — you automatically follow all the rules, because you're a considerate, kind gentleman."
+  },
+  {
+   "t": 3020.9,
+   "text": "Oh, okay. — And so you never have a problem, you're good. Okay, so the rules — I mean, I don't want to get too — — You're a reasonable, intelligent, kind person. — Okay, so the rules — — Who respects things."
+  },
+  {
+   "t": 3030.4,
+   "text": "Oh, right, right. So you're saying, more like disrespectful antics or whatnot. — Yeah. — Okay. We don't have to get too specific. — That's fair. — We just wanted to see what was going on there. Because now it's just the four of us, five of us, six of us."
+  },
+  {
+   "t": 3046.5,
+   "text": "It's all good. So what's on your next agenda? — What can I talk about? There's this top-secret shit happening. You guys saw a peek at the top-secret shit. We can't talk about that."
+  },
+  {
+   "t": 3062.2,
+   "text": "I can't talk about any of my top-secret stuff. Some Hollywood stuff, some not-Hollywood stuff. — What do you mean by Hollywood stuff? — Laser beams. — What else is going on? — There's fucking laser beams out there. There's lasers that cut stuff, lasers that scan things, 3D fucking goggles. — What are you guys planning to do?"
+  },
+  {
+   "t": 3086.6,
+   "text": "— We can't stop the secret laser beams? — Now, are you allowed to talk about some of these top-secret projects after they kind of fall through? — Yeah, probably. — Alright. So this is confidential. This is just, like, you and two other people know."
+  },
+  {
+   "t": 3100.7,
+   "text": "Yeah. — Does Critter know about it? — Critter doesn't know. Everything's top secret. — Where's Critter? — Critter's still up north. We saw him — or I saw him — a couple of days ago. — Oh, you did?"
+  },
+  {
+   "t": 3112.8,
+   "text": "Yeah, when I drove to San Francisco. It was awesome. She was there, he was there. It's crazy. I don't want to talk about him because he's not here, but he comes from a completely different world. Like, he always says, 'I'm this white guy in the Asian world.' I saw the world he comes from, and it's not even"
+  },
+  {
+   "t": 3130.3,
+   "text": "just a white world — it's a one-percent white world, it's like Melrose Place. But he loves when he can — because he did it once with Dave. We went to San Francisco for the Critter Art Show, out in the Marina, which is like the jock, USC-transplant"
+  },
+  {
+   "t": 3152.8,
+   "text": "— Yes, yes, exactly — area in San Francisco: Cow Hollow, the Marina. And Critter and I both moved down here from San Francisco into the heart of Koreatown. We basically live in Korea. We don't know what the hell."
+  },
+  {
+   "t": 3166.0,
+   "text": "Yeah, yeah. We work with only Asians. — Well, you knew Critter before you came here, right? — Whenever anybody asks me what I do, I send them a screenshot of that movie 'Gung Ho.'"
+  },
+  {
+   "t": 3172.9,
+   "text": "Yeah. Michael Keaton is in the hot-water spot. — That was a good movie. — With — I forget the actor's name — the Asian actor, who's the Japanese company liaison. — That was his whole job."
+  },
+  {
+   "t": 3186.9,
+   "text": "— Yeah, that's the definition of his job. — Watanabe, I think. Gedde Watanabe. So Critter is always so excited to turn the tables. And so he brought Dave to the Marina bar."
+  },
+  {
+   "t": 3201.1,
+   "text": "Oh, wow. Where Critter just holds court. Dave holds court in this room — 'this is my empire, this is my kingdom.' You go to a bar in the Marina where Critter goes, he sits in the corner, standing on a stool, holding court to the entire bar. — He's got it like that?"
+  },
+  {
+   "t": 3217.8,
+   "text": "Big booming voice. He's an expert at it, because he always sits in front of a big window, which will reverberate and resonate with his deep voice. He's a scientist — he's like, 'This window has the same frequency response as my chest cavity.'"
+  },
+  {
+   "t": 3234.7,
+   "text": "— They're all down with him like that? — He's on some scientific shit. Yeah. And so when I talk or when I laugh, the whole bar — it's outpowering the Lil Jon music that's playing."
+  },
+  {
+   "t": 3245.0,
+   "text": "And all you hear is Critter laughing instead of Lil Jon. We were at the 100th store, looking for somebody, and he goes, 'Hey, I'm across the street at the Olympic Club with my brother.'"
+  },
+  {
+   "t": 3255.0,
+   "text": "And it's a private club. We walked in, and it's all these — you know how the John Hughes films always have those rich white kids, wearing pastel sweaters? — Yeah, that's exactly what's going on. — Really, you're not exaggerating? — No, no, it's crazy."
+  },
+  {
+   "t": 3271.8,
+   "text": "And they were like — I mean, it's a private club, and there are rooms that Asa couldn't even go in, because she's a girl. — So it's the opposite of this. — Oh yeah, it's a different world. It's the one percent. — So how do they view — like,"
+  },
+  {
+   "t": 3287.1,
+   "text": "if we all went and tried to go to a place without Critter, would they be like, 'No, he didn't come in'? — Dude, they would let you in, but we'd be outsiders. It's just the idea that Critter and his bro are the kings of the bar. — When did that happen?"
+  },
+  {
+   "t": 3300.5,
+   "text": "— It's always been that way for him. He grew up there, and that's his world. — So there aren't other cultures? — No, there are, it's just that his specific domain is there — he's very comfortable in that world. — So how do you generalize these people? They're like —"
+  },
+  {
+   "t": 3319.0,
+   "text": "You mentioned Ivy League, clean-cut, pastel sweaters. — It's like the East Coast country club, the Hamptons. — A Hamptons vibe? So they have money? — Yeah, they come from money. James Spader. — Oh, wow."
+  },
+  {
+   "t": 3333.7,
+   "text": "James Spader. — Now, is there an entitlement thing going on too? Are they entitled? — No, no. They're cool, right? — Yeah, when I was there they were — don't take any of this as, like —"
+  },
+  {
+   "t": 3343.7,
+   "text": "— Okay, no, because the way you're describing it — you said John Hughes movie — so I'm thinking, like, 'Outsiders,' the greasers and the Socs, and this is said as a negative. — Okay, no, no. They treated us great. They were friendly to us, they talked to us."
+  },
+  {
+   "t": 3359.9,
+   "text": "But it's just weird to see this world. So Critter must be tripped out being here, like, 'Whoa, this is way different.' And Los Angeles is his job — he's like, 'This is my job,' and he executes his job to the highest degree, takes it really seriously. And then when he goes back to"
+  },
+  {
+   "t": 3377.9,
+   "text": "San Francisco, he lets it all out. Because when he's here — David always says he doesn't — Critter will give me all these stories when they're on the road, but when he comes here, he doesn't say anything. And I got a part of that, because when I"
+  },
+  {
+   "t": 3390.7,
+   "text": "met him with his friends, he's just chatting with me. — What's the history behind how y'all met him? How did he get affiliated with all this? — David needed a bodyguard for a trip to Colombia, and was introduced to"
+  },
+  {
+   "t": 3407.4,
+   "text": "Critter, who introduced them — the same person who introduced me. — Okay, okay. Top secret, top secret. The man in the shadows. — And so they got into — — How long ago was this? — Three, four — three years. So you came at the same time as Critter, right? Man, matchmaker."
+  },
+  {
+   "t": 3426.6,
+   "text": "He's an expert man-matchmaker. And he said, 'These two guys are going to be best friends.' It's sort of like when you have two Irish setters, and you open the back door of your estate in the English countryside,"
+  },
+  {
+   "t": 3440.4,
+   "text": "— Yeah — and they come back seven hours later, and there's just blood and feathers all over their face, and one of them has a stick stuck in its liver and is bleeding."
+  },
+  {
+   "t": 3449.2,
+   "text": "And then they just had the best day ever, you know? It's that kind of shit. When you get Dave and Critter together — the first day they met, it was just like that. It was like hunting dogs just going."
+  },
+  {
+   "t": 3459.6,
+   "text": "Can you tell us the craziest Critter-and-Dave story? A crazy one. — I don't go with them a lot on these trips. — That'd be interesting. — I think I just work on stuff. Okay, you guys — Bobby, know anything? — I'm usually home-based too. — So who's your homie, man?"
+  },
+  {
+   "t": 3478.1,
+   "text": "Who's my homie? — Yeah, who do you like? — I don't really know. I just work all the time. I wake up and I work, and then — I don't know. — So what happens, let's say you've got something on your mind, and you go,"
+  },
+  {
+   "t": 3488.4,
+   "text": "'I gotta fucking talk to somebody,' or 'This is weird,' or somebody's like, 'You need to talk' — who do you pick up? Who do you say, 'Let's go get a drink, I need to talk to somebody'?"
+  },
+  {
+   "t": 3497.6,
+   "text": "I just don't. — Oh, you just keep it in, man? — I just analyze. I think about it. — Oh, alright. — I stare at a white wall and I play a Cat Stevens Spotify playlist, ninety songs, and then it's gone."
+  },
+  {
+   "t": 3513.9,
+   "text": "Wow. No problem. You're very analytical. I feel that, man. It's just that work lifestyle, it just sucks it out of you, doesn't it? — But it's your choice, though, right? It's not like, 'Oh, fuck, I wish —'"
+  },
+  {
+   "t": 3528.2,
+   "text": "You know what, you have a cool job, though. You're still fine. He has a little bit more freedom. — Yeah, I have no freedom. I came down here to work. — Yeah, yeah."
+  },
+  {
+   "t": 3535.7,
+   "text": "No, so that's a bad example. I'm sorry to bring that up. — Yeah, bad example. — And that's what I place value on — having a job that's got the recreation built into the job, so you don't have to worry about having a dumb hobby."
+  },
+  {
+   "t": 3548.3,
+   "text": "Yeah, exactly. — Well, I think Dave made a comment before. He said, if you find something you like to do, you do whatever you need to do to keep it, you know?"
+  },
+  {
+   "t": 3559.0,
+   "text": "To keep doing that. — Yeah, if that's what you like doing. Like, all the stuff I'm doing now, I did on my own. I would go work at an agency all day in San Francisco, anywhere from six to ten p.m., and then I'd get off and go to an office I rented,"
+  },
+  {
+   "t": 3573.6,
+   "text": "and I'd work until I passed out — for free, spending my own money. — Right, right. — But what that led to is, now I do that all the time and I get paid for all of it."
+  },
+  {
+   "t": 3583.4,
+   "text": "— Right, exactly. So you get paid to do something you want to do. — It was a conscious decision. Work in a dark room for ten years and get good at everything."
+  },
+  {
+   "t": 3590.2,
+   "text": "And then now I get paid for it. — Yeah. — That was it. That was the master plan. — What's it like living with everyone? — It's fine. I see Mr. Choe, David's dad, every day. — Oh, how come?"
+  },
+  {
+   "t": 3604.5,
+   "text": "He comes to the house every day. — He does? — He's the oldest member of the Grammy-related project. — Oh, wow. You mean that's his man cave? He just hangs out there? — He has his office there."
+  },
+  {
+   "t": 3613.7,
+   "text": "Oh, okay. — He's across the hall from me. — Wow. — That's already been revealed on the show. It was a trivia question. — I didn't know that. — Is the house divided up? Do you guys all have separate man caves?"
+  },
+  {
+   "t": 3628.5,
+   "text": "He's really into the mail, so he'll bring me my mail every day. 'Hey, how's it going?' — You mean he grabs all the mail? — He'll ask me if I want a tuna sandwich from Subway."
+  },
+  {
+   "t": 3636.6,
+   "text": "I'll ask him if he wants — 'Hey, I left some fruit on the table.' — Oh. — 'Hey, did you see Blake Griffin's dunk?' You know. — So when you talk to him, do you say, like, 'Wow, that's Dave's dad'?"
+  },
+  {
+   "t": 3649.7,
+   "text": "Like, are there parts of Dave in him, where you can understand Dave a little more? — I feel like Dave probably got a little bit of his painting spirit from his dad, but then he's like 95% his mom, I feel like."
+  },
+  {
+   "t": 3664.1,
+   "text": "Oh, really? — Yeah, absolutely. He's all his mom. If you see Dave and his mom, you can see it — the personality. In the genetic chaos, Dave's mom's genes just beat up all the other genes. — Wow, that's cool. — Like, they beat up the other genes that were trying to compete, and they sold"
+  },
+  {
+   "t": 3689.9,
+   "text": "Herbalife to them in the egg. — Alright, so what do you do when you're not working? What's your entertainment? You're here in L.A., you say, 'You know what, I don't feel like working right now, I want to go to the massage parlor, I want to go play FIFA —'"
+  },
+  {
+   "t": 3709.8,
+   "text": "I get legit hour massages. — Yeah, I get a legit hour massage at a forty-dollar-an-hour place. — Oh, same place, maybe? — What major street is it on? — Classified. — It's in Koreatown. — Okay. — It's not the same one, it's in Koreatown. What do I do — I decided that the worst thing I was at in the entire world was lifting weights, so I go to a weightlifting"
+  },
+  {
+   "t": 3735.0,
+   "text": "class three or four times a week. — Wait, that was the worst thing in the world? — Because I'm terrible at it. — Oh, that's awesome. Weightlifting. — I can't do one pull-up. — You can now, though, right? — No. That's the"
+  },
+  {
+   "t": 3752.5,
+   "text": "goal for the year. It's been five months so far, and I still can't do a pull-up, but I will be able to do a pull-up. And I thought I was going to be able to touch my toes too, but that's just so far away. — Yeah, that's not going to happen, probably. But I'll still"
+  },
+  {
+   "t": 3766.1,
+   "text": "— a little easier for me. — Yeah, how tall are you? — Six-eight. — Six-eight! Wow. So the angles of my legs and my body just don't work for weightlifting. But that's why I do it — I would like to walk into a place and be the worst person in the room at what we're doing."
+  },
+  {
+   "t": 3781.3,
+   "text": "Because it's fun. There'll be, like, a five-foot-four chubby woman next to me, pounding out squats, double the weight as me. And that's fun to me, you know?"
+  },
+  {
+   "t": 3792.3,
+   "text": "Because after a year, I'll destroy her. But not yet. I suck still. — So that's your goal, to destroy five-foot-four women? — To destroy five-foot-four women is my goal. — How tall are your folks? — Just normal."
+  },
+  {
+   "t": 3805.4,
+   "text": "Like, my dad's six-one. I just mutated. — Wow, no one else in your family? — I have an uncle who's as tall as me, but he's wide too, and has an Olympic gold medal in rowing."
+  },
+  {
+   "t": 3818.6,
+   "text": "He's like an ox. And his heartbeat goes, boom. — Oh, wow. — And he has three sons that are all six-six as well. So that's the other mutation, and then I mutated."
+  },
+  {
+   "t": 3836.2,
+   "text": "I mutated the most, though. I don't know what happened. One of my secret wishes is that I have a kid with a super-tall girl, and then my kid would take her genes — just to have a tall kid. A white woman or an Asian woman, it doesn't matter, as long as they're tall."
+  },
+  {
+   "t": 3852.7,
+   "text": "You know, the man in the shadows is always trying — he always asks me questions, like, 'How much to have a child with a Samoan woman?' just because he wants to see what would happen if I had a child with a Samoan woman. — But you can't just have one, though. You gotta have a couple."
+  },
+  {
+   "t": 3872.8,
+   "text": "Well, maybe. I don't know. But if you just start with one, right? — Right. — And then I go, 'Oh, I don't know.' I said, I think five hundred grand. — Just to have the mental burden of knowing there's a child out there that was mine, I was like, oh, five hundred grand."
+  },
+  {
+   "t": 3883.3,
+   "text": "Plus, I kind of want to know — so I took some of the price off, because I kind of want to know. — Yeah, yeah. — It's like a collaboration."
+  },
+  {
+   "t": 3894.2,
+   "text": "And then I said, wait, do I have to raise the kid? — Right, that's another issue. — He said yes, you're fully responsible. And then I had to — well, then you gotta up it. — Yeah, that's something different. — And also, the thing is, you might raise it, but"
+  },
+  {
+   "t": 3911.5,
+   "text": "are you still connected to the mom? Is she still around? — I think you are, I mean, no matter what you kind of are, because you have a child with her. But yeah, I kind of said five million. That's a good price. — Could you raise — — I didn't get into too much detail — are these paid up front, or what?"
+  },
+  {
+   "t": 3925.5,
+   "text": "If it's paid up front, I'll live in Samoa and I'll knock her up sixteen times. I don't care. And I'll pay five million. — You say you draw 4% off your investments. What is that, for your accounting department?"
+  },
+  {
+   "t": 3939.2,
+   "text": "Five million and 4% — what is that? — Two hundred thousand a year, right? — Okay, yeah. Which is probably sick in Samoa. Like, I'll have a fucking — — Yeah, a big compound. Custom title. You know what I'm saying?"
+  },
+  {
+   "t": 3956.8,
+   "text": "Oh, hell yeah. And sixteen Samoan children. The statistics say, probably out of sixteen kids, there's probably — I'll end up with, like, a 60% chance that one of the sixteen kids will be a professional athlete that will make nine million a year."
+  },
+  {
+   "t": 3972.6,
+   "text": "Because the genetics are long. — Pretty good chance. Right. Like rugby or football. — And if none of them make it, I don't care. I have enough to give them rice and chicken — boiled chicken."
+  },
+  {
+   "t": 3980.1,
+   "text": "— But do you think you could realistically live in Samoa? — I could — — Is that what you want to do? — I can take family photos that people buy as desktop wallpapers. You know what I'm saying?"
+  },
+  {
+   "t": 3990.6,
+   "text": "Ninety-nine-cent desktop wallpapers of our family. — So you've thought a lot about this. — No, I'm just making it up. — Oh, I like where it was going, I thought you'd thought about it. — We'll sell merch."
+  },
+  {
+   "t": 4000.9,
+   "text": "It'll be like 'Jon and Kate Plus Eight.' It'll be 'Alex and Ubuntu Plus Eight.' It'll be beautiful kids, don't you think? — It depends, it could go either way. — That's what the sixteen is about — you can see the mean, the median, the average."
+  },
+  {
+   "t": 4014.3,
+   "text": "Right, exactly. — Usually Euro-Asians turn out pretty. You'll probably get one really good one, at least, out of sixteen. — Well, you call them magical people, right? What's your term? — Yeah, magical people."
+  },
+  {
+   "t": 4024.4,
+   "text": "Yeah, magical people. You'll probably get one really good one out of sixteen. — Alright, Alex. — I read books about probability — probably about Samoan genetic probability. — So you've been here with the show since the beginning, right?"
+  },
+  {
+   "t": 4040.9,
+   "text": "Since the inception of DVDASA? — Yes. — Were you here for Koreans Gone Bad? — No, well, I came in October 2012, just to fuck around for a month, and then Dave and I said, 'Oh cool, that was fun, let's stay another month.' And then a lot of stuff happened where I just ended up moving. It was like someone"
+  },
+  {
+   "t": 4061.6,
+   "text": "asked me halfway through November, 'Hey, do you live here now?' — like, it was a girl, we were sort of getting involved. — Hey, I don't want to get involved. — Anyone that doesn't live here — 'Do you live here?' — and we were just kind of hanging out. In that moment I just decided to move here. I was like,"
+  },
+  {
+   "t": 4074.9,
+   "text": "yeah, I live here. — Did you date her? — Yeah. — Nice. — That's a whole crazy story. Okay, that's a different story, that's another episode. — Is that the — — Also, you can come back for another episode."
+  },
+  {
+   "t": 4088.8,
+   "text": "Maybe. In ten years I'll get shit-canned drunk and I'll talk about that one. That's a whole thing. — Is that the one that you guys just — you woke up recently? — Oh, no. — Okay."
+  },
+  {
+   "t": 4100.2,
+   "text": "Oh, then it's, 'Hey, let's do the entire next year, 2013.' And the first big project was DVDASA. 'Hey, how do you make a video podcast? How does this all work?'"
+  },
+  {
+   "t": 4118.2,
+   "text": "And then we set up. — Also, you're actually part of the origin story of DVDASA. — Yeah, I was like, 'Oh, I want to do a show with my friend Asa. Let's figure it out."
+  },
+  {
+   "t": 4126.9,
+   "text": "Let's make it a video podcast.' — So when do you come in? I mean, they're doing the inception, and then one day Dave just says, 'Bobby, why don't you come on the show?' — I was there since the first day, I think. — Yeah, you were there. So when they did day one, you guys do"
+  },
+  {
+   "t": 4146.5,
+   "text": "the show — he tells you, right, obviously, before? Or no? — He just had the trivia worked out, I feel like. He probably texted you, 'Bobby, you're on this show we're doing.' — And then did you make up the trivia segment? — Yeah, and he said, 'What do you want"
+  },
+  {
+   "t": 4162.2,
+   "text": "to do on the show?' And I said, oh yeah. And if you go back and watch the first show, it's like no one knows what the hell's going on. So Bobby — someone says something, and then Bobby just butts in and says, 'Ding ding ding ding, it's time for the first"
+  },
+  {
+   "t": 4174.7,
+   "text": "question!' That's how it came about — based on something someone said ten seconds before. He just went right into the show. — Yeah. Alright. — And did you guys even have a guest on the first show? Or was the first show exactly like all the other shows?"
+  },
+  {
+   "t": 4188.5,
+   "text": "It was probably Daibasa — Yoshi, and Bobby. That's probably it. And then Critter came in probably ten episodes in. — Oh, man. — Critter got talked into it. His demands were a beanbag in the corner, so we got him that big beanbag."
+  },
+  {
+   "t": 4203.5,
+   "text": "Right. He said he was there because he could avoid the camera, or something like that. That was the original reason he was in the beanbag. And then he was slowly reeled in."
+  },
+  {
+   "t": 4211.8,
+   "text": "Right. — And Val, when do you come in? — That's — I can't remember. — It was probably episode, like, 15. It was when Yoshi left. — Oh, okay. It was like the full replacement. Because at first, you said you didn't want to do the show, right?"
+  },
+  {
+   "t": 4231.1,
+   "text": "— No, he put me in the show. — Oh, Bobby, you did that? I remember you didn't want to — — We're just handing you booze. — Yeah, definitely took a lot of convincing. I didn't want to come to the show, because he was telling me, like, five times. — Right."
+  },
+  {
+   "t": 4249.6,
+   "text": "Yeah, David wanted it to happen. He was telling me, 'Hey, you sure you don't want to come?' 'No, I don't want to go.' — So what convinced you to finally do it? — The last time he told me, 'You have to be on the show — you want to come, or —' Yes, come over and see if you like it"
+  },
+  {
+   "t": 4265.4,
+   "text": "or not, then. — Ah, trickery, trickery. — He says, 'Okay, just come over.' 'Alright, that's what I do now.' — And then when did you come about? — Oh, I didn't come in late. I came in, like, November."
+  },
+  {
+   "t": 4275.9,
+   "text": "November 2nd, 2013. Origin of Bill Poon. — How do you know that? — Oh, no, it was probably before that, actually. Well, I know it's in November sometime, so it was November 2nd."
+  },
+  {
+   "t": 4286.6,
+   "text": "Because one of the big projects we did when I first got down here — Dave said, 'Hey, Alex, what do you want to do while you're down here?' And I said, 'Let's fucking take over Reddit'"
+  },
+  {
+   "t": 4295.4,
+   "text": "with an insane video variety show. — Oh, neat. — And so that was the big project we did — that was the November 2, 2012 Reddit video AMA. And then November 2nd, 2013 was when we had all the girls parading around."
+  },
+  {
+   "t": 4306.8,
+   "text": "Yeah, yeah. — That was, like, the anniversary. — Oh, I think I was there for maybe one show. — Yeah, maybe one or two shows. — You were there for the same first show as Bobby Lee."
+  },
+  {
+   "t": 4317.3,
+   "text": "I was, right? That's what I think. — Yeah, when did Bob come? Because there was a photo of you two guys out in the back patio, and that was both your first show, and it was, like, Bill — we were trying to do some other project where you were going to play Dave's, like, spiritual advisor,"
+  },
+  {
+   "t": 4332.0,
+   "text": "right? Yeah, that's how the whole thing started. And then he said, 'Hey, come on the show, you got some horror driving stories or whatever.' And then we were just about to talk to you, and then Bobby showed up. And so it was the dual origin. I thought"
+  },
+  {
+   "t": 4345.7,
+   "text": "in my mind that we started the same day, but then Dave said, 'No, Bobby has been here a few shows before you.' — Oh, really? — So I thought, oh, okay. In my mind I started the same day that Bobby did, but that was in my perspective."
+  },
+  {
+   "t": 4359.6,
+   "text": "Yeah, maybe not, I don't know. — Alright, I'm sure someone knows and posted it on Wikipedia. — Yeah, exactly. — Okay, I came later, the latest. I remember I came — oh, Bobby brought you, right?"
+  },
+  {
+   "t": 4372.0,
+   "text": "Yeah, Bobby brought me, and my sole purpose — real talk — I just wanted to meet Dave. — Oh, you knew him then? — I didn't know him. I wanted to meet him. He was like, 'Dude, no' — I had no plan."
+  },
+  {
+   "t": 4382.6,
+   "text": "I didn't even know what it was. I wanted to hang out. He's like, 'Oh, you're going to meet David Choe.' I wanted to meet him. So I came, and then I saw the setup, and I got scared."
+  },
+  {
+   "t": 4391.0,
+   "text": "In my mind, I was like, 'Oh, God, what's going on here?' So I met him, and I was scared. I go, 'Hey, it's nice meeting you.' And then I set up a chair near that door."
+  },
+  {
+   "t": 4401.1,
+   "text": "Yeah, there was, like, a fold-up chair. And then you guys started, and Dave's like, 'Hey, dude, come on over.' And I'm like, oh — and then now I'm here with you guys."
+  },
+  {
+   "t": 4411.8,
+   "text": "Nice. — Yeah. So I asked Val earlier, and I'll ask you, since you've been here since the beginning. — Yeah. — Who are the three girls, guests that have been on the show, that you'd fuck? — Wow."
+  },
+  {
+   "t": 4423.9,
+   "text": "Wow. Wow. I know the number one. — Who's the number one? — And she might be number two and three, too. — I gotta know this person. — Let me think."
+  },
+  {
+   "t": 4445.7,
+   "text": "— Well, tell us one, because watching you think probably doesn't make good podcast. — You're right. Thank you, Bill. Best host, Bill. — So I'll say number one, two, and three is Pamela Adlon. — Who's she? I don't know her. — She's an actress, she's on 'Louie.' — I haven't seen any of her stuff. — She's on Louis C.K.'s show?"
+  },
+  {
+   "t": 4464.7,
+   "text": "I think she plays a female love interest on Louie's show on FX. But there's so many. And I think she's the voice of Bobby Hill. — You weren't here yet. — No, yeah. But she's cool. — Oh, cool."
+  },
+  {
+   "t": 4480.0,
+   "text": "That's my number one, two, and three, because I can't think of it, I can't think. — Right, right. — And did you talk to her? I mean, as the producer, you talk to all the guests that come through, right?"
+  },
+  {
+   "t": 4490.7,
+   "text": "I mean, a lot of times it's just Dave texting people and they just show up. — Okay. — And it depends if someone else was running the show. Because for a while there were a couple other people running the show, so that I could separate myself and do more creative stuff."
+  },
+  {
+   "t": 4504.3,
+   "text": "Right. — Then I had to go back to doing the technical stuff for a while, until we could find another person. So in that case, I don't really talk to — I'm just the guy in the corner."
+  },
+  {
+   "t": 4514.9,
+   "text": "— Well, right now, if you could have anyone on the show — anyone in the whole world — who would you have on? — Yeah, but... probably Ricky Jay, the magician."
+  },
+  {
+   "t": 4526.6,
+   "text": "Oh, okay. — I don't know. Or Lorne Michaels. — Okay. It's time to live. Lorne Michaels, Ricky Jay."
+  },
+  {
+   "t": 4538.8,
+   "text": "— Who's the third guy? — I don't know. Oh — Jodorowsky. — Oh, okay, okay. Yeah, yeah, yeah. I understand that. I want to see that film on your recommendation. — Has there been stuff — I mean, as a producer, you obviously also have a large part in shaping the show —"
+  },
+  {
+   "t": 4557.6,
+   "text": "was there ever stuff you thought was a good idea, but it got shot down? Like Dave said, 'No, I don't want to do that.' Like a segment or a guest or anything. —"
+  },
+  {
+   "t": 4566.8,
+   "text": "No, I mean, we don't ever plan anything. — Yeah, that's true. — So that's kind of a good point. No ideas happen, so —"
+  },
+  {
+   "t": 4575.1,
+   "text": "— And do you like — — I'm working on a top-secret thing right now that is actually happening, but you guys will see that in a couple episodes. — Which is part of DVDASA, or just — — Yes, it's a part of this podcast. Some top-secret shit that's gonna — — Is it like — well, can I just ask you"
+  },
+  {
+   "t": 4590.0,
+   "text": "yes-and-no questions? — But you don't have to — — Does it have to do with, like, new architecture, or reformatting the room, changing things? — Yeah, something like that. — So it's gonna have a new look? — Something like that. It has to do with us being around the small table today."
+  },
+  {
+   "t": 4605.2,
+   "text": "— Does it have to do with new technology? Because you mentioned laser beams. — Yeah, new technology. — Is it hurtful? Are some of these things hurtful to humans? — Hurtful laser beams, that could cut through wood or something? — It's going to be emotionally hurtful. — When are we looking at this top-secret project being not top-secret?"
+  },
+  {
+   "t": 4623.6,
+   "text": "— In, like, a week. — Wow, that's crazy. — But we should be doing some more shows before that. — Maybe we'll just have to do them right here. — Oh, cool. Does it have to do with this room, then, specifically? — It has to do with this room. — Is it going to totally shift the look, like, the whole —"
+  },
+  {
+   "t": 4644.0,
+   "text": "— So this is a fake recorder, these cameras are fake, and we're actually in Nevada right now? — No, just fucking with you. — Oh, I think I know what it is. I know what it is — a Stargate. It's a Stargate. — No. — I know what it is, can I say it? — I mean, you didn't say anything,"
+  },
+  {
+   "t": 4661.6,
+   "text": "but can I guess? — Watch the painting — hey, scoot forward a little bit. Yeah, that's Dave's, gotta finish this painting. — I think Steve should finish that, Fanny. — You can guess. — Yeah, it's the new mic setups."
+  },
+  {
+   "t": 4677.5,
+   "text": "You have these new console booths and stuff like that. — Oh, maybe something like that. — See? You know how I know? Because they work on individual desk-type things. And you notice the mics are gone."
+  },
+  {
+   "t": 4692.9,
+   "text": "So what they're doing, they're going to do a whole new-age, high-tech look, where maybe it's, like, cut out — like we have our own little workstations, where there's certain things surrounding your body, and you could shift the chair — — You're on the right track. — And"
+  },
+  {
+   "t": 4712.0,
+   "text": "you know what I'm saying, specialized for — — Specialized for us? — Well, just for any podcast member. But I have a feeling it's going to be individualized, where there's, like, your own little pod, and then they could rotate — I don't know where the laser beams come into it. — Laser beams may or may not be involved."
+  },
+  {
+   "t": 4732.4,
+   "text": "— I've been doing some laser stuff, but it's not — — But they're going to be rotational. I have a feeling, you know how these chairs are, these things — I think it's going to be, like, movable, somehow, where the mic is glued or something, where you"
+  },
+  {
+   "t": 4747.1,
+   "text": "could shift over, like, 360 degrees. — Or like the end of 'Contact,' when Jodie Foster gets dropped into the portal. — Oh, hopefully not that. — Everyone has one of those on a private island. — Am I on the right tip, though?"
+  },
+  {
+   "t": 4759.6,
+   "text": "— A little bit. — Go ahead, ask him some more. — No, I'm excited. I'm excited about it. — That's why they covered it up. You noticed they covered stuff up. You'll see. I went all the way."
+  },
+  {
+   "t": 4771.1,
+   "text": "— Well, he basically gave you a blank check, right? — I went all the way. — No. — Because I went all the way in a direction, and you'll see what happened. — Can I ask — this is a vague question —"
+  },
+  {
+   "t": 4781.2,
+   "text": "is it going to be new paint? Like, a new paint job, or is something on the walls going to change? — Yeah. — Okay. Well, I got another question. What about the flooring?"
+  },
+  {
+   "t": 4792.0,
+   "text": "Are you going to change the flooring? Can I guess what kind? — You should see this fucking ceiling that's about to be put in. — Oh, so there's going to be a new ceiling. Dude."
+  },
+  {
+   "t": 4799.8,
+   "text": "— Have you gone over budget? Because I remember you originally had a budget for this project. — No, under budget. — Oh, nice. — Can I guess what kind of floor? — Alex always comes in under budget."
+  },
+  {
+   "t": 4809.3,
+   "text": "— Come on, is it going to be wood paneling on the floor? — Maybe. — It's going to be wood, I think so."
+  },
+  {
+   "t": 4818.0,
+   "text": "— Dude, ask him yes-or-no questions, he's not saying nothing. Just ask him another yes-or-no. — We're getting closer to the bullseye. Okay. Is it — you know how our old setup was? —"
+  },
+  {
+   "t": 4831.1,
+   "text": "Yeah. — Will the new setup be able to contain more guests? — Yes. — Okay. — Well, we have a runway. I would say the new setup could hold up to probably 24 guests."
+  },
+  {
+   "t": 4850.0,
+   "text": "— Whoa. Whoa, that's crazy. Is that all of us? — Not necessarily. — Can I just give a suggestion? — It depends how many of you are in sexual congress. If 50% of the people are in sexual congress, you can fit 30."
+  },
+  {
+   "t": 4869.5,
+   "text": "— Is that couch going to still be here? — Yes. — Does that have to do with the new plans? — Yeah, you'll see. — Because that could fit a lot of people. — You'll see. You're not going to guess what's going down."
+  },
+  {
+   "t": 4883.1,
+   "text": "— I'm not going to guess. I'm not even close. I thought I was close to the bullseye. — You're kind of in the right spirit, but it's not even close. — It's not even close. — Go ahead."
+  },
+  {
+   "t": 4890.7,
+   "text": "— Don't worry about it, he doesn't like what we're doing right now. — I just think it's boring to keep guessing. — No, because we're getting close. What do you think, Poon? — I'm just excited. — It's going to blow our minds. It's going to blow our minds. — I just remember, we had a meeting, and the meeting was,"
+  },
+  {
+   "t": 4910.3,
+   "text": "'Are you going to do this top project or not?' — Oh, really? I don't remember this, but okay. — Well, we went — — Were you not there? — Yes, you were there. We were celebrating Critter's birthday, and Dave's birthday, during that night."
+  },
+  {
+   "t": 4926.9,
+   "text": "That's where we got stamped, and here we are. — You're right. That's why I remember, Dave told Bobby, 'Just get him an open check,' or something like that. And I came in under infinity."
+  },
+  {
+   "t": 4942.5,
+   "text": "Way under. The budget was infinity. I came in way under. — Is David going to be happy about the new look? — I think so. I mean, who knows? — Are you going to be happy about it?"
+  },
+  {
+   "t": 4956.4,
+   "text": "Bobby, you're going to be happy, right? — Yeah. — Because you have your own little section. — I don't know, maybe not anymore. It's mutated. There's lots of mutations happening. — You're right. I know during that night —"
+  },
+  {
+   "t": 4969.2,
+   "text": "— You guys will see. You guys will see. — Okay, that's it, you just ended it right there. — Yeah. — You just ended it. — Okay, enough about that. Next topic. Next topic. Guest host, Bill. — No, I think —"
+  },
+  {
+   "t": 4980.7,
+   "text": "— No, no, it's been awesome. — I did the whole reptilian, EVP, I did the whole thing here. What about you? Let's go through some other phenomena. — Oh, man."
+  },
+  {
+   "t": 4990.7,
+   "text": "Bigfoot. — Bigfoot. I don't know much about it. — Yes or no? — No, this game is called — okay. Yeah, okay. Really not real. — Yes, yes. — I'm going to say no. — Wow. No? How can you just —"
+  },
+  {
+   "t": 5004.8,
+   "text": "To me, it's kind of like, is there life on other planets? The world's so big, you cannot not have it. You know, our world is so big, you've got to have some weird Bigfoot running around."
+  },
+  {
+   "t": 5017.7,
+   "text": "— Surprising answer that Steve says no and Bill says yes. — Yeah. — Oh, you believe in reptilians but not Bigfoot? — Reptilians. — Oh, sorry. — You know what, you're right. I mean, dude, we have so many people."
+  },
+  {
+   "t": 5030.4,
+   "text": "It's like — you know. — Why can you never get a clear shot of them, though? Why is he always shadowy or some kind of — there's never a clear shot. — Is there a clear shot of reptilians?"
+  },
+  {
+   "t": 5041.2,
+   "text": "No. — Yeah, it's the same thing. — Well, they're multidimensional, that's why you can't capture them. — How about albinos? You ever seen a clear shot of an albino? — I haven't seen an albino in a long time."
+  },
+  {
+   "t": 5052.1,
+   "text": "Okay, I just got it. No. — Okay. Let's talk more about these runway girls. I wasn't fully listening, but were you guys talking about how there needs to be more girls parading around? — Yeah, every other show."
+  },
+  {
+   "t": 5071.2,
+   "text": "He mentioned his favorite episode, there's girls in bikinis wearing the merchandise. — Right. — And then he mentioned that was his favorite episode, and then I mentioned that that should be every other show."
+  },
+  {
+   "t": 5081.4,
+   "text": "Yeah, that's one of our best episodes. — That should be every other show, or every show should be like that. No? — At least once a month. — You're not going to let me argue about that."
+  },
+  {
+   "t": 5090.9,
+   "text": "Okay. Some weird shit will be happening. — What do you mean by weird? — Once this top-secret thing is going. — Is it going to attract that kind of element? — Yeah, yeah, yeah."
+  },
+  {
+   "t": 5099.1,
+   "text": "It's going to attract new — it's designed as, like — you know what a raccoon trap is? — No, what's that? — It's when you take a piece of wood, cut a hole in the wood, right?"
+  },
+  {
+   "t": 5111.4,
+   "text": "Cut a little depression in the wood, maybe six inches deep, eight inches deep. Then you put nails, nails pointed down, right? — It's going to trap — — Spikes pointed down."
+  },
+  {
+   "t": 5125.3,
+   "text": "Oh. — And then you put a shiny piece of metal in the bottom of the hole. So a raccoon looks in and sees something shiny. It wants shiny things."
+  },
+  {
+   "t": 5134.5,
+   "text": "— And then they see us. — You're the shiny thing. Steve Lee is the shiny thing. — No, no. We're the thing they go into, and then we go, 'Ah!' And they're like, 'Oh no, them.'"
+  },
+  {
+   "t": 5144.5,
+   "text": "Steve Lee, you're the small shiny object that the female raccoon seeks. — Okay. — And you have spikes all around you. They go in with their hands — no, they don't go in with their hands."
+  },
+  {
+   "t": 5152.9,
+   "text": "And then they grab Steve Lee, the shiny object. And then the room closes. And because their hand is in a fist, it can no longer be removed. That's how you trap a trap."
+  },
+  {
+   "t": 5160.9,
+   "text": "— But they're not smart enough to let go. — Right, because they want this shiny — they want Steve Lee so bad. — So this room is a booby trap. — It's going to be a trap."
+  },
+  {
+   "t": 5170.2,
+   "text": "Yeah. And you're the bait. — Okay. — It's a triple-reverse whore trap. Because Dave talks about the whore trap. Then there's the reverse whore trap. Then the reverse-reverse whore trap. I'm building a triple-reverse whore trap."
+  },
+  {
+   "t": 5181.8,
+   "text": "— Wow, so you're raising the bar pretty — the bar is set very, very high. — That's why I don't want to talk. Very high. — Now let's go back to attracting this raccoon, or these raccoons."
+  },
+  {
+   "t": 5196.8,
+   "text": "— So that's 100% sure, you're the tiny object. — Well, just the way you set it up. — That's the energy of the top-secret project: raccoon trap. — Yeah. — Do they trap — is that the same way you can get possums?"
+  },
+  {
+   "t": 5211.1,
+   "text": "— I hate possums. I hate possums. — So that was the only one episode you were happy with, when that happened? That's the only one? — Yeah, that's the favorite. — Do you have a favorite episode? A favorite one? — Um, just Steve Lee episodes, I think. — Oh, besides that."
+  },
+  {
+   "t": 5230.6,
+   "text": "— I want to hear about the girls, besides Steve Lee. — Oh, girls. I don't care about girls on the show. You know what you guys should have — other actresses. But do you think they're willing? Because when you revamp the room, do you think it would attract them to come do the podcast?"
+  },
+  {
+   "t": 5248.1,
+   "text": "— You'll see, it's the triple-reverse. — What was your favorite episode that you've done, or that's happened? — Veruca James. — How come? — You guys are a fan of yours? — I got a naked lap dance. — Oh, okay — wait, wait, what happened? — Dude, no. — You got a lap dance? A naked lap dance? — I wish I could have got you to time-travel on that one."
+  },
+  {
+   "t": 5272.6,
+   "text": "I'll send you the link, Steve. — Oh. — So go ahead, let's talk about that. — It's not POV, but it's your friend getting some, so it might turn you on. — But was there skin-to-skin touching?"
+  },
+  {
+   "t": 5284.3,
+   "text": "Yeah. — And what were you wearing? Those jeans, or what kind of jeans? — I was wearing my boxers. — You were wearing your boxers? But it wasn't exposed or anything? — No, nothing was exposed."
+  },
+  {
+   "t": 5295.9,
+   "text": "— But did you get a woody? You got a woody, didn't you? — A little bit. A chubby. — Now, how long was the dance? — I don't know, maybe a minute? — Was there a song to it?"
+  },
+  {
+   "t": 5305.7,
+   "text": "No. — Was it reverse cowgirl, where she's facing — her butt's in your face, and she's facing that way? — Yeah. — You're seeing her back. — Yeah. — And then, were you like this? Were you like —"
+  },
+  {
+   "t": 5320.7,
+   "text": "like, what were you doing? You grabbed her butt? — No. — Her boobs? — Yeah, you didn't do that? You weren't like this? — Maybe. — Do you remember what he was doing during this?"
+  },
+  {
+   "t": 5332.5,
+   "text": "— I just vaguely remember she was sort of sliding up and down his side. — She grinded you. She grinded you. Naked grinding. She grinded you. — Yeah, a little bit. — Did you get a little bit of pre-cum?"
+  },
+  {
+   "t": 5344.3,
+   "text": "— She ground up his coffee bean. — I don't think so. Just a little dab. I didn't check. — I mean, did you smell good? — Oh, she smelled awesome. — Describe this lady."
+  },
+  {
+   "t": 5355.8,
+   "text": "— I wasn't here. — You know what, on a side note — if you want to taste what it tastes like to take a stripper's hair and run it through your mouth like that — — Oh, that angel powder, yeah."
+  },
+  {
+   "t": 5369.9,
+   "text": "Go to Trader Joe's, at the checkout area. They have Trader Joe's vanilla mint tablets. It's the same as if you take a stripper's hair and run it through your mouth. It's that perfume."
+  },
+  {
+   "t": 5381.9,
+   "text": "It's that fragrance. It tastes like stripper shampoo. — Yeah. — And I pound those things. — Wow. Wow. — I interrupted Dave for a stripper story. — No problem, that was good. — So with this new setup, there's gonna be more of that, right? The accessibility is gonna be more leaning toward — whatever he did that day — more naked girls"
+  },
+  {
+   "t": 5403.0,
+   "text": "doing strip dances. — Yeah, just doing strip dances. — We should just change it to that. — Is that incentive for you? — We won't have to talk about anything, just every week it'll be like Hooters. Who's next, who's coming? And it's like a shell, and disco lights,"
+  },
+  {
+   "t": 5417.0,
+   "text": "and then — how do you feel about a live cello player with, like, a hundred butterflies flying around the room? — Ooh, that's interesting. — Would you rather have that, or a stripper on your knobber? — Well, a stripper. — Oh yeah, butterflies ain't that cool? — No, it is, but you know,"
+  },
+  {
+   "t": 5436.2,
+   "text": "you'd get burnt out, though, if that was, like — — What, you'd get burnt out, Bob, if you weren't married and you just got that every week on this podcast? You'd get burnt out, right? You're nuts and everything. — Maybe, I don't know."
+  },
+  {
+   "t": 5446.1,
+   "text": "— It was a different girl, it was a different girl, it might be — — It's kind of hard to get tired of that. Because, going back to the Bonnie thing, I saw the way you looked at her."
+  },
+  {
+   "t": 5455.9,
+   "text": "— I looked at her the same way. My eyes got big, and I'm like, well, you saw how fast I got up. — Game recognized game. — I almost tripped when I walked around. What about you, Bob, over there?"
+  },
+  {
+   "t": 5467.4,
+   "text": "What was your favorite episode? — 82, the one I was on. — Oh, yeah, I guess so. What happened during that episode? — The interview. — You came in for an interview, right? — Yeah. — Stephanie from Thumbs Up was on."
+  },
+  {
+   "t": 5482.8,
+   "text": "And I came on, and then Bobby Lee showed up. — And that was it? — I did an interview."
+  },
+  {
+   "t": 5492.3,
+   "text": "Interesting, interesting. What about you, Bill? — Yeah, his favorite was the runway. — No, where was the runway? — It was, like, right where the door is. They walked in a straight line. — Yeah, you know how our —"
+  },
+  {
+   "t": 5506.7,
+   "text": "Oh, it was like that? So they walked in the middle. — Yeah, they came down the middle, and then they just walked up, turned around, and walked out. — Yeah, because the camera's here looking right at it."
+  },
+  {
+   "t": 5514.4,
+   "text": "It was good for conversational lubricant. — Yes. That was just like — when girls are just spinning in front of — — And they did that the whole show? — Yeah, like every five minutes. — Oh, yeah."
+  },
+  {
+   "t": 5523.9,
+   "text": "They should just change that back to that format, where — — I hope their new room complements that, where there's enough space where people — — I'm pretty sure — — Let's say you have a professional break-dancer or something."
+  },
+  {
+   "t": 5533.8,
+   "text": "Like Jinjo Crew, he's from Korea, doing these moves — you would need space for him to display his acrobatics. — I'm pretty sure any room complements a runway model walking around. — Not just a runway model, but just enough for someone with their skills. If you want more of a variety show, let's say you have someone"
+  },
+  {
+   "t": 5553.9,
+   "text": "who needs a little bit more room. — Did you break-dance? — No, I can't break-dance, I can't break. — No? — I mean, I went to raves and did house dancing, you know, housing."
+  },
+  {
+   "t": 5565.6,
+   "text": "I did it with the little light things. — No, I never did that. — But, like, in the early '90s, remember the housing? — Yeah, yeah. — Like fluorescent laces and all that. — Oh, right, right."
+  },
+  {
+   "t": 5573.8,
+   "text": "All that. It was similar, but there's no going to the ground. It's crazy. — Do you ever get into dope poses? — What do you mean by that? — When you try to go to a spot and do the dopest pose?"
+  },
+  {
+   "t": 5584.2,
+   "text": "— Oh, no, no, no. It's too self-conscious. — It's like a really dilapidated — just kind of a B-boy pose? — Oh, no, no. — You do that at the club? That's, like, club behavior?"
+  },
+  {
+   "t": 5597.8,
+   "text": "— No, you just battle in different spots. — Oh, no. I wasn't aware of that kind of competition. — Who has the sickest, like, trap suit? — Oh, right, right. — Who has the most confident appearance?"
+  },
+  {
+   "t": 5607.2,
+   "text": "When's the last time you guys went clubbing? I mean, since we're on — you guys never go, huh? — You mean, like, to a dancing club? — To a club, to a bar, to somewhere."
+  },
+  {
+   "t": 5617.2,
+   "text": "You guys don't do that, do you? — I mean, a bar? I've been to bars. — I mean a club, where they're serving alcohol and playing music. When's the last time? Bobby."
+  },
+  {
+   "t": 5628.9,
+   "text": "Three and a half years ago. — What? Three and a half years. — So long ago that — — Over five years? — No, no. Like six months ago. — Where? — Yeah, because on one of his bachelor parties —"
+  },
+  {
+   "t": 5643.0,
+   "text": "— Bachelor party doesn't count. Like, just recreational. — It was — I don't even know, some club in downtown. I can't remember. — You don't like doing that kind of thing, do you?"
+  },
+  {
+   "t": 5652.9,
+   "text": "We all don't. Why is that? Why don't you like the club life? — There's nothing really appealing. Well, first of all, I don't drink. And the music — you don't like the music, do you?"
+  },
+  {
+   "t": 5667.0,
+   "text": "— I don't necessarily dislike the music. I mean, that stuff that happens in that club, I could turn on the computer and see that. — So do you think technology has ruined it for a lot of us, as far as, like, 'Oh, I don't have to go hiking,"
+  },
+  {
+   "t": 5681.5,
+   "text": "I could just look at nature on my computer, Sequoia National Forest right there'? Do you think people are like that now, and we're just so desensitized to things like that, where we don't have to engage in it physically?"
+  },
+  {
+   "t": 5695.0,
+   "text": "I do believe it does affect a few people. I have some friends like that. They don't want to go out. They just stay in, and whatever you want, they can just be on the computer."
+  },
+  {
+   "t": 5705.9,
+   "text": "— Something like camping — do you do that, Steve? When you want to go into nature, you just — — No, because that's something you can't replace. — General Sherman tree. Holy shit, that tree is tall."
+  },
+  {
+   "t": 5714.7,
+   "text": "No, I have camping gear. Look at my closet, I have the North Face, I got the tan, I like it. — Oh, you do? — Yeah. — Let's do a fucking Joshua Tree special."
+  },
+  {
+   "t": 5726.9,
+   "text": "— Oh, you know, that's it. Look at that, Sequoia, look at that. — Hell yeah. — We camp five miles in, me and B. Crawford. Shout out to B. Crawford, my homie, right here. — Would we ever do a team-building, camping style?"
+  },
+  {
+   "t": 5740.7,
+   "text": "— That's what you guys need to do, nature. I'm a backpacking leader. — Yeah, look at that lake. — When you say camping, do you mean in tents, or in cabins, or just out? — No, we camp in."
+  },
+  {
+   "t": 5751.3,
+   "text": "You got your hiking — — Cabins is a different kind of park. — No, you don't do cabins. — No, we set up a tent, we pitch a tent, we do it right. — You're sort of dipping your toes in, but then there's the kind where you put shit in a backpack."
+  },
+  {
+   "t": 5761.5,
+   "text": "In fact, dude, I think David would like this. David and Critter would probably have a good time camping. — If you want to drink booze, you're carrying it. — See, that's me. — And you carry it back out. — You wake up to that, a lake in nature. — No, not to that. I've camped in tents,"
+  },
+  {
+   "t": 5777.8,
+   "text": "we just said car camping. — So why don't you guys do a podcast, like a group trip? — Yeah, like a nature — — Yeah, that'd be fun, and you'd make contact with nature again. Do you think David would like that?"
+  },
+  {
+   "t": 5797.6,
+   "text": "I don't know. Steve, what's going on with your comedy, man? — I'm taking a hiatus right now, because it's occupying my whole thing. — Can you give out your preview track listing? — Yeah — I kind of don't know, because once I say it, there's all these expectations. I think I gave another one out earlier"
+  },
+  {
+   "t": 5821.1,
+   "text": "by accident. As a creative person, don't do it, because now I listen to it — like I'm listening to 'Reptilians Are Real' and the other one — and my own critical mind is like, 'Oh, it's not dope enough,' because people are expecting it, they're doing artwork on it,"
+  },
+  {
+   "t": 5834.3,
+   "text": "like me as a CEO, and I'm like, 'Oh, it's not dope enough now,' because I already kind of spilled the beans. So yeah, I'm just going to probably keep it on the hush right now. I have like eight completed tracks, but no new comedy bits. — Because you're on hiatus? — No, I haven't —"
+  },
+  {
+   "t": 5847.3,
+   "text": "you know, I'm just being honest with you. It's kind of like, my mind, I think, has to be focused on — I don't want to juggle too many things, because I want to make it good. As far as anything musically that I want to do, I want to make it as good as possible."
+  },
+  {
+   "t": 5860.3,
+   "text": "So it has to be 100%, it has to be 100% into whatever I'm doing. That's why I'm taking a hiatus. I try to write new bits, but my place is just pages of raps and song titles. So I just hope whatever Dave's saying is true, I hope that does go down, as far as these producers"
+  },
+  {
+   "t": 5882.9,
+   "text": "giving me one or two tracks. That'd be dope. — If he wants to go to Big Bear, I'm down. — He is going to Big Bear, he has a cabin there. — I assume he does. — That'd be really cool, getting a campfire going, it'd be fun. — I think we all are, aren't we? I think we are."
+  },
+  {
+   "t": 5903.6,
+   "text": "— Is it Tie Town time, or — — I think it's getting close. I think it's getting close to the time. But I think we need to kill a couple more minutes. You look like your energy is dropping."
+  },
+  {
+   "t": 5914.3,
+   "text": "Yeah, yeah. — I can see it in your face. — And my voice is getting lower. — I can see it in your eyes, and your demeanor is just like — — Yeah. Okay. It was a long day yesterday."
+  },
+  {
+   "t": 5924.0,
+   "text": "Last question, Bill. Why did you choose teal for your nails? — I've always liked — okay, first of all, I like the four-and-one. Well, that's what I call it, I don't know what the real —"
+  },
+  {
+   "t": 5933.7,
+   "text": "— Four-and-one? What does that mean? — Well, it's what I call it — when you have your nails four colors, and then one nail's an off color. This is actually an off color, this is teal."
+  },
+  {
+   "t": 5943.6,
+   "text": "It's a little darker, with a flower. — Yeah, yeah. — The flower only because I was curious. I didn't really want the flower, but the girl there does designs, and I was really curious about the technical aspect of it."
+  },
+  {
+   "t": 5959.1,
+   "text": "Yeah, let's get a close-up. — I wanted to know how she did it. — Let's get a close-up on that, yeah. — This is the better one, I kind of fucked up on the other one."
+  },
+  {
+   "t": 5969.3,
+   "text": "Yeah. So she took, like, this little stick and made the petals, and then she took another stick with, like, a two-hair-brush thing, and made these lines in the middle of the petals, so it kind of looked three-dimensional. And then in the middle,"
+  },
+  {
+   "t": 5986.1,
+   "text": "she said, 'Okay, which one of these gems, these fake jewels, do you want in the middle?' So I picked lavender, and then I went inside. So I'm digging it. I've always kind of liked the whole nail polish thing. I wish there wasn't such a bad stigma about it in society, otherwise I think I would wear it more often."
+  },
+  {
+   "t": 6005.6,
+   "text": "— There's not a stigma to it. — Oh yeah, definitely, for a man to wear nail polish, no way. — Do you, man? It's, like, an instant conversation starter with every girl. — Yeah, but the problem is, 'Hey, why do you have your nails painted?' 'Well, that's a funny story.' — Yeah, but when I need to talk to my car mechanic,"
+  },
+  {
+   "t": 6024.6,
+   "text": "I don't want to get ripped off, like, 'Oh, fucking, you know, I'm going to increase the prices on that.' Or when I go to the gym, I don't feel like people will —"
+  },
+  {
+   "t": 6034.5,
+   "text": "— You think you're going to increase the mechanic prices? Is that your biggest worry with painting your nails? — Yes. — Okay. — But when Austin goes again, I do want to do it again. I already have my next colors picked out."
+  },
+  {
+   "t": 6045.2,
+   "text": "Final question, B. What do you think about socks with sandals? — I'm okay with it. I don't have a problem with it. — Me too. Hiking socks with Adidas massage sandals — nothing better than that."
+  },
+  {
+   "t": 6059.3,
+   "text": "— You know, whatever you want to wear, dude. — Alright. Ready, Bobby? [announcer voice] Off the sidelines and into the limelight, it's time of the night again — it's Trippin' with Bobby. — Alright. And Alex isn't going anywhere."
+  },
+  {
+   "t": 6073.0,
+   "text": "— Wait, wait. I don't think he's ever had that before. — Are we having any? Is it the ear? — Yeah. — Okay. Are you listening? Steve's newest song. — 'Longer Seagull.' No — 'Memories of the Void.' — You got it. But that's a cheating —"
+  },
+  {
+   "t": 6093.3,
+   "text": "— That's okay. What did Bobby Lee get scared about? — Bobby who? — The ghost. — The three ghost kids? — No, Bobby Lee. — Bobby Lee, what did Bobby Lee get scared about? — Oh, about my book, 'Glimpses of Other Realities.' — Yeah, that's right, when he opened it up. No ear for me, no ear smell for me, guys."
+  },
+  {
+   "t": 6121.5,
+   "text": "Good luck. — What was Steve listening to while seeing the people on the wall? — Portishead. — Yeah. It's between Alex and Steve, gotta give it to both of you. — What solid-color nail polish does Alex have? — Purple."
+  },
+  {
+   "t": 6139.5,
+   "text": "— Purple with sprinkles. Dark purple. Blue. — You got one point. — Lilac. — Blood. — You got it. — Hell yeah, beast. — Shouldn't you know that one? — I brain-farted, because I was like, I don't have nail polish on right now."
+  },
+  {
+   "t": 6153.8,
+   "text": "Who did Alex reference, Batman-wise? — Lewis Allen. — Morgan Freeman. — Lucius Allen. — Lucius Fox. — Lucius Fox! Ah, I was looking for Lucius Fox. — We got a tie going on here, on all of us. — No, I think you're out of it, but I think these three each got one. Alright, last — — Wait, wait, didn't I get"
+  },
+  {
+   "t": 6174.0,
+   "text": "Lucius Fox? Did I not get that one? — This last — we got this last one, get the math right, I don't want to smell. — What else did you get, the nail polish? — The dark blue, you got it. — You're out of it, yeah, unless — you could, unless both these guys name one of these"
+  },
+  {
+   "t": 6189.0,
+   "text": "songs. — Oh, go ahead. — [singing] 'Out here in the fields, I fight for my meals —' — Teenage Wasteland! Teenage Wasteland, the Who! — Two points. — The title's different. — 'Baba O'Riley.' — That's right, that's the trick one. I should know that, because if I become a professional wrestler, that's my entry song. I should fucking know that."
+  },
+  {
+   "t": 6215.1,
+   "text": "— That's an awesome one. I like that one. — I used to sing that song all the time. I would shoot fog and lasers behind me, and it would say 'Don't cry,' and I would walk out. — Oh, nice. — Oh, that's gonna be our next question. — When I got into the ring, it would go into that drum roll,"
+  },
+  {
+   "t": 6234.6,
+   "text": "right, right, yeah. — I think if Alex gets this one, it's a three-way tie. You ain't out of it. — I'm not out of it. — I think you got three. So I'm a loser right now, but if he gets it, we're all tied. — Either way, he loses. — Well, you get tied."
+  },
+  {
+   "t": 6253.2,
+   "text": "Unless he gets a second point. — Well, tied goes to all three of you guys. — Alright. So we all have to smell it? — If it's a three-way tie, then we have to do —"
+  },
+  {
+   "t": 6261.0,
+   "text": "— That's fair. — We have to do the human centipede, or whatever. — Is this another song? — It's another song. Okay, let's go. Two points. [singing] 'Out there — try to be a —' Okay."
+  },
+  {
+   "t": 6271.0,
+   "text": "— Sing with me. [singing] 'Sing for the year —' — 'Sing for the year!' — You got it. You got it. — Kill it. — He just hopscotched over you. — Yeah. — You guys. — So we all have to smell it?"
+  },
+  {
+   "t": 6280.6,
+   "text": "— Both of you guys. — Shout out to 107.7 The Bone. — Dude, you don't have to dig that deep. — You want to go first? — Second, second. — You take it down."
+  },
+  {
+   "t": 6292.5,
+   "text": "— [reacting to the smell] That's acidic, man. That's acidic. That's some papaya salad. Some Thai papaya salad. — Alright, that's the end of the show. Alright. Everybody eat some watermelon juice, some kale, some alkaline foods. — Oh, pretty cool. — Alright, do we have an official ending? — Yeah, that's where David says we're ending it, and then we end it half an hour later."
+  },
+  {
+   "t": 6318.6,
+   "text": "— Oh yeah, and then he says, 'And this is David's show, signing off.' — Oh yeah, yeah. You should do that. 'Stupid motherfuckers, if you don't buy this fucking book, you pieces of shit —' what else does he say? — 'Steve Lee at the —' what is it called? — Oh, you know, people showed up one Sunday when I was working."
+  },
+  {
+   "t": 6341.2,
+   "text": "Like, the dude that runs it is like, 'Where are you?' And I was working, and they're like, 'There's people here to see you.' So it worked, people actually showed up to the Peak and Whistle. — You can go to the Comedy Store now and get, like — what do they call that? A bringer show?"
+  },
+  {
+   "t": 6351.3,
+   "text": "Where if you bring ten people with you — if you bring ten paying customers, you get to go on. — Maybe. — A bringer show. — Good thinking. — I want to do a shout-out, because you've been doing shout-outs all — — Yeah, dude, do a shout-out. — I want to shout out to Carol Lamb."
+  },
+  {
+   "t": 6366.3,
+   "text": "I'm going to get you on the show. — There you go. — Carol Lamb? — Yeah. — Who's that? — She's a toy maker. I want to bring a guest that actually is not — — Oh, she makes nerdy toys and stuff?"
+  },
+  {
+   "t": 6377.0,
+   "text": "Yeah. I don't think she's DIY — I mean, she probably does DIY stuff too, but I'm sure she works for Mattel or some big company. But I always thought, toy maker — is that a real thing?"
+  },
+  {
+   "t": 6388.9,
+   "text": "And I guess it is. — Nice. — Her, and the guest that we were supposed to have tonight, I'll bring her back — or not bring her back. Can I be honest with you? Are you guys really going to eat right now?"
+  },
+  {
+   "t": 6401.8,
+   "text": "Are you guys going to go somewhere? Because — I'll be honest with you — I wanted to see Godzilla tonight with Bob."
+  }
+ ]
+}

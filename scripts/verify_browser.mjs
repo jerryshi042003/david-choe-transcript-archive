@@ -159,6 +159,20 @@ try {
   assert.match(reader.status, /Transcript Computer transcript/);
   assert.match(reader.people, /People named/);
 
+  await evaluate(`document.querySelector('[data-mode="script"]').click()`);
+  const scriptView = await waitFor(async () => {
+    const script = await evaluate(`({
+      lines: document.querySelectorAll('#body .sline').length,
+      hint: document.querySelector('#fhint')?.textContent,
+      active: document.querySelector('[data-mode="script"]')?.getAttribute('aria-pressed'),
+      clientWidth: document.documentElement.clientWidth,
+      scrollWidth: document.documentElement.scrollWidth
+    })`);
+    return script.lines > 0 && /cleaned/.test(script.hint) ? script : null;
+  }, 'cleaned Script view');
+  assert.equal(scriptView.active, 'true');
+  assert.equal(scriptView.scrollWidth, scriptView.clientWidth, 'Script view overflows at 390px');
+
   await call('Emulation.setDeviceMetricsOverride', {
     width: 1280, height: 900, deviceScaleFactor: 1, mobile: false,
     screenWidth: 1280, screenHeight: 900,

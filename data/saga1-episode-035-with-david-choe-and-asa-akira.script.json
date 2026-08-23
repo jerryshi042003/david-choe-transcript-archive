@@ -1,0 +1,1243 @@
+{
+  "id": "saga1-episode-035-with-david-choe-and-asa-akira",
+  "schema": "choe-corpus/script@1",
+  "source": "llm-cleanup",
+  "lines": [
+    {
+      "t": 12.6,
+      "text": "[announcer voice] Welcome one, welcome all — it's DVDASA, special edition! Listeners, this is the episode where we take phone calls."
+    },
+    {
+      "t": 12.6,
+      "text": "Hello, with Bobby D and Bam. Hi. Hi. Are you ready? Are you ready to talk to David too? This is Steve. Okay, please, please hold."
+    },
+    {
+      "t": 43.3,
+      "text": "Hey, you're on. This is DVDASA — who's this? [caller] This is Brandon Dumas from Bindu Studios, Northern California. What's up? NorCal in the house. West side. What do you want to talk about?"
+    },
+    {
+      "t": 59.1,
+      "text": "NorCal. No — this is Dave. David Choe. [caller, thrilled] Holy shit, David Choe! What's up, man? Nothing, man. Come on, we've got the show on. You like the show? You hate the show? What the fuck?"
+    },
+    {
+      "t": 72.0,
+      "text": "You married? What the fuck is this? [caller] I fucking love the show, I listen to it constantly. And what the fuck is up with Bobby not paying attention to Bobby Trivia, as dope as it is?"
+    },
+    {
+      "t": 83.0,
+      "text": "[caller] Everyone waits for that shit and he's acting all nonchalant. I don't know what his problem is. I mean, I basically think it's his show, so he does whatever he wants."
+    },
+    {
+      "t": 96.1,
+      "text": "Okay, this has to be Bobby, man. I hear you all the time, right? [imitating Bobby] What the fuck am I?"
+    },
+    {
+      "t": 105.8,
+      "text": "Hey, who's this? You motherfuckers, who's this? [caller] This is Brandon. What's up, man, welcome to the show. Thank you very much, I appreciate it. Where are you from? NorCal? NorCal."
+    },
+    {
+      "t": 116.1,
+      "text": "Where? [caller] Right next to Berkeley, right next to San Francisco — Upper Playground in the house. Love the show. I love everybody on the show. Fuck Yoshi — I love him, but fuck him."
+    },
+    {
+      "t": 129.2,
+      "text": "[caller] And, come on, man — that shit is raw, everyone loves you, dude. Thanks, man, I appreciate it. I'm working on it. It's a work in progress. You know, I don't know if you guys get any negative comments."
+    },
+    {
+      "t": 142.5,
+      "text": "[caller] Fuck them. You've got the best podcast out there next to Joe Rogan, like, on the whole interweb. What are you doing right now? This is awesome — what are you doing right now?"
+    },
+    {
+      "t": 151.3,
+      "text": "[caller] Right now I'm painting, bro. You're painting? You're an artist? I'm trying to be an artist. [deadpan] All right — try harder, man. I'll talk to you soon, okay? Awesome caller. Absolutely, thank you very much."
+    },
+    {
+      "t": 163.3,
+      "text": "Thanks for your call, bro. NorCal motherfucker. All right, thanks — that was good. This thing's coming in nice. Okay, cool — we're experimenting one more time. Sorry for the, um... let's go."
+    },
+    {
+      "t": 182.5,
+      "text": "Sorry about the technical difficulties. I'm sure the last show sounded rough after we listened back to it. [sharply] Bobby, put the fucking snacks down! Are you kidding me? Look at those fucking gummy bears — what is wrong with you? Are you hungry? You can't wait an hour? We'll go to dinner in an hour and a half."
+    },
+    {
+      "t": 212.6,
+      "text": "And you need to be eating that shit right now? Come on. [mocking] Like you've never done it — grab the little snack. He's the boss. You can't be professional on the air for one hour? Okay. Fine, all right, okay. So last show we — let me just get it out of your eyesight, how about that."
+    },
+    {
+      "t": 230.8,
+      "text": "Last show we took our first live calls, and — [sharply] put the fucking snacks down, what's wrong with you, man? It's candy, it's not even snacks. Hello. And, uh — it just sounded pretty much like me, like a Tyrannosaurus Rex screaming for two hours straight."
+    },
+    {
+      "t": 255.0,
+      "text": "So we've got this system now with an amp, so hopefully it's better this time. But yeah, we're trying this shit out. Please be patient with us. We'll see what happens."
+    },
+    {
+      "t": 270.6,
+      "text": "We'll check out calls. Yeah, let's do it, go for it. Hello? You're on DVDASA. [caller, imitating Dave] That's your best impression of me? Hello, Bobby. Hey, how's it going? I'm trying to pull off a Dave."
+    },
+    {
+      "t": 287.2,
+      "text": "Who's this and where are you calling from? Try it again. [caller] This is Kent Cobra from Detroit. Long-time listener, first-time caller. Awesome. You got any questions for us? [caller] I have a very serious question."
+    },
+    {
+      "t": 299.9,
+      "text": "[caller] I have a very serious question for you guys. Never before in my life have I experienced this problem — similar to his erectile dysfunction, but I've been having problems with constipation, and I wanted to know what you'd do to solve that, and if I can eat a specific snack."
+    },
+    {
+      "t": 319.7,
+      "text": "[caller] I know Asa's a fan of the enema. I'm just racking my brain trying to figure out how to make this right. What do you eat on a day-to-day basis? What's your diet consist of?"
+    },
+    {
+      "t": 333.3,
+      "text": "[caller] I eat a chicken breast sandwich every day for lunch. One you make, or the spicy one from Wendy's? No, not spicy. No fast food. All right, I'm going to put him on hold for a second. So basically, this guy has a problem I've never had — constipation. My problem is that I shit constantly."
+    },
+    {
+      "t": 359.2,
+      "text": "Has anyone here had that problem before? No. You've never been constipated? No. And what did you do? [Bobby] They gave me laxatives when I broke my leg. All right, so I don't know how eating chicken sandwiches all day makes you constipated."
+    },
+    {
+      "t": 374.2,
+      "text": "You do an eyedropper of oil. I'm not a doctor. [Bobby] I've got a solution to this. Okay, let's hear it. All right, so I went to eat at a Russian restaurant. They salt everything."
+    },
+    {
+      "t": 386.3,
+      "text": "[Bobby] Got garlic vodka shots and little dumplings, then pork chops — and I live within three blocks of this place. What's the name of it? Traktir. That place is good, man, it's bomb. But this will solve your problem: eat Russian food, salty, a lot of vodka, and you go straight to the toilet. I ran, praying I wouldn't shit my—"
+    },
+    {
+      "t": 412.2,
+      "text": "[Bobby] —pants. Got my keys out, did a little fist pump, ran with my pants off right to the toilet, and I thought I made it. I took the biggest diarrhea shit and I'm like, fuck yeah, that was close. And then I looked at my feet and there's just shit droplets all over the little mini carpet rug. So that should—"
+    },
+    {
+      "t": 432.1,
+      "text": "[Bobby] —solve your problem. Well, Bobby does bring up a good point. Caller, to answer you — we don't really know anything about constipation. We know a lot about shitting our pants. The number one source of that is IBS, irritable bowel syndrome, which is caused by stress. So if you're constipated, I'm guessing you have zero stress in your life."
+    },
+    {
+      "t": 460.1,
+      "text": "So how about adding some stress? Why don't you cheat on your girlfriend in a very obvious manner? Why don't you shoplift from your own place of work? Why don't you provoke fights with people on the street — preferably 14-year-olds — and put yourself in highly stressful situations? I'm sure you'll start shitting sooner than later."
+    },
+    {
+      "t": 482.7,
+      "text": "Does that answer your question? [caller] Thank you, Dr. Choe. Okay, cool. Thanks for your call, thanks for listening, and I hope everything's cool out there in Detroit. Yeah, come out here soon. Okay, thank you."
+    },
+    {
+      "t": 499.6,
+      "text": "[caller] Later, guys. There's a million calls coming in. I know this is super ghetto-style for you, but we're doing our best, and we hope the calls are coming in loud and clear. Bobby, that was amazing — when you shit your pants like that, do you keep the pants afterwards, or do you wash them?"
+    },
+    {
+      "t": 518.6,
+      "text": "[Bobby] No, it went right on the floor — and I sent you a picture, and you're like, is that blood? Oh God. Oh God. Oh, you just reminded me — I threw it in the laundry and it's still there."
+    },
+    {
+      "t": 533.3,
+      "text": "[Bobby] So if you ever use my toilet, you know what's underneath your feet. So I'm sitting at home and I get this photo text from Bobby, and it's just the fucking tiled floor, and it looks like blood drops."
+    },
+    {
+      "t": 549.4,
+      "text": "And I texted back: is that blood? Oh God. [Bobby] Diarrhea. You didn't burn those pants? It didn't hit my pants, my pants were good. You shit on the floor? Somehow it sprayed onto the carpet."
+    },
+    {
+      "t": 562.9,
+      "text": "It got on your shoes? No, I took my shoes off. Damn. All right, that's disgusting. Dude, we're fucking good, man! Here — can you do a better job this time? Hello, you're on the air."
+    },
+    {
+      "t": 581.0,
+      "text": "Hello? [caller] Hey now. Hey now, David. What's up? [caller] Hey David, I just wanted to ask a question — what's your all-time favorite interview you've done? Because you're one of my top five, seriously."
+    },
+    {
+      "t": 597.0,
+      "text": "Oh, this is easy. Asa Akira — and then, definitely, me. [laughing] I fucking killed it on that shit."
+    },
+    {
+      "t": 607.8,
+      "text": "[caller] Holy shit. I mean, I like Beetlejuice when he's on, but come on — I basically took that shit over. But you tell me, I want to hear it. What did you think? [caller] My favorite... Let me tell you this story, this method I have. I learned it in prison. I make soy-sauce drawings, and I have to jerk off, but—"
+    },
+    {
+      "t": 631.3,
+      "text": "—there's always a bunch of these fat Japanese people watching, so I call it choating: I grab my balls, and right when I'm about to come, I squeeze. [caller] All right, go ahead, go ahead, sorry. Yeah, you breathe down and hold that shit off, and then you can come ten more times the rest of the day."
+    },
+    {
+      "t": 651.5,
+      "text": "[caller] Damn, son, you reading my book? I haven't read your book, dude. Sounds like it. I'll catch a proper interview sometime — that's all I got. Yeah, listen — your Instagram account is one of my favorites."
+    },
+    {
+      "t": 667.8,
+      "text": "I mean, that was a blast, but basically he invited me and I took it over — and this, right here, is basically our version of it, but better."
+    },
+    {
+      "t": 681.8,
+      "text": "Every single show I'm trying to get you on, and you just have to be serious. I respect that so much, I love it — but they keep calling me and I tell them I'm busy every once in a while."
+    },
+    {
+      "t": 692.1,
+      "text": "But as soon as I've got time I'll go down there and chill with Howie. And Robin — you're getting the same feeling I was. I wanted to fuck her the whole time, but Howard just kept cutting me off."
+    },
+    {
+      "t": 704.5,
+      "text": "[caller] You gotta get down there. I know, you're all over the place, it's hilarious — he didn't know what to do with you. But you gotta get down there this year, man. You talking about on Howard?"
+    },
+    {
+      "t": 715.1,
+      "text": "[caller] Yeah, you think he'll have your back? I mean, he's constantly blowing up my phone, but you know."
+    },
+    {
+      "t": 723.1,
+      "text": "[caller] Get down there, bro. All right, what's your name? [caller] This is Derrick Savoy. Derrick Savoy from where? Out of L.A. Out of L.A. — because you're requesting it, I'll give them the pleasure: I'll be down in New York, on the East Coast, in the next two months. All right, next call, next call. I gotta take the—"
+    },
+    {
+      "t": 744.2,
+      "text": "—next one. [caller] Pop up, gotta get you into the studio, bro. Thank you so much for answering my call. You're welcome. I don't know if he realized it wasn't you. No, dude, that was great. Can you take all the calls now? No. Valentin, can you do an impression of Bobby? [Valentin, mock voice] Oh man. [laughing] That's pretty good."
+    },
+    {
+      "t": 767.4,
+      "text": "That's what you think of me? No, that's what you think I talk like. I'm just trying to be in your brain. [imitating Bobby] Yeah, so that's what you think I'm like? Beautiful — you think I'm like that? No, I mean, it's an exaggeration. But you don't think you're on top — you're a master of—"
+    },
+    {
+      "t": 784.3,
+      "text": "—impersonation, you know. How's everything going with you right now? You should do your Yoshi this time, Dave. Yeah? Do your Yoshi. Oh, fuck, dude. Okay, yeah — ready? Yeah, yeah. Fuck yeah."
+    },
+    {
+      "t": 798.6,
+      "text": "Everything's good at home? What's up? Nothing. That's good. This is fun. Hello? Are you ready? Okay, please hold, don't hang up. All right, here we go, we're out, dude."
+    },
+    {
+      "t": 814.2,
+      "text": "All right, Yosh, you're up. [imitating Yoshi] Hi. Welcome to DVDASA. Hello, thank you for calling DVDASA, this is Yoshi. What's up? You like my show? [caller] I do like both Yoshi Didn't and DVDASA. [imitating Yoshi] My show, Yoshi Didn't — please listen, with special host Lelit."
+    },
+    {
+      "t": 836.7,
+      "text": "[imitating Yoshi] And we have special guests David Choe and Andy Milonakis, and thanks for listening. Am I on the podcast? Do you like a big butt with a small butthole? [caller] Of course. Who the fuck is this?"
+    },
+    {
+      "t": 862.1,
+      "text": "Why the fuck are you on my phone? [caller] Why wouldn't I be? I love DVDASA. What's your name? Ryan. Ryan, where are you calling from? Atlanta, Georgia. Atlanta, Georgia. Ryan, you sound like sort of a shithead. Do you have a lot of friends?"
+    },
+    {
+      "t": 881.2,
+      "text": "[caller] No, not really. I am a shithead. What's going on? [caller] Kind of, I don't know. I've never met you before in my life, and I'm getting some kind of sense in your voice that you annoy the shit out of people. What is that?"
+    },
+    {
+      "t": 898.6,
+      "text": "[caller] No, no, definitely not. What is that? I'm actually a dude. What? What do you do out there in Atlanta?"
+    },
+    {
+      "t": 907.7,
+      "text": "[caller] I'm actually an antique dealer, of all things. You're antiquing? Are you a homosexual? [caller] No, I don't — I don't tell people to their face, but I sell antiques. So are you a homosexual?"
+    },
+    {
+      "t": 922.5,
+      "text": "[caller] No, I am not. All right, so — that's a yes. [laughing] That's the first time I've heard the word 'antiquing' since the first cameraman on Thumbs Up! Season 1. He left the trip when me and Harry floated down the Mississippi River — to go antiquing."
+    },
+    {
+      "t": 941.8,
+      "text": "[caller] I have seen that episode, yeah, I know the reference. However, I don't use the word 'antiquing.' I say I'm an antique dealer. Okay, so what's going on in the antique world?"
+    },
+    {
+      "t": 956.6,
+      "text": "[caller] Uh, not a whole lot, really, I just— All right, thanks for your call, bro. Okay, so that was a really shitty Yoshi impression. That was a much better— Yeah, I'm going to answer the next call. Is it Carol? Is that cool? Sure. All right, be nice though, she's going to listen. You think so? Yeah. I mean — look, from now on I know—"
+    },
+    {
+      "t": 984.1,
+      "text": "—this show comes out like a month from now, but if we ever do phone calls again: if you haven't gotten the vibe from the last two shows — get to the fucking point, and don't ask me stupid shit, or I'm going to hang up on you."
+    },
+    {
+      "t": 1001.4,
+      "text": "This chick's pretty cool. I'm going to put this naked chick on the speaker right here so you can look at her."
+    },
+    {
+      "t": 1010.7,
+      "text": "What do you think, Valentin? What'd you do while we were gone? Nothing. Nothing? [Valentin] I go to work. What's up with this haircut? Where do you go for that? [Valentin] I go to the barbershop."
+    },
+    {
+      "t": 1024.8,
+      "text": "Which barbershop? [Valentin] The one at Vermont and Beverly. Is it a guy or a girl? A guy. Oh yeah? Yeah. And the girls, they like you? [Valentin] They're not— what? Oh, I mean my haircut, yeah."
+    },
+    {
+      "t": 1036.4,
+      "text": "[Valentin] They like it. Yeah? You get some pussy while we were gone? Maybe. Yeah? I'm not sure — I think so. All right, Valentin doesn't want to share today, that's cool. What's up with you and Quiet C?"
+    },
+    {
+      "t": 1051.1,
+      "text": "[caller] We freaking — I got mobbed by fans. It was awesome. What do you mean? What happened? Quiet C had a bunch of friends coming from England, and all over the country. They had a party, so we went clubbing."
+    },
+    {
+      "t": 1063.0,
+      "text": "Are you ready to go? What? In downtown L.A. It was fucking dope. Okay, okay, please hold, I have a few minutes, don't go. We went down, I was helping one of the drunk friends."
+    },
+    {
+      "t": 1072.5,
+      "text": "And two guys kept looking at me, and then they're like, DVDASA? I'm like, off to the side — and they went, whoa! And then they asked for pictures and stuff."
+    },
+    {
+      "t": 1084.1,
+      "text": "But it was pretty cool, they were cool. You're a celebrity. I don't know. What do you mean you don't know? You're going out and getting mobbed by fucking fans — how are you not a celebrity?"
+    },
+    {
+      "t": 1094.0,
+      "text": "How does that feel? It was pretty awesome. You like that? It was a good celebrity kind of feel. And as the fans looked up to you in delight, could you tell that Carol — the little twinkle in her eye — changed the way she looked at you?"
+    },
+    {
+      "t": 1108.2,
+      "text": "She wasn't there, she was upstairs grabbing her sweater. Oh man, that sucks. It's the best when you get recognized and you're with a girl — gets their pussies wet. They're like... Especially if they don't know who you are."
+    },
+    {
+      "t": 1124.6,
+      "text": "Anyways, what have we got next? Take this one. Do another impression. [Bobby, imitating Critter] Hello, this is Critter. Oh, hey Critter, what's up, man? Nothing much. Are you on the beanbag chair? No, no — Dave forced me to come up, we're doing a new setup. So what's going on? Nothing, man, I just called with a couple of questions, that's all."
+    },
+    {
+      "t": 1153.8,
+      "text": "Go for it, go for it. [Bobby, imitating Critter] Actually, my first question — I wanted to know if Dave ever went back to the massage therapist where the old lady sucked on his asshole. I'm going to have to have Dave answer that one. Hold on, please. Hey, what's up, what's your name? [caller] Hey, this is Shane Trader, man."
+    },
+    {
+      "t": 1179.4,
+      "text": "Hey Shane, how's it going? [Bobby, imitating Critter] Hey Shane, what's up, how you doing? You know who this is? [caller] Pretty good, yeah. You have cool art. This is Bobby, I was impersonating Critter. We've never met, but I know you through Facebook."
+    },
+    {
+      "t": 1192.4,
+      "text": "You know who this is? [caller] Yeah, he's an artist. Oh, okay, sorry, go ahead. [caller] I know his art too. Oh, Shane, you're a celebrity here — everyone knows who you are. So basically— [caller] Everybody knows who I am?"
+    },
+    {
+      "t": 1203.5,
+      "text": "Yeah. You know who he is too? [caller] Yeah, I've seen his art. Oh — Critter and Bobby have both seen your art. You're on my Facebook — or I'm on your Facebook. You're on— oh yeah."
+    },
+    {
+      "t": 1213.8,
+      "text": "[caller] I'm not some weirdo fucking stalker though, trust me. Where are you calling from? Where are you calling from, Shane? [caller] I'm calling from downtown L.A., at the warehouse. My warehouse. Oh, okay. Excuse me."
+    },
+    {
+      "t": 1228.7,
+      "text": "[caller] Have you ever gone— I just had a real quick question for you, man. Yeah — have you ever gone to— oh, I didn't mean to interrupt. [caller] Have you ever gone to a massage place where you got a happy ending?"
+    },
+    {
+      "t": 1238.5,
+      "text": "I haven't, no. [caller] The time I heard you tell that story, I was laughing my tits off. I mean, that had to be one of the best — slash scariest — experiences of your life."
+    },
+    {
+      "t": 1250.6,
+      "text": "[deadpan] All right, well, I'm glad a horrible experience in my life made you laugh. I'm going to be honest with you: the massage parlor is on the route from my house to the warehouse."
+    },
+    {
+      "t": 1266.7,
+      "text": "So I see it every fucking day. And, um — look, here, I'm going to mute you for a second. One of the things, uh—"
+    },
+    {
+      "t": 1279.4,
+      "text": "—one of the things rape victims do is recreate the trauma. They recreate the most horrible experience. I was with Critter maybe an hour after that incident happened, and I had a really tough time explaining it."
+    },
+    {
+      "t": 1300.3,
+      "text": "For those of you listening, the reference Shane's making is the time I went to a massage parlor — the same one I'd gone to for years. Turns out that in the time I hadn't been there, they'd transformed into a happy-ending place, and I got a happy ending—"
+    },
+    {
+      "t": 1316.4,
+      "text": "—which consisted of my butthole being sucked through Saran Wrap by a woman as old as my mother. And I didn't stop her, I let it happen. So of course now I've told the story to the world, and I've repeated it again right now — I've got this asshole named Shane bringing up fucking—"
+    },
+    {
+      "t": 1335.2,
+      "text": "—traumatic events in my life. I've got this place on the same block where I live that I have to drive past every day, and I know she's sitting there with her Chapstick on her lips, just waiting to suck my butthole again. And, um — who isn't? I don't know, man. I'm going to try to answer your—"
+    },
+    {
+      "t": 1355.3,
+      "text": "—question as honestly as I can. I have not gone back. But if I said I hadn't thought about going back, I'd be lying to you. I had a real tough time telling Critter what had happened afterward, and then I figured, fuck it, I just told Critter — and now, to free myself, I mean—"
+    },
+    {
+      "t": 1376.3,
+      "text": "—you're only as sick as your secrets. I was like, that's a story I could hold with me and take to my grave, or I could tell the world and live with it. And yeah, I'd be lying if I said that sometimes when I go to sleep at night I don't think about that old woman sucking my butthole."
+    },
+    {
+      "t": 1391.7,
+      "text": "And it's literally within walking distance from my house, so I think, maybe just walk over there, close my eyes, get one more butthole suck. But that's the thing about killing someone — once you've done it once, it gets easier every time. I could never have fathomed, if you'd asked me when I was 15, that one day, 20 years from now, I'd be getting my butthole—"
+    },
+    {
+      "t": 1414.8,
+      "text": "—sucked by an old woman. I would have said it would never happen. But that's the funny thing about life — we use the word 'never' all the time, and then we end up doing stuff we said we'd never do. So that happened. And have I gone back? No. Will I go back one day? Who's to say."
+    },
+    {
+      "t": 1433.5,
+      "text": "So, anyways — given your sexual prowess, what's— [caller] What's that? I said, given your sexual prowess, you don't have too many lonely nights. But on lonely nights, do you find yourself jacking off to it? [caller] Um, I think I'd more rather jack off to your voice."
+    },
+    {
+      "t": 1456.7,
+      "text": "That can be arranged, I guess. I mean, you know, try anything. What do you think about when you jack off? [caller] Oh man, well, ever since I heard that story I've been picturing myself in that situation. But prior to that — do you jack off to porn, or do you jack off just closing your eyes?"
+    },
+    {
+      "t": 1475.7,
+      "text": "[caller] I switch it up from time to time, but the vast majority is online porn. And what do you watch when you watch online porn? [caller] A lot of Moms Bang Teens. You know, where the stepmom helps out the stepdaughter?"
+    },
+    {
+      "t": 1490.8,
+      "text": "Shows her how? The mom shit is coming up a lot now. If you don't remember from the last call, it's crazy, it's like the — I'm going to be honest, I'm with most of this shit."
+    },
+    {
+      "t": 1506.4,
+      "text": "When you jack off, is it young women or older ladies? [caller] Young women. What do you mean? Come on!"
+    },
+    {
+      "t": 1514.8,
+      "text": "Valentin, I know you're into that shit. [Valentin] Yeah. You'd fuck a 40-year-old, no problem, right? No, not for me. Not for you? Really? 40? [Valentin] 40, 45. What if she looks good, though?"
+    },
+    {
+      "t": 1529.0,
+      "text": "[Valentin] If she looks good, that's much better. 40, 45, no problem? [Valentin] No. No or yes? Yes, of course I can fuck it."
+    },
+    {
+      "t": 1541.3,
+      "text": "Yeah. Yeah, the old-woman shit, that's what's happening for me right now. I'm really not looking at the younger girls. I don't know what that is. Maybe you want to fuck my mom, I don't know."
+    },
+    {
+      "t": 1554.5,
+      "text": "Anyways, thanks for the call, Shane. [caller] Yeah, absolutely, man, thanks for taking it. All right, no problem. Are you jerking off a lot these days, Bobby? No. What, you're just having actual sex? Yeah. How's the sex life going?"
+    },
+    {
+      "t": 1570.8,
+      "text": "Front-fucking, or back? [Bobby] Lay-on-your-back fucking, a little of both. It's getting a little closer. I can't say a little of both, but it's getting closer — it's getting to almost 50/50. It's getting almost like 30/70. Oh, that's pretty good. And do you know if you've ever made her come before?"
+    },
+    {
+      "t": 1589.4,
+      "text": "[Bobby] I told you, every time — I think I am. Maybe. Valentin, you've met Carol before, right? [Valentin] Yeah. Do you think Bobby's making her come every time? Let's take the next caller. You want to do an impersonation? No, you're over it. All right — hey, welcome to DVDASA, welcome to the show, who's this? [caller] Hey, this is Bango. Bango!"
+    },
+    {
+      "t": 1627.6,
+      "text": "Yeah, what's up, Bango, what's going on? [caller] Hey, what's going on with you, fuck-face? Where you from, dude? It took me like an hour to get on. Hey, that's what fucking happens. Where you from, fuck-face? [caller] Maine. Maine — what part of Maine? Were you fucking sucking on lobster rolls? [caller] Yeah, man, lobsters, blueberries. What the—"
+    },
+    {
+      "t": 1656.0,
+      "text": "—fuck are you doing in Maine? How old are you? [caller] I'm 26. And what are you doing out there? [caller] Well, I just passed my boards, I'm now a practicing pharmacist. Oh yes — your buddy would love this. Oh yeah, we need drugs, bro. So how corrupt are the pharmacists in Maine?"
+    },
+    {
+      "t": 1680.4,
+      "text": "[caller] Well, not really, because, you know, we've got nothing else to do, we've gotta do our shit straight. What the fuck is wrong with you, dude? What is the sadness I'm sensing in your voice?"
+    },
+    {
+      "t": 1689.4,
+      "text": "What is the sadness I'm sensing in your voice? You sound like a downer. [caller] You sound sadness? Yeah, you sound like a sort of downer kind of guy. [caller] No, no, no, not at all."
+    },
+    {
+      "t": 1701.1,
+      "text": "[caller] I just finished watching Fast & Furious 4 and it really sucked, so maybe that's why. All right, so you watched a movie by yourself? [caller] Yeah, I just got off work, so I got home."
+    },
+    {
+      "t": 1715.2,
+      "text": "[caller] There's nothing to do. Did your dick move when you saw Vin Diesel? [caller] I saw that you're taking calls. Yeah, so you fucking called me. You got a question, or are you just going to keep talking about Fast & Furious 4?"
+    },
+    {
+      "t": 1728.6,
+      "text": "[caller] No, I've got a good question. All right, let's hear it. [caller] So, you've done all these sexually explicit things in your life — have you ever tried bagpiping? I don't know what that is, and I'm ready to learn."
+    },
+    {
+      "t": 1741.8,
+      "text": "Educate me. [caller] All right, so — I don't know if it's Scottish or Irish, you can correct me, but when you play a bagpipe you put that big pouch under your armpit. So it's when you have sex with a girl's armpit. Oh yeah, I've fucking done it — that's the best. You know, two-day stubble, right after they shave—"
+    },
+    {
+      "t": 1764.2,
+      "text": "—you wait two days, let the growth come out. They look at their armpit the morning after you fuck them and go, ooh, my armpits are getting hairy, I've gotta shave. And you go, hold on, hold on."
+    },
+    {
+      "t": 1777.1,
+      "text": "Spit on their pits, stick your dick in, and you fucking bagpipe them. [caller] What kind of question is that? What, have you ever done that shit? [caller] No, man. Won't you bleed if you do that? Won't you bleed from the stubble?"
+    },
+    {
+      "t": 1791.2,
+      "text": "What? [caller] Won't you bleed from the stubble? [Bobby] He's got a calloused cock. Dude, my dick is like a fucking Chinaman that's been working on the railroads for years and years — it's hard and calloused. If you stood on my dick right now I wouldn't even feel it. I don't even fuck girls that have stubbly—"
+    },
+    {
+      "t": 1811.7,
+      "text": "—armpits anymore. I fuck spiderweb chicks. You know what that shit is? It's when you fuck a Persian chick — or a Parisian chick from France — that has fucking dreadlocked armpit hairs, and you try to force your dick through the spiderweb of their armpit hairs. You ever hear about that? [caller] I thought you said Persian, because Persian—"
+    },
+    {
+      "t": 1834.6,
+      "text": "[caller] —I'm Persian, and Persians are pretty hairy. Where'd you learn about Persians? What the fuck is a Persian doing in Maine — that's the real question. [caller] Well, when my parents came from Iran they had two choices: Los Angeles or Maine, and I don't know why, but they chose Maine."
+    },
+    {
+      "t": 1857.9,
+      "text": "So instead of being surrounded by annoying Persians in Los Angeles, you're surrounded by white people eating lobsters all day? [caller] Yeah, actually I'm like the black kid at school. So what's that like?"
+    },
+    {
+      "t": 1869.8,
+      "text": "[caller] When I went to school, I was the black kid. What is that like? [caller] I don't know, it's kind of weird, because I'm not black. What do they call you? [caller] They all think I'm black."
+    },
+    {
+      "t": 1877.8,
+      "text": "You probably got a lot of white girls pissed off, right? [caller] Yeah. Do you get white girls that try to fuck you as if you're a black guy, but you're just a stand-in black guy?"
+    },
+    {
+      "t": 1888.8,
+      "text": "[caller] No, not really, I'm not one of those guys who can go up to chicks and just get them. Yeah, but you're in a white community and you've got the white chicks that want to piss off their parents."
+    },
+    {
+      "t": 1901.6,
+      "text": "[caller] I don't know, it's not like that in Maine for some reason. What do they call you? [caller] They're like, the white guys— What do they call you? [caller] What do they call me? Yeah. Sand-digger?"
+    },
+    {
+      "t": 1911.8,
+      "text": "[caller] Well, I mean, it's the stupid stuff, like terrorist, or hairy boy. Whoa. Oh — hairy boy. All right, thanks for your question, bro. Nothing original. All right, well, thanks for calling, and I hope you bagpipe a chick tonight."
+    },
+    {
+      "t": 1926.3,
+      "text": "You know, on your question about the bleeding — yeah, if the girl is Persian she's probably going to have thicker armpit hair, and if you're not used to it and you have a thin-skinned, sensitive cock, yeah, you're probably going to get a little prickly acupuncture action."
+    },
+    {
+      "t": 1939.4,
+      "text": "But keep at it. Toughen up your fucking dick skin and you'll be bagpiping chicks left and right, no blood. All right, thanks for calling. Triple-C — Calloused Cock. Yeah, calloused cock. I don't know — you ever done that?"
+    },
+    {
+      "t": 1956.2,
+      "text": "[Bobby] I'm actually into that. I never knew it was called bagpiping. You ever do that? [Valentin] No, I've never done that. No interest in doing that? [Valentin] No, that sounds cool. [Bobby] I like licking them. You like licking the armpit?"
+    },
+    {
+      "t": 1965.8,
+      "text": "[Bobby] Yeah. What do you mean? I don't know what it is, it's like a real sensitive spot, I like doing that. Like for foreplay? I'll just do it. Oh God. When? Like as you're fucking them?"
+    },
+    {
+      "t": 1978.6,
+      "text": "[Bobby] No, before. So that's foreplay. Yeah, I guess. You lick the armpit so your dick can get harder. You're into it. Yeah, I'm into it. And what's your preference — clean and shaved?"
+    },
+    {
+      "t": 1989.9,
+      "text": "Or a little stubbly, a little one-day smell? [Bobby] No, I don't want it to smell, I just want it clean and shaved. Right out of the shower? [Bobby] No. Usually people that are into feet, or armpits, or weird fetish-sized parts of the body, they don't like it clean out of the shower."
+    },
+    {
+      "t": 2011.2,
+      "text": "Guys that are into feet, they want dirty, sweaty, nasty feet. [Bobby] No, I mean, it should be clean, I don't like it much otherwise. Are you into any of that shit — feet, armpits? [Valentin] No."
+    },
+    {
+      "t": 2024.1,
+      "text": "Just the pussy? Just the pussy. What about you? Yeah, no, I'm not licking any of that shit. You guys are so fucking vanilla. All right, let's take our next caller. [Bobby] I know. This guy over there does."
+    },
+    {
+      "t": 2042.5,
+      "text": "All right, next caller. Welcome to the show, how are you doing today? Who's this? Who's this?"
+    },
+    {
+      "t": 2053.7,
+      "text": "[caller] I'm calling from Berlin. Oh, sweet. Oh shit, what's up in Berlin? [caller] Just getting off work at the bar, coming home. I signed up on Twitter for the first time today, just to follow you, Bill Murray, and Howard Stern, and I got home, lit up a joint, saw you'd sent out this number, and I hit call — and I didn't—"
+    },
+    {
+      "t": 2078.2,
+      "text": "[caller] —fucking believe you'd answer. So what do you do out there in Berlin — are you an expatriate, or are you from— what's up, I don't hear an accent. [caller] I was born in Stockholm, raised in New York, living in Berlin the last five years. It's amazing. You've been there a lot—"
+    },
+    {
+      "t": 2097.4,
+      "text": "—of times. [caller] Yeah. I'm not a huge fan of Germany. I've been to Munich, Berlin, Frankfurt, and if I can avoid it, I don't like going out there. [caller] What? What's wrong with them?"
+    },
+    {
+      "t": 2113.2,
+      "text": "[caller] The nightlife is much crazier, no? Or you just like to sit around and gamble and shit? Are you white? [caller] Yeah. So that's probably why you don't have any problem in Germany. I'd say, since 1994 up until right now, I don't think I've ever gone to Germany and not faced some sort of—"
+    },
+    {
+      "t": 2132.8,
+      "text": "—Nazi-type racist shit. Do you know the band Dirty Beaches? [caller] Dirty Beaches? Yeah. No, I don't know that band. Anyway, it's an Asian guy running the band, and he said the same shit, but he said it was even crazier in Russia — just insane."
+    },
+    {
+      "t": 2152.1,
+      "text": "[caller] But in Berlin, come on, they're so open-minded here. Yeah. Let me tell you something about Germans being open-minded: you guys started every world war, so let me first correct you on the 'open-minded' thing."
+    },
+    {
+      "t": 2166.1,
+      "text": "And number two — of course I have a great time when I'm in Germany, and I have a great time here. America is probably one of the most racist countries I've ever been to in my life. If you listened to the last episode, you know black people here ask me if I'm going to China."
+    },
+    {
+      "t": 2185.8,
+      "text": "Persians ask me if I'm fucking Steve Aoki. It's all racist, but it's not dangerous, it's just retarded shit. But when I go to Germany, it's dangerous racism. It's like, fuck you, chink, get out of our establishment."
+    },
+    {
+      "t": 2205.2,
+      "text": "Your kind will not be served here. It's more angry, and — whoa, I heard about this in books, didn't know it happened in real life. So look, I don't want to carpet-bomb all of Germany."
+    },
+    {
+      "t": 2222.4,
+      "text": "I just want to point out a few things. You guys started every world war. There are still Nazis there. Most of you are pretty cool, but the few of you that are still Nazis sort of ruin it for everyone else."
+    },
+    {
+      "t": 2236.4,
+      "text": "So that's my statement on that. [caller] Do you really consider Berlin part of Germany, though? I mean, it's like a totally different world here — it's the first multinational city, every single kind of person you can meet on any given night."
+    },
+    {
+      "t": 2250.9,
+      "text": "[caller] Like I said, there's tons and tons — I talked to a French guy, an Italian dude, a Spanish dude, in the same night. Berlin's not even part of Germany. I've never dealt with anything here, I mean, I don't know."
+    },
+    {
+      "t": 2261.8,
+      "text": "Maybe a Munich one. What do you do for work out there? [caller] Fucking — oh, whatever. What do you do for work out there?"
+    },
+    {
+      "t": 2269.7,
+      "text": "[caller] Bartending. I play in some bands, I DJ, I do live visuals. All right, all right, get this guy off the phone. I'm starting to— all right, all right. [mock voice] I'm working in bands—"
+    },
+    {
+      "t": 2280.4,
+      "text": "—and I'm DJing and I'm bartending and fucking Berlin, bro, it's fucking multicultural and shit, got fucking Italians, I fucked this Portuguese girl last night. All right, look — I consider myself a citizen of the world, I've traveled to pretty much every country, every part of this world, I don't give a fuck, I'll go anywhere—"
+    },
+    {
+      "t": 2306.3,
+      "text": "—except North Korea. I'll go to Germany, I don't give a fuck. I'm just saying — we live this life through experiences, and if every time I fly first class someone asks me, hey, are you going to China, then at some point I'll probably stop flying first class. Actually, that's not true."
+    },
+    {
+      "t": 2328.2,
+      "text": "I'll never stop flying first class. I'm just saying — it's the same reason I won't date a Korean bitch. Every time I date a Korean bitch, something ends up reminding me of dating my mom. Don't need it. Are there fucking amazing, cool Korean women out there who'd be nothing like my mom? I'm sure there are — I just don't—"
+    },
+    {
+      "t": 2348.1,
+      "text": "—want to filter through all the shitty ones to get to it. Are there the most open-minded, cool, awesome Germans out there? Of course there are. But guess what — those shitty ones make it shitty for all of us. Or, not all of us — at least for me. I'm telling you, I've been to three—"
+    },
+    {
+      "t": 2365.1,
+      "text": "—different cities in Germany, three different times in my life, and each time I got fucked with. I was in Munich for Harry's Dirty Hands German premiere — he was screening Dirty Hands out in Munich, and my little brother was in Spain the whole time with his friends, and he was going to come meet us in Germany."
+    },
+    {
+      "t": 2393.3,
+      "text": "My little brother lives in New York, I live in L.A., I don't get to see him very often, so to meet him in a foreign country is awesome. This was three or four years ago. So we go out there for the German premiere, and it was Germany vs. Spain in the World Cup."
+    },
+    {
+      "t": 2413.9,
+      "text": "If you don't know about Europeans and football — which is soccer for them — they go absolutely crazy. And Germany won that game, so people were literally close to rioting in the streets."
+    },
+    {
+      "t": 2428.1,
+      "text": "They were riding on cars, screaming. And I'd already told Harry, I don't want to go to any more screenings, whatever — especially because of other shit that had happened in Germany."
+    },
+    {
+      "t": 2442.4,
+      "text": "The mayor of Frankfurt — not the mayor, a kid I met the first time I went to the Congo — became some secretary to the mayor or something."
+    },
+    {
+      "t": 2458.6,
+      "text": "I wrote an article about him in Giant Robot magazine, about how I'd met him when we were 18 and he was in Africa for the sole purpose of fucking as many black hookers as possible."
+    },
+    {
+      "t": 2469.8,
+      "text": "Turns out he became someone in government, and he said, for writing that article, I'm going to send Russian hitmen to your house to kill your entire family. So that wasn't really a cool thing. But there are a few things like that that leave a bad taste in my mouth for Germany, so I wasn't particularly — but look, I don't give a—"
+    },
+    {
+      "t": 2492.1,
+      "text": "—fuck. Okay, I have a couple of bad incidents, whatever. I meet my brother Paul and Harry at a bar we designated in the middle of Munich, on a day right after me and Harry flew in, and my brother was going to fly in from Spain. A lot of—"
+    },
+    {
+      "t": 2512.7,
+      "text": "—things could have gone wrong, but we met — everyone showed up at the exact same time. And we're like, yes, my bro, haven't seen you in two months! And Harry, we're here, you finally finished your movie. It was a really joyous, exciting time for us, so we hugged—"
+    },
+    {
+      "t": 2532.4,
+      "text": "—and everyone was super pumped and excited to be there, and this huge German guy just stands up and walks right over to our table and says — fuck, I can't even remember exactly, but it was basically: there's a game on, Germany vs. Spain, World Cup, do not fucking talk about anything else—"
+    },
+    {
+      "t": 2558.5,
+      "text": "—unless it has to do with the game. And, you know, you're not from this country, but this is how we do it here, or something. It was the most unwelcoming thing in any country I've ever been to. And the guy looked like — who's the — he looked like fucking Dolph Lundgren from Rocky. So this—"
+    },
+    {
+      "t": 2580.5,
+      "text": "—fucking Aryan cartoon character of a super-Nazi guy is like, don't come to my country and talk about anything except soccer. And I'm like — if you guys didn't learn from the last show, I'm not good with the comebacks."
+    },
+    {
+      "t": 2597.1,
+      "text": "So I'm just sitting there like, I should say something awesome right now, and I can't think of anything. I'm a bit dumbfounded. I've never heard — I can't say never, but it's not every day people say, in our country we do shit like this, so don't fucking whatever."
+    },
+    {
+      "t": 2613.0,
+      "text": "And I'm like, fuck, man, I guess we're going to fight right now and get our asses kicked by a million drunk Germans. And then they had one, like, half-Asian friend who came up and hugged him and said, this guy's an asshole, don't listen to him, we're sorry — and he goes, no, I'm not sorry, and then he tells his own friend, fuck you, chink—"
+    },
+    {
+      "t": 2632.8,
+      "text": "—don't tell me what to do. And I'm like, this country is awesome. So look — of course a ton of Germans and people who live in Europe are going to hear this and be like, that's bullshit, I've lived in Germany my whole life and never faced anything like that."
+    },
+    {
+      "t": 2651.0,
+      "text": "And it's like, good for you — I'm just telling my story, that's what happened to me. It doesn't make me super pumped to go back to Germany, that's all. Next caller."
+    },
+    {
+      "t": 2663.7,
+      "text": "Hold on. Hello? Hello? [caller, imitating Yoshi] This is Yoshi. What? Yoshi, DVDASA. Hello. Oh, this is Yoshi. Yeah. You're back, Yoshi, I thought you were gone. [caller] No, just for the show. Dave called me and said the listeners and the fans were going to call, so, frankly, I came. Oh, really?"
+    },
+    {
+      "t": 2696.3,
+      "text": "What's up? You want to talk assholes? [caller] I'll talk to any of you guys, man, I'm a fan of the show, I've been watching all of them. I just got home from work and I watched the first 20 minutes of the Pamela — Pamela Adlon, from Louie, created by Louis C.K."
+    },
+    {
+      "t": 2712.2,
+      "text": "Oh yeah, my good friend Russell Peters knows Pamela, and that's how she came on the show. [caller] Yeah, man, it's a fucking cool show, I only watched 20 minutes, and I saw your number up there, so I said, I'll give you guys a call, because I'm a fan."
+    },
+    {
+      "t": 2728.9,
+      "text": "[caller] And you've been doing a real cool job with that stuff, man. Awesome, we've got a lot of callers, so can you just ask your question — for me, Asa, or David?"
+    },
+    {
+      "t": 2738.0,
+      "text": "[caller] I don't know. Huh? For me, Asa, or David — the question? [caller] What up? What up? What up? I'll talk to you, Yoshi. How's the stand-up going, man? When are you going to do some stand-up?"
+    },
+    {
+      "t": 2752.4,
+      "text": "[caller] I live in Boston. You going to do some stand-up out here? Yeah, I was just there, but I've gotta take the next call — but thank you. All right, thank you, thank you."
+    },
+    {
+      "t": 2765.2,
+      "text": "[caller] Later. Wow, dude, I couldn't improvise with Yoshi, I didn't know what to talk about. Hey — okay, whether you knew it or not: first of all, Yoshi hates Boston. Oh, no, no — he hates Philly."
+    },
+    {
+      "t": 2780.2,
+      "text": "Philly fans hate him. He likes Boston. I should have thrown in a Boston joke, but that would have been— No, I mean— that would have been very Yoshi. Dude, for you to even attempt that was pretty brave, man."
+    },
+    {
+      "t": 2791.2,
+      "text": "That Yoshi impersonation was pretty good. Gotta give love to everyone. Have you ever been to Germany? No. Do you want to go to Germany? Yeah, I want to travel everywhere. Do you? Sure, I'll go anywhere, that's my shit, man, I'll go anywhere, I don't give a fuck. It's just, I've already been to most places."
+    },
+    {
+      "t": 2809.4,
+      "text": "So if I'm going to go somewhere, I want to go somewhere new, where I haven't been. Why repeat? I don't know. Hey, are you ready? Yeah. It's like repeating trauma kind of shit."
+    },
+    {
+      "t": 2822.4,
+      "text": "Yeah. If you've been three times and it hasn't worked, why go again? It's not like — I don't want to go to a place where they're like, hey, don't do this shit when you're in my country."
+    },
+    {
+      "t": 2833.7,
+      "text": "It's like, if I were German and I came to America and some white-trash trucker dude was like, hey, in America, fuck you and da-da-da — I'd be like, fuck this, I don't want to be here. And it's like, dude, that's one person fucking it up for the whole country. Yeah, definitely."
+    },
+    {
+      "t": 2850.3,
+      "text": "Hey, welcome to DVDASA, who's this? What's up? What's up? [caller] How's it going, man? Who's this? Who's this? [caller] Nothing much, man. Who is this? [caller] I'm a big fan of the show. What's your name?"
+    },
+    {
+      "t": 2867.2,
+      "text": "[caller] Dwayne. You gotta talk into this part. Where are you calling from? That speaker. [caller] I'm calling from Bryan, Texas. Texas A&M. Get your fucking— what's this part? Talk to that speaker. What's up in Texas?"
+    },
+    {
+      "t": 2883.9,
+      "text": "Where's Bryan, Texas? Where's Bryan, Texas? [caller] Have you heard of Texas A&M? Yeah, my cousin goes there. Critter's cousin goes there. You guys have got a pretty good quarterback there too. What's the closest big city I'd have heard of?"
+    },
+    {
+      "t": 2902.5,
+      "text": "[caller] Fort Worth, Dallas. Houston's about an hour south of here. So what's going on in that part of Texas?"
+    },
+    {
+      "t": 2913.4,
+      "text": "[caller] Absolutely nothing. What are you doing right now? [caller] I just got back from Texas Tea Night — Long Island iced teas, half off tonight at an Irish bar here. Nice. And I just drank, and watched the San Antonio Spurs beat the Miami Heat."
+    },
+    {
+      "t": 2932.6,
+      "text": "Cool. You got a real question? [caller] I checked my Instagram and saw you all were looking for callers, and I'm going to lose everything tonight, so I called. You a little bit drunk right now?"
+    },
+    {
+      "t": 2946.2,
+      "text": "[caller] A little, yeah. How old are you? [caller] I'm 22. You ever fuck a hooker? [caller] No, I want you so bad, man. Are you a virgin? [caller] No, I'm not a virgin. But do you have a steady girlfriend, or what's going on with your sexual situation?"
+    },
+    {
+      "t": 2968.0,
+      "text": "[caller] No, I don't have a girlfriend, I mean— Are you open to fucking a hooker? [caller] I maybe fuck a new girl like every month or two. Okay. But that's about it. And then what happens?"
+    },
+    {
+      "t": 2980.9,
+      "text": "What do you mean, what happens? What's going on? You're not looking for a girlfriend? You're just young and full of cum? [caller] Crush and peace. Yeah, I mean, I'd have a girlfriend if I liked a girl—"
+    },
+    {
+      "t": 2991.5,
+      "text": "—but right now, all the girls I like, I don't like. So you just crush their pussies and move on to the next one? [caller] Yeah, basically. You sort of sound like an inconsiderate, selfish shithead to me, actually."
+    },
+    {
+      "t": 3006.7,
+      "text": "[caller] Yeah. And you're not? No, I'm not, I love women. I don't treat them like garbage like you. What? What? So what do you tell these women when you just fuck them, and what do you tell them when you move on?"
+    },
+    {
+      "t": 3022.2,
+      "text": "What do you say when they tell you they love you? [caller] When they tell you that they love you?"
+    },
+    {
+      "t": 3029.6,
+      "text": "[caller] I love you. Say that again? What do you tell these women to move on, when they tell you, oh, I love you, I like you, I want you to be my boyfriend?"
+    },
+    {
+      "t": 3039.3,
+      "text": "How do you break up with them? [caller] No one says that to me, man. Do you rate yourself as a lover? [caller] No, no one loves me. Do you consider yourself a good lover? [caller] Absolutely not, no."
+    },
+    {
+      "t": 3053.0,
+      "text": "[caller] No, dude, I come like in a minute. Yeah, boy, champion. All right, hold on. So what's going on with this thing? He's saying he comes in a minute. What are you at right now?"
+    },
+    {
+      "t": 3067.6,
+      "text": "[caller] 30, 40 seconds. How fast do you come? Oh, we already asked you. [caller] And that's taking my clothes off."
+    },
+    {
+      "t": 3076.5,
+      "text": "What are you at, B? [Bobby] I can go for like five minutes. Okay, so — is there nothing you can do to extend your time? [caller] I try. Do you try to hold out, or come as quick as possible? [caller] I do math, I think of my buddy, I do everything. What's the—"
+    },
+    {
+      "t": 3096.7,
+      "text": "—longest you think you've ever lasted? [caller] I don't know. Jack Daniels maybe prolongs me a few minutes. Hey — if you come in a minute, what's going on with that? Have you ever tried any techniques that last longer?"
+    },
+    {
+      "t": 3113.2,
+      "text": "Do you watch a lot of porn? [caller] Yeah, that's what I'm talking about. I've tried your technique, where you talked about holding onto your balls. Yeah. Underneath your balls, that muscle. Yeah. [caller] I've got that down, I've got it where I don't come—"
+    },
+    {
+      "t": 3126.7,
+      "text": "[caller] —okay, but I just don't stay hard after that. I don't know, like— do you think— [caller] I don't come, and I also don't stay hard. You're doing it too tight. Is there any part of you that has a — you know, and I don't know who you are, so you can tell me — do you have any gay tendencies at all?"
+    },
+    {
+      "t": 3151.6,
+      "text": "[caller] No, no. So no— um, I think it's my problem, like, I like girls too much, they're too hot to me. All right, but listen to me — you're 22 years old. Look, I used to come really fast too. So you come in a minute, you're 22, that's your sexual peak as a young man — you should be able—"
+    },
+    {
+      "t": 3170.7,
+      "text": "—to get hard immediately after that, you should be able to fuck. But you just told me you can't even keep your dick hard. ED. [caller] No bullshit, I didn't tell you that. What?"
+    },
+    {
+      "t": 3181.5,
+      "text": "Did you just say that? [caller] I didn't say I couldn't get my dick hard. I can get it hard pretty fast, I'm just saying I can't stay hard. What the fuck do you think that means, you retard?"
+    },
+    {
+      "t": 3194.1,
+      "text": "You just said you can't stay hard? Get this fucking shit off the phone, man. Fuck you, you dumb motherfucker. [caller] Oh yeah, I can't stay hard. Yeah, so how come you can't keep your dick hard?"
+    },
+    {
+      "t": 3204.9,
+      "text": "[caller] Because I can't stay hard. Fuck you, you dumb fuck. Alex, get me a seasoned lover, someone a little bit older. I can't talk to these 22-year-old shitheads. I can't believe — no women besides the married couple."
+    },
+    {
+      "t": 3218.2,
+      "text": "Every single person that calls is a male between 18 and 29, so that's tough. All right, please — no one's listening. No, no, no, talk to the fans again. Talk to the fans. We'd like some females to call."
+    },
+    {
+      "t": 3236.4,
+      "text": "When I was 18 and going cross-country with your brother and five other guys, we bought a '57 Chevy. What did we buy? Yes. Is it like a Winnebago, is that what it is?"
+    },
+    {
+      "t": 3251.7,
+      "text": "We bought that Chevy with the fucking trailer on the back. [Bobby] He's not a seasoned lover. Do you want to talk to him? No, tell him to go fuck himself. Dave says to go fuck yourself."
+    },
+    {
+      "t": 3262.0,
+      "text": "I can't talk to these fucking kids right now. And our friend's dad said, what the fuck are you doing, man, put this down, Jesus Christ. And you want to go back to the beanbag?"
+    },
+    {
+      "t": 3278.6,
+      "text": "No, just sit there and stop playing drums on everything. They warned us about Texas. They said horrible things happen in Texas. And they were right. We drove through — it might have even been his town. What'd you say — Bryan, Texas? Yes, it was some town on the way toward Fort Worth. A small town. And for those of you—"
+    },
+    {
+      "t": 3304.1,
+      "text": "—who've never driven across Texas, it is fucking huge, it's like half of the United States. You'll drive for hours and hours, go to sleep, drive hours and hours more, and still be in Texas."
+    },
+    {
+      "t": 3316.1,
+      "text": "So we stopped in town and went to Red Lobster. There were — it was me and your brother, and Joey and Brian. They went ahead, and it was just me and Mike."
+    },
+    {
+      "t": 3330.0,
+      "text": "And as we're crossing the street, we see this mom — she looks like she dresses at Kmart, just normal clothes, wandering down the street — and she just collapses, and a VW bus almost hits her."
+    },
+    {
+      "t": 3347.5,
+      "text": "So I run with Mike, we pick up this lady, and we're like, lady, are you okay? And she's like, yeah — both of you are sick, both of you are fucking disgusting. And we're like, lady, we just saved your life."
+    },
+    {
+      "t": 3361.6,
+      "text": "So we drag her out of the street, and we're like, fuck, what do we do with this lady? And this is when we were 19, 18 years old, right after high school."
+    },
+    {
+      "t": 3371.0,
+      "text": "You remember when we left? Yeah. And so we're like, fuck, we're 18 years old, and she must have been like 40-something. So we drag her back to the hotel, lay her on the bed, go through her purse, find her address book, and start calling — you know—"
+    },
+    {
+      "t": 3391.2,
+      "text": "—it's like 10 or 11 at night, and we start calling every single number in it. Hey, this woman, we just found her, her name is Anita — I remember her name, it's Anita — and she's just passed out. And every single person is like, don't call this number again. Then we found her mom's—"
+    },
+    {
+      "t": 3411.0,
+      "text": "—number, and they said, you should just call the police right now. So we're like, fuck. So we call the police, and we're trying to wake her up, like, hey, get out of bed — and there were five, like seven of us sharing this hotel room with two beds. And then the—"
+    },
+    {
+      "t": 3428.5,
+      "text": "—cops show up. [aside] The guy from Texas is really mad you hung up on him, he wants to talk to you again. Oh, tell him to go fuck himself. And so the police, the Fort Worth police, show up, and we're 18 years old, we'd never dealt with this kind of situation before."
+    },
+    {
+      "t": 3445.8,
+      "text": "And they walk in and go, oh, Anita. And we're like, what? And he's like, you guys got a fucking crack-whore on your bed. And we're like, what's a crack-whore? You mean a whore? He's like, no — because a whore fucks for money; this bitch Anita fucks for crack."
+    },
+    {
+      "t": 3464.4,
+      "text": "And we're like, what? And he's like, this bitch has HIV, she's got full-blown AIDS. And we're like, what? He's like, look at the track marks on her arm. And we're like, oh my God. And she wakes up and she's like, oh my God, fuck you motherfuckers, fuck you sick bastards. And they handcuff her and—"
+    },
+    {
+      "t": 3483.1,
+      "text": "—take her out. So now we have one — I know AIDS doesn't work like this — but we have one bed that a crack-whore with AIDS was on. I mean, what would you do? I'd ask for a new room. Yeah. No one slept on that bed. They didn't give us a new room, but there were seven guys sleeping on—"
+    },
+    {
+      "t": 3499.5,
+      "text": "—one tiny bed, no one on the other. All right, what have we got over here? [aside] This is Brian, he claims he's a seasoned lover. Oh, okay, cool, hold on. Oops. Hey, easy, huh?"
+    },
+    {
+      "t": 3512.4,
+      "text": "Jesus Christ, hold on. Hey, Brian, how's it going? [caller] Yo, Dave, it's Ryan, the antique dealer from Atlanta, from earlier. What's going on? [caller] Yeah, I want to tell you this story. Oh, okay, go ahead."
+    },
+    {
+      "t": 3531.2,
+      "text": "[caller] So I— I hang up on anyone that doesn't get to the story. [caller] I bought Death Blossom. You there? Yeah, go ahead. Hello? Yeah, go ahead. [caller] I bought Death Blossom from this asshole in Colorado."
+    },
+    {
+      "t": 3546.3,
+      "text": "[caller] He shipped it to me — a giant 36-by-36 print — and it comes in completely busted. Okay. [caller] Didn't insure it, et cetera, et cetera. That's a pretty lame story. [caller] But I wanted to know what happened with Bobby and Veruca James and Carol."
+    },
+    {
+      "t": 3566.0,
+      "text": "[caller] Like, what was the story with that? That's a good question. And you're lucky — Bobby is actually here to tell you what happened. Brian, why didn't you get the Death Blossom from me? Yeah, Brian, if you'd gotten the Death Blossom from Bobby."
+    },
+    {
+      "t": 3581.6,
+      "text": "[caller] Why? Because you guys only offer— Bobby, to anyone listening to the show right now: if you buy prints off eBay — if you didn't hear Brian's lame story just now — I've never received anything more immaculately packed than by Bobby."
+    },
+    {
+      "t": 3597.4,
+      "text": "I mean, he and Valentin wrap these fucking things with gloves on — there's no fingerprints. They wrap this shit up, there's foam on each side, it's insured. For those of you bitching about how much shipping is, it's because it's going to show up at your house—"
+    },
+    {
+      "t": 3614.1,
+      "text": "—pristine, immaculate, mint condition. You buy some shit off eBay, some fuckwad is going to wrap it, and it's going to show up all torn up, busted, whatever. But anyways — you can ask the Veruca James / Carol question."
+    },
+    {
+      "t": 3630.5,
+      "text": "Yeah, Brian, you there? [caller] Yeah, I'm here. Okay, so talk close to the phone. [caller] Oh, sorry about that. [Bobby] And Carol — to make it quick — Carol has never seen the episode. She knows about it—"
+    },
+    {
+      "t": 3645.6,
+      "text": "[Bobby] —and I kind of pretend like it never happened. Sort of like this phone call. [caller] I guess I understand. But back to the print thing — how do I get into these lotteries? I tried to get the last Bat print and it completely flopped."
+    },
+    {
+      "t": 3664.8,
+      "text": "[caller] They sell out in like 45 seconds. Yeah, I mean, just to be fair — it's not random, but it's whoever happens to purchase it at that time. Here, let me talk to— all right, I'm turning you over. Basically, the prints — I don't do them very often, and when I do, it's very sporadic. So for those of you who want to get in on the prints—"
+    },
+    {
+      "t": 3690.7,
+      "text": "—the print run is usually under 100, and I'll announce it all at the same time, on Twitter, Facebook, Instagram. And it's first come. I try to do it at a time that's good for anyone in Europe, New York, or L.A. But I usually give everyone a heads-up."
+    },
+    {
+      "t": 3712.9,
+      "text": "And it's really first come, first served. I don't know what to say, I'm trying to be fair to everyone. Look — if you want to buy a painting, then buy a painting, it's expensive. You can get it through — actually, nobody. If you want a print, we've released those through Trapeze Editions — that's Bobby's company—"
+    },
+    {
+      "t": 3737.9,
+      "text": "—and I'll usually announce that on my shit. And then, if you just want some art, I've got books, toys, posters that are fucking awesome at Upper Playground, they're like 10 bucks. So there's stuff for everybody. And you know, I put out shit once in a while — I just give it out—"
+    },
+    {
+      "t": 3759.2,
+      "text": "—for free. So look, try harder. And, you know, we're not closed off to bribes — we do accept Laker tickets, front-row seats, and other things. So be creative. Don't sit here and complain about the shit you don't have. If you want something, fucking get it."
+    },
+    {
+      "t": 3783.3,
+      "text": "Get what you want. You know how you get what you want? You fucking make it happen. You get to the movie theater, you show up to the front, and the guy says, sorry, Fast & Furious is sold out tonight."
+    },
+    {
+      "t": 3801.5,
+      "text": "You go, oh shit, it's sold out, and you go home and jerk off — that's option A. Option two: you buy a ticket for The Hobbit: An Unexpected Journey, and you walk into Fast & Furious."
+    },
+    {
+      "t": 3814.0,
+      "text": "I mean, there are ways around things. There are ways to get what you want. It's just: how fucking bad do you want it? You're a fucking antique dealer, you should know how to get rare objects."
+    },
+    {
+      "t": 3826.5,
+      "text": "Figure it out, bro. Thanks for your call. Damn, this motherfucker, man — he must be just calling nonstop. He wants me to talk about art and shit. That guy said he was a seasoned lover, and started asking me about prints off eBay. Fuck that motherfucker."
+    },
+    {
+      "t": 3849.3,
+      "text": "What do you think about people buying— I don't know. I just hope the antiquer — antiquing your shit — he was trying to get it. I don't think he— he wants a favor. He was calling in saying, I've been fucked over and I want the hook-up. You know what happens—"
+    },
+    {
+      "t": 3867.9,
+      "text": "—whenever I ask you for the hook-up? [Bobby] What? You say, fuck you. That's why I stopped asking. [laughing] That's a really good— What the fuck are you talking about? I'll ask you after the show."
+    },
+    {
+      "t": 3879.4,
+      "text": "That's what I would like to hear. If you just don't want to do it, just say, fuck you. All right — fuck you. [Bobby] Okay."
+    },
+    {
+      "t": 3891.1,
+      "text": "You know, with this Instagram shit — I don't even know, like Instagram, all the photo apps, the filters, all the cool Photoshop tricks, the Leica lenses, all the really expensive photo equipment."
+    },
+    {
+      "t": 3910.6,
+      "text": "Photography is an art. We've had guys like Estevan Oriol on here, who's my favorite photographer. But to be a photographer right now is so fucking hard, because everyone is a photographer."
+    },
+    {
+      "t": 3924.5,
+      "text": "Everyone has a camera on their phone, everyone uses filters and shit to make their stuff look better. I'm going to give you some advice right now, ladies and gentlemen. We live in a world where people don't pay what they used to for photographs. When you have an—"
+    },
+    {
+      "t": 3946.8,
+      "text": "—expensive wedding, or you need something shot, you contact a fucking awesome, artistic, amazing photographer, he gives you his price, and then you go, fuck it, I'll just hire my cousin instead. I'm sorry, but that's the world we live in. It is an art, and I appreciate it, but if you're a—"
+    },
+    {
+      "t": 3966.9,
+      "text": "—photographer right now out there struggling to make a living, with the equipment, still developing film, this and that — I'm going to give you some fucking advice, and you can either listen to me, or end up working at a used-car dealership selling Kias."
+    },
+    {
+      "t": 3986.9,
+      "text": "Gay marriages are being legalized all over the world right now. I don't know where — where's the place they're legalized? Germany, France, Vermont. In the same way big-wave chasers go to certain parts of the world to ride the biggest wave — they follow the weather charts, they follow where the big waves are."
+    },
+    {
+      "t": 4010.8,
+      "text": "As a photographer who wants to make a living in this world, you should follow where they legalize gay marriage, because where gay marriage is legalized, there are going to be gay weddings. And gays spare no cost for a gay wedding. They're going to have big, elaborate, well-produced, well-planned weddings — and of course, because—"
+    },
+    {
+      "t": 4038.2,
+      "text": "—they're making history, having a wedding that makes a statement in a place where it wasn't once legal, of course they're going to have huge weddings, and of course they're going to hire the best photographers. So as a photographer, get yourself a gay suit, get to the legalized gay zones, and photograph gay weddings."
+    },
+    {
+      "t": 4059.5,
+      "text": "You'll make a nice paycheck, and then you can fund your photographs of street corners and your feet in the sand. Next caller. Who's this? [aside] A seasoned lover. Oh — I hope it's not an antique dealer again."
+    },
+    {
+      "t": 4080.0,
+      "text": "Who is this? Who are you? Who is this? Who is this? Who the fuck are you? [caller] I'm a cum-puppy. You're a cum-puppy? [caller] Yes I am, sir. Where are you calling from?"
+    },
+    {
+      "t": 4102.9,
+      "text": "[caller] Pennsylvania. Pennsylvania — and what do you do in Pennsylvania? [caller] I take shit on people's chests. Have you ever pushed your dick backwards — soft or hard — so that it touches your butthole? [caller] Only soft, I prefer soft. Soft, and you've done it?"
+    },
+    {
+      "t": 4124.8,
+      "text": "[caller] Of course. Have you not? No, I have — that's why I'm asking you, you dumb fuck. When you shit on someone's chest, what do you do afterwards? [caller] Eat it off, of course. You eat it off. So whose chest are you shitting on?"
+    },
+    {
+      "t": 4140.2,
+      "text": "Your mom's, or your dad's? [caller] My sister's. You like that? [Bobby] He's good. What are you talking about? [caller] Incest is best. Of course you'd shit on it. I didn't think of that. [caller] Exactly. So tell me what's going on. What's going on in Pennsylvania, besides you shitting on your sister's chest? [caller] Oh, I was—"
+    },
+    {
+      "t": 4161.0,
+      "text": "[caller] —just staring at my fish tank, you know, relaxing. Love a fish tank. Yeah. When's the last time you had sex with someone besides your sister — or yourself?"
+    },
+    {
+      "t": 4174.3,
+      "text": "[caller] Uh — approximately 26 hours ago. And who was this person? Who was this guy? [caller] Uh, my parent's — her message — like, girlfriend. All right, let's get this fucking idiot off the phone. It's like — we have one phone line right now, so it must be very — we have a call coming in every second, so it's pretty hard to get in."
+    },
+    {
+      "t": 4199.7,
+      "text": "Yeah. Why would you call and just — yeah, chillaxing? [caller] Looking at my fish tank, I don't know, I guess I was— I'm trying to think if I ever called into a radio show just to hear my voice on the radio."
+    },
+    {
+      "t": 4215.7,
+      "text": "Maybe. Yeah? Plus, I think you're shocked you got in. Is that— and they're probably waiting for you to kind of— you ever do that? You call, like, hey, I'm in love with my girlfriend—"
+    },
+    {
+      "t": 4226.1,
+      "text": "—can you play some Maná for her right now? This one's going out from Valentin. Maná. No? No, no, no, never? Yeah. I think— we used to call. What'd you call in for?"
+    },
+    {
+      "t": 4239.6,
+      "text": "Well, we'd also call our parents' friends and be the NEA — National Eats Association — to find out how often they had sex and stuff. And what? They wouldn't hang up on you? [Bobby] No, some of the moms would tell us all about it."
+    },
+    {
+      "t": 4252.1,
+      "text": "Some would be like, dude, Dave, your mom told us she fucks your dad like five times a week. It was the greatest thing ever. All right, I'm going to try this call thing one more time."
+    },
+    {
+      "t": 4263.7,
+      "text": "If it's a shithead, I'm just going to stay off the phones. Hey, hello? Who's this? Hello? [caller] Yeah, hi. Hey, it's Justin. Hey, Justin, how's it going? What are you doing tonight? [caller] Oh, you know, just hanging out with myself."
+    },
+    {
+      "t": 4282.2,
+      "text": "I like this guy. I think we have a type. Okay. Where is 'hanging out by yourself' happening right now? [caller] Uh, that's the second floor of my grandparents' house. And where is your grandparents' house? [caller] In Wisconsin. Oh, Wisconsin. So tell me what's going on — what are your plans for the evening?"
+    },
+    {
+      "t": 4311.2,
+      "text": "[caller] You know, I didn't really have any plans. I'm going to fucking kill you. If you gave me your address right now, I'd come to your house and skull-fuck you right now. Would you like that?"
+    },
+    {
+      "t": 4324.0,
+      "text": "[caller] Skull-fuck? Skull — like stick my dick in your eye socket. [caller] No, no, no, no, no. Maybe my mouth."
+    },
+    {
+      "t": 4336.5,
+      "text": "I love our gay fans. What's going on — did you have a question for us, or do you just want to be a shithead? [caller] Well, I was kind of hoping you guys would ask me questions. All right — have you— [caller] I haven't been with you guys since KGB, so I haven't really been— I'm not listening to the show right now—"
+    },
+    {
+      "t": 4364.7,
+      "text": "[caller] —so you have to recap me, all right, if you don't mind. Hey, fuck-face, the second you don't answer one of my questions, I'm hanging up on you. [caller] Okay, yes sir. Have you ever used the N-word before? [caller] Yes. Who were you referring to? [caller] Um, well, it depends. I was either probably talking to a white—"
+    },
+    {
+      "t": 4388.5,
+      "text": "[caller] —person, or playfully talking to a black person. Do you know any black people? [caller] I've never racially called someone the N-word. Maybe in my head. That's a very honest answer. What's the worst thing you've ever done in your life?"
+    },
+    {
+      "t": 4411.7,
+      "text": "[caller] Killed my parents— to tell you this — this is my grandparents'. The worst thing I've ever done in my life? The worst. How old are you? [caller] I'm 28. What the fuck are you doing living at your grandparents' house?"
+    },
+    {
+      "t": 4424.8,
+      "text": "Get a fucking job, you shithead. [caller] I have lupus. You have lupus? Oh, now you're making me feel like an asshole. [Bobby] Dude, you're such a jerk. Isn't that like the werewolf disease? What's lupus?"
+    },
+    {
+      "t": 4437.3,
+      "text": "Isn't that where your hands are all hairy and shit? What? Sorry, educate me about lupus. Are you lying about the lupus? Are you lying about that? Okay, tell me about the lupus."
+    },
+    {
+      "t": 4450.9,
+      "text": "Tell me in two seconds what lupus is. [caller] It's an autoimmune disorder — pretty much your immune system just attacks your body and makes your life awful. With the lupus, are you able to maintain a strong erection?"
+    },
+    {
+      "t": 4470.8,
+      "text": "[caller] Yeah. You're able to get boners? [caller] I think it actually gives me more erections. Okay. So what is your life expectancy?"
+    },
+    {
+      "t": 4489.9,
+      "text": "You're giving me lupus over the fucking phone, asshole. What is your life expectancy? [caller] Well, before medication and shit, it was supposedly like five years after the diagnosis. Okay. [caller] And I don't have insurance, so probably like three years or something."
+    },
+    {
+      "t": 4509.0,
+      "text": "So you're telling me you're going to be dead in three years. I'm talking on the phone with a dead man. [caller] I could go into remission. Well, most people don't look at mortality the way you do right now."
+    },
+    {
+      "t": 4524.9,
+      "text": "I mean, you're going to be dead in a few years. How do you want to spend that time? What do you want to do with your life? [caller] I've never had lupus or a disease like that, I have no idea how I'd react."
+    },
+    {
+      "t": 4536.0,
+      "text": "I'm going to guess — I don't want to be mean to you — I'm going to guess I'd charge at life and do something crazy, and then just go out in a blaze of glory."
+    },
+    {
+      "t": 4551.8,
+      "text": "But like I said, I wouldn't know. Maybe I'd be at my grandparents' house too, I don't know. What are you going to do? [caller] I mean, it's— At first you're terrified, right? [caller] Right. Because you're like—"
+    },
+    {
+      "t": 4566.1,
+      "text": "—you feel like you're dying all the time, on top of thinking you might die. And so you— what do you look like? Do you look sickly? [caller] That's really crippling, but I look normal."
+    },
+    {
+      "t": 4576.1,
+      "text": "[caller] That's the funny thing about it too — nobody fucking believes you, because you look — generally, you look fine, you know? So are you tired all the time? How does it affect you physically?"
+    },
+    {
+      "t": 4587.7,
+      "text": "[caller] A lot. Anxiety, panic attacks, exercise intolerance. It just sucks, my whole body hurts a lot. Some days I'll be relatively okay, other days it just feels like you're fucking dying."
+    },
+    {
+      "t": 4607.0,
+      "text": "So you feel like you're dying, but you look normal. [caller] Yeah. I get this little rash on my cheeks, called a lar rash— Herpes? [caller] —or a butterfly rash, people call it."
+    },
+    {
+      "t": 4623.4,
+      "text": "Listen, man — I— that fucking sucks. I don't know what I would do if I had what you had. What do you want to do with your life? [caller] Well, I do art. So I just fucking—"
+    },
+    {
+      "t": 4637.9,
+      "text": "What kind of art do you mean? [caller] I just keep doing it, because nothing else fucking works out for me, so I just keep aiming, you know?"
+    },
+    {
+      "t": 4649.1,
+      "text": "[caller] I paint a lot of chicks. Do you fuck a lot of chicks? I'm guessing no, because you live at your grandparents' house, but I could be wrong. [caller] Yeah, it slowed down a little bit since I've been living at my grandparents' house."
+    },
+    {
+      "t": 4664.5,
+      "text": "Do you wear a condom when you fuck? [caller] What's that? Do you wear a condom when you fuck? [caller] I don't like to."
+    },
+    {
+      "t": 4676.6,
+      "text": "[caller] I mean, you know, it depends on who I'm with. And do you have a girlfriend? Can you spread it — if you get a girl pregnant, does the kid have a high chance of having lupus too?"
+    },
+    {
+      "t": 4694.1,
+      "text": "[caller] I have no fucking clue. The thing is, lupus generally is like — white people aren't supposed to get it. Who gets lupus? [caller] It's like Asian women who get it. Oh, I like Asian women."
+    },
+    {
+      "t": 4708.9,
+      "text": "[caller] And that's why, for the longest time, I thought— You know why you have lupus? [caller] Yeah. It's because you thought the N-word at people."
+    },
+    {
+      "t": 4720.8,
+      "text": "Listen — does lupus also infect you to make you boring? [caller] Make me what? Boring. Listen, I feel bad for you, I want you to say right now— [caller] Yeah, I've got a question. What do you got?"
+    },
+    {
+      "t": 4739.2,
+      "text": "[caller] I've got a question for you. Okay, all right. [caller] So, I know you went down and did ayahuasca, right? Yes. [caller] I had this dream — I don't know, it was a few years ago—"
+    },
+    {
+      "t": 4754.6,
+      "text": "[caller] —but I was out, it was like late at night— If you weren't dying, I would have hung up on you a long time ago. Is there something you want to tell me? I'll let you say this final piece to the whole world, and whoever's listening — the boy from Wisconsin—"
+    },
+    {
+      "t": 4773.0,
+      "text": "—who lives in his grandparents' house, who has lupus. What do you have to say to the world right now, this moment, before I hang up on you?"
+    },
+    {
+      "t": 4787.0,
+      "text": "[caller] Well, I'd say 'fuck it' — that's what I'd say. But I just — I had this dream, I was out, in the ocean, and it was dark, and you were there, out in the waves with me, and we were just riding these waves—"
+    },
+    {
+      "t": 4803.1,
+      "text": "[caller] —and sitting there, and it was strange, and all I could think was — after I heard you did that ayahuasca — I wondered if at any point, when he was on that ayahuasca, he was floating out there in the waves, riding these waves."
+    },
+    {
+      "t": 4818.7,
+      "text": "[caller] And somehow we crossed paths while I was dreaming. And then I went on shore and I fought all these shadow people. I thought maybe you might recall something like that. And did we touch at any point? Were our hands holding? Were our dicks touching?"
+    },
+    {
+      "t": 4836.8,
+      "text": "[caller] Like, we were just there? No. No? That would be ridiculous? I don't think it happened. [Bobby] I think David recalls that from your trip there was a lot of gay sex. The craziest part of this entire phone call is the fact that you're in the ocean — in Wisconsin. I don't know what to tell you, man."
+    },
+    {
+      "t": 4860.0,
+      "text": "I really, really want to hang up on you, but I feel like shit, because you're dying — and we're all dying, actually, we could all die right now. [Bobby] I think you're already dead inside. That's very mean, what you just said, Bobby, but — yeah, you're correct. [caller] I am dead inside. Why would you say that right now?"
+    },
+    {
+      "t": 4878.1,
+      "text": "[Bobby] You're always claiming it, so I'm just repeating what you're saying. You don't think I'm dead inside? [caller] I don't think so. Thanks, Bobby, you're sweet. See — Bobby's sweet to me, not like you, asshole. Anyways, keep up with the paintings. Listen to me, listen to me — keep up with the painting. Paint as if you're going to die tomorrow—"
+    },
+    {
+      "t": 4900.5,
+      "text": "—and keep fighting those shadow people. And next time, when you see me in the ocean in the black water, touch dicks with me. Thanks for your call."
+    },
+    {
+      "t": 4911.4,
+      "text": "All right, I don't know if we should take more calls, I don't know about this. So I was thinking earlier today — what's our demographic, right? Who's listening to our show? Are they young men? Are they men who have jobs? Are they homeless? [aside] 5% have lupus."
+    },
+    {
+      "t": 4936.5,
+      "text": "Look, man — 0% female. Somebody look up lupus real quick so I can— I think I heard somewhere it's called the werewolf disease. I think he's right, that white people aren't supposed to get it, I think it's like an Asian— why is that? It's like some painful shit where you die within a few years."
+    },
+    {
+      "t": 4958.8,
+      "text": "Look at me, trying to talk about this shit like I know what it is — I just heard about it five seconds ago. [reading] Dr. Joe— it can affect any part of the body, occurs from autoimmune inflammation and tissue damage. Oh — harms the heart, joints, skin, lungs, blood vessels, liver, kidneys—"
+    },
+    {
+      "t": 4980.0,
+      "text": "[reading] —nervous system, and the tip of your penis. The course of the disease is unpredictable, with periods of illness called flares alternating with remissions. So it's basically an unpredictable roller-coaster of pain and death. All right, well, I'll end the show with this roller-coaster of pain and death."
+    },
+    {
+      "t": 5001.5,
+      "text": "What was that guy's name — Brian? [reading] Lupus is Latin for wolf. Oh. I think they call it the werewolf thing because the hair grows out of all parts of your body. It was thought to be caused by the bite of a wolf — this may be because of the distinctive rash. Once full-blown, the round, disc-shaped rashes—"
+    },
+    {
+      "t": 5019.1,
+      "text": "[reading] —heal from the inside out, leaving a bite-like imprint, so it looks like you have a wolf bite. I'm not scared. I'll just say this — I was fucking with our last caller who had lupus for a little bit, but I'll say this, because people—"
+    },
+    {
+      "t": 5039.2,
+      "text": "[Bobby, off-topic] Oh, that's disgusting. One of the things people ask me constantly is how my life changed since I became rich. And for those of you who haven't heard me on Howard Stern, or Barbara Walters, or even on this show — we make a choice."
+    },
+    {
+      "t": 5057.4,
+      "text": "We're all fucking dying. We're all rich, we're all poor. You make a fucking choice every single day about how you want to choose. People go, my time is precious. Your time is precious whether you're poor or rich. You're going to spend that time with your family, your friends, having a good time, working — you make that choice."
+    },
+    {
+      "t": 5079.9,
+      "text": "This motherfucker that just called me — he might be dead in three years, five years, who knows. He might beat it and live for 100 years, who knows. He might be dead tonight. He might be dead tonight. You might be dead tonight — definitely. So it doesn't fucking matter. You look at yourself in the mirror right now, and — whatever, life is a—"
+    },
+    {
+      "t": 5104.2,
+      "text": "—fucking game. The glassblower that called in thought he was going to make it as an artist — he's working as a car salesman at a Kia dealership. Whatever fucking move you're going to make in this life, make it now, make it tonight, no hesitation. Do not spend any time thinking about it, just fucking do it and live it. We can all go tomorrow. This fucker who just called me with—"
+    },
+    {
+      "t": 5132.2,
+      "text": "—lupus, if you're listening now: get the fuck out of your grandparents' house. Whatever moves you're going to make in this life, do not make any fucking excuses. Fucking go for it. Just do it."
+    },
+    {
+      "t": 5148.9,
+      "text": "We're all going to be dead soon. Thanks for listening. DVDASA — we'll be back next week with more depressingly uplifting news."
+    },
+    {
+      "t": 5163.4,
+      "text": "[announcer voice] Goodbye. And that's our show for today. Thanks for listening. You can catch all of David's shenanigans at David Choe on Twitter. You can perv out on Asa at Asa Akira on Twitter. Tune in to DVDASA for Trivia with Bobby."
+    },
+    {
+      "t": 5193.4,
+      "text": "And always remember to fuck me double vag, fuck me double anal, and fuck all sensitive artists."
+    }
+  ]
+}
