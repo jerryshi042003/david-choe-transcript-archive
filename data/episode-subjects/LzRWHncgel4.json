@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "LzRWHncgel4",
+ "title": "Discover David Choe's Sketching Techniques",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "David Choe (source-level channel attribution only; line-level performer unresolved)",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "David Choe (source-level channel attribution only; line-level performer unresolved) recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "truncation",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "truncation is included in this route’s human-reviewed themes list.",
+   "reading": "truncation is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

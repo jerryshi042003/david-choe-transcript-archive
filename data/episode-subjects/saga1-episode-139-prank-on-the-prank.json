@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-139-prank-on-the-prank",
+ "title": "Episode 139 — Prank on the Prank",
+ "on_show": [
+  {
+   "name": "Money Mark",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 23,
+   "reading": "Money Mark is explicitly introduced on this recording and has the same evidence on 23 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "At the Ranch, David Choe, Steve Lee, Money Mark and Ceci move between music, food, identity, work and family stories.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Money Mark is explicitly introduced on this recording.",
+   "reading": "Money Mark recurs in 50 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3650 seconds",
+   "context": "Bobby Trivia",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "the Ranch",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1180 seconds",
+   "context": "renting the Ranch",
+   "reading": "the Ranch is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

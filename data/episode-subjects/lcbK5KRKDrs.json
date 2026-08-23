@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "lcbK5KRKDrs",
+ "title": "David Choe Explores the Imperfect Perfection of Michael Mann’s Heat",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "fear",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "fear is included in this route’s human-reviewed themes list.",
+   "reading": "fear is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

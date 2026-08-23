@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "wcMNw16dQKo",
+ "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "China",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)",
+   "reading": "China is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "hitchhiking",
+   "recurring_routes": 12,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Hitchhiking Across China: Thumbs Up Season 3 (Part 2/5)",
+   "reading": "hitchhiking is a recurring theme across 12 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker-label provenance",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker-label provenance is included in this route’s human-reviewed themes list.",
+   "reading": "speaker-label provenance is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "hospitality",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Rides, a rooster encounter, improvised performance and local hospitality sit beside David's repeated sexual, racial, religious and class generalizations.",
+   "reading": "hospitality is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "sexual objectification",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "sexual objectification is included in this route’s human-reviewed themes list.",
+   "reading": "sexual objectification is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "translation uncertainty",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "translation uncertainty is included in this route’s human-reviewed themes list.",
+   "reading": "translation uncertainty is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-at-comic-con-2013-with-david-choe-and-asa-akira",
+ "title": "At Comic Con 2013",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe, Asa Akira, Bobby NAMBLA, Money Mark and Critter interact with costumed fans, test Ask Asa, distribute stickers and prints, and run audience trivia.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe, Asa Akira, Bobby NAMBLA, Money Mark and Critter interact with costumed fans, test Ask Asa, distribute stickers and prints, and run audience trivia.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Carol",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1920 seconds",
+   "context": "Carol question",
+   "reading": "Carol recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego Comic-Con",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "DVDASA's first live show is recorded at San Diego Comic-Con amid severe microphone problems, crowd overlap and visually dependent bits.",
+   "reading": "San Diego Comic-Con is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "DVDASA's first live show is recorded at San Diego Comic-Con amid severe microphone problems, crowd overlap and visually dependent bits.",
+   "reading": "San Diego is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

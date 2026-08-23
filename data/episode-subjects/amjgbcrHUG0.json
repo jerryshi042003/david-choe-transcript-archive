@@ -1,0 +1,107 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "amjgbcrHUG0",
+ "title": "David Choe on The Steebee Weebee Show [Ep 30, part 1]",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Steve Lee and David Choe begin a warehouse conversation by clearing resentment about recording boundaries, Mangchi support and a $2,000 monthly stipend.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 559 seconds",
+   "context": "Money Mark first guest",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1027 seconds",
+   "context": "Joe Rogan praise",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "James Jean",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2535 seconds",
+   "context": "James Jean print",
+   "reading": "James Jean recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Macaulay Culkin",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 369 seconds",
+   "context": "Macaulay Culkin prop",
+   "reading": "Macaulay Culkin recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Khalyla Kuhn",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Khalyla Kuhn recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "New York",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "New York is included in this route’s human-reviewed places list.",
+   "reading": "New York is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Detroit",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2642 seconds",
+   "context": "Detroit resentment",
+   "reading": "Detroit is a recurring place across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "privacy is included in this route’s human-reviewed themes list.",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-022-with-david-choe-and-asa-akira",
+ "title": "Episode 022",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2131 seconds",
+   "context": "Money Mark, Kid Koala, and Dan the Automator",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Zell",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 975 seconds",
+   "context": "Zell arrives",
+   "reading": "Zell recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Dan the Automator",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2131 seconds",
+   "context": "Money Mark, Kid Koala, and Dan the Automator",
+   "reading": "Dan the Automator recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Saber",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1733 seconds",
+   "context": "Upper Playground, RETNA, and Saber",
+   "reading": "Saber recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Murray",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Trivia covers middle names, Adam Sandler films, and Bill Murray.",
+   "reading": "Bill Murray recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harris Wittels",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2141 seconds",
+   "context": "Harris Wittels gives one piece of comedy advice",
+   "reading": "Harris Wittels recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "RETNA",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1733 seconds",
+   "context": "Upper Playground, RETNA, and Saber",
+   "reading": "RETNA recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Francisco",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "San Francisco is included in this route’s human-reviewed places list.",
+   "reading": "San Francisco is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Beverly Hills",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Beverly Hills is included in this route’s human-reviewed places list.",
+   "reading": "Beverly Hills is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Philadelphia",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 105 seconds",
+   "context": "Asa and Yoshi travel to Philadelphia",
+   "reading": "Philadelphia is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2780 seconds",
+   "context": "Hotels, privacy, and who knows the address",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "consent",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "consent is included in this route’s human-reviewed themes list.",
+   "reading": "consent is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "honesty",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4200 seconds",
+   "context": "Honesty is offered as the central promise",
+   "reading": "honesty is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "artist identity",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "artist identity is included in this route’s human-reviewed themes list.",
+   "reading": "artist identity is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

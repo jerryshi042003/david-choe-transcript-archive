@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "ISxnJeQ7LdI",
+ "title": "DAVID CHOE Guest Hosts to Unpack TODD McFARLANE's G.I. JOE Comic. Why Did Todd Get Fired?",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Ed Piskor",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Ed Piskor recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Rugg",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Jim Rugg recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Todd McFarlane",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Joe #60 becomes a discussion of Todd McFarlane and Larry Hama's disputed editorial history, 1980s toy culture, David Choe's uncensored childhood theft and hygiene memories, the mini-comic G.I.",
+   "reading": "Todd McFarlane recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

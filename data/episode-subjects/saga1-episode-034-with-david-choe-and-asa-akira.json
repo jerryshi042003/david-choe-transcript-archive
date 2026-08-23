@@ -1,0 +1,116 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-034-with-david-choe-and-asa-akira",
+ "title": "Episode 034",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "DVDASA's first call-in experiment is hosted by David Choe with Alex Tarrant, Critter, Valentin, and Bobby Namba; Asa Akira is absent for work.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 7750 seconds",
+   "context": "Harry Kim supplies a de-escalation example",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3166 seconds",
+   "context": "The Joe Rogan Experience led him to DVDASA",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed editorial summary",
+   "context": "DVDASA's first call-in experiment is hosted by David Choe with Alex Tarrant, Critter, Valentin, and Bobby Namba; Asa Akira is absent for work.",
+   "reading": "Valentin recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Alex Tarrant",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "DVDASA's first call-in experiment is hosted by David Choe with Alex Tarrant, Critter, Valentin, and Bobby Namba; Asa Akira is absent for work.",
+   "reading": "Alex Tarrant recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego Comic-Con",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Guéra, and Mark Millar; a provisional San Diego Comic-Con appearance leads to In the Mix in Poway and a tribute to Asa's production labor.",
+   "reading": "San Diego Comic-Con is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Guéra, and Mark Millar; a provisional San Diego Comic-Con appearance leads to In the Mix in Poway and a tribute to Asa's production labor.",
+   "reading": "San Diego is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Chicago",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3112 seconds",
+   "context": "Dan calls from Chicago",
+   "reading": "Chicago is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Philadelphia",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2760 seconds",
+   "context": "An eighteen-year-old Philadelphia artist",
+   "reading": "Philadelphia is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Switzerland",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Racial misidentification at an airport and in Switzerland culminates in the Ai Weiwei comparison and a search for better responses.",
+   "reading": "Switzerland is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

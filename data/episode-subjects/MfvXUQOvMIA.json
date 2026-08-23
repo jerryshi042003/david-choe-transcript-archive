@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "MfvXUQOvMIA",
+ "title": "David Choe's Controversial Opinion on Star Wars",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Bruce Lee",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "He connects those examples to scarcity: when Asian people appear rarely in television and film, Bruce Lee, Long Duk Dong and Gung Ho-style portrayals can become generalized identities.",
+   "reading": "Bruce Lee recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

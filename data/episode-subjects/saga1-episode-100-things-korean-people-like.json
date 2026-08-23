@@ -1,0 +1,152 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-100-things-korean-people-like",
+ "title": "Episode 100 — Things Korean People Like",
+ "on_show": [
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 152 seconds",
+   "context": "Critter's secret audition",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Steve Lee's explicit refusal controls the proposed RealDoll gift even when the cast thinks overriding him would be funny.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 9935 seconds",
+   "context": "Money Mark and Check Your Head",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "They call it 099¼, 099A and 099B, reserving the milestone for Bobby Lee's return.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2518 seconds",
+   "context": "Anthony Bourdain goes to Sizzler",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eddie Huang",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8400 seconds",
+   "context": "Eddie Huang, TED and Bang Bus",
+   "reading": "Eddie Huang recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Lisa Ling",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8648 seconds",
+   "context": "Lisa Ling and private pregnancy trivia",
+   "reading": "Lisa Ling recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Roy Choi",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2499 seconds",
+   "context": "Roy Choi's chicken stop changes the plan",
+   "reading": "Roy Choi recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Aubrey Plaza",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 471 seconds",
+   "context": "Aubrey Plaza text and diminished celebrity fantasy",
+   "reading": "Aubrey Plaza recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2012 seconds",
+   "context": "A reductive account of the Los Angeles uprising",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "the Ranch",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "The opening continues the Ranch record: David tried to regiment isolation into painting and reading, removed phone, television and porn, then describes h…",
+   "reading": "the Ranch is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Oakland",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2077 seconds",
+   "context": "Oakland, Telegraph Avenue and mysterious drumming",
+   "reading": "Oakland is a recurring place across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Paris",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2658 seconds",
+   "context": "Paris Baguette and French aspiration",
+   "reading": "Paris is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

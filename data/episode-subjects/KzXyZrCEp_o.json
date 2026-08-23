@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "KzXyZrCEp_o",
+ "title": "Fighting Depression With Thai Snacks and Art",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 52 seconds",
+   "context": "born and raised in Los Angeles",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Target",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 47 seconds",
+   "context": "Target / Sam’s Club / Walmart / Costco / Home Depot",
+   "reading": "Target is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "depression",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Fighting Depression With Thai Snacks and Art",
+   "reading": "depression is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

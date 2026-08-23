@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "aPzKoSLopmc",
+ "title": "David choe asmr live",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "transcript limitation",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "transcript limitation is included in this route’s human-reviewed themes list.",
+   "reading": "transcript limitation is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

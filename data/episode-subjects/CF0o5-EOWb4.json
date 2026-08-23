@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "CF0o5-EOWb4",
+ "title": "The Unofficial Choe Show Trailer on Hulu",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "fear",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 0 seconds",
+   "context": "speaker reports fear",
+   "reading": "fear is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "lying",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 30 seconds",
+   "context": "lying included in the burden",
+   "reading": "lying is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

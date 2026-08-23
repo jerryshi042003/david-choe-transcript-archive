@@ -1,0 +1,202 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-050-with-david-choe-and-asa-akira",
+ "title": "Episode 050",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  },
+  {
+   "name": "Critter",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 38,
+   "reading": "Critter is explicitly introduced on this recording and has the same evidence on 38 routes."
+  },
+  {
+   "name": "Money Mark",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 23,
+   "reading": "Money Mark is explicitly introduced on this recording and has the same evidence on 23 routes."
+  },
+  {
+   "name": "Valentin",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 15,
+   "reading": "Valentin is explicitly introduced on this recording and has the same evidence on 15 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Critter is explicitly introduced on this recording.",
+   "reading": "Critter recurs in 70 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Chang invited him after Anthony Bourdain reportedly withdrew.",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Chang invited him after Anthony Bourdain reportedly withdrew.",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Valentin is explicitly introduced on this recording.",
+   "reading": "Valentin recurs in 11 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Pamela Adlon",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Public references are repaired to Urth Caffé, Fry's Electronics, Jessie Andrews, Pamela Adlon, Topco Sales, Boogie Nights, and Pedro Friedeberg.",
+   "reading": "Pamela Adlon recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Smith",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 340 seconds",
+   "context": "Kevin Smith and future guests previewed",
+   "reading": "Kevin Smith recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Zell",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3058 seconds",
+   "context": "Zell leaves Instagram after harassment",
+   "reading": "Zell recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jessie Andrews",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Public references are repaired to Urth Caffé, Fry's Electronics, Jessie Andrews, Pamela Adlon, Topco Sales, Boogie Nights, and Pedro Friedeberg.",
+   "reading": "Jessie Andrews recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "studio",
+   "recurring_routes": 25,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 215 seconds",
+   "context": "Concrete walls and a studio rebuild",
+   "reading": "studio is a recurring place across 25 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Mexico",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 131 seconds",
+   "context": "David returns from a month in Mexico",
+   "reading": "Mexico is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Mexico City",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1621 seconds",
+   "context": "Mexico City visitors and Quiet C",
+   "reading": "Mexico City is a recurring place across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Copenhagen",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 148 seconds",
+   "context": "Copenhagen, Norway, and possible reporting travel",
+   "reading": "Copenhagen is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "America",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…Copenhagen for MAD Symposium, Norway for a mural, and possibly Central America for reporting.",
+   "reading": "America is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Norway",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 148 seconds",
+   "context": "Copenhagen, Norway, and possible reporting travel",
+   "reading": "Norway is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Stockholm",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4105 seconds",
+   "context": "Stockholm-syndrome rhetoric rejected",
+   "reading": "Stockholm is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

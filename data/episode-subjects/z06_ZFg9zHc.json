@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "z06_ZFg9zHc",
+ "title": "My favorite version of the #dvdasa theme song featuring cat man#mangchi",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "chosen community",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "chosen community is included in this route’s human-reviewed themes list.",
+   "reading": "chosen community is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

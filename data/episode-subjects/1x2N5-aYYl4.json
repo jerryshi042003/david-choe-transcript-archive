@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "1x2N5-aYYl4",
+ "title": "David Choe Interview - myFinBec 2013, Graffiti Art & Wine Documentary",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Japan is included in this route’s human-reviewed places list.",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Afghanistan",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Afghanistan is included in this route’s human-reviewed places list.",
+   "reading": "Afghanistan is a recurring place across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Canada",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Canada is included in this route’s human-reviewed places list.",
+   "reading": "Canada is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

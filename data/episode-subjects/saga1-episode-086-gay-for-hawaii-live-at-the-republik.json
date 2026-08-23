@@ -1,0 +1,62 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-086-gay-for-hawaii-live-at-the-republik",
+ "title": "Episode 086 — Gay for Hawaii Live at the Republik",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3863 seconds",
+   "context": "Wolverine gift and Critter beer",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Banksy",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4250 seconds",
+   "context": "Banksy and Akira name origin",
+   "reading": "Banksy recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "studio",
+   "recurring_routes": 25,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 361 seconds",
+   "context": "Downtown studio to Oahu",
+   "reading": "studio is a recurring place across 25 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hawaii",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Episode 086 — Gay for Hawaii Live at the Republik",
+   "reading": "Hawaii is a recurring place across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

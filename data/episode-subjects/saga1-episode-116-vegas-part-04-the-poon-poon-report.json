@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-116-vegas-part-04-the-poon-poon-report",
+ "title": "Episode 116 — Vegas Part 04 the Poon Poon Report",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…ercial-sex review, the guest's confusion over live versus recorded publication, Critter's attempted resignation over the show's turn toward pornography, and a Le Rêve wager that pressures Bill into a photographed…",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 163 seconds",
+   "context": "Las Vegas recap",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

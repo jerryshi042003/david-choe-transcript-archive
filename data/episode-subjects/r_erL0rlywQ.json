@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "r_erL0rlywQ",
+ "title": "Mangchi animation by Scorpion Dagger and David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "visual record",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "visual record is included in this route’s human-reviewed themes list.",
+   "reading": "visual record is a recurring theme across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "transcript limitation",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "transcript limitation is included in this route’s human-reviewed themes list.",
+   "reading": "transcript limitation is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

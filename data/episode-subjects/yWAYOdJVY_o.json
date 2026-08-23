@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "yWAYOdJVY_o",
+ "title": "Bobby Lee and Khalyla Get Emotional When David Choe and Steven Yeun Pay Their Respect to Bobby",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe and Steven Yeun explain to Bobby Lee why they wanted to honor him, moving from awkward resistance to accounts of Bobby's importance for young Asian American perf…",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Khalyla",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…tance to accounts of Bobby's importance for young Asian American performers and Khalyla's emotional testimony about loving him.",
+   "reading": "Khalyla recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steven Yeun",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe and Steven Yeun explain to Bobby Lee why they wanted to honor him, moving from awkward resistance to accounts of Bobby's importance for youn…",
+   "reading": "Steven Yeun recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "excerpt provenance",
+   "recurring_routes": 29,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "excerpt provenance is included in this route’s human-reviewed themes list.",
+   "reading": "excerpt provenance is a recurring theme across 29 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "friendship",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "friendship is included in this route’s human-reviewed themes list.",
+   "reading": "friendship is a recurring theme across 23 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

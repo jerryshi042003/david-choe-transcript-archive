@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-141-scruples",
+ "title": "Episode 141 — Scruples",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 360 seconds",
+   "context": "Critter joins",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "the Ranch",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "David says the Ranch recorded for two days and that the tape can settle what happened; another participant immediately demands deletion.",
+   "reading": "the Ranch is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

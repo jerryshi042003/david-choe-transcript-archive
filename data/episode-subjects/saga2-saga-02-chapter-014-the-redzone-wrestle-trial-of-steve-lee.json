@@ -1,0 +1,98 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-saga-02-chapter-014-the-redzone-wrestle-trial-of-steve-lee",
+ "title": "Chapter 014 — The Redzone Wrestle Trial of Steve Lee",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3691 seconds",
+   "context": "Critter and another bird encounter",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Chapter 14 opens with a damaged Mangchi performance and then stages two intertwined trials: a literal series of wrestling bouts and a continuing test of whether Steve Lee keeps his job with David Choe.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The comedy-material dispute similarly preserves every boundary: Steve, Bobby Lee and Khalyla warn David not to copy Bobby's act or sabotage a paid show, and Khalyla names the private aftermath she would absorb.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 7146 seconds",
+   "context": "Bobby Trivia",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Khalyla",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The comedy-material dispute similarly preserves every boundary: Steve, Bobby Lee and Khalyla warn David not to copy Bobby's act or sabotage a paid show, and Khalyla names the private aftermath she would absorb.",
+   "reading": "Khalyla recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Daniel Dae Kim",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Daniel Dae Kim's attendance and praise are reported conversations; a Netflix representative, hot-Asian list and some praise were explicitly invented to manipulate Bobby's mood.",
+   "reading": "Daniel Dae Kim recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Robin Williams",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4867 seconds",
+   "context": "Robin Williams death context",
+   "reading": "Robin Williams recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Hawaii",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 589 seconds",
+   "context": "Hawaii comedy and image expectations",
+   "reading": "Hawaii is a recurring place across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

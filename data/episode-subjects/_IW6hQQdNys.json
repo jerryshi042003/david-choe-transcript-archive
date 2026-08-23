@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "_IW6hQQdNys",
+ "title": "How David Choe Hunted With CANNIBALS  | Joe Rogan Experience",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "This is an edited excerpt of “Joe Rogan Experience #1965 - David Choe,” not a separate full interview.",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jamie Vernon",
+   "recurring_routes": 15,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Jamie Vernon recurs in 15 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Tanzania",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Tanzania is included in this route’s human-reviewed places list.",
+   "reading": "Tanzania is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "excerpt provenance",
+   "recurring_routes": 29,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "excerpt provenance is included in this route’s human-reviewed themes list.",
+   "reading": "excerpt provenance is a recurring theme across 29 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "Hadza",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "An excerpt on Hadza subsistence combines a graphic cave and baboon-hunt account with discussion of cannibalism, survival knowledge and the shock of encountering abundant but undrinkable water.",
+   "reading": "Hadza is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

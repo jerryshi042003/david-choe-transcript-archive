@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-142-fastball",
+ "title": "Episode 142 — Fastball",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5390 seconds",
+   "context": "Critter origin story",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Money Mark cooks, makes tea and produces while Steve Lee, David Choe, Ceci and the room develop songs across punk, hip-hop, pop, Spanish-language material and an improvised Christia…",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Money Mark cooks, makes tea and produces while Steve Lee, David Choe, Ceci and the room develop songs across punk, hip-hop, pop, Spanis…",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Near the end, a fake Bill Poon appearance becomes another prank, followed by a postmortem of the earlier sex prank: Bill is believed to think two cast memb…",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Target",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A fan and a behind-the-scenes administrator are discussed with hostile and body-based jokes; neither should become an unmasking or harassment target.",
+   "reading": "Target is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

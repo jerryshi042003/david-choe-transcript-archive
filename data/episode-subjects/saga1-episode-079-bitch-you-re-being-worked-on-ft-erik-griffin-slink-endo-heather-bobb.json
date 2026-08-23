@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-079-bitch-you-re-being-worked-on-ft-erik-griffin-slink-endo-heather-bobb",
+ "title": "Episode 079 — Bitch You Re Being Worked on Ft Erik Griffin Slink Endo Heather Bobb",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…at Inside Jokes, Slink Johnson's Black Jesus announcement, Heather's bass work, Money Mark's site, Tinder's early adoption, Bill Poon's blog and a red-suit connection to Choe's fashion timeline.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…announcement, Heather's bass work, Money Mark's site, Tinder's early adoption, Bill Poon's blog and a red-suit connection to Choe's fashion timeline.",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

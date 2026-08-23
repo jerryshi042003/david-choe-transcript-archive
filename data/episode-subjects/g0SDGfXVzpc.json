@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "g0SDGfXVzpc",
+ "title": "George Wasn't Invited To The Choe Show",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Khalyla",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A TigerBelly clip follows George Kimmel’s complaint that Khalyla attended The Choe Show while he was not invited, questions whether he applied seriously and ends with an attempt to arrange a remaining-week visit.",
+   "reading": "Khalyla recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

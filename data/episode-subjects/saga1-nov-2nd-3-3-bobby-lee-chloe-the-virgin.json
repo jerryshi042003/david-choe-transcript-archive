@@ -1,0 +1,62 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-nov-2nd-3-3-bobby-lee-chloe-the-virgin",
+ "title": "Nov 2nd 3 3 Bobby Lee Chloe the Virgin",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Its first half centers on David Choe and Bobby Lee's new friendship.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "David connects apocalypse preparation to the 1992 Los Angeles uprising and describes alleged looting, bulletproof vehicles, supplies and a panic room.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "LAX",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 302 seconds",
+   "context": "LAX shooting and comedy trip",
+   "reading": "LAX is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Comedy Store",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1665 seconds",
+   "context": "Comedy Store night",
+   "reading": "Comedy Store is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

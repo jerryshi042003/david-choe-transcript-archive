@@ -1,0 +1,134 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-114-vegas-part-02",
+ "title": "Episode 114 — Vegas Part 02",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…'s repeated lap-dance refusals; a pressured intimate disclosure from Bill Poon; Critter and Bobby nickname origins; the Barstow trip; David's explicit rejection of the fan nickname `Choey`; a private toy-store cu…",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4414 seconds",
+   "context": "Steve Lee / sex-worker story callback",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…Eva Lin speculation through repeated checks about whether recording is active; Bobby Lee's arrival; Asa's repeated lap-dance refusals; a pressured intimate disclosure from Bill Poon; Critter and Bobby nickname ori…",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…rrival; Asa's repeated lap-dance refusals; a pressured intimate disclosure from Bill Poon; Critter and Bobby nickname origins; the Barstow trip; David's explicit rejection of the fan nickname `Choey`; a private toy…",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Maury Showbizawitz",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4952 seconds",
+   "context": "Maury Showbizawitz",
+   "reading": "Maury Showbizawitz recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Khalyla",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1841 seconds",
+   "context": "Khalyla had work and did not come",
+   "reading": "Khalyla recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Lee",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5855 seconds",
+   "context": "Jim Lee contribution claim",
+   "reading": "Jim Lee recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Chris Rock",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 172 seconds",
+   "context": "Chris Rock first-pitch claim",
+   "reading": "Chris Rock recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Prince",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4829 seconds",
+   "context": "Prince Bobby",
+   "reading": "Prince recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Michael Jackson",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8300 seconds",
+   "context": "Michael Jackson — Man in the Mirror",
+   "reading": "Michael Jackson recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1530 seconds",
+   "context": "annual memorial in Las Vegas",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "casino",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 7783 seconds",
+   "context": "casino winnings",
+   "reading": "casino is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

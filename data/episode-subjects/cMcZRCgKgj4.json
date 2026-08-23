@@ -1,0 +1,114 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "cMcZRCgKgj4",
+ "title": "DVDASA Episode 048 with David Choe and Asa Akira",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Critter",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 38,
+   "reading": "Critter is explicitly introduced on this recording and has the same evidence on 38 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "publisher route title identifies David Choe and Asa Akira as the on-show pair",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Critter is explicitly introduced on this recording.",
+   "reading": "Critter recurs in 70 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 41 seconds",
+   "context": "Money Mark's borrowed pajamas",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Zell",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4806 seconds",
+   "context": "Zell's mother recognizes her in an image",
+   "reading": "Zell recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Mexico",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 179 seconds",
+   "context": "David announces a Mexico City exhibition",
+   "reading": "Mexico is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Mexico City",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 179 seconds",
+   "context": "David announces a Mexico City exhibition",
+   "reading": "Mexico City is a recurring place across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Museo Universitario del Chopo",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 188 seconds",
+   "context": "Museo Universitario del Chopo",
+   "reading": "Museo Universitario del Chopo is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "YouTube re-upload provenance",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "YouTube re-upload provenance is included in this route’s human-reviewed themes list.",
+   "reading": "YouTube re-upload provenance is a recurring theme across 13 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

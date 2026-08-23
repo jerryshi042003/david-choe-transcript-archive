@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "Gv_yyQBphVs",
+ "title": "Draw Your Soul in Your Underpaintings",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "gratitude",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A short underpainting lesson asks viewers to identify emotion through color instead of words, reject judgment, investigate a self-portrait and notice when an older angry DVDASA persona interrupts gratitude.",
+   "reading": "gratitude is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "underpainting",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A short underpainting lesson asks viewers to identify emotion through color instead of words, reject judgment, investigate a self-portrait and notice when an older angry DVDASA persona interrupts gratitude.",
+   "reading": "underpainting is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

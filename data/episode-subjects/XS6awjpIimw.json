@@ -1,0 +1,179 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "XS6awjpIimw",
+ "title": "Howard Stern   David Choe Artist of FaceBook turned Millionaire  DVDASA",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 4740 seconds",
+   "context": "Harry Kim and Guam Cruise",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A third-party capture preserves a long Howard Stern interview with David Choe and a post-interview green-room painting sequence, but begins and ends mid-sentence and is not an official complete broadcast master.",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sean Parker",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 626 seconds",
+   "context": "Sean Parker and Napster",
+   "reading": "Sean Parker recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Barbara Walters",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2770 seconds",
+   "context": "Barbara Walters and future press",
+   "reading": "Barbara Walters recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Banksy",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2890 seconds",
+   "context": "Banksy-associated London show claim",
+   "reading": "Banksy recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Mark Zuckerberg",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Mark Zuckerberg recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Robin Quivers",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Robin Quivers recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1910 seconds",
+   "context": "1992 Los Angeles uprising memories",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1660 seconds",
+   "context": "Japan bike theft and tagging",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Las Vegas is included in this route’s human-reviewed places list.",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown",
+   "recurring_routes": 22,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Koreatown is included in this route’s human-reviewed places list.",
+   "reading": "Koreatown is a recurring place across 22 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "New York",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1080 seconds",
+   "context": "New York Times publicity and privacy",
+   "reading": "New York is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Korea",
+   "recurring_routes": 14,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Korea is included in this route’s human-reviewed places list.",
+   "reading": "Korea is a recurring place across 14 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "London",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2890 seconds",
+   "context": "Banksy-associated London show claim",
+   "reading": "London is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Colombia",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3970 seconds",
+   "context": "ayahuasca in Colombia",
+   "reading": "Colombia is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1080 seconds",
+   "context": "New York Times publicity and privacy",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "consent",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1565 seconds",
+   "context": "false graffiti-and-consent analogy",
+   "reading": "consent is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "media framing",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "media framing is included in this route’s human-reviewed themes list.",
+   "reading": "media framing is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "self-harm",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3230 seconds",
+   "context": "self-harm to force hospital care",
+   "reading": "self-harm is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

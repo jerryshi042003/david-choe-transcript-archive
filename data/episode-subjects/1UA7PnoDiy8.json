@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "1UA7PnoDiy8",
+ "title": "Your Strength is in Your Weakness | Art Inspiration",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "failure",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Choe argues that hiding weakness creates a false strong self, then uses crying, attachment to his mother, broken personal boundaries and repeated failure to frame vulnerability as usable strength.",
+   "reading": "failure is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "vulnerability",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Choe argues that hiding weakness creates a false strong self, then uses crying, attachment to his mother, broken personal boundaries and repeated failure to frame vulnerability as usable strength.",
+   "reading": "vulnerability is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

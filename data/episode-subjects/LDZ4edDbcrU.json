@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "LDZ4edDbcrU",
+ "title": "Barbara Walters x David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Barbara Walters",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "An edited Barbara Walters television profile introduces Choe as an artist whose Facebook shares may be worth hundreds of millions, contrasts collabora…",
+   "reading": "Barbara Walters recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "gambling",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…nting with his reported unhappiness and criminal record, and returns to gambling as his explanation for taking stock.",
+   "reading": "gambling is a recurring theme across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "wealth",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "wealth is included in this route’s human-reviewed themes list.",
+   "reading": "wealth is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

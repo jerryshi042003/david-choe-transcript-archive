@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "_-b2tXazWKs",
+ "title": "DAVID CHOE - HOW TO SUCCEED CREATIVELY",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Geof Darrow",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The correction layer repairs Choe, Geof Darrow, Rich Roll, Soundgarden, titles and craft terms while preserving sponsor/narrator boundaries.",
+   "reading": "Geof Darrow recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Chris Cornell",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1069 seconds",
+   "context": "Chris Cornell",
+   "reading": "Chris Cornell recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Rich Roll",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Creative Minds compiles excerpts from already-audited Rich Roll, Huberman, JRE, It All Adds Up and Cartoonist Kayfabe sources into three narrated lessons about autonomy, validation and suffering.",
+   "reading": "Rich Roll recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Oakland",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 759 seconds",
+   "context": "art school in Oakland",
+   "reading": "Oakland is a recurring place across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "self-harm",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1116 seconds",
+   "context": "self-harm before graffiti",
+   "reading": "self-harm is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "workaholism",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 833 seconds",
+   "context": "workaholism",
+   "reading": "workaholism is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

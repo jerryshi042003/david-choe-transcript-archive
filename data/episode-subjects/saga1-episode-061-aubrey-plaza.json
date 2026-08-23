@@ -1,0 +1,184 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-061-aubrey-plaza",
+ "title": "Episode 061 — Aubrey Plaza",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  },
+  {
+   "name": "Critter",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 38,
+   "reading": "Critter is explicitly introduced on this recording and has the same evidence on 38 routes."
+  },
+  {
+   "name": "Money Mark",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 23,
+   "reading": "Money Mark is explicitly introduced on this recording and has the same evidence on 23 routes."
+  },
+  {
+   "name": "Valentin",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 15,
+   "reading": "Valentin is explicitly introduced on this recording and has the same evidence on 15 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Critter is explicitly introduced on this recording.",
+   "reading": "Critter recurs in 70 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Money Mark is explicitly introduced on this recording.",
+   "reading": "Money Mark recurs in 50 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Veruca James",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4045 seconds",
+   "context": "Veruca James as the easier booking",
+   "reading": "Veruca James recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Smith",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1161 seconds",
+   "context": "Episode 53 and Kevin Smith cross-reference",
+   "reading": "Kevin Smith recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Nicolas Cage",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…e to portraiture, access and friendship, acting, Funny People, Colin Trevorrow, Nicolas Cage, and an improvised best-friend contract.",
+   "reading": "Nicolas Cage recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Aubrey Plaza",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Aubrey Plaza then enters to discuss a commissioned sexual painting of herself and Amy Poehler, Choe's resistance to portraiture, access a…",
+   "reading": "Aubrey Plaza recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harris Wittels",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2324 seconds",
+   "context": "Harris Wittels opioid disclosure",
+   "reading": "Harris Wittels recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Scott Rudin",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2334 seconds",
+   "context": "Scott Rudin and the stalled deal",
+   "reading": "Scott Rudin recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Arquette",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Episode 61 opens by recapping the David Arquette night, strip-club etiquette, and Choe's invasive speculation about a private Mexico partner.",
+   "reading": "David Arquette recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sacha Baron Cohen",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2645 seconds",
+   "context": "Sacha Baron Cohen at the table",
+   "reading": "Sacha Baron Cohen recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "party",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…myths, racialized financial claims, transgender medical hearsay, third-party outing, and private contact/location publication.",
+   "reading": "party is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Mexico",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 930 seconds",
+   "context": "Private Mexico partner story resumes",
+   "reading": "Mexico is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hollywood",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 178 seconds",
+   "context": "Hollywood standoff over who approaches",
+   "reading": "Hollywood is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

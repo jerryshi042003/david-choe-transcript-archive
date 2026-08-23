@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "1cEPqYMBlXA",
+ "title": "How David Choe Got A Role In A Star Wars Movie | Joe Rogan Experience",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "This is an edited excerpt of “Joe Rogan Experience #1965 - David Choe,” not a separate full interview.",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jon Favreau",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Choe explains how an improvised pitch to Jon Favreau led to graffiti work and a tiny alien role in *The Mandalorian*, including prosthetics, research and a self-written gambling backstory.",
+   "reading": "Jon Favreau recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Africa",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Africa is included in this route’s human-reviewed places list.",
+   "reading": "Africa is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "excerpt provenance",
+   "recurring_routes": 29,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "excerpt provenance is included in this route’s human-reviewed themes list.",
+   "reading": "excerpt provenance is a recurring theme across 29 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "graffiti",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 63 seconds",
+   "context": "Researching Star Wars-scale graffiti",
+   "reading": "graffiti is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "acting",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 243 seconds",
+   "context": "Why a larger acting offer did not fit",
+   "reading": "acting is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

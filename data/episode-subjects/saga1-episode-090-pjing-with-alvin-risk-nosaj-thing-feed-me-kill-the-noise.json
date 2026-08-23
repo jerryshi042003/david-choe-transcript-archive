@@ -1,0 +1,79 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-090-pjing-with-alvin-risk-nosaj-thing-feed-me-kill-the-noise",
+ "title": "Episode 090 — Pjing with Alvin Risk Nosaj Thing Feed Me Kill the Noise",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 305 seconds",
+   "context": "Top-secret projects and Money Mark",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Dan the Automator",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2527 seconds",
+   "context": "Dan the Automator, Money Mark and Kid Koala",
+   "reading": "Dan the Automator recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Nosaj Thing",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "An electronic-music roundtable with Alvin Risk, Nosaj Thing, Feed Me and Kill the Noise that becomes a debate about what makes performance real, how producers preserve purpose onstage,…",
+   "reading": "Nosaj Thing recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "studio",
+   "recurring_routes": 25,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2512 seconds",
+   "context": "Invisible studio labor",
+   "reading": "studio is a recurring place across 25 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

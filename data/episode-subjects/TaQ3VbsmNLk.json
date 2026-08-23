@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "TaQ3VbsmNLk",
+ "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 4/5)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Beijing",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 185 seconds",
+   "context": "Mapping the trip from Beijing",
+   "reading": "Beijing is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "friendship",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "friendship is included in this route’s human-reviewed themes list.",
+   "reading": "friendship is a recurring theme across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "graffiti",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1082 seconds",
+   "context": "Graffiti and racist guitar lyric",
+   "reading": "graffiti is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker uncertainty",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker uncertainty is included in this route’s human-reviewed themes list.",
+   "reading": "speaker uncertainty is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "sexual objectification",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "sexual objectification is included in this route’s human-reviewed themes list.",
+   "reading": "sexual objectification is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

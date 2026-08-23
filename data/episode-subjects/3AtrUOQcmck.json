@@ -1,0 +1,107 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "3AtrUOQcmck",
+ "title": "Slow Jams: The Comics of David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 515 seconds",
+   "context": "Howard Stern audience joke",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ed Piskor",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Jim Rugg and Ed Piskor inspect physical copies of SPX 2000, NON and the Xeric edition of Slow Jams, tracing David Choe's short comics path while reading his collage, photocopy, lettering and autobiographical techniques.",
+   "reading": "Ed Piskor recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Rugg",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Jim Rugg and Ed Piskor inspect physical copies of SPX 2000, NON and the Xeric edition of Slow Jams, tracing David Choe's short comics path while reading his collage, photocopy, lettering and autobiographical techniques.",
+   "reading": "Jim Rugg recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Carol",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 686 seconds",
+   "context": "Brendan McCarthy and Carol Swain comparisons",
+   "reading": "Carol recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jordan Crane",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 122 seconds",
+   "context": "Jordan Crane's NON #4",
+   "reading": "Jordan Crane recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Adrian Tomine",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Adrian Tomine recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Daniel Clowes",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1119 seconds",
+   "context": "Daniel Clowes comparison",
+   "reading": "Daniel Clowes recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Paul Pope",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 741 seconds",
+   "context": "Paul Pope and personality pages",
+   "reading": "Paul Pope recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 806 seconds",
+   "context": "Oakland to Los Angeles and parents' home",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Oakland",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 806 seconds",
+   "context": "Oakland to Los Angeles and parents' home",
+   "reading": "Oakland is a recurring place across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego Comic-Con",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "San Diego Comic-Con is included in this route’s human-reviewed places list.",
+   "reading": "San Diego Comic-Con is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

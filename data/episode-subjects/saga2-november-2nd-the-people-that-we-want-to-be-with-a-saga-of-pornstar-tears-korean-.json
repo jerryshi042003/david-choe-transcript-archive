@@ -1,0 +1,143 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-november-2nd-the-people-that-we-want-to-be-with-a-saga-of-pornstar-tears-korean-",
+ "title": "November 2nd the People That We Want to Be with a Saga of Pornstar Tears Korean",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 7469 seconds",
+   "context": "Critter's assault and Detroit arrest story",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Lee, Steve Lee, Asa Akira, Critter Fleming, Bobby Trivia, Money Mark and other public participants thank the audience before Mangchi performs a long, rough set.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Lee, Steve Lee, Asa Akira, Critter Fleming, Bobby Trivia, Money Mark and other public participants thank the audience before Mangchi performs a long, rough set.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Lee, Steve Lee, Asa Akira, Critter Fleming, Bobby Trivia, Money Mark and other public participants thank the audience before Mangchi performs a long, rough set.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "James Jean",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "James Jean recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Lee, Steve Lee, Asa Akira, Critter Fleming, Bobby Trivia, Money Mark and other public participants thank the audience before Mangchi performs a long, rough set.",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Critter Fleming",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Lee, Steve Lee, Asa Akira, Critter Fleming, Bobby Trivia, Money Mark and other public participants thank the audience before Mangchi performs a long, rough set.",
+   "reading": "Critter Fleming recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Korea",
+   "recurring_routes": 14,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Korea is included in this route’s human-reviewed places list.",
+   "reading": "Korea is a recurring place across 14 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Detroit",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 7469 seconds",
+   "context": "Critter's assault and Detroit arrest story",
+   "reading": "Detroit is a recurring place across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "consent",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "consent is included in this route’s human-reviewed themes list.",
+   "reading": "consent is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "collaboration",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "collaboration is included in this route’s human-reviewed themes list.",
+   "reading": "collaboration is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "live music",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "live music is included in this route’s human-reviewed themes list.",
+   "reading": "live music is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "travel",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "travel is included in this route’s human-reviewed themes list.",
+   "reading": "travel is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "chosen community",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "It is a statement of chosen community after a difficult production day, not a claim that every interaction was safe.",
+   "reading": "chosen community is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

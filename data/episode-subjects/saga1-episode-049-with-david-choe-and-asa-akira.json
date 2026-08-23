@@ -1,0 +1,133 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-049-with-david-choe-and-asa-akira",
+ "title": "Episode 049",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5433 seconds",
+   "context": "Critter leaves his number",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 162 seconds",
+   "context": "Money Mark improvises a milestone rap",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 235 seconds",
+   "context": "Zell, Valentin, and Rob Loeb",
+   "reading": "Valentin recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Zell",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 49 seconds",
+   "context": "Zell's neck massage rejuvenates Bobby",
+   "reading": "Zell recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jessie Andrews",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Hotel del Coronado, Trading Places, Eddie Murphy, Dan Aykroyd, and Jessie Andrews are repaired.",
+   "reading": "Jessie Andrews recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eddie Murphy",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Hotel del Coronado, Trading Places, Eddie Murphy, Dan Aykroyd, and Jessie Andrews are repaired.",
+   "reading": "Eddie Murphy recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "California",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 843 seconds",
+   "context": "Super Sergio's California burrito",
+   "reading": "California is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Olympic Garden",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1423 seconds",
+   "context": "Olympic Garden in Las Vegas",
+   "reading": "Olympic Garden is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Tijuana",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 349 seconds",
+   "context": "Comic-Con leads toward Tijuana",
+   "reading": "Tijuana is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hong Kong",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 370 seconds",
+   "context": "Hong Kong Gentlemen's Club introduced",
+   "reading": "Hong Kong is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

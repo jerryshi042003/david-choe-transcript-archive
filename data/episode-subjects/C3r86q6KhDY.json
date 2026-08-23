@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "C3r86q6KhDY",
+ "title": "Life Lessons from David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "unidentified tutorial speaker",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "unidentified tutorial speaker recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "uVgbqMzYRIg",
+ "title": "Mangchi @ San Jose 5-26-2015 - David Choe, Dylan, DJ Cutso - Drum Scratch Jam Intro",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "music",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 19 seconds",
+   "context": "music begins",
+   "reading": "music is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "live performance",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "live performance is included in this route’s human-reviewed themes list.",
+   "reading": "live performance is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

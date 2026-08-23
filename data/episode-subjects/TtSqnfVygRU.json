@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "TtSqnfVygRU",
+ "title": "Saber and David Choe November 2nd Flower Shop",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Saber",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Saber and Choe improvise a flower-shop mural during the November 2 event, moving from a joking Aubrey Plaza crush through found sp…",
+   "reading": "Saber recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Aubrey Plaza",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…improvise a flower-shop mural during the November 2 event, moving from a joking Aubrey Plaza crush through found spray equipment, red-and-white paint, spider imagery and thanks to the shop for allowing the interventio…",
+   "reading": "Aubrey Plaza recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "improvisation",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "improvisation is included in this route’s human-reviewed themes list.",
+   "reading": "improvisation is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

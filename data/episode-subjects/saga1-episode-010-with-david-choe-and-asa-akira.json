@@ -1,0 +1,169 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-010-with-david-choe-and-asa-akira",
+ "title": "Episode 010",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 20 seconds",
+   "context": "The panel, Critter, and an explicit opening question",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 3770 seconds",
+   "context": "Harry Kim, Guam Cruise, and the spaghetti-girl story",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Veruca James",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1680 seconds",
+   "context": "Bobby's girlfriend, Veruca James, and listening afterward",
+   "reading": "Veruca James recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Nicolas Cage",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Nicolas Cage recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Lisa Ling",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The group acknowledges its first audience mail and revisits Lisa Ling's appearance, her sister Laura, North Korea, curiosity, judgment, and the limits of the panel's own speculation.",
+   "reading": "Lisa Ling recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Macaulay Culkin",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Macaulay Culkin recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Alex Tarrant",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Alex Tarrant recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Clinton",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Bill Clinton recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Liam Neeson",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The episode ends with uneasy reconciliation and Trivia With Bobby on Liam Neeson, Danny Trejo, Sons of Anarchy, and Asa's voice.",
+   "reading": "Liam Neeson recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 5040 seconds",
+   "context": "Rody goes to Japan with a research assignment",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Las Vegas is included in this route’s human-reviewed places list.",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hawaii",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Hawaii is included in this route’s human-reviewed places list.",
+   "reading": "Hawaii is a recurring place across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "North Korea",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3090 seconds",
+   "context": "Lisa Ling, Laura Ling, North Korea, and Lois Lane wordplay",
+   "reading": "North Korea is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "workplace power",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "workplace power is included in this route’s human-reviewed themes list.",
+   "reading": "workplace power is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "friendship and employment",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "friendship and employment is included in this route’s human-reviewed themes list.",
+   "reading": "friendship and employment is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

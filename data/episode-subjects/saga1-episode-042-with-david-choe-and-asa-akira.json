@@ -1,0 +1,168 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-042-with-david-choe-and-asa-akira",
+ "title": "Episode 042",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Critter",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 38,
+   "reading": "Critter is explicitly introduced on this recording and has the same evidence on 38 routes."
+  },
+  {
+   "name": "Valentin",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 15,
+   "reading": "Valentin is explicitly introduced on this recording and has the same evidence on 15 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Critter is explicitly introduced on this recording.",
+   "reading": "Critter recurs in 70 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4285 seconds",
+   "context": "Money Mark is absent",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 966 seconds",
+   "context": "Anthony Bourdain and John Cusack are invoked",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Valentin is explicitly introduced on this recording.",
+   "reading": "Valentin recurs in 11 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "John Cusack",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 486 seconds",
+   "context": "John Cusack and Zell request privacy",
+   "reading": "John Cusack recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Khalyla",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "An automatic suggestion to change a private `Kayla` to `Khalyla` is rejected because context points to a different unresolved performer.",
+   "reading": "Khalyla recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Toni Ribas",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ask Asa covers body grooming, Asa's Rockefeller Center proposal with Toni Ribas, adult-performance proximity, threesomes, orientation labels, anal contact, and marriage.",
+   "reading": "Toni Ribas recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Lee",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 604 seconds",
+   "context": "Jim Lee and Kent Williams",
+   "reading": "Jim Lee recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Zell",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 56 seconds",
+   "context": "Producer Alec and Zell's microphone",
+   "reading": "Zell recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Brad Pitt",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5561 seconds",
+   "context": "Brad Pitt and A River Runs Through It",
+   "reading": "Brad Pitt recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1279 seconds",
+   "context": "The 1992 Los Angeles riots",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "China",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1902 seconds",
+   "context": "China is assigned a different stereotype",
+   "reading": "China is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "gallery",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3714 seconds",
+   "context": "timbiskup.com and Martha Otero Gallery",
+   "reading": "gallery is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

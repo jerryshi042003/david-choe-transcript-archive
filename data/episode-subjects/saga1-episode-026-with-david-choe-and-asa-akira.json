@@ -1,0 +1,412 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-026-with-david-choe-and-asa-akira",
+ "title": "Episode 026",
+ "on_show": [
+  {
+   "name": "Critter",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 38,
+   "reading": "Critter is explicitly introduced on this recording and has the same evidence on 38 routes."
+  },
+  {
+   "name": "Valentin",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 15,
+   "reading": "Valentin is explicitly introduced on this recording and has the same evidence on 15 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Critter is explicitly introduced on this recording.",
+   "reading": "Critter recurs in 70 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 6462 seconds",
+   "context": "Money Mark's top-secret absence",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1173 seconds",
+   "context": "Howard Stern, Joe Rogan, and Adam Carolla",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "He also recounts being recognized after the Anthony Bourdain Koreatown program despite attempts to travel quietly.",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1173 seconds",
+   "context": "Howard Stern, Joe Rogan, and Adam Carolla",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Estevan Oriol",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 805 seconds",
+   "context": "Estevan Oriol documents the trip",
+   "reading": "Estevan Oriol recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Maury Showbizawitz",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 100 seconds",
+   "context": "Maury Showbizawitz and Zell are gone",
+   "reading": "Maury Showbizawitz recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Veruca James",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The group revisits the Veruca James episode and possible harm to Bobby's relationship with Carol, then discusses Hollywood offers after Bourdain, business lunches, and delegating meetings to Critter.",
+   "reading": "Veruca James recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Valentin is explicitly introduced on this recording.",
+   "reading": "Valentin recurs in 11 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "John Cusack",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 107 seconds",
+   "context": "Zell and John Cusack stay private",
+   "reading": "John Cusack recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Toni Ribas",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…culty, humiliation, pornography, and masturbating to a scene with Asa's husband Toni Ribas and Cindy Hope.",
+   "reading": "Toni Ribas recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Zell",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Yoshi and Zell are absent, Valentin remains, and Critter joins from a beanbag off camera.",
+   "reading": "Zell recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Saad Mohseni",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David describes VIP passage with Afghan media executive Saad Mohseni, armed security, fear around women in burqas and a child approaching at night, expatriate house parties, a Vice report on ch…",
+   "reading": "Saad Mohseni recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Roy Choi",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 984 seconds",
+   "context": "Estevan Oriol, Roy Choi, and Anthony Bourdain",
+   "reading": "Roy Choi recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "The Notorious B.I.G.",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "The Notorious B.I.G. recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Adam Carolla",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1173 seconds",
+   "context": "Howard Stern, Joe Rogan, and Adam Carolla",
+   "reading": "Adam Carolla recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Carol",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The group revisits the Veruca James episode and possible harm to Bobby's relationship with Carol, then discusses Hollywood offers after Bourdain, business lunches, and delegating meetings to Critter.",
+   "reading": "Carol recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Julia Roberts",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 5905 seconds",
+   "context": "Julia Roberts and Hollywood ranking",
+   "reading": "Julia Roberts recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Prince",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Prince recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve-O",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4251 seconds",
+   "context": "Stevie Wonder, not Steve-O",
+   "reading": "Steve-O recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "B.B. Jones",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 6566 seconds",
+   "context": "B.B. Jones and a canceled production",
+   "reading": "B.B. Jones recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Donna Lewis",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 5790 seconds",
+   "context": "Donna Lewis in Dubai",
+   "reading": "Donna Lewis recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ice Cube",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Trivia covers Penfold, Ice Cube, Rush, and Django Unchained.",
+   "reading": "Ice Cube recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Leonardo DiCaprio",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 6264 seconds",
+   "context": "Leonardo DiCaprio and Samuel L. Jackson",
+   "reading": "Leonardo DiCaprio recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Liam Neeson",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Liam Neeson recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Rupert Murdoch",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 237 seconds",
+   "context": "The Rupert Murdoch of Afghanistan",
+   "reading": "Rupert Murdoch recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Samuel L. Jackson",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 6264 seconds",
+   "context": "Leonardo DiCaprio and Samuel L. Jackson",
+   "reading": "Samuel L. Jackson recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Back in Los Angeles, David describes flirting online with an unnamed Moroccan worker he met in Dubai, sex with a private partner at a Ramada,…",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown",
+   "recurring_routes": 22,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "He also recounts being recognized after the Anthony Bourdain Koreatown program despite attempts to travel quietly.",
+   "reading": "Koreatown is a recurring place across 22 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Afghanistan",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 206 seconds",
+   "context": "Arrival in Afghanistan",
+   "reading": "Afghanistan is a recurring place across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Dubai",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 636 seconds",
+   "context": "Freedom is imagined as Dubai",
+   "reading": "Dubai is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Canada",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Canada is included in this route’s human-reviewed places list.",
+   "reading": "Canada is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "London",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "London is included in this route’s human-reviewed places list.",
+   "reading": "London is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Turkey",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2075 seconds",
+   "context": "Hot-air balloons in Turkey",
+   "reading": "Turkey is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Paris",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1254 seconds",
+   "context": "The layover in Paris",
+   "reading": "Paris is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Kabul",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 82 seconds",
+   "context": "Kabul with Critter",
+   "reading": "Kabul is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "The conversation turns to long flights, privacy, talking to strangers, male affection in Afghanistan, gender restrictions, Dubai and Turkey tourism, and a teenage Nine I…",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "pornography",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3364 seconds",
+   "context": "No hotel pornography menu",
+   "reading": "pornography is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "aging",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "That becomes a broader argument about aging, depression, compulsive sex, Viagra and Cialis, quotas, and whether diminishing sexual novelty might free attention for art.",
+   "reading": "aging is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "humiliation",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2700 seconds",
+   "context": "First humiliation versus first contact",
+   "reading": "humiliation is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "media framing",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "media framing is included in this route’s human-reviewed themes list.",
+   "reading": "media framing is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "celebrity recognition",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "celebrity recognition is included in this route’s human-reviewed themes list.",
+   "reading": "celebrity recognition is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "i06A3F4XkEc",
+ "title": "Exclusive! Eastman and Laird Commentary on Their Most Popular Issue of TMNT. David Choe Cohosts!",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Ed Piskor",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim.",
+   "reading": "Ed Piskor recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Rugg",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim.",
+   "reading": "Jim Rugg recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Eastman",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim.",
+   "reading": "Kevin Eastman recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Peter Laird",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim.",
+   "reading": "Peter Laird recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ninja",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Kevin Eastman, Peter Laird and David Choe for a page-by-page discussion of Teenage Mutant Ninja Turtles #8, the 1986 Cerebus crossover with Dave Sim.",
+   "reading": "Ninja recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Richard Corben",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The panel traces Richard Corben, Barry Windsor-Smith, Jack Kirby, George Romero, Tom Savini, Time Bandits and other influences; examines the black-and-white…",
+   "reading": "Richard Corben recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "friendship",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3880 seconds",
+   "context": "Choe's friendship and brotherhood reading",
+   "reading": "friendship is a recurring theme across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "privacy is included in this route’s human-reviewed themes list.",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker ambiguity",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker ambiguity is included in this route’s human-reviewed themes list.",
+   "reading": "speaker ambiguity is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "self-publishing",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 724 seconds",
+   "context": "Elfquest and self-publishing influence",
+   "reading": "self-publishing is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

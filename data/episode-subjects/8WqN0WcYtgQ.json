@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "8WqN0WcYtgQ",
+ "title": "BTS Mangchi Video Shoot",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "decoder failure",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "decoder failure is included in this route’s human-reviewed themes list.",
+   "reading": "decoder failure is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

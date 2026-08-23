@@ -416,13 +416,12 @@ async function renderRetellings() {
 }
 
 
-/* ONE navigable analysis section. The four analyses were reachable only as chips
-   on the front page, so a reader who opened one had to go back to reach another
-   and could not tell the set existed. They are one section with tabs. */
+/* Corpus-level analysis navigation. Episode-specific presence and recurring
+   context live on each recording now, not as another global control surface. */
 const ANALYSIS_GROUPS = [
   ['Reading the corpus', [['overview', 'Corpus overview'], ['corpus', 'Route map'], ['method', 'Method']]],
   ['Stories & patterns', [['stories', 'Verified stories'], ['retold', 'Similar passages'], ['arcs', 'Arcs']]],
-  ['People & subjects', [['cast', 'Cast'], ['presence', 'On-show presence'], ['subjects', 'Recurring subjects']]],
+  ['People & subjects', [['cast', 'Cast'], ['subjects', 'Recurring subjects']]],
 ];
 const ANALYSES = [['recent', 'Current YouTube'], ...ANALYSIS_GROUPS.flatMap(([, rows]) => rows)];
 
@@ -1037,9 +1036,55 @@ function renderCast(record) {
   if (!el) return;
   const people = record.editorial?.people || [];
   if (!people || !people.length) { el.hidden = true; el.innerHTML = ''; return; }
-  el.innerHTML = `<span class="castlbl">People named</span> ${people.map(esc).join(' · ')}
-    <span class="castsrc"><b>Voices:</b> individual lines are left unnamed unless directly verified. This avoids attaching the wrong person to a quote.</span>`;
+  el.innerHTML = `<span class="castlbl">People in reviewed context</span> ${people.map(esc).join(' · ')}
+    <span class="castsrc"><b>Not a cast list:</b> individual lines are left unnamed unless directly verified.</span>`;
   el.hidden = false;
+}
+
+/* Every reader route gets the same quiet orientation layer. The content is
+   route-specific: it never upgrades a reviewed mention into presence, and it
+   avoids hiding recurring subjects behind a global dashboard or interaction. */
+async function renderEpisodeThreads(id) {
+  const box = $('episodeThreads');
+  box.hidden = true;
+  box.innerHTML = '';
+  let route;
+  try {
+    route = await (await fetch(dataURL(`data/episode-subjects/${encodeURIComponent(id)}.json`))).json();
+  } catch { return; }
+  if (!route?.id) return;
+  const status = (label, detail, tone = 'context') => `<span class="thread-status ${tone}" tabindex="0"
+    data-tooltip="${esc(detail)}" aria-label="${esc(`${label}. ${detail}`)}">${esc(label)}</span>`;
+  const onShow = route.on_show || [];
+  const onShowNames = new Set(onShow.map((entry) => entry.name));
+  const onShowRows = onShow.length ? `<ul class="thread-onshow">${onShow.map((entry) => `<li>
+    <p><b>${esc(entry.name)}</b> ${status(entry.recurring_status === 'recurring-on-show-participant' ? 'regular participant' : 'introduced here', `${entry.source}. ${entry.reading}`, 'onshow')}</p>
+    <span>${esc(entry.reading)}</span>
+  </li>`).join('')}</ul>`
+    : `<p class="thread-absence">No participant is explicitly introduced in the opening transcript. That is not evidence that nobody was on the recording.</p>`;
+  const groups = [['people', 'People discussed here'], ['places', 'Places that recur'], ['themes', 'Recurring themes']]
+    .map(([kind, title]) => {
+      const items = (route.items || []).filter((item) => item.kind === kind
+        && !(kind === 'people' && onShowNames.has(item.name)));
+      if (!items.length) return '';
+      return `<section class="thread-group"><h4>${title}</h4><ul>${items.map((item) => {
+        const isPerson = item.kind === 'people';
+        const label = isPerson ? 'discussed here, not credited as on-show' : `reviewed recurring ${item.kind.slice(0, -1)}`;
+        const detail = `${item.source}. ${item.context}`;
+        return `<li class="thread-item">
+          <p><b>${esc(item.name)}</b> <span class="thread-count">${item.recurring_routes} reviewed routes</span>
+            ${status(label, detail, isPerson ? 'context' : 'subject')}</p>
+          <p class="thread-reading">${esc(item.reading)}</p>
+          <p class="thread-context">${esc(item.context)}</p>
+        </li>`;
+      }).join('')}</ul></section>`;
+    }).join('');
+  box.innerHTML = `<p class="thread-kicker">In this recording</p>
+    <h3>On show, and what carries forward</h3>
+    <p class="thread-intro">Explicit introductions and recurring editorial context are shown separately. Hover or focus a status to see the source.</p>
+    <section class="thread-show"><h4>Explicitly introduced on this recording</h4>${onShowRows}</section>
+    <div class="thread-groups">${groups || '<p class="thread-absence">This recording has no subject that recurs in three or more reviewed routes.</p>'}</div>`;
+  box.hidden = false;
 }
 
 function renderEditorial(ed, kind, vid) {
@@ -1176,6 +1221,7 @@ async function openItem(id) {
   $('prov').innerHTML = bits.join(' ');
 
   renderCast(d);
+  await renderEpisodeThreads(d.id);
   renderEditorial(d.editorial, d.kind, d.id);
   $('fq').value = state.q || '';
   if (state.mode === 'script') await ensureScript(d);
@@ -1232,6 +1278,8 @@ async function renderHub() {
 
 function route() {
   const raw = location.hash.replace(/^#/, '');
+  $('episodeThreads').hidden = true;
+  $('episodeThreads').innerHTML = '';
   const corpusRoute = ANALYSIS_GROUPS.some(([, rows]) => rows.some(([key]) => key === raw));
   $('reader').classList.toggle('analysis-view', corpusRoute);
   $('main').classList.toggle('wide', corpusRoute || raw === '');
@@ -1316,7 +1364,7 @@ function route() {
     $('prov').textContent = 'Presence evidence is attached to each route. Voice identity remains unassigned until a source-audio comparison passes validation.';
     $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
     $('editorial').innerHTML = '';
-    renderTabs('presence');
+    $('atabs').hidden = true;
     return renderPresence();
   }
   if (raw === 'method') {

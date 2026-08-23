@@ -1,0 +1,187 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "IA-7LDa5VXY",
+ "title": "David Choe Fires Yoshi Over Potato Chips - Catching You Up with Nadav",
+ "on_show": [
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  },
+  {
+   "name": "Yoshi Obayashi",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 11,
+   "reading": "Yoshi Obayashi is explicitly introduced on this recording and has the same evidence on 11 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1208 seconds",
+   "context": "janitor, Bobby and Critter/security staff",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 505 seconds",
+   "context": "Harry Kim",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 187 seconds",
+   "context": "The Joe Rogan Experience",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sean Parker",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 255 seconds",
+   "context": "Sean Parker",
+   "reading": "Sean Parker recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joey Kurtzman",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 854 seconds",
+   "context": "Joey Kurtzman",
+   "reading": "Joey Kurtzman recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Mark Zuckerberg",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 250 seconds",
+   "context": "Mark Zuckerberg",
+   "reading": "Mark Zuckerberg recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Russell Peters",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 616 seconds",
+   "context": "Russell Peters DVD",
+   "reading": "Russell Peters recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Prince",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 26 seconds",
+   "context": "Nigerian-prince scam joke",
+   "reading": "Prince recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Tom Segura",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 360 seconds",
+   "context": "Tom Segura/YMH work was separate",
+   "reading": "Tom Segura recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 651 seconds",
+   "context": "East Los Angeles-area neighborhood",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 695 seconds",
+   "context": "grew up in Japan",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown",
+   "recurring_routes": 22,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 266 seconds",
+   "context": "Koreatown ice-cream-shop story",
+   "reading": "Koreatown is a recurring place across 22 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Beverly Hills",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 868 seconds",
+   "context": "cheap Beverly Hills residence",
+   "reading": "Beverly Hills is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Chicago",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Chicago is included in this route’s human-reviewed places list.",
+   "reading": "Chicago is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "LAX",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 710 seconds",
+   "context": "LAX arrest for weapon in bag",
+   "reading": "LAX is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Arizona",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1563 seconds",
+   "context": "Arizona",
+   "reading": "Arizona is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Austin",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1469 seconds",
+   "context": "Austin study screening",
+   "reading": "Austin is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Switzerland",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Switzerland is included in this route’s human-reviewed places list.",
+   "reading": "Switzerland is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

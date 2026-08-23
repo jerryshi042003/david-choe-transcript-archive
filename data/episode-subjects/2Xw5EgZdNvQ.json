@@ -1,0 +1,413 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "2Xw5EgZdNvQ",
+ "title": "Joe Rogan Experience #563 - David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…ng paid-sex travel in Macau, diabetes and heavy-metal fears, disordered eating, Critter's training and injury, Regenokine and Asian-American male representation.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…begins with Hong Dynasty and the prior proposed MMA fight, then recounts making Steve Lee wrestle for continued employment, filming paid-sex travel in Macau, diabetes and heavy-metal fears, disordered eating, Critt…",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4630 seconds",
+   "context": "Harry Kim visual reference",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…y, sex-work/labor claims, han and ethnic essentialism, stand-up experiments and Bobby Lee recollections.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Choe and Joe Rogan compare adolescent drawing, watercolor, publishing, television crews and independent media before tracing Choe's commercial-art experience on Vertical Limit and 28 Days.",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 8346 seconds",
+   "context": "David Chang comparison",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 229 seconds",
+   "context": "Bill Poon transportation account",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steven Yeun",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1870 seconds",
+   "context": "Steven Yeun example",
+   "reading": "Steven Yeun recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Chris Rock",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 8128 seconds",
+   "context": "Chris Rock and being first",
+   "reading": "Chris Rock recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Larry Flynt",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 3806 seconds",
+   "context": "Larry Flynt publication work",
+   "reading": "Larry Flynt recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Woody Allen",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 8285 seconds",
+   "context": "Larry David and Woody Allen influence",
+   "reading": "Woody Allen recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Clinton",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Bill Clinton recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Dana White",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1245 seconds",
+   "context": "Dana White and Ménière's disease",
+   "reading": "Dana White recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jet Li",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Jet Li recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Larry David",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 8285 seconds",
+   "context": "Larry David and Woody Allen influence",
+   "reading": "Larry David recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Patrice O'Neal",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 5717 seconds",
+   "context": "Patrice O'Neal and failed provocation",
+   "reading": "Patrice O'Neal recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Tony Robbins",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Tony Robbins recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 7621 seconds",
+   "context": "Japan and China isolation",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A separate Las Vegas story contains Steve Lee's direct refusal before Choe reports touching him; it is not absorbed into the earlier controversy.",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hawaii",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 8753 seconds",
+   "context": "Hawaii show with Bobby Lee",
+   "reading": "Hawaii is a recurring place across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown",
+   "recurring_routes": 22,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Koreatown is included in this route’s human-reviewed places list.",
+   "reading": "Koreatown is a recurring place across 22 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "China",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 7621 seconds",
+   "context": "Japan and China isolation",
+   "reading": "China is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Mexico",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 8988 seconds",
+   "context": "Mexico drug-and-knife recollection",
+   "reading": "Mexico is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Macau",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 206 seconds",
+   "context": "Macau Brothers assignment",
+   "reading": "Macau is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "San Diego is included in this route’s human-reviewed places list.",
+   "reading": "San Diego is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Detroit",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4666 seconds",
+   "context": "MGM Grand Detroit",
+   "reading": "Detroit is a recurring place across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Big Bear",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 6606 seconds",
+   "context": "Big Bear location complaint",
+   "reading": "Big Bear is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hollywood",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Hollywood is included in this route’s human-reviewed places list.",
+   "reading": "Hollywood is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Copenhagen",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Copenhagen is included in this route’s human-reviewed places list.",
+   "reading": "Copenhagen is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "UCLA",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1504 seconds",
+   "context": "first UCLA performance",
+   "reading": "UCLA is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Colombia",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Colombia is included in this route’s human-reviewed places list.",
+   "reading": "Colombia is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Santa Monica",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1284 seconds",
+   "context": "historic Santa Monica clinic",
+   "reading": "Santa Monica is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Corrections, factual context, privacy, consent, medical caution and publication restrictions are separate metadata.",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "consent",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Corrections, factual context, privacy, consent, medical caution and publication restrictions are separate metadata.",
+   "reading": "consent is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "gambling",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4796 seconds",
+   "context": "gambling treatment and heart attack",
+   "reading": "gambling is a recurring theme across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "performance",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1504 seconds",
+   "context": "first UCLA performance",
+   "reading": "performance is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker uncertainty",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker uncertainty is included in this route’s human-reviewed themes list.",
+   "reading": "speaker uncertainty is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "accountability",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "accountability is included in this route’s human-reviewed themes list.",
+   "reading": "accountability is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "commercial art",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3691 seconds",
+   "context": "quitting commercial art",
+   "reading": "commercial art is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "identity",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 5352 seconds",
+   "context": "identity-masking advice",
+   "reading": "identity is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "medical misinformation",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "medical misinformation is included in this route’s human-reviewed themes list.",
+   "reading": "medical misinformation is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

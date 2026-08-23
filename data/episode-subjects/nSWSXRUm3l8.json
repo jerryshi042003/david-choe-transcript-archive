@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "nSWSXRUm3l8",
+ "title": "David Choe's Gambling Strategy",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "An edited Howard Stern excerpt presents Choe's progressive betting system, his account of gambling as a substitute for drinking or drugs, the path…",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 351 seconds",
+   "context": "Frequent Las Vegas trips",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "excerpt provenance",
+   "recurring_routes": 29,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "excerpt provenance is included in this route’s human-reviewed themes list.",
+   "reading": "excerpt provenance is a recurring theme across 29 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "risk",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "risk is included in this route’s human-reviewed themes list.",
+   "reading": "risk is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "addiction",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "addiction is included in this route’s human-reviewed themes list.",
+   "reading": "addiction is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

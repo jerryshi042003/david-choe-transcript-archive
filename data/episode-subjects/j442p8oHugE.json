@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "j442p8oHugE",
+ "title": "This Simple Technique Changed Everything",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "unidentified monologue speaker",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "unidentified monologue speaker recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Choe (channel context; no named turn)",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "David Choe (channel context; no named turn) recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "party",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 37 seconds",
+   "context": "start the party",
+   "reading": "party is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "connection",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "connection is included in this route’s human-reviewed themes list.",
+   "reading": "connection is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "2S1kNH59NBk",
+ "title": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 83 seconds",
+   "context": "Back on the bicycle without Critter or Harry",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "The Final Frontier Within: David Choe’s Thumbs Up Journey Home to Los Angeles",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hollywood Boulevard",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 129 seconds",
+   "context": "Hollywood Boulevard disappointment",
+   "reading": "Hollywood Boulevard is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "privacy is included in this route’s human-reviewed themes list.",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "collaboration",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 480 seconds",
+   "context": "Kindred spirits and an unplanned collaboration",
+   "reading": "collaboration is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "aging",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "aging is included in this route’s human-reviewed themes list.",
+   "reading": "aging is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker ambiguity",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker ambiguity is included in this route’s human-reviewed themes list.",
+   "reading": "speaker ambiguity is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

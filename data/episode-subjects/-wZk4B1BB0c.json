@@ -1,0 +1,107 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "-wZk4B1BB0c",
+ "title": "DAVID CHOE Tells Us About Meeting and Interviewing FRANK MILLER...And So Much More!",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5674 seconds",
+   "context": "Joe Rogan joke and incomplete source ending",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ed Piskor",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg ask David Choe to reconstruct a concentrated comics week built around Brian K.",
+   "reading": "Ed Piskor recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Rugg",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg ask David Choe to reconstruct a concentrated comics week built around Brian K.",
+   "reading": "Jim Rugg recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Lee",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 178 seconds",
+   "context": "Todd McFarlane, Jim Lee, Tim Truman and Bissette",
+   "reading": "Jim Lee recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Frank Miller",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Vaughan, Dave Mandel, private original-art collections and an unexpected invitation to interview Frank Miller at LA Comic Con.",
+   "reading": "Frank Miller recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Todd McFarlane",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 178 seconds",
+   "context": "Todd McFarlane, Jim Lee, Tim Truman and Bissette",
+   "reading": "Todd McFarlane recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Daniel Warren Johnson",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Daniel Warren Johnson recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Frank Quitely",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Frank Quitely recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jordan Crane",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Choe explains how Slow Jams, Jordan Crane, SPX and Juxtapoz formed his early comics identity; recounts pandemic pitches to artists he admires; and describes collectin…",
+   "reading": "Jordan Crane recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Arthur Adams",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Arthur Adams recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "uOf3CdFjXg4",
+ "title": "Bunny Ears Podcast Episode 24 - David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A post-recording preface preserves the original Anthony Bourdain discussion after his death and adds the program's historical suicide-prevention message; current 988 guidance belongs outsid…",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Choe connects childhood alienation with villains and Korean Batman, then reaches David Chang, Bill Simmons, André the Giant, Samuel Beckett and a pre-death Bourdain dinner story.",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "John Cusack",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Dense art stories cover Culkin's Korn painting, John Cusack, Nobu, Paul Hipp, a reported Culkin Christ garage work, possible Malibu tagging, Banksy-style object rights, an alleged $20,…",
+   "reading": "John Cusack recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Smith",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 828 seconds",
+   "context": "Kevin Smith message-board origin",
+   "reading": "Kevin Smith recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Nicolas Cage",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Nicolas Cage recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sean Parker",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Sean Parker recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Damien Hirst",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Damien Hirst recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Dan the Automator",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 3245 seconds",
+   "context": "Dan the Automator connection",
+   "reading": "Dan the Automator recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Banksy",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2041 seconds",
+   "context": "walls, Banksy and artist rights",
+   "reading": "Banksy recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Macaulay Culkin",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A second preface explains Macaulay Culkin's pain during recording before Matt Cohen, Culkin and David Choe discuss privacy, child fame, financial independence, art, fandom and purpose.",
+   "reading": "Macaulay Culkin recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Mark Zuckerberg",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Mark Zuckerberg recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Christopher Nolan",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Christopher Nolan recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harvey Keitel",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Harvey Keitel recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jay Mohr",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Jay Mohr recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Michael Jackson",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 600 seconds",
+   "context": "Culkin and Michael Jackson rabbit hole",
+   "reading": "Michael Jackson recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Tobey Maguire",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Tobey Maguire recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Las Vegas is included in this route’s human-reviewed places list.",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "New York",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1042 seconds",
+   "context": "New York Times publicity",
+   "reading": "New York is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 728 seconds",
+   "context": "privacy and returning to public media",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "consent",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Dangerous steroid and gambling talk, private women and children, residences, property, restaurant routes and guest consent remain restricted rather than deleted.",
+   "reading": "consent is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker ambiguity",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker ambiguity is included in this route’s human-reviewed themes list.",
+   "reading": "speaker ambiguity is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "projection",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3060 seconds",
+   "context": "Choe names his projection",
+   "reading": "projection is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

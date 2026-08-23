@@ -1,0 +1,143 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "mB3oDYYlcF0",
+ "title": "The RZA  David Choe A Black Mozart X Korean Jesus Collaboration",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1105 seconds",
+   "context": "Money Mark",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steven Yeun",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1360 seconds",
+   "context": "Steven Yeun",
+   "reading": "Steven Yeun recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Quentin Tarantino",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1182 seconds",
+   "context": "student of Quentin Tarantino",
+   "reading": "Quentin Tarantino recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eli Roth",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 284 seconds",
+   "context": "Eli Roth",
+   "reading": "Eli Roth recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bruce Lee",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1162 seconds",
+   "context": "Bruce Lee taught forms/principles",
+   "reading": "Bruce Lee recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Russell Crowe",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1229 seconds",
+   "context": "Russell Crowe",
+   "reading": "Russell Crowe recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "RZA",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "RZA and David Choe create a collaborative painting for Hurricane Sandy relief while discussing Staten Island family damage, pain…",
+   "reading": "RZA recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Samuel L. Jackson",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 550 seconds",
+   "context": "Samuel L. Jackson",
+   "reading": "Samuel L. Jackson recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 742 seconds",
+   "context": "prison in Japan a few years ago",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "New York",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "New York is included in this route’s human-reviewed places list.",
+   "reading": "New York is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "China",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 947 seconds",
+   "context": "China class of roughly sixty students",
+   "reading": "China is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Denver",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 498 seconds",
+   "context": "Denver during the Democratic National Convention",
+   "reading": "Denver is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Queens",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 48 seconds",
+   "context": "Queens, of course",
+   "reading": "Queens is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "incarceration",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 847 seconds",
+   "context": "Japanese incarceration self-report",
+   "reading": "incarceration is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "creative influence",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…discussing Staten Island family damage, painting, film, Wu-Tang legacy, creative influence, Asian representation, sexual retention, incarceration, explicit comedy, friendship and film-set culture.",
+   "reading": "creative influence is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-saga-02-chapter-016-death-stars-stevie-mcqueenie-the-mysterious-middle-eastern",
+ "title": "Chapter 016 — Death Stars Stevie Mcqueenie the Mysterious Middle Eastern",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The wealth section covers estate planning, spend-down, Critter's childhood, a proposed $100,000 contest, cash, line-cutting and Palace Station.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Steve Lee then introduces death after two family losses.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3175 seconds",
+   "context": "Music as Money Mark's fountain of youth",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "TIME verifies that David Chang was a 2010 TIME 100 honoree; the episode's wording ‘cover of TIME’ is not independently established.",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "studio",
+   "recurring_routes": 25,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Steve is then surprised by her studio entrance and repeatedly says he wanted the relationship separate, feels used, is upset, would have wanted notice and will become more paranoid.",
+   "reading": "studio is a recurring place across 25 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Copenhagen",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2425 seconds",
+   "context": "Copenhagen happiness-suicide claim",
+   "reading": "Copenhagen is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

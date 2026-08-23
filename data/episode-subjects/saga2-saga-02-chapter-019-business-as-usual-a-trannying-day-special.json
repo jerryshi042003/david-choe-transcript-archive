@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-saga-02-chapter-019-business-as-usual-a-trannying-day-special",
+ "title": "Chapter 019 — Business As Usual a Trannying Day Special",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Prince",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3108 seconds",
+   "context": "Unverified Prince bathing story",
+   "reading": "Prince recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "party",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "It also contains peer diagnoses, pressure, absent-party allegations and deceptive dating tactics, none promoted as guidance.",
+   "reading": "party is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Israel",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2626 seconds",
+   "context": "Israel and alleged infidelity",
+   "reading": "Israel is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

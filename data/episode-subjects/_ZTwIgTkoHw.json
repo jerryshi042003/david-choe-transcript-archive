@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "_ZTwIgTkoHw",
+ "title": "Creating with David Choe: Live Art Tutorial",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "play",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "play is included in this route’s human-reviewed themes list.",
+   "reading": "play is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

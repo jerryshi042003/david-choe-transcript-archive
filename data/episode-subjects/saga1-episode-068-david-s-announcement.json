@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-068-david-s-announcement",
+ "title": "Episode 068 — David S Announcement",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 142 seconds",
+   "context": "Asa Akira and Critter introduced",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 98 seconds",
+   "context": "Money Mark remains in New York",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sasha Grey",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1348 seconds",
+   "context": "Sasha Grey and Machete callback",
+   "reading": "Sasha Grey recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Lee",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2343 seconds",
+   "context": "Jim Lee and children who ignore comics",
+   "reading": "Jim Lee recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Lisa Ling",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1474 seconds",
+   "context": "Lisa Ling reunites on the carpet",
+   "reading": "Lisa Ling recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

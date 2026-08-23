@@ -1,0 +1,116 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-098-dan-wu-joe-hahn-the-dark-dick",
+ "title": "Episode 098 — Dan Wu Joe Hahn the Dark Dick",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Its proposed Money Mark box set remains a proposal until a release artifact is found.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5351 seconds",
+   "context": "Joe Rogan versus DVDASA listening",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4034 seconds",
+   "context": "David Chang and creative anger",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "James Jean",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 532 seconds",
+   "context": "James Jean identity guess",
+   "reading": "James Jean recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steven Yeun",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 564 seconds",
+   "context": "Steven Yeun and racial abuse online",
+   "reading": "Steven Yeun recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Dan the Automator",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1648 seconds",
+   "context": "Giant Robot and Dan the Automator connection",
+   "reading": "Dan the Automator recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Hahn",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Joe Hahn gives the clearest compact account of Linkin Park's collaborative process: members meet in a shared studio, split apart to develop pieces, bring them back, and rely on respect to keep the band together.",
+   "reading": "Joe Hahn recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "He says remaining in Hong Kong made career sense, but family privacy, creativity in education and the possibility of ordinary life motivated time in Los Angeles.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "studio",
+   "recurring_routes": 25,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3857 seconds",
+   "context": "Shared studio and weekly reconvening",
+   "reading": "studio is a recurring place across 25 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hong Kong",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2493 seconds",
+   "context": "Hong Kong houseboat meeting",
+   "reading": "Hong Kong is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

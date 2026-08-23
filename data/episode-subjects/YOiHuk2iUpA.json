@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "YOiHuk2iUpA",
+ "title": "David Choe Thinks Tigerbelly Could Be the Best Podcast Ever",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Choe pushes Bobby Lee to take TigerBelly more seriously, arguing that the show could become much larger with focused work; Bobby answers with his desire to keep trying stand-up, acting, radio and animation.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steven Yeun",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "This is an edited excerpt of “David Choe, Steven Yeun, & The Lord of the Bobby Lee Rings | TigerBelly 300!!,” not a separate full interview.",
+   "reading": "Steven Yeun recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "excerpt provenance",
+   "recurring_routes": 29,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "excerpt provenance is included in this route’s human-reviewed themes list.",
+   "reading": "excerpt provenance is a recurring theme across 29 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

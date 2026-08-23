@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "V9v_LJewjLY",
+ "title": "Overcoming Self-Judgment: The Path to Happiness",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "unidentified monologue speaker",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "unidentified monologue speaker recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "gratitude",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A closing just-for-today exercise asks for gratitude, work intentions, affirmation, walking, connection, disclosure and creation without judgment.",
+   "reading": "gratitude is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "relationships",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 162 seconds",
+   "context": "relationships and higher power",
+   "reading": "relationships is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "acceptance",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 86 seconds",
+   "context": "moments of acceptance",
+   "reading": "acceptance is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "connection",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 304 seconds",
+   "context": "affirmation, walk and connection",
+   "reading": "connection is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

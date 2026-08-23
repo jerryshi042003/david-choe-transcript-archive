@@ -1,0 +1,115 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-133-horny-in-your-heart",
+ "title": "Episode 133 — Horny in Your Heart",
+ "on_show": [
+  {
+   "name": "Steve Lee",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 7,
+   "reading": "Steve Lee is explicitly introduced on this recording and has the same evidence on 7 routes."
+  },
+  {
+   "name": "Money Mark",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 23,
+   "reading": "Money Mark is explicitly introduced on this recording and has the same evidence on 23 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The closing sections cover a hostess club, a webcam-performer date, an applicant, late-night fans and an escalating persistent-fan encounter that Critter resolves without violence.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Steve Lee is explicitly introduced on this recording.",
+   "reading": "Steve Lee recurs in 52 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Money Mark is explicitly introduced on this recording.",
+   "reading": "Money Mark recurs in 50 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bill Poon's concealed Christianity, Steve's conversion and psychedelic departure, speaking in tongues, Andy Milonakis, karma, atheism,…",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Andy Milonakis",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…hristianity, Steve's conversion and psychedelic departure, speaking in tongues, Andy Milonakis, karma, atheism, agnosticism, cult jokes and each participant's religious history build into David's account of forced bapti…",
+   "reading": "Andy Milonakis recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Macau",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4660 seconds",
+   "context": "Macau and World Cup",
+   "reading": "Macau is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Big Bear",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 0 seconds",
+   "context": "Big Bear album retreat",
+   "reading": "Big Bear is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Brazil",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…David offers paid leave from Fat Sal's to record, discusses family and Brazil/Macau travel, then recounts a compulsive rebound after being catfished.",
+   "reading": "Brazil is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "zHyvVajsqMw",
+ "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8598 seconds",
+   "context": "Money Mark, Bill Poon and play",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…l work, Facebook murals, adult-media illustration, Vice and Thumbs Up!, DVDASA, Anthony Bourdain and The Choe Show.",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8461 seconds",
+   "context": "David Chang as addiction mirror",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8598 seconds",
+   "context": "Money Mark, Bill Poon and play",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sean Parker",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2119 seconds",
+   "context": "Sean Parker and collected artifacts",
+   "reading": "Sean Parker recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Larry Flynt",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 7417 seconds",
+   "context": "Larry Flynt building and firing",
+   "reading": "Larry Flynt recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2642 seconds",
+   "context": "Japan jail, debt and mural offer",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

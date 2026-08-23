@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "6MIKuySAQTQ",
+ "title": "Embrace the Chaos of Your life | Art Tutorial",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "creative block",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "creative block is included in this route’s human-reviewed themes list.",
+   "reading": "creative block is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "play",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…ckage into a chaotic letting-go exercise: Choe layers paint, prescribes play rather than a cure, struggles with the urge to protect valuable objects and ends amid jokes about damaged trading cards.",
+   "reading": "play is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

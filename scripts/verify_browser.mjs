@@ -165,13 +165,18 @@ try {
       title: document.querySelector('#rtitle')?.textContent,
       source: document.querySelector('#srcline')?.textContent,
       status: document.querySelector('#prov')?.textContent,
-      people: document.querySelector('#castline')?.textContent
+      people: document.querySelector('#castline')?.textContent,
+      threads: document.querySelector('#episodeThreads')?.textContent,
+      threadStatuses: document.querySelectorAll('#episodeThreads .thread-status[tabindex="0"]').length
     })`);
   assert.equal(reader.scrollWidth, reader.clientWidth, 'reader overflows at 390px');
   assert.equal(reader.title, 'Episode 001');
   assert.match(reader.source, /DVDASA/);
   assert.match(reader.status, /Transcript Computer transcript/);
-  assert.match(reader.people, /People named/);
+  assert.match(reader.people, /People in reviewed context/);
+  assert.match(reader.threads, /On show, and what carries forward/);
+  assert.match(reader.threads, /David Choe is explicitly introduced on this recording/);
+  assert.ok(reader.threadStatuses > 0, 'episode evidence explanations must be keyboard focusable');
 
   await evaluate(`document.querySelector('[data-mode="script"]').click()`);
   const scriptView = await waitFor(async () => {
@@ -186,6 +191,18 @@ try {
   }, 'cleaned Script view');
   assert.equal(scriptView.active, 'true');
   assert.equal(scriptView.scrollWidth, scriptView.clientWidth, 'Script view overflows at 390px');
+
+  const bourdainRoute = await navigate(`${target.replace(/#.*$/, '')}#/saga1-episode-015-with-david-choe-and-asa-akira`,
+    `document.querySelector('#episodeThreads')?.textContent.includes('Anthony Bourdain') && ({
+      text: document.querySelector('#episodeThreads')?.textContent,
+      onShow: [...document.querySelectorAll('#episodeThreads .thread-onshow b')].map((node) => node.textContent),
+      clientWidth: document.documentElement.clientWidth,
+      scrollWidth: document.documentElement.scrollWidth
+    })`);
+  assert.match(bourdainRoute.text, /discussed here, not credited as on-show/);
+  assert.match(bourdainRoute.text, /not an appearance or voice claim/);
+  assert.ok(!bourdainRoute.onShow.includes('Anthony Bourdain'), 'Bourdain context must not become on-show evidence');
+  assert.equal(bourdainRoute.scrollWidth, bourdainRoute.clientWidth, 'episode subject layer overflows at 390px');
 
   const subjects = await navigate(`${target.replace(/#.*$/, '')}#subjects`,
     `document.querySelector('#rtitle')?.textContent === 'Recurring subjects' && ({

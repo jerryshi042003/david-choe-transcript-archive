@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "U4zj1Jb15CE",
+ "title": "Jeff Probst Wants David Choe On SURVIVOR | Joe Rogan | JRE 1965",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed route title",
+   "context": "Jeff Probst Wants David Choe On SURVIVOR | Joe Rogan | JRE 1965",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Chris Rock",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 126 seconds",
+   "context": "Chris Rock rumor",
+   "reading": "Chris Rock recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve-O",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 29 seconds",
+   "context": "Steve-O declined",
+   "reading": "Steve-O recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "multi-speaker ambiguity",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "multi-speaker ambiguity is included in this route’s human-reviewed themes list.",
+   "reading": "multi-speaker ambiguity is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

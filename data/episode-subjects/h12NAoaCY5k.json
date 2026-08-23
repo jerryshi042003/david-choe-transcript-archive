@@ -1,0 +1,170 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "h12NAoaCY5k",
+ "title": "DVDASA Episode 041 with David Choe and Asa Akira",
+ "on_show": [
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "publisher route title identifies David Choe and Asa Akira as the on-show pair",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Harry Kim returns ill, wearing a Tupac Shakur “Last Ride” shirt associated with the prior Maximum Hedrum episode.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…Pechanga, road-movie references, private former partners, and DVDASA's imagined Howard Stern-like future.",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Toni Ribas",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Episode 041 opens with Asa Akira describing a conflict with Toni Ribas through data from a shared Jawbone UP activity tracker.",
+   "reading": "Toni Ribas recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eddie Huang",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Eddie Huang, Suroosh Alvi, Shane Smith, and Vice on HBO are repaired.",
+   "reading": "Eddie Huang recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Macaulay Culkin",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "My Girl, Macaulay Culkin, Anna Chlumsky, Uncle Buck, and Field of Dreams are repaired.",
+   "reading": "Macaulay Culkin recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Larry Flynt",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A long Sam's Hofbrau discussion covers strip-club etiquette, body judgments, private friend Mike, Larry Flynt's Hustler Club, Dames N' Games, and Olympic Garden.",
+   "reading": "Larry Flynt recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Shane Smith",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Eddie Huang, Suroosh Alvi, Shane Smith, and Vice on HBO are repaired.",
+   "reading": "Shane Smith recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Tom Cruise",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2111 seconds",
+   "context": "Tom Cruise speculation remains unverified",
+   "reading": "Tom Cruise recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego Comic-Con",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 6273 seconds",
+   "context": "San Diego Comic-Con",
+   "reading": "San Diego Comic-Con is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 6273 seconds",
+   "context": "San Diego Comic-Con",
+   "reading": "San Diego is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Golden Gate Bridge",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Further method talk and an unsourced Golden Gate Bridge statistic remain attributed.",
+   "reading": "Golden Gate Bridge is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Olympic Garden",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1206 seconds",
+   "context": "Olympic Garden",
+   "reading": "Olympic Garden is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Reno",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4182 seconds",
+   "context": "A Reno production story",
+   "reading": "Reno is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Salt Lake City",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3167 seconds",
+   "context": "Salt Lake City and Temple Square",
+   "reading": "Salt Lake City is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "YouTube re-upload provenance",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "YouTube re-upload provenance is included in this route’s human-reviewed themes list.",
+   "reading": "YouTube re-upload provenance is a recurring theme across 13 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "LcnoUWEscUY",
+ "title": "Ninja of Die Antwoord, Crowd Surfing at Mangchi Live Show at Elbo Room in San Francisco",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ninja",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A ten-second visual clip shows Ninja crowd-surfing during a Mangchi show at San Francisco’s Elbo Room; the transcript contains one shouted fragment and cannot describe the movement.",
+   "reading": "Ninja recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "San Francisco",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Ninja of Die Antwoord, Crowd Surfing at Mangchi Live Show at Elbo Room in San Francisco",
+   "reading": "San Francisco is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "visual record",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "visual record is included in this route’s human-reviewed themes list.",
+   "reading": "visual record is a recurring theme across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "live music",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "live music is included in this route’s human-reviewed themes list.",
+   "reading": "live music is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

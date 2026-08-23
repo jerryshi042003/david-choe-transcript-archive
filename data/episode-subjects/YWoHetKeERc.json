@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "YWoHetKeERc",
+ "title": "David Choe animation sketch",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "unidentified",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "unidentified is included in this route’s human-reviewed places list.",
+   "reading": "unidentified is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "caption failure",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "caption failure is included in this route’s human-reviewed themes list.",
+   "reading": "caption failure is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "translation uncertainty",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "translation uncertainty is included in this route’s human-reviewed themes list.",
+   "reading": "translation uncertainty is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

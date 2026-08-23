@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "mOj5JGBZ4dM",
+ "title": "David Choe's crazy massage story (JRE #392)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Choe tells Joe Rogan an explicit Koreatown massage story involving a late-night appointment, a customer waiting outside, improvised plastic wrap and a sexual act that leaves him embarrassed.",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown, Los Angeles",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Koreatown, Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Koreatown, Los Angeles is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "excerpt provenance",
+   "recurring_routes": 29,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "excerpt provenance is included in this route’s human-reviewed themes list.",
+   "reading": "excerpt provenance is a recurring theme across 29 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "shame",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 348 seconds",
+   "context": "Shame after the sexual act",
+   "reading": "shame is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

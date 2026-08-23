@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "HgG805RV624",
+ "title": "What Lies Beneath Our Masks? | David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "gratitude",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 346 seconds",
+   "context": "Gratitude for ordinary abundance",
+   "reading": "gratitude is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "performance",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Choe stages a mask-removal exercise around performance, exercise, scraping and gratitude, asking what remains after social presentation is peeled away and ending with the curre…",
+   "reading": "performance is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

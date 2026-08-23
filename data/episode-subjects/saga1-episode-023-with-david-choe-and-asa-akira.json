@@ -1,0 +1,222 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-023-with-david-choe-and-asa-akira",
+ "title": "Episode 023",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  },
+  {
+   "name": "Yoshi Obayashi",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 11,
+   "reading": "Yoshi Obayashi is explicitly introduced on this recording and has the same evidence on 11 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Anthony Bourdain",
+   "recurring_routes": 30,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 3197 seconds",
+   "context": "Anthony Bourdain and David's warning about Korean women",
+   "reading": "Anthony Bourdain recurs in 30 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "John Cusack",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Episode Twenty-Three brings John Cusack into the warehouse after a dinner introduction through a mutual friend and Eddie Huang.",
+   "reading": "John Cusack recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Nicolas Cage",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Zell and others repeatedly challenge David's use of a cultural concept to generalize Korean women, and the discussion expands to Sri Lanka, Ceylon, the Tamil Tigers, interracial relationships, and Nicolas Cage.",
+   "reading": "Nicolas Cage recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Zell",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Zell and others repeatedly challenge David's use of a cultural concept to generalize Korean women, and the discussion expands to Sri Lanka, Ceylon, the Tamil Tigers, interracial relationships, and Nicolas Cage.",
+   "reading": "Zell recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Damien Hirst",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2124 seconds",
+   "context": "Painting with Damien Hirst",
+   "reading": "Damien Hirst recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eddie Huang",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Episode Twenty-Three brings John Cusack into the warehouse after a dinner introduction through a mutual friend and Eddie Huang.",
+   "reading": "Eddie Huang recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Banksy",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Trivia covers The Cranberries, Natalie Merchant, Pat Benatar, Pollock, Basquiat, Banksy, Clint Eastwood and Kevin Costner films, The Rocketeer, Robert Rodriguez films, and Aladdin.",
+   "reading": "Banksy recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Macaulay Culkin",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The conversation then develops the “Culkin Christ,” a Photoshop combining Macaulay Culkin with religious imagery, into an intentionally absurd plan for icons, propaganda, pilgrimage, and a new cult.",
+   "reading": "Macaulay Culkin recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Al Pacino",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Al Pacino recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Scott Rudin",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Scott Rudin recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Woody Allen",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Woody Allen recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Larry David",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Larry David recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Rupert Murdoch",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Rupert Murdoch recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Japan is included in this route’s human-reviewed places list.",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Korea",
+   "recurring_routes": 14,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4094 seconds",
+   "context": "North Korea, Gaza, and travel privilege",
+   "reading": "Korea is a recurring place across 14 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "graffiti",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2160 seconds",
+   "context": "Graffiti as a trust test",
+   "reading": "graffiti is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "addiction",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1820 seconds",
+   "context": "Addiction and the romance of drugs",
+   "reading": "addiction is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "acting",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "acting is included in this route’s human-reviewed themes list.",
+   "reading": "acting is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "public persona",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Cusack returns to creative life, privacy, celebrity, obsessive work, painting with more accomplished artists, and the difference between public persona and actual behavior.",
+   "reading": "public persona is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "trust",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2160 seconds",
+   "context": "Graffiti as a trust test",
+   "reading": "trust is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

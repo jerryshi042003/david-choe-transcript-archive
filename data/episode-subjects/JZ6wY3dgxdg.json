@@ -1,0 +1,62 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "JZ6wY3dgxdg",
+ "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "hitchhiking",
+   "recurring_routes": 12,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 4/4)",
+   "reading": "hitchhiking is a recurring theme across 12 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker-label provenance",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker-label provenance is included in this route’s human-reviewed themes list.",
+   "reading": "speaker-label provenance is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "religion",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "religion is included in this route’s human-reviewed themes list.",
+   "reading": "religion is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "risk",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "risk is included in this route’s human-reviewed themes list.",
+   "reading": "risk is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "hospitality",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…lius and unnamed people for an improvised haircut/bleaching scene whose hospitality, religious talk, explicit objects and dreams remain distinct from later doubts and apparently left-behind property.",
+   "reading": "hospitality is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

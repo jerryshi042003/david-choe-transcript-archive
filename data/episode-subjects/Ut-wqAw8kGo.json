@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "Ut-wqAw8kGo",
+ "title": "David Choe Drum Solo at North Korean Restaurant in Dubai",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Dubai",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "David Choe Drum Solo at North Korean Restaurant in Dubai",
+   "reading": "Dubai is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "visual record",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "visual record is included in this route’s human-reviewed themes list.",
+   "reading": "visual record is a recurring theme across 13 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

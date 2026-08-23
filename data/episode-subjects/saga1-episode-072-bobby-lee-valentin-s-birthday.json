@@ -1,0 +1,96 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-072-bobby-lee-valentin-s-birthday",
+ "title": "Episode 072 — Bobby Lee Valentin S Birthday",
+ "on_show": [
+  {
+   "name": "Bobby Lee",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 8,
+   "reading": "Bobby Lee is explicitly introduced on this recording and has the same evidence on 8 routes."
+  },
+  {
+   "name": "Critter",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 38,
+   "reading": "Critter is explicitly introduced on this recording and has the same evidence on 38 routes."
+  },
+  {
+   "name": "Valentin",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 15,
+   "reading": "Valentin is explicitly introduced on this recording and has the same evidence on 15 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Critter is explicitly introduced on this recording.",
+   "reading": "Critter recurs in 70 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Bobby Lee is explicitly introduced on this recording.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Critter Fleming",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 66 seconds",
+   "context": "Critter Fleming introduced under an ASR error",
+   "reading": "Critter Fleming recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Valentin is explicitly introduced on this recording.",
+   "reading": "Valentin recurs in 11 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "places",
+   "name": "Hawaii",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2836 seconds",
+   "context": "A Hawaii ranch offered immediately",
+   "reading": "Hawaii is a recurring place across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

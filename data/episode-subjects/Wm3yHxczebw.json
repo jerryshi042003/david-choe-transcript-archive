@@ -1,0 +1,62 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "Wm3yHxczebw",
+ "title": "Fine Art is Overrated: Art Tutorial",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "unidentified tutorial speaker",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "unidentified tutorial speaker recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Choe (channel context; no named turn)",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "David Choe (channel context; no named turn) recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "gallery",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2 seconds",
+   "context": "gallery/museum incomprehension",
+   "reading": "gallery is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "museum",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2 seconds",
+   "context": "gallery/museum incomprehension",
+   "reading": "museum is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "improvisation",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "improvisation is included in this route’s human-reviewed themes list.",
+   "reading": "improvisation is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "cutoff",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 347 seconds",
+   "context": "done / cutoff",
+   "reading": "cutoff is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

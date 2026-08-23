@@ -1,0 +1,125 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "H58tyi47qDQ",
+ "title": "Peter LAIRD & David CHOE! Teenage Mutant Ninja Turtles Issue 12! Xeric Award! SLOW JAMZ!",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 3621 seconds",
+   "context": "Howard Stern as crisis comfort",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ed Piskor",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Peter Laird and David Choe for a page-by-page discussion of Laird's solo Teenage Mutant Ninja Turtles #12 and Choe's 1999 Xeric Grant for Slow Jams.",
+   "reading": "Ed Piskor recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Rugg",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Peter Laird and David Choe for a page-by-page discussion of Laird's solo Teenage Mutant Ninja Turtles #12 and Choe's 1999 Xeric Grant for Slow Jams.",
+   "reading": "Jim Rugg recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Eastman",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Laird says he and Kevin Eastman needed solo issues after licensing stress made collaboration difficult, explicitly denying fistfights.",
+   "reading": "Kevin Eastman recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Peter Laird",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Ed Piskor and Jim Rugg host Peter Laird and David Choe for a page-by-page discussion of Laird's solo Teenage Mutant Ninja Turtles #12 and Choe's 1999 Xeric Grant for Slow Jams.",
+   "reading": "Peter Laird recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ninja",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed route title",
+   "context": "Peter LAIRD & David CHOE! Teenage Mutant Ninja Turtles Issue 12! Xeric Award! SLOW JAMZ!",
+   "reading": "Ninja recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Richard Corben",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 3406 seconds",
+   "context": "Richard Corben comparison",
+   "reading": "Richard Corben recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Rob Liefeld",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Rob Liefeld recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Robin Quivers",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Robin Quivers recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2861 seconds",
+   "context": "parents' business and Los Angeles unrest",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego Comic-Con",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "San Diego Comic-Con is included in this route’s human-reviewed places list.",
+   "reading": "San Diego Comic-Con is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "privacy is included in this route’s human-reviewed themes list.",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker ambiguity",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker ambiguity is included in this route’s human-reviewed themes list.",
+   "reading": "speaker ambiguity is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

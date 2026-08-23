@@ -1,0 +1,122 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-104-trivia-with-a-whore-part-1",
+ "title": "Episode 104 — Trivia with a Whore Part I",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Critter",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 38,
+   "reading": "Critter is explicitly introduced on this recording and has the same evidence on 38 routes."
+  },
+  {
+   "name": "Steve Lee",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 7,
+   "reading": "Steve Lee is explicitly introduced on this recording and has the same evidence on 7 routes."
+  },
+  {
+   "name": "Bill Poon",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 10,
+   "reading": "Bill Poon is explicitly introduced on this recording and has the same evidence on 10 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Critter is explicitly introduced on this recording.",
+   "reading": "Critter recurs in 70 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8011 seconds",
+   "context": "Bobby Lee shower callback",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Bill Poon is explicitly introduced on this recording.",
+   "reading": "Bill Poon recurs in 23 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Maury Showbizawitz",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1028 seconds",
+   "context": "Maury Showbizawitz medical joke",
+   "reading": "Maury Showbizawitz recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8069 seconds",
+   "context": "Asa's father compared with Bobby Trivia",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Donna Lewis",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 8294 seconds",
+   "context": "Critter's favorite Donna Lewis song",
+   "reading": "Donna Lewis recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Liam Neeson",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 7609 seconds",
+   "context": "Liam Neeson / driver trivia",
+   "reading": "Liam Neeson recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

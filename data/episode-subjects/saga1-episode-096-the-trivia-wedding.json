@@ -1,0 +1,134 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-096-the-trivia-wedding",
+ "title": "Episode 096 — The Trivia Wedding",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 88 seconds",
+   "context": "Critter and Wilson Pickett rhyme",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Episode 096 opens with the clearest surviving account of Steve Lee's pre-comedy music practice.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The proposed Money Mark collaboration remains a proposal, while Money Mark's Until It Breaks remix for Linkin Park is independently confirmed.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 836 seconds",
+   "context": "David Chang one-on-one remembered",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 615 seconds",
+   "context": "Bill Poon's long writing practice",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Maury Showbizawitz",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4730 seconds",
+   "context": "Maury Showbizawitz officiates",
+   "reading": "Maury Showbizawitz recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 342 seconds",
+   "context": "Bobby Trivia album",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sasha Grey",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4871 seconds",
+   "context": "Sasha Grey request recalled",
+   "reading": "Sasha Grey recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steven Yeun",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 521 seconds",
+   "context": "Steven Yeun named",
+   "reading": "Steven Yeun recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bruce Lee",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 6757 seconds",
+   "context": "Bruce Lee rhyme",
+   "reading": "Bruce Lee recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Hahn",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5454 seconds",
+   "context": "Joe Hahn and other guests",
+   "reading": "Joe Hahn recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "the Ranch",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "The ranch account adds a concrete creative routine: six days without internet or phone, morning watercolor/drawing, afternoon underpainting and spray paint, cooking, reading and solo audio.",
+   "reading": "the Ranch is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

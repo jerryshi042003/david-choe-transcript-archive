@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-saga-02-chapter-022-a-scrotum-fire-a-bobby-birthday-the-unnuttable",
+ "title": "Chapter 022 — A Scrotum Fire a Bobby Birthday the Unnuttable",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Poon offers concrete criticism, Bobby Lee describes unreliability and credits MADtv producer Lauren Dombrowski with helping him regain his job after sobriety.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1794 seconds",
+   "context": "Same-day Joe Rogan appearance",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Trivia's birthday includes a commissioned Chinese-workshop painting initially presented as David's first oil painting in years, then disclosed as outsourced.",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sasha Grey",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3649 seconds",
+   "context": "Not comfortable with Sasha Grey",
+   "reading": "Sasha Grey recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Nicolas Cage",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 6255 seconds",
+   "context": "Nicolas Cage impressions",
+   "reading": "Nicolas Cage recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

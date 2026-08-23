@@ -1,0 +1,80 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-117-vegas-part-05-no-newdes",
+ "title": "Episode 117 — Vegas Part 05 No Newdes",
+ "on_show": [
+  {
+   "name": "Bill Poon",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 10,
+   "reading": "Bill Poon is explicitly introduced on this recording and has the same evidence on 10 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…d while a woman is passed out or half asleep, fan entry into the private suite, Critter's continuing resignation conflict, public reading of his vulnerable poem, and the deliberate No New Dudes/nudes/NEWDS title…",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4157 seconds",
+   "context": "Money Mark travel/show message",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 6547 seconds",
+   "context": "Joe Rogan episode-count estimate",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Andy Milonakis",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5505 seconds",
+   "context": "Andy Milonakis",
+   "reading": "Andy Milonakis recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "John Mayer",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1136 seconds",
+   "context": "John Mayer quote paraphrase",
+   "reading": "John Mayer recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

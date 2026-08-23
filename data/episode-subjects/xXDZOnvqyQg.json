@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "xXDZOnvqyQg",
+ "title": "David Choe | It All Starts With A Bat",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Bruce Lee",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 482 seconds",
+   "context": "Jeet Kune Do / Bruce Lee",
+   "reading": "Bruce Lee recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ninja",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 513 seconds",
+   "context": "ninja-master fantasy",
+   "reading": "Ninja recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "friendship",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…into responsibility, redistribution, medical repair, apology, therapy, friendship and self-love.",
+   "reading": "friendship is a recurring theme across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "wealth",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 315 seconds",
+   "context": "trauma versus wealth countervoice",
+   "reading": "wealth is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "apology",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…ity, then reverses into responsibility, redistribution, medical repair, apology, therapy, friendship and self-love.",
+   "reading": "apology is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "therapy",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 976 seconds",
+   "context": "therapy and emotional honesty",
+   "reading": "therapy is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "vulnerability",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 826 seconds",
+   "context": "comic vulnerability",
+   "reading": "vulnerability is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

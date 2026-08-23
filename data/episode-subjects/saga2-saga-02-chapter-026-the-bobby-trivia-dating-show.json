@@ -1,0 +1,98 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-saga-02-chapter-026-the-bobby-trivia-dating-show",
+ "title": "Chapter 026 — The Bobby Trivia Dating Show",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Video confirms Saelee threw cake at Critter; she says she meant play, did not know the suit's significance, apologizes and offers to pay, while Critter explains humiliation, cleanup and custom-clothing harm.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "James Jean",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Digital-consent failures recur when friends use Saelee's phone and James Jean's accounts, impersonate them, send a deceptive explicit scrotum image and observe the recipient.",
+   "reading": "James Jean recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Trivia revives Saelee Oh's year-old matchmaking premise while drinking, arranges three private dates, confirms the studio appearanc…",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Critter Fleming",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Saelee Oh's art and Critter Fleming's Momofuku work stay visible beside the dating material.",
+   "reading": "Critter Fleming recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Smith",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A three-month-delayed Kevin Smith conflict shows why release lag matters: a perceived Comic-Con snub is discussed publicly, heard months later, disputed and finally resolved by phone.",
+   "reading": "Kevin Smith recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Saelee Oh",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Bobby Trivia revives Saelee Oh's year-old matchmaking premise while drinking, arranges three private dates, confirms the studio appearance only a day befor…",
+   "reading": "Saelee Oh recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "studio",
+   "recurring_routes": 25,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…king premise while drinking, arranges three private dates, confirms the studio appearance only a day before recording, tells the only available date not to turn back because a one-person confrontation…",
+   "reading": "studio is a recurring place across 25 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "unidentified",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Dinner payment does not erase those claims, and the absent date remains unidentified.",
+   "reading": "unidentified is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "WuufP8mTmd8",
+ "title": "David Choe presents: Marvel Comics' Best, Most Hardcore, Violent, Outlaw Slobberknocker Fight Scene!",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1525 seconds",
+   "context": "Howard Stern",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ed Piskor",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe joins Jim Rugg and Ed Piskor for a page-by-page reading of The Punisher #94–95, drawn by Frank Teran.",
+   "reading": "Ed Piskor recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jim Rugg",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe joins Jim Rugg and Ed Piskor for a page-by-page reading of The Punisher #94–95, drawn by Frank Teran.",
+   "reading": "Jim Rugg recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Geof Darrow",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Geof Darrow recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Quentin Tarantino",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1605 seconds",
+   "context": "question whether Quentin Tarantino knew the comic",
+   "reading": "Quentin Tarantino recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Frank Miller",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 898 seconds",
+   "context": "Frank Miller Batman comparison",
+   "reading": "Frank Miller recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Mike Tyson",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1899 seconds",
+   "context": "Mike Tyson",
+   "reading": "Mike Tyson recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Todd McFarlane",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 194 seconds",
+   "context": "Todd McFarlane",
+   "reading": "Todd McFarlane recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eddie Murphy",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1593 seconds",
+   "context": "Nick Nolte / Eddie Murphy / 48 Hrs. analogy",
+   "reading": "Eddie Murphy recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Frank Quitely",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 186 seconds",
+   "context": "Frank Quitely [probable]",
+   "reading": "Frank Quitely recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ninja",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 381 seconds",
+   "context": "Punisher / Teenage Mutant Ninja Turtles / Batman",
+   "reading": "Ninja recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Sienkiewicz",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 207 seconds",
+   "context": "Bill Sienkiewicz",
+   "reading": "Bill Sienkiewicz recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Hundreds",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Bobby Hundreds recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Rob Liefeld",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 759 seconds",
+   "context": "Rob Liefeld-style pose",
+   "reading": "Rob Liefeld recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sam Kieth",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1096 seconds",
+   "context": "Sam Kieth",
+   "reading": "Sam Kieth recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Simon Bisley",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 1057 seconds",
+   "context": "Simon Bisley",
+   "reading": "Simon Bisley recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 42 seconds",
+   "context": "Choe's Los Angeles self-report",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Korea",
+   "recurring_routes": 14,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Korea is included in this route’s human-reviewed places list.",
+   "reading": "Korea is a recurring place across 14 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

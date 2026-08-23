@@ -1,0 +1,62 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "h9ODc_M8iXU",
+ "title": "Hitchhiking Across China: Thumbs Up Season 3 (Part 5/5)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Macau",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1260 seconds",
+   "context": "Macau gambling breaks the tie",
+   "reading": "Macau is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Beijing",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1111 seconds",
+   "context": "Beijing-to-Shenzhen mission declared complete",
+   "reading": "Beijing is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hong Kong",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1218 seconds",
+   "context": "Stay in China or cross toward Hong Kong",
+   "reading": "Hong Kong is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "friendship",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "friendship is included in this route’s human-reviewed themes list.",
+   "reading": "friendship is a recurring theme across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker uncertainty",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker uncertainty is included in this route’s human-reviewed themes list.",
+   "reading": "speaker uncertainty is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "illness self-report",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "illness self-report is included in this route’s human-reviewed themes list.",
+   "reading": "illness self-report is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

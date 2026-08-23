@@ -1,0 +1,161 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-saga-02-chapter-012-tightey-whiteys",
+ "title": "Chapter 012 — Tightey Whiteys",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Chapter 12 is an 82-minute ensemble episode about Steve Lee's continued employment, Mangchi rehearsal, Poon's old art, PURPS/RVCA and Luke Davis, fan recognition, an explicitly visual…",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Steve is funny and generative in person and can write interesting Mangchi songs with Money Mark, yet his feed shows context-free objects.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Estevan Oriol",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Product/event repairs include PURPS, RVCA, Billabong and Estevan Oriol.",
+   "reading": "Estevan Oriol recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "James Jean",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The Sasha Grey party recap includes James Jean's return, food, rain, Kevin Hayes, Saelee Oh and a wrestling game.",
+   "reading": "James Jean recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4100 seconds",
+   "context": "Bobby Trivia",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sasha Grey",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…s, fan recognition, an explicitly visual ‘tighty-whiteys’ costume, wrestling, a Sasha Grey party, chew-and-spit behavior, social-media craft, trivia and Mangchi performances.",
+   "reading": "Sasha Grey recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Saelee Oh",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The Sasha Grey party recap includes James Jean's return, food, rain, Kevin Hayes, Saelee Oh and a wrestling game.",
+   "reading": "Saelee Oh recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Hayes",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The Sasha Grey party recap includes James Jean's return, food, rain, Kevin Hayes, Saelee Oh and a wrestling game.",
+   "reading": "Kevin Hayes recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "party",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2205 seconds",
+   "context": "Sasha Grey party",
+   "reading": "party is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Macau",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4503 seconds",
+   "context": "Macau brotherhood is not consent",
+   "reading": "Macau is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Oakland",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Trivia repairs Poway, Ralphs, Inglewood, Azusa, Hollywood, Oakland and Pasadena, but racial/antisemitic guesses do not become metadata.",
+   "reading": "Oakland is a recurring place across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "California",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 2430 seconds",
+   "context": "Second in California claim",
+   "reading": "California is a recurring place across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hollywood",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4257 seconds",
+   "context": "Hollywood is not a city",
+   "reading": "Hollywood is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Golden Gate Bridge",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 402 seconds",
+   "context": "Golden Gate Bridge hypothetical",
+   "reading": "Golden Gate Bridge is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Pasadena",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Trivia repairs Poway, Ralphs, Inglewood, Azusa, Hollywood, Oakland and Pasadena, but racial/antisemitic guesses do not become metadata.",
+   "reading": "Pasadena is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

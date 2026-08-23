@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "zgBjoRMyp1Y",
+ "title": "Thumbs UP Season 4 Trailer",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "hitchhiking",
+   "recurring_routes": 12,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 15 seconds",
+   "context": "says they had not yet begun hitchhiking",
+   "reading": "hitchhiking is a recurring theme across 12 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

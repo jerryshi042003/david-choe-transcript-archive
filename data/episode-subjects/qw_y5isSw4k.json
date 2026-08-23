@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "qw_y5isSw4k",
+ "title": "Three Men One Heart- Thumbs UP Spot",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "love",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3 seconds",
+   "context": "mission framed as connecting with warm, unconditional love",
+   "reading": "love is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "survey": {
+  "reader_routes": 421,
+  "coverage": "421 of 421 reader routes have a route-specific recurring-subject record.",
+  "boundary": "Only subjects appearing in at least three human-reviewed routes are shown. A person card distinguishes explicit on-show evidence from editorial context; places and themes describe reviewed route context, not speaker identity."
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-013-with-david-choe-and-asa-akira",
+ "title": "Episode 013",
+ "on_show": [
+  {
+   "name": "Yoshi Obayashi",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 11,
+   "reading": "Yoshi Obayashi is explicitly introduced on this recording and has the same evidence on 11 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2590 seconds",
+   "context": "Critter, drinking, and parental perspective",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 595 seconds",
+   "context": "Howard Stern and anxiety about lifelong sexual drive",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "James Jean",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 830 seconds",
+   "context": "James Jean, unfinished work, and distraction",
+   "reading": "James Jean recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Veruca James",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "It closes with criticism of shallow porn-star interviews, Veruca James as an example, Trivia With Bobby, David's father being born in Manchuria, the recurring lobe punishment, and the musical outro.",
+   "reading": "Veruca James recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Sasha Grey",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Sasha Grey recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Toni Ribas",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The final third considers Asa's new marriage to Toni Ribas, boundaries between performed and private sex, negotiated no-lists, jealousy, work, and the proposed cuckold production.",
+   "reading": "Toni Ribas recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Carol",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2330 seconds",
+   "context": "A fantasy involving Asa, Veruca, and Carol",
+   "reading": "Carol recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Brad Pitt",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Brad Pitt recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "James Deen",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 5080 seconds",
+   "context": "James Deen's blog and performer voice",
+   "reading": "James Deen recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joey Silvera",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2240 seconds",
+   "context": "Joey Silvera and directing around strengths",
+   "reading": "Joey Silvera recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown",
+   "recurring_routes": 22,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Koreatown is included in this route’s human-reviewed places list.",
+   "reading": "Koreatown is a recurring place across 22 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Beverly Hills",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Beverly Hills is included in this route’s human-reviewed places list.",
+   "reading": "Beverly Hills is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Germany",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1365 seconds",
+   "context": "Germany, confidentiality, and an unverified policy claim",
+   "reading": "Germany is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

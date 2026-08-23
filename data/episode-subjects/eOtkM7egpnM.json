@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "eOtkM7egpnM",
+ "title": "David Choe Painting a Mural at the Good Smile Factory in Japan #davidchoe #goodsmilecompany",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "David Choe Painting a Mural at the Good Smile Factory in Japan #davidchoe #goodsmilecompany",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "transcript limitation",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "transcript limitation is included in this route’s human-reviewed themes list.",
+   "reading": "transcript limitation is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "mural painting",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "mural painting is included in this route’s human-reviewed themes list.",
+   "reading": "mural painting is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

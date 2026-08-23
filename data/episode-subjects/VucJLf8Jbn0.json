@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "VucJLf8Jbn0",
+ "title": "Painting in the Facebook Offices with David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Facebook offices",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Painting in the Facebook Offices with David Choe",
+   "reading": "Facebook offices is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "visual record",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A painting-at-Facebook clip contains only “Thank you” in the transcript; it is a visual record of Choe’s office work, not a separate narrated account.",
+   "reading": "visual record is a recurring theme across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "transcript limitation",
+   "recurring_routes": 11,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "transcript limitation is included in this route’s human-reviewed themes list.",
+   "reading": "transcript limitation is a recurring theme across 11 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "mural painting",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "mural painting is included in this route’s human-reviewed themes list.",
+   "reading": "mural painting is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

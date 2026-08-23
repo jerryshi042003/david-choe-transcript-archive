@@ -1,0 +1,125 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga2-saga-02-chapter-004-cock-blocked",
+ "title": "Chapter 004 — Cock Blocked",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The studio begins at 3:50 with Steve Lee beatboxing, Bill Poon, Val, Bobby Trivia and Critter Fleming; Money Mark is touring in Copenhagen and Asa Akira is away for a family emergency.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The studio begins at 3:50 with Steve Lee beatboxing, Bill Poon, Val, Bobby Trivia and Critter Fleming; Money Mark is touring in Copenhagen and Asa Akira is away for a family emergency.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The studio begins at 3:50 with Steve Lee beatboxing, Bill Poon, Val, Bobby Trivia and Critter Fleming; Money Mark is touring in Copenhagen and Asa Akira is away for a family emergency.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The Comedy Store movement follows: Critter is made the object of Bobby Lee crowd work; David later sees Dean Delray, likely Sebastian Maniscalco, Bobby Lee and a surprise Chris Rock set.",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bill Poon",
+   "recurring_routes": 23,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The studio begins at 3:50 with Steve Lee beatboxing, Bill Poon, Val, Bobby Trivia and Critter Fleming; Money Mark is touring in Copenhagen and Asa Akira is away for a family emergency.",
+   "reading": "Bill Poon recurs in 23 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The studio begins at 3:50 with Steve Lee beatboxing, Bill Poon, Val, Bobby Trivia and Critter Fleming; Money Mark is touring in Copenhagen and Asa Akira is away for a family emergency.",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Critter Fleming",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The studio begins at 3:50 with Steve Lee beatboxing, Bill Poon, Val, Bobby Trivia and Critter Fleming; Money Mark is touring in Copenhagen and Asa Akira is away for a family emergency.",
+   "reading": "Critter Fleming recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Chris Rock",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The Comedy Store movement follows: Critter is made the object of Bobby Lee crowd work; David later sees Dean Delray, likely Sebastian Maniscalco, Bobby Lee and a surprise Chris Rock set.",
+   "reading": "Chris Rock recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "studio",
+   "recurring_routes": 25,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 230 seconds",
+   "context": "Studio begins",
+   "reading": "studio is a recurring place across 25 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Copenhagen",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 310 seconds",
+   "context": "Money Mark in Copenhagen",
+   "reading": "Copenhagen is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Comedy Store",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1120 seconds",
+   "context": "Comedy Store",
+   "reading": "Comedy Store is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

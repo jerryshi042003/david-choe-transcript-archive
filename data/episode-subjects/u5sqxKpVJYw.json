@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "u5sqxKpVJYw",
+ "title": "Beef Actor David Choe/Isaac Explains How he raped black woman! Gets cancelled together with Ali Wong",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "recovery",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 227 seconds",
+   "context": "Recovery and self-forgiveness claim",
+   "reading": "recovery is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "apology",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 126 seconds",
+   "context": "Reading the apology",
+   "reading": "apology is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "bxqo4zQWNA0",
+ "title": "Paint What You Can’t Say: Step-by-Step Emotional Art Tutorial",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "grief",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "An emotional art exercise moves from prayer and drawing toward grief for a friend who died by suicide, fear of honest dislike, food and cooking metaphors, and a final palette of shame, anger…",
+   "reading": "grief is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "honesty",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "honesty is included in this route’s human-reviewed themes list.",
+   "reading": "honesty is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

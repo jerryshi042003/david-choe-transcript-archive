@@ -1,0 +1,71 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-070-slink-johnson-cousin-endo-the-armenian-virgin",
+ "title": "Episode 070 — Slink Johnson Cousin Endo the Armenian Virgin",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3181 seconds",
+   "context": "Money Mark leaves",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1802 seconds",
+   "context": "Dinner with David Chang",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Mike Tyson",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2365 seconds",
+   "context": "Mike Tyson and RZA anecdote",
+   "reading": "Mike Tyson recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "RZA",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2365 seconds",
+   "context": "Mike Tyson and RZA anecdote",
+   "reading": "RZA recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Too $hort",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Slink Johnson discusses Lamar Davis in Grand Theft Auto V, Black Jesus, The Boondocks, Too $hort, comedy, school service, adult-film production, graffiti, and the path from class clown to working entertainer.",
+   "reading": "Too $hort recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

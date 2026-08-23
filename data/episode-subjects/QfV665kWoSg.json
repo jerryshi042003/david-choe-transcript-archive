@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "QfV665kWoSg",
+ "title": "ZUCK 1 x DAVID CHOE",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "David Choe (title-level participant)",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "David Choe (title-level participant) recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

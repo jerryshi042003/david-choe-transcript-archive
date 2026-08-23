@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "IM8oNL2-xIs",
+ "title": "Die Antwoord's Ninja joins David Choe's band Mangchi live on stage for the encore",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Steve Lee",
+   "recurring_routes": 52,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "Steve Lee recurs in 52 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Ninja",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A live encore captures Die Antwoord’s Ninja joining Mangchi for an “I Love It” refrain, followed by thanks to Ninja and San Francisco’s Elbo Room; rough lyrics and a racial slur remain warned.",
+   "reading": "Ninja recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "San Francisco",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A live encore captures Die Antwoord’s Ninja joining Mangchi for an “I Love It” refrain, followed by thanks to Ninja and San Francisco’s Elbo Room; rough lyrics and a racial slur remain warned.",
+   "reading": "San Francisco is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

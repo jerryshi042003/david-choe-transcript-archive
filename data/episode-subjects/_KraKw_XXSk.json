@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "_KraKw_XXSk",
+ "title": "How I learned to be Grateful",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "gratitude",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Choe describes gratitude as a practice learned inside situations he dislikes, distinguishes nervous laughter from a genuine chortle, treats crying…",
+   "reading": "gratitude is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "laughter",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…a practice learned inside situations he dislikes, distinguishes nervous laughter from a genuine chortle, treats crying as useful release and ends with twirling as a small physical way to move emotional…",
+   "reading": "laughter is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

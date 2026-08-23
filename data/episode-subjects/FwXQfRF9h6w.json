@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "FwXQfRF9h6w",
+ "title": "Igloo Hong Murals with Herbert Baglione and David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Brazil",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Brazil is included in this route’s human-reviewed places list.",
+   "reading": "Brazil is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "visual record",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "visual record is included in this route’s human-reviewed themes list.",
+   "reading": "visual record is a recurring theme across 13 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

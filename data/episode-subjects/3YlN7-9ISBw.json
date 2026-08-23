@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "3YlN7-9ISBw",
+ "title": "David Choe Diet Magic Story",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "David Choe (source-level channel attribution only; line-level performer unresolved)",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "David Choe (source-level channel attribution only; line-level performer unresolved) recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Larry Flynt",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 48 seconds",
+   "context": "the Larry Flynt Building [dangling next-scene fragment]",
+   "reading": "Larry Flynt recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4 seconds",
+   "context": "speaker says parents’ business burned during the 1992 Los Angeles unrest",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Beverly Hills",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 39 seconds",
+   "context": "speaker says family lived in Beverly Hills and was doing well",
+   "reading": "Beverly Hills is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

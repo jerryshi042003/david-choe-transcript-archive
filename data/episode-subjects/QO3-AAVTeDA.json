@@ -1,0 +1,125 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "QO3-AAVTeDA",
+ "title": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe and Harry Kim begin a cross-country trip from the Los Angeles rail yard, freight-hop through Yermo and Kelso, gamble in Las Vegas, sleep beside a casino pool and finally hitch a ride east in a windowless van.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 47 seconds",
+   "context": "Harry Kim joins at the Los Angeles rail yard",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…e Los Angeles rail yard, freight-hop through Yermo and Kelso, gamble in Las Vegas, sleep beside a casino pool and finally hitch a ride east in a windowless van.",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "hitchhiking",
+   "recurring_routes": 12,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "hitchhiking is included in this route’s human-reviewed themes list.",
+   "reading": "hitchhiking is a recurring theme across 12 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "gambling",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 432 seconds",
+   "context": "Gambling replaces the earlier void",
+   "reading": "gambling is a recurring theme across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker-label provenance",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "speaker-label provenance is included in this route’s human-reviewed themes list.",
+   "reading": "speaker-label provenance is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "risk",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "risk is included in this route’s human-reviewed themes list.",
+   "reading": "risk is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "addiction",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "addiction is included in this route’s human-reviewed themes list.",
+   "reading": "addiction is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "fear",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1030 seconds",
+   "context": "First ride, fear, resentment and the windowless van",
+   "reading": "fear is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "hospitality",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…de juxtaposes illegal and dangerous travel with strangers' warnings and hospitality, then turns a casino comp into a compact gambling-harm sequence: prior win, special treatment, loss, cash advance and fur…",
+   "reading": "hospitality is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "honesty",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "honesty is included in this route’s human-reviewed themes list.",
+   "reading": "honesty is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "freight hopping",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "freight hopping is included in this route’s human-reviewed themes list.",
+   "reading": "freight hopping is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "trust",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 197 seconds",
+   "context": "Never trust anyone, except each other",
+   "reading": "trust is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

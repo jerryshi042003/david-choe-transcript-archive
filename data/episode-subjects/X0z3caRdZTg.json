@@ -1,0 +1,53 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "X0z3caRdZTg",
+ "title": "David Choe Made Millions From Facebook | Wild Ride! Clips",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Steve-O",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "In a Steve-O interview excerpt, Choe separates money from adventure, recalls hitchhiking and stunts before wealth, explains accepting Fac…",
+   "reading": "Steve-O recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "excerpt provenance",
+   "recurring_routes": 29,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "excerpt provenance is included in this route’s human-reviewed themes list.",
+   "reading": "excerpt provenance is a recurring theme across 29 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "hitchhiking",
+   "recurring_routes": 12,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…Steve-O interview excerpt, Choe separates money from adventure, recalls hitchhiking and stunts before wealth, explains accepting Facebook stock as a gamble, and emphasizes the practice hidden behind appare…",
+   "reading": "hitchhiking is a recurring theme across 12 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "gambling",
+   "recurring_routes": 10,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "gambling is included in this route’s human-reviewed themes list.",
+   "reading": "gambling is a recurring theme across 10 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "wealth",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…e separates money from adventure, recalls hitchhiking and stunts before wealth, explains accepting Facebook stock as a gamble, and emphasizes the practice hidden behind apparently spontaneous painting…",
+   "reading": "wealth is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

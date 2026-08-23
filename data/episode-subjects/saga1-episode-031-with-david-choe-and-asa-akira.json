@@ -1,0 +1,224 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-031-with-david-choe-and-asa-akira",
+ "title": "Episode 031",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Harris Wittels joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode that moves from television comedy and the invention of “humblebrag” into one of th…",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Harris Wittels joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode that moves from television comedy and the invention of “humblebrag” into…",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 3781 seconds",
+   "context": "Bobby Lee is proposed",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 668 seconds",
+   "context": "Howard Stern and Barbara Walters",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Harris Wittels joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode that moves from television comedy and the invention of “humblebrag” into one of the corpus's…",
+   "reading": "Valentin recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Pamela Adlon",
+   "recurring_routes": 10,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 397 seconds",
+   "context": "Pamela Adlon arrived from Louie",
+   "reading": "Pamela Adlon recurs in 10 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Barbara Walters",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 668 seconds",
+   "context": "Howard Stern and Barbara Walters",
+   "reading": "Barbara Walters recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Andy Milonakis",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 273 seconds",
+   "context": "Valentin remembers Andy Milonakis from a magazine",
+   "reading": "Andy Milonakis recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Aubrey Plaza",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Trivia moves through Emily VanCamp, Blink-182, Temple of the Dog, Chris Cornell, and Eddie Vedder before Harris's introduction to Aubrey Plaza closes the interview.",
+   "reading": "Aubrey Plaza recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Chris Rock",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 6079 seconds",
+   "context": "A Howard Stern memory about Chris Rock",
+   "reading": "Chris Rock recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harris Wittels",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Harris Wittels joins David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba for an episode that moves from television comedy…",
+   "reading": "Harris Wittels recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Scott Rudin",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 846 seconds",
+   "context": "Scott Rudin proposes a life-based series",
+   "reading": "Scott Rudin recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Stacey Adams",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 3676 seconds",
+   "context": "Stacey Adams is named",
+   "reading": "Stacey Adams recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Chris Cornell",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Trivia moves through Emily VanCamp, Blink-182, Temple of the Dog, Chris Cornell, and Eddie Vedder before Harris's introduction to Aubrey Plaza closes the interview.",
+   "reading": "Chris Cornell recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Everlast",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 381 seconds",
+   "context": "Everlast recognizes the show",
+   "reading": "Everlast recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Too $hort",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 369 seconds",
+   "context": "Critter's Eminem, House of Pain, and Too $hort library",
+   "reading": "Too $hort recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Hawaii",
+   "recurring_routes": 23,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 675 seconds",
+   "context": "David met Harris in Hawaii",
+   "reading": "Hawaii is a recurring place across 23 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "New York",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 645 seconds",
+   "context": "The New York Times precedes a breakdown",
+   "reading": "New York is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "UCLA",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 6207 seconds",
+   "context": "A UCLA encounter changes the subject",
+   "reading": "UCLA is a recurring place across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Downtown Los Angeles",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Downtown Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Downtown Los Angeles is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Boston",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1183 seconds",
+   "context": "A Boston Marathon bombing joke",
+   "reading": "Boston is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "privacy",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "privacy is included in this route’s human-reviewed themes list.",
+   "reading": "privacy is a recurring theme across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "self-publishing",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4092 seconds",
+   "context": "Self-publishing preserves rights",
+   "reading": "self-publishing is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

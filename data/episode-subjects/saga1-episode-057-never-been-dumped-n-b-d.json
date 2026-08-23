@@ -1,0 +1,231 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-057-never-been-dumped-n-b-d",
+ "title": "Episode 057 — Never Been Dumped N B D",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  },
+  {
+   "name": "Valentin",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 15,
+   "reading": "Valentin is explicitly introduced on this recording and has the same evidence on 15 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David says heartbreak, brief incarceration, and gambling loss restored urgency; Critter and Asa distinguish finding meaning afterward from enjoying suffering.",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "He recalls performing at the Echoplex with Kid Koala, Money Mark, and Dan the Automator before answering questions through rapid video with a large rotating group.",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Chang",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 1784 seconds",
+   "context": "David Chang joins an answer",
+   "reading": "David Chang recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "He contrasts an expansive Howard Stern appearance with the production constraints of Barbara Walters's 2012 ABC interview.",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Estevan Oriol",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Public-name repairs include Mark Spiegler, Jessie Andrews, Daniel Dae Kim, Estevan Oriol, Eric Nakamura, Krondon, Brother Ali, Stacey Adams, Carey Mulligan, Kum Gang San, and the Friday Night Lights and Parks and…",
+   "reading": "Estevan Oriol recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Veruca James",
+   "recurring_routes": 12,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 2353 seconds",
+   "context": "Veruca James remembered",
+   "reading": "Veruca James recurs in 12 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Bobby Trivia",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5551 seconds",
+   "context": "Bobby Trivia",
+   "reading": "Bobby Trivia recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "explicitly-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "context": "Valentin is explicitly introduced on this recording.",
+   "reading": "Valentin recurs in 11 reviewed routes and is explicitly introduced on this recording."
+  },
+  {
+   "kind": "people",
+   "name": "Mark Spiegler",
+   "recurring_routes": 7,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Public-name repairs include Mark Spiegler, Jessie Andrews, Daniel Dae Kim, Estevan Oriol, Eric Nakamura, Krondon, Brother Ali, Stacey Adams, Carey Mulligan, Kum Gang…",
+   "reading": "Mark Spiegler recurs in 7 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Barbara Walters",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "He contrasts an expansive Howard Stern appearance with the production constraints of Barbara Walters's 2012 ABC interview.",
+   "reading": "Barbara Walters recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Dan the Automator",
+   "recurring_routes": 6,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "He recalls performing at the Echoplex with Kid Koala, Money Mark, and Dan the Automator before answering questions through rapid video with a large rotating group.",
+   "reading": "Dan the Automator recurs in 6 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jessie Andrews",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Public-name repairs include Mark Spiegler, Jessie Andrews, Daniel Dae Kim, Estevan Oriol, Eric Nakamura, Krondon, Brother Ali, Stacey Adams, Carey Mulligan, Kum Gang San, and the Fri…",
+   "reading": "Jessie Andrews recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Stacey Adams",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…ie Andrews, Daniel Dae Kim, Estevan Oriol, Eric Nakamura, Krondon, Brother Ali, Stacey Adams, Carey Mulligan, Kum Gang San, and the Friday Night Lights and Parks and Recreation characters.",
+   "reading": "Stacey Adams recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Daniel Dae Kim",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Public-name repairs include Mark Spiegler, Jessie Andrews, Daniel Dae Kim, Estevan Oriol, Eric Nakamura, Krondon, Brother Ali, Stacey Adams, Carey Mulligan, Kum Gang San, and the Friday Night Lights…",
+   "reading": "Daniel Dae Kim recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eric Nakamura",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…e repairs include Mark Spiegler, Jessie Andrews, Daniel Dae Kim, Estevan Oriol, Eric Nakamura, Krondon, Brother Ali, Stacey Adams, Carey Mulligan, Kum Gang San, and the Friday Night Lights and Parks and Recreation char…",
+   "reading": "Eric Nakamura recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Jon Favreau",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 5886 seconds",
+   "context": "Jon Favreau and Rashida Jones",
+   "reading": "Jon Favreau recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "New York",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 943 seconds",
+   "context": "First-class trip to New York",
+   "reading": "New York is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Mexico",
+   "recurring_routes": 15,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3999 seconds",
+   "context": "Mexico relationship three weeks later",
+   "reading": "Mexico is a recurring place across 15 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Reddit",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 1646 seconds",
+   "context": "Reddit AMA proposed",
+   "reading": "Reddit is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Norway",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 4200 seconds",
+   "context": "Protected Norway date",
+   "reading": "Norway is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

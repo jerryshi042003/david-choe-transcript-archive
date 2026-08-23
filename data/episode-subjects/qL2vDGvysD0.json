@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "qL2vDGvysD0",
+ "title": "David Choe Had Art Lessons With The Hadza Tribe | Joe Rogan Experience",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed route title",
+   "context": "David Choe Had Art Lessons With The Hadza Tribe | Joe Rogan Experience",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

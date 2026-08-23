@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "Yknrg-63674",
+ "title": "Hitchhiking Across America with David Choe (Full Documentary)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe and Harry Kim cross the United States without paying for rides, moving by freight train, hitchhiking, casino hospitality, an inflatable river tube, private vehicles and a farm-worker bus.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 60 seconds",
+   "context": "Los Angeles rail-yard search",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Las Vegas",
+   "recurring_routes": 26,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 626 seconds",
+   "context": "Arrival in Las Vegas",
+   "reading": "Las Vegas is a recurring place across 26 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Miami",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 5177 seconds",
+   "context": "Arrival in Miami",
+   "reading": "Miami is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

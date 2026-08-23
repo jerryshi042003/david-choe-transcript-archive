@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "h4fE_LwuTC0",
+ "title": "Missed Opportunities A Story Explaining How David Choe Almost Was the Drummer of the Band Crazy Town",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "music",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "music is included in this route’s human-reviewed themes list.",
+   "reading": "music is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "regret",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "regret is included in this route’s human-reviewed themes list.",
+   "reading": "regret is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

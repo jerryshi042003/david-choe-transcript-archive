@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "tKTL30a-DS4",
+ "title": "David Choe LOVES Being Gay | Joe Rogan | JRE 1965",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Joe Rogan",
+   "recurring_routes": 33,
+   "state": "editorial-context",
+   "source": "reviewed route title",
+   "context": "David Choe LOVES Being Gay | Joe Rogan | JRE 1965",
+   "reading": "Joe Rogan recurs in 33 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "David Choe (title-level subject)",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "David Choe (title-level subject) recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

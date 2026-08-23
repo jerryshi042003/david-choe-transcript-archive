@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "0d9gqEc86-o",
+ "title": "Audition to Healing: A Brave Artistic Journey Through \"The Choe Show\"",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "painting",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 889 seconds",
+   "context": "The best painting so far",
+   "reading": "painting is a recurring theme across 4 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

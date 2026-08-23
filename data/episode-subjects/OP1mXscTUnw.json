@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "OP1mXscTUnw",
+ "title": "David Choe | KQED Spark",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 128 seconds",
+   "context": "Los Angeles rejection recalled",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Japan",
+   "recurring_routes": 38,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 483 seconds",
+   "context": "Japan drawings, writings and paintings",
+   "reading": "Japan is a recurring place across 38 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Tokyo",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 261 seconds",
+   "context": "Late-2003 Tokyo invitation",
+   "reading": "Tokyo is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

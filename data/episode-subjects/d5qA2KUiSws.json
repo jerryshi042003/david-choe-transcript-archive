@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "d5qA2KUiSws",
+ "title": "How Can You Be Creative If You Don't Know Who You Are?",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "identity",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "identity is included in this route’s human-reviewed themes list.",
+   "reading": "identity is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

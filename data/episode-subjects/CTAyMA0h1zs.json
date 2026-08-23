@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "CTAyMA0h1zs",
+ "title": "My Mom Tried to Sabotage My Birthday Party... Again",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "unidentified primary storyteller",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial people list",
+   "context": "Listed by the reviewed route editorial; no on-show or voice claim follows from that listing alone.",
+   "reading": "unidentified primary storyteller recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  }
+ ]
+}

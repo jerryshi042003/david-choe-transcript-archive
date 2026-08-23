@@ -1,0 +1,44 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "ieBa-DrOj5A",
+ "title": "David Choe and Steven Yeun Finally Get Bobby Lee's Official Picture on the Wall at Parks BBQ",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Bobby Lee",
+   "recurring_routes": 38,
+   "state": "editorial-context",
+   "source": "reviewed route title",
+   "context": "David Choe and Steven Yeun Finally Get Bobby Lee's Official Picture on the Wall at Parks BBQ",
+   "reading": "Bobby Lee recurs in 38 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Steven Yeun",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed route title",
+   "context": "David Choe and Steven Yeun Finally Get Bobby Lee's Official Picture on the Wall at Parks BBQ",
+   "reading": "Steven Yeun recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown",
+   "recurring_routes": 22,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 22 seconds",
+   "context": "Koreatown context",
+   "reading": "Koreatown is a recurring place across 22 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "celebrity recognition",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "celebrity recognition is included in this route’s human-reviewed themes list.",
+   "reading": "celebrity recognition is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

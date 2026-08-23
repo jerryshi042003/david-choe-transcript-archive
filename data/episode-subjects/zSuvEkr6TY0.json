@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "zSuvEkr6TY0",
+ "title": "Art lessons with David Choe",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "underpainting",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A short art lesson shows Choe using an architecture presentation board for an underpainting, accepting bleeding material, misting color across it and ending by pointing to the best result.",
+   "reading": "underpainting is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

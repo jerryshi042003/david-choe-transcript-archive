@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "x5jTxz_n2yo",
+ "title": "Thumbs Up Season 5 TEASER (Philippines, Manila, Siargao)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "truncation",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "truncation is included in this route’s human-reviewed themes list.",
+   "reading": "truncation is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "saga1-episode-037-with-david-choe-and-asa-akira",
+ "title": "Episode 037",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  },
+  {
+   "name": "Asa Akira",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 92,
+   "reading": "Asa Akira is explicitly introduced on this recording and has the same evidence on 92 routes."
+  }
+ ],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Critter",
+   "recurring_routes": 70,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Episode 037 has no outside guest: David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba use the room to announce Thumbs Up!",
+   "reading": "Critter recurs in 70 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Episode 037 has no outside guest: David Choe, Asa Akira, Money Mark, Critter, Valentin, and Bobby Namba use the room to announce Thumbs Up!",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Stephanie Choe translated a prior international trip; Harry Kim filmed *Dirty Hands*, joined *Koreans Gone Bad*, protected David during gambling, and initially refused a fourth season.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Howard Stern",
+   "recurring_routes": 25,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "The episode then becomes an origin history of DVDASA: The Howard Stern Show, Bubba the Love Sponge, Loveline, The Poorman, Adam Carolla, Joe Frank, Kevin Smith, Maury Showbizawitz, Yoshi Obayashi…",
+   "reading": "Howard Stern recurs in 25 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Maury Showbizawitz",
+   "recurring_routes": 13,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…a the Love Sponge, Loveline, The Poorman, Adam Carolla, Joe Frank, Kevin Smith, Maury Showbizawitz, Yoshi Obayashi, Joey Kurtzman, and Koreans Gone Bad.",
+   "reading": "Maury Showbizawitz recurs in 13 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Valentin",
+   "recurring_routes": 11,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 330 seconds",
+   "context": "Valentin considers observing rather than performing",
+   "reading": "Valentin recurs in 11 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Kevin Smith",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…rn Show, Bubba the Love Sponge, Loveline, The Poorman, Adam Carolla, Joe Frank, Kevin Smith, Maury Showbizawitz, Yoshi Obayashi, Joey Kurtzman, and Koreans Gone Bad.",
+   "reading": "Kevin Smith recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Toni Ribas",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "Asa discusses hypothetical boundaries with Toni Ribas, while David gives a detailed first-person account of compulsive pornography collection and multi-window viewing.",
+   "reading": "Toni Ribas recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Eli Roth",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 111 seconds",
+   "context": "Eli Roth, Hostel, and the Bear Jew",
+   "reading": "Eli Roth recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Joey Kurtzman",
+   "recurring_routes": 5,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…rman, Adam Carolla, Joe Frank, Kevin Smith, Maury Showbizawitz, Yoshi Obayashi, Joey Kurtzman, and Koreans Gone Bad.",
+   "reading": "Joey Kurtzman recurs in 5 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Adam Carolla",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "…of DVDASA: The Howard Stern Show, Bubba the Love Sponge, Loveline, The Poorman, Adam Carolla, Joe Frank, Kevin Smith, Maury Showbizawitz, Yoshi Obayashi, Joey Kurtzman, and Koreans Gone Bad.",
+   "reading": "Adam Carolla recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "Carol",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 4410 seconds",
+   "context": "Bobby is recognized without Carol hearing",
+   "reading": "Carol recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "people",
+   "name": "B.B. Jones",
+   "recurring_routes": 3,
+   "state": "editorial-context",
+   "source": "human-reviewed chapter heading at 2471 seconds",
+   "context": "B.B. Jones is Valentin's exception",
+   "reading": "B.B. Jones recurs in 3 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "New York",
+   "recurring_routes": 20,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 3418 seconds",
+   "context": "New York becomes the hoped-for destination",
+   "reading": "New York is a recurring place across 20 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Korea",
+   "recurring_routes": 14,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Vice's growth, Dennis Rodman in North Korea, and Kim Jong-un establish the changed platform.",
+   "reading": "Korea is a recurring place across 14 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "San Francisco",
+   "recurring_routes": 13,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Season 4 will begin in San Francisco's Castro and aim for New York, with rest days, a producer, compensation, and other safeguards negotiated after prior trips caused exhaustion and crew breakdown.",
+   "reading": "San Francisco is a recurring place across 13 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "unidentified",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "The fan remains unidentified and the accusation remains speculation.",
+   "reading": "unidentified is a recurring place across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "North Korea",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "Vice's growth, Dennis Rodman in North Korea, and Kim Jong-un establish the changed platform.",
+   "reading": "North Korea is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "DVDASA episode context",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "DVDASA episode context is included in this route’s human-reviewed themes list.",
+   "reading": "DVDASA episode context is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "long-form conversation",
+   "recurring_routes": 150,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "long-form conversation is included in this route’s human-reviewed themes list.",
+   "reading": "long-form conversation is a recurring theme across 150 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

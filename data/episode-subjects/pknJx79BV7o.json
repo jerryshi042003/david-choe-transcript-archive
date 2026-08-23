@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "pknJx79BV7o",
+ "title": "Choe Show Trailer on Hulu",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "decoder failure",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "A Hulu trailer for The Choe Show has a repeated one-word decoder failure; it is cataloged as platform trailer evidence without manufacturing scenes or dialogue.",
+   "reading": "decoder failure is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

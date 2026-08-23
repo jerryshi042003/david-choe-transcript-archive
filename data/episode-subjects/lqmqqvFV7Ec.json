@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "lqmqqvFV7Ec",
+ "title": "Walrus TV Artist Feature:  David Choe Interview from \"Dithers\"",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Larry Flynt",
+   "recurring_routes": 4,
+   "state": "editorial-context",
+   "source": "reviewed chapter at 162 seconds",
+   "context": "Writing to the Larry Flynt building",
+   "reading": "Larry Flynt recurs in 4 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Los Angeles",
+   "recurring_routes": 88,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed chapter at 116 seconds",
+   "context": "Diet Magic after the Los Angeles riots",
+   "reading": "Los Angeles is a recurring place across 88 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

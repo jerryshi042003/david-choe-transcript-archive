@@ -1,0 +1,16 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "3VsxLsfX1eo",
+ "title": "DAVID CHOE: HIGH RISK (2015) | Official Trailer",
+ "on_show": [
+  {
+   "name": "David Choe",
+   "state": "explicitly-introduced-on-show",
+   "source": "opening transcript introduction (first three minutes)",
+   "recurring_status": "recurring-on-show-participant",
+   "recurring_count": 104,
+   "reading": "David Choe is explicitly introduced on this recording and has the same evidence on 104 routes."
+  }
+ ],
+ "items": []
+}

@@ -1,0 +1,26 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "xANsVQ33p4Q",
+ "title": "Kevin Smith Interview (2015) | David Choe: High Risk [HD] | Documentary",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Kevin Smith",
+   "recurring_routes": 9,
+   "state": "editorial-context",
+   "source": "reviewed route title",
+   "context": "Kevin Smith Interview (2015) | David Choe: High Risk [HD] | Documentary",
+   "reading": "Kevin Smith recurs in 9 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "themes",
+   "name": "grief",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "The source term “crippled,” care mechanics, profanity masks and grief remain uncensored.",
+   "reading": "grief is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

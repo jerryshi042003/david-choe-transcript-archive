@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "TzEI4nsKhx4",
+ "title": "Watch David Choe Create a Masterpiece in the Facebook Offices - Unbelievable Super 8 Footage!",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "places",
+   "name": "Facebook offices",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Watch David Choe Create a Masterpiece in the Facebook Offices - Unbelievable Super 8 Footage!",
+   "reading": "Facebook offices is a recurring place across 3 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "decoder failure",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "decoder failure is included in this route’s human-reviewed themes list.",
+   "reading": "decoder failure is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "mural painting",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "mural painting is included in this route’s human-reviewed themes list.",
+   "reading": "mural painting is a recurring theme across 5 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

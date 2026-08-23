@@ -1,0 +1,89 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "Xo6Hj9hw96I",
+ "title": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Harry Kim",
+   "recurring_routes": 43,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "David Choe and Harry Kim restart Thumbs Up in Tijuana, return to Los Angeles through a border rail yard, briefly visit David's parents and head north toward Alaska by truck, hitchhiking and freight train.",
+   "reading": "Harry Kim recurs in 43 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "San Diego",
+   "recurring_routes": 9,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "San Diego is included in this route’s human-reviewed places list.",
+   "reading": "San Diego is a recurring place across 9 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Koreatown, Los Angeles",
+   "recurring_routes": 5,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "Koreatown, Los Angeles is included in this route’s human-reviewed places list.",
+   "reading": "Koreatown, Los Angeles is a recurring place across 5 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "places",
+   "name": "Tijuana",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)",
+   "reading": "Tijuana is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "hitchhiking",
+   "recurring_routes": 12,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "Hitchhiking from Tijuana to the North Pole: Thumbs Up Season 2 (Part 1/4)",
+   "reading": "hitchhiking is a recurring theme across 12 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "speaker-label provenance",
+   "recurring_routes": 8,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…illegality, private family/driver identities, speculation and publisher speaker-label provenance separate from literal transcript text.",
+   "reading": "speaker-label provenance is a recurring theme across 8 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "risk",
+   "recurring_routes": 7,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed editorial summary",
+   "context": "…al layer preserves every idea and source-era term while keeping medical risk, coercive language, illegality, private family/driver identities, speculation and publisher speaker-label provenance sepa…",
+   "reading": "risk is a recurring theme across 7 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "travel",
+   "recurring_routes": 6,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "travel is included in this route’s human-reviewed themes list.",
+   "reading": "travel is a recurring theme across 6 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "freight hopping",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "freight hopping is included in this route’s human-reviewed themes list.",
+   "reading": "freight hopping is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

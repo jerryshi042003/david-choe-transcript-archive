@@ -1,0 +1,17 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "TBUXC2lXvCE",
+ "title": "Why Artists Don’t Grow, And How to Let Go",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "themes",
+   "name": "vulnerability",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "vulnerability is included in this route’s human-reviewed themes list.",
+   "reading": "vulnerability is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}

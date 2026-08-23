@@ -1,0 +1,35 @@
+{
+ "schema": "choe-corpus/episode-subjects@1",
+ "id": "5iUX02mRsGc",
+ "title": "How I Met David Choe & DVDASA in Vancouver? (The Choe Method)",
+ "on_show": [],
+ "items": [
+  {
+   "kind": "people",
+   "name": "Money Mark",
+   "recurring_routes": 50,
+   "state": "editorial-context",
+   "source": "human-reviewed editorial summary",
+   "context": "A Vancouver fan recounts discovering Choe and DVDASA, meeting Money Mark and members of the crew, freezing into fangirl behavior and later treating the encounter as one influence on his hustle and…",
+   "reading": "Money Mark recurs in 50 reviewed routes; this card records context, not an appearance or voice claim."
+  },
+  {
+   "kind": "places",
+   "name": "Vancouver",
+   "recurring_routes": 4,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route title",
+   "context": "How I Met David Choe & DVDASA in Vancouver? (The Choe Method)",
+   "reading": "Vancouver is a recurring place across 4 reviewed routes and is marked in this episode’s editorial context."
+  },
+  {
+   "kind": "themes",
+   "name": "creative influence",
+   "recurring_routes": 3,
+   "state": "reviewed-recurring-subject",
+   "source": "reviewed route tags",
+   "context": "creative influence is included in this route’s human-reviewed themes list.",
+   "reading": "creative influence is a recurring theme across 3 reviewed routes and is marked in this episode’s editorial context."
+  }
+ ]
+}
