@@ -101,6 +101,20 @@ try {
   assert.equal(mobileHome.rowThumbs, 24, 'every initially visible recording needs a thumbnail');
   assert.equal(mobileHome.count, 'Showing 24 of 434 transcripts');
   assert.equal(mobileHome.reveal, 'Show all 434 recordings');
+  assert.equal(await evaluate(`document.querySelector('.primary-nav a[href="#subjects"]')?.textContent.trim()`),
+    'Recurring subjects', 'primary navigation exposes the recurring-subject index');
+
+  await evaluate(`document.querySelector('.primary-nav a[href="#subjects"]').click()`);
+  const subjectsFromNav = await waitFor(async () => {
+    const page = await evaluate(`({
+      title: document.querySelector('#rtitle')?.textContent,
+      active: document.querySelector('.primary-nav a[href="#subjects"]')?.getAttribute('aria-current')
+    })`);
+    return page.title === 'Recurring subjects' ? page : null;
+  }, 'Recurring subjects from primary navigation');
+  assert.equal(subjectsFromNav.active, 'page');
+
+  await navigate(target, `document.querySelectorAll('#cards li').length === 24 && document.querySelector('#listReveal button')`);
 
   await evaluate(`document.querySelector('#cards').scrollIntoView()`);
   await delay(200);

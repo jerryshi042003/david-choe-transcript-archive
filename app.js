@@ -1129,7 +1129,7 @@ function route() {
   const corpusRoute = ANALYSIS_GROUPS.some(([, rows]) => rows.some(([key]) => key === raw));
   $('reader').classList.toggle('analysis-view', corpusRoute);
   $('main').classList.toggle('wide', corpusRoute || raw === '');
-  renderPrimary(raw === 'recent' ? 'recent' : corpusRoute ? 'corpus' : 'recordings');
+  renderPrimary(raw === 'recent' ? 'recent' : raw === 'subjects' ? 'subjects' : corpusRoute ? 'corpus' : 'recordings');
   if (raw === 'ranch') return renderHub();
   if (raw === 'overview') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
