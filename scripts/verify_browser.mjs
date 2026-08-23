@@ -201,14 +201,31 @@ try {
   const presence = await navigate(`${target.replace(/#.*$/, '')}#presence`,
     `document.querySelector('#rtitle')?.textContent === 'On-show presence & speaker evidence' && ({
       hint: document.querySelector('#fhint')?.textContent,
-      asa: document.querySelector('#body')?.textContent,
+      text: document.querySelector('#body')?.textContent,
+      tooltips: document.querySelectorAll('.evidence-badge[data-tooltip]').length,
+      focusableTooltips: document.querySelectorAll('.evidence-badge[tabindex="0"]').length,
+      finder: document.querySelector('#presencePeopleSearch')?.getAttribute('placeholder'),
       clientWidth: document.documentElement.clientWidth,
       scrollWidth: document.documentElement.scrollWidth
     })`);
   assert.match(presence.hint, /421 of 421 reader routes/);
-  assert.match(presence.asa, /Asa Akira: 92 routes explicitly introduce her as on-show/);
-  assert.match(presence.asa, /0 routes currently have a validated voice attribution/);
+  assert.match(presence.text, /Asa Akira: 92 routes explicitly introduce her as on-show/);
+  assert.match(presence.text, /Bourdain check/);
+  assert.match(presence.text, /30 reviewed route references and 0 explicit on-show introductions/);
+  assert.ok(presence.tooltips >= 20, 'presence view needs hover explanations');
+  assert.equal(presence.focusableTooltips, presence.tooltips, 'every hover explanation must be keyboard focusable');
+  assert.equal(presence.finder, 'Search people, e.g. Bourdain');
   assert.equal(presence.scrollWidth, presence.clientWidth, 'On-show presence overflows at 390px');
+  await evaluate(`(() => { const input = document.querySelector('#presencePeopleSearch'); input.value = 'Bourdain'; input.dispatchEvent(new Event('input', { bubbles: true })); })()`);
+  const bourdainSearch = await waitFor(async () => {
+    const result = await evaluate(`({
+      people: [...document.querySelectorAll('.presence-person h4')].map((heading) => heading.textContent),
+      text: document.querySelector('#presencePeople')?.textContent
+    })`);
+    return result.people.length === 1 ? result : null;
+  }, 'Bourdain presence search');
+  assert.deepEqual(bourdainSearch.people, ['Anthony Bourdain']);
+  assert.match(bourdainSearch.text, /Context only/);
 
   await call('Emulation.setDeviceMetricsOverride', {
     width: 1280, height: 900, deviceScaleFactor: 1, mobile: false,
@@ -226,7 +243,7 @@ try {
   assert.equal(desktop.rows, 24);
   assert.equal(desktop.rowThumbs, 24);
 
-  console.log(`browser completion: desktop + 390px, 434 recording reveal, 119 video reveal, reader status, images, and zero overflow passed`);
+  console.log(`browser completion: desktop + 390px, 434 recording reveal, 119 video reveal, reader status, evidence hovers/search, images, and zero overflow passed`);
   console.log(`390px screenshot: ${screenshotPath}`);
 } finally {
   if (socket?.readyState === WebSocket.OPEN) socket.close();

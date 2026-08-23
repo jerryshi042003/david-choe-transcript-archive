@@ -659,22 +659,102 @@ async function renderPresence() {
   const survey = data.survey || {};
   const people = data.people || [];
   $('fhint').textContent = survey.coverage || '';
+  const routesByPerson = new Map();
+  (data.routes || []).forEach((route) => {
+    [...(route.on_show || []), ...(route.editorial_context || [])].forEach((entry) => {
+      const routes = routesByPerson.get(entry.name) || [];
+      let match = routes.find((candidate) => candidate.id === route.id);
+      if (!match) {
+        match = { id: route.id, title: route.title, evidence: [] };
+        routes.push(match);
+      }
+      match.evidence.push(entry);
+      routesByPerson.set(entry.name, routes);
+    });
+  });
   const asa = people.find((person) => person.name === 'Asa Akira');
-  const personRows = people.map((person) => `<tr>
-    <td>${esc(person.name)}</td>
-    <td class="num">${person.explicitly_introduced_on_show}</td>
-    <td class="num">${person.voice_attributed}</td>
-  </tr>`).join('');
-  const asaRoutes = (asa?.routes || []).map((route) =>
-    `<a href="#/${esc(route.id)}">${esc(route.title)}</a>`).join(' · ');
+  const bourdain = people.find((person) => person.name === 'Anthony Bourdain');
+  const badge = (label, detail, tone = 'context', count = '') => `<span class="evidence-badge ${tone}" tabindex="0"
+    data-tooltip="${esc(detail)}" aria-label="${esc(`${label}${count === '' ? '' : `: ${count}`}. ${detail}`)}">${esc(label)}${count === '' ? '' : `<b>${count}</b>`}<span class="vh">. ${esc(detail)}</span></span>`;
+  const personKind = (person) => {
+    if (person.evidence_state === 'recurring-on-show-participant') {
+      return badge('Recurring on-show', `Explicit opening-introduction evidence on ${person.explicitly_introduced_on_show} routes. This is not a claim about every appearance or every spoken line.`, 'onshow');
+    }
+    if (person.evidence_state === 'explicit-on-show-participant') {
+      return badge('On show', `An explicit opening introduction identifies this person on ${person.explicitly_introduced_on_show} route${person.explicitly_introduced_on_show === 1 ? '' : 's'}.`, 'onshow');
+    }
+    return badge('Context only', 'Named by human-reviewed editorial context, not evidence that the person appeared or spoke on this recording.', 'context');
+  };
+  const routeEvidence = (entry) => {
+    if (entry.state === 'explicitly-introduced-on-show') {
+      return badge('On show', `${entry.provenance}. This establishes presence, not an individual voice attribution.`, 'onshow');
+    }
+    return badge('Context mention', `${entry.provenance}: ${entry.context}`, 'context');
+  };
+  const personCard = (person) => {
+    const personRoutes = routesByPerson.get(person.name) || [];
+    const routes = personRoutes.map((route) => `<li>
+      <a href="#/${esc(route.id)}">${esc(route.title)}</a>
+      <span class="route-evidence">${(route.evidence || []).map(routeEvidence).join('')}</span>
+    </li>`).join('');
+    const onShowDetail = person.explicitly_introduced_on_show
+      ? `${person.explicitly_introduced_on_show} route${person.explicitly_introduced_on_show === 1 ? '' : 's'} explicitly introduce ${person.name}.`
+      : 'No route in this archive currently has an explicit opening introduction for this person.';
+    return `<article class="presence-person">
+      <div class="presence-person-head"><h4>${esc(person.name)}</h4>${personKind(person)}</div>
+      <div class="presence-counts">
+        ${badge('On show', onShowDetail, 'onshow', person.explicitly_introduced_on_show)}
+        ${badge('Editorial context', `${person.editorial_context_routes} reviewed route${person.editorial_context_routes === 1 ? '' : 's'} name this person. A context reference does not establish presence.`, 'context', person.editorial_context_routes)}
+        ${badge('Voice match', 'No validated source-audio voice match is published for this person.', 'voice', person.voice_attributed)}
+      </div>
+      <details><summary>Inspect ${personRoutes.length} supporting route${personRoutes.length === 1 ? '' : 's'}</summary>
+        <ul class="presence-routes">${routes}</ul>
+      </details>
+    </article>`;
+  };
+  const featured = people.filter((person) => person.explicitly_introduced_on_show > 0 || person.name === 'Anthony Bourdain')
+    .sort((a, b) => b.explicitly_introduced_on_show - a.explicitly_introduced_on_show || a.name.localeCompare(b.name));
   box.innerHTML = `
-    <h3 class="skind">On-show presence is not a name mention</h3>
-    <p class="same">${esc(survey.distinction || '')}</p>
-    ${asa ? `<p class="same"><b>Asa Akira:</b> ${asa.explicitly_introduced_on_show} routes explicitly introduce her as on-show; ${asa.voice_attributed} routes currently have a validated voice attribution. The first number is a defensible floor, not a claim that she spoke in only those recordings.</p>` : ''}
-    <h3 class="skind">Explicit on-show introductions</h3>
-    <table class="ctab"><thead><tr><th>Person</th><th class="num">On-show</th><th class="num">Voice-attributed</th></tr></thead>
-      <tbody>${personRows}</tbody></table>
-    ${asaRoutes ? `<h3 class="skind">Asa’s explicit-introduction routes</h3><p class="subjeps">${asaRoutes}</p>` : ''}`;
+    <section class="presence-lede">
+      <p class="analysis-kicker">Evidence, not a guess</p>
+      <h3 class="skind">Being named is different from being on the show</h3>
+      <p>${esc(survey.distinction || '')}</p>
+      ${asa ? `<p><b>Asa Akira:</b> ${asa.explicitly_introduced_on_show} routes explicitly introduce her as on-show; ${asa.voice_attributed} have a validated voice attribution. The first number is a defensible floor, not a claim that she spoke in only those recordings.</p>` : ''}
+    </section>
+    <section class="presence-key" aria-labelledby="presenceKeyTitle">
+      <h3 id="presenceKeyTitle" class="analysis-heading">Hover or focus a label to see why it is there</h3>
+      <div class="presence-key-grid">
+        <p>${badge('Recurring on-show', 'Multiple explicit opening introductions. This is the archive’s strongest current participant category; it does not assign individual lines.', 'onshow')}<span>Repeated explicit openings identify a regular participant.</span></p>
+        <p>${badge('On show', 'An explicit opening introduction or publisher title identifies a participant on this specific recording.', 'onshow')}<span>Evidence for this episode, not a recurring-role assumption.</span></p>
+        <p>${badge('Context mention', 'A reviewed summary, chapter, or people list refers to someone. This does not establish presence or speech.', 'context')}<span>A person can matter to the conversation without being in the room.</span></p>
+        <p>${badge('Voice match', 'Only a validated comparison against source audio can assign an individual voice. None are published here yet.', 'voice')}<span>No name is inferred from text alone.</span></p>
+      </div>
+    </section>
+    ${bourdain ? `<section class="presence-example">
+      <p class="analysis-kicker">The Bourdain check</p>
+      <h3 class="skind">A reference is not a guest credit</h3>
+      <p><b>Anthony Bourdain</b> has ${bourdain.editorial_context_routes} reviewed route references and ${bourdain.explicitly_introduced_on_show} explicit on-show introductions. His route chips therefore stay <span class="inline-badge">Context mention</span> unless a route provides actual presence evidence.</p>
+      <details><summary>Inspect Bourdain’s route context</summary><ul class="presence-routes">${(routesByPerson.get(bourdain.name) || []).map((route) => `<li><a href="#/${esc(route.id)}">${esc(route.title)}</a><span class="route-evidence">${route.evidence.map(routeEvidence).join('')}</span></li>`).join('')}</ul></details>
+    </section>` : ''}
+    <section class="presence-browser" aria-labelledby="presenceBrowseTitle">
+      <div><p class="analysis-kicker">Person evidence</p><h3 id="presenceBrowseTitle" class="skind">Find a person, then inspect the routes</h3></div>
+      <label class="vh" for="presencePeopleSearch">Find a person in reviewed editorial</label>
+      <input id="presencePeopleSearch" type="search" placeholder="Search people, e.g. Bourdain" autocomplete="off">
+      <p id="presencePeopleHint" class="same">Showing regular participants plus the Bourdain context example. Search reveals any named person.</p>
+      <div id="presencePeople" class="presence-people">${featured.map(personCard).join('')}</div>
+    </section>`;
+  const search = $('presencePeopleSearch');
+  const results = $('presencePeople');
+  const hint = $('presencePeopleHint');
+  const renderPeople = () => {
+    const query = search.value.trim().toLowerCase();
+    const matching = query ? people.filter((person) => person.name.toLowerCase().includes(query)) : featured;
+    hint.textContent = query
+      ? `${matching.length} person${matching.length === 1 ? '' : 's'} match “${search.value.trim()}”.`
+      : 'Showing regular participants plus the Bourdain context example. Search reveals any named person.';
+    results.innerHTML = matching.length ? matching.map(personCard).join('') : '<p class="empty">No reviewed person name matches that search.</p>';
+  };
+  search.addEventListener('input', renderPeople);
 }
 
 /* Works this archive links but will not transcribe. Stated plainly, because an
@@ -1232,7 +1312,7 @@ function route() {
   if (raw === 'presence') {
     $('hub').hidden = true; $('browse').hidden = true; $('reader').hidden = false;
     $('rtitle').textContent = 'On-show presence & speaker evidence';
-    $('rmeta').textContent = 'A route-level record that separates people named in a transcript from people explicitly introduced on the recording, and from voices validated against source audio.';
+    $('rmeta').textContent = 'A route-level record that separates people named in reviewed route context from people explicitly introduced on the recording, and from voices validated against source audio.';
     $('prov').textContent = 'Presence evidence is attached to each route. Voice identity remains unassigned until a source-audio comparison passes validation.';
     $('rlink').hidden = true; $('modes').hidden = true; $('fq').hidden = true;
     $('editorial').innerHTML = '';

@@ -529,6 +529,60 @@ mark { background: var(--mark); color: inherit; }
 .ctab td:first-child { color: var(--ink); }
 .ctab .num { text-align: right; font-variant-numeric: tabular-nums; }
 
+/* Presence evidence uses compact chips rather than a giant route dump. The
+   explanation appears on hover and keyboard focus; details remains the tap
+   affordance on touch screens. */
+.presence-lede { border-bottom: 1px solid var(--line); padding-bottom: var(--s5); }
+.presence-lede > p:last-child { margin-bottom: 0; }
+.presence-key, .presence-example, .presence-browser { padding: var(--s6) 0; border-bottom: 1px solid var(--line); }
+.presence-key-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s4); }
+.presence-key-grid p { margin: 0; min-width: 0; }
+.presence-key-grid p > span:last-child { display: block; color: var(--dim); font: 13px/1.45 var(--serif); margin-top: var(--s2); }
+.evidence-badge {
+  --badge-bg: #eaf3ec; --badge-fg: #27563a; --badge-line: #cfe3d4;
+  display: inline-flex; align-items: baseline; gap: .36em; position: relative;
+  width: max-content; max-width: 100%; padding: 3px 6px; border: 1px solid var(--badge-line);
+  border-radius: 999px; background: var(--badge-bg); color: var(--badge-fg);
+  font: 600 10px/1.35 var(--sans); letter-spacing: .04em; text-transform: uppercase;
+  cursor: help;
+}
+.evidence-badge b { font: 700 11px/1 var(--sans); letter-spacing: 0; }
+.evidence-badge.context { --badge-bg: #f6f1e8; --badge-fg: #715d2d; --badge-line: #e7dbc0; }
+.evidence-badge.voice { --badge-bg: #f2f2f2; --badge-fg: #656565; --badge-line: #dfdfdf; }
+.evidence-badge::after {
+  content: attr(data-tooltip); display: block; position: absolute; z-index: 5; left: 0; bottom: calc(100% + 8px);
+  width: min(20rem, 75vw); padding: var(--s3); border: 1px solid var(--line); border-radius: 5px;
+  background: var(--fg); color: var(--bg); box-shadow: 0 5px 18px rgb(0 0 0 / .15);
+  font: 400 12px/1.45 var(--sans); letter-spacing: 0; text-transform: none;
+  opacity: 0; pointer-events: none; transform: translateY(3px); transition: opacity 120ms ease, transform 120ms ease;
+}
+.evidence-badge:hover::after, .evidence-badge:focus-visible::after { opacity: 1; transform: translateY(0); }
+.evidence-badge:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.inline-badge { display: inline-block; padding: 1px 5px; border: 1px solid #e7dbc0; border-radius: 999px; color: #715d2d; background: #f6f1e8; font: 600 10px/1.3 var(--sans); letter-spacing: .04em; text-transform: uppercase; }
+.presence-example { background: linear-gradient(90deg, var(--hair), transparent 80%); padding-left: var(--s4); padding-right: var(--s4); }
+.presence-browser > div:first-child { margin-bottom: var(--s4); }
+.presence-browser input { margin-bottom: var(--s3); }
+.presence-people { display: grid; gap: var(--s3); }
+.presence-person { border: 1px solid var(--line); border-radius: 6px; padding: var(--s4); }
+.presence-person-head { display: flex; gap: var(--s3); align-items: center; justify-content: space-between; }
+.presence-person h4 { margin: 0; font: 500 16px/1.3 var(--sans); }
+.presence-counts, .route-evidence { display: flex; flex-wrap: wrap; gap: var(--s2); align-items: center; }
+.presence-counts { margin: var(--s3) 0; }
+.presence-person details, .presence-example details { border-top: 1px solid var(--hair); padding-top: var(--s3); }
+.presence-person summary, .presence-example summary { color: var(--dim); cursor: pointer; font-size: 12px; }
+.presence-routes { list-style: none; margin: var(--s3) 0 0; padding: 0; }
+.presence-routes li { display: flex; justify-content: space-between; align-items: start; gap: var(--s3); padding: var(--s3) 0; border-top: 1px solid var(--hair); font-size: 13px; }
+.presence-routes li > a { min-width: 0; }
+.route-evidence { justify-content: end; flex: 0 1 auto; }
+
+@media (max-width: 560px) {
+  .presence-key-grid { grid-template-columns: 1fr; }
+  .presence-person-head { align-items: start; flex-direction: column; gap: var(--s2); }
+  .presence-routes li { flex-direction: column; gap: var(--s2); }
+  .route-evidence { justify-content: start; }
+  .evidence-badge::after { left: auto; right: 0; }
+}
+
 /* A divergence read side by side: the differing value large, and marked inside
    the quote so the eye lands on the evidence rather than hunting for it. */
 .dvcols { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
